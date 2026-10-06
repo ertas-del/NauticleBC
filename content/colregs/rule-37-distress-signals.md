@@ -3,7 +3,7 @@ id: colregs.rule-37.distress-signals
 title: "Rule 37: Distress signals"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 37
+order: 370
 summary: Rule 37 is one sentence. A vessel in distress that needs assistance uses or shows the signals in Annex IV. Know when it applies, where the list lives, and that the signals must never be used for anything else.
 objectives:
   - State the two conditions in Rule 37 (in distress, and requires assistance).

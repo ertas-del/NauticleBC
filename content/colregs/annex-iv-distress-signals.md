@@ -3,7 +3,7 @@ id: colregs.annex-iv.distress-signals
 title: "Annex IV: Distress signals"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 40
+order: 440
 summary: The Annex IV list of distress signals, from gunfire and continuous fog signals to MAYDAY, DSC alerts and EPIRBs, plus the aids for spotting from the air and the Canadian flashing white light. Learn to recognise each one.
 objectives:
   - Recognise the visual, sound and radio distress signals listed in Annex IV.

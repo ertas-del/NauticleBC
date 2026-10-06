@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.annex-ii.q01",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night a 25 m trawler working near other trawlers shows green over white, and below them two white lights in a vertical line. What is she doing?",
+      "options": [
+        "Hauling her nets",
+        "Shooting her nets",
+        "Her net is fast on an obstruction",
+        "She is at anchor and not fishing"
+      ],
+      "correct_index": 1,
+      "explanation": "Under Annex II, a trawler of 20 m or more shows two white lights in a vertical line when shooting her nets. White over red means hauling, and two red means the net is fast on an obstruction. The green over white above shows she is engaged in trawling, not anchored.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q02",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are skipper of a 16 m trawler fishing close to several other trawlers. What does Annex II say about the shooting, hauling and fast-gear lights for your vessel?",
+      "options": [
+        "You must show them because you are fishing in close proximity",
+        "You may show them, but you are not required to because you are under 20 m",
+        "You may not show them; they are only for vessels of 50 m or more",
+        "You show them instead of your green over white lights"
+      ],
+      "correct_index": 1,
+      "explanation": "The trawler signals are required for vessels of 20 m or more. A trawler under 20 m may show them. They are always in addition to, and below, the Rule 26 lights, never instead of them. The 50 m figure is the Rule 26 masthead light concession, not an Annex II limit.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q03",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which statement about the placement and range of the Annex II lights is correct?",
+      "options": [
+        "They are above the Rule 26 lights and visible at least 3 miles",
+        "They are at least 0.9 m apart, lower than the Rule 26 all-round lights, and visible all round at least 1 mile but less far than the Rule 26 lights",
+        "They are at least 2 m apart and must be as bright as the Rule 26 lights",
+        "They are shown only over the stern arc, like a sternlight"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex II places the extra lights where they can best be seen, at least 0.9 m apart, at a lower level than the Rule 26 all-round fishing lights, visible all round the horizon at least 1 mile but at a lesser distance than the main fishing lights. That keeps the main fishing lights dominant.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q04",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "At night you see a vessel showing red over white all-round lights with two yellow lights in a vertical line below, flashing alternately about once a second. What is the most likely meaning?",
+      "options": [
+        "A hovercraft operating in the non-displacement mode",
+        "A purse seiner hampered by her fishing gear",
+        "A vessel towing alongside",
+        "A trawler whose net is fast on an obstruction"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex II lets a purse seiner show two yellow lights in a vertical line flashing alternately every second, with equal light and dark periods, only when she is hampered by her gear. The red over white identifies fishing other than trawling. An air-cushion vessel shows a single all-round flashing yellow light, and a trawler with fast gear shows two red under green over white.",
+      "source_ids": ["annexes-crc1416-xml", "lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q05",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Two 30 m trawlers are pair trawling in Canadian waters. Which combination of signals is correct?",
+      "options": [
+        "By night each shines a searchlight forward and towards the other vessel; by day each flies flag \"T\" at the foremast",
+        "By night they show one searchlight between them pointed astern at the net; by day they fly flag \"B\"",
+        "By night they show only the Rule 26 lights; by day each hoists a black ball",
+        "By night each shows two yellow flashing lights; by day each flies flag \"A\""
+      ],
+      "correct_index": 0,
+      "explanation": "Annex II requires each pair trawler of 20 m or more to shine a searchlight forward and in the direction of the other vessel at night, plus the trawler lights when shooting, hauling or fast. The Canadian modification adds flag \"T\" at the foremast by day in Canadian waters and fishing zones. Flag B is the Canadian dangerous goods signal, and the yellow lights belong to purse seiners.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q06",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In clear weather on a Canadian fishing ground, a trawler sounds one short, two prolonged and one short blast. What does the Canadian modification to Annex II say she is telling you?",
+      "options": [
+        "She is hauling her net",
+        "She is shooting her net",
+        "Her net or gear is fast on an obstruction",
+        "She agrees to be overtaken"
+      ],
+      "correct_index": 2,
+      "explanation": "In Canadian waters and fishing zones, in any visibility: two prolonged and two short = shooting; two prolonged and one short = hauling; one short, two prolonged, one short = gear fast on an obstruction. The narrow channel agreement signal under Rule 34(c) is prolonged, short, prolonged, short, a different order.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-ii.q07",
+      "lesson_id": "colregs.annex-ii.fishing-close-proximity",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In fog in Canadian waters you hear one prolonged and two short blasts from a vessel ahead, and about five seconds later two prolonged and one short. What is the best reading?",
+      "options": [
+        "A vessel intends to overtake you on your starboard side in a narrow channel",
+        "A vessel engaged in trawling or purse seining is hauling her net or gear",
+        "A towed vessel is answering her tug",
+        "A power-driven vessel has stopped and is making no way"
+      ],
+      "correct_index": 1,
+      "explanation": "One prolonged and two short is the Rule 35(c) fog signal, which covers a vessel engaged in fishing. Under the Canadian modification to Annex II, in or near restricted visibility the fishing signal follows 4 to 6 seconds after it, and two prolonged and one short means hauling. The overtaking signal is only used by vessels in sight of each other, a manned towed vessel sounds one prolonged and three short, and a stopped power-driven vessel sounds two prolonged.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

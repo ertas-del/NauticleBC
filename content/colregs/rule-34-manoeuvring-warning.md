@@ -3,7 +3,7 @@ id: colregs.rule-34.manoeuvring-warning
 title: "Rule 34: Manoeuvring and warning signals"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 34
+order: 340
 summary: The signals vessels in sight of each other use. One, two or three short blasts for starboard, port and astern; the narrow-channel overtaking exchange; five short for doubt; one prolonged at a bend; and the Canadian dock and radiotelephone paragraphs.
 objectives:
   - Give the meaning of one, two and three short blasts and say when they are used.

@@ -3,7 +3,7 @@ id: colregs.rule-12.sailing-vessels
 title: "Rule 12: Sailing vessels"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 12
+order: 120
 summary: Rule 12 decides which of two sailing vessels keeps out of the way. Port tack gives way to starboard tack; on the same tack, windward gives way to leeward; if a port-tack boat cannot tell the tack of a boat to windward, she keeps clear.
 objectives:
   - Identify the tack of a sailing vessel from the side her mainsail is carried on.

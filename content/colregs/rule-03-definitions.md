@@ -3,7 +3,7 @@ id: colregs.rule-03.definitions
 title: "Rule 3: General definitions"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 3
+order: 30
 summary: The terms the rest of the Rules depend on, such as power-driven, sailing, fishing, not under command, restricted in ability to manoeuvre, underway, in sight and restricted visibility, and why precise meaning matters.
 objectives:
   - Define the vessel categories the Rules use and tell them apart in practice.

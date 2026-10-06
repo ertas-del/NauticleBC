@@ -3,7 +3,7 @@ id: colregs.rule-15.crossing
 title: "Rule 15: Crossing situation"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 15
+order: 150
 summary: When two power-driven vessels cross with risk of collision, the one with the other on her starboard side keeps out of the way and avoids crossing ahead. Canada adds a river rule - a vessel crossing a river keeps clear of power-driven vessels going up or down it.
 objectives:
   - Identify the give-way vessel in a crossing situation between two power-driven vessels.

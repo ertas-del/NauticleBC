@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "id": "annexes-crc1416-xml",
+      "title": "Collision Regulations, C.R.C., c. 1416 (consolidated XML, Schedule 1 Part F Rules 39 to 46 and Annexes I, II, III and IV)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.%2C_c._1416.xml",
+      "edition": "Consolidation current to 2025-07-24, last amended 2023-06-07; repository commit b7292cf (2026-09-28); read 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Same official XML file as lights-crc1416-xml, read again for the annexes lane. The full text of Part F (Rules 39 to 46) and Annexes I, II, III and IV, including every Canadian modification, plus the section 2 definitions (ODAS, exploration or exploitation vessel) and Rules 26, 32, 33, 34 and 35 for cross-reference, was read word for word as plain text extracted from the XML in a local clone of the Justice Canada repository (raw.githubusercontent.com and Justice Laws were not reachable from the session). The repository is released under the Open Government Licence - Canada (LICENSE.md seen). This is not the official version of the law; lessons paraphrase it. The Canadian Part F is 'Additional Canadian Provisions' (dangerous goods, radar reflectors, transponders, exploration vessels, safety zones, ODAS, blue flashing light, alternate lights); it is not the IMO Part F on verification of compliance, which is not in the Canadian Schedule 1. Annex III paragraph 1(m) says the audibility-range column of the whistle table and its notes are not part of the Regulations. The Annex I shapes concession for vessels under 20 m gives no numbers; any figures for smaller shapes would come from TP 1861, which was not read. Before release, check the live Justice Laws consolidation for amendments after 2025-07-24."
+    }
+  ]
+}

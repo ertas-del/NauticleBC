@@ -3,7 +3,7 @@ id: colregs.rule-21.light-definitions
 title: "Rule 21: Definitions of the lights"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 21
+order: 210
 summary: The six international light types and their arcs (masthead 225, sidelights 112.5 each, sternlight 135, towing light, all-round 360, flashing 120 per minute or more), plus the two Canadian lights, and why the arcs tell you a vessel's aspect.
 objectives:
   - Define masthead light, sidelights, sternlight, towing light, all-round light and flashing light.
