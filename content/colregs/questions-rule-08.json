@@ -1,0 +1,107 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-08.q01",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "When you alter course or speed to avoid a collision, how large should the alteration be?",
+      "options": [
+        "As small as possible, so you stay close to your planned track",
+        "Large enough for the other vessel to notice it, by eye or on radar",
+        "Exactly 10 degrees, as set out in the rule",
+        "Large enough to be seen by your own crew on the plotter"
+      ],
+      "correct_index": 1,
+      "explanation": "The point of an avoiding action is that the other vessel can read it. The rule gives no fixed number of degrees, so the 10 degree option is wrong. What counts is how it looks from the other vessel, not on your own screen. Small alterations to protect a track defeat the purpose.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q02",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "You are the give-way vessel and the range is closing. Which approach best matches Rule 8?",
+      "options": [
+        "A series of small course changes, so you can watch how the other vessel responds",
+        "Wait until the vessels are very close, then make one large emergency turn",
+        "One early, clear alteration, then check that it is working",
+        "Hold your course and speed until the other vessel has acted"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 8 asks for action that is positive and early, and discourages a succession of small alterations. Waiting until the last moment leaves little room to act, and holding on is the stand-on vessel's role, not the give-way vessel's.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q03",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "With plenty of sea room, an alteration of course alone can be a very effective avoiding action. Which set of conditions does Rule 8 attach to that?",
+      "options": [
+        "It must be made in good time, be substantial, and not create another close-quarters situation",
+        "It must always be to starboard, be at least 30 degrees, and be logged",
+        "It must be combined with a speed reduction and a sound signal",
+        "It must only be made once the other vessel has altered first"
+      ],
+      "correct_index": 0,
+      "explanation": "The rule says a course change alone may be the best action provided it is timely, substantial and does not set up a new close-quarters situation. It does not fix a direction or a number of degrees, and it does not require a speed change, a signal or waiting for the other vessel.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q04",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You have altered course and the other vessel now appears to be passing clear. For how long should you keep checking that your action is effective?",
+      "options": [
+        "Until the bearing has changed by a few degrees",
+        "Until the other vessel has sounded a signal",
+        "Until the other vessel is finally past and clear",
+        "Until the next scheduled position fix"
+      ],
+      "correct_index": 2,
+      "explanation": "The rule says to keep checking the effectiveness of the action until the other vessel is finally past and clear. A bearing starting to change, or a convenient time on the watch, is not the test, and the other vessel is not required to make any signal.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q05",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You are the give-way vessel in a narrow inlet. The other vessel is closing, there is a rocky shore close on the side you would like to turn towards, and a third vessel is astern of you. Which action is most consistent with Rule 8?",
+      "options": [
+        "Make a series of 5 degree turns towards the rocks to avoid the third vessel",
+        "Maintain course and speed because there is not enough room to alter",
+        "Slow down, or stop and reverse if needed, in good time to give yourself room to pass the other vessel safely",
+        "Sound five short blasts and hold your course and speed"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 8 expressly allows a vessel to reduce speed or take way off when more time is needed, which is the natural tool when sea room is limited. Small turns are discouraged and here would also lead towards danger. A give-way vessel does not simply hold on, and the doubt signal does not replace taking action.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q06",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A vessel that the rules say must not impede the passage of another vessel finds itself approaching that vessel so that risk of collision exists. Which statement is correct?",
+      "options": [
+        "Its duty not to impede ends once risk of collision exists",
+        "It must still act early to leave sea room, with full regard to what the other rules require",
+        "It should wait for the other vessel to act first, since the other vessel has priority",
+        "It is only required to sound a warning signal"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 8 says that a vessel required not to impede is not relieved of that duty by getting close, and must take early action and have full regard to the other rules. Waiting, or sounding a signal alone, does not meet that. The other vessel also stays bound by the rules and must not take its priority as an excuse to stop looking.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

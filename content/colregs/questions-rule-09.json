@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-09.q01",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A vessel is proceeding along a narrow channel. Which side should she keep to?",
+      "options": [
+        "The centre of the channel, to keep away from both edges",
+        "The outer limit that lies on her port side",
+        "The outer limit that lies on her starboard side, as far as is safe and practicable",
+        "Whichever side has the deeper water, regardless of other traffic"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 9 asks for the outer limit on the vessel's starboard side, as near as is safe and practicable. Staying in the centre or on the port side goes against that, and choosing the deeper side is only acceptable where it is not safe or practicable to keep to starboard.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q02",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which of these must not impede a vessel that can safely navigate only within a narrow channel?",
+      "options": [
+        "A 12 metre power-driven vessel",
+        "Only a vessel over 50 metres",
+        "Only a vessel anchored in the channel",
+        "Only a vessel that is not showing lights"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 9 names vessels under 20 metres, sailing vessels and vessels engaged in fishing as ones that must not impede such a vessel. A 12 metre vessel is under 20 metres. The other options are not how the rule picks out the vessels it covers.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q03",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are in a 9 metre power vessel and want to cross a dredged channel. A deep-draught ship is approaching along it and can only navigate safely inside the channel. What does Rule 9 say about your crossing?",
+      "options": [
+        "You may cross, because the ship is the give-way vessel when you are on her starboard side",
+        "You must not cross if doing so would impede the ship",
+        "You may cross if you sound one prolonged blast first",
+        "You may cross provided you reduce speed"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel must not cross a narrow channel if that crossing would impede a vessel that can safely navigate only within it. A sound signal or slower speed does not remove that duty. Which vessel is on whose starboard side does not override this part of Rule 9. The ship may sound the doubt signal if unsure of your intentions.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q04",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are approaching a sharp bend in a narrow channel where other vessels may be hidden by the land. What does Rule 9 ask of you?",
+      "options": [
+        "Increase speed so you clear the bend quickly",
+        "Navigate with particular alertness and caution, and sound the appropriate bend signal",
+        "Stop and anchor until the channel is clear",
+        "Move to the middle of the channel so you can be seen"
+      ],
+      "correct_index": 1,
+      "explanation": "The rule asks for particular alertness and caution, and for the appropriate Rule 34 signal for a bend. Speeding up reduces your time to react, anchoring in a narrow channel is discouraged, and moving to the middle conflicts with keeping to the starboard side where safe and practicable.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q05",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In the Canadian waters of a narrow tidal channel, two power-driven vessels are meeting head-on so that risk of collision exists. Vessel A is going with the tidal stream. Vessel B is going against it. Under the Canadian addition to Rule 9, what applies?",
+      "options": [
+        "Both alter course to starboard, as in the usual head-on situation",
+        "A is the stand-on vessel and proposes the place of passage. B keeps out of the way and holds as necessary",
+        "B is the stand-on vessel because it has less speed over the ground",
+        "Neither is stand-on, and the one with the larger size gives way"
+      ],
+      "correct_index": 1,
+      "explanation": "The Canadian provision makes the vessel going with the current or tidal stream the stand-on vessel, which proposes the place of passage using the appropriate signal. The vessel going against it keeps out of the way and holds as necessary. The usual both-to-starboard head-on arrangement is changed in these circumstances, and size is not the test.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q06",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In a narrow channel you intend to overtake a slower vessel and have sounded the overtaking signal. The slower vessel replies with the agreement signal and eases over. Which statement is correct?",
+      "options": [
+        "You are now the stand-on vessel and the slower vessel must keep clear of you",
+        "The agreement signal means the overtaking rules no longer apply",
+        "You remain the overtaking vessel and must keep clear until you are finally past and clear",
+        "You may pass on either side without further signals"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 9 says the overtaking arrangements in a narrow channel do not relieve the overtaking vessel of its Rule 13 duty to keep clear. The agreement signal helps the passing to be safe but does not change which vessel is overtaking. You should also pass on the side you signalled.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q07",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A barge is being moored in the Canadian waters of a narrow channel at a spot where it would block part of the fairway used by other vessels. What does the Canadian addition to Rule 9 say?",
+      "options": [
+        "It is allowed because barges are exempt from Rule 9",
+        "It is allowed if the barge shows an anchor light",
+        "It must not be navigated, moored or anchored so as to impede the safe passage of other vessels",
+        "It is allowed in daylight only"
+      ],
+      "correct_index": 2,
+      "explanation": "In Canadian waters a barge, or an inconspicuous, partly submerged vessel or object, must not be navigated, moored or anchored so as to impede the safe passage of other vessels. Lights or daylight do not remove that duty and barges are not exempt.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

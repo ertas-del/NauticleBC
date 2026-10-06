@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-10.q01",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A vessel is using a traffic separation scheme. Where should she be?",
+      "options": [
+        "In the separation zone, so she is clear of both lanes",
+        "In the appropriate traffic lane, proceeding in the general direction of traffic flow",
+        "In whichever lane has less traffic",
+        "In the inshore traffic zone, whatever her size"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel using a scheme goes in the appropriate lane in the direction of flow and keeps clear of the separation line or zone. The inshore zone is not open to every vessel, and choosing the emptier lane could mean heading the wrong way.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q02",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "You must cross a traffic lane. How should you do it?",
+      "options": [
+        "On a heading as nearly as practicable at right angles to the general direction of traffic flow",
+        "On a heading as nearly as practicable parallel to the lane, then edge across",
+        "At a shallow angle, so you spend less time crossing the separation zone",
+        "Wherever the lane looks busiest, so you can follow other traffic"
+      ],
+      "correct_index": 0,
+      "explanation": "The rule asks for a heading as nearly as practicable at right angles to the general direction of flow, which keeps the time spent in the lane short and makes your intentions clear. A shallow angle keeps you in the lane longer and is the opposite of what the rule intends.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q03",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are skipper of a 15 metre power vessel travelling along a coast with a traffic separation scheme offshore. There is an inshore traffic zone between the scheme and the shore, and you can safely use the adjacent lane. May you use the inshore traffic zone?",
+      "options": [
+        "No, only vessels engaged in fishing may use it",
+        "No, every vessel must use the lane if it safely can",
+        "Yes, vessels under 20 metres may use the inshore traffic zone",
+        "Yes, but only after calling the Coast Guard"
+      ],
+      "correct_index": 2,
+      "explanation": "The inshore traffic zone should not be used by a vessel that can safely use the lane, except vessels under 20 metres, sailing vessels and vessels engaged in fishing. A 15 metre vessel is under 20 metres. A call to the Coast Guard is not part of that rule.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q04",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which of these is a reason that allows a vessel to enter a separation zone or cross a separation line?",
+      "options": [
+        "To save time on a long passage",
+        "To avoid immediate danger, or to engage in fishing within the separation zone",
+        "To wait for a better tide before joining a lane",
+        "Because traffic in the lane is heavy"
+      ],
+      "correct_index": 1,
+      "explanation": "The rule allows entry to a separation zone, or crossing a separation line, in an emergency to avoid immediate danger, or to engage in fishing within the zone. Saving time, waiting for a tide and heavy traffic are not exceptions.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q05",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You command a 30 metre power-driven vessel. Under the Canadian addition to Rule 10, what applies to your use of a recommended traffic separation scheme that you could safely use for your passage, and what if you choose not to use it?",
+      "options": [
+        "You should use the scheme, and if you decide not to, there must be compelling reasons, and the reasons are recorded in the logbook",
+        "You may ignore the scheme, because only mandatory systems apply to your vessel",
+        "You should use the scheme, and no record is needed if you choose not to",
+        "You should use the scheme only if you are carrying dangerous cargo"
+      ],
+      "correct_index": 0,
+      "explanation": "In the Canadian text, a power-driven vessel of more than 20 metres is to use the scheme and associated routing system by which it can safely proceed to its destination, unless there are compelling reasons not to, which must be recorded in the logbook. The duty is not limited to mandatory systems or to dangerous cargo.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q06",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A fishing vessel is trolling in or near a routing system in Canadian waters. Which statement best describes the Canadian provision?",
+      "options": [
+        "She is exempt from every part of Rule 10",
+        "She is exempt from the lane-direction, crossing and keep-clear-of-schemes requirements, but must still not impede vessels following a lane",
+        "She is exempt only if she is under 12 metres",
+        "She has no exemption, because fishing vessels are covered by the international text only"
+      ],
+      "correct_index": 1,
+      "explanation": "The Canadian text excludes fishing vessels using nets, lines, trawls, trolling lines or other apparatus from three requirements: the lane direction, crossing and keeping clear of schemes not in use. It does not remove the duty not to impede a vessel following a traffic lane, and the other collision rules still apply.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q07",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are on a passage that does not use a traffic separation scheme, but your route passes near one. What does Rule 10 ask of you?",
+      "options": [
+        "Keep clear of it by as wide a margin as is practicable",
+        "Follow the nearest lane for as long as you can",
+        "Pass through the separation zone to stay out of the lanes",
+        "Anchor near the end of the scheme until traffic has cleared"
+      ],
+      "correct_index": 0,
+      "explanation": "A vessel not using a scheme should avoid it by as wide a margin as practicable. Following a lane would make you a vessel using the scheme, entering the separation zone is only for specific reasons, and anchoring in or near a scheme's ends is to be avoided.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
