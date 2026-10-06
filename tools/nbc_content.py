@@ -96,14 +96,15 @@ def load_content() -> Content:
     v_mock = _validator("mock-exam", registry)
     modules = set(json.loads((SCHEMA_DIR / "common.schema.json").read_text())["$defs"]["module"]["enum"])
 
-    # Sources
-    src_path = CONTENT_DIR / "sources.json"
-    data = _load_json(src_path, r)
-    if data is not None and _validate(v_source, data, _rel(src_path), r):
-        for s in data["sources"]:
-            if s["id"] in c.sources:
-                r.error(_rel(src_path), f"duplicate source id {s['id']}")
-            c.sources[s["id"]] = s
+    # Sources: content/sources.json plus any content/sources/*.json (one file per lane avoids merge conflicts)
+    src_paths = [CONTENT_DIR / "sources.json", *sorted((CONTENT_DIR / "sources").glob("*.json"))]
+    for src_path in src_paths:
+        data = _load_json(src_path, r)
+        if data is not None and _validate(v_source, data, _rel(src_path), r):
+            for s in data["sources"]:
+                if s["id"] in c.sources:
+                    r.error(_rel(src_path), f"duplicate source id {s['id']}")
+                c.sources[s["id"]] = s
 
     # Lessons
     for path in sorted(CONTENT_DIR.rglob("*.md")):

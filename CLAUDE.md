@@ -10,7 +10,7 @@ Content is plain data files so iOS can reuse it later and so content can be writ
 |---|---|---|
 | `app/` | Android app (Kotlin, Compose) | Foundation |
 | `schemas/` | JSON Schemas for all content types. **Changing these needs its own PR.** | Foundation |
-| `content/` | Lessons (`.md` with YAML frontmatter), questions/scenarios (`.json`), `sources.json` | Content lanes |
+| `content/` | Lessons (`.md` with YAML frontmatter), questions/scenarios (`.json`), `sources.json` and `sources/<lane>.json` | Content lanes |
 | `tools/` | Content lint, bundle builder, later the TTS renderer | Content engine |
 | `docs/` | Plan pointer, licence checklist, source registry notes, workflow | Anyone |
 | `.github/workflows/` | CI | Foundation |
@@ -26,7 +26,7 @@ Content is plain data files so iOS can reuse it later and so content can be writ
 
 ## Content rules (non-negotiable)
 
-- **Every factual or regulatory claim cites a source ID** from `content/sources.json` (`source_ids`). No source, no claim.
+- **Every factual or regulatory claim cites a source ID** (`source_ids`) defined in `content/sources.json` or in `content/sources/*.json`. No source, no claim. New sources go in your own file `content/sources/<lane>.json` (`{"sources": [...]}`), never in `sources.json`, so parallel PRs do not conflict. Source ids must be unique across all files.
 - **Write in your own words.** Never paste text from textbooks, provider courses, exam banks, or Transport Canada documents unless the source entry says reproduction is permitted, and then keep it to short quotes with attribution.
 - Anything regulatory (rule numbers, thresholds, distances, light specifications, exam requirements) is `review_status: needs_expert_review` until a certified master/examiner signs off. Only a human reviewer may set `expert_reviewed`, and they record who and when in `reviewed_by` / `reviewed_on`.
 - Questions are original. Do not recreate or paraphrase actual Transport Canada exam questions.
