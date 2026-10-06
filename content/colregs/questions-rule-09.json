@@ -31,7 +31,7 @@
         "Only a vessel that is not showing lights"
       ],
       "correct_index": 0,
-      "explanation": "Rule 9 names vessels under 20 metres, sailing vessels and vessels engaged in fishing as ones that must not impede such a vessel. A 12 metre vessel is under 20 metres. The other options are not how the rule picks out the vessels it covers.",
+      "explanation": "Rule 9 says a vessel under 20 metres or a sailing vessel must not impede a vessel that can safely navigate only within the channel. A 12 metre vessel is under 20 metres. (A vessel engaged in fishing has a separate, wider duty not to impede any other vessel navigating within the channel.) The other options are not how the rule picks out the vessels it covers.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
     },
@@ -117,6 +117,40 @@
       ],
       "correct_index": 2,
       "explanation": "In Canadian waters a barge, or an inconspicuous, partly submerged vessel or object, must not be navigated, moored or anchored so as to impede the safe passage of other vessels. Lights or daylight do not remove that duty and barges are not exempt.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q08",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A vessel engaged in fishing is working in a narrow fairway. A 15 metre power-driven vessel comes along the fairway; she is not limited to the fairway by her draught. What does Rule 9 say about the fishing vessel?",
+      "options": [
+        "She must not impede the passage of any other vessel navigating within the fairway, including this one",
+        "She need only keep clear of vessels that can safely navigate only within the fairway",
+        "She has right of way over every vessel in the fairway because she is fishing",
+        "She has no duty, because the other vessel is under 20 metres"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 9 says a vessel engaged in fishing must not impede the passage of any other vessel navigating within a narrow channel or fairway. That is wider than the duty on vessels under 20 metres and sailing vessels, which is owed only to vessels that can safely navigate only within the channel. Fishing does not give a general right of way here, and the other vessel's length does not remove the fishing vessel's duty.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-09.q09",
+      "lesson_id": "colregs.rule-09.narrow-channels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What does Rule 9 say about anchoring in a narrow channel?",
+      "options": [
+        "Anchoring is allowed anywhere in the channel if an anchor light is shown",
+        "If the circumstances admit, a vessel should avoid anchoring in a narrow channel",
+        "Anchoring is allowed only on the port side of the channel",
+        "Anchoring is required whenever visibility drops"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 9 says every vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel. An anchored vessel narrows the water that other traffic needs. Showing an anchor light does not remove the duty, and the rule names no side for anchoring and no duty to anchor in poor visibility.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
     }

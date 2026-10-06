@@ -85,6 +85,23 @@
       "explanation": "Rule 1 allows extra station or signal lights, shapes or whistle signals for fishing vessels working as a fleet, but they must be such that they cannot be mistaken for any signal authorised elsewhere in the Rules. A light that looks like a not-under-command signal fails that test. Fleets of fishing vessels are specifically listed, not only warships.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-01.q06",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Under Rule 1, which body may adopt traffic separation schemes for the purpose of the Rules?",
+      "options": [
+        "The International Maritime Organization (IMO)",
+        "Any harbour authority, without further approval",
+        "The master of the largest vessel in the area",
+        "A fishing fleet working in the area"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 1 says traffic separation schemes may be adopted by the Organization, meaning the IMO, for the purpose of the Rules. Harbour authorities may make special local rules, but that is a different paragraph, and neither masters nor fishing fleets adopt schemes. Rule 10 covers how to behave in a scheme, and the Canadian text extends parts of it to some other schemes in Canadian waters.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

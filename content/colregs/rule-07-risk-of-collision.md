@@ -10,6 +10,13 @@ objectives:
   - Explain why a steady compass bearing on an approaching vessel is a warning sign, and when risk can exist even though the bearing changes.
   - Describe proper radar use and why assumptions from scanty information are discouraged.
 estimated_minutes: 11
+key_facts:
+  - Every vessel must use all available means appropriate to the conditions to decide whether risk of collision exists.
+  - If there is any doubt, risk of collision is deemed to exist.
+  - Proper use of operational radar includes long-range scanning for early warning and radar plotting or equivalent systematic observation of detected objects.
+  - Do not make assumptions on the basis of scanty information, especially scanty radar information.
+  - If the compass bearing of an approaching vessel does not appreciably change, risk of collision is deemed to exist.
+  - Risk may exist even when the bearing changes appreciably, particularly when approaching a very large vessel, a tow, or any vessel at close range.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -20,13 +27,13 @@ review_status: needs_expert_review
 
 Rule 7 is about **deciding whether there is a risk of collision**. It asks you to:
 
-- use **all available means** suited to the conditions to decide whether risk exists. Rule 5 builds the lookout; this rule is about what you do with the picture;
-- if there is **any doubt**, treat the risk as **existing**;
-- use **radar properly** if it is fitted and working. That includes **long-range scanning** to get early warning, and **radar plotting or an equivalent systematic observation** of the objects you detect;
-- **not make assumptions** from **scanty information**, especially scanty radar information;
-- watch the **compass bearing** of an approaching vessel. If it **does not appreciably change**, risk is to be deemed to exist.
+- use ==all available means== suited to the conditions to decide whether risk exists. Rule 5 builds the lookout; this rule is about what you do with the picture;
+- if there is ==any doubt==, treat the risk as ==existing==;
+- use **radar properly** if it is fitted and working. That includes ==long-range scanning== to get early warning, and ==radar plotting or an equivalent systematic observation== of the objects you detect;
+- **not make assumptions** from ==scanty information==, especially scanty radar information;
+- watch the ==compass bearing== of an approaching vessel. If it ==does not appreciably change==, risk is to be deemed to exist.
 
-The rule also notes that risk **may sometimes exist even when the bearing does change appreciably**, in particular when you approach a **very large vessel**, a **tow**, or **any vessel at close range**.
+The rule also notes that risk **may sometimes exist even when the bearing does change appreciably**, in particular when you approach a ==very large vessel==, a ==tow==, or ==any vessel at close range==.
 
 ## Plain-language explanation
 

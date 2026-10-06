@@ -102,6 +102,40 @@
       "explanation": "The definition applies only to a power-driven vessel, and the key is that the draught relative to the available water severely limits her ability to deviate. A vessel aground is a different situation, and work-related limits belong to restricted in her ability to manoeuvre.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q07",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A small cargo vessel loses her steering gear in open water and cannot keep out of the way of other vessels. Under Rule 3, which category fits her best?",
+      "options": [
+        "A vessel restricted in her ability to manoeuvre",
+        "A vessel not under command",
+        "A vessel constrained by her draught",
+        "A vessel engaged in fishing"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel not under command cannot manoeuvre as the Rules require because of some exceptional circumstance, and a steering failure is a classic example. Restricted in her ability to manoeuvre is about the nature of the vessel's work, constrained by her draught is about depth of water, and nothing here involves fishing gear.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q08",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which of these is restricted visibility as Rule 3 defines it?",
+      "options": [
+        "A clear, dark night with no moon",
+        "Heavy rain that limits how far you can see",
+        "Sun glare on the water at midday",
+        "A night when your radar is switched off"
+      ],
+      "correct_index": 1,
+      "explanation": "Restricted visibility means visibility limited by fog, mist, falling snow, heavy rain, sandstorms or similar causes. Darkness alone, glare and the state of your own radar are not causes the definition names; they still matter for lookout and safe speed under Rules 5 and 6.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

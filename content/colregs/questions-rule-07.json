@@ -85,6 +85,40 @@
       "explanation": "Rule 7 calls for proper use of radar, which includes long-range scanning to give early warning and radar plotting or equivalent systematic observation. Using only the short range loses early warning, and occasional glances are not systematic observation. Rule 7 does not limit radar to restricted visibility.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-07.q06",
+      "lesson_id": "colregs.rule-07.risk-of-collision",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What does Rule 7 require every vessel to use when deciding whether a risk of collision exists?",
+      "options": [
+        "Radar only, because it is the most accurate instrument",
+        "All available means appropriate to the prevailing circumstances and conditions",
+        "Visual bearings only, because radar can mislead",
+        "VHF radio contact with the other vessel before any judgement is made"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 7 asks for every available means suited to the conditions: eyes, compass bearings, radar, AIS, listening and anything else that helps. Relying on a single tool, whether radar or visual bearings, is not what the rule asks, and VHF contact is helpful but not a required first step before judging risk.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-07.q07",
+      "lesson_id": "colregs.rule-07.risk-of-collision",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Rule 7 warns that risk of collision may sometimes exist even when an appreciable bearing change is evident. Which group lists the situations it names in particular?",
+      "options": [
+        "Approaching a very large vessel, a tow, or any vessel at close range",
+        "Approaching a sailing vessel, a fishing vessel, or a vessel at anchor",
+        "Meeting any vessel at night, in rain, or in a traffic separation scheme",
+        "Approaching a vessel showing no AIS, a vessel under 20 metres, or a ferry"
+      ],
+      "correct_index": 0,
+      "explanation": "The rule names a very large vessel, a tow, and any vessel at close range. A long ship or tow can bring a different part of it close to you even as the bearing to the part you are watching changes, and at close range a small change in bearing leaves little room. The other groups are not the situations the rule names.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

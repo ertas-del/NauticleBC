@@ -12,6 +12,17 @@ objectives:
   - Explain the Canadian additions, including the duty on power-driven vessels over 20 metres and the fishing exemption.
   - Recognise that BC has traffic separation schemes and know to check current charts and notices for details.
 estimated_minutes: 12
+key_facts:
+  - Rule 10 does not relieve any vessel of her obligations under any other rule; give-way and stand-on duties still apply inside a scheme.
+  - A vessel using a scheme proceeds in the appropriate traffic lane in the general direction of traffic flow and keeps clear of the separation line or zone.
+  - Normally join or leave a lane at its termination; from the side, do so at as small an angle to the general direction of traffic flow as practicable.
+  - If obliged to cross a traffic lane, cross on a heading as nearly as practicable at right angles to the general direction of traffic flow.
+  - Do not use an inshore traffic zone if you can safely use the adjacent lane, but vessels under 20 metres, sailing vessels and vessels engaged in fishing may use it.
+  - A vessel other than one crossing, joining or leaving a lane should not normally enter a separation zone or cross a separation line except in an emergency to avoid immediate danger or to engage in fishing within the zone.
+  - A vessel not using a scheme avoids it by as wide a margin as practicable.
+  - A vessel engaged in fishing must not impede any vessel following a traffic lane; a vessel under 20 metres or a sailing vessel must not impede the safe passage of a power-driven vessel following a lane.
+  - "Canadian addition: a power-driven vessel over 20 metres uses the recommended scheme by which it can safely reach its destination; compelling reasons for not doing so are recorded in the logbook."
+  - "Canadian addition: a vessel fishing in or near a routing system in Canadian waters is exempt from the lane-direction, crossing and keep-clear requirements, but still must not impede vessels following a lane."
 source_ids: [colregs-canada, notmar-a10-ship-routeing, fedreg-2010-juan-de-fuca-tss, chs-pac200-sailing-directions]
 review_status: needs_expert_review
 ---
@@ -21,41 +32,43 @@ review_status: needs_expert_review
 A traffic separation scheme (TSS) is a routing measure that keeps opposing traffic apart using **traffic lanes**
 and a **separation zone or line** between them. Many schemes also have **inshore traffic zones** along the coast
 side and **precautionary areas** at junctions. Rule 10 sets out how vessels behave in and around one.
-It applies in any condition of visibility and **does not relieve any vessel of its duties under the other rules**.
+It applies in any condition of visibility and ==does not relieve any vessel of its duties under the other rules==.
 For example, give-way and stand-on duties still apply inside a lane.
 
 ## What the rule asks of you
 
 **If you are using a scheme:**
 
-- Go in the **appropriate lane**, in the **general direction of traffic flow** for that lane.
+- Go in the ==appropriate lane==, in the ==general direction of traffic flow== for that lane.
 - Keep clear of the separation line or zone.
-- Normally join or leave a lane at its **end**. If you must join or leave from the side, do it at as small an angle
-  to the direction of flow as practicable.
+- Normally join or leave a lane ==at its end== (its termination). If you must join or leave from the side, do it
+  ==at as small an angle== to the direction of flow as practicable.
 
-**Crossing:** avoid crossing traffic lanes if you can. If you must cross, do so on a **heading as nearly as
-practicable at right angles** to the general direction of traffic flow. The rule is about your **heading**, so a
+**Crossing:** avoid crossing traffic lanes if you can. If you must cross, do so on a ==heading as nearly as practicable at right angles==
+to the general direction of traffic flow. The rule is about your **heading**, so a
 strong set can leave your track at a different angle. Cross quickly and cleanly, and do not dawdle in a lane.
 
 **Inshore traffic zones:** do not use one if you can safely use the appropriate lane of the adjacent scheme.
-Vessels under 20 metres, sailing vessels and vessels engaged in fishing are allowed to use it. Any vessel may use
+==Vessels under 20 metres, sailing vessels and vessels engaged in fishing== are allowed to use it. Any vessel may use
 it when going to or from a port, a pilot station, an offshore installation or another place inside the zone, or
 to avoid immediate danger.
 
-**Separation zones and lines:** do not enter a separation zone, or cross a separation line, except in an emergency
-to avoid immediate danger, or to engage in fishing within the separation zone.
+**Separation zones and lines:** a vessel that is not crossing the scheme or joining or leaving a lane should not
+normally enter a separation zone or cross a separation line, except ==in an emergency to avoid immediate danger==, or
+==to engage in fishing within the separation zone==. (A crossing vessel, or one joining or leaving a lane, may have
+to pass through the zone or over the line.)
 
 **Near the ends of a scheme:** navigate with particular caution.
 
 **Anchoring:** avoid anchoring in a scheme or near its ends.
 
-**If you are not using the scheme:** keep clear of it by as wide a margin as practicable.
+**If you are not using the scheme:** keep clear of it ==by as wide a margin as practicable==.
 
 **Not impeding lane traffic:**
 
-- A vessel engaged in fishing must not impede the passage of any vessel following a traffic lane.
-- A vessel under 20 metres, or a sailing vessel, must not impede the safe passage of a power-driven vessel
-  following a lane.
+- A vessel engaged in fishing ==must not impede the passage of any vessel following a traffic lane==.
+- A vessel under 20 metres, or a sailing vessel, must not impede the safe passage of a
+  ==power-driven vessel following a lane==.
 
 **Exemptions:** a vessel restricted in her ability to manoeuvre may be exempt from the rule to the extent needed
 to work on safety of navigation (such as servicing aids) or to lay or service a submarine cable inside a scheme.
@@ -69,15 +82,15 @@ The Canadian text adds several provisions. Read them with the international text
    not only those adopted by the IMO.
 2. **Mandatory routing.** A vessel must use any **mandatory routing system** that applies to its category or cargo,
    where it is adopted by the IMO and described in *Ships' Routeing*.
-3. **Power-driven vessels over 20 metres.** Such a vessel must use the traffic separation scheme and associated
+3. **Power-driven vessels over 20 metres.** Such a ==power-driven vessel over 20 metres== must use the traffic separation scheme and associated
    routing system by which it can safely reach its destination, where those are adopted by the IMO as
    recommendations and described in *Ships' Routeing*.
 4. **Compelling reasons.** The duties in items 2 and 3 do not apply if there are compelling reasons not to use a
-   scheme or routing system. The reasons must be **recorded in the vessel's logbook**.
+   scheme or routing system. The reasons must be ==recorded in the vessel's logbook==.
 5. **Fishing in or near a routing system in Canadian waters.** A vessel fishing with nets, lines, trawls,
    trolling lines or other apparatus is exempt from three of the paragraphs: the lane-direction requirement, the
-   crossing requirement and the requirement to keep clear of schemes you are not using. It is **not** exempt from
-   the duty not to impede vessels following a lane.
+   crossing requirement and the requirement to keep clear of schemes you are not using. It is
+   ==not exempt from the duty not to impede== vessels following a lane.
 6. **Certain work in or near a routing system in Canadian waters.** Vessels laying, servicing or picking up
    marks, cables or pipelines, dredging, surveying, doing underwater work, or launching or recovering aircraft
    have a wider exemption, but only if they do not prevent safe navigation by others, identify themselves and

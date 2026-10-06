@@ -10,6 +10,12 @@ objectives:
   - Explain how Sections I, II and III divide the Steering and Sailing Rules.
   - Decide which section applies to a given visibility and situation.
 estimated_minutes: 6
+key_facts:
+  - "Rule 4: the rules in Section I apply in any condition of visibility."
+  - "Section I covers Rules 4 to 10: lookout (5), safe speed (6), risk of collision (7), action to avoid collision (8), narrow channels (9) and traffic separation schemes (10)."
+  - Section II (Rules 11 to 18) applies only to vessels in sight of one another.
+  - Section III (Rule 19) applies to vessels not in sight of one another when navigating in or near an area of restricted visibility.
+  - Section I keeps applying while Section II or Section III is also in play.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -18,9 +24,9 @@ review_status: needs_expert_review
 
 ## What the rule asks of you
 
-Rule 4 is a single short sentence. The rules in **Section I** apply in **any condition of visibility**: clear day, black night, fog, rain or snow.
+Rule 4 is a single short sentence. The rules in **Section I** apply in ==any condition of visibility==: clear day, black night, fog, rain or snow.
 
-Section I is titled "Conduct of vessels in any condition of visibility" and holds the rules that follow Rule 4: the lookout (Rule 5), safe speed (Rule 6), risk of collision (Rule 7), action to avoid collision (Rule 8), narrow channels (Rule 9) and traffic separation schemes (Rule 10).
+Section I is titled "Conduct of vessels in any condition of visibility" and holds the rules that follow Rule 4: the ==lookout (Rule 5)==, ==safe speed (Rule 6)==, ==risk of collision (Rule 7)==, ==action to avoid collision (Rule 8)==, ==narrow channels (Rule 9)== and ==traffic separation schemes (Rule 10)==.
 
 ## How the Steering and Sailing Rules are arranged
 
@@ -28,15 +34,15 @@ Rules 4 to 19 are split into three sections.
 
 | Section | Rules | Applies |
 |---|---|---|
-| I, conduct in any condition of visibility | 4 to 10 | Always |
-| II, conduct when vessels are in sight of one another | 11 to 18 | Only when vessels are in sight of each other |
-| III, conduct in restricted visibility | 19 | When navigating in or near an area of restricted visibility, for vessels not in sight of one another |
+| I, conduct in any condition of visibility | ==4 to 10== | Always |
+| II, conduct when vessels are in sight of one another | ==11 to 18== | ==Only when vessels are in sight of each other== |
+| III, conduct in restricted visibility | ==19== | When navigating ==in or near an area of restricted visibility==, for vessels ==not in sight of one another== |
 
 ## Plain-language explanation
 
 Think of Section I as the foundation. Whatever the weather, you keep a proper lookout, you go at a safe speed, you judge whether there is a risk of collision, and you take clear, early action. On top of that foundation sit the other two sections, which depend on the situation. The give-way and stand-on rules in Section II (overtaking, head-on, crossing, responsibilities between vessels) only work when you can actually *see* the other vessel with your eyes. When you cannot, Section III takes over.
 
-Because Section I is always on, you cannot "turn off" Rules 5 to 10 by picking a convenient situation. They keep applying when Section II or III is also in play. For example, in fog Rule 19 gives specific direction, and Rules 5, 6 and 7 still apply alongside it.
+Because Section I is always on, you cannot "turn off" Rules 5 to 10 by picking a convenient situation. They ==keep applying when Section II or III is also in play==. For example, in fog Rule 19 gives specific direction, and Rules 5, 6 and 7 still apply alongside it.
 
 ## On the bridge
 

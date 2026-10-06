@@ -85,6 +85,23 @@
       "explanation": "Rule 2(b) does allow departure, but only where it is needed to avoid immediate danger and after due regard to the dangers and special circumstances. A log entry does not widen that. The last option is wrong because Rule 2(b) does recognise justified departures.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-02.q06",
+      "lesson_id": "colregs.rule-02.responsibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Close to a tug with a long tow, you decide that the normal action under the Rules would lead into immediate danger and you must do something different. Under Rule 2(b), what must you take into account when choosing your action?",
+      "options": [
+        "Only your own vessel's speed, since the other vessel is not your concern",
+        "All dangers of navigation and collision and any special circumstances, including the limitations of both vessels, such as the tow's inability to stop or turn quickly",
+        "Nothing further, because once danger is immediate any action is acceptable",
+        "Only what the company's operating manual says"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 2(b) requires due regard to all dangers of navigation and collision and to special circumstances, including the limitations of the vessels involved. A tug and long tow may be unable to stop or turn quickly, so an action that relies on her manoeuvring could make things worse. Immediate danger justifies departing from the Rules, but it does not remove the need to judge the whole situation.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }
