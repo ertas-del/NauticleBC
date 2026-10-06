@@ -75,6 +75,8 @@ fun LessonScreen(
                 )
             }
 
+            ExamFocusCard(keyFacts = lesson.keyFacts)
+
             if (lesson.objectives.isNotEmpty()) {
                 Text(
                     text = stringResource(R.string.lesson_objectives),

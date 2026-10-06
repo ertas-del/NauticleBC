@@ -30,10 +30,14 @@ object Routes {
     const val MODULE_PATTERN = "module/{$ARG_MODULE}"
     const val LESSON_PATTERN = "lesson/{$ARG_LESSON}"
     const val QUIZ_PATTERN = "quiz/{$ARG_LESSON}"
+    const val EXAM_FOCUS_PATTERN = "examfocus/{$ARG_MODULE}"
+    const val MODULE_QUIZ_PATTERN = "modulequiz/{$ARG_MODULE}"
 
     fun module(moduleId: String) = "module/$moduleId"
     fun lesson(lessonId: String) = "lesson/$lessonId"
     fun quiz(lessonId: String) = "quiz/$lessonId"
+    fun examFocus(moduleId: String) = "examfocus/$moduleId"
+    fun moduleQuiz(moduleId: String) = "modulequiz/$moduleId"
 }
 
 @Composable
@@ -69,6 +73,44 @@ fun NauticleApp() {
                     bundle = bundle,
                     progress = progress,
                     onOpenLesson = { navController.navigate(Routes.lesson(it)) },
+                    onOpenExamFocus = { navController.navigate(Routes.examFocus(moduleId)) },
+                    onBack = { navController.popBackStack() },
+                )
+            }
+        }
+
+        composable(
+            route = Routes.EXAM_FOCUS_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_MODULE) { type = NavType.StringType }),
+        ) { entry ->
+            val moduleId = entry.arguments?.getString(Routes.ARG_MODULE).orEmpty()
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.exam_focus_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                ExamFocusScreen(
+                    moduleId = moduleId,
+                    bundle = bundle,
+                    onQuizModule = { navController.navigate(Routes.moduleQuiz(moduleId)) },
+                    onBack = { navController.popBackStack() },
+                )
+            }
+        }
+
+        composable(
+            route = Routes.MODULE_QUIZ_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_MODULE) { type = NavType.StringType }),
+        ) { entry ->
+            val moduleId = entry.arguments?.getString(Routes.ARG_MODULE).orEmpty()
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.quiz_screen_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                ModuleQuizScreen(
+                    moduleId = moduleId,
+                    bundle = bundle,
                     onBack = { navController.popBackStack() },
                 )
             }
@@ -126,12 +168,15 @@ fun NauticleApp() {
                         LessonCatalog.questionsForLesson(bundle.questions, lessonId)
                     }
                     QuizScreen(
-                        lesson = lesson,
+                        titleText = lesson.title,
+                        stateKey = lesson.id,
                         questions = questions,
-                        progress = progress[lessonId] ?: LessonProgress(),
+                        best = (progress[lessonId] ?: LessonProgress()).best,
                         onRecordScore = { score -> progress = tracker.recordQuiz(lessonId, score) },
                         onBackToLesson = { navController.popBackStack() },
                         onBackToLessons = { navController.backToModuleList() },
+                        backLabel = stringResource(R.string.quiz_back_to_lesson),
+                        doneLabel = stringResource(R.string.quiz_back_to_lessons),
                     )
                 }
             }

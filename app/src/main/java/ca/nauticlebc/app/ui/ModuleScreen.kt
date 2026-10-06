@@ -10,6 +10,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.Card
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -30,6 +31,7 @@ fun ModuleScreen(
     bundle: ContentBundle,
     progress: Map<String, LessonProgress>,
     onOpenLesson: (String) -> Unit,
+    onOpenExamFocus: () -> Unit,
     onBack: () -> Unit,
 ) {
     val lessons = LessonCatalog.lessonsForModule(bundle.lessons, moduleId)
@@ -51,6 +53,11 @@ fun ModuleScreen(
                     .padding(horizontal = 16.dp),
                 verticalArrangement = Arrangement.spacedBy(12.dp),
             ) {
+                item(key = "exam-focus") {
+                    OutlinedButton(onClick = onOpenExamFocus, modifier = Modifier.fillMaxWidth()) {
+                        Text(stringResource(R.string.module_exam_focus_button))
+                    }
+                }
                 items(lessons, key = { it.id }) { lesson ->
                     LessonCard(
                         lesson = lesson,

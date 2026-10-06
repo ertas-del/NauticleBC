@@ -138,4 +138,104 @@ class MarkdownParserTest {
             blocks.map { it::class.simpleName },
         )
     }
+
+    @Test
+    fun highlightSpan() {
+        assertEquals(
+            listOf(MdSpan("keep a "), MdSpan("proper lookout", highlight = true), MdSpan(" always")),
+            MarkdownParser.parseInline("keep a ==proper lookout== always"),
+        )
+    }
+
+    @Test
+    fun highlightInsideBoldAndItalic() {
+        assertEquals(
+            listOf(
+                MdSpan("a ", bold = true),
+                MdSpan("b", bold = true, highlight = true),
+                MdSpan(" c", bold = true),
+            ),
+            MarkdownParser.parseInline("**a ==b== c**"),
+        )
+        assertEquals(
+            listOf(MdSpan("x", italic = true, highlight = true)),
+            MarkdownParser.parseInline("*==x==*"),
+        )
+    }
+
+    @Test
+    fun boldInsideHighlight() {
+        assertEquals(
+            listOf(
+                MdSpan("see ", highlight = true),
+                MdSpan("12 minutes", bold = true, highlight = true),
+                MdSpan(" of arc", highlight = true),
+            ),
+            MarkdownParser.parseInline("==see **12 minutes** of arc=="),
+        )
+    }
+
+    @Test
+    fun highlightThatCrossesBoldStillBalances() {
+        // Styles toggle independently, so overlapping (not strictly nested) markers still render.
+        assertEquals(
+            listOf(
+                MdSpan("a", highlight = true),
+                MdSpan("b", bold = true, highlight = true),
+                MdSpan("c", bold = true),
+            ),
+            MarkdownParser.parseInline("==a**b==c**"),
+        )
+    }
+
+    @Test
+    fun unbalancedHighlightMarkersStayLiteral() {
+        assertEquals(plain("open ==never closed"), MarkdownParser.parseInline("open ==never closed"))
+        assertEquals(plain("never opened== here"), MarkdownParser.parseInline("never opened== here"))
+        assertEquals(plain("a == b"), MarkdownParser.parseInline("a == b"))
+        assertEquals(plain("a == b == c"), MarkdownParser.parseInline("a == b == c"))
+        assertEquals(plain("===="), MarkdownParser.parseInline("===="))
+        assertEquals(plain("===x"), MarkdownParser.parseInline("===x"))
+        assertEquals(plain("=="), MarkdownParser.parseInline("=="))
+        assertEquals(plain("x ==\u0020"), MarkdownParser.parseInline("x ==\u0020"))
+    }
+
+    @Test
+    fun escapedHighlightMarkersAreLiteral() {
+        assertEquals(plain("==not highlighted=="), MarkdownParser.parseInline("\\=\\=not highlighted\\=\\="))
+        // An escaped closer does not count as a closer.
+        assertEquals(plain("==open =="), MarkdownParser.parseInline("==open \\=="))
+    }
+
+    @Test
+    fun twoHighlightsInOneLine() {
+        val spans = MarkdownParser.parseInline("==one== and ==two==")
+        assertEquals(
+            listOf(MdSpan("one", highlight = true), MdSpan(" and "), MdSpan("two", highlight = true)),
+            spans,
+        )
+    }
+
+    @Test
+    fun highlightWorksInHeadingsListsAndAcrossWrappedLines() {
+        val blocks = MarkdownParser.parse("## The ==rule==\n\n- item ==one==\n\nwraps ==over\ntwo lines== here")
+        assertEquals(MdBlock.Heading(2, listOf(MdSpan("The "), MdSpan("rule", highlight = true))), blocks[0])
+        assertEquals(
+            MdBlock.BulletList(listOf(listOf(MdSpan("item "), MdSpan("one", highlight = true)))),
+            blocks[1],
+        )
+        assertEquals(
+            MdBlock.Paragraph(listOf(MdSpan("wraps "), MdSpan("over two lines", highlight = true), MdSpan(" here"))),
+            blocks[2],
+        )
+    }
+
+    @Test
+    fun highlightMarkersDoNotLeakAcrossListItems() {
+        val blocks = MarkdownParser.parse("- ==open\n- close==")
+        assertEquals(
+            listOf(MdBlock.BulletList(listOf(plain("==open"), plain("close==")))),
+            blocks,
+        )
+    }
 }

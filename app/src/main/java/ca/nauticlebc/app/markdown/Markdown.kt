@@ -1,7 +1,12 @@
 package ca.nauticlebc.app.markdown
 
-/** A run of inline text with its emphasis. */
-data class MdSpan(val text: String, val bold: Boolean = false, val italic: Boolean = false)
+/** A run of inline text with its emphasis. [highlight] marks exam-focus text written as `==text==`. */
+data class MdSpan(
+    val text: String,
+    val bold: Boolean = false,
+    val italic: Boolean = false,
+    val highlight: Boolean = false,
+)
 
 /** Block-level pieces of the small Markdown subset used by lesson bodies. */
 sealed interface MdBlock {
@@ -15,7 +20,7 @@ sealed interface MdBlock {
 
 /**
  * Small, forgiving Markdown parser. Supports: `#` headings, paragraphs, `-`/`*`/`+` bullets,
- * `1.` numbered lists, `>` quotes, `---` rules, `**bold**` and `*italic*`. Anything else is kept as plain text.
+ * `1.` numbered lists, `>` quotes, `---` rules, `**bold**`, `*italic*` and `==highlight==`. Anything else is kept as plain text.
  * It never throws: unknown syntax simply shows up as text.
  */
 object MarkdownParser {
@@ -117,16 +122,21 @@ object MarkdownParser {
         return blocks
     }
 
-    /** Parses `**bold**` and `*italic*`. Unmatched markers are kept as literal characters. */
+    /**
+     * Parses `**bold**`, `*italic*` and `==highlight==`. Unmatched markers are kept as literal characters.
+     * The three styles toggle independently, so they can be nested in any order; a `==` only opens a highlight
+     * when a closing `==` follows and the next character is not whitespace (so `a == b` stays literal).
+     */
     fun parseInline(text: String): List<MdSpan> {
         val out = mutableListOf<MdSpan>()
         val sb = StringBuilder()
         var bold = false
         var italic = false
+        var highlight = false
 
         fun flush() {
             if (sb.isNotEmpty()) {
-                out += MdSpan(sb.toString(), bold, italic)
+                out += MdSpan(sb.toString(), bold, italic, highlight)
                 sb.clear()
             }
         }
@@ -134,9 +144,30 @@ object MarkdownParser {
         var i = 0
         while (i < text.length) {
             val c = text[i]
-            if (c == '\\' && i + 1 < text.length && "\\*#-_`>".indexOf(text[i + 1]) >= 0) {
+            if (c == '\\' && i + 1 < text.length && "\\*#-_`>=".indexOf(text[i + 1]) >= 0) {
                 sb.append(text[i + 1])
                 i += 2
+                continue
+            }
+            if (c == '=' && text.startsWith("==", i)) {
+                if (highlight) {
+                    flush()
+                    highlight = false
+                    i += 2
+                    continue
+                }
+                val nextOk = i + 2 < text.length && !text[i + 2].isWhitespace() && text[i + 2] != '='
+                if (nextOk && indexOfUnescaped(text, "==", i + 2) != -1) {
+                    flush()
+                    highlight = true
+                    i += 2
+                    continue
+                }
+                // Not a usable marker: keep every '=' of the run as plain text.
+                var end = i
+                while (end < text.length && text[end] == '=') end++
+                sb.append(text, i, end)
+                i = end
                 continue
             }
             if (c == '*' && text.startsWith("**", i)) {
@@ -177,5 +208,19 @@ object MarkdownParser {
         }
         flush()
         return out
+    }
+
+    /** Index of the first [token] at or after [from] that is not preceded by a backslash escape, or -1. */
+    private fun indexOfUnescaped(text: String, token: String, from: Int): Int {
+        var i = from
+        while (i < text.length) {
+            if (text[i] == '\\') {
+                i += 2
+                continue
+            }
+            if (text.startsWith(token, i)) return i
+            i++
+        }
+        return -1
     }
 }
