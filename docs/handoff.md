@@ -1,4 +1,4 @@
-# Handoff note (2026-10-05)
+# Handoff note (updated 2026-10-05, late)
 
 Written so another person or Claude session can pick up without the earlier conversation.
 
@@ -12,26 +12,23 @@ Written so another person or Claude session can pick up without the earlier conv
 
 - Plan doc written (all modules, sources, licensing, exam facts, open questions).
 - Decisions: Android first (Kotlin + Compose); first release = Bridge Watch Rating + Master Limited < 60 GT, starting with COLREGs and tides; text-to-speech for audio later; MED, MED practice and marine first aid on hold; speech recognition later.
-- `main` has a bootstrap commit. PR #1 (`foundation/scaffold`) adds:
-  - repo layout, `CLAUDE.md`, docs, issue and PR templates
-  - JSON Schemas: source, lesson, question, mock exam, oral-exam scenario (reserved)
-  - `tools/lint_content.py` and `tools/build_bundle.py` (tested, including against deliberately broken content)
-  - sample COLREGs Rule 5 lesson plus 3 original questions (pipeline sample, `needs_expert_review`)
-  - Android skeleton: home screen, bundle models and loader, one unit test
-  - CI: content lint (passed on the PR) and Android build (was still running when this was written)
+- Merged to `main` (all with green CI, Android build included):
+  - #1 foundation: layout, `CLAUDE.md`, schemas, content lint and bundle builder, Android skeleton, CI.
+  - #4 engine: module list, lesson reader (small Markdown renderer), per-lesson quiz, progress storage, review-status label, sources list.
+  - #3 COLREGs Rules 1, 2, 3, 4, 6, 7 (6 lessons, 31 questions).
+  - #2 COLREGs Rules 8, 9, 10 (3 lessons, 20 questions) plus Rule 5 sample from #1.
+  - #5 Tides module 1: six lessons (causes, spring/neap, vocabulary, types, tables and heights, tidal currents), 41 questions, 20 new sources.
+- Totals on `main`: 16 lessons, 95 questions, 26 sources. Everything is `needs_expert_review`.
 
 ## Needs doing next
 
-1. **Check PR #1's Android CI.** The Kotlin and Gradle code has never been compiled (no Android SDK in the authoring sandbox). Fix whatever breaks, then merge.
-2. **Add the Gradle wrapper**: `gradle wrapper --gradle-version 8.10.2`, commit it, switch `android.yml` to `./gradlew`. It could not be generated offline.
-3. **Open one GitHub issue per lane task**, then start parallel sessions in git worktrees (`claude -w <name>`):
-   - Content engine: lesson reader, quiz and mock-exam engine, progress storage.
-   - COLREGs content: lessons per rule (Parts A to F), from cited sources, in our own words.
-   - COLREGs drills: original questions and situation drills.
-   - Tides content/tools: tide science lessons, table-reading exercises, BC region summaries.
-   - QA and licences: source registry upkeep, reviewer hand-off lists.
-   Lanes 3 to 5 start once the schema PR is merged.
-4. **Then**: oral exam tester, knots, SVOP, SVMO (video plus TTS), flags, radio, lights map, sea temperature, BC coast map hub, weather, towing logs.
+1. **Add the Gradle wrapper**: `gradle wrapper --gradle-version 8.10.2`, commit it, switch `android.yml` to `./gradlew`. It could not be generated offline.
+2. **Test on a device.** Nothing has run on a phone yet: check layout, TalkBack, large fonts, rotation mid-quiz, dark theme. Product choices to confirm: finishing a quiz marks the lesson complete; best score compares by fraction correct.
+3. **Expert review.** Each merged PR body lists the items a certified master should check (Canadian modifications in Rules 1, 3, 6, 9, 10; BC traffic separation schemes; BC tide type; CHS secondary-port method; rule of twelfths).
+4. **Read the primary sources.** Justice Laws, tc.canada.ca and tides.gc.ca could not be fetched, so every COLREGs and tides lesson rests on summaries and secondary sources. Someone with browser access should read the live text and correct anything off.
+5. **Next content lanes**: COLREGs Rules 11 to 19 (steering and sailing), 20 to 31 (lights and shapes), 32 to 37 (sound signals); tides: BC regional atlas and current tables; Bridge Watch and 60-ton modules (stability, radar, TimeZero); mock-exam blueprints (`content/mock-exams/`).
+6. **QA and licences lane**: licence checklist upkeep, reviewer hand-off lists per module.
+7. **Later**: oral exam tester, knots, SVOP, SVMO (video plus TTS), flags, radio, lights map, sea temperature, BC coast map hub, weather, towing logs.
 
 ## Waiting on the user
 
