@@ -32,6 +32,39 @@
       "reproduction": "unclear",
       "read_directly": false,
       "notes": "Data is free for non-navigational, non-commercial use only. Teaching examples only; never present as navigational."
+    },
+    {
+      "id": "notmar-a10-ship-routeing",
+      "title": "Notices to Mariners, Annual Edition, Section A, A10 (ship routeing)",
+      "publisher": "Canadian Coast Guard",
+      "url": "https://www.notmar.gc.ca/publications/annual-annuel/section-a/a10-en.php",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Only a tool-generated summary of the PDF was seen, not the full text. Used for the statement that routeing systems on the BC coast are described in the Notices to Mariners and that some are recommended rather than compulsory; the summary was inconsistent on which BC systems are which. Re-read before release."
+    },
+    {
+      "id": "fedreg-2010-juan-de-fuca-tss",
+      "title": "Traffic Separation Schemes: Strait of Juan de Fuca and approaches; Puget Sound; Haro Strait, Boundary Pass, Strait of Georgia (interim rule)",
+      "publisher": "US Coast Guard, Federal Register",
+      "url": "https://www.federalregister.gov/documents/2010/11/19/2010-29165/traffic-separation-schemes-in-the-strait-of-juan-de-fuca-and-its-approaches-in-puget-sound-and-its",
+      "edition": "2010-11-19",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "US document. Used only for background: the BC-area schemes were adopted by the IMO and are run jointly by Canada and the US, with traffic centres at Tofino, Victoria and Seattle. Only a tool-generated summary of the page was seen. Not a Canadian legal source."
+    },
+    {
+      "id": "chs-pac200-sailing-directions",
+      "title": "PAC 200 Sailing Directions, General Information, Pacific Coast",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-PAC200-eng-202208-41069213.pdf",
+      "edition": "2022/08",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Only a tool-generated summary was seen. Used for the Juan de Fuca Strait traffic separation scheme and the traffic zones administered from Victoria, Tofino and Seattle. Check the current edition."
     }
   ]
 }
