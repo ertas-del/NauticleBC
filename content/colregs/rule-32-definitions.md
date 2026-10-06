@@ -3,7 +3,7 @@ id: colregs.rule-32.definitions
 title: "Rule 32: Sound signal definitions"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 32
+order: 320
 summary: The three words every sound signal is built from. A whistle is any appliance that can make the prescribed blasts, a short blast lasts about one second, and a prolonged blast lasts four to six seconds.
 objectives:
   - Define "whistle" as the Rules use it.

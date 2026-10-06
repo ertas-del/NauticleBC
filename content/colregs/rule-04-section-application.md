@@ -3,7 +3,7 @@ id: colregs.rule-04.section-application
 title: "Rule 4: Application of Section I"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 4
+order: 40
 summary: Rule 4 states that the rules in Section I (Rules 4 to 10) apply in any condition of visibility. It also helps you see how the Steering and Sailing Rules are organised into three sections.
 objectives:
   - State what Rule 4 says and which Rules it covers.

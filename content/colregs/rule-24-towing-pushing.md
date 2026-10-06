@@ -3,7 +3,7 @@ id: colregs.rule-24.towing-pushing
 title: "Rule 24: Towing and pushing"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 24
+order: 240
 summary: Lights and shapes for tugs towing astern, pushing ahead and towing alongside, for the vessels and objects being towed, and the Canadian provisions for barges and log tows that you will meet on the BC coast.
 objectives:
   - Describe the lights of a vessel towing astern, including the 200 m tow-length rule and the towing light.

@@ -3,7 +3,7 @@ id: colregs.rule-29.pilot-vessels
 title: "Rule 29: Pilot vessels"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 29
+order: 290
 summary: The white-over-red masthead lights of a pilot vessel on duty, what she adds underway and at anchor, and what she shows when she is not on pilotage duty.
 objectives:
   - State the lights of a pilot vessel on pilotage duty.

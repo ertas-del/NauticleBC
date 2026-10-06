@@ -3,7 +3,7 @@ id: colregs.rule-26.fishing-vessels
 title: "Rule 26: Fishing vessels"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 26
+order: 260
 summary: How trawlers and other fishing vessels are lit and marked, the outlying gear signal for gear extending more than 150 m, the Annex II signals for fishing in close proximity, and the Canadian additions for pair trawlers.
 objectives:
   - Tell a trawler from a vessel fishing by other means by her lights and shapes.

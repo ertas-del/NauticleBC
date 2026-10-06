@@ -3,7 +3,7 @@ id: colregs.steering-sailing.situations
 title: "Putting Rules 11 to 19 together: encounter drills"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 20
+order: 195
 summary: Worked drills that join up Rules 11 to 19 - overtaking or crossing at the 22.5 degree line, head-on at night, the give-way and stand-on sequence as the range closes, and radar-only contacts in fog. Use it to practise for the oral.
 objectives:
   - Decide from a relative bearing whether an approaching vessel is overtaking or crossing.

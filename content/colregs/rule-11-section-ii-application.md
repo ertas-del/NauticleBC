@@ -3,7 +3,7 @@ id: colregs.rule-11.section-ii-application
 title: "Rule 11: Application of Section II"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 11
+order: 110
 summary: Rule 11 switches on Section II (Rules 11 to 18), the give-way and stand-on rules. They apply only when vessels are in sight of one another, which means seen by eye, not only on radar or AIS.
 objectives:
   - State what Rule 11 says and which Rules make up Section II.

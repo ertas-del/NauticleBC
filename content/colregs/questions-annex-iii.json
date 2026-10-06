@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.annex-iii.q01",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Within which band must the fundamental frequency of a 150 m vessel's whistle lie?",
+      "options": [
+        "70-200 Hz",
+        "130-350 Hz",
+        "250-700 Hz",
+        "700-2 100 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex III sets 130-350 Hz for vessels of 75 m but less than 200 m. 70-200 Hz is for 200 m or more and 250-700 Hz for under 75 m. All fundamentals lie within 70-700 Hz, so nothing above 700 Hz is a fundamental band.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q02",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which frequency band carries the range of the whistle on an 18 m vessel under the international text of Annex III, and how does the Canadian modification treat a roadstead, harbour, river, lake or inland waterway?",
+      "options": [
+        "180-700 Hz; no Canadian change",
+        "180-2 100 Hz; in those Canadian waters the upper limit of the band may be extended to 2 100 Hz",
+        "70-200 Hz; in those Canadian waters it may drop to 50 Hz",
+        "250-700 Hz only; Canada forbids frequencies above 700 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "The range-determining band is 180-700 Hz for vessels of 20 m or more and 180-2 100 Hz for vessels under 20 m. The Canadian modification allows the upper limit to be extended to 2 100 Hz in Canadian waters of a roadstead, harbour, river, lake or inland waterway. 250-700 Hz is the fundamental band for vessels under 75 m, a different requirement.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q03",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Annex III gives a typical audibility range for the whistle of a 40 m vessel. What is it, and what is its status under the Canadian Regulations?",
+      "options": [
+        "2 miles; a legal minimum",
+        "1 mile; given for information only, not part of the Canadian Regulations",
+        "0.5 mile; a legal minimum",
+        "1.5 miles; only applies in fog"
+      ],
+      "correct_index": 1,
+      "explanation": "The table gives 1 mile for vessels of 20 m to under 75 m (2 miles for 200 m or more, 1.5 for 75-200 m, 0.5 for under 20 m). The Canadian Annex III states that the audibility-range column and its notes are not part of the Regulations, and Annex III itself says real range varies widely with wind and noise.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q04",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A vessel's only whistle is directional. What must be true of its sound abeam compared with ahead?",
+      "options": [
+        "It may be silent abeam as long as it is loud ahead",
+        "It must be no more than 10 dB below the on-axis level, so the range abeam is at least half the range ahead",
+        "It must be exactly as loud abeam as ahead",
+        "It must be no more than 4 dB below the on-axis level in every direction"
+      ],
+      "correct_index": 1,
+      "explanation": "Within 45 degrees of the axis a directional whistle may be no more than 4 dB below the prescribed level; in any other horizontal direction (such as abeam) no more than 10 dB below, so its range in any direction is at least half its forward range. As the only whistle it must point straight ahead.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q05",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Your lookout on the bridge wing complains that your own whistle is deafening. Which Annex III requirement applies?",
+      "options": [
+        "The whistle should be mounted as low as possible to keep it away from the bridge",
+        "Your own whistle must not exceed 110 dB(A) at the listening posts, and should not exceed 100 dB(A) where practicable; the whistle goes as high as practicable",
+        "There is no limit, because a louder whistle is always safer",
+        "The whistle must be switched off whenever a lookout is posted"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex III places the whistle as high as practicable, partly to protect the crew's hearing, and limits the vessel's own signal at the listening posts to 110 dB(A), and so far as practicable 100 dB(A). The Canadian text defines listening posts as the bridge wings or the bow.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q06",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A ship has one whistle forward and one aft, 150 m apart. Which statement is correct?",
+      "options": [
+        "They must be sounded together so the signal is heard everywhere",
+        "They must not be sounded at the same time; a combined whistle system, which counts as one whistle, would need its whistles no more than 100 m apart",
+        "Whistles more than 100 m apart count as a combined whistle system",
+        "Any two whistles on one vessel must differ in frequency by at least 100 Hz"
+      ],
+      "correct_index": 1,
+      "explanation": "Whistles fitted more than 100 m apart must not be sounded simultaneously. A combined whistle system has whistles no more than 100 m apart, sounded together, differing by at least 10 Hz, and is treated as a single whistle. Rule 34 also says only one of two widely spaced whistles is used for manoeuvring and warning signals.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q07",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are fitting a bell to a 25 m vessel. Which specification meets Annex III?",
+      "options": [
+        "Mouth at least 200 mm, any material, striker at least 1 per cent of the bell's mass",
+        "Mouth at least 300 mm, corrosion-resistant, at least 110 dB at 1 m, striker at least 3 per cent of the bell's mass, manual operation possible",
+        "Mouth at least 300 mm, power striker only, no manual operation needed",
+        "Mouth at least 500 mm, at least 143 dB at 1 m"
+      ],
+      "correct_index": 1,
+      "explanation": "A bell or gong must give at least 110 dB at 1 m, be corrosion-resistant with a clear tone, and on a vessel of 20 m or more have a mouth of at least 300 mm. The striker weighs at least 3 per cent of the bell. A power striker is recommended, but manual operation must remain possible. 143 dB is the whistle figure for vessels of 200 m or more.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iii.q08",
+      "lesson_id": "colregs.annex-iii.sound-signal-appliances",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which statement about sound signal gear for small vessels is correct, and who approves the gear on a Canadian vessel?",
+      "options": [
+        "A 17 m vessel needs a 300 mm bell; approval is by the vessel's insurer",
+        "An 11 m pleasure boat needs a whistle meeting the 20-75 m figures; approval is by the builder",
+        "A 17 m vessel needs no bell and her whistle's typical range is only 0.5 mile; an 11 m boat needs no whistle but must have some other efficient sound signal; the Minister of Transport approves the gear",
+        "Vessels under 20 m are exempt from all of Rule 33 and Annex III"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 33 requires a bell only from 20 m, so the 300 mm bell size does not apply to a 17 m vessel, and Annex III gives about 0.5 mile as the typical whistle range under 20 m. Under 12 m no whistle or bell is required, but some other efficient means of sound signalling is. The appropriate Canadian authority for sound signal appliances is the Minister.",
+      "source_ids": ["annexes-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ id: colregs.rule-01.application
 title: "Rule 1: Application"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 1
+order: 10
 summary: Where the Collision Regulations apply, what local rules and special signals are allowed alongside them, and who decides when a special-purpose vessel cannot fully comply.
 objectives:
   - State which vessels and waters the Rules apply to.

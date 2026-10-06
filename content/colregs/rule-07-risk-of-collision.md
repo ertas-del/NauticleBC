@@ -3,7 +3,7 @@ id: colregs.rule-07.risk-of-collision
 title: "Rule 7: Risk of collision"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 7
+order: 70
 summary: How to decide whether a collision risk exists, using all available means, systematic radar use, a steady compass bearing as a warning, and the rule that doubt means risk. It also warns against assuming from scanty information.
 objectives:
   - State the duty to use all available means to decide whether risk of collision exists.

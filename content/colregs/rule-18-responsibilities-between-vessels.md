@@ -3,7 +3,7 @@ id: colregs.rule-18.responsibilities-between-vessels
 title: "Rule 18: Responsibilities between vessels"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 18
+order: 180
 summary: Rule 18 is the pecking order - who keeps out of whose way when different kinds of vessel meet in sight of each other - with the exceptions for narrow channels, traffic schemes and overtaking, plus the Canadian rules that change the order.
 objectives:
   - List the Rule 18 order from a vessel not under command down to a seaplane.

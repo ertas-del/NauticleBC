@@ -3,7 +3,7 @@ id: colregs.lights.night-recognition
 title: "Recognising vessels by their lights and shapes"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 32
+order: 315
 summary: A step-by-step way to identify a vessel, her activity and her aspect from the lights you see at night and the shapes you see by day, with the memory aids examiners expect you to know.
 objectives:
   - Use a fixed sequence to read a set of lights (special all-round lights, masthead lights, sidelights, stern and towing lights).

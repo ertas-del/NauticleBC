@@ -3,7 +3,7 @@ id: colregs.rule-20.lights-shapes-application
 title: "Rule 20: Lights and shapes, when they apply"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 20
+order: 200
 summary: When navigation lights and day shapes must be shown, which other lights are banned, and the Canadian extras that sit beside Part C, such as the blue flashing light, the dangerous goods signal and backup navigation lights.
 objectives:
   - State when the Rules require lights and when they require shapes.

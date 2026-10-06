@@ -3,7 +3,7 @@ id: colregs.rule-08.action-to-avoid
 title: "Rule 8: Action to avoid collision"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 8
+order: 80
 summary: How to make an avoiding action that works. Make it early, make it big enough to be seen, check it until the other vessel is past and clear, and use speed as well as course when you need to.
 objectives:
   - Describe the qualities Rule 8 asks of an avoiding action (positive, early, readily apparent, safe).

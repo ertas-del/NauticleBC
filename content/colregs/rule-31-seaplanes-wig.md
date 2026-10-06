@@ -3,7 +3,7 @@ id: colregs.rule-31.seaplanes-wig
 title: "Rule 31: Seaplanes and WIG craft"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 31
+order: 310
 summary: What seaplanes and wing-in-ground craft show when they cannot carry the normal lights and shapes, how the Canadian Regulations bring seaplanes under the Rules, and how to treat a floatplane on the water.
 objectives:
   - State what Rule 31 requires when a seaplane or WIG craft cannot show the prescribed lights and shapes.

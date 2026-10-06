@@ -3,7 +3,7 @@ id: colregs.rule-16.give-way-action
 title: "Rule 16: Action by give-way vessel"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 16
+order: 160
 summary: Rule 16 is one sentence - a vessel directed to keep out of the way shall, so far as possible, take early and substantial action to keep well clear. Learn the three key words and what they look like from the other bridge.
 objectives:
   - State Rule 16 and identify which vessels it applies to.

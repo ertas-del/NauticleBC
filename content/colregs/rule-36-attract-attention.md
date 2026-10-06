@@ -3,7 +3,7 @@ id: colregs.rule-36.attract-attention
 title: "Rule 36: Signals to attract attention"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 36
+order: 360
 summary: How to get another vessel's attention without causing confusion. Any light or sound signal that cannot be mistaken for another signal, or a searchlight aimed at the danger without dazzling anyone. Avoid strobe and revolving lights.
 objectives:
   - State what kinds of signal any vessel may use to attract attention.

@@ -3,7 +3,7 @@ id: colregs.rule-38.exemptions
 title: "Rule 38: Exemptions"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 38
+order: 380
 summary: Part E in brief. Older vessels built to the 1960 rules got time-limited (and a few permanent) exemptions from some light and sound equipment changes. For a vessel built today, assume no exemption applies.
 objectives:
   - Say which vessels Rule 38 can exempt.

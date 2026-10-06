@@ -3,7 +3,7 @@ id: colregs.signals.sound-drill
 title: "Sound signal drill: what did you hear?"
 module: colregs
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 41
+order: 375
 summary: A practice drill. You hear a signal in fog or in a channel; say what vessel or situation it is and what you do next. Uses Rules 32 to 37, Annex IV, and the Rule 19 action for a fog signal heard ahead.
 objectives:
   - Identify a sound signal from its blasts, its interval, and whether vessels are in sight.
