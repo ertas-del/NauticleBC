@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-18.q01",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A power-driven vessel underway must keep out of the way of which group of vessels under Rule 18?",
+      "options": [
+        "Only vessels not under command",
+        "Vessels not under command, restricted in ability to manoeuvre, engaged in fishing, and sailing vessels",
+        "Any vessel larger than herself",
+        "Sailing vessels only, and only by day"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18(a) lists four: NUC, RAM, engaged in fishing, and sailing. Size has nothing to do with the order, and it applies by day and by night whenever the vessels are in sight of one another.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q02",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A sailing vessel under sail meets a vessel engaged in fishing with her net out, with risk of collision. Neither is overtaking. Who keeps out of the way?",
+      "options": [
+        "The fishing vessel, because sailing vessels are always stand-on",
+        "The sailing vessel",
+        "Whichever has the other on her starboard side",
+        "Neither; both alter to starboard"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18(b): a sailing vessel underway keeps out of the way of NUC, RAM and a vessel engaged in fishing. The starboard-side test is the crossing rule for two power-driven vessels, and 'both alter to starboard' is the power-driven head-on rule.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q03",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A vessel engaged in fishing, underway, meets a vessel restricted in her ability to manoeuvre. What does Rule 18 require of the fishing vessel?",
+      "options": [
+        "Nothing; fishing vessels are stand-on to everyone",
+        "She shall, so far as possible, keep out of the way of the RAM vessel",
+        "She keeps out of the way only if the RAM vessel is larger",
+        "She shall stop and recover her gear"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18(c): a vessel engaged in fishing when underway shall, so far as possible, keep out of the way of NUC and RAM vessels. 'So far as possible' recognises her gear limits her, but the duty is real. Size is irrelevant, and the rule does not order her to recover gear.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q04",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A sailing vessel under sail is coming up from 40 degrees abaft the beam of a power-driven vessel and gaining. Which statement is correct?",
+      "options": [
+        "The power-driven vessel keeps out of the way under Rule 18",
+        "The sailing vessel keeps out of the way, because Rule 18 applies except where Rule 13 otherwise requires",
+        "Both vessels alter to starboard",
+        "The power-driven vessel keeps out of the way unless she is over 20 metres"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18 opens with 'except where Rules 9, 10 and 13 otherwise require'. The sailing vessel is overtaking (more than 22.5 degrees abaft the beam), so Rule 13 makes her keep clear. Length does not change this.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q05",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which vessels are NOT required to avoid impeding the safe passage of a vessel constrained by her draught showing the Rule 28 signals?",
+      "options": [
+        "Sailing vessels and vessels engaged in fishing",
+        "Vessels not under command and vessels restricted in their ability to manoeuvre",
+        "Power-driven vessels under 20 metres",
+        "Seaplanes"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18(d)(i) applies to any vessel other than a vessel not under command or a vessel restricted in her ability to manoeuvre. Sailing, fishing and small power-driven vessels must all, if the circumstances admit, avoid impeding a CBD vessel, and a seaplane must keep well clear of all vessels.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q06",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A floatplane is taxiing on the water toward a dock and a WIG craft is operating on the water surface nearby. Which statement about Rule 18 is correct?",
+      "options": [
+        "Both are stand-on to all vessels because they are aircraft",
+        "The seaplane in general keeps well clear of all vessels but follows Part B once risk of collision exists; the WIG craft on the surface follows the Rules as a power-driven vessel",
+        "The seaplane follows the Rules as a sailing vessel; the WIG craft is exempt",
+        "Neither is covered by the Collision Regulations"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 18(e) has a seaplane on the water keep well clear and avoid impeding vessels, but once risk of collision exists she complies with Part B. Rule 18(f)(ii) treats a WIG craft on the water surface as a power-driven vessel. Neither is exempt or privileged.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q07",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A sport-fishing boat is trolling for salmon with lines out and is crossing ahead of your power-driven vessel. For Rule 18, what is she?",
+      "options": [
+        "A vessel engaged in fishing, so you keep out of her way",
+        "A power-driven vessel, because trolling gear does not restrict her manoeuvrability",
+        "A vessel restricted in her ability to manoeuvre",
+        "A vessel not under command"
+      ],
+      "correct_index": 1,
+      "explanation": "The Rule 3 definition of 'engaged in fishing' needs gear that restricts manoeuvrability and expressly excludes trolling lines. So she is an ordinary power-driven vessel, and the crossing rule (Rule 15) decides who gives way. RAM and NUC have their own definitions and signals.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-18.q08",
+      "lesson_id": "colregs.rule-18.responsibilities-between-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which Canadian provision can change who keeps clear between two power-driven vessels on the BC coast?",
+      "options": [
+        "A Canadian paragraph in Rule 18 making vessels under 20 metres keep clear of all larger vessels",
+        "The Canadian Rule 9 paragraph making the vessel going with the current or tidal stream the stand-on vessel when meeting in a narrow channel",
+        "A Canadian rule giving passenger ferries right of way everywhere",
+        "The Canadian Rule 13(e), which applies on all Canadian coasts"
+      ],
+      "correct_index": 1,
+      "explanation": "The Canadian Rule 9 paragraph applies in Canadian waters of a narrow channel or fairway with a current or tidal stream. No Canadian paragraph was found in Rule 18 itself, there is no general ferry priority in the Rules, and Rule 13(e) applies only in the Great Lakes Basin.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-pdf-2026"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "id": "colregs-steering-crc1416-pdf-2026",
+      "title": "Collision Regulations, C.R.C., c. 1416 (consolidated PDF, current to 2026-09-03, last amended 2023-06-07)",
+      "publisher": "Government of Canada, Justice Laws",
+      "url": "https://laws-lois.justice.gc.ca/pdf/C.R.C.,_c._1416.pdf",
+      "edition": "Current to 2026-09-03; last amended 2023-06-07; accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen only through an automated fetch-and-summarise tool on 2026-10-06, which could read the text only up to part way through Rule 17 (the conversion was truncated). Used for: Rule 13(e) (Canadian modification, Great Lakes Basin overtaking at night); Rule 15(b) (Canadian modification: in Canadian waters a vessel crossing a river keeps out of the way of a power-driven vessel going up or down the river, except on the St. Lawrence River seaward of Ile Rouge); that Rules 11, 12, 14 and 16 have no Canadian paragraphs; and the amendment list (SOR/2008-272, SOR/2023-105 are the latest). Rules 18 and 19 were NOT read from this consolidation. The HTML pages on laws-lois.justice.gc.ca were blocked. Justice Laws generally allows reproduction of federal law if accurate and not presented as official, but that statement was not seen during this research, so this entry is marked unclear."
+    },
+    {
+      "id": "colregs-steering-crc1416-2008-copy",
+      "title": "Collision Regulations, C.R.C., c. 1416 (copy of the consolidated regulations, consolidation dated 2008, hosted by a sailing school)",
+      "publisher": "Government of Canada (consolidated text); copy hosted by Blackfish Sailing",
+      "url": "https://blackfishsailing.com/wp-content/uploads/2022/11/Collision-Regulations.pdf",
+      "edition": "Consolidation shown as 2008-06-09; accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Unofficial, out-of-date copy, seen only through an automated fetch-and-summarise tool that returned quoted paragraphs on 2026-10-06. Used for the wording of Rules 11 to 19, especially Rules 17, 18 and 19 which could not be read in the current consolidation. The tool reported no Canadian paragraphs in Rules 12, 14, 16, 17, 18 or 19 and only paragraphs (a) to (f) in Rule 18. Amendments since 2008 (SOR/2008-272, SOR/2014-17, SOR/2023-105) were checked through Canada Gazette summaries and do not appear to touch Rules 11 to 19, but a reviewer must confirm against the current Justice Laws text."
+    },
+    {
+      "id": "colregs-steering-gazette-sor-2023-105",
+      "title": "Regulations Amending Certain Department of Transport Regulations (Miscellaneous Program), SOR/2023-105",
+      "publisher": "Canada Gazette, Part II, Vol. 157, No. 12",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2023/2023-06-07/html/sor-dors105-eng.html",
+      "edition": "2023-06-07; accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Used only to confirm that the latest amendment to the Collision Regulations changed 'Notice to Shipping' to 'Navigational Warning' (section 7, Rule 6(c), Rule 10(m)) and did not touch Rules 11 to 19. Background only; not cited in lessons."
+    }
+  ]
+}

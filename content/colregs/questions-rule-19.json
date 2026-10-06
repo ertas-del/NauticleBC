@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-19.q01",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Rule 19 applies to which vessels?",
+      "options": [
+        "All vessels in any visibility",
+        "Vessels not in sight of one another when navigating in or near an area of restricted visibility",
+        "Vessels in sight of one another in fog",
+        "Only vessels fitted with radar"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(a) covers vessels not in sight of one another in or near restricted visibility. If vessels can see each other, even in fog, Section II applies. Rule 19 applies whether or not a vessel has radar.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q02",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "In restricted visibility, what does Rule 19(b) require of a power-driven vessel beyond a safe speed?",
+      "options": [
+        "Her anchor ready to let go",
+        "Her engines ready for immediate manoeuvre",
+        "A second radar switched on",
+        "A crew member stationed at the stern"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(b) asks every vessel to proceed at a safe speed for the conditions and a power-driven vessel to have her engines ready for immediate manoeuvre. The other options may be good practice in some situations but are not what Rule 19(b) says.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q03",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "In fog, a radar contact is fine on your starboard bow, closing, with a steady bearing. You decide to alter course. Which alteration does Rule 19(d) tell you to avoid, so far as possible?",
+      "options": [
+        "An alteration to starboard",
+        "An alteration to port",
+        "Any reduction of speed",
+        "Neither; Rule 19 does not restrict alterations"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(d)(i): avoid an alteration to port for a vessel forward of the beam, other than one being overtaken. A turn to starboard is the usual action here. Rule 19 does not restrict speed reductions; Rule 8 encourages them when more time is needed.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q04",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "In fog, a radar contact is closing from abaft your starboard beam. If you alter course, which direction should you avoid?",
+      "options": [
+        "To port, away from the contact",
+        "To starboard, toward the contact",
+        "Neither, because she is overtaking you and must keep clear",
+        "Either, as long as the alteration is large"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(d)(ii): avoid an alteration of course towards a vessel abeam or abaft the beam. She is on your starboard side, so a starboard turn would be toward her. The overtaking rule is in Section II and does not apply between vessels not in sight of one another.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q05",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "In fog you hear, apparently forward of your beam, the fog signal of a vessel you cannot see. You have not determined that there is no risk of collision. What does Rule 19(e) require?",
+      "options": [
+        "Maintain course and speed and sound five short blasts",
+        "Reduce speed to the minimum at which you can keep your course, take all way off if necessary, and navigate with extreme caution until the danger is over",
+        "Alter course 90 degrees to port immediately",
+        "Increase speed to clear the area quickly"
+      ],
+      "correct_index": 1,
+      "explanation": "That is the wording of Rule 19(e). Holding speed or speeding up is the opposite of what is required. A large port turn toward an unseen vessel forward of the beam goes against Rule 19(d), and five short blasts is a signal for vessels in sight of one another.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q06",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In thick fog, who is the stand-on vessel between two power-driven vessels that detect each other only by radar, one crossing from the other's starboard side?",
+      "options": [
+        "The vessel on the other's starboard side",
+        "The vessel on the other's port side",
+        "Neither; Rule 19 has no stand-on vessel and each must act if risk of collision exists",
+        "The larger of the two"
+      ],
+      "correct_index": 2,
+      "explanation": "The crossing rule and the stand-on rule are in Section II, which applies only to vessels in sight of one another. Under Rule 19 each vessel must determine whether risk or a close-quarters situation is developing and act in ample time if so.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q07",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In fog you are overtaking a slower vessel that is fine on your port bow, by radar only, and the range is closing. Which statement about Rule 19(d) is correct?",
+      "options": [
+        "You must not alter to port because she is forward of your beam",
+        "The 'avoid altering to port for a vessel forward of the beam' restriction does not apply to a vessel being overtaken, so you may pass on either side with ample room",
+        "She must keep out of your way because you are overtaking",
+        "You must stop until she is out of radar range"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(d)(i) excludes a vessel being overtaken from the 'no port turn' restriction. You can choose the side that gives the most room. Rule 13 does not apply in Section III, and a vessel being overtaken has no duty to keep out of your way. Stopping is not required by the rule.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-19.q08",
+      "lesson_id": "colregs.rule-19.restricted-visibility",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In fog you hear a fog signal forward of the beam. Your radar plot of the vessel that is sounding it shows she will pass 3 miles off and is opening. When does Rule 19(e) NOT require you to slow to bare steerage way?",
+      "options": [
+        "Never; any fog signal forward of the beam requires it",
+        "When it has been determined that a risk of collision does not exist",
+        "When your vessel is under 20 metres",
+        "When you are in a traffic separation scheme"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(e) opens with 'except where it has been determined that a risk of collision does not exist'. A reliable plot showing the vessel passing well clear can be that determination, but it has to be a real determination based on adequate information (Rule 7), not a guess. Vessel length and traffic schemes are not exceptions.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
