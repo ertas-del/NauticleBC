@@ -119,6 +119,40 @@
       "explanation": "The two-bulge picture is a simplification. Land blocks the bulges, and each coast and basin responds in its own way, so local observation is needed. The moon's position can be predicted very well. Tide tables are not hand-copied by law, and wind changes the actual tide but is not its main cause.",
       "source_ids": ["noaa-tides-tutorial-cycles", "noaa-tides-tutorial-othereffects"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.what-causes-tides.q08",
+      "lesson_id": "tides.what-causes-tides",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "At a place with a regular semidiurnal tide, high water is at 1000. About when would you expect the following low water?",
+      "options": [
+        "About 1300",
+        "About 1612",
+        "About 2225",
+        "About 1050"
+      ],
+      "correct_index": 1,
+      "explanation": "High waters are about 12 hours 25 minutes apart, so high water to the next low water is about half that: a little over 6 hours, roughly 6 hours 12 minutes. 1000 plus 6 h 12 min is about 1612. Three hours is only half a fall, 2225 is about the next high water, and 50 minutes is the daily delay, not the time from high to low.",
+      "source_ids": ["noaa-tides-tutorial-lunarday"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.what-causes-tides.q09",
+      "lesson_id": "tides.what-causes-tides",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which description of a tide is best?",
+      "options": [
+        "Waves breaking on a beach as the wind pushes them ashore",
+        "The regular rise and fall of the sea surface caused by the gravitational pull of the moon and sun",
+        "A current that always flows north along the coast",
+        "A change in sea level caused only by rain and river outflow"
+      ],
+      "correct_index": 1,
+      "explanation": "A tide is the regular rise and fall of the sea surface, caused by gravity between the Earth, the moon and the sun. Wind waves, a fixed-direction current and rain or river outflow are different things, although weather can change the actual water level a little from the prediction.",
+      "source_ids": ["noaa-tides-tutorial-intro"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

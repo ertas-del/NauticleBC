@@ -10,6 +10,15 @@ objectives:
   - List the main factors every vessel weighs, and the extra radar factors for vessels with working radar.
   - Describe the Canadian modification about passing dredges, tows, grounded vessels and wrecks.
 estimated_minutes: 12
+key_facts:
+  - Every vessel must proceed at a safe speed at all times; the Rules give no fixed speed figure.
+  - A safe speed lets you take proper and effective action to avoid collision and stop within a distance appropriate to the conditions.
+  - "Factors for every vessel: visibility, traffic density, manoeuvrability (stopping distance and turning ability), background light at night, wind, sea and current, nearby hazards, and draught against available depth."
+  - At night, background light from shore lights or back-scatter from your own lights can make other vessels harder to see.
+  - Vessels with working radar also consider its limits, the range scale in use, interference from sea state and weather, and the number, location and movement of detected vessels.
+  - Radar may not detect small vessels, ice and other floating objects at an adequate range.
+  - "Canadian addition: in Canadian roadsteads, harbours, rivers, lakes and inland waterways, pass a dredge, tow, grounded vessel or wreck with caution at a speed that will not adversely affect it."
+  - If you cannot be sure your passing will not adversely affect it, proceed with caution at the minimum speed at which you can keep on your course.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -18,19 +27,19 @@ review_status: needs_expert_review
 
 ## What the rule asks of you
 
-Every vessel must proceed at a **safe speed** at all times. A safe speed lets you do two things:
+Every vessel must proceed at a ==safe speed== ==at all times==. A safe speed lets you do two things:
 
-- take **proper and effective action** to avoid collision, and
-- **stop within a distance suitable** for the conditions at the time.
+- take ==proper and effective action== to avoid collision, and
+- ==stop within a distance suitable== for the conditions at the time.
 
-The Rules give no speed figure. Instead they list things to take into account.
+The Rules give ==no speed figure==. Instead they list things to take into account.
 
 **Everyone considers:**
 
 - the state of **visibility**,
 - **traffic density**, including concentrations of fishing vessels or other vessels,
 - **manoeuvrability**, particularly stopping distance and turning ability in the conditions,
-- at night, **background light** such as shore lights or back-scatter from your own lights,
+- at night, ==background light== such as shore lights or back-scatter from your own lights,
 - the state of **wind, sea and current**, and how close **navigational hazards** are,
 - your **draught** in relation to the depth of water available.
 
@@ -39,13 +48,13 @@ The Rules give no speed figure. Instead they list things to take into account.
 - the characteristics, efficiency and **limits of the radar**,
 - any constraints from the **range scale** in use,
 - the effect of **sea state, weather and other interference** on detection,
-- the chance that **small vessels, ice and other floating objects** are not picked up at a useful range,
+- the chance that ==small vessels, ice and other floating objects== are not picked up at a useful range,
 - the **number, location and movement** of vessels the radar detects,
 - the more exact **assessment of visibility** that radar ranging of other vessels may allow.
 
 ## The Canadian addition
 
-The Canadian text adds two paragraphs for Canadian roadsteads, harbours, rivers, lakes and inland waterways. When you pass a **dredge, a tow, a grounded vessel or a wreck**, you must go with caution and at a speed that will **not adversely affect** them, and you must follow any relevant notices to mariners or navigational warnings. If you cannot tell with certainty whether your passing will have an adverse effect, you must proceed with caution at the **minimum speed at which you can keep on your course**.
+The Canadian text adds two paragraphs for Canadian roadsteads, harbours, rivers, lakes and inland waterways. When you pass a ==dredge, a tow, a grounded vessel or a wreck==, you must go with caution and at a speed that will ==not adversely affect== them, and you must follow any relevant notices to mariners or navigational warnings. If you cannot tell with certainty whether your passing will have an adverse effect, you must proceed with caution at the ==minimum speed at which you can keep on your course==.
 
 ## Plain-language explanation
 

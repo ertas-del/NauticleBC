@@ -65,7 +65,7 @@
         "Because traffic in the lane is heavy"
       ],
       "correct_index": 1,
-      "explanation": "The rule allows entry to a separation zone, or crossing a separation line, in an emergency to avoid immediate danger, or to engage in fishing within the zone. Saving time, waiting for a tide and heavy traffic are not exceptions.",
+      "explanation": "Apart from vessels crossing the scheme or joining or leaving a lane, a vessel should not normally enter a separation zone or cross a separation line except in an emergency to avoid immediate danger, or to engage in fishing within the zone. Saving time, waiting for a tide and heavy traffic are not exceptions.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
     },
@@ -117,6 +117,57 @@
       ],
       "correct_index": 0,
       "explanation": "A vessel not using a scheme should avoid it by as wide a margin as practicable. Following a lane would make you a vessel using the scheme, entering the separation zone is only for specific reasons, and anchoring in or near a scheme's ends is to be avoided.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q08",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You need to join a traffic lane partway along its length rather than at its end. How should you join?",
+      "options": [
+        "At a right angle to the lane, so other traffic can see you clearly",
+        "At as small an angle to the general direction of traffic flow as practicable",
+        "Through the separation zone, so you approach from the inside",
+        "Against the flow of traffic, then turn when there is a gap"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 10 says a vessel should normally join or leave a lane at its termination, and when joining or leaving from either side should do so at as small an angle to the general direction of traffic flow as practicable. The right-angle heading is for crossing a lane, not joining it. Using the separation zone as an approach, or heading against the flow, is not allowed.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q09",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A 12 metre sailing vessel is about to sail across a traffic lane in which a large power-driven ship is following the lane. What duty does Rule 10 put on the sailing vessel?",
+      "options": [
+        "None, because power gives way to sail in every situation",
+        "She must not impede the safe passage of the power-driven vessel following the lane",
+        "She must stop and wait at the edge of the scheme until all lane traffic has passed",
+        "She must call the ship on VHF and agree a passing arrangement before entering the scheme"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 10 says a vessel under 20 metres or a sailing vessel must not impede the safe passage of a power-driven vessel following a traffic lane. The general idea that power gives way to sail does not override that duty. Rule 10 does not require stopping or a VHF agreement, though a radio call may still be good seamanship.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-10.q10",
+      "lesson_id": "colregs.rule-10.traffic-separation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Two power-driven vessels in the same traffic lane are on courses that create a risk of collision. One says, \"We are both following the lane, so the crossing and overtaking rules do not apply here.\" Which statement is correct?",
+      "options": [
+        "Correct, because inside a scheme Rule 10 replaces the other Steering and Sailing Rules",
+        "Correct, but only in restricted visibility",
+        "Incorrect, because Rule 10 does not relieve any vessel of her obligations under any other rule",
+        "Incorrect, because the larger vessel always has right of way in a lane"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 10 states that it does not relieve any vessel of her obligations under any other rule. Overtaking, crossing and the other rules, and Rule 8 on avoiding action, still apply inside a scheme. Visibility does not change that, and size alone does not give right of way.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
     }

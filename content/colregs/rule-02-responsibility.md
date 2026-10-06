@@ -10,6 +10,12 @@ objectives:
   - Describe when departing from the Rules is justified and what must be considered first.
   - Recognise the difference between a justified departure and simply ignoring the Rules.
 estimated_minutes: 7
+key_facts:
+  - "Rule 2(a): nothing in the Rules excuses a vessel, her owner, her master or her crew from the consequences of neglect."
+  - Neglect covers failing to comply with the Rules and neglecting any precaution required by the ordinary practice of seamen or by the special circumstances of the case.
+  - "\"It was the other vessel's duty to give way\" is not a complete defence; neglecting a sensible precaution can still leave you answerable."
+  - Rule 2(b) allows a departure from the Rules only when it is necessary to avoid immediate danger.
+  - Before departing from the Rules you must have due regard to all dangers of navigation and collision and to special circumstances, including the limitations of the vessels involved.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -20,12 +26,12 @@ review_status: needs_expert_review
 
 Rule 2 has two parts.
 
-**Part (a), responsibility.** Nothing in the Rules frees a vessel, her owner, her master or her crew from the consequences of:
+**Part (a), responsibility.** Nothing in the Rules frees ==a vessel, her owner, her master or her crew== from the consequences of:
 
 - neglecting to comply with the Rules, or
-- neglecting any **precaution** that the **ordinary practice of seamen** or the **special circumstances of the case** call for.
+- neglecting any **precaution** that the ==ordinary practice of seamen== or the ==special circumstances of the case== call for.
 
-**Part (b), departure.** When you read and apply the Rules, you must have **due regard** for all the dangers of navigation and collision and for any special circumstances, **including the limitations of the vessels involved**. Those circumstances can make it **necessary to depart from the Rules to avoid immediate danger**.
+**Part (b), departure.** When you read and apply the Rules, you must have ==due regard== for all the dangers of navigation and collision and for any special circumstances, ==including the limitations of the vessels involved==. Those circumstances can make it ==necessary to depart from the Rules to avoid immediate danger==.
 
 ## Plain-language explanation
 
@@ -39,7 +45,7 @@ You are the give-way vessel in a crossing situation in a narrow BC passage, and 
 
 ## Common mistakes
 
-- Reading "it was the other vessel's duty" as a complete defence. Neglect of ordinary seamanship precautions can still count against you.
+- Reading "it was the other vessel's duty" as ==a complete defence==. Neglect of ordinary seamanship precautions can still count against you.
 - Treating Rule 2(b) as permission to ignore a Rule whenever it is inconvenient. It is for avoiding **immediate danger**.
 - Forgetting that responsibility is shared by the owner, master and crew, and not only by whoever was at the helm.
 - Departing from the Rules without thinking about the other vessel's limitations, such as a vessel that cannot stop or turn quickly.

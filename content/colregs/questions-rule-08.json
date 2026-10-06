@@ -102,6 +102,40 @@
       "explanation": "Rule 8 says that a vessel required not to impede is not relieved of that duty by getting close, and must take early action and have full regard to the other rules. Waiting, or sounding a signal alone, does not meet that. The other vessel also stays bound by the rules and must not take its priority as an excuse to stop looking.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q07",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "If the circumstances of the case admit, what qualities does Rule 8 ask of any action taken to avoid collision?",
+      "options": [
+        "Positive, made in ample time and with due regard to good seamanship",
+        "Cautious, made at the last moment and kept as small as possible",
+        "Announced on VHF first, then made once the other vessel agrees",
+        "Always a turn to starboard of at least 20 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 8 asks for action that follows the other Steering and Sailing Rules and, if the circumstances admit, is positive, made in ample time and with due regard to good seamanship. Last-moment or small actions are what the rule warns against, a VHF agreement is not a condition in Rule 8, and Rule 8 sets no fixed direction or number of degrees.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-08.q08",
+      "lesson_id": "colregs.rule-08.action-to-avoid",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A large vessel can safely navigate only within a narrow channel, and a small vessel that must not impede her is closing so that risk of collision exists. What does Rule 8 say about the large vessel?",
+      "options": [
+        "She may hold her course and speed whatever happens, because the small vessel must not impede her",
+        "She remains fully obliged to comply with the Steering and Sailing Rules",
+        "She must always stop and let the small vessel clear",
+        "She is excused from keeping a lookout until the small vessel has cleared"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 8 says the vessel whose passage is not to be impeded remains fully obliged to comply with the Rules when the two vessels are approaching so as to involve risk of collision. The small vessel's duty not to impede does not give the large vessel a licence to ignore the Rules, and nothing excuses either vessel from the lookout. Stopping may or may not be the right action; the rule does not require it in every case.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

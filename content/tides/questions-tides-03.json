@@ -119,6 +119,57 @@
       "explanation": "Rising and falling describe the height of the water; flood and ebb describe the stream toward or away from the head of the water. In a simple inlet a rising tide goes with a flooding stream. Slack water is a stream term (the flow is near zero), and the stand is a height term (the level barely changes), so the third and fourth sentences each mix them up. An ebbing stream goes with a falling level in the simple case, not a rising one.",
       "source_ids": ["noaa-tides-currents-glossary", "noaa-tides-tutorial-intro"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.vocabulary.q08",
+      "lesson_id": "tides.vocabulary",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "What level do Canadian charts use as chart datum?",
+      "options": [
+        "Mean sea level",
+        "Lower low water, large tide (LLWLT), formerly called lowest normal tide (LNT)",
+        "Higher high water, large tide",
+        "The lowest level the water has ever been recorded at"
+      ],
+      "correct_index": 1,
+      "explanation": "CHS uses lower low water, large tide (LLWLT) as chart datum; older charts and books call it lowest normal tide (LNT). It is a low-water level that the water seldom falls below. Mean sea level is not a low-water datum, a high-water level is used for clearances rather than depths, and chart datum is not the lowest level ever recorded, so the water can occasionally fall below it.",
+      "source_ids": ["chs-vertical-datum-chart-references"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.vocabulary.q09",
+      "lesson_id": "tides.vocabulary",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "In the terms used in this module, what is the ebb?",
+      "options": [
+        "The tidal stream running away from shore or down an inlet",
+        "The tidal stream running toward the shore or up an inlet",
+        "The height of the tide at low water",
+        "The short pause in height at high water"
+      ],
+      "correct_index": 0,
+      "explanation": "Ebb is the stream running away from shore or down an inlet; flood is the stream running toward the shore or up an inlet. Both are words for the stream, not the height. Low water is a height, and the pause in height near high or low water is the stand.",
+      "source_ids": ["noaa-tides-currents-glossary"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.vocabulary.q10",
+      "lesson_id": "tides.vocabulary",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You are checking whether your mast will clear a bridge in tidal waters. The chart shows a vertical clearance. Which statement is correct?",
+      "options": [
+        "The clearance is measured from chart datum, so you will always have at least that much room",
+        "The clearance is measured from a high-water level, so you need the chart notes and the current height of tide to know the real room",
+        "The clearance is measured from the seabed",
+        "Clearances do not change with the tide"
+      ],
+      "correct_index": 1,
+      "explanation": "In tidal waters, charted heights and clearances are measured from a high-water level, not from chart datum. The real room depends on the height of tide at the time, and the chart notes say exactly which reference is used. Depths, not clearances, are measured from chart datum, and clearances are never measured from the seabed.",
+      "source_ids": ["chs-vertical-datum-chart-references"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

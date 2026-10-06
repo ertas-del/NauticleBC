@@ -85,6 +85,57 @@
       "explanation": "The Canadian paragraphs require a caution and a speed that will not adversely affect a dredge, tow, grounded vessel or wreck. Where that cannot be determined with certainty, the passing vessel proceeds with caution at the minimum speed at which she can be kept on her course. Nothing requires stopping, and a close, fast pass is the opposite of the intent.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q06",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "At night you are approaching a city waterfront with bright shore lights behind the anchorage. Why does Rule 6 ask you to consider this when setting your speed?",
+      "options": [
+        "Background light can make the lights of other vessels hard to pick out, so you may see them later",
+        "Shore lights mean you are in a harbour, where the speed limit is always 5 knots",
+        "Bright lights improve visibility, so you may safely go faster",
+        "It does not; background light is only a factor in daylight"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 6 lists, at night, the presence of background light such as from shore lights or back-scatter of your own lights. Other vessels' lights can be lost against that background, so you may detect them later and need more time. Rule 6 sets no fixed speed limit, and background light is a night-time factor.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q07",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Under the Canadian addition to Rule 6, in a Canadian harbour, river or inland waterway, how must you pass a tow, a grounded vessel or a wreck?",
+      "options": [
+        "At any speed, as long as you keep at least 50 metres off",
+        "With caution, at a speed that will not adversely affect the vessel or work being passed, following any relevant notices",
+        "At full speed, to keep the time spent passing as short as possible",
+        "Only after receiving permission from the vessel being passed"
+      ],
+      "correct_index": 1,
+      "explanation": "The Canadian paragraphs require caution and a speed that will not adversely affect the vessel or work being passed, mainly because of wash and wake, and compliance with any relevant notices. No fixed passing distance is given, speeding past increases wake, and the rule does not require permission from the other vessel.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q08",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which of these is one of the extra factors Rule 6 lists only for vessels with operational radar?",
+      "options": [
+        "The vessel's draught in relation to the available depth of water",
+        "The state of wind, sea and current",
+        "Any constraints imposed by the radar range scale in use",
+        "Traffic density, including concentrations of fishing vessels"
+      ],
+      "correct_index": 2,
+      "explanation": "The radar factors include the radar's characteristics and limits, the constraints of the range scale in use, interference from sea state and weather, small targets that may not be detected, the number, location and movement of detected vessels, and a more exact assessment of visibility. Draught, wind, sea and current, and traffic density are factors for every vessel, with or without radar.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

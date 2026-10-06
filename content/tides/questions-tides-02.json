@@ -119,6 +119,40 @@
       "explanation": "The moon's angle north or south of the equator (its declination) makes the two bulges sit at unequal angles, increasing the difference between successive highs and between successive lows, called the diurnal inequality. Highs do not become more alike, and the range is not simply at its smallest. The tide does not stop.",
       "source_ids": ["noaa-tides-tutorial-angle", "dfo-tides-and-tidal-streams-chapter"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.spring-and-neap.q08",
+      "lesson_id": "tides.spring-and-neap",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are planning a passage through a channel with strong tidal streams. Compared with neap tides, what would you generally expect at spring tides?",
+      "options": [
+        "Weaker tidal streams, because the range is smaller",
+        "Stronger tidal streams, because more water moves in and out with the larger range",
+        "No tidal streams at all",
+        "The same streams, because streams do not depend on the range"
+      ],
+      "correct_index": 1,
+      "explanation": "Spring tides have the largest range, so more water has to move in and out, and tidal streams are usually stronger. Neaps have a smaller range and usually weaker streams. The actual speeds for a channel still come from the current tables.",
+      "source_ids": ["noaa-tides-tutorial-variations", "dfo-tides-and-tidal-streams-chapter"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.spring-and-neap.q09",
+      "lesson_id": "tides.spring-and-neap",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What happens to tidal ranges when the moon is at apogee, its farthest point from the Earth?",
+      "options": [
+        "They are above average",
+        "They are below average",
+        "They do not change",
+        "There is no tide at all"
+      ],
+      "correct_index": 1,
+      "explanation": "At apogee the moon is farthest away, its tide-raising effect is weaker, and ranges are below average (apogean tides). At perigee, when the moon is closest, ranges are above average. The tide does not stop at apogee.",
+      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

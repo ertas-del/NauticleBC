@@ -102,6 +102,40 @@
       "explanation": "Where the flow is driven by a head of water between two basins, one DFO source notes that slack water can fall roughly midway between high and low water. That is why it is unsafe to assume slack at high or low water. The exact timing needs the current predictions for that channel.",
       "source_ids": ["dfo-tides-and-tidal-streams-chapter", "noaa-tides-currents-faq"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tidal-currents.q07",
+      "lesson_id": "tides.tidal-currents",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which of these BC passages is named in DFO sources as having very strong tidal streams, reported at over 7 m/s (more than 13 knots)?",
+      "options": [
+        "Seymour Narrows",
+        "The open Strait of Georgia off Vancouver",
+        "Queen Charlotte Sound offshore",
+        "The outer coast off Tofino"
+      ],
+      "correct_index": 0,
+      "explanation": "Seymour Narrows is one of the BC narrows (with Okisollo, Surge, Hole-in-the-Wall, Yuculta and Arran Rapids) that DFO sources name for very strong streams; one DFO source gives over 7 m/s, more than 13 knots, there. The open straits and the outer coast are wide water where the flow is not squeezed through a narrow gap in the same way.",
+      "source_ids": ["dfo-tides-and-tidal-streams-chapter", "chs-tides-in-canadian-waters-2007"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tidal-currents.q08",
+      "lesson_id": "tides.tidal-currents",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What does a current table give you that a tide table does not?",
+      "options": [
+        "Heights of high and low water above chart datum",
+        "Predicted stream speeds in knots, with the times of slack water and maximum flow",
+        "Charted depths over shoals",
+        "The weather forecast for the area"
+      ],
+      "correct_index": 1,
+      "explanation": "Current tables give predicted stream speeds in knots and the times of slack water and maximum flow. Heights above chart datum are in the tide table, charted depths are on the chart, and neither table is a weather forecast. As with the tide tables, check the time standard and the daylight saving hour.",
+      "source_ids": ["ubc-atsc113-tide-current-tables", "noaa-tides-currents-faq"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

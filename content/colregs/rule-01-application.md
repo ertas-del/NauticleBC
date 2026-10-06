@@ -10,6 +10,14 @@ objectives:
   - Explain how special local rules, fleet signals and traffic separation schemes fit alongside the Rules.
   - Describe who decides whether a vessel of special construction or purpose may depart from the light and sound requirements in Canada.
 estimated_minutes: 7
+key_facts:
+  - The Rules apply to all vessels on the high seas and in all waters connected to them that are navigable by seagoing vessels.
+  - Rule 1 gives no exemption based on a vessel's size.
+  - Special rules made by an appropriate authority for a roadstead, harbour, river, lake or inland waterway may exist, but must conform as closely as possible to the Rules.
+  - Special local rules are an addition to the Rules, not a replacement for them.
+  - Additional signals may be set for warships, vessels in convoy and fishing vessels fishing as a fleet; they must not be mistakable for any signal in the Rules.
+  - Traffic separation schemes may be adopted by the IMO for the purpose of the Rules.
+  - For a Canadian vessel of special construction or purpose that cannot fully comply with the light, shape or sound signal rules, the Minister determines the closest possible compliance.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -20,19 +28,19 @@ review_status: needs_expert_review
 
 Rule 1 sets the scope of the whole set of Rules. In plain terms:
 
-- The Rules apply to **all vessels** on the **high seas** and in **all waters connected to them that seagoing vessels can navigate**. That reaches well into inlets, straits and harbours.
-- **Special rules** made by the proper authority for a roadstead, harbour, river, lake or inland waterway can exist alongside the Rules. They must follow the international Rules **as closely as possible**.
-- **Extra signals** (additional lights, shapes or whistle signals) can be set for warships, vessels sailing in convoy, and fishing vessels working as a fleet. They must not be mistakable for any signal the Rules already give.
-- **Traffic separation schemes** can be adopted by the international maritime body (the IMO). Rule 10 explains how to behave in them.
-- A government can decide that a vessel of **special construction or purpose** cannot fully meet the rules on lights, shapes or sound signals without damaging its special job. That vessel then has to meet the **closest alternative** the government decides is possible.
+- The Rules apply to ==all vessels== on the ==high seas== and in ==all waters connected to them that seagoing vessels can navigate==. That reaches well into inlets, straits and harbours.
+- **Special rules** made by the proper authority for a roadstead, harbour, river, lake or inland waterway can exist alongside the Rules. They must follow the international Rules ==as closely as possible==.
+- **Extra signals** (additional lights, shapes or whistle signals) can be set for ==warships==, ==vessels sailing in convoy==, and ==fishing vessels working as a fleet==. They ==must not be mistakable== for any signal the Rules already give.
+- **Traffic separation schemes** can be adopted by the international maritime body (the ==IMO==). Rule 10 explains how to behave in them.
+- A government can decide that a vessel of **special construction or purpose** cannot fully meet the rules on lights, shapes or sound signals without damaging its special job. That vessel then has to meet the ==closest possible compliance== the government decides on.
 
 ## The Canadian addition
 
-For a Canadian vessel or Canadian pleasure craft, the decision about special construction or purpose is made by **the Minister**. The Canadian text also requires that each such decision be checked so that safety is **not reduced**. The checks look at things like how visible lights are, glare, vulnerability to damage and access for maintenance, and the same sort of points for sound signal equipment.
+For a Canadian vessel or Canadian pleasure craft, the decision about special construction or purpose is made by ==the Minister==. The Canadian text also requires that each such decision be checked so that safety is **not reduced**. The checks look at things like how visible lights are, glare, vulnerability to damage and access for maintenance, and the same sort of points for sound signal equipment.
 
 ## Plain-language explanation
 
-Think of Rule 1 as the answer to "does this rule apply to me, here?" The default answer is yes. There is no size exemption in Rule 1 itself, so a small fishing boat and a large ferry fall under the same Rules. Local rules (for example rules for a particular harbour) are allowed, but they are an addition and not a replacement. When a local rule and the Rules point in different directions, you need to know what the local rule says, so check the Sailing Directions and local notices before entering unfamiliar waters.
+Think of Rule 1 as the answer to "does this rule apply to me, here?" The default answer is yes. There is ==no size exemption== in Rule 1 itself, so a small fishing boat and a large ferry fall under the same Rules. Local rules (for example rules for a particular harbour) are allowed, but they are ==an addition and not a replacement==. When a local rule and the Rules point in different directions, you need to know what the local rule says, so check the Sailing Directions and local notices before entering unfamiliar waters.
 
 ## On the bridge
 

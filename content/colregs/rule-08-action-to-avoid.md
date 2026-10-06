@@ -11,6 +11,15 @@ objectives:
   - Say when an alteration of course alone is the best choice and when slowing or stopping is better.
   - Explain what a vessel that must not impede another vessel still has to do once risk of collision exists.
 estimated_minutes: 9
+key_facts:
+  - Any action to avoid collision must follow the other Steering and Sailing Rules and, if circumstances admit, be positive, made in ample time and with due regard to good seamanship.
+  - Alterations of course or speed should be large enough to be readily apparent to another vessel observing visually or by radar.
+  - A succession of small alterations of course or speed should be avoided.
+  - With sufficient sea room, an alteration of course alone may be the most effective action, provided it is made in good time, is substantial and does not result in another close-quarters situation.
+  - Avoiding action should result in passing at a safe distance, and its effectiveness is checked until the other vessel is finally past and clear.
+  - If necessary to avoid collision or allow more time, a vessel shall slacken speed or take all way off by stopping or reversing.
+  - A vessel required not to impede another must take early action to leave sufficient sea room, and is not relieved of this when risk of collision exists.
+  - The vessel whose passage is not to be impeded remains fully obliged to comply with the Steering and Sailing Rules when risk of collision exists.
 source_ids: [colregs-canada]
 review_status: needs_expert_review
 ---
@@ -24,20 +33,22 @@ must act. It applies in any condition of visibility.
 
 In plain terms:
 
-- **Follow the other rules.** Any avoiding action has to fit the rest of Part B. You do not get to invent a
+- **Follow the other rules.** Any avoiding action has to ==fit the rest of Part B==. You do not get to invent a
   manoeuvre that breaks another rule.
-- **Be positive, early and seamanlike.** If the situation allows, act decisively and in ample time. Waiting
-  until the last minute leaves you with only bad options.
-- **Be readily apparent.** A change of course, speed or both should be large enough that the other vessel can
-  see it, by eye or on radar. Avoid a string of small alterations.
+- **Be positive, early and seamanlike.** If the situation allows, act ==positively==, ==in ample time== and with
+  ==due regard to good seamanship==. Waiting until the last minute leaves you with only bad options.
+- **Be readily apparent.** A change of course, speed or both should be ==large enough to be readily apparent==
+  to the other vessel, by eye or on radar. ==Avoid a succession of small alterations==.
 - **Prefer a course change when you have sea room.** If there is enough room, altering course alone can be the
-  most effective way to avoid a close-quarters situation, provided it is made in good time, is substantial, and
-  does not set up a new close-quarters situation with someone else.
-- **Aim to pass at a safe distance, then check.** Keep watching until the other vessel is finally past and clear.
-  Your action is only proven when it has worked.
-- **Use your speed.** If you need more time, you may slow down or take all way off by stopping or reversing.
+  most effective way to avoid a close-quarters situation, provided it is made ==in good time==, is ==substantial==,
+  and ==does not set up a new close-quarters situation== with someone else.
+- **Aim to pass at a safe distance, then check.** The action should make you pass at a ==safe distance==. Keep
+  watching until the other vessel is ==finally past and clear==. Your action is only proven when it has worked.
+- **Use your speed.** If it is necessary to avoid collision or to give yourself more time, you
+  ==shall slacken speed or take all way off== by stopping or reversing. When it is necessary, slowing down is
+  required, not just allowed.
 - **If you must not impede another vessel, act early.** A vessel that the rules say must not impede the passage
-  of another has to take early action to leave that vessel enough sea room.
+  of another has to ==take early action== to leave that vessel ==sufficient sea room==.
 
 ## Why it works this way
 
@@ -56,7 +67,7 @@ Several rules tell one vessel not to impede another (for example in narrow chann
 separation schemes). The rule says such a vessel does not escape that duty just because it gets close. If
 the two vessels are approaching so that risk of collision exists, the vessel that must not impede still has to
 act early, with full regard to what the other rules ask. The vessel whose passage is not to be impeded also
-stays bound by the Rules. Neither side may treat this as a licence to stop looking or acting.
+==remains fully obliged to comply with the Rules==. Neither side may treat this as a licence to stop looking or acting.
 
 ## A bridge-watch example
 
@@ -69,7 +80,7 @@ steady bearing. Your options:
    hold the new course until the other vessel is clear, then resume your track.
 
 Option 2 is what the rule describes. If there is a shoal close on the side you want to turn towards, a
-reduction in speed (or stopping) may be the better tool, and Rule 8 expressly allows it.
+reduction in speed (or stopping) may be the better tool, and Rule 8 expressly provides for it.
 
 ## Common mistakes
 

@@ -85,6 +85,23 @@
       "explanation": "Rule 6 is in Section I, which Rule 4 says applies in any condition of visibility. Visibility is one of the factors in judging safe speed, but it does not decide whether the Rule applies. There is no distance trigger in Rule 6 either.",
       "source_ids": ["colregs-canada"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-04.q06",
+      "lesson_id": "colregs.rule-04.section-application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which statement correctly describes Section III of the Steering and Sailing Rules?",
+      "options": [
+        "It is Rule 19, and applies to vessels not in sight of one another when navigating in or near an area of restricted visibility",
+        "It is Rules 11 to 18, and applies only at night",
+        "It is Rule 19, and applies to every vessel whenever it is foggy anywhere on the coast, even vessels in sight of each other",
+        "It is Rules 4 to 10, and applies only in clear weather"
+      ],
+      "correct_index": 0,
+      "explanation": "Section III is Rule 19, conduct of vessels in restricted visibility. It applies to vessels not in sight of one another when navigating in or near an area of restricted visibility. Vessels that can see each other use Section II (Rules 11 to 18), and Section I (Rules 4 to 10) applies in any condition of visibility, not only in clear weather.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
     }
   ]
 }
