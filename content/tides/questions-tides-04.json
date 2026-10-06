@@ -1,0 +1,124 @@
+{
+  "module": "tides",
+  "questions": [
+    {
+      "id": "tides.types-of-tide.q01",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A place has two high waters and two low waters in a lunar day, with the two highs about equal in height and the two lows about equal in height. What type of tide is this?",
+      "options": [
+        "Diurnal",
+        "Semidiurnal",
+        "Mixed, mainly diurnal",
+        "Neap"
+      ],
+      "correct_index": 1,
+      "explanation": "Two highs and two lows of about equal size per lunar day is a semidiurnal tide. A diurnal tide has one high and one low. A mixed tide has two of each but with clearly unequal heights. Neap describes the size of the range, not the type of cycle.",
+      "source_ids": ["noaa-tides-tutorial-cycles", "chs-tides-in-canadian-waters-2007"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q02",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "How many high waters does a diurnal tide have in a lunar day?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct_index": 0,
+      "explanation": "A diurnal tide has one high water and one low water per lunar day. A semidiurnal or mixed tide has two highs. Three or four highs do not occur in the basic tide types.",
+      "source_ids": ["noaa-tides-tutorial-cycles", "chs-tides-in-canadian-waters-2007"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q03",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "What is the \"diurnal inequality\" in a mixed tide?",
+      "options": [
+        "The difference in height between a day's two high waters, or between its two low waters",
+        "The difference between spring range and neap range",
+        "The delay of about 50 minutes in the time of high water each day",
+        "The difference between predicted and observed water levels"
+      ],
+      "correct_index": 0,
+      "explanation": "In a mixed tide the two highs of a day are not the same height, and neither are the two lows. That difference is the diurnal inequality. The spring and neap difference is a monthly range change. The 50-minute delay is the lunar day effect, and the predicted versus observed gap is weather and other effects.",
+      "source_ids": ["noaa-tides-tutorial-angle", "dfo-tides-and-tidal-streams-chapter"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q04",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which is the safest general description of the tides on the BC coast, based on the sources in this lesson?",
+      "options": [
+        "Purely diurnal everywhere, with one high and one low a day",
+        "Purely semidiurnal everywhere, with two equal highs and two equal lows every day",
+        "Generally mixed and mostly semidiurnal in character, with unequal highs and lows on most days, though some southern stations lean more diurnal",
+        "No tide at all inside the Strait of Georgia"
+      ],
+      "correct_index": 2,
+      "explanation": "The DFO chapter describes the region as mixed, with Vancouver, Tofino and Prince Rupert mainly semidiurnal and Victoria and Sooke mainly diurnal. A CHS booklet gives a broader semidiurnal label for the Pacific coast. It is safest to say mixed and mostly semidiurnal and to read each day's table rather than assume.",
+      "source_ids": ["dfo-tides-and-tidal-streams-chapter", "chs-tides-in-canadian-waters-2007", "noaa-tides-tutorial-cycles"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q05",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "In an invented example, a day's two low waters are 0.4 m and 1.9 m above chart datum. Which statement is correct?",
+      "options": [
+        "The 1.9 m low is the lower low water",
+        "The 0.4 m low is the lower low water",
+        "The 0.4 m low is the higher low water",
+        "Neither is called a lower low water, because the heights differ"
+      ],
+      "correct_index": 1,
+      "explanation": "The lower low water is the lower of the day's two lows, which is 0.4 m. The 1.9 m low is the higher low water. It is exactly when heights differ that the names are useful. Options one and three get the labels reversed or declare there is no name.",
+      "source_ids": ["noaa-tides-currents-glossary"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q06",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Why do neighbouring coasts and ocean basins sometimes have different tide patterns?",
+      "options": [
+        "Each coast has its own moon",
+        "Continents block the tidal bulges from moving freely, and each basin and coastline responds in its own way",
+        "Tides are caused only by local winds",
+        "Gravity is stronger on some coasts than others"
+      ],
+      "correct_index": 1,
+      "explanation": "Land masses stop the bulges from simply following the moon around the globe, and the size, depth and shape of each basin shape the local pattern. There is only one moon. Winds modify tides but do not create the basic pattern, and the variation in gravity is not what differs between coasts.",
+      "source_ids": ["noaa-tides-tutorial-cycles", "noaa-tides-tutorial-othereffects"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q07",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You saw that this morning's low water was very low on a mixed-tide coast. You plan to cross a shoal at the afternoon low water. What is the best approach?",
+      "options": [
+        "Assume the afternoon low will be about as low as the morning one",
+        "Assume the afternoon low will always be higher than the morning one",
+        "Skip the table, because mixed tides cannot be predicted",
+        "Check the table for the afternoon low water itself, because the two lows of a day can differ a lot"
+      ],
+      "correct_index": 3,
+      "explanation": "In a mixed tide, the two low waters of the day can be quite different heights, and which one is lower changes through the month and year. Neither assumption is safe. Mixed tides are fully predictable, so use the table for the specific low and then apply a margin.",
+      "source_ids": ["noaa-tides-tutorial-cycles", "noaa-tides-tutorial-angle"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

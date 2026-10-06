@@ -1,0 +1,124 @@
+{
+  "module": "tides",
+  "questions": [
+    {
+      "id": "tides.tide-tables-and-heights.q01",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which statement about the rule of twelfths is correct?",
+      "options": [
+        "It is exact for every tide, so it can replace the tables",
+        "It only works for diurnal tides",
+        "It applies to the stream speed rather than the height",
+        "It is a rough approximation that assumes a smooth rise or fall of about six hours, so use the published method when accuracy matters"
+      ],
+      "correct_index": 3,
+      "explanation": "The rule splits a rise or fall into six periods covering 1/12, 2/12, 3/12, 3/12, 2/12 and 1/12 of the range. It assumes a smooth curve and a regular duration, so it is a rough estimate only. It is not exact and it is about the height, not the stream. Use the CHS method and a safety margin for real decisions.",
+      "source_ids": ["wikipedia-rule-of-twelfths", "wikipedia-tide-table"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q02",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Invented figures: low water at 0600 is 0.6 m and the next high water at 1200 is 4.2 m. Using the rule of twelfths, what is the height of tide at 1000?",
+      "options": [
+        "3.0 m",
+        "3.3 m",
+        "3.9 m",
+        "1.8 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Range = 4.2 - 0.6 = 3.6 m, so one twelfth is 0.3 m. Four hours after low water the running total is 9/12, which is 9 x 0.3 = 2.7 m of rise. Height = 0.6 + 2.7 = 3.3 m. A straight-line estimate would give 3.0 m, which is too low, 3.9 m is the 1100 value, and 1.8 m comes from using 4/12 instead of 9/12.",
+      "source_ids": ["wikipedia-rule-of-twelfths"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q03",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Same invented tide: low water at 0600 is 0.6 m and high water at 1200 is 4.2 m. Using the rule of twelfths, with the running total of 3/12 at 0800 and 6/12 at 0900 and splitting the hour evenly, about what is the height at 0830?",
+      "options": [
+        "1.8 m",
+        "1.95 m",
+        "2.1 m",
+        "2.4 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Halfway between 3/12 at 0800 and 6/12 at 0900 is 4.5/12. 4.5 x 0.3 m = 1.35 m of rise, so the height is 0.6 + 1.35 = 1.95 m. A straight line from low to high water would give 2.1 m, which is not what the rule says. 2.4 m is the 0900 value and 1.8 m is below the 0830 value.",
+      "source_ids": ["wikipedia-rule-of-twelfths"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q04",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Invented figures: a shoal has a charted sounding of 1.5 m. At 0900 the height of tide is 2.4 m. Your draft is 1.8 m. How much water is there under your keel over the shoal at 0900?",
+      "options": [
+        "0.6 m",
+        "2.1 m",
+        "3.9 m",
+        "5.7 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Depth = charted depth + height of tide = 1.5 + 2.4 = 3.9 m. Under the keel = depth - draft = 3.9 - 1.8 = 2.1 m. 0.6 m (2.4 - 1.8) forgets the charted depth. 3.9 m is the depth, not the clearance under the keel. 5.7 m adds the draft instead of subtracting it.",
+      "source_ids": ["chs-vertical-datum-chart-references"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q05",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Invented figures: a shoal has a charted sounding of 1.0 m. Your draft is 1.8 m and you want 1.2 m under the keel. The tide rises from low water 0.6 m at 0600 to high water 4.2 m at 1200. Using the rule of twelfths at whole hours (0.9 m at 0700, 1.5 m at 0800, 2.4 m at 0900, 3.3 m at 1000, 3.9 m at 1100), what is the first whole hour with enough water?",
+      "options": [
+        "0800",
+        "0900",
+        "1000",
+        "1100"
+      ],
+      "correct_index": 1,
+      "explanation": "Depth needed = 1.8 + 1.2 = 3.0 m. Height of tide needed = 3.0 - 1.0 = 2.0 m. At 0800 the height is only 1.5 m, which is not enough. At 0900 it is 2.4 m, which is enough. So 0900 is the first whole hour. In practice, allow a safety margin because the rule is only an estimate.",
+      "source_ids": ["wikipedia-rule-of-twelfths", "chs-vertical-datum-chart-references"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q06",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Invented figures: a reference port has low water at 0715 with a height of 0.8 m. The correction for a secondary port is a time difference of plus 0 h 50 min and a height difference of minus 0.2 m. What are the secondary port's low water time and height?",
+      "options": [
+        "0625 and 0.6 m",
+        "0625 and 1.0 m",
+        "0805 and 0.6 m",
+        "0805 and 1.0 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Apply each difference with its sign: 0715 + 0 h 50 min = 0805, and 0.8 m - 0.2 m = 0.6 m. The other options reverse the sign of the time difference, the height difference, or both. Always check the instructions in the actual publication, because the format of the corrections can differ.",
+      "source_ids": ["noaa-tide-predictions-help", "wikipedia-tide-table"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q07",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Invented scenario: a tide table states that its times are in standard time. Daylight saving time is in effect, and the table shows high water at 1400. At what time on the clocks aboard will high water occur?",
+      "options": [
+        "1300",
+        "1400",
+        "1500",
+        "1600"
+      ],
+      "correct_index": 2,
+      "explanation": "Daylight saving time is one hour ahead of standard time, so you add one hour: 1400 becomes 1500 on the clocks aboard. Subtracting gives 1300, and ignoring the difference (1400) is the classic error. Adding two hours (1600) is also wrong. Always check which time standard your actual edition uses.",
+      "source_ids": ["ubc-atsc113-tide-current-tables"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -65,6 +65,226 @@
       "reproduction": "unclear",
       "read_directly": false,
       "notes": "Only a tool-generated summary was seen. Used for the Juan de Fuca Strait traffic separation scheme and the traffic zones administered from Victoria, Tofino and Seattle. Check the current edition."
+    },
+    {
+      "id": "noaa-tides-tutorial-intro",
+      "title": "What are Tides? (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for the definition of tide and the tide versus tidal current split.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-cause",
+      "title": "What Causes Tides? (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides02_cause.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for why the moon outweighs the sun (distance matters more than mass; sun's tide-generating force roughly half the moon's).",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-gravity",
+      "title": "Gravity, Inertia, and Bulges (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides03_gravity.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for the two-bulge explanation. Its far-side explanation is phrased in terms of inertia; the difference-in-pull wording in our lesson is standard physics but is not word-for-word from this page.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-angle",
+      "title": "Changing Angles and Tides (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides04_angle.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for declination and why the two daily highs can differ in height.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-lunarday",
+      "title": "The Frequency of Tides (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides05_lunarday.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for the 24 h 50 min lunar day and the 12 h 25 min spacing of high waters.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-variations",
+      "title": "Tidal Variations (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides06_variations.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for spring and neap tides, perigee and apogee, perihelion and aphelion.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-cycles",
+      "title": "Types and Causes of Tidal Cycles (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for semidiurnal, diurnal and mixed tides and for the role of continents. Says the US West Coast is mixed semidiurnal; it does not cover British Columbia.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-tutorial-othereffects",
+      "title": "What Else Affects Tides? (NOAA tides and water levels tutorial)",
+      "publisher": "NOAA National Ocean Service",
+      "url": "https://oceanservice.noaa.gov/education/tutorial_tides/tides08_othereffects.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No reuse statement was seen on the page, so paraphrase only. Part of the NOAA National Ocean Service tides and water levels tutorial. Used for coastline shape, wind and air pressure effects on actual water levels.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-currents-glossary",
+      "title": "Tides and Currents Glossary",
+      "publisher": "NOAA Center for Operational Oceanographic Products and Services (CO-OPS)",
+      "url": "https://tidesandcurrents.noaa.gov/glossary.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Only the first 100,000 of about 118,000 characters were read. US usage (MLLW datum); Canadian chart datum is covered by the CHS entry. Used for definitions of range, higher high water, lower low water, height of tide, flood, ebb, slack water, stand, rise and fall, perigean and apogean. Paraphrase only.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tides-currents-faq",
+      "title": "Tides and Currents FAQ",
+      "publisher": "NOAA Center for Operational Oceanographic Products and Services (CO-OPS)",
+      "url": "https://tidesandcurrents.noaa.gov/faq.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Used for: slack water does not generally occur at high or low tide; the relationship depends on the location; tide and current predictions are produced separately; predictions are astronomical only and omit weather effects.",
+      "read_directly": true
+    },
+    {
+      "id": "noaa-tide-predictions-help",
+      "title": "Tide Predictions Help",
+      "publisher": "NOAA Center for Operational Oceanographic Products and Services (CO-OPS)",
+      "url": "https://tidesandcurrents.noaa.gov/noaatidepredictionshelp.html",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Used only for the general idea that subordinate-station predictions are made by applying time and height adjustments to a reference station. US system; the CHS secondary-port method must be checked against the CHS publication.",
+      "read_directly": true
+    },
+    {
+      "id": "chs-vertical-datum-chart-references",
+      "title": "Vertical datum chart references",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service",
+      "url": "https://tides.gc.ca/en/vertical-datum-chart-references",
+      "edition": "Accessed 2026-10-05",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Used for: Canadian chart datum is lower low water, large tide (LLWLT), formerly called lowest normal tide (LNT); water seldom falls below it; in tidal waters heights and clearances are charted from a high-water level. Which high-water level CHS uses was not confirmed.",
+      "read_directly": true
+    },
+    {
+      "id": "chs-tides-in-canadian-waters-2007",
+      "title": "Tides in Canadian Waters (G. Dohler, 2007 edition)",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/Library/40662718.pdf",
+      "edition": "2007",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Booklet. Used for: moon's pull about twice the sun's; lunar day 24 h 50 min; four tide classes; Pacific coast described as semi-diurnal (its Figure 18); Johnstone Strait tides arriving from both ends about three hours apart and the resulting rapids (Seymour, Okisollo, Surge, Hole-in-the-Wall, Yuculta, Arran). Crown copyright line seen, no reproduction permission seen. It defines no terms and does not cover tables or ports.",
+      "read_directly": true
+    },
+    {
+      "id": "dfo-tides-and-tidal-streams-chapter",
+      "title": "Chapter 3. Tides and Tidal Streams (Part II General Physical Oceanography)",
+      "publisher": "Fisheries and Oceans Canada (DFO library PDF; author and year not identified)",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/Library/487-06.pdf",
+      "edition": "Undated excerpt; accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. No title page, author, year or copyright statement was visible, so the edition is unknown. Used for BC tide types by station (Seattle, Vancouver, Tofino, Prince Rupert mixed mainly semidiurnal; Victoria and Sooke mixed mainly diurnal), larger Strait of Georgia ranges in June and December, Seymour Narrows streams over 7 m/s (13 kn), and slack water falling midway between high and low water where a hydraulic head drives the flow. Treat figures as needing expert confirmation.",
+      "read_directly": true
+    },
+    {
+      "id": "chs-tide-current-tables-vol5",
+      "title": "Canadian Tide and Current Tables, Volume 5: Juan de Fuca Strait and Strait of Georgia",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service",
+      "url": "https://publications.gc.ca/site/eng/9.903491/publication.html",
+      "edition": "Catalogue page; 2026/01 edition listed",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "notes": "Only the catalogue page was read (via a fetch-and-summarise tool, 2026-10-05), not the tables or their introduction. Used only to say that CHS publishes tide and current tables by regional volume, with Volume 5 covering Juan de Fuca Strait and the Strait of Georgia. No reproduction statement was visible. Table layout and secondary-port method were NOT verified from the publication.",
+      "read_directly": true
+    },
+    {
+      "id": "ubc-atsc113-tide-current-tables",
+      "title": "Tide and Current Tables (ATSC 113 Weather for Sailing, Flying and Snow Sports)",
+      "publisher": "University of British Columbia, Department of Earth, Ocean and Atmospheric Sciences",
+      "url": "https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/11-met-marine-weather/11e-tide-and-current-tables/",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. University course notes, not an official CHS source. Used for: DFO tide tables are in regional volumes, give heights above chart datum, use Pacific Standard Time with one hour added in daylight saving time, and current tables give speed in knots with slack times marked. No copyright statement seen.",
+      "read_directly": true
+    },
+    {
+      "id": "ubc-atsc113-local-tides-currents",
+      "title": "Local Tides and Currents (ATSC 113 Weather for Sailing, Flying and Snow Sports)",
+      "publisher": "University of British Columbia, Department of Earth, Ocean and Atmospheric Sciences",
+      "url": "https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10d-local-tides-currents/",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. University course notes, not an official source. Used for: tidal rapids in narrow BC channels, passage only near slack, wind against tide building steep seas. It also says slack coincides with high and low tide, which conflicts with the NOAA FAQ for many locations; the lesson follows NOAA and tells learners to use the current tables.",
+      "read_directly": true
+    },
+    {
+      "id": "predictwind-wind-against-current",
+      "title": "Wind against Current (boating glossary)",
+      "publisher": "PredictWind",
+      "url": "https://www.predictwind.com/glossary/w/wind-against-current",
+      "edition": "Accessed 2026-10-05",
+      "kind": "provider-page",
+      "reproduction": "not-permitted",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Commercial weather-service glossary with a 2026 copyright notice. Used only for the general idea that wind against current shortens and steepens waves. Paraphrase only.",
+      "read_directly": true
+    },
+    {
+      "id": "wikipedia-rule-of-twelfths",
+      "title": "Rule of twelfths",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rule_of_twelfths",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Encyclopedia article, not an official source. Used for the 1:2:3:3:2:1 pattern, its sine-curve and six-hour assumptions, and the caution that it is a rough approximation. Wikipedia text is community licensed (CC BY-SA) but we did not verify that on the page; paraphrase only.",
+      "read_directly": true
+    },
+    {
+      "id": "wikipedia-tide-table",
+      "title": "Tide table",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tide_table",
+      "edition": "Accessed 2026-10-05",
+      "kind": "other",
+      "reproduction": "unclear",
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-05, not word for word; verify wording against the live page. Encyclopedia article, not an official source. Used for the general layout of tide tables (times and heights of high and low waters for standard ports, adjustments for secondary ports) and the two interpolation methods. Not specific to CHS.",
+      "read_directly": true
     }
   ]
 }
