@@ -1,0 +1,90 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-06.q01",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "How does Rule 6 define a safe speed?",
+      "options": [
+        "A fixed maximum speed set for each size of vessel",
+        "A speed at which the vessel can take proper and effective action to avoid collision and be stopped within a distance suited to the conditions",
+        "Half of the vessel's full speed",
+        "The speed posted for the nearest harbour"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 6 gives no number. It defines safe speed by what it allows: effective action to avoid collision and stopping within a distance appropriate to the circumstances and conditions.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q02",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which of these is one of the factors Rule 6 lists for every vessel when determining safe speed?",
+      "options": [
+        "The colour of the vessel's hull",
+        "The size of the crew's wages",
+        "The state of visibility",
+        "The vessel's registered port"
+      ],
+      "correct_index": 2,
+      "explanation": "The state of visibility is the first factor on the list. The other options have nothing to do with the vessel's ability to avoid collision or stop.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q03",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Your radar shows a clear screen in rain and sea clutter on a long range scale. You are tempted to increase speed because \"nothing is out there.\" What does Rule 6 say that argues against this?",
+      "options": [
+        "Radar can only be used in clear weather",
+        "Small vessels, ice and other floating objects may not be detected by radar at an adequate range, and weather and sea state can reduce detection",
+        "Radar data is only valid if the range scale is set to the shortest range",
+        "A vessel with radar must always reduce speed to half"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 6 lists radar limits among the factors for vessels with working radar, including the effect of sea state and weather on detection and the chance that small vessels, ice and floating objects are missed. A blank screen therefore does not prove the water is clear.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q04",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Two vessels transit the same clear, empty channel at the same speed. One is a small, quick-turning workboat. The other is a heavily loaded vessel that takes a long distance to stop. Which statement fits Rule 6?",
+      "options": [
+        "Both have the same safe speed, because conditions are the same",
+        "The loaded vessel's safe speed may be lower, because manoeuvrability, including stopping distance and turning ability, is one of the factors",
+        "The workboat's safe speed must be lower, because she is smaller",
+        "Safe speed applies only to the vessel with radar"
+      ],
+      "correct_index": 1,
+      "explanation": "Safe speed is judged for each vessel. Manoeuvrability, with special reference to stopping distance and turning ability, differs between the two, so the vessel that needs more distance to stop may need to go slower in the same conditions.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-06.q05",
+      "lesson_id": "colregs.rule-06.safe-speed",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You are in a Canadian harbour approaching a dredge at work, and you cannot tell with certainty whether your wake will adversely affect her. What does the Canadian addition to Rule 6 call for?",
+      "options": [
+        "Pass at your normal cruising speed, since the dredge shows lights",
+        "Stop completely and wait for the dredge to finish",
+        "Proceed with caution at the minimum speed at which you can be kept on your course",
+        "Pass as close as possible to keep the passing time short"
+      ],
+      "correct_index": 2,
+      "explanation": "The Canadian paragraphs require a caution and a speed that will not adversely affect a dredge, tow, grounded vessel or wreck. Where that cannot be determined with certainty, the passing vessel proceeds with caution at the minimum speed at which she can be kept on her course. Nothing requires stopping, and a close, fast pass is the opposite of the intent.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

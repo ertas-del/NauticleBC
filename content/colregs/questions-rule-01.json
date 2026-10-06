@@ -1,0 +1,90 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-01.q01",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Where do the Collision Regulations apply?",
+      "options": [
+        "Only on the open ocean, beyond sight of land",
+        "On the high seas and in all waters connected to them that seagoing vessels can navigate",
+        "Only in waters deeper than the largest vessel's draught",
+        "Only in waters named in a harbour authority's local rules"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 1 covers the high seas and all connected waters navigable by seagoing vessels, which includes inlets, straits and harbours. It is not limited to open ocean, to deep water, or to waters named in local rules.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-01.q02",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A harbour authority publishes its own special rules for vessels in the harbour. How do these fit with the Collision Regulations?",
+      "options": [
+        "They replace the Collision Regulations inside the harbour entirely",
+        "They apply only to commercial vessels, while the Collision Regulations apply to pleasure craft",
+        "They may exist alongside the Collision Regulations and must follow them as closely as possible",
+        "They are only valid if the harbour is not connected to the sea"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 1 allows special rules for roadsteads, harbours, rivers, lakes and inland waterways, but they must conform as closely as possible to the Collision Regulations. They add to the Rules and do not replace them.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-01.q03",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A crew member on a small fishing boat in a coastal inlet says the Rules are \"for big ships, and not for boats our size.\" Which reply is best supported by Rule 1?",
+      "options": [
+        "Correct, because the Rules only bind vessels over a set length",
+        "Correct, because inlets are not connected to the high seas",
+        "Incorrect, because the Rules apply only if the boat carries radar",
+        "Incorrect, because Rule 1 has no size exemption and the inlet is connected to waters navigable by seagoing vessels"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 1 applies to all vessels in the high seas and connected navigable waters, with no size cut-off. Radar has nothing to do with whether the Rules apply. Specific rules about lights, shapes or sound signals can vary with size in later Rules, but that is not an exemption from the Rules as a whole.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-01.q04",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A Canadian vessel of special construction cannot fully meet the Rules on the position of its lights without harming its special job. Who decides what the vessel must do instead?",
+      "options": [
+        "The master of the vessel, by noting it in the log",
+        "The Minister, for a Canadian vessel, who must make sure safety is not reduced",
+        "The harbour master of the nearest port",
+        "The master of the vessel she is about to meet"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 1 leaves the decision to the government, and the Canadian text says that for a Canadian vessel or Canadian pleasure craft it is made by the Minister, with the safety effect checked. A master cannot make this decision alone.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-01.q05",
+      "lesson_id": "colregs.rule-01.application",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A group of fishing vessels working together as a fleet want to use an extra signal light that would look like an official light for a vessel not under command. What does Rule 1 say about extra signals for fishing fleets?",
+      "options": [
+        "Any extra signal is allowed if the whole fleet agrees to use it",
+        "Extra signals are allowed only for warships, never for fishing vessels",
+        "Extra signals are allowed, but must not be capable of being mistaken for any signal given in the Rules",
+        "Extra signals are allowed only when the fleet is outside Canadian waters"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 1 allows extra station or signal lights, shapes or whistle signals for fishing vessels working as a fleet, but they must be such that they cannot be mistaken for any signal authorised elsewhere in the Rules. A light that looks like a not-under-command signal fails that test. Fleets of fishing vessels are specifically listed, not only warships.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
