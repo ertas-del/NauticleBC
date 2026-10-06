@@ -1,0 +1,70 @@
+{
+  "sources": [
+    {
+      "id": "colregs-signals-crc1416-2008-copy",
+      "title": "Collision Regulations, C.R.C., c. 1416 (consolidation updated to June 9, 2008), third-party PDF copy",
+      "publisher": "Government of Canada consolidation, copy hosted by Blackfish Sailing",
+      "url": "https://blackfishsailing.com/wp-content/uploads/2022/11/Collision-Regulations.pdf",
+      "edition": "Consolidation updated to 2008-06-09; accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06, not word for word; the tool quoted Rules 32 to 38 including the Canadian paragraphs, but its quotes must be checked against the live text. The official Justice Laws site could not be fetched (blocked). This copy is OLD: later amendments are not in it (at least SOR/2014-17, which replaced Annex IV). The Annex III and Annex IV part of the PDF could not be read (text extraction stopped in Annex III). Paragraph letters of the Canadian paragraphs may have changed since 2008. Used for: Rule 32 definitions, Rule 33 including the Canadian paragraph for small pushing/pulling vessels, Rule 34 including the Canadian dock/berth and bridge-to-bridge radiotelephone paragraphs and the Great Lakes Basin paragraphs, Rule 35 including the Canadian paragraph for small pushing/pulling vessels, Rules 36, 37 and 38 including the Canadian Rule 38 dates."
+    },
+    {
+      "id": "colregs-signals-sor-2014-17",
+      "title": "Regulations Amending the Collision Regulations, SOR/2014-17 (Canada Gazette, Part II, Vol. 148, No. 4)",
+      "publisher": "Government of Canada, Canada Gazette",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2014/2014-02-12/html/sor-dors17-eng.html",
+      "edition": "Registered 2014-01-29, published 2014-02-12; accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06, not word for word. Used for the Annex IV section 1 list (items (a) to (o), including DSC, satellite alerts, EPIRBs and survival craft radar transponders), section 2 (no use except to indicate distress), section 3 (orange canvas, dye marker), and the statement that the Annex III audibility-range column is not part of the Regulations. The tool reported a Canadian section of Annex IV about signals that may be used in Canadian waters but could not show its wording. Later amendments (if any) were not checked."
+    },
+    {
+      "id": "colregs-signals-cultofsea-rule-35",
+      "title": "Rule 35 - Sound signals in restricted visibility (COLREGs reference page)",
+      "publisher": "Cult of Sea",
+      "url": "https://www.cultofsea.com/colregs/part-d-sound-and-light-signals-rules-32-37/rule-35-sound-signals-in-restricted-visibility/",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06, not word for word. Reproduces the international (IMO) text only, no Canadian paragraphs. Its ordering of the 12 m and 12-20 m paragraphs differs from the Canadian consolidation; the lesson does not rely on paragraph letters. Used to cross-check the anchored, aground, 100 m bell-and-gong and pilot-vessel signals."
+    },
+    {
+      "id": "colregs-signals-cultofsea-annex-iii",
+      "title": "Annex III - Technical details of sound signal appliances (COLREGs reference page)",
+      "publisher": "Cult of Sea",
+      "url": "https://www.cultofsea.com/colregs/annexes/annex-iii-technical-details-of-sound-signal-appliances/",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06, not word for word. International text only; the Canadian Annex III may contain extra paragraphs that were not seen. Used for whistle frequency bands by length, the audibility-range table (200 m+: 2 M, 75-200 m: 1.5 M, 20-75 m: 1 M, under 20 m: 0.5 M), bell mouth diameter of at least 300 mm for vessels of 20 m or more, and striker mass of at least 3 per cent of the bell."
+    },
+    {
+      "id": "colregs-signals-westcoastpaddler-strobe",
+      "title": "Distress strobe (forum thread)",
+      "publisher": "West Coast Paddler community forum",
+      "url": "https://www.westcoastpaddler.com/community/threads/distress-strobe.214/",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06. A BC paddling forum, NOT an authoritative source. Used only as the one available secondary report that the Canadian Annex IV lists a high-intensity white light flashing at regular intervals of 50 to 70 times per minute as a distress signal in Canadian waters. Must be confirmed against the current regulation before release."
+    },
+    {
+      "id": "colregs-signals-safety4sea-pov-fog-2018",
+      "title": "Port of Vancouver reminds regulations on restricted visibility",
+      "publisher": "SAFETY4SEA",
+      "url": "https://safety4sea.com/port-of-vancouver-reminds-regulations-on-restricted-visibility/",
+      "edition": "2018-12-12; accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read via an automated fetch-and-summarise tool on 2026-10-06. Trade news report of a Port of Vancouver notice. Used for: fog is common in the Vancouver harbour area in the winter season, Rule 35 signal intervals (anchored every minute, underway every two minutes), and the Canadian Rule 35 provision that small pushing/pulling vessels outside recognized mooring or booming areas sound the same signals as vessels of 12 m or more."
+    }
+  ]
+}

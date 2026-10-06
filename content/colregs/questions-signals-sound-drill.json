@@ -1,0 +1,373 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.signals.sound-drill.q01",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Fog. Fine on your starboard bow you hear one prolonged blast, repeated about every 2 minutes. What is it, and what do you do?",
+      "options": [
+        "A vessel at anchor; carry on at your present speed",
+        "A power-driven vessel making way; slow to the minimum speed to keep your course, stop if needed, and proceed with extreme caution",
+        "A vessel in distress; turn towards it at full speed",
+        "A sailing vessel; she must keep clear of you"
+      ],
+      "correct_index": 1,
+      "explanation": "One prolonged at intervals of not more than 2 minutes is a power-driven vessel making way (Rule 35). It is ahead of your beam, so unless you have determined there is no risk of collision, Rule 19 requires you to reduce to the minimum speed at which you can keep your course, take all way off if necessary, and navigate with extreme caution. A sailing vessel sounds one prolonged, two short, and the steering rules for vessels in sight do not apply in fog.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q02",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Fog. Ahead you hear two prolonged blasts about 2 seconds apart, repeated about every 2 minutes. What is it?",
+      "options": [
+        "Two power-driven vessels making way",
+        "A vessel aground",
+        "A power-driven vessel underway but stopped, making no way through the water",
+        "A vessel intending to overtake you"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged blasts about 2 seconds apart is the Rule 35 signal of one power-driven vessel underway but stopped. It is not two vessels. A vessel aground uses the bell with extra strokes, and overtaking signals (two prolonged followed by short blasts) are for vessels in sight in a narrow channel.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q03",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog. Off your port bow you hear one prolonged followed by two short blasts, about every 2 minutes. What can you conclude?",
+      "options": [
+        "It is definitely a sailing vessel",
+        "It is a power-driven vessel altering to port",
+        "It is a pilot vessel",
+        "It could be a vessel not under command, restricted in her ability to manoeuvre, constrained by her draught, sailing, fishing, or towing or pushing"
+      ],
+      "correct_index": 3,
+      "explanation": "One prolonged, two short is shared by several kinds of vessel under Rule 35, so you cannot tell which from the sound alone. Treat her as a vessel that may not be able to get out of your way. It is not a manoeuvring signal, since those are only used in sight, and the pilot identity signal is four short.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q04",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog. You hear one prolonged, two short, and straight after it, from a slightly different direction, one prolonged, three short. What is it, and what is the main hazard?",
+      "options": [
+        "A towing vessel and a manned tow; a towline between them, so do not pass between the two sources",
+        "Two fishing vessels; nets in the water",
+        "A vessel aground and her tender",
+        "A sailing vessel tacking"
+      ],
+      "correct_index": 0,
+      "explanation": "A towing vessel sounds one prolonged, two short. A manned vessel being towed sounds one prolonged, three short, if practicable straight after the tug. Together they mean a tow, with a towline you cannot see. Never try to cross between the two signals.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q05",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Fog in an anchorage. You hear a bell rung rapidly for about 5 seconds, then again about a minute later. What is it?",
+      "options": [
+        "A vessel making way",
+        "A vessel at anchor",
+        "A vessel in distress",
+        "A vessel being towed"
+      ],
+      "correct_index": 1,
+      "explanation": "A bell rung rapidly for about 5 seconds at intervals of not more than 1 minute is a vessel at anchor (Rule 35). A vessel making way uses her whistle, and a distress signal would be a continuous sounding, not a regular 5-second burst. Even an anchored vessel is a hazard: keep a careful watch and slow down. A manned tow sounds one prolonged, three short on a whistle.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q06",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog near a deep-sea anchorage. You hear a bell rung rapidly for about 5 seconds, followed immediately by a gong for about 5 seconds from a point some distance away. What is it?",
+      "options": [
+        "Two small vessels at anchor close together",
+        "A vessel aground",
+        "A vessel of 100 metres or more at anchor, bell forward and gong aft",
+        "A tug and tow at anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "A vessel of 100 m or more at anchor rings the bell in the fore part and immediately afterwards sounds the gong in the after part. The gap between the two sounds hints at her length. The aground signal adds three separate bell strokes before and after the ringing.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q07",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog. You hear three separate, distinct bell strokes, then rapid ringing for about 5 seconds, then three more separate strokes. What is it, and what does it suggest about your surroundings?",
+      "options": [
+        "A vessel at anchor in deep water",
+        "A fishing vessel hauling nets",
+        "A distress signal",
+        "A vessel aground; there is probably shallow water nearby, so check your position at once"
+      ],
+      "correct_index": 3,
+      "explanation": "Three strokes before and after the rapid ringing is the aground signal. If she is aground, there is shoal water near her, and possibly near you. Fix your position and slow down. A plain anchor bell has no extra strokes, and continuous sounding is the distress signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q08",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Fog. You have been hearing an anchor bell ahead. Now, from the same direction, you hear one short, one prolonged, one short on a whistle. What is happening?",
+      "options": [
+        "The anchored vessel is warning you of her position and the possibility of collision; slow down or stop and alter away",
+        "The anchored vessel is getting underway",
+        "The anchored vessel is in distress",
+        "The anchored vessel agrees to let you pass"
+      ],
+      "correct_index": 0,
+      "explanation": "An anchored vessel may sound one short, one prolonged, one short to warn an approaching vessel of her position and the risk of collision. You are probably closing her. Take way off and open the distance. It is not the agreement signal (prolonged, short, prolonged, short) or a distress signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-cultofsea-rule-35"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q09",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog off a pilot boarding station. You hear two prolonged blasts, then four short blasts. What is it?",
+      "options": [
+        "A power-driven vessel stopped, and a separate vessel in doubt",
+        "A pilot vessel on duty, underway but stopped, giving her identity signal",
+        "A vessel overtaking on your port side",
+        "A vessel aground"
+      ],
+      "correct_index": 1,
+      "explanation": "Two prolonged is a power-driven vessel stopped and making no way. A pilot vessel on pilotage duty may add four short as an identity signal. The doubt signal is at least five short, and the overtaking signal is two prolonged followed by one or two short, used only in sight in a narrow channel.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q10",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Clear day, narrow channel. A vessel close astern sounds two prolonged, two short. What does she want, and how do you answer if it is safe?",
+      "options": [
+        "She is altering to port; no answer needed",
+        "She intends to overtake you on your starboard side; answer one short",
+        "She intends to overtake you on your port side; answer prolonged, short, prolonged, short and make room",
+        "She is in doubt; answer with five short"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged, two short means \"I intend to overtake you on your port side\". If you agree, sound one prolonged, one short, one prolonged, one short, and act to allow safe passing. Two prolonged, one short would be the starboard side. If you are not happy, sound the doubt signal instead.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q11",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Clear day. A vessel approaching you, in sight, sounds six short and rapid blasts. What is she telling you, and what should you do?",
+      "options": [
+        "She is in distress; go alongside",
+        "She is altering course to starboard six times",
+        "She is a pilot vessel",
+        "She doubts your intentions or that you are doing enough to avoid collision; check your action, make it obvious, and slow or stop if needed"
+      ],
+      "correct_index": 3,
+      "explanation": "At least five short and rapid blasts is the Rule 34 doubt signal, so six counts. She is not sure what you are doing. Make your intentions clear with a bold, early action, and slow or stop if needed. It is not a distress signal, and the pilot identity signal is four short in fog.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q12",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You are approaching a blind bend in a narrow BC pass. From beyond the point you hear one prolonged blast. What do you do?",
+      "options": [
+        "Answer with one prolonged blast and navigate with particular caution",
+        "Sound two short to show you will alter to port",
+        "Ignore it unless it is foggy",
+        "Sound continuous blasts until you see her"
+      ],
+      "correct_index": 0,
+      "explanation": "One prolonged at a bend is the Rule 34 bend signal, and an approaching vessel that hears it answers with one prolonged. It applies in any visibility. Two short is a manoeuvring signal for vessels in sight, and a continuous sounding is a distress signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q13",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Clear weather in a BC harbour. A power-driven vessel at a wharf ahead of you sounds one prolonged blast. What is the most likely meaning?",
+      "options": [
+        "She is making way in fog",
+        "She is leaving the dock or berth (Canadian paragraph of Rule 34)",
+        "She is in distress",
+        "She intends to overtake you"
+      ],
+      "correct_index": 1,
+      "explanation": "In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel leaving a dock or berth sounds one prolonged blast. In clear weather it is not a fog signal, and it is not a distress or overtaking signal. Expect her to back or move out into the fairway.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q14",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A ferry in sight, about to manoeuvre near you, sounds one short blast. What does it mean?",
+      "options": [
+        "I am altering my course to port",
+        "I am operating astern propulsion",
+        "I am altering my course to starboard",
+        "I am leaving the berth"
+      ],
+      "correct_index": 2,
+      "explanation": "One short means \"I am altering my course to starboard\" under Rule 34(a). Two short is port and three short is astern propulsion. Leaving a berth in a Canadian harbour is one prolonged.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q15",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fog. From a small boat somewhere ahead you hear a horn sounding three short, three prolonged, three short, over and over. What is it?",
+      "options": [
+        "A vessel being towed",
+        "Three vessels at anchor",
+        "A vessel overtaking",
+        "SOS in Morse code: a distress signal"
+      ],
+      "correct_index": 3,
+      "explanation": "Three short, three long, three short is SOS, which Annex IV lists as a distress signal by any signalling method, including sound. A towed vessel sounds one prolonged, three short. Treat it as distress: note the bearing and time, slow down, and tell the master.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.signals.sound-drill.q16",
+      "lesson_id": "colregs.signals.sound-drill",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A power-driven vessel stopped in fog sounds two prolonged blasts with about 2 seconds between them. About how long does the whole signal take, from the start of the first blast to the end of the second?",
+      "options": [
+        "About 10 to 14 seconds",
+        "About 4 to 6 seconds",
+        "About 20 to 24 seconds",
+        "About 2 minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "Each prolonged blast lasts 4 to 6 seconds and the gap is about 2 seconds: 4 + 2 + 4 = 10 seconds at the shortest and 6 + 2 + 6 = 14 seconds at the longest. 4 to 6 seconds is a single prolonged blast, and 2 minutes is the maximum interval between signals, not the length of one.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
