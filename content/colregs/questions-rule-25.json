@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-25.q01",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which lights does a 25 m sailing vessel show when underway under sail alone?",
+      "options": [
+        "Masthead light, sidelights and sternlight",
+        "Sidelights and sternlight",
+        "An all-round white light and sidelights",
+        "A tricolour lantern at the masthead"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 25(a) gives a sailing vessel underway sidelights and a sternlight, with no masthead light. The masthead light is a power-driven signal, and the tricolour is only allowed for sailing vessels under 20 m.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q02",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see two all-round lights in a vertical line near the top of a mast, red over green, with sidelights lower down. What is she?",
+      "options": [
+        "A vessel engaged in fishing",
+        "A vessel not under command",
+        "A pilot vessel on duty",
+        "A sailing vessel underway"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 25(c) allows a sailing vessel to add all-round red over green at or near the masthead (\"red over green, sailing machine\"). Fishing vessels show red over white or green over white, a pilot vessel shows white over red, and not under command is red over red.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q03",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A 12 m sailboat uses a tricolour lantern at her masthead. Can she also switch on the red-over-green all-round lights?",
+      "options": [
+        "Yes, but only in restricted visibility",
+        "Yes, they are always optional extras",
+        "No, the red-over-green lights may not be shown together with the combined lantern",
+        "No, red over green is reserved for vessels over 20 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 25(b) allows the tricolour on a sailing vessel under 20 m, and Rule 25(c) says the red-over-green lights shall not be shown in conjunction with that combined lantern. Red over green is not limited to vessels over 20 m.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q04",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A 5 m sailing dinghy and a 4 m rowboat are out after dark. Neither can practicably show sailing lights. What does Rule 25 require of each?",
+      "options": [
+        "Nothing, because both are under 7 m",
+        "A masthead light and sidelights",
+        "A red all-round light",
+        "An electric torch or lighted lantern showing a white light, ready at hand and shown in time to prevent collision"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 25(d) says a sailing vessel under 7 m shows sailing lights if practicable, and a vessel under oars may show them; if they do not, each must have a white torch or lighted lantern ready at hand to show in time to prevent collision. Neither is simply exempt, and masthead or red lights would give a false picture.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q05",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "By day you see a sailing yacht with her mainsail up and a black cone, apex downwards, hoisted forward. What does the cone tell you?",
+      "options": [
+        "She is engaged in fishing",
+        "She has gear extending more than 150 m",
+        "She is under sail and also being propelled by machinery",
+        "She is at anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 25(e) requires a vessel proceeding under sail and also propelled by machinery to show a cone, apex downwards, forward. She is then a power-driven vessel. Fishing is two cones apex together, anchored is a ball, and outlying fishing gear is a cone apex upwards.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q06",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A 9 m Canadian sailboat motor-sails up the Fraser River by day without showing a cone. Under the Canadian modification, is that a breach?",
+      "options": [
+        "Yes, unless she is under 7 m",
+        "No, the cone is only required at night",
+        "No, in Canadian waters of a river (and other inland waters listed) a vessel under 12 m is not required to show the cone, though she may",
+        "Yes, every vessel motor-sailing must show the cone"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 25(f) exempts vessels under 12 m in Canadian waters of a roadstead, harbour, river, lake or inland waterway from the motor-sailing cone, while allowing them to show it. The cone is a day signal, and the exemption is based on 12 m, not 7 m. She is still a power-driven vessel for the steering and sailing rules.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-25.q07",
+      "lesson_id": "colregs.rule-25.sailing-oars",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "At night a 14 m sailboat is motor-sailing with her engine in gear. What lights should she show?",
+      "options": [
+        "Red over green at the masthead plus sidelights",
+        "Sidelights and sternlight only, because her sails are up",
+        "A tricolour and an all-round white light",
+        "Power-driven lights: a masthead light, sidelights and a sternlight"
+      ],
+      "correct_index": 3,
+      "explanation": "Under Rule 3 a sailing vessel is one under sail with machinery not being used, so with her engine propelling her she is power-driven and shows Rule 23 lights: masthead light, sidelights and sternlight (at 14 m the under-12 m all-round white option is not available). Sailing lights or red over green would wrongly tell others she is under sail alone.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-26.q01",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see two all-round lights in a vertical line, green over white, with a white masthead light higher and abaft them, a red sidelight and no other lights visible. What is she?",
+      "options": [
+        "A vessel engaged in fishing other than trawling, at anchor",
+        "A sailing vessel underway",
+        "A vessel engaged in trawling, making way, seen from her port side",
+        "A pilot vessel underway"
+      ],
+      "correct_index": 2,
+      "explanation": "Green over white is the trawling signal (Rule 26(b)), and the masthead light abaft and higher than the green light is part of it. The red sidelight shows she is making way and you see her port side. A pilot shows white over red, a sailing vessel's optional lights are red over green, and other fishing is red over white.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q02",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What all-round lights in a vertical line identify a vessel engaged in fishing other than trawling, such as a gillnetter?",
+      "options": [
+        "Red over red",
+        "Red over white",
+        "White over red",
+        "Green over white"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 26(c) gives red over white (\"red over white, fishing at night\"). White over red is a pilot vessel, green over white is trawling, and red over red is not under command.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q03",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What day shape does a vessel engaged in fishing show?",
+      "options": [
+        "A cylinder",
+        "One ball",
+        "A cone, apex downwards",
+        "Two cones with their apexes together, one above the other"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 26 gives two cones with their apexes together in a vertical line for both trawlers and other fishing vessels. One ball is anchored, cone apex down is motor-sailing, and a cylinder is constrained by draught.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q04",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A seiner is engaged in fishing at night and is stopped, not making way. Which lights does she show?",
+      "options": [
+        "Red over white, sidelights and sternlight",
+        "Masthead light, sidelights and sternlight",
+        "Red over white and anchor lights",
+        "Red over white all-round lights only (plus any Annex II signals she chooses to use)"
+      ],
+      "correct_index": 3,
+      "explanation": "Sidelights and a sternlight are added only when a fishing vessel is making way through the water. A fishing vessel, underway or at anchor, shows only Rule 26 lights, so no anchor lights. Ordinary power-driven lights would hide that she is fishing.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q05",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "By day, a gillnetter shows two cones apex together and, a little to one side, a single cone apex upwards. What does the single cone mean?",
+      "options": [
+        "She is motor-sailing",
+        "She is aground on that side",
+        "Her outlying gear extends more than 150 m horizontally in the direction of that cone",
+        "Other vessels may pass on that side"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 26(c)(ii): outlying gear extending more than 150 m is shown by an all-round white light by night or a cone apex upwards by day, in the direction of the gear. A cone apex down means motor-sailing. The passing-side signals belong to dredging and underwater work (Rule 27).",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q06",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A troller is fishing with trolling lines that do not restrict her manoeuvrability. What lights should she show at night?",
+      "options": [
+        "Red over white plus sidelights and sternlight",
+        "The lights of a power-driven vessel of her length",
+        "Green over white all-round lights",
+        "Red over white all-round lights"
+      ],
+      "correct_index": 1,
+      "explanation": "Under Rule 3 a vessel trolling with gear that does not restrict manoeuvrability is not engaged in fishing, and Rule 26(e) forbids a vessel not engaged in fishing from showing fishing lights. She shows the lights for a vessel of her length.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q07",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A 30 m trawler working near other trawlers shows, below her green over white, two more lights in a vertical line: white over red. Under Annex II, what is she doing?",
+      "options": [
+        "She is on pilotage duty",
+        "Her net is fast on an obstruction",
+        "Hauling her nets",
+        "Shooting her nets"
+      ],
+      "correct_index": 2,
+      "explanation": "Annex II for trawlers: two white means shooting nets, white over red means hauling, and two red means the net is fast on an obstruction. Pilot vessels show white over red but without the trawling lights above.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-26.q08",
+      "lesson_id": "colregs.rule-26.fishing-vessels",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which statement about the Annex II and Canadian additional fishing signals is correct?",
+      "options": [
+        "Annex II signals replace the Rule 26 lights",
+        "A purse seiner hampered by her gear may show two yellow lights in a vertical line flashing alternately every second, and in Canadian waters a pair trawler shows flag \"T\" at the foremast by day",
+        "A purse seiner must show a blue flashing light, and a pair trawler shows flag \"B\"",
+        "A purse seiner shows two red lights, and a pair trawler shows a diamond"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex II section 3 lets purse seiners show two alternately flashing yellow lights when hampered by their gear, and the Canadian section 4 requires flag T at the foremast by day for pair trawling in Canadian waters and fishing zones. Blue flashing is a government identification signal, flag B is dangerous goods, and Annex II signals are in addition to Rule 26 lights, placed below them.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

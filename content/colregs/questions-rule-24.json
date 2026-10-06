@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-24.q01",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A 25 m tug is towing a barge astern on a 150 m towline (measured from her stern to the after end of the barge). Which lights does the tug show?",
+      "options": [
+        "Three masthead lights in a vertical line, sidelights and a sternlight",
+        "Two masthead lights in a vertical line, sidelights, sternlight, and a yellow towing light above the sternlight",
+        "Two masthead lights in a vertical line, sidelights and a sternlight, with no towing light",
+        "One masthead light, sidelights, sternlight and an all-round yellow light"
+      ],
+      "correct_index": 1,
+      "explanation": "With a tow of 200 m or less, Rule 24(a) requires two masthead lights in a vertical line, sidelights, a sternlight and a yellow towing light in a vertical line above the sternlight. Three masthead lights are for tows over 200 m, the towing light is not all-round, and the no-towing-light set is for pushing ahead or towing alongside.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q02",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A tug is towing astern. How is the length of the tow measured, and what changes when it exceeds 200 m?",
+      "options": [
+        "From the tug's bow to the after end of the tow; the tug adds a second towing light",
+        "From the tug's stern to the bow of the tow; the tug shows a cylinder",
+        "From the stern of the towing vessel to the after end of the tow; the tug shows three masthead lights in a vertical line, and by day both tug and tow show a diamond",
+        "Length of the towline only; the tow adds an all-round red light"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 24(a) measures from the stern of the towing vessel to the after end of the tow. Over 200 m, the tug shows three masthead lights in a vertical line instead of two, and by day the tug and the towed vessel each show a diamond where it can best be seen. The towline alone ignores the length of the tow, there is no second towing light, and a cylinder is the constrained by draught shape.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q03",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A tug is pushing a barge ahead. They are not a rigidly connected composite unit. What does the tug show?",
+      "options": [
+        "Two masthead lights in a vertical line, sidelights and a sternlight",
+        "Two masthead lights in a vertical line, sidelights, sternlight and a towing light",
+        "The normal lights of a power-driven vessel only",
+        "An all-round white light at each end"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 24(c) gives a vessel pushing ahead or towing alongside two masthead lights in a vertical line, sidelights and a sternlight, with no towing light because there is nothing astern of her. The normal power-driven set is for a composite unit. All-round whites at each end is the Canadian barge provision.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q04",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "An articulated tug and barge is rigidly connected and designed as a dedicated, integrated combination. How is it lit?",
+      "options": [
+        "As one power-driven vessel under Rule 23",
+        "As a vessel towing astern with a towing light",
+        "As a vessel restricted in her ability to manoeuvre",
+        "As a vessel pushing ahead: two masthead lights in a vertical line"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 24(b) says a pushing vessel and a pushed vessel rigidly connected in a composite unit are regarded as a power-driven vessel and show Rule 23 lights. The pushing-ahead lights are for combinations that are not a composite unit.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q05",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "What lights does a vessel being towed astern show, and what does a vessel being towed alongside show?",
+      "options": [
+        "Towed astern: masthead light and sternlight; towed alongside: sidelights only",
+        "Towed astern: all-round white light; towed alongside: nothing",
+        "Towed astern: sidelights and sternlight; towed alongside: sternlight and sidelights at her forward end",
+        "Towed astern: sidelights only; towed alongside: masthead light and sidelights"
+      ],
+      "correct_index": 2,
+      "explanation": "Under Rule 24(e) and (f), a vessel towed astern shows sidelights and a sternlight (and a diamond if the tow exceeds 200 m), and a vessel towed alongside shows a sternlight and, at the forward end, sidelights. Towed vessels do not show masthead lights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q06",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "An inconspicuous, partly submerged object 30 m wide and 250 m long is being towed at sea. Which lights meet the international Rule 24(g)?",
+      "options": [
+        "Sidelights and a sternlight",
+        "A single all-round white light amidships",
+        "All-round white lights at or near each end, two more at the extremities of its breadth, and more along the length so that no gap exceeds 100 m",
+        "One all-round white light at each end only"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 24(g): white lights at or near the forward and after ends; because it is 25 m or more wide, two more at the extremities of its breadth; because it is over 100 m long, extra lights so the distance between lights does not exceed 100 m. By day it also shows a diamond at the after end and, since the tow exceeds 200 m, another forward. Sidelights and sternlight are for ordinary towed vessels.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q07",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In Canadian inland waters, a log tow 30 m wide and 180 m long cannot meet Rule 24(g). Under the Canadian modification, which lights does it show?",
+      "options": [
+        "Four all-round white lights, one at or near each corner, plus one at or near the mid-point of each side",
+        "Two all-round red lights in a vertical line",
+        "One all-round white light at each end",
+        "Sidelights and a sternlight"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 24(m): a log tow 25 m or more wide shows four all-round white lights, one at or near each corner, and because it exceeds 100 m in length, an extra white light at or near the mid-point of each side, six lights in total. One light at each end is for log tows under 25 m wide. Red lights would suggest not under command.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-24.q08",
+      "lesson_id": "colregs.rule-24.towing-pushing",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In a Canadian harbour, a tug tows three barges grouped together, 120 m long overall, that cannot show sidelights and sternlights. Under the Canadian modification, how may the group be lit?",
+      "options": [
+        "No lights are needed if the tug is lit",
+        "One all-round white light at each end of the group, plus one as close as practicable to the mid-point of the group",
+        "One all-round red light at each end of the group",
+        "One all-round white light on each barge only"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 24(j) lets grouped barges show one all-round white light at each end of the group, and requires an extra white light near the mid-point when the group exceeds 100 m. A single barge shows a white light at each end. A barge group under tow still needs its own lights even when the tug is lit, and red lights are not used for this.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
