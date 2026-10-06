@@ -1,0 +1,107 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-03.q01",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A sailboat has her sails up and her engine running and in gear. Under the Rule 3 definitions, what is she?",
+      "options": [
+        "A sailing vessel, because her sails are hoisted",
+        "A vessel not under command",
+        "A power-driven vessel, because she is propelled by machinery",
+        "A vessel restricted in her ability to manoeuvre"
+      ],
+      "correct_index": 2,
+      "explanation": "A sailing vessel is one under sail provided any propelling machinery is not being used. Once the engine is propelling her she is a power-driven vessel, even with the sails set.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q02",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which of these is \"underway\" under Rule 3?",
+      "options": [
+        "A vessel at anchor in a bay",
+        "A vessel made fast alongside a wharf",
+        "A vessel aground on a sandbar",
+        "A vessel drifting with her engine stopped and no anchor down"
+      ],
+      "correct_index": 3,
+      "explanation": "Underway only means the vessel is not at anchor, not made fast to the shore and not aground. A drifting vessel meets that test even though she is not under power.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q03",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Two small boats are on the fishing grounds. Boat A is towing a net behind her. Boat B is trolling with lines that do not restrict her ability to manoeuvre. Which statement matches the definition of a vessel engaged in fishing?",
+      "options": [
+        "Both are vessels engaged in fishing, because both are fishing",
+        "Neither is, because fishing boats are only defined by their size",
+        "Only Boat B is, because trolling lines count as the main fishing apparatus",
+        "Only Boat A is, because her gear restricts her manoeuvrability while trolling lines that do not restrict manoeuvrability are excluded"
+      ],
+      "correct_index": 3,
+      "explanation": "The definition covers fishing with nets, lines, trawls or other apparatus that restrict manoeuvrability. A vessel using trolling lines or other gear that does not restrict her manoeuvrability is excluded, so Boat B is treated under whichever other category fits her.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q04",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which description best fits a vessel restricted in her ability to manoeuvre?",
+      "options": [
+        "A vessel whose engine has broken down by exceptional circumstance",
+        "A vessel that, because of the nature of her work, cannot manoeuvre as the Rules require, such as one laying a submarine cable",
+        "Any vessel that is moving slowly in poor visibility",
+        "Any vessel that is anchored in a channel"
+      ],
+      "correct_index": 1,
+      "explanation": "This category is based on the nature of the vessel's work, and a cable-laying vessel is one of the listed examples. An engine breakdown through exceptional circumstance is the not-under-command category. Slow speed and anchoring are not the test.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q05",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "In dense fog you detect a vessel on radar about two miles away, but you cannot see her. Under Rule 3, which statement is correct?",
+      "options": [
+        "You are in sight of her, because radar counts as observing her",
+        "You are not in sight of her, because vessels are in sight of one another only when one can be observed visually from the other",
+        "You are in sight of her only if you also hear her whistle",
+        "You are in sight of her if she appears on AIS"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 3 deems vessels in sight of one another only when one can be seen visually from the other. Radar, AIS or sound do not meet that test. This matters because it decides whether the Rules for vessels in sight or the restricted visibility Rule applies.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-03.q06",
+      "lesson_id": "colregs.rule-03.definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which statement about a vessel constrained by her draught is correct?",
+      "options": [
+        "It can be any vessel, including a sailing vessel, that dislikes shallow water",
+        "It is a power-driven vessel whose draught, compared with the available depth and width of navigable water, severely restricts her ability to deviate from her course",
+        "It is any vessel that has stopped because she touched bottom",
+        "It is a vessel whose work, such as dredging, limits her movement"
+      ],
+      "correct_index": 1,
+      "explanation": "The definition applies only to a power-driven vessel, and the key is that the draught relative to the available water severely limits her ability to deviate. A vessel aground is a different situation, and work-related limits belong to restricted in her ability to manoeuvre.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
