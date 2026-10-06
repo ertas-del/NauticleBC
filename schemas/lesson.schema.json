@@ -29,6 +29,12 @@
       "description": "Lesson IDs."
     },
     "estimated_minutes": { "type": "integer", "minimum": 1, "maximum": 60 },
+    "key_facts": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1,
+      "description": "Short, self-contained facts a candidate could be asked on a written exam or oral: numbers, definitions, rule requirements, sequences. Shown to the learner as an 'Exam focus' card. Each fact must be supported by the lesson's source_ids."
+    },
     "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" },
     "audio": {
       "type": "object",
