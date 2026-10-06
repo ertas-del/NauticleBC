@@ -119,6 +119,40 @@
       "explanation": "In a mixed tide, the two low waters of the day can be quite different heights, and which one is lower changes through the month and year. Neither assumption is safe. Mixed tides are fully predictable, so use the table for the specific low and then apply a margin.",
       "source_ids": ["noaa-tides-tutorial-cycles", "noaa-tides-tutorial-angle"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q08",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Invented figures: a place has two high waters today, at 4.1 m and 2.9 m, and two low waters, at 0.3 m and 1.6 m. What type of tide does this pattern show?",
+      "options": [
+        "Diurnal",
+        "Semidiurnal with equal highs and lows",
+        "Mixed",
+        "No tide, because the heights are irregular"
+      ],
+      "correct_index": 2,
+      "explanation": "Two highs and two lows of clearly different heights is a mixed tide. A diurnal tide has only one high and one low in a lunar day, and a semidiurnal tide has two roughly equal highs and two roughly equal lows. Mixed tides are unequal, but still regular and predictable.",
+      "source_ids": ["noaa-tides-tutorial-cycles", "chs-tides-in-canadian-waters-2007"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.types-of-tide.q09",
+      "lesson_id": "tides.types-of-tide",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "On a mixed-tide coast, when would you expect the diurnal inequality to be at its largest?",
+      "options": [
+        "When the moon is far north or far south of the equator",
+        "When the moon is directly over the equator",
+        "Only at first quarter and last quarter",
+        "Only when the wind blows onshore"
+      ],
+      "correct_index": 0,
+      "explanation": "When the moon is well north or south of the equator (high declination), the two tidal bulges sit at unequal angles to a given place, so the two highs and the two lows of the day differ more. Near the equator the two are more alike. Moon phase drives springs and neaps rather than the inequality, and wind changes actual levels but not the predicted inequality.",
+      "source_ids": ["noaa-tides-tutorial-angle"],
+      "review_status": "needs_expert_review"
     }
   ]
 }

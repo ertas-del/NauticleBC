@@ -12,6 +12,15 @@ objectives:
   - State the cautions that apply, including the time standard a table uses, predictions versus real weather, and the need to use current CHS publications.
 prerequisites: [tides.vocabulary, tides.types-of-tide]
 estimated_minutes: 14
+key_facts:
+  - A tide table gives the times and heights of high and low waters for each day, with heights measured up from chart datum.
+  - Reference ports get full daily predictions; secondary ports apply time and height corrections (or a height factor) to a nearby reference port.
+  - University notes state the CHS tables for BC use Pacific Standard Time, so add one hour during daylight saving time; confirm in your edition.
+  - "Rule of twelfths: in each sixth of a rise or fall the water covers 1, 2, 3, 3, 2 and 1 twelfths of the range."
+  - By the rule of twelfths the water has covered half the range (6/12) after three of the six periods.
+  - The rule of twelfths is a rough approximation that assumes a smooth rise or fall of about six hours; it is not for close decisions.
+  - Depth of water = charted depth + height of tide; water under the keel = depth of water minus draught.
+  - Tide tables are astronomical predictions; wind, air pressure and river flow can make the real height differ.
 source_ids: [chs-tide-current-tables-vol5, ubc-atsc113-tide-current-tables, noaa-tide-predictions-help, wikipedia-tide-table, wikipedia-rule-of-twelfths, chs-vertical-datum-chart-references, noaa-tides-currents-glossary, noaa-tides-currents-faq, noaa-tides-tutorial-othereffects]
 review_status: needs_expert_review
 ---
@@ -24,8 +33,8 @@ made up. This app does not give real tide data. For any real passage, use the **
 
 ## What a tide table gives you
 
-A tide table lists, for each day, the **times and heights of the high waters and low waters** at a place. Heights are
-measured **up from chart datum** (lesson 3). In Canada, CHS publishes its tables in regional volumes; for example,
+A tide table lists, for each day, the ==times and heights of the high waters and low waters== at a place. Heights are
+measured ==up from chart datum== (lesson 3). In Canada, CHS publishes its tables in regional volumes; for example,
 Volume 5 covers Juan de Fuca Strait and the Strait of Georgia. Always check you have the edition for the **right year**
 and the right region.
 
@@ -42,17 +51,17 @@ Notice the two lows and two highs differ: it is a mixed tide (lesson 4).
 
 ## Time standard: a classic one-hour trap
 
-Check which clock the table uses. University notes on the CHS tables for BC state that the tables use **Pacific
-Standard Time**, so you add one hour during daylight saving time. Confirm this in the edition you have. Mixing standard
+Check which clock the table uses. University notes on the CHS tables for BC state that the tables use ==Pacific Standard Time==,
+so you ==add one hour during daylight saving time==. Confirm this in the edition you have. Mixing standard
 and daylight time is one of the easiest ways to be out by an hour, and an hour can be most of a tide.
 
 ## Reference ports and secondary ports
 
 Predicting tides needs long records of observation. That is practical only at some places, which are called
-**reference ports** (some books say standard ports). They get full predictions for every day.
+==reference ports== (some books say standard ports). They get full predictions for every day.
 
-For other places, called **secondary ports**, the tables give **corrections** that you apply to a nearby reference
-port's predictions. These are typically a time difference and a height difference (or a height factor). The general
+For other places, called ==secondary ports==, the tables give **corrections** that you apply to a nearby reference
+port's predictions. These are typically a ==time difference and a height difference== (or a height factor). The general
 idea is the same in the US system, where predictions for secondary stations come from a reference station plus time
 and height adjustments.
 
@@ -79,8 +88,8 @@ periods the water covers this share of the **total range**:
 
 | Period | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |---|---|---|---|---|---|---|
-| Share of range | 1/12 | 2/12 | 3/12 | 3/12 | 2/12 | 1/12 |
-| **Running total** | 1/12 | 3/12 | 6/12 | 9/12 | 11/12 | 12/12 |
+| Share of range | ==1/12== | ==2/12== | ==3/12== | ==3/12== | ==2/12== | ==1/12== |
+| **Running total** | 1/12 | 3/12 | ==6/12== | 9/12 | 11/12 | 12/12 |
 
 The same pattern applies on the fall, counted from high water.
 
@@ -118,16 +127,17 @@ the keel.
 
 ### How good is the rule of twelfths?
 
-It assumes a smooth, regular rise of about six hours. On the invented tide above, a smooth-curve calculation gives about
-0.84 m at 0700, where the rule gives 0.90 m. For a perfectly regular tide the two agree to within about 0.1 m. Real tides
+It assumes a ==smooth, regular rise of about six hours==. On the invented tide above, a smooth-curve calculation gives
+about 0.84 m at 0700, where the rule gives 0.90 m. For this 3.6 m range and a perfectly regular tide, the two never
+differ by more than about 0.1 m; the gap grows in proportion to the range, to roughly 2.5% of it at worst. Real tides
 are less tidy: the rise and fall may last unequal times, mixed tides can distort the curve, and wind and air pressure
-shift the actual height. So the rule of twelfths is a **rough estimate only**. Where accuracy matters, use the method
+shift the actual height. So the rule of twelfths is a ==rough estimate only==. Where accuracy matters, use the method
 in the CHS publication (usually a tide curve or a calculation form), and add a safety margin. Never treat it as the
 official height.
 
 ## Predictions are not the real water level
 
-Tide tables are based on the sun and moon only. Strong winds, big changes in air pressure, and heavy river flow can
+Tide tables are based on the sun and moon only. ==Strong winds, big changes in air pressure, and heavy river flow== can
 make the real height differ from the table, sometimes by a lot. Look at the water as well as the table.
 
 ## Common mistakes
@@ -136,7 +146,7 @@ make the real height differ from the table, sometimes by a lot. Look at the wate
 - Forgetting to apply the daylight saving hour, or applying it twice.
 - Adding the secondary-port correction with the wrong sign.
 - Drawing a straight line between high and low water for the height in between.
-- Forgetting charted depth. Height of tide is **not** depth. Depth = charted depth + height of tide.
+- Forgetting charted depth. Height of tide is **not** depth. ==Depth = charted depth + height of tide==.
 - Treating the rule of twelfths as exact.
 
 ## Check yourself

@@ -119,6 +119,57 @@
       "explanation": "Daylight saving time is one hour ahead of standard time, so you add one hour: 1400 becomes 1500 on the clocks aboard. Subtracting gives 1300, and ignoring the difference (1400) is the classic error. Adding two hours (1600) is also wrong. Always check which time standard your actual edition uses.",
       "source_ids": ["ubc-atsc113-tide-current-tables"],
       "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q08",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What does a tide table give for each day at a reference port, and what are its heights measured from?",
+      "options": [
+        "The times and heights of high and low waters, with heights measured up from chart datum",
+        "The speed and direction of the tidal stream, measured in knots",
+        "Only the time of high water, with heights measured from mean sea level",
+        "The depth of water over every shoal in the area"
+      ],
+      "correct_index": 0,
+      "explanation": "A tide table lists the times and heights of the high and low waters, and the heights are measured up from chart datum. Stream speeds and directions are in the current tables. A tide table does not give depths over shoals: you add the height of tide to the charted depth yourself.",
+      "source_ids": ["wikipedia-tide-table", "ubc-atsc113-tide-current-tables"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q09",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Using the rule of twelfths on a regular rise lasting about six hours, how much of the range has the water covered three hours after low water?",
+      "options": [
+        "3/12, a quarter of the range",
+        "6/12, half of the range",
+        "9/12, three quarters of the range",
+        "12/12, the full range"
+      ],
+      "correct_index": 1,
+      "explanation": "The shares for the six periods are 1, 2, 3, 3, 2 and 1 twelfths. After three periods the running total is 1 + 2 + 3 = 6 twelfths, half the range. A quarter (3/12) is the total after two periods, and three quarters (9/12) after four.",
+      "source_ids": ["wikipedia-rule-of-twelfths"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.tide-tables-and-heights.q10",
+      "lesson_id": "tides.tide-tables-and-heights",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A strong onshore gale and very low air pressure have lasted for two days. How should you treat the predicted heights in the tide table?",
+      "options": [
+        "As exact, because tide tables already include the weather",
+        "As a baseline only, because wind and air pressure can make the actual height differ from the prediction",
+        "As useless, because tide tables only work in calm weather",
+        "As accurate only for diurnal tides"
+      ],
+      "correct_index": 1,
+      "explanation": "Tide tables are astronomical predictions and do not include the weather. Strong winds, big changes in air pressure and heavy river flow can make the real height differ, sometimes by a lot. The table is still the starting point; you allow for the weather and look at what the water is actually doing.",
+      "source_ids": ["noaa-tides-currents-faq", "noaa-tides-tutorial-othereffects"],
+      "review_status": "needs_expert_review"
     }
   ]
 }
