@@ -33,6 +33,13 @@ Content is plain data files so iOS can reuse it later and so content can be writ
 - The app is a **study aid, not a navigation aid.** Nothing in it may be presented as official, as an approved course, or as a substitute for chart/tide/current publications used for navigation.
 - Tide, current, chart and lights data used in the app must stay within the licence recorded in `docs/licence-checklist.md`. If the licence is unclear, stop and flag it.
 
+## Exam highlighting (every lesson)
+
+- `key_facts` (frontmatter): 4 to 12 short, self-contained facts a candidate could be asked on the written exam or oral (numbers, definitions, requirements, sequences, "which of these" distinctions). The app shows them as an "Exam focus" card.
+- In the lesson body wrap the exact words that are likely to be tested in `==double equals==` (renders as a highlight). Use it for the key term, number or rule wording, not whole paragraphs. Keep `==` balanced; lint checks.
+- Every `key_facts` item should be testable by at least one question in the module's question files.
+- Lint warns when a lesson has no `key_facts`.
+
 ## Code conventions
 
 - Kotlin, Jetpack Compose, Material 3. Single `app` module for now; split only when it earns it.

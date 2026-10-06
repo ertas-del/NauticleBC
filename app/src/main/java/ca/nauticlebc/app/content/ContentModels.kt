@@ -52,6 +52,7 @@ data class Lesson(
     val objectives: List<String>,
     val prerequisites: List<String> = emptyList(),
     @SerialName("estimated_minutes") val estimatedMinutes: Int,
+    @SerialName("key_facts") val keyFacts: List<String> = emptyList(),
     @SerialName("source_ids") val sourceIds: List<String>,
     @SerialName("review_status") val reviewStatus: String,
     @SerialName("reviewed_by") val reviewedBy: String? = null,

@@ -127,6 +127,10 @@ def load_content() -> Content:
         body = match.group(2).strip()
         if not body:
             r.error(where, "lesson body is empty")
+        if body.count("==") % 2 != 0:
+            r.error(where, "unbalanced '==' highlight markers in body")
+        if "key_facts" not in meta:
+            r.warn(where, f"{meta['id']}: no key_facts (list the facts a candidate could be tested on)")
         _check_quotes(body, where, r)
         folder = path.relative_to(CONTENT_DIR).parts[0]
         if folder in modules and meta["module"] != folder:
