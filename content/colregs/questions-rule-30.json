@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-30.q01",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see an all-round white light forward and a second, lower all-round white light near the stern of a large ship. No sidelights are visible. What is she doing?",
+      "options": [
+        "Aground",
+        "At anchor",
+        "Underway and making way",
+        "Towing"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 30(a): a forward all-round white light and a lower all-round white light at or near the stern is the anchor signal. Aground adds two all-round reds, an underway vessel shows sidelights, and a towing vessel shows masthead lights in a vertical line.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q02",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What lights and day shapes does a 60 m vessel aground show?",
+      "options": [
+        "Two all-round red lights only; by day two balls",
+        "Anchor lights plus two all-round red lights in a vertical line; by day three balls in a vertical line",
+        "Anchor lights only; by day one ball",
+        "Three all-round red lights; by day a cylinder"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 30(d): a vessel aground shows the anchor lights and two all-round reds in a vertical line, and by day three balls. Two reds or two balls alone is not under command, three reds or a cylinder is constrained by draught, and anchor lights or one ball alone is simply at anchor.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q03",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A 35 m vessel is at anchor overnight. Which is a legal way for her to show she is at anchor?",
+      "options": [
+        "Two all-round red lights",
+        "One all-round white light where it can best be seen",
+        "Sidelights and sternlight",
+        "A masthead light only"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 30(b) lets a vessel under 50 m show one all-round white light where it can best be seen instead of the two anchor lights. Sidelights and sternlight would mean she is underway, two reds mean NUC, and a masthead light is not an anchor light.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q04",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which vessel at anchor is required to illuminate her decks with her working or equivalent lights?",
+      "options": [
+        "Only a vessel carrying dangerous goods",
+        "Every vessel at anchor",
+        "A vessel of 100 m or more in length",
+        "A vessel of 50 m or more in length"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 30(c): any vessel at anchor may illuminate her decks, and a vessel of 100 m or more shall. 50 m is the threshold for the single anchor light option, not deck lights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q05",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which small-vessel exemptions does Rule 30 give?",
+      "options": [
+        "A vessel under 7 m at anchor away from channels, fairways, anchorages and where vessels normally navigate need not show anchor signals; a vessel under 12 m aground need not show the two reds or three balls",
+        "A vessel under 12 m never needs anchor lights; a vessel under 20 m aground needs no signals",
+        "A vessel under 7 m aground need not show anchor lights; a vessel under 12 m at anchor needs only a ball",
+        "There are no small-vessel exemptions in Rule 30"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 30(e) exempts a vessel under 7 m at anchor only when she is not in or near a narrow channel, fairway or anchorage or where other vessels normally navigate. Rule 30(f) exempts a vessel under 12 m aground from the two reds and three balls, but not from her anchor signals.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q06",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Under Annex I, when a vessel carries two anchor lights, how are they placed relative to each other?",
+      "options": [
+        "The forward light at least 4.5 m above the after light",
+        "The forward light at least 1 m above the after light",
+        "Both at the same height",
+        "The after light at least 4.5 m above the forward light"
+      ],
+      "correct_index": 0,
+      "explanation": "Annex I section 2(k): the forward anchor light is not less than 4.5 m above the after one, and on a vessel of 50 m or more it is at least 6 m above the hull. Rule 30(a) also says the stern light is at a lower level. The after light is never the higher one.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-30.q07",
+      "lesson_id": "colregs.rule-30.anchored-aground",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A string of log booms is anchored in a recognized booming area within a BC harbour, away from the fairway and from where vessels normally navigate. Under the Canadian modification, which statement is correct?",
+      "options": [
+        "The booms must show the normal anchor lights of Rule 30(a)",
+        "The booms must show an all-round white light at each corner",
+        "The booms are not required to show any light while in that area",
+        "The booms must show two all-round red lights"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 30(h), a Canadian modification for Canadian inland waters, says a barge or inconspicuous, partly submerged object at anchor need not show any light while inside a recognized mooring, storage or booming area that is not in or near a narrow channel or fairway or where other vessels normally navigate. The other options would apply only outside that exemption, if at all. Expect unlit obstructions near booming grounds.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

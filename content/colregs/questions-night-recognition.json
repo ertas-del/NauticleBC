@@ -1,0 +1,260 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.lights.night-recognition.q01",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see two all-round lights in a vertical line, red over white, and a green sidelight below them. What is she?",
+      "options": [
+        "A pilot vessel on duty, underway, showing her starboard side",
+        "A trawler at anchor",
+        "A vessel restricted in her ability to manoeuvre",
+        "A vessel engaged in fishing (not trawling), making way, showing her starboard side"
+      ],
+      "correct_index": 3,
+      "explanation": "Red over white is fishing other than trawling (\"red over white, fishing at night\"). The sidelight means she is making way, and green means you see her starboard side. A pilot would be white over red, a trawler green over white, and RAM red, white, red.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q02",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "You see two all-round lights in a vertical line at a masthead, white over red, with both a red and a green sidelight below. What is she and where is she heading?",
+      "options": [
+        "A sailing vessel heading towards you",
+        "A vessel aground",
+        "A pilot vessel on duty, heading towards you",
+        "A fishing vessel heading away from you"
+      ],
+      "correct_index": 2,
+      "explanation": "White over red is a pilot vessel on duty (\"white over red, pilot ahead\"), and seeing both sidelights means she is heading towards you. Fishing is red over white, aground shows anchor lights with two reds, and a sailing vessel's optional lights are red over green.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q03",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see two all-round lights in a vertical line, green over white, a white masthead light higher and further aft, and a red sidelight. What is she?",
+      "options": [
+        "A vessel engaged in trawling, making way, showing her port side",
+        "A power-driven vessel towing",
+        "A sailing vessel with optional masthead lights",
+        "A pilot vessel underway"
+      ],
+      "correct_index": 0,
+      "explanation": "Green over white is trawling (\"green over white, trawling at night\"), and a trawler may show a masthead light abaft and higher than the green light. The red sidelight means she is making way and you see her port side. Sailing lights are red over green, a pilot is white over red, and a tug shows masthead lights in a vertical line.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q04",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You see three all-round lights in a vertical line: red, white, red. There are no other lights. What is she?",
+      "options": [
+        "A vessel constrained by her draught",
+        "A vessel restricted in her ability to manoeuvre, not making way",
+        "A vessel not under command, making way",
+        "A pilot vessel at anchor"
+      ],
+      "correct_index": 1,
+      "explanation": "Red, white, red is the RAM signal. With no masthead lights or sidelights she is not making way (and no anchor lights, so not at anchor). NUC is two reds, constrained by draught is three reds, and a pilot is white over red.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q05",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You see two all-round red lights in a vertical line, an all-round white light forward and a lower all-round white light aft. What is she?",
+      "options": [
+        "A dredger showing the obstruction side",
+        "A vessel restricted in her ability to manoeuvre, at anchor",
+        "A vessel not under command, making way",
+        "A vessel aground"
+      ],
+      "correct_index": 3,
+      "explanation": "Anchor lights plus two all-round reds in a vertical line is a vessel aground (Rule 30(d)). Two reds without anchor lights would be not under command. RAM is red, white, red, and a dredger's two reds are shown off to one side of her red, white, red.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q06",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "At night you see two white lights in a vertical line, a green sidelight below them, and nothing else. Later, from astern of her, you see a yellow light above a white light. What is she?",
+      "options": [
+        "A sailing vessel motor-sailing",
+        "A power-driven vessel pushing ahead",
+        "A power-driven vessel towing astern, with a tow of 200 m or less",
+        "A power-driven vessel towing astern, with a tow over 200 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Two masthead lights in a vertical line plus a yellow towing light above the sternlight is a vessel towing astern with a tow of 200 m or less. A tow over 200 m would show three masthead lights. A vessel pushing ahead shows no towing light, and a motor-sailing vessel shows ordinary power-driven lights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q07",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You see a red sidelight and a green sidelight close together, and a white light from the same vessel only when she passes and you are astern of her. You never see a masthead light, and no tug is in sight. What is she most likely to be?",
+      "options": [
+        "A vessel not under command",
+        "A vessel at anchor",
+        "A power-driven vessel under 12 m",
+        "A sailing vessel underway"
+      ],
+      "correct_index": 3,
+      "explanation": "Sidelights and sternlight with no masthead light is the sailing vessel pattern (Rule 25). A vessel being towed shows the same lights, which is why the question rules out a tug. A small power-driven vessel shows an all-round white light that is visible from ahead too, a NUC vessel shows two reds, and a vessel at anchor shows no sidelights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q08",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Ahead of you at night are two white masthead lights, one above the other and in line, with both a red and a green sidelight below them. What does this tell you?",
+      "options": [
+        "A vessel at anchor",
+        "A power-driven vessel heading straight towards you",
+        "A vessel towing, seen from astern",
+        "A power-driven vessel heading directly away from you"
+      ],
+      "correct_index": 1,
+      "explanation": "Masthead lights in line with both sidelights visible means a power-driven vessel heading towards you, a head-on picture. From astern you would see only a sternlight (and a towing light if towing), and a vessel at anchor shows all-round anchor lights, not sidelights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q09",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "By day you see a vessel with two black balls in a vertical line. What is she?",
+      "options": [
+        "Not under command",
+        "Restricted in her ability to manoeuvre",
+        "At anchor",
+        "Aground"
+      ],
+      "correct_index": 0,
+      "explanation": "Two balls in a vertical line is the NUC day signal. One ball is at anchor, three balls in a vertical line is aground, and RAM is ball, diamond, ball.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q10",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "By day, which shape signal is matched correctly to its meaning?",
+      "options": [
+        "One ball: not under command",
+        "Diamond: constrained by draught",
+        "Cylinder: tow over 200 m",
+        "Three balls in a vertical line: aground"
+      ],
+      "correct_index": 3,
+      "explanation": "Three balls in a vertical line is aground (Rule 30(d)). A cylinder is constrained by draught, a diamond marks a tow over 200 m, and one ball is at anchor.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q11",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "By day a vessel shows two cones with their points together, one above the other, and a single cone, point upwards, off to her port side. What is she and where is her gear?",
+      "options": [
+        "Engaged in fishing, with outlying gear extending more than 150 m to her port side",
+        "Restricted in her ability to manoeuvre; pass on her port side",
+        "Trawling, with gear astern",
+        "Motor-sailing; no gear"
+      ],
+      "correct_index": 0,
+      "explanation": "Two cones apex together is the fishing shape, and a cone apex upwards shows outlying gear extending more than 150 m horizontally in that direction, here to port, so keep clear of that side. Motor-sailing is one cone apex down. RAM is ball, diamond, ball.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q12",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "By day a sailing yacht with her sails set shows a single black cone, point downwards, forward. How should you treat her?",
+      "options": [
+        "As a vessel engaged in fishing",
+        "As a power-driven vessel, because she is also being propelled by machinery",
+        "As a sailing vessel",
+        "As a vessel at anchor"
+      ],
+      "correct_index": 1,
+      "explanation": "A cone apex downwards means a vessel under sail and also propelled by machinery (Rule 25(e)). Under Rule 3 she is then a power-driven vessel. The fishing shape is two cones point to point, and at anchor is one ball.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q13",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "At night a warship shows her masthead lights and sidelights plus three all-round green lights: one near the top of her foremast and one at each end of her fore yard. What does this mean for you?",
+      "options": [
+        "She is engaged in mine clearance, and it is dangerous to approach within 1000 m",
+        "She is a pilot vessel; she will come alongside you",
+        "She is dredging; pass on the green side",
+        "She is trawling; pass astern of her"
+      ],
+      "correct_index": 0,
+      "explanation": "Three all-round greens in that arrangement (or three balls by day) is the mine clearance signal of Rule 27(f), warning that it is dangerous to approach within 1000 m. Trawling is green over white, a pilot is white over red, and a dredger's passing side is two greens in a vertical line beside her red, white, red.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q14",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "By day you see a vessel showing ball, diamond, ball in a vertical line. On her starboard side she has two balls in a vertical line and on her port side two diamonds. Which side should you pass?",
+      "options": [
+        "Either side, because she is aground",
+        "Her starboard side, by the balls",
+        "Neither; she is constrained by her draught",
+        "Her port side, by the diamonds"
+      ],
+      "correct_index": 3,
+      "explanation": "Ball, diamond, ball is RAM, and the extra shapes are the dredging or underwater operations signals of Rule 27(d): two balls mark the obstruction, two diamonds the side where vessels may pass. Aground is three balls in a vertical line, and constrained by draught is a cylinder.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.lights.night-recognition.q15",
+      "lesson_id": "colregs.lights.night-recognition",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Outside Canadian inland waters you see a large ship showing her masthead lights and sidelights plus three all-round red lights in a vertical line. What is she, and why would you not expect this signal inside a Canadian harbour?",
+      "options": [
+        "Not under command; Canada uses two reds instead",
+        "Carrying dangerous goods; in Canada that is flag B only",
+        "Constrained by her draught; the Canadian modification forbids three reds or a cylinder in Canadian waters of a roadstead, harbour, river, lake or inland waterway",
+        "Aground; vessels aground in Canada show a ball instead"
+      ],
+      "correct_index": 2,
+      "explanation": "Three all-round reds in a vertical line with power-driven lights is a vessel constrained by her draught (Rule 28(a)). The Canadian Rule 28(b) forbids that signal in Canadian waters of a roadstead, harbour, river, lake or inland waterway. Two reds is NUC, aground shows anchor lights with two reds, and the dangerous goods signal is a single red light or flag B.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

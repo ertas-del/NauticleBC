@@ -1,0 +1,15 @@
+{
+  "sources": [
+    {
+      "id": "lights-crc1416-xml",
+      "title": "Collision Regulations, C.R.C., c. 1416 (consolidated XML, Schedule 1 Rules 1 to 46 and Annexes I and II)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.%2C_c._1416.xml",
+      "edition": "Consolidation current to 2025-07-24, last amended 2023-06-07; repository commit b7292cf (2026-09-28); read 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "The full text of Part C (Rules 20 to 31), Part F (Rules 39 to 46), sections 1 to 6 of the Regulations, Rule 3, Rule 18 and Annexes I and II was read word for word from the official consolidated XML published by Justice Canada on GitHub (Justice Laws website and CanLII blocked automated fetching). The repository is released under the Open Government Licence - Canada (LICENSE.md seen). This is not the official version of the law; lessons paraphrase it. Before release, check the live Justice Laws consolidation for amendments after 2025-07-24."
+    }
+  ]
+}

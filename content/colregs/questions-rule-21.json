@@ -1,0 +1,141 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-21.q01",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What is the arc of visibility of a masthead light, and where does it shine?",
+      "options": [
+        "225 degrees, from right ahead to 22.5 degrees abaft the beam on each side",
+        "135 degrees, 67.5 degrees each side of right ahead",
+        "360 degrees, all round the horizon",
+        "112.5 degrees, from right ahead to 22.5 degrees abaft the beam on one side"
+      ],
+      "correct_index": 0,
+      "explanation": "A masthead light is a white light on the centreline showing over 225 degrees, from right ahead to 22.5 degrees abaft the beam on either side. 135 degrees is the sternlight arc, 360 is an all-round light, and 112.5 is one sidelight.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q02",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which statement about sidelights is correct?",
+      "options": [
+        "Green to starboard and red to port, each showing 180 degrees",
+        "Green to starboard and red to port, each showing 112.5 degrees",
+        "Red to port and green to starboard, each showing all round the horizon",
+        "Red to starboard and green to port, each showing 135 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "The starboard sidelight is green and the port sidelight is red, each covering 112.5 degrees from right ahead to 22.5 degrees abaft the beam on its own side. They do not reach astern (so not 135 or 180 degrees) and they are not all-round lights.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q03",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A sternlight is a white light placed as near the stern as practicable. What is its arc?",
+      "options": [
+        "112.5 degrees, centred on right aft",
+        "135 degrees, 67.5 degrees each side of right aft",
+        "225 degrees, 112.5 degrees each side of right aft",
+        "180 degrees, 90 degrees each side of right aft"
+      ],
+      "correct_index": 1,
+      "explanation": "The sternlight shows over 135 degrees, 67.5 degrees from right aft on each side. That exactly fills the part of the horizon the 225 degree masthead light does not cover. The other figures leave gaps or overlap.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q04",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "How does a towing light differ from a sternlight?",
+      "options": [
+        "It is yellow; otherwise it has the same characteristics as the sternlight",
+        "It is a white light with a 225 degree arc",
+        "It is a yellow all-round light",
+        "It is a flashing yellow light at 120 flashes per minute"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 21 defines the towing light as a yellow light with the same characteristics as the sternlight, so 135 degrees aft. It is not all-round, not white, and not flashing.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q05",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Under Rule 21, what flash rate defines a \"flashing light\", and what arc does an \"all-round light\" show?",
+      "options": [
+        "30 flashes per minute or more; 270 degrees",
+        "60 flashes per minute or more; 225 degrees",
+        "120 flashes per minute or more; 360 degrees",
+        "50 to 70 flashes per minute; 360 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "A flashing light flashes at regular intervals at 120 or more flashes per minute, and an all-round light shows over an unbroken 360 degrees. The 50 to 70 rate belongs to the Canadian special flashing and blue flashing lights, not the Rule 21 international flashing light.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q06",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Your 15 m workboat has one lantern on the bow centreline showing red to port and green to starboard. Is that allowed?",
+      "options": [
+        "No, sidelights must always be two separate lanterns",
+        "Only on vessels under 7 m",
+        "Yes, sidelights may be combined in one centreline lantern on a vessel under 20 m",
+        "Yes, but only on sailing vessels"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 21(b) allows a vessel of less than 20 m to combine her sidelights in one lantern carried on the fore and aft centreline. The permission is not limited to sailing vessels or to vessels under 7 m.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q07",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "At night you are coming up on a vessel from 30 degrees abaft her starboard beam. Which of her ordinary navigation lights should you see?",
+      "options": [
+        "Her sternlight only",
+        "Her masthead light only",
+        "Her green sidelight and sternlight",
+        "Her masthead light and green sidelight"
+      ],
+      "correct_index": 0,
+      "explanation": "Masthead lights and sidelights stop at 22.5 degrees abaft the beam. At 30 degrees abaft the beam you are inside the 135 degree sternlight sector (67.5 degrees either side of right aft), so you see only the sternlight. That is also the Rule 13 overtaking picture.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-21.q08",
+      "lesson_id": "colregs.rule-21.light-definitions",
+      "tickets": ["master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Which pair of lights is defined only in the Canadian modifications to Rule 21?",
+      "options": [
+        "The special flashing light (yellow, 50 to 70 flashes per minute) and the blue flashing light (all-round, 50 to 70 flashes per minute)",
+        "The masthead light and the all-round light",
+        "The towing light and the sternlight",
+        "The manoeuvring light and the anchor light"
+      ],
+      "correct_index": 0,
+      "explanation": "The Canadian part of Rule 21 adds the special flashing light (yellow, forward, 50 to 70 flashes a minute) and the blue flashing light (blue, all-round, 50 to 70 flashes a minute). The other lights listed are international.",
+      "source_ids": ["lights-crc1416-xml"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
