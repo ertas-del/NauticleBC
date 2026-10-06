@@ -1,0 +1,25 @@
+name: Content lint
+
+on:
+  pull_request:
+    paths:
+      - "content/**"
+      - "schemas/**"
+      - "tools/**"
+      - ".github/workflows/content.yml"
+  push:
+    branches: [main]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/requirements.txt
+      - run: pip install -r tools/requirements.txt
+      - name: Lint content against schemas and source rules
+        run: python3 tools/lint_content.py

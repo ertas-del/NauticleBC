@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NauticleBc</string>
+    <string name="home_title">Marine ticket prep</string>
+    <string name="home_subtitle">British Columbia: Bridge Watch Rating and Master Limited under 60 GT</string>
+    <string name="module_colregs">Collision Regulations</string>
+    <string name="module_colregs_desc">Rules of the road, lessons and drills</string>
+    <string name="module_tides">Tides</string>
+    <string name="module_tides_desc">Why tides happen and how to use them</string>
+    <string name="module_coming_soon">Coming soon</string>
+    <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>
+    <string name="content_status_loaded">%1$d lessons, %2$d questions loaded</string>
+    <string name="content_status_error">Content could not be loaded</string>
+</resources>

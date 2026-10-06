@@ -1,0 +1,56 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-05.q01",
+      "lesson_id": "colregs.rule-05.lookout",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Which of these best describes what Rule 5 requires of a vessel's lookout?",
+      "options": [
+        "Watching by sight only, since hearing is unreliable at sea",
+        "Watching by sight and hearing, and by all other available means suited to the conditions",
+        "Using radar whenever visibility is restricted, and nothing else",
+        "Keeping watch only once another vessel has been sighted"
+      ],
+      "correct_index": 1,
+      "explanation": "The rule asks for sight, hearing and all available means appropriate to the circumstances. Sight alone is not enough, radar is not limited to restricted visibility, and the lookout starts before any vessel is seen.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-05.q02",
+      "lesson_id": "colregs.rule-05.lookout",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What is the lookout required to make possible?",
+      "options": [
+        "A complete log entry for each watch",
+        "A full appraisal of the situation and of the risk of collision",
+        "A reduction in the number of crew needed on watch",
+        "Early notice to the coast guard of the vessel's position"
+      ],
+      "correct_index": 1,
+      "explanation": "A lookout feeds the decisions that follow: whether risk of collision exists and what action to take. The other options are not the purpose stated in the rule.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-05.q03",
+      "lesson_id": "colregs.rule-05.lookout",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are crossing open water in bright daylight with excellent visibility and no vessels in sight. Is a lookout still required?",
+      "options": [
+        "No, a lookout is only required in poor visibility or at night",
+        "No, as long as the radar is switched on",
+        "Yes, a proper lookout is required at all times",
+        "Yes, but only within a harbour or traffic separation scheme"
+      ],
+      "correct_index": 2,
+      "explanation": "The requirement applies at all times, in any visibility and any location. Radar is one of the means, not a replacement for the duty itself.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

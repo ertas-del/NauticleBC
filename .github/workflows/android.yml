@@ -1,0 +1,44 @@
+name: Android
+
+on:
+  pull_request:
+    paths:
+      - "app/**"
+      - "gradle/**"
+      - "*.gradle.kts"
+      - "gradle.properties"
+      - "content/**"
+      - "schemas/**"
+      - "tools/**"
+      - ".github/workflows/android.yml"
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: tools/requirements.txt
+      - run: pip install -r tools/requirements.txt
+      # No Gradle wrapper is committed yet (it could not be generated offline). Add one later with
+      # `gradle wrapper --gradle-version 8.10.2`, then switch this job to ./gradlew.
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.10.2"
+      - name: Unit tests
+        run: gradle :app:testDebugUnitTest --stacktrace
+      - name: Build debug APK
+        run: gradle :app:assembleDebug --stacktrace
+      - uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: app/build/outputs/apk/debug/*.apk

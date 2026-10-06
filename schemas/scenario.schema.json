@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/scenario.schema.json",
+  "title": "Oral exam scenario (reserved)",
+  "description": "Interface for the later oral exam tester. Defined now so content lanes and the app agree on the shape. Not used in the first release.",
+  "type": "object",
+  "properties": {
+    "module": { "$ref": "common.schema.json#/$defs/module" },
+    "scenarios": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "allOf": [{ "$ref": "common.schema.json#/$defs/review" }],
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/id" },
+          "tickets": {
+            "type": "array",
+            "items": { "$ref": "common.schema.json#/$defs/ticket" },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "situation": { "type": "string", "minLength": 1, "description": "What the examiner describes to the candidate." },
+          "examiner_prompts": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 },
+            "minItems": 1,
+            "description": "Follow-up questions in the order the examiner would ask them."
+          },
+          "expected_points": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "point": { "type": "string", "minLength": 1 },
+                "required": { "type": "boolean" },
+                "keywords": { "type": "array", "items": { "type": "string" } }
+              },
+              "required": ["point", "required"],
+              "additionalProperties": false
+            },
+            "minItems": 1
+          },
+          "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" }
+        },
+        "required": ["id", "tickets", "situation", "examiner_prompts", "expected_points", "source_ids", "review_status"],
+        "unevaluatedProperties": false
+      }
+    }
+  },
+  "required": ["module", "scenarios"],
+  "additionalProperties": false
+}
