@@ -1,0 +1,121 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-37.q01",
+      "lesson_id": "colregs.rule-37.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where are the distress signals referred to in Rule 37 listed?",
+      "options": [
+        "Annex I",
+        "Annex II",
+        "Annex III",
+        "Annex IV"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 37 says a vessel in distress requiring assistance uses or exhibits the signals described in Annex IV. Annex I covers lights and shapes, Annex II the extra signals for fishing vessels fishing close together, and Annex III sound signal appliances.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-37.q02",
+      "lesson_id": "colregs.rule-37.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which two conditions does Rule 37 set for using distress signals?",
+      "options": [
+        "The vessel is in distress and requires assistance",
+        "The vessel is over 12 metres and it is night",
+        "The vessel is in restricted visibility and not under command",
+        "The vessel has permission from the Coast Guard"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 37 applies when a vessel is in distress and requires assistance. It has nothing to do with length, time of day or visibility, and no prior permission is needed to call for help.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-37.q03",
+      "lesson_id": "colregs.rule-37.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A guest wants to fire an out-of-date red hand flare over the anchorage to celebrate a birthday. What does Annex IV say?",
+      "options": [
+        "That is fine if the flare is expired",
+        "Distress signals must not be used except to indicate distress and need of assistance",
+        "That is fine if done before midnight",
+        "Only parachute flares are restricted"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex IV prohibits using any of its distress signals except to indicate distress and need of assistance, and also signals that might be confused with them. Expiry date, time of night and flare type make no difference: a red flare is read as distress.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-37.q04",
+      "lesson_id": "colregs.rule-37.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Your engine has failed in a sheltered bay, the anchor is holding well and no one is hurt. You want a tow. Which is the best approach?",
+      "options": [
+        "Fire red flares under Rule 37",
+        "Treat it as a routine call for assistance; it is not a distress situation",
+        "Sound continuous fog signals",
+        "Show a square flag with a ball above it"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 37 is for a vessel in distress that requires assistance. Safely anchored with no one hurt, you are not in distress, so distress signals (red flares, continuous fog signal, flag and ball) would be wrong. Arrange a tow by ordinary means and stay alert in case the situation changes.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-37.q05",
+      "lesson_id": "colregs.rule-37.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which statement best describes the difference between Rule 36 and Rule 37?",
+      "options": [
+        "Rule 36 is for large vessels and Rule 37 for small ones",
+        "Rule 36 covers sound signals and Rule 37 covers light signals",
+        "They are two names for the same thing",
+        "Rule 36 covers signals to attract attention when not in distress; Rule 37 covers signals of distress and need of assistance"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 36 lets any vessel attract attention with signals that cannot be confused with others. Rule 37 is specifically for a vessel in distress needing help, using the Annex IV signals. Both rules apply to all vessels and both include light and sound signals.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

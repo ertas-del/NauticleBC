@@ -1,0 +1,187 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-34.q01",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On the BC coast in clear weather, a power-driven vessel in sight of you sounds one short blast. What does it mean?",
+      "options": [
+        "I am altering my course to port",
+        "I intend to leave you on my port side",
+        "I am altering my course to starboard",
+        "I am operating astern propulsion"
+      ],
+      "correct_index": 2,
+      "explanation": "Under Rule 34(a) one short blast means \"I am altering my course to starboard\". Two short is port and three short is astern propulsion. \"I intend to leave you on my port side\" is the Great Lakes Basin (and US inland) style of signal, which does not apply on the BC coast.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q02",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A ferry in sight of you, close ahead and about to leave a terminal, sounds three short blasts. What is she telling you?",
+      "options": [
+        "She is in doubt about your intentions",
+        "She is altering course to port",
+        "She is aground",
+        "She is operating astern propulsion"
+      ],
+      "correct_index": 3,
+      "explanation": "Three short blasts mean \"I am operating astern propulsion\". That does not always mean she is moving astern yet, but her engines are going astern. The doubt signal is at least five short and rapid blasts, and two short means altering to port.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q03",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In thick fog you detect a vessel on radar, cannot see her, and alter course to starboard to avoid her. Should you sound one short blast?",
+      "options": [
+        "No, manoeuvring signals are only for vessels in sight of one another; you keep sounding your fog signal",
+        "Yes, all course alterations must be signalled",
+        "Yes, but only if she is within 2 miles",
+        "No, you should sound five short blasts instead"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 34(a) applies when vessels are in sight of one another. In restricted visibility, with the other vessel not in sight, you continue the Rule 35 fog signal. The doubt signal is also an in-sight signal and is not a substitute for a manoeuvre signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q04",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Your vessel supplements her whistle signals with a manoeuvring light. Which description matches Rule 34?",
+      "options": [
+        "A red light, flashes of 3 seconds, visible 2 miles",
+        "An all-round white light visible at least 5 miles; flashes about 1 s long and 1 s apart; at least 10 s between signals",
+        "A yellow flashing light at 120 flashes a minute",
+        "A masthead light switched on and off once per minute"
+      ],
+      "correct_index": 1,
+      "explanation": "The supplementary light is an all-round white light visible at a minimum range of 5 miles. Each flash lasts about one second, flashes are about one second apart, and successive signals are at least 10 seconds apart. Red or yellow flashing lights have other meanings and are not the manoeuvring light.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q05",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are slowly going up a narrow dredged channel. A vessel close astern, in sight, sounds two prolonged blasts followed by one short. You agree it is safe. What do you sound?",
+      "options": [
+        "One short, because she is passing on your starboard side",
+        "Two prolonged, one short, to repeat her signal",
+        "One prolonged, one short, one prolonged, one short",
+        "Five short and rapid blasts"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged, one short means \"I intend to overtake you on your starboard side\". The agreement signal is one prolonged, one short, one prolonged, one short, and you then take steps to let her pass. Repeating her signal is not the agreement signal, and five short is what you would sound if you were in doubt.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q06",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel in sight is approaching and you cannot work out what she is doing. What signal does Rule 34 require?",
+      "options": [
+        "Three short blasts",
+        "One prolonged blast",
+        "Two prolonged blasts",
+        "At least five short and rapid blasts"
+      ],
+      "correct_index": 3,
+      "explanation": "The doubt signal is at least five short and rapid blasts, sounded immediately. It may be supplemented by at least five short and rapid flashes. Three short is astern propulsion, one prolonged is the bend signal, and two prolonged is a fog signal for a power-driven vessel stopped in the water.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q07",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are approaching a blind bend in a narrow BC channel on a clear day and hear one prolonged blast from beyond the point. What should you do?",
+      "options": [
+        "Answer with one prolonged blast and proceed with particular caution",
+        "Nothing; bend signals are only for fog",
+        "Answer with five short blasts",
+        "Answer with one short blast to show you will keep to starboard"
+      ],
+      "correct_index": 0,
+      "explanation": "A vessel nearing a bend sounds one prolonged blast, and any approaching vessel around the bend that hears it answers with one prolonged blast. The signal applies in any visibility because the bend itself hides the traffic. Five short is the doubt signal, and one short is a manoeuvring signal for vessels in sight.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-34.q08",
+      "lesson_id": "colregs.rule-34.manoeuvring-warning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In a BC harbour you are about to leave the berth in a power-driven workboat, then pass a tug. On VHF you try to arrange the passing but get no agreement. Under the Canadian paragraphs of Rule 34, which is correct?",
+      "options": [
+        "Leave the berth silently; then pass, since VHF contact replaces signals",
+        "Sound one prolonged blast leaving the berth; then, with no radio agreement, exchange whistle signals in good time, and those prevail",
+        "Sound three short leaving the berth; radio agreement is never allowed in Canada",
+        "Sound five short leaving the berth; then wait for the tug to call you"
+      ],
+      "correct_index": 1,
+      "explanation": "In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel leaving a dock or berth sounds one prolonged blast (there is a narrow ferry exception). Agreement may be reached by bridge-to-bridge radiotelephone instead of whistle signals, but if it is not reached, whistle signals are exchanged in good time and prevail. Three short and five short have other meanings.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

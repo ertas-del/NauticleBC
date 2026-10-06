@@ -1,0 +1,119 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-38.q01",
+      "lesson_id": "colregs.rule-38.exemptions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which part of the Collision Regulations does Rule 38 make up?",
+      "options": [
+        "Part E, Exemptions",
+        "Part C, Lights and Shapes",
+        "Part D, Sound and Light Signals",
+        "Part B, Steering and Sailing"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 38 is the only rule in Part E, Exemptions. Part D, Sound and Light Signals, ends at Rule 37. Parts B and C come earlier.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-38.q02",
+      "lesson_id": "colregs.rule-38.exemptions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessels can be exempted under Rule 38?",
+      "options": [
+        "Any vessel under 12 metres",
+        "Vessels whose keel was laid (or at a corresponding stage) before the Regulations came into force and that comply with the 1960 rules",
+        "Any vessel over 50 years old",
+        "Government vessels only"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 38 covers vessels built, or at a corresponding stage of construction, before the Regulations came into force and complying with the 1960 rules. It is not about length, a general age limit, or ownership.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-38.q03",
+      "lesson_id": "colregs.rule-38.exemptions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long did the Rule 38 exemption from the Annex III sound signal appliance requirements last?",
+      "options": [
+        "2 years",
+        "4 years",
+        "9 years",
+        "It is permanent"
+      ],
+      "correct_index": 2,
+      "explanation": "The exemption for Annex III sound signal appliances lasted nine years from entry into force. Four years applied to some light requirements, and the permanent exemptions are about the position of lights, not sound gear.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-38.q04",
+      "lesson_id": "colregs.rule-38.exemptions",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Under the Canadian paragraph of Rule 38, the 9-year periods are generally counted from July 15, 1977. Roughly when did those exemptions end?",
+      "options": [
+        "1980",
+        "1996",
+        "They have not ended",
+        "1986"
+      ],
+      "correct_index": 3,
+      "explanation": "Nine years from July 15, 1977 is July 15, 1986. For the vessels whose period starts on March 1, 1983, it ended on March 1, 1992. Either way, these exemptions expired decades ago.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-38.q05",
+      "lesson_id": "colregs.rule-38.exemptions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An owner says his 1960s fishing boat is \"grandfathered\" under Rule 38, so her weak sound signal gear is fine. Which reply is best?",
+      "options": [
+        "Not for sound gear: that exemption was time-limited to 9 years and has expired; the permanent exemptions concern light positions",
+        "Correct, any vessel built before 1977 is permanently exempt",
+        "Correct, as long as she stays in Canadian waters",
+        "Correct, as long as she is under 20 metres"
+      ],
+      "correct_index": 0,
+      "explanation": "Most Rule 38 exemptions were time-limited. The Annex III sound appliance exemption lasted 9 years and has long expired. The few permanent exemptions relate to the position of lights. Rule 38 is not a blanket exemption based on age, waters or size.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

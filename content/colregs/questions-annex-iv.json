@@ -1,0 +1,188 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.annex-iv.q01",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In fog you hear a vessel's horn sounding continuously, with no pattern and no breaks. What is the most likely meaning?",
+      "options": [
+        "A power-driven vessel making way",
+        "A distress signal: continuous sounding with fog-signalling apparatus",
+        "A vessel at anchor",
+        "A vessel overtaking in a narrow channel"
+      ],
+      "correct_index": 1,
+      "explanation": "A continuous sounding with any fog-signalling apparatus is an Annex IV distress signal. A power-driven vessel making way sounds one prolonged blast at intervals, an anchored vessel rings a bell, and overtaking signals are a set pattern of prolonged and short blasts.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q02",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these is a distress signal under Annex IV?",
+      "options": [
+        "A white hand flare",
+        "A green star rocket",
+        "A smoke signal giving off orange smoke",
+        "A yellow flashing light"
+      ],
+      "correct_index": 2,
+      "explanation": "Orange smoke is listed in Annex IV. The listed pyrotechnics are red: red stars, red parachute flares and red hand flares. White flares, green stars and yellow flashing lights are not distress signals.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q03",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which sound signal is listed in Annex IV as a distress signal?",
+      "options": [
+        "Five short and rapid blasts",
+        "One prolonged blast every 2 minutes",
+        "Four short blasts",
+        "A gun or other explosive signal fired at intervals of about a minute"
+      ],
+      "correct_index": 3,
+      "explanation": "A gun or other explosive signal fired at about one-minute intervals is an Annex IV distress signal, as is a continuous fog signal. Five short is the Rule 34 doubt signal, one prolonged every 2 minutes is a power-driven vessel making way in fog, and four short is the pilot vessel identity signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q04",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A drifting fishing boat is flying a square flag with a round fender hung just above it. What should you take this to mean?",
+      "options": [
+        "She is in distress and needs assistance",
+        "She is fishing with gear extended",
+        "She is at anchor",
+        "She is restricted in her ability to manoeuvre"
+      ],
+      "correct_index": 0,
+      "explanation": "A square flag with a ball, or anything resembling a ball, above or below it is an Annex IV distress signal. Improvised versions count; a fender can stand in for the ball. A single ball alone is the anchor shape, and the fishing and restricted-in-ability shapes are different.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q05",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which group lists only Annex IV radio or electronic distress signals?",
+      "options": [
+        "VHF channel 16 routine call, AIS position report, radar echo",
+        "MAYDAY by radiotelephone, DSC distress alert on VHF channel 70, EPIRB signals",
+        "SECURITE call, weather broadcast, DSC routine call",
+        "PAN-PAN call, VHF channel 13 bridge-to-bridge call, navigation warning"
+      ],
+      "correct_index": 1,
+      "explanation": "MAYDAY by radiotelephone, a DSC distress alert (VHF channel 70 or MF/HF), satellite distress alerts, EPIRB signals and approved signals such as survival craft radar transponders are all listed. PAN-PAN is an urgency signal and SECURITE a safety signal; routine calls and position reports are not distress signals.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q06",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which flag signal from the International Code means distress?",
+      "options": [
+        "A alone",
+        "C over N",
+        "N over C",
+        "O alone"
+      ],
+      "correct_index": 2,
+      "explanation": "The International Code signal of distress is N over C (NC). Reversing the order does not give the same signal. Single flags A and O have other meanings in the International Code of Signals.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q07",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Annex IV mentions two aids that help aircraft identify a vessel in distress. What are they?",
+      "options": [
+        "A white sheet and a mirror",
+        "A red flag and a smoke float",
+        "Navigation lights left on in daylight and a radar reflector",
+        "Orange canvas with a black square and circle (or other suitable symbol), and a dye marker"
+      ],
+      "correct_index": 3,
+      "explanation": "Annex IV draws attention to a piece of orange canvas with a black square and circle (or other suitable symbol) for identification from the air, and a dye marker. The other combinations may help in practice but are not the items named.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.annex-iv.q08",
+      "lesson_id": "colregs.annex-iv.distress-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At night in Canadian waters you see a high-intensity white light flashing steadily at about one flash per second from a low position on the water. How should you treat it?",
+      "options": [
+        "As a possible distress signal, since a white light flashing 50 to 70 times a minute is reported as a Canadian distress signal",
+        "As an aid to navigation, so check the chart and carry on",
+        "As a vessel at anchor",
+        "As a fishing vessel hauling nets"
+      ],
+      "correct_index": 0,
+      "explanation": "A secondary source reports that the Canadian Annex IV lists a high-intensity white light flashing at regular intervals of 50 to 70 times a minute (about one per second) as a distress signal in Canadian waters. Treat it as possible distress: note the bearing and time and tell the master. Anchor lights are steady, not flashing. This Canadian item still needs confirming against the current text.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-westcoastpaddler-strobe"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

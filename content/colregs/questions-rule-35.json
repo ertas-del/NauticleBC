@@ -1,0 +1,193 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-35.q01",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You are on a power-driven vessel making way through the water in fog. What do you sound, and how often?",
+      "options": [
+        "Two prolonged blasts at intervals of not more than 2 minutes",
+        "One prolonged blast at intervals of not more than 5 minutes",
+        "One prolonged blast at intervals of not more than 2 minutes",
+        "One short blast every minute"
+      ],
+      "correct_index": 2,
+      "explanation": "A power-driven vessel making way sounds one prolonged blast at intervals of not more than 2 minutes. Two prolonged is for a power-driven vessel stopped with no way on. Five minutes is too long, and one short is a manoeuvring signal for vessels in sight.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-safety4sea-pov-fog-2018"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q02",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "It is a bright afternoon where you are, but a fog bank sits half a mile ahead across your track. When does Rule 35 require you to start your fog signal?",
+      "options": [
+        "Only once you are inside the fog",
+        "Only at night",
+        "Only when another vessel appears on radar",
+        "Now, because the rule applies in or near an area of restricted visibility, by day or night"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 35 applies in or near an area of restricted visibility, whether by day or by night. Vessels hidden in the fog bank cannot see you either. Waiting until you are inside it, or until a radar target appears, is too late.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q03",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A pilot boat on pilotage duty is underway but stopped, with no way on, waiting in fog. Which signal fits?",
+      "options": [
+        "Two prolonged about 2 seconds apart, and she may add four short as an identity signal",
+        "One prolonged, then four short",
+        "One prolonged, two short",
+        "The bell rung rapidly for 5 seconds"
+      ],
+      "correct_index": 0,
+      "explanation": "A power-driven vessel stopped and making no way sounds two prolonged blasts about 2 seconds apart, at intervals of not more than 2 minutes. A pilot vessel on duty may add an identity signal of four short. One prolonged is for making way, and the bell is for anchored vessels.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-cultofsea-rule-35"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q04",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Your tug is towing a manned barge astern in fog. What do the two vessels sound?",
+      "options": [
+        "Tug: one prolonged; barge: nothing",
+        "Tug: one prolonged, two short; barge: one prolonged, three short, if practicable right after the tug",
+        "Tug: two prolonged; barge: one prolonged, two short",
+        "Both: one prolonged, three short"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel engaged in towing sounds one prolonged, two short at intervals of not more than 2 minutes, whatever her speed. A manned towed vessel (the last one if more than one) sounds one prolonged, three short, if practicable immediately after the tug's signal. An unmanned tow does not sound.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q05",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "You are on watch aboard a 180 metre ship anchored in fog. A small vessel is closing on radar and does not seem to have noticed you. Which signals are correct?",
+      "options": [
+        "Bell for about 5 s every 2 minutes; you may add five short blasts",
+        "One prolonged every 2 minutes and four short",
+        "Bell rapidly for about 5 s forward, then gong rapidly for about 5 s aft, at least every minute; you may also sound one short, one prolonged, one short as a warning",
+        "Gong only, every minute, because the ship is over 100 m"
+      ],
+      "correct_index": 2,
+      "explanation": "A vessel at anchor rings the bell rapidly for about 5 seconds at intervals of not more than 1 minute. At 100 m or more the bell is rung forward and then the gong aft. An anchored vessel may add one short, one prolonged, one short to warn an approaching vessel. Two minutes is the underway interval, and the gong is in addition to the bell, not instead of it.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-cultofsea-rule-35"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q06",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How does the fog signal of a vessel aground differ from that of a vessel at anchor?",
+      "options": [
+        "It is the same signal",
+        "The bell is rung every 2 minutes instead of every minute",
+        "Only the whistle is used",
+        "Three separate, distinct strokes on the bell are given immediately before and after the rapid ringing"
+      ],
+      "correct_index": 3,
+      "explanation": "A vessel aground gives the anchor bell (and gong if required) and adds three separate and distinct bell strokes immediately before and after the rapid ringing. She may also sound a suitable whistle signal, but the bell signal is still required. The interval is the same as at anchor.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q07",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are anchored in fog in a 10 metre boat and do not have a bell. What does Rule 35 require?",
+      "options": [
+        "Some other efficient sound signal at intervals of not more than 2 minutes",
+        "Nothing, vessels under 12 metres are fully exempt",
+        "One prolonged blast every minute",
+        "You must get underway, as small vessels may not anchor in fog"
+      ],
+      "correct_index": 0,
+      "explanation": "A vessel under 12 metres is not obliged to give the Rule 35 signals, but if she does not, she must make some other efficient sound signal at intervals of not more than 2 minutes. She is not fully exempt. One prolonged is the signal of a power-driven vessel making way and would mislead others.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-35.q08",
+      "lesson_id": "colregs.rule-35.restricted-visibility-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "On the Fraser River in fog, an 8 metre boom boat built for pushing logs is working outside the booming grounds. Under the Canadian paragraph of Rule 35, what applies?",
+      "options": [
+        "She may use any efficient sound signal every 2 minutes, like any vessel under 12 m",
+        "She must sound the signals prescribed for a vessel of 12 m or more",
+        "She is exempt because she is working",
+        "She must sound four short blasts"
+      ],
+      "correct_index": 1,
+      "explanation": "In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel under 12 m built or converted to push or pull floating objects, and not within a recognized mooring, storage or booming area, must sound the signals prescribed for vessels of 12 m or more. The usual under-12 m allowance does not apply to her. Four short is the pilot vessel identity signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy",
+        "colregs-signals-safety4sea-pov-fog-2018"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

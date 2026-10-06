@@ -1,0 +1,188 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-33.q01",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what length must a vessel be provided with a whistle?",
+      "options": [
+        "8 metres or more",
+        "20 metres or more",
+        "12 metres or more",
+        "50 metres or more"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 33 requires a whistle on a vessel of 12 metres or more. 20 metres is the point where a bell is added. Vessels under 12 metres need some other efficient means of sound signalling instead.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q02",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You are joining a 24 metre power-driven vessel. Which sound signal appliances must she be provided with under Rule 33?",
+      "options": [
+        "A whistle only",
+        "A whistle, a bell and a gong",
+        "A bell only",
+        "A whistle and a bell"
+      ],
+      "correct_index": 3,
+      "explanation": "At 20 metres or more a vessel needs a bell in addition to a whistle. The gong is only added at 100 metres or more. A bell alone was never enough for a vessel of this size.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q03",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 110 metre ship carries a gong as well as a whistle and bell. What does Rule 33 say about the gong's sound?",
+      "options": [
+        "Its tone and sound must not be capable of being confused with the bell",
+        "It must be louder than the whistle",
+        "It must sound exactly like the bell so that listeners are not confused",
+        "It is only used in distress"
+      ],
+      "correct_index": 0,
+      "explanation": "The gong must sound clearly different from the bell, because a large vessel at anchor in fog rings the bell forward and then the gong aft. If they sounded the same the listener could not tell it was a large vessel. Nothing requires it to be louder than the whistle, and it is a fog signal, not a distress signal.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q04",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does Rule 33 require of a 7 metre open boat?",
+      "options": [
+        "Nothing at all, sound signals do not apply to her",
+        "Some other means of making an efficient sound signal, if she does not carry a whistle and bell",
+        "A whistle and a bell",
+        "A bell only"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel under 12 metres is not obliged to carry the whistle and bell, but if she does not, she must have some other means of making an efficient sound signal. She is not exempt from sound signalling altogether.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q05",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel's bell has been replaced by an automatic electronic system that gives the same sound. Which condition must still be met?",
+      "options": [
+        "The system must be switched on only at night",
+        "The vessel must also carry a portable air horn",
+        "Manual sounding of the prescribed signals must always be possible",
+        "The system must be approved by the harbour master"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 33 lets the bell or gong be replaced by other equipment with the same sound characteristics, provided manual sounding of the signals is always possible. The other options are not conditions in the rule.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q06",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In a BC river, a 10 metre boat was built to push log booms and is not used only for yarding or warping. What does the Canadian paragraph of Rule 33 require?",
+      "options": [
+        "Nothing extra, because she is under 12 metres",
+        "She must carry a gong",
+        "She must not operate in restricted visibility",
+        "She must carry the sound signal appliances required for a vessel of 12 metres or more"
+      ],
+      "correct_index": 3,
+      "explanation": "In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel under 12 metres built or converted for pushing or pulling floating objects, and not solely in yarding or warping, must carry the gear prescribed for a vessel of 12 metres or more. The ordinary under-12 m allowance does not apply to her. A gong is a 100 m requirement, and the rule does not ban her from fog.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q07",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In fog you hear two whistles, one high-pitched and one deep and low. Using Annex III, which is the more likely reading?",
+      "options": [
+        "The low note is probably the larger vessel",
+        "The high note is probably the larger vessel",
+        "Pitch tells you nothing about size",
+        "The low note is a vessel in distress"
+      ],
+      "correct_index": 0,
+      "explanation": "Annex III sets lower whistle frequencies for larger vessels: 70-200 Hz for 200 m or more, down to 250-700 Hz for vessels under 75 m. A deep note suggests a big ship. Pitch is a clue, not proof, and it has nothing to do with distress.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-cultofsea-annex-iii"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-33.q08",
+      "lesson_id": "colregs.rule-33.sound-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Annex III gives a typical audibility range for the whistle of a vessel under 20 metres. What is it, and how should you treat it?",
+      "options": [
+        "2 nautical miles; you will always hear it at that range",
+        "0.5 nautical mile; a guide only, since fog, wind and noise can reduce it",
+        "1.5 nautical miles; a guaranteed minimum",
+        "5 nautical miles; the same as a ship's whistle"
+      ],
+      "correct_index": 1,
+      "explanation": "Annex III lists 0.5 nautical mile for vessels under 20 metres (1 M for 20-75 m, 1.5 M for 75-200 m, 2 M for 200 m or more). The Canadian text says that column is not part of the Regulations, and in practice weather and background noise can cut the range sharply, so never treat it as a guarantee.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-cultofsea-annex-iii",
+        "colregs-signals-sor-2014-17"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

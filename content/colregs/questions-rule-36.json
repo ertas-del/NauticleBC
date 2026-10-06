@@ -1,0 +1,120 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-36.q01",
+      "lesson_id": "colregs.rule-36.attract-attention",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under Rule 36, what light or sound signals may a vessel use to attract another vessel's attention?",
+      "options": [
+        "Any signal at all, since attracting attention overrides the other Rules",
+        "Only the doubt signal, five short and rapid blasts",
+        "Signals that cannot be mistaken for any signal authorized elsewhere in the Rules",
+        "Only VHF calls, never lights or sound"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 36 allows any light or sound signal that cannot be mistaken for another signal in the Rules. It does not override the other Rules, and it is not limited to the doubt signal, which has its own specific meaning under Rule 34.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-36.q02",
+      "lesson_id": "colregs.rule-36.attract-attention",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At night a small boat is heading for an unlit rock near you. How may you use your searchlight?",
+      "options": [
+        "Shine it directly into the small boat's wheelhouse until she turns",
+        "Searchlights may not be used under the Rules",
+        "Flash it on and off rapidly like a strobe",
+        "Direct the beam towards the danger, in a way that does not embarrass any vessel"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 36 allows a searchlight to be directed towards the danger as long as it does not embarrass (dazzle or hamper) any vessel. Shining it into a wheelhouse blinds the helmsman, and strobe-like flashing is to be avoided.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-36.q03",
+      "lesson_id": "colregs.rule-36.attract-attention",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does Rule 36 say about high-intensity intermittent or revolving lights, such as strobe lights, used to attract attention?",
+      "options": [
+        "Their use is to be avoided",
+        "They are the preferred way to attract attention",
+        "They are required on vessels over 20 metres",
+        "They must be red"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 36 says high-intensity intermittent or revolving lights, such as strobes, are to be avoided for attracting attention. They are not preferred or required, and the rule does not set a colour for them.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-36.q04",
+      "lesson_id": "colregs.rule-36.attract-attention",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crew member suggests flashing a green light towards a boat to get her attention near a channel entrance. What is the problem under Rule 36?",
+      "options": [
+        "Green lights may only be used by sailing vessels",
+        "A light used to attract attention must not be mistakable for an aid to navigation",
+        "Only white lights may be flashed after sunset",
+        "There is no problem"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 36 requires a light used to attract attention to be one that cannot be mistaken for an aid to navigation. A flashing green light near a channel could be read as a navigation mark. The other options are not in the rule.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-36.q05",
+      "lesson_id": "colregs.rule-36.attract-attention",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Your engine has failed, you are drifting towards rocks and you need help. Which rule should guide your signals?",
+      "options": [
+        "Rule 36, signals to attract attention",
+        "Rule 34, manoeuvring signals",
+        "Rule 37 and Annex IV, distress signals",
+        "Rule 35, restricted visibility signals"
+      ],
+      "correct_index": 2,
+      "explanation": "Being in distress and needing assistance is what Rule 37 and Annex IV cover. Rule 36 is for attracting attention when you are not in distress. Rules 34 and 35 have nothing to say about calling for help.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

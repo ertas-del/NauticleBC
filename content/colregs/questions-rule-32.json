@@ -1,0 +1,143 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-32.q01",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How long is a short blast?",
+      "options": [
+        "About one second",
+        "About half a second",
+        "About two seconds",
+        "Four to six seconds"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 32 defines a short blast as a blast of about one second. Four to six seconds is the prolonged blast. Half a second is too clipped to count reliably, and two seconds starts to blur towards a prolonged blast.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-32.q02",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How long is a prolonged blast?",
+      "options": [
+        "Two to three seconds",
+        "Four to six seconds",
+        "Three to five seconds",
+        "Eight to ten seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 32 defines a prolonged blast as four to six seconds. A two or three second blast is a common mistake on the bridge and is too short to be read as prolonged. Eight to ten seconds is longer than the rule asks for.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-32.q03",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Your vessel has an electric horn instead of a traditional whistle. For the purposes of the Rules, is it a \"whistle\"?",
+      "options": [
+        "No, only a steam or air whistle counts",
+        "Only if the vessel is under 12 metres",
+        "Yes, if it can make the prescribed blasts and meets Annex III",
+        "Only if it is backed up by a bell"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 32 defines a whistle by what it does: any sound signalling appliance able to produce the prescribed blasts and complying with Annex III. The type of device does not matter. Vessel length and carrying a bell are separate questions dealt with in Rule 33.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-32.q04",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A deckhand sounds what he calls \"one prolonged blast\" by holding the horn for about two seconds. What is the problem?",
+      "options": [
+        "Nothing; any blast over one second is prolonged",
+        "It is too long; a prolonged blast is about one second",
+        "It should have been sounded on the bell",
+        "It is too short; a prolonged blast should last four to six seconds"
+      ],
+      "correct_index": 3,
+      "explanation": "A prolonged blast is four to six seconds. Two seconds sits between the two definitions and a listener may count it as a short blast, which can change the meaning of the whole signal. A blast of about one second is the short blast, not the prolonged one.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-32.q05",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Why does it matter so much that short and prolonged blasts are sounded at the correct lengths?",
+      "options": [
+        "Because every whistle signal is a pattern of short and prolonged blasts, and a wrong length can turn one signal into another",
+        "Because the Rules fine vessels by the second",
+        "Because only prolonged blasts are heard by other vessels",
+        "Because the length of the blast tells other vessels your length overall"
+      ],
+      "correct_index": 0,
+      "explanation": "All whistle signals in Part D are built from the two blast lengths in Rule 32. If a prolonged blast is sounded too short, \"one prolonged, two short\" can sound like three short blasts, which means something completely different. Blast length does not encode vessel length, and short blasts carry just as far.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-32.q06",
+      "lesson_id": "colregs.rule-32.definitions",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which group of rules makes up Part D, Sound and Light Signals?",
+      "options": [
+        "Rules 20 to 31",
+        "Rules 32 to 37",
+        "Rules 11 to 18",
+        "Rules 38 to 41"
+      ],
+      "correct_index": 1,
+      "explanation": "Part D runs from Rule 32 (definitions) to Rule 37 (distress signals). Rules 20 to 31 are Part C, lights and shapes. Rules 11 to 18 cover vessels in sight of one another, and Rule 38 on its own is Part E, exemptions.",
+      "source_ids": [
+        "colregs-canada",
+        "colregs-signals-crc1416-2008-copy"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
