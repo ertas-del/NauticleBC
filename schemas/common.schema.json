@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*(\\.[a-z0-9]+(-[a-z0-9]+)*)*$",
+      "description": "Lowercase kebab-case segments joined by dots, e.g. colregs.rule-05.lookout"
+    },
+    "sourceIds": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/id" },
+      "minItems": 1,
+      "uniqueItems": true,
+      "description": "IDs from content/sources.json. Required for every factual claim."
+    },
+    "module": {
+      "enum": ["colregs", "tides", "bridge-watch", "sixty-ton"],
+      "description": "Content module. Extend this list in its own schema PR when a new module starts."
+    },
+    "ticket": {
+      "enum": ["bridge-watch-rating", "master-limited-60gt"]
+    },
+    "reviewStatus": {
+      "enum": ["draft", "needs_expert_review", "expert_reviewed"],
+      "description": "Only a human reviewer may set expert_reviewed."
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "review_status": { "$ref": "#/$defs/reviewStatus" },
+        "reviewed_by": { "type": "string", "minLength": 1 },
+        "reviewed_on": { "type": "string", "format": "date" }
+      },
+      "required": ["review_status"],
+      "if": { "properties": { "review_status": { "const": "expert_reviewed" } } },
+      "then": { "required": ["reviewed_by", "reviewed_on"] }
+    }
+  }
+}

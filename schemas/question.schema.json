@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/question.schema.json",
+  "title": "Question bank",
+  "description": "A content/**/questions*.json file: original multiple-choice questions. Never copy real exam questions.",
+  "type": "object",
+  "properties": {
+    "module": { "$ref": "common.schema.json#/$defs/module" },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "allOf": [{ "$ref": "common.schema.json#/$defs/review" }],
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/id" },
+          "lesson_id": { "$ref": "common.schema.json#/$defs/id", "description": "Lesson this question tests." },
+          "tickets": {
+            "type": "array",
+            "items": { "$ref": "common.schema.json#/$defs/ticket" },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "difficulty": { "enum": ["easy", "medium", "hard"] },
+          "stem": { "type": "string", "minLength": 1 },
+          "options": {
+            "type": "array",
+            "items": { "type": "string", "minLength": 1 },
+            "minItems": 3,
+            "maxItems": 5
+          },
+          "correct_index": { "type": "integer", "minimum": 0 },
+          "explanation": { "type": "string", "minLength": 1, "description": "Why the answer is right and why the common wrong picks are wrong." },
+          "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" }
+        },
+        "required": ["id", "lesson_id", "tickets", "difficulty", "stem", "options", "correct_index", "explanation", "source_ids", "review_status"],
+        "unevaluatedProperties": false
+      }
+    }
+  },
+  "required": ["module", "questions"],
+  "additionalProperties": false
+}

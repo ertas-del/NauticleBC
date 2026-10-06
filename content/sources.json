@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "id": "colregs-canada",
+      "title": "Collision Regulations, C.R.C., c. 1416",
+      "publisher": "Government of Canada, Justice Laws",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._1416/index.html",
+      "edition": "Consolidation current at time of authoring; check before release",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Fetching the Justice Laws page was blocked during research, so wording was not read from the page. Federal regulations may be reproduced if accurate and not presented as the official version (verify the order). Confirm every rule against the live text."
+    },
+    {
+      "id": "tp-14070",
+      "title": "TP 14070 Small Commercial Vessel Safety Guide",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/publications/tp-14070-small-commercial-vessel-safety-guide-2010",
+      "edition": "2010",
+      "kind": "tc-publication",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Permission-to-reproduce statement found in search results; confirm on the page before reproducing anything."
+    },
+    {
+      "id": "chs-tides-portal",
+      "title": "Canadian Hydrographic Service tides, currents and water levels portal",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service",
+      "url": "https://tides.gc.ca/en",
+      "edition": "Accessed during planning",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Data is free for non-navigational, non-commercial use only. Teaching examples only; never present as navigational."
+    }
+  ]
+}

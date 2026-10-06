@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/mock-exam.schema.json",
+  "title": "Mock exam definition",
+  "description": "content/mock-exams/*.json: how to assemble a practice exam from the question banks. A practice format, not the official exam.",
+  "type": "object",
+  "properties": {
+    "id": { "$ref": "common.schema.json#/$defs/id" },
+    "title": { "type": "string", "minLength": 1 },
+    "ticket": { "$ref": "common.schema.json#/$defs/ticket" },
+    "question_count": { "type": "integer", "minimum": 1 },
+    "time_limit_minutes": { "type": "integer", "minimum": 1 },
+    "pass_mark_percent": { "type": "integer", "minimum": 1, "maximum": 100 },
+    "blueprint": {
+      "type": "array",
+      "minItems": 1,
+      "description": "How many questions to draw from each module.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "module": { "$ref": "common.schema.json#/$defs/module" },
+          "count": { "type": "integer", "minimum": 1 }
+        },
+        "required": ["module", "count"],
+        "additionalProperties": false
+      }
+    },
+    "notes": { "type": "string" },
+    "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" },
+    "review_status": { "$ref": "common.schema.json#/$defs/reviewStatus" },
+    "reviewed_by": { "type": "string" },
+    "reviewed_on": { "type": "string", "format": "date" }
+  },
+  "required": ["id", "title", "ticket", "question_count", "time_limit_minutes", "pass_mark_percent", "blueprint", "source_ids", "review_status"],
+  "additionalProperties": false
+}

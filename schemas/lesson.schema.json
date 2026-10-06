@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/lesson.schema.json",
+  "title": "Lesson frontmatter",
+  "description": "YAML frontmatter at the top of every content/**/*.md lesson. The Markdown body is the lesson text.",
+  "type": "object",
+  "allOf": [{ "$ref": "common.schema.json#/$defs/review" }],
+  "properties": {
+    "id": { "$ref": "common.schema.json#/$defs/id" },
+    "title": { "type": "string", "minLength": 1 },
+    "module": { "$ref": "common.schema.json#/$defs/module" },
+    "tickets": {
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/ticket" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "order": { "type": "integer", "minimum": 0, "description": "Position within the module." },
+    "summary": { "type": "string", "minLength": 1, "maxLength": 280 },
+    "objectives": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 },
+      "minItems": 1,
+      "description": "What the learner should be able to do afterwards."
+    },
+    "prerequisites": {
+      "type": "array",
+      "items": { "$ref": "common.schema.json#/$defs/id" },
+      "description": "Lesson IDs."
+    },
+    "estimated_minutes": { "type": "integer", "minimum": 1, "maximum": 60 },
+    "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" },
+    "audio": {
+      "type": "object",
+      "description": "Reserved for the text-to-speech lane. Not used in the first release.",
+      "properties": {
+        "tts_script": { "type": "string" },
+        "pronunciations": { "type": "object", "additionalProperties": { "type": "string" } }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["id", "title", "module", "tickets", "order", "summary", "objectives", "estimated_minutes", "source_ids", "review_status"],
+  "unevaluatedProperties": false
+}
