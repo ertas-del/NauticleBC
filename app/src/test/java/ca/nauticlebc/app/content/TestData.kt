@@ -8,6 +8,7 @@ fun testLesson(
     body: String = "body",
     reviewStatus: String = "needs_expert_review",
     reviewedBy: String? = null,
+    keyFacts: List<String> = emptyList(),
 ) = Lesson(
     id = id,
     title = title,
@@ -17,6 +18,7 @@ fun testLesson(
     summary = "summary",
     objectives = listOf("objective"),
     estimatedMinutes = 5,
+    keyFacts = keyFacts,
     sourceIds = listOf("s1"),
     reviewStatus = reviewStatus,
     reviewedBy = reviewedBy,
@@ -28,9 +30,10 @@ fun testQuestion(
     lessonId: String = "l1",
     correctIndex: Int = 1,
     optionCount: Int = 3,
+    module: String = "colregs",
 ) = Question(
     id = id,
-    module = "colregs",
+    module = module,
     lessonId = lessonId,
     tickets = listOf("bridge-watch-rating"),
     difficulty = "easy",

@@ -31,21 +31,33 @@ import androidx.compose.ui.semantics.liveRegion
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
-import ca.nauticlebc.app.content.Lesson
 import ca.nauticlebc.app.content.Question
 import ca.nauticlebc.app.content.ReviewStatus
-import ca.nauticlebc.app.progress.LessonProgress
 import ca.nauticlebc.app.quiz.QuizScore
 import ca.nauticlebc.app.quiz.QuizState
 
+/**
+ * One quiz session over [questions]. Used for a lesson's quiz and for a whole-module quiz.
+ *
+ * @param titleText the lesson or module name shown above the questions
+ * @param stateKey identifies this session; saved progress is only restored for the same key
+ * @param best the learner's best stored score to show on the results page, if this quiz keeps one
+ * @param onRetry replaces the default "start the same questions again"; the module quiz uses it to reshuffle
+ * @param backLabel text of the button that leaves an empty quiz
+ * @param doneLabel text of the button on the results page that leaves the quiz
+ */
 @Composable
 fun QuizScreen(
-    lesson: Lesson,
+    titleText: String,
+    stateKey: String,
     questions: List<Question>,
-    progress: LessonProgress,
+    best: QuizScore?,
     onRecordScore: (QuizScore) -> Unit,
     onBackToLesson: () -> Unit,
     onBackToLessons: () -> Unit,
+    backLabel: String,
+    doneLabel: String,
+    onRetry: (() -> Unit)? = null,
 ) {
     val saver = remember(questions) {
         Saver<QuizState, ArrayList<Int>>(
@@ -53,7 +65,7 @@ fun QuizScreen(
             restore = { QuizState.restore(questions, it) },
         )
     }
-    var state by rememberSaveable(lesson.id, stateSaver = saver) {
+    var state by rememberSaveable(stateKey, stateSaver = saver) {
         mutableStateOf(QuizState.start(questions))
     }
 
@@ -72,7 +84,7 @@ fun QuizScreen(
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
             Text(
-                text = lesson.title,
+                text = titleText,
                 style = MaterialTheme.typography.titleMedium,
                 modifier = Modifier.semantics { heading() },
             )
@@ -82,14 +94,15 @@ fun QuizScreen(
                 state.total == 0 -> {
                     Text(stringResource(R.string.quiz_empty), style = MaterialTheme.typography.bodyLarge)
                     OutlinedButton(onClick = onBackToLesson, modifier = Modifier.fillMaxWidth()) {
-                        Text(stringResource(R.string.quiz_back_to_lesson))
+                        Text(backLabel)
                     }
                 }
 
                 finished -> QuizResults(
                     score = state.score,
-                    best = progress.best,
-                    onRetry = { state = QuizState.start(questions) },
+                    best = best,
+                    onRetry = onRetry ?: { state = QuizState.start(questions) },
+                    doneLabel = doneLabel,
                     onBackToLessons = onBackToLessons,
                 )
 
@@ -215,6 +228,7 @@ private fun QuizResults(
     score: QuizScore,
     best: QuizScore?,
     onRetry: () -> Unit,
+    doneLabel: String,
     onBackToLessons: () -> Unit,
 ) {
     Text(
@@ -236,6 +250,6 @@ private fun QuizResults(
         Text(stringResource(R.string.quiz_retry))
     }
     OutlinedButton(onClick = onBackToLessons, modifier = Modifier.fillMaxWidth().padding(bottom = 16.dp)) {
-        Text(stringResource(R.string.quiz_back_to_lessons))
+        Text(doneLabel)
     }
 }

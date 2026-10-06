@@ -49,6 +49,22 @@
     <string name="lesson_take_quiz">Take the quiz</string>
     <string name="lesson_no_quiz">No quiz for this lesson yet.</string>
 
+    <!-- Exam focus and highlights -->
+    <string name="md_highlight_spoken">highlighted, %1$s, end of highlight</string>
+    <string name="exam_focus_title">Exam focus</string>
+    <string name="exam_focus_hide">Hide</string>
+    <string name="exam_focus_show">Show</string>
+    <string name="exam_focus_state_expanded">Exam focus facts are shown</string>
+    <string name="exam_focus_state_collapsed">Exam focus facts are hidden</string>
+    <string name="module_exam_focus_button">Exam focus review</string>
+    <string name="exam_focus_screen_note">Key facts from each lesson, as a quick review before the exam. Study aid only: check regulatory details against current official publications.</string>
+    <string name="exam_focus_quiz_module">Quiz me on this module</string>
+    <string name="exam_focus_question_count">Questions: %1$d, in random order</string>
+    <string name="exam_focus_no_questions">There are no quiz questions for this module yet.</string>
+    <string name="exam_focus_empty">No exam focus facts in this module yet.</string>
+    <string name="module_quiz_heading">Module quiz: %1$s</string>
+    <string name="quiz_back_to_exam_focus">Back to exam focus</string>
+
     <!-- Quiz -->
     <string name="quiz_screen_title">Quiz</string>
     <string name="quiz_progress">Question %1$d of %2$d</string>
