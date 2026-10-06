@@ -2,7 +2,7 @@
 
 Everything the app teaches lives here as data files. Read `CLAUDE.md` content rules before writing anything.
 
-- `sources.json` — every source content may cite. Add the source here first.
+- `sources.json` and `sources/<lane>.json` — every source content may cite. Add new sources in your own `sources/<lane>.json` first.
 - `<module>/*.md` — lessons. YAML frontmatter validated by `schemas/lesson.schema.json`.
 - `<module>/questions*.json` — original multiple-choice questions, `schemas/question.schema.json`.
 - `mock-exams/*.json` — practice exam blueprints, `schemas/mock-exam.schema.json`.
