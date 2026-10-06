@@ -8,7 +8,63 @@
     <string name="module_tides">Tides</string>
     <string name="module_tides_desc">Why tides happen and how to use them</string>
     <string name="module_coming_soon">Coming soon</string>
+    <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>
     <string name="content_status_loaded">%1$d lessons, %2$d questions loaded</string>
     <string name="content_status_error">Content could not be loaded</string>
+
+    <!-- Shared -->
+    <string name="action_back">Back</string>
+    <string name="loading">Loading content</string>
+    <string name="error_content">Content could not be loaded. Please restart the app.</string>
+    <string name="error_lesson_not_found">This lesson could not be found.</string>
+    <string name="minutes_short">%1$d min</string>
+
+    <!-- Module screen -->
+    <string name="module_screen_title">Lessons</string>
+    <string name="module_empty">No lessons in this module yet.</string>
+    <string name="lesson_open_action">Open lesson</string>
+    <string name="progress_completed">Completed</string>
+    <string name="progress_best_score">Best quiz score: %1$d of %2$d</string>
+    <string name="progress_not_started">Not started</string>
+    <string name="progress_check_prefix">✓ %1$s</string>
+
+    <!-- Review status -->
+    <string name="review_awaiting">Awaiting expert review</string>
+    <string name="review_draft">Draft, awaiting expert review</string>
+    <string name="review_done">Expert reviewed</string>
+    <string name="review_done_by">Expert reviewed by %1$s on %2$s</string>
+    <string name="review_done_by_only">Expert reviewed by %1$s</string>
+    <string name="review_awaiting_note">This text has not been checked by a certified master or examiner. Check anything regulatory against official publications.</string>
+    <string name="quiz_review_prefix">Quiz questions: %1$s</string>
+
+    <!-- Lesson reader -->
+    <string name="lesson_screen_title">Lesson</string>
+    <string name="lesson_objectives">What you will learn</string>
+    <string name="lesson_sources">Sources</string>
+    <string name="lesson_source_unknown">%1$s (not listed in the source registry)</string>
+    <string name="lesson_source_detail">%1$s, %2$s</string>
+    <string name="lesson_mark_complete">Mark lesson as complete</string>
+    <string name="lesson_is_complete">Lesson completed</string>
+    <string name="lesson_take_quiz">Take the quiz</string>
+    <string name="lesson_no_quiz">No quiz for this lesson yet.</string>
+
+    <!-- Quiz -->
+    <string name="quiz_screen_title">Quiz</string>
+    <string name="quiz_progress">Question %1$d of %2$d</string>
+    <string name="quiz_option_label">%1$s. %2$s</string>
+    <string name="quiz_option_correct">Correct answer</string>
+    <string name="quiz_option_yours_wrong">Your answer (incorrect)</string>
+    <string name="quiz_option_yours_right">Your answer (correct)</string>
+    <string name="quiz_feedback_correct">Correct</string>
+    <string name="quiz_feedback_incorrect">Not quite</string>
+    <string name="quiz_next">Next question</string>
+    <string name="quiz_see_results">See results</string>
+    <string name="quiz_empty">There are no quiz questions for this lesson yet.</string>
+    <string name="quiz_results_title">Quiz complete</string>
+    <string name="quiz_results_score">You scored %1$d of %2$d (%3$d%%)</string>
+    <string name="quiz_results_best">Your best score: %1$d of %2$d</string>
+    <string name="quiz_retry">Try again</string>
+    <string name="quiz_back_to_lessons">Back to lessons</string>
+    <string name="quiz_back_to_lesson">Back to the lesson</string>
 </resources>
