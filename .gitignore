@@ -1,0 +1,32 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Python / Node tooling
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+
+# Generated content bundles and audio
+/dist/
+/app/src/main/assets/content/
+*.mp3
+*.ogg
+
+# Claude Code
+.claude/worktrees/
+.claude/settings.local.json
+
+# OS
+.DS_Store
