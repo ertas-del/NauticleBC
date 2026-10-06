@@ -1,0 +1,107 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-14.q01",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Two power-driven vessels are meeting on nearly reciprocal courses with risk of collision. What does Rule 14 require?",
+      "options": [
+        "The smaller vessel alters to starboard; the larger stands on",
+        "Each alters course to starboard so they pass port to port",
+        "Each alters course to port so they pass starboard to starboard",
+        "The vessel with the other on her starboard side keeps out of the way"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 14 puts the same duty on both: alter to starboard and pass on the port side of the other. Size plays no part. 'The vessel with the other on her starboard side keeps out of the way' is the crossing rule, which has a stand-on vessel; head-on does not.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-14.q02",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "At night you see a power-driven vessel dead ahead. Which picture tells you it is a head-on situation?",
+      "options": [
+        "A single white light only",
+        "Her masthead lights in a line and both sidelights",
+        "A green sidelight and a white light to its left",
+        "A red sidelight and a white light to its right"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 14(b) describes the head-on picture as masthead lights in a line or nearly in a line and/or both sidelights. A single white light ahead is most often a sternlight. One sidelight with a masthead light means you are looking at her side, a crossing or passing aspect, not bow-on.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-14.q03",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel fine on your bow is yawing in a swell, so you see her red light, then both, then her green. You are also power-driven and the range is closing. What should you do?",
+      "options": [
+        "Treat it as a crossing and stand on, since you sometimes see her green light",
+        "Assume a head-on situation exists and alter course to starboard",
+        "Alter to port to open the distance quickly",
+        "Wait until her lights steady before doing anything"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 14(c) says that if in any doubt whether a head-on situation exists, assume it does. That means altering to starboard. Standing on assumes a crossing you cannot confirm. A port turn risks meeting her starboard turn. Waiting wastes the time Rule 8 asks you to use.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-14.q04",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "In a head-on situation between two power-driven vessels, which one is the stand-on vessel?",
+      "options": [
+        "The larger vessel",
+        "The vessel that sees the other first",
+        "Neither; both must alter course",
+        "The vessel on the right-hand side of the channel"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 14 gives both vessels the same duty to alter to starboard. There is no stand-on vessel, so neither size nor who sighted whom first makes one vessel privileged. (The Canadian narrow-channel tidal-stream rule is the exception, and it depends on the stream, not on the side of the channel.)",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-14.q05",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel and a sailing vessel under sail are meeting end-on. Which rule decides what happens?",
+      "options": [
+        "Rule 14; both alter to starboard",
+        "Rule 12; the vessel on port tack gives way",
+        "Rule 18; the power-driven vessel keeps out of the way of the sailing vessel",
+        "Rule 15; whoever has the other on her starboard side gives way"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 14 applies only to two power-driven vessels, and Rule 12 only to two sailing vessels. Between a power-driven vessel and a sailing vessel (neither overtaking), Rule 18 has the power-driven vessel keep out of the way.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-14.q06",
+      "lesson_id": "colregs.rule-14.head-on",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Two power-driven vessels are meeting from opposite directions in the Canadian waters of a narrow channel with a strong tidal stream. Risk of collision exists. Which statement is correct?",
+      "options": [
+        "Both alter to starboard as in any head-on situation",
+        "The vessel going with the stream is stand-on and proposes the place of passage; the vessel stemming the stream keeps out of the way",
+        "The vessel going against the stream is stand-on because she has better steerage",
+        "The vessel nearer the centre of the channel gives way"
+      ],
+      "correct_index": 1,
+      "explanation": "The Canadian Rule 9 paragraph applies notwithstanding Rule 14(a) in this case: the vessel proceeding with the current or tidal stream is the stand-on vessel and indicates the side she will pass on by signal. The vessel stemming the stream keeps out of the way and holds as necessary. Plain Rule 14 does not apply here.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

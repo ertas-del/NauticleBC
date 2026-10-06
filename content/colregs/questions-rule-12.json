@@ -1,0 +1,124 @@
+{
+  "module": "colregs",
+  "questions": [
+    {
+      "id": "colregs.rule-12.q01",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Two sailing vessels are converging with risk of collision. One has the wind on her port side, the other on her starboard side. Which keeps out of the way?",
+      "options": [
+        "The vessel with the wind on her starboard side",
+        "The vessel with the wind on her port side",
+        "The larger vessel",
+        "The vessel to leeward"
+      ],
+      "correct_index": 1,
+      "explanation": "On different tacks, the vessel with the wind on the port side (port tack) keeps out of the way. Size has nothing to do with it. Windward and leeward only decide the case when both have the wind on the same side.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q02",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Two sailboats both have the wind on their starboard side and are converging. Which one keeps out of the way?",
+      "options": [
+        "The one to leeward",
+        "The one to windward",
+        "The one on the other's port bow",
+        "Neither; both alter to starboard"
+      ],
+      "correct_index": 1,
+      "explanation": "On the same tack, the windward vessel keeps out of the way of the leeward vessel. The leeward boat is not the one to give way, and 'both alter to starboard' is the head-on rule for power-driven vessels, not Rule 12.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q03",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "For the purposes of Rule 12, how is the windward side of a fore-and-aft rigged sailing vessel decided?",
+      "options": [
+        "The side from which the true wind is blowing, as read from the masthead vane",
+        "The side opposite to that on which the mainsail is carried",
+        "The side on which the mainsail is carried",
+        "The side nearer to the other vessel"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 12 defines the windward side as the side opposite to the mainsail. The vane can mislead when running nearly dead downwind, which is why the rule uses the sail. 'The side on which the mainsail is carried' is the leeward side, the reverse of the definition.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q04",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are sailing with the wind on your port side. A sailboat to windward is approaching, but her sails are edge-on and you cannot tell which tack she is on. What does Rule 12 require?",
+      "options": [
+        "Hold your course and speed until her tack becomes clear",
+        "Sound five short blasts and stand on",
+        "Keep out of the way of the other vessel",
+        "Alter to port to pass ahead of her"
+      ],
+      "correct_index": 2,
+      "explanation": "A port-tack vessel that sees a vessel to windward and cannot determine her tack with certainty must keep out of the way. Waiting to find out uses up time and sea room. Passing ahead of her is the riskiest choice and is not what the rule asks.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q05",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Running downwind, a sailboat has her main boom well out to starboard. For Rule 12, which tack is she on?",
+      "options": [
+        "Starboard tack",
+        "Port tack",
+        "Neither, because she is running dead downwind",
+        "It depends on the wind vane"
+      ],
+      "correct_index": 1,
+      "explanation": "The windward side is the side opposite the mainsail. With the main to starboard, her windward side is port, so she is on port tack. Rule 12 deliberately avoids the vane so that every sailing vessel has a tack, even when running.",
+      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q06",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A sailboat on starboard tack is coming up from 40 degrees abaft your beam and gaining on you. You are a sailboat on port tack. Who keeps out of the way?",
+      "options": [
+        "You do, because you are on port tack",
+        "The overtaking boat does, because Rule 13 applies before Rule 12",
+        "Both alter course to starboard",
+        "Neither has a duty because both are sailing vessels"
+      ],
+      "correct_index": 1,
+      "explanation": "She is coming up from more than 22.5 degrees abaft your beam, so she is overtaking. Rule 13 applies notwithstanding anything else in Sections I and II, so she keeps out of the way whatever her tack. Port tack only decides the case when neither boat is overtaking.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "colregs.rule-12.q07",
+      "lesson_id": "colregs.rule-12.sailing-vessels",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "A sailboat with sails up and engine running in gear is crossing ahead of another sailboat that is under sail only. Which rule decides who keeps out of the way?",
+      "options": [
+        "Rule 12, using the tack of each vessel",
+        "Rule 18, because the motoring boat counts as a power-driven vessel and must keep out of the way of the sailing vessel",
+        "Rule 15, because both are crossing",
+        "No rule applies to recreational sailboats"
+      ],
+      "correct_index": 1,
+      "explanation": "A sailing vessel that is using her engine is a power-driven vessel by definition. Rule 12 only applies between two sailing vessels, and Rule 15 only between two power-driven vessels. Unless one is overtaking, Rule 18 has the power-driven vessel keep out of the way of the sailing vessel.",
+      "source_ids": ["colregs-canada"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
