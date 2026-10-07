@@ -1,0 +1,229 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.rope-types-and-strength.q01",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these is a rope family listed in the Bridge Watch Rating course standard?",
+      "options": [
+        "Natural fibre, synthetic fibre, modern high-strength and wire",
+        "Hemp, chain, cable and string",
+        "Laid, braided and knotted",
+        "Floating, sinking and neutral"
+      ],
+      "correct_index": 0,
+      "explanation": "TP 10936 lists natural fibre, synthetic fibre, modern high-strength rope and wire rope. Laid and braided describe construction, and floating or sinking is a property, not a family.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q02",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which common rope material floats?",
+      "options": [
+        "Nylon",
+        "Polyester",
+        "Manila",
+        "Polypropylene"
+      ],
+      "correct_index": 3,
+      "explanation": "Polypropylene floats. It is also cheap but cuts skin and is damaged by sunlight. Nylon and polyester sink, and manila soaks up water and shrinks.",
+      "source_ids": [
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q03",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A nylon mooring line parts under heavy load. What is the main danger, and why?",
+      "options": [
+        "It sinks and fouls the propeller",
+        "It snaps back along the line of pull, because stretched nylon stores a lot of energy",
+        "It melts and burns the crew",
+        "It becomes stiff and cannot be coiled"
+      ],
+      "correct_index": 1,
+      "explanation": "Nylon stretches by up to about 40 per cent, so a loaded line holds a lot of stored energy. When it parts, the ends can whip back with great force. Stay out of the line of the pull. Nylon does sink, but the hazard asked about is snap-back, and it does not melt from the load alone.",
+      "source_ids": [
+        "sea-a-usace-marlinspike-seamanship",
+        "sea-a-wikipedia-rope"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q04",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about nylon is correct?",
+      "options": [
+        "It is about 10 to 15 per cent weaker when wet",
+        "It is stronger when wet",
+        "It shrinks badly when wet like manila",
+        "It is the weakest synthetic rope for its size"
+      ],
+      "correct_index": 0,
+      "explanation": "Nylon loses roughly 10 to 15 per cent of its strength when wet. It is the strongest of the common ropes for its size, and shrinking is a manila trait.",
+      "source_ids": [
+        "sea-a-wikipedia-rope",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q05",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the difference between breaking strength and safe working load (SWL)?",
+      "options": [
+        "They are the same figure",
+        "Breaking strength is the load that parts the rope; SWL is much lower and is the most to be used in service",
+        "SWL is the load that parts the rope; breaking strength is the allowed load",
+        "SWL is only for wire rope; breaking strength is only for fibre rope"
+      ],
+      "correct_index": 1,
+      "explanation": "Breaking strength is the load at failure. SWL is set well below that so there is a margin for wear, shock and age. All ropes must be used within an SWL much less than their breaking strength, whatever their material.",
+      "source_ids": [
+        "sea-a-wikipedia-rope",
+        "bw-tackle-crc-1494"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q06",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A stage rope has a breaking strength of 15 tonnes and the stage rule requires a safety factor of at least 6. What is the greatest load it may carry?",
+      "options": [
+        "2.0 tonnes",
+        "2.5 tonnes",
+        "9.0 tonnes",
+        "90 tonnes"
+      ],
+      "correct_index": 1,
+      "explanation": "SWL = breaking strength / safety factor = 15 / 6 = 2.5 tonnes. Multiplying (15 x 6 = 90) is the usual slip, and 9 tonnes would be 15 minus 6.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q07",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is correct care for rope?",
+      "options": [
+        "Stow it wet so it stays supple",
+        "Dry it before storing, keep it clean, protect it from chafe and replace worn or frayed line",
+        "Leave it in strong sunlight to kill mould",
+        "Never whip the ends"
+      ],
+      "correct_index": 1,
+      "explanation": "Good care means drying before stowing, keeping it clean and tidy, protecting it from abrasion, replacing worn line and whipping the ends. Strong sunlight damages polypropylene and other fibres, and unwhipped ends unlay.",
+      "source_ids": [
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q08",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is ordinary three-strand rope laid, and what is a nine-strand cable-laid rope?",
+      "options": [
+        "Left-handed; three braids laid together",
+        "Right-handed (hawser-laid); three hawser-laid ropes laid up left-handed",
+        "Always braided; two ropes twisted together",
+        "Right-handed; four strands around a heart"
+      ],
+      "correct_index": 1,
+      "explanation": "Three-strand rope is hawser-laid, normally right-handed. Cable-laid rope has three hawser-laid ropes laid up the opposite way (left-handed), giving nine strands. Four strands around a heart is shroud-laid.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q09",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A wire rope has developed a kink. What should you do?",
+      "options": [
+        "Pull it straight with a winch",
+        "Treat it as unsafe: the kink cannot be removed by strain, so take the wire out of service",
+        "Coat it with oil and keep using it",
+        "Cut it and splice with a reef knot"
+      ],
+      "correct_index": 1,
+      "explanation": "Once a kink forms no amount of strain takes it out, and the rope is unsafe to work. Straining it or oiling it does not restore it. Wire rope should be lubricated and checked for corrosion and kinks as routine.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.rope-types-and-strength.q10",
+      "lesson_id": "seamanship.rope-types-and-strength",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about braided rope is right?",
+      "options": [
+        "Single braids are often made with 8 or 12 strands; double braid has a braided core inside a braided cover",
+        "Braided rope is always three-stranded",
+        "Braided rope can only be made from wire",
+        "Braided rope kinks more easily than laid rope"
+      ],
+      "correct_index": 0,
+      "explanation": "Single braids typically have 8 or 12 strands, and double braid puts a braided core inside a braided cover. Braided rope is not limited to three strands or to wire, and it is less prone to kinking than laid rope.",
+      "source_ids": [
+        "sea-a-wikipedia-rope"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

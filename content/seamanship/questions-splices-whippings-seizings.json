@@ -1,0 +1,217 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.splices-whippings-seizings.q01",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "Which splice joins two ropes without increasing the diameter, so the rope can still run through a block?",
+      "options": [
+        "Short splice",
+        "Long splice",
+        "Eye splice",
+        "Back splice"
+      ],
+      "correct_index": 1,
+      "explanation": "A long splice keeps the original diameter, so the rope still runs through a block. A short splice joins two ropes but is thicker and cannot pass through a block. An eye splice makes a loop and a back splice finishes an end.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q02",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "What is an eye splice used for?",
+      "options": [
+        "To make a permanent loop at the end of a rope",
+        "To join two ropes end to end",
+        "To shorten a rope",
+        "To stop a rope running out through a block"
+      ],
+      "correct_index": 0,
+      "explanation": "An eye splice makes a permanent loop at the rope's end. Joining two ropes is a short or long splice, shortening is done with a sheepshank, and stopping a rope running out is the job of a stopper knot.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q03",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a short splice not suitable for a rope that must run through a block?",
+      "options": [
+        "It is too weak",
+        "It makes the join thicker than the rest of the rope",
+        "It can only be made in wire",
+        "It unlays when wet"
+      ],
+      "correct_index": 1,
+      "explanation": "The short splice is strong but the overlapping strands make the join thicker, so it can jam in the block. A long splice keeps the diameter. The short splice is not weak and is made in fibre rope.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q04",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "You will make a short splice by unlaying 1.0 m of each rope. About how much would a long splice of the same rope need?",
+      "options": [
+        "About 1.0 m",
+        "About 2.0 m",
+        "About 4.0 m",
+        "About 10 m"
+      ],
+      "correct_index": 2,
+      "explanation": "A long splice needs rope unlaid for about four times the length of a short splice, so 4 x 1.0 m = about 4.0 m on each rope. It is the extra length that lets the strands taper and keeps the diameter the same.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q05",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list names the three-strand splices in TP 10936?",
+      "options": [
+        "Short, long, cut, eye and back",
+        "Reef, bowline, clove and rolling",
+        "Common, palm-and-needle and West Country",
+        "Flat, round and racking"
+      ],
+      "correct_index": 0,
+      "explanation": "TP 10936 lists the short, long, cut, eye and back splices for three-strand rope, plus an eight-strand eye splice and a braided eye splice. The other lists are knots, whippings and seizing types.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q06",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the purpose of a whipping?",
+      "options": [
+        "To stop the rope end from fraying or unlaying",
+        "To join two ropes",
+        "To give the rope a decorative loop",
+        "To make the rope float"
+      ],
+      "correct_index": 0,
+      "explanation": "A whipping is a tight wrap of twine that stops a rope's end fraying or unlaying. It joins nothing, and it has no effect on buoyancy.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q07",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A hawser's end needs a whipping that will last for years. Which is the better choice than a common whipping?",
+      "options": [
+        "A palm-and-needle whipping",
+        "A reef knot",
+        "A sheepshank",
+        "Leaving the end unwhipped"
+      ],
+      "correct_index": 0,
+      "explanation": "A palm-and-needle whipping is sewn through the strands and is a more permanent way of securing a rope end than a common whipping. A reef knot or sheepshank is not a whipping, and an unwhipped end will unlay.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q08",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description fits a cut splice?",
+      "options": [
+        "A loop formed part-way along between two ropes, rather than at the end",
+        "A join that keeps the rope's diameter",
+        "A finish that tucks the strands back into the rope's own end",
+        "A permanent loop at the end of a rope"
+      ],
+      "correct_index": 0,
+      "explanation": "A cut splice forms a loop between two ropes, part-way along. The second option describes a long splice, the third a back splice and the fourth an eye splice.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q09",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "While uncoiling a wire rope for splicing, a kink forms. What is the correct view?",
+      "options": [
+        "Heave the wire taut and the kink will pull out",
+        "The kink cannot be taken out by strain and the rope is unsafe to work; uncoil wire carefully to avoid kinks",
+        "The kink only matters if the wire is wet",
+        "Tape over the kink and carry on"
+      ],
+      "correct_index": 1,
+      "explanation": "Once a kink is made no amount of strain takes it out, and the rope is unsafe to work. Wire should be uncoiled using a turntable or by rolling it, and never lifted off in loops that kink.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.splices-whippings-seizings.q10",
+      "lesson_id": "seamanship.splices-whippings-seizings",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a recognised way of whipping a rope end, besides the common whipping?",
+      "options": [
+        "West Country whipping",
+        "Sheet whipping splice",
+        "Cut whipping",
+        "Eye whipping"
+      ],
+      "correct_index": 0,
+      "explanation": "West Country whipping (a symmetric whipping made with half knots on alternate sides, finished with a reef knot) and American whipping (sometimes used for hawser ends) are both recognised alternatives to the common whipping, as is the palm-and-needle whipping. The other names are not whippings.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
