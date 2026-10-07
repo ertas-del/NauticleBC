@@ -1,0 +1,103 @@
+{
+  "sources": [
+    {
+      "id": "sea-a-ccg-atons-2023-html",
+      "title": "The Canadian Aids to Navigation System 2023 (web edition)",
+      "publisher": "Canadian Coast Guard (Fisheries and Oceans Canada)",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/canadian-aids-navigation-system-2023.html",
+      "edition": "2023 edition; accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool in two passes covering the whole page (the raw page was not opened). Supports: upstream direction defined as from seaward toward the headwaters of a river or into a harbour, applying in all Canadian waters; starboard hand aids kept to starboard when upstream; IALA Region B; port hand green, flat-topped, odd numbers, green cylinder topmark, Fl or Q light; starboard hand red, conical, even numbers, red cone topmark pointing up; numbers increase upstream; bifurcation marks (port: green with a broad red band; starboard: red with a broad green band; Fl(2+1) 6s or 10s; preferred channel kept on the matching side); fairway (red and white vertical stripes, red sphere topmark, white Mo(A) 6s or LFl 10s, keep to port in either direction); cardinal colours, topmarks, rhythms and the clock-face memory aid; isolated danger (black with a red band, two black spheres, white Fl(2) 5s or 10s); special marks (yellow lights, Fl 4s; ODAS Fl(5)Y 20s; anchorage, cautionary, control, diving, hazard, information, keep-out, mooring, swimming); daybeacons (port square, starboard triangle, bifurcation diamond, no-anchorage mark); ranges (front and rear daymarks); light characteristic definitions; sector lights (white safe, red obstruction); RACONs and radar reflectors; fog signals operate when visibility falls below 2 nautical miles; cautions about relying on buoys alone, approximate chart positions, off-station aids. The special-mark light rhythm printed by the tool as 'Fl(4)s' is almost certainly Fl 4s: check the PDF. Paraphrase only."
+    },
+    {
+      "id": "sea-a-chs-chart1-light-characters",
+      "title": "Canadian Chart 1: Section P, light characteristics",
+      "publisher": "Canadian Hydrographic Service",
+      "url": "https://chs-shc.gc.ca/publications/chart1-carte1/sections/p-lights/lightcharacters-eng.html",
+      "edition": "Accessed 2026-10-06",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: F fixed; Fl total light shorter than total dark; LFl flash of 2 s or longer; Iso light and dark equal; Oc total light longer than total dark; Q 50 to 79 flashes a minute (usually 50 or 60); VQ 80 to 159 (usually 100 or 120); UQ 160 or more; Mo Morse code; group notation in brackets; period in seconds; example description Fl(2) W 10s 25m 15M (two flashes, white, 10 s period, 25 m height, 15 nautical miles range). The Chart 1 section P index page could not be fetched, so sector and List of Lights layout details beyond the example are not sourced from it."
+    },
+    {
+      "id": "sea-a-chs-pac200-2025",
+      "title": "Sailing Directions PAC 200, Pacific Coast, General Information (March 2025 edition)",
+      "publisher": "Canadian Hydrographic Service",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-PAC200-eng-202503-41282255.pdf",
+      "edition": "2025-03; accessed 2026-10-06",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Searched through an automated fetch-and-summarise tool for a statement of the direction of buoyage on the BC coast. The tool found none: PAC 200 says buoys are described in the Sailing Directions only where they have special navigational significance and points readers to the Pacific Coast List of Lights, Buoys and Fog Signals and to Radio Aids to Marine Navigation. Used only to support that pointer. A coast-wide 'upstream' direction for BC was not found in any source read."
+    },
+    {
+      "id": "sea-a-jutsum-knots-bends-splices",
+      "title": "Knots, Bends, Splices (J. Netherclift Jutsum)",
+      "publisher": "Project Gutenberg (public domain text; original published 1921)",
+      "url": "https://gutenberg.org/files/30983/30983-h/30983-h.htm",
+      "edition": "Gutenberg ebook 30983; accessed 2026-10-06",
+      "kind": "textbook",
+      "reproduction": "permitted",
+      "read_directly": false,
+      "notes": "Public-domain text, seen through an automated fetch-and-summarise tool (not the raw page). Supports the purpose of: overhand knot, figure of eight (stops a rope running out through a block), bowline (fixed loop), bowline on the bight, two half hitches (securing a rope end to a bollard), clove hitch (two half hitches, a jamming form), rolling hitch (secures a smaller line to a larger rope or spar, resists slipping along the pull, used with a stopper), timber hitch (quick hold on a plank, add a half hitch), fisherman's bend, sheepshank (shortens a rope), cat's paw (temporary loop for a tackle hook), reef knot (the common tie), sheet bend (joins ropes of different sizes; passing the end round again makes the double sheet bend, which holds better and jams less); splices: eye (permanent loop), short (joins two ropes, not for passing through a block, thicker than the rope), cut (a loop formed between two ropes), long (keeps the diameter so the rope still runs through a block, unlaid about four times the short-splice distance, made with the lay); whippings: common, palm and needle (more permanent), West Country, American; rope construction: hawser-laid is three strands right-handed, cable-laid is three hawser-laid ropes laid left-handed (nine strands); old rule of thumb of one-fifth of breaking strength as working load (period figure, not a modern standard); a jerk load can reach three or four times the steady load; kinks in wire rope are permanent. Period nautical language."
+    },
+    {
+      "id": "sea-a-usace-marlinspike-seamanship",
+      "title": "Marlinspike Seamanship (boat-handling handout)",
+      "publisher": "U.S. Army Corps of Engineers, Lakes and Reservoirs (motorboat training)",
+      "url": "https://corpslakes.erdc.dren.mil/employees/motorboat/pdfs/MarlinspikeSeamanship.pdf",
+      "edition": "Undated; accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. A short US government training handout. Supports: manila shrinks when wet and is not good in salt water; nylon is the strongest line for its size, stretches up to 40 per cent and can be stored wet; polyester is not as strong or stretchy as nylon and may chafe; polypropylene floats, is cheapest, can cut skin and deteriorates in sunlight; wire rope is very strong with little stretch and needs lubrication and checks for corrosion and kinks; line care (dry before storing, keep clean and tidy, protect from abrasion, replace worn line, whip the ends); purposes: figure eight stopper, two half hitches for mooring, square knot for lines of the same size, bowline (the 'king of knots', a non-slip loop), clove hitch (quick temporary hold on a post or spar), sheet bend (lines of different size), rolling hitch (small line onto a larger line, fender lines), cleat hitch with a final half hitch. Does not give rope construction, SWL rules or splices."
+    },
+    {
+      "id": "sea-a-wikipedia-rope",
+      "title": "Rope (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rope",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference, used only for context. Supports: natural fibres include manila hemp, hemp, cotton, coir, jute and sisal; synthetics include polypropylene, nylon, polyesters and polyethylene (Dyneema, Spectra) plus aramids; nylon is 10 to 15 per cent weaker when wet; polypropylene has limited resistance to ultraviolet light, friction and heat; three-strand laid rope has opposite twist at each stage (yarn, strand, rope); braided ropes include single braids of 8 or 12 strands and double braids; all ropes must be used within a safe working load much less than their breaking strength; inspect before use in life-critical work."
+    },
+    {
+      "id": "sea-a-wikipedia-nautical-glossary",
+      "title": "Glossary of nautical terms, A-L and M-Z (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Glossary_of_nautical_terms_(A–L)",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool, which returned definitions for only some terms. Low-trust general reference. Supports: abaft (toward the stern, relative to some object); accommodation ladder (a portable flight of steps down a ship's side); aft (toward the stern); amidships (halfway along the length or between the sides); athwartships (at right angles to the fore-and-aft centreline); beam (width at the widest point); bitts (a post or pair of posts for fastening ropes or cables); bollard (a substantial vertical pillar to which lines are made fast); outboard (outside the hull, away from the centreline); stern (the aftermost part of the structure). Other terms were not defined in the output."
+    },
+    {
+      "id": "sea-a-wartsila-weathertight",
+      "title": "Weathertight (Wartsila Encyclopedia of Marine and Energy Technology)",
+      "publisher": "Wartsila",
+      "url": "https://wartsila.com/encyclopedia/term/weathertight",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Supports: weathertight means that in any sea conditions water will not penetrate into the ship (quoting the International Convention on Load Lines); weathertight fittings are designed against water pressure from outside only, watertight fittings against pressure from both sides. Industry glossary, not a regulation."
+    },
+    {
+      "id": "sea-a-wikipedia-deck-department",
+      "title": "Deck department (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deck_department",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference. Supports: the master holds overall command; the chief mate heads the deck department and reports to the master (administration, scheduling work, coordination); the second mate looks after charts, navigational publications, gyrocompass and navigation equipment and keeps voyage logs; third mates handle ship navigation and pilotage in coastal waters; the deck department is divided into deck officers and ratings. Engine department and ratings detail were not in the output."
+    }
+  ]
+}

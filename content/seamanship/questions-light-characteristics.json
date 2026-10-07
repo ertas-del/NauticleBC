@@ -1,0 +1,175 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.light-characteristics.q01",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "A light is on for 3 seconds and dark for 1 second, repeating every 4 seconds. Which characteristic is it?",
+      "options": [
+        "Flashing (Fl)",
+        "Occulting (Oc)",
+        "Isophase (Iso)",
+        "Quick flashing (Q)"
+      ],
+      "correct_index": 1,
+      "explanation": "Occulting means the total light is longer than the total darkness. Here the light (3 s) is longer than the dark (1 s). Fl is the reverse (dark longer), Iso needs equal light and dark, and Q means 50 to 79 flashes a minute.",
+      "source_ids": ["sea-a-chs-chart1-light-characters", "sixty-ccg-atons-2023"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q02",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What is an isophase (Iso) light?",
+      "options": [
+        "A light that is always on",
+        "A light with equal periods of light and darkness",
+        "A light that flashes at least 80 times a minute",
+        "A light showing the Morse letter A"
+      ],
+      "correct_index": 1,
+      "explanation": "Iso means light and dark are equal in length: Iso 4s is 2 seconds of light and 2 of dark. A steady light is F, 80 or more flashes a minute is VQ, and Morse A is Mo(A).",
+      "source_ids": ["sea-a-chs-chart1-light-characters", "sea-a-ccg-atons-2023-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q03",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "How many flashes a minute does a very quick (VQ) light show?",
+      "options": [
+        "30 to 49",
+        "50 to 79",
+        "80 to 159",
+        "160 or more"
+      ],
+      "correct_index": 2,
+      "explanation": "VQ is 80 to 159 flashes a minute (usually 100 or 120). Q is 50 to 79 (usually 50 or 60) and 160 or more is ultra quick (UQ). 30 to 49 is simply an ordinary flashing light.",
+      "source_ids": ["sea-a-chs-chart1-light-characters", "sixty-ccg-atons-2023"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q04",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which statement about LFl and Mo(A) is correct?",
+      "options": [
+        "LFl is a flash of 2 seconds or longer; Mo(A) is a short flash then a long flash",
+        "LFl is a flash of 1 second; Mo(A) is a long flash then a short flash",
+        "LFl is a group of long flashes; Mo(A) is a steady light",
+        "LFl and Mo(A) are the same signal"
+      ],
+      "correct_index": 0,
+      "explanation": "A long flash lasts 2 seconds or longer. The Morse letter A is a dot then a dash, so a short flash followed by a long one. Mo(A) is not the same as LFl, but both appear on the fairway buoy as alternatives (Mo(A) 6s or LFl 10s).",
+      "source_ids": ["sea-a-chs-chart1-light-characters", "sea-a-ccg-atons-2023-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q05",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A chart shows a light as \"Fl(2) W 10s\". Which description is right?",
+      "options": [
+        "A white light showing two flashes for 10 seconds, then dark for 10 seconds",
+        "A white light showing a group of two flashes, the whole cycle repeating every 10 seconds",
+        "Two white lights flashing alternately each 10 seconds",
+        "A white light that is on for 2 of every 10 seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "The bracketed 2 is the number of flashes in a group and 10s is the period of the complete cycle, dark time included. It is not 10 seconds of flashing. It also does not mean the light is on for exactly 2 seconds of the cycle: flashes in a group are short.",
+      "source_ids": ["sea-a-chs-chart1-light-characters"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q06",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A light is listed as Fl(3) 15s. How many flashes would you count in one minute of watching?",
+      "options": [
+        "3",
+        "9",
+        "12",
+        "15"
+      ],
+      "correct_index": 2,
+      "explanation": "A minute holds 60 / 15 = 4 cycles, and each cycle has 3 flashes, so 4 x 3 = 12 flashes. 3 is one cycle, 15 is the period number and 9 would be three cycles.",
+      "source_ids": ["sea-a-chs-chart1-light-characters"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q07",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "You watch a bifurcation buoy light on a dark night. What does Fl(2+1) 10s look like?",
+      "options": [
+        "Three equal flashes, then a long dark",
+        "A group of two flashes, then one flash, then a longer dark, repeating every 10 seconds",
+        "Two flashes every 10 seconds and one every minute",
+        "One long flash and two short flashes, repeating every 3 seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "A composite group shows two groups separated by a plus: here two flashes, a short gap, one flash, then a longer dark, the whole cycle 10 seconds. Counting three equal flashes in one group misses the gap that separates the groups.",
+      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q08",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A lighthouse beam is white over the safe channel and red over a reef. What type of light is it, and what does the red mean?",
+      "options": [
+        "A sector light; red marks the obstruction side",
+        "An isophase light; red means keep to starboard",
+        "A fixed light; red means the light is failing",
+        "A sector light; red means the safe channel"
+      ],
+      "correct_index": 0,
+      "explanation": "A light whose beam is divided into sectors of different colours is a sector light. The Coast Guard describes white as the safe-passage sector and red as marking the obstruction. Colour in a sector light is not a lateral-mark hand and does not signal a fault.",
+      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q09",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "You find that a lit buoy shown on your chart is not lit and seems to be off its position. What does the Canada Shipping Act, 2001 expect?",
+      "options": [
+        "Nothing, because aids to navigation are the Coast Guard's responsibility alone",
+        "Report the problem to MCTS without delay",
+        "Move the buoy back to its charted position",
+        "Wait until the next chart correction is published"
+      ],
+      "correct_index": 1,
+      "explanation": "Damage to or malfunction of an aid to navigation must be reported to MCTS without delay. You must not move an aid yourself, and you should not wait: other mariners may be relying on it. Until the aid is fixed, treat it as unreliable.",
+      "source_ids": ["sixty-csa-2001-xml"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.light-characteristics.q10",
+      "lesson_id": "seamanship.light-characteristics",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What is a fixed (F) light?",
+      "options": [
+        "A light that is always off during the day",
+        "A steady, continuous light",
+        "A light that flashes once a second",
+        "A light showing equal light and dark"
+      ],
+      "correct_index": 1,
+      "explanation": "F means fixed: a continuous steady light. Flashing once a second is Q, and equal light and dark is Iso.",
+      "source_ids": ["sea-a-chs-chart1-light-characters"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
