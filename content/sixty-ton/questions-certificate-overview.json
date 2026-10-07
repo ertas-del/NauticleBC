@@ -1,0 +1,221 @@
+{
+  "module": "sixty-ton",
+  "questions": [
+    {
+      "id": "sixty-ton.certificate-overview.q01",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under the Marine Personnel Regulations, which section sets the requirements for a Master, Limited certificate for a vessel of less than 60 gross tonnage?",
+      "options": [
+        "Section 130",
+        "Section 106",
+        "Section 212",
+        "Section 131"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 131 sets the requirements for the under-60 GT certificate. Section 130 is the 60 GT or more version, section 106 is renewal, and section 212 says what the holder may do rather than what is needed to get it.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q02",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which pair of voyage types does a Master, Limited < 60 GT certificate cover?",
+      "options": [
+        "Near coastal Class 2 and sheltered waters",
+        "Near coastal Class 1 and sheltered waters",
+        "Near coastal Class 2 and unlimited",
+        "Inland and unlimited"
+      ],
+      "correct_index": 0,
+      "explanation": "The certificate covers near coastal Class 2 and sheltered waters voyages only. Near coastal Class 1 and unlimited voyages need a larger or different certificate.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q03",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A voyage is planned so that the vessel is never more than 22 nm from shore, but at one point it is 130 nm from the nearest place of refuge. Is it a near coastal Class 2 voyage?",
+      "options": [
+        "Yes, because it is within 25 nm of shore",
+        "No, because it exceeds the 100 nm place-of-refuge limit",
+        "Yes, because only the distance from shore matters",
+        "No, because Class 2 allows no more than 12 nm from shore"
+      ],
+      "correct_index": 1,
+      "explanation": "Near coastal Class 2 needs both limits to hold for the whole voyage: 25 nm or less from shore and 100 nm or less from a place of refuge. Passing the first test does not rescue a voyage that fails the second. The 12 nm figure is not part of the definition.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q04",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about the 'sheltered waters' voyage type is correct?",
+      "options": [
+        "It includes any water within 25 nm of shore",
+        "It includes only waters inside a harbour limit",
+        "It includes a lake or a river above tidal waters where a vessel cannot be more than 2.5 nm from the nearest shore",
+        "It includes any water in British Columbia during the summer"
+      ],
+      "correct_index": 2,
+      "explanation": "Sheltered waters includes lakes and rivers above tidal waters where no point is more than 2.5 nm from the closest shore, and waters listed in the regulations for the period given. 25 nm is the near coastal Class 2 limit, a harbour limit is not the test, and a listed BC water is only sheltered for the dates in the list, not simply because it is summer.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q05",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is the Master, Limited certificate called a domestic certificate?",
+      "options": [
+        "It is valid only on lakes",
+        "It can only be used in one harbour",
+        "It is issued by the province, not Transport Canada",
+        "It is not endorsed as meeting STCW"
+      ],
+      "correct_index": 3,
+      "explanation": "The MPR say the Master, Limited certificate is not endorsed as meeting STCW, so it is not an international-standard certificate. It is not limited to lakes or to one harbour, and Transport Canada issues it.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q06",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does 'of a type, tonnage, area and period of operation specified on the certificate' mean for a holder?",
+      "options": [
+        "The certificate is valid only for the kind of vessel, size, area and season written on it",
+        "The holder may command any vessel under 60 GT in any area",
+        "The holder may command any vessel in the area written on the certificate regardless of size",
+        "The limits are advice only and the master may ignore them"
+      ],
+      "correct_index": 0,
+      "explanation": "The limits written on the certificate are binding. A holder with a certificate for a small vessel in one area cannot assume it covers another type of vessel or area. The other options treat the limits as optional or partial.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q07",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A Master, Limited < 60 GT holder wants to renew by sea service. Which statement is correct?",
+      "options": [
+        "6 months of any sea service in the last 10 years",
+        "12 months as master or mate in charge of the watch in the last 5 years, or 3 months in the last 12 months, on the certificate's vessel and in its area",
+        "12 months of any shore work in the last 5 years",
+        "A single refresher MED course with no further requirement"
+      ],
+      "correct_index": 1,
+      "explanation": "Renewal by sea service means 12 months in the last 5 years or 3 months in the last 12 months, as master or mate in charge of the deck watch, and for a Master, Limited it must be on the vessel(s) and in the area on the certificate. A refresher MED course works only together with a practical and oral on general seamanship, and the shore-service option needs 24 months in listed jobs.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q08",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A Master, Limited holder did not sail in the last 5 years. Which route could still renew the certificate?",
+      "options": [
+        "A refresher MED course alone",
+        "Passing NS1 again",
+        "A refresher MED course plus a practical and oral exam on general seamanship for the vessel",
+        "Paying the fee and waiting one year"
+      ],
+      "correct_index": 2,
+      "explanation": "One renewal route is a refresher MED course completed in the last 5 years plus a practical and oral exam on general seamanship for the vessel. The course alone is not enough, and NS1 or a waiting period is not a renewal route for this certificate.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.certificate-overview.q09",
+      "lesson_id": "sixty-ton.certificate-overview",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A Master, Limited has 24 months of work as a harbour master within the last 5 years. Which statement is correct?",
+      "options": [
+        "It cannot count because only sea service renews the certificate",
+        "It counts only if done on the certificate's vessel",
+        "It counts as 12 months of sea service",
+        "That can meet the shore service route to renewal"
+      ],
+      "correct_index": 3,
+      "explanation": "The regulations list marine-related shore jobs, including harbour master, and 24 months of such service in the last 5 years is one way to renew. The vessel-and-area condition applies to sea service, not to the shore service route.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

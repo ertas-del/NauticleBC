@@ -1,0 +1,239 @@
+{
+  "module": "sixty-ton",
+  "questions": [
+    {
+      "id": "sixty-ton.know-your-vessel.q01",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is the oral often held on board the candidate's vessel?",
+      "options": [
+        "Because the regulations require every exam to be held afloat",
+        "Because the oral cannot be held in an office",
+        "Because it replaces the sea service requirement",
+        "The certificate is valid for a specified vessel type, tonnage, area and period, so the examiner looks at the vessel you will run"
+      ],
+      "correct_index": 3,
+      "explanation": "The certificate is tied to type, tonnage, area and period, so the examiner wants to see you know the vessel you will actually command. There is no rule that every exam is afloat, and the oral does not replace sea service.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q02",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which systems are examiners reported to ask about?",
+      "options": [
+        "The vessel's own electrical, plumbing and propulsion systems",
+        "Only the navigation lights",
+        "Only the radar",
+        "The shipyard's engineering drawings"
+      ],
+      "correct_index": 0,
+      "explanation": "Providers report questions on the vessel's systems (electrical, plumbing, propulsion), equipment and emergency gear. They want to see you know your own boat.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q03",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A workboat of 14 GT carries no passengers. Which regulations apply to it among those compared in the lesson?",
+      "options": [
+        "The Vessel Safety Certificates Regulations, Division 2",
+        "The Small Vessel Regulations",
+        "Neither",
+        "The Fishing Vessel Safety Regulations"
+      ],
+      "correct_index": 1,
+      "explanation": "The Small Vessel Regulations apply to workboats of not more than 15 GT. Division 2 of the VSCR is for vessels above 15 GT or carrying more than 12 passengers. Fishing vessels are excluded from the SVR and the vessel in the question is a workboat.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q04",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 12 GT vessel is to carry 14 passengers. Which regime applies?",
+      "options": [
+        "Small Vessel Regulations Part 4",
+        "Neither, because 12 GT is too small",
+        "Vessel Safety Certificates Regulations, Division 2",
+        "Pleasure craft rules"
+      ],
+      "correct_index": 2,
+      "explanation": "A vessel of 15 GT or less carrying more than 12 passengers falls under Division 2 of the VSCR. SVR Part 4 covers passenger vessels of 15 GT or less with not more than 12 passengers.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q05",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 28 GT vessel carries 6 passengers. Which regime applies?",
+      "options": [
+        "Small Vessel Regulations, because it has fewer than 12 passengers",
+        "Small Vessel Regulations, because it is under 60 GT",
+        "No regime applies",
+        "Vessel Safety Certificates Regulations, Division 2, because it is over 15 GT"
+      ],
+      "correct_index": 3,
+      "explanation": "Division 2 of the VSCR applies to vessels of more than 15 GT regardless of passenger numbers. Passenger numbers alone do not move a vessel over 15 GT back into the SVR.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q06",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who on a small vessel's deck watch must hold a radio operator certificate if the vessel has a VHF radiotelephone?",
+      "options": [
+        "The person in charge of the deck watch",
+        "Only the owner",
+        "Only the engineer",
+        "No one, if the vessel is under 60 GT"
+      ],
+      "correct_index": 0,
+      "explanation": "The person in charge of the deck watch must hold the appropriate radio operator certificate if a VHF is fitted. On a small vessel that is often the master.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q07",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel of 8 GT is making a 3 nm run inside a harbour in good visibility with an unobstructed all-round view from the helm. Which statement best fits the rules for the deck watch?",
+      "options": [
+        "An additional person is always required",
+        "An additional person is normally required at 5 GT or more, but this kind of short harbour voyage is one of the listed exceptions",
+        "No deck watch is required",
+        "Two additional persons are required"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel of 5 GT or more normally needs an additional person on the deck watch, with listed exceptions including a short harbour voyage in good visibility with an all-round view from the helm. Check the exact wording for your own case.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q08",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How does a Master, Limited holder normally count towards the deck watch on a vessel of 800 GT or less?",
+      "options": [
+        "The master is never counted",
+        "The master is counted only when anchored",
+        "The master can be counted as part of the deck watch",
+        "The master is counted only on tugs"
+      ],
+      "correct_index": 2,
+      "explanation": "The master may be counted as part of the deck watch on a vessel of up to 1 000 GT, among other cases the regulation lists. So the small-vessel master can be the person in charge of the watch.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.know-your-vessel.q09",
+      "lesson_id": "sixty-ton.know-your-vessel",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which statement about the certificate and your vessel is correct?",
+      "options": [
+        "It covers any vessel under 60 GT",
+        "It covers any vessel in the area on the certificate",
+        "It covers any vessel of the same length",
+        "It names a vessel type, tonnage, area and period, so it does not automatically cover other vessels"
+      ],
+      "correct_index": 3,
+      "explanation": "The limits written on the certificate decide what you may command. A different type, tonnage, area or season is outside it until the certificate is changed.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-pw-vessel-scope-vscr-svr",
+        "sixty-pw-vscr-voyage-definitions",
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
