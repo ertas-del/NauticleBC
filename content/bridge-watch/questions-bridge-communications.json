@@ -1,0 +1,226 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.bridge-communications.q01",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the correct sequence in closed-loop communication?",
+      "options": [
+        "The order is given, the receiver repeats it back, and the sender confirms or corrects it",
+        "The order is given, and the receiver carries it out silently",
+        "The order is written down and then given",
+        "The receiver confirms before the order is given"
+      ],
+      "correct_index": 0,
+      "explanation": "Closed loop is give, repeat back, confirm. Carrying out an order silently leaves errors uncaught.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q02",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You cannot hear an order over engine noise. What should you do?",
+      "options": [
+        "Guess what was said and act",
+        "Wait to see what the other crew do",
+        "Ignore it",
+        "Ask the officer of the watch to repeat or clarify it before acting"
+      ],
+      "correct_index": 3,
+      "explanation": "The correct step is to ask for clarification before acting. Guessing or waiting risks a wrong action.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q03",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rating reports \"Something over there\" to the officer. What is wrong with this as a report?",
+      "options": [
+        "It should have been given to the master",
+        "It should have been given by radio",
+        "It uses vague words instead of the correct shipboard terms and gives no bearing",
+        "Nothing; short reports are best"
+      ],
+      "correct_index": 2,
+      "explanation": "Reports use correct shipboard terms and specific bearings such as \"starboard bow\". \"Over there\" cannot be acted on. Reports go to the officer of the watch.",
+      "source_ids": [
+        "bw-tp10936-ed2-html",
+        "bw-stcw-table-a-ii-4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q04",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Where does the Navigation Safety Regulations say the working language for navigational safety must be recorded?",
+      "options": [
+        "It is not recorded",
+        "In the official log book (or, if that division does not apply, any log book)",
+        "On the chart",
+        "In the radio log only"
+      ],
+      "correct_index": 1,
+      "explanation": "The master or authorized representative determines the working language and records it in the official log book, or any log book where the Division does not apply.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q05",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement matches s. 137 on what crew members must be able to do in the working language?",
+      "options": [
+        "Understand it, give orders and instructions in it if appropriate, and report back in it if appropriate",
+        "Only read it",
+        "Only speak it in an emergency",
+        "Understand it only if they are officers"
+      ],
+      "correct_index": 0,
+      "explanation": "Each crew member must be able to understand the working language, give orders and instructions in it if appropriate, and report back in it if appropriate.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q06",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which set of communications must be in English unless everyone directly involved speaks a common language other than English?",
+      "options": [
+        "Engine room orders and galley orders",
+        "Only written logbook entries",
+        "Only distress calls to the Coast Guard",
+        "Bridge-to-bridge and bridge-to-shore safety communications, and communications on board between the pilot and bridge watchkeepers"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 137(3) names bridge-to-bridge and bridge-to-shore safety communications and pilot-to-bridge watchkeeper communications. Other on-board talk uses the working language recorded in the log book.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q07",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What must a vessel with an emergency steering position be fitted with?",
+      "options": [
+        "A public address system with one-way speakers",
+        "A loud hailer",
+        "A two-way voice communication system that can pass heading information to that position",
+        "A second magnetic compass only"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 108 requires a two-way voice link able to communicate heading information to the emergency steering position.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q08",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pair of VHF channels is correct?",
+      "options": [
+        "Channel 6 for distress; channel 22 for bridge-to-bridge",
+        "Channel 16 for distress, urgency, safety and calling; channel 13 for bridge-to-bridge",
+        "Channel 13 for distress; channel 16 for bridge-to-bridge",
+        "Channel 70 for voice; channel 16 for DSC"
+      ],
+      "correct_index": 1,
+      "explanation": "Channel 16 is the voice channel for distress, urgency, safety and calling, and channel 13 is the bridge-to-bridge channel. Channel 70 is for DSC alerts.",
+      "source_ids": [
+        "bw-ccg-ramn-2026-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q09",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rating notices the ship's general alarm panel has a light they do not recognise. According to the course standard, which skill applies?",
+      "options": [
+        "Knowing the ship's internal communication and alarm systems and how to use them, and asking if unsure",
+        "Ignoring the panel as it is for the engineers",
+        "Switching it off to avoid false alarms",
+        "Waiting for the next watch"
+      ],
+      "correct_index": 0,
+      "explanation": "TP 10936 expects a rating to be able to use the internal communication and alarm systems. If a light is unfamiliar, ask the officer.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-communications.q10",
+      "lesson_id": "bridge-watch.bridge-communications",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description best fits bridge resource management?",
+      "options": [
+        "Giving the master all the work",
+        "Using only electronic aids",
+        "Keeping quiet unless asked",
+        "Arranging people sensibly, everyone understanding their roles, and using all resources effectively"
+      ],
+      "correct_index": 3,
+      "explanation": "Bridge resource management is using people, equipment and information effectively, with clear roles. The other options describe poor practice.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
