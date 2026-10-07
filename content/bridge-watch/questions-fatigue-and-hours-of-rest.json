@@ -1,0 +1,227 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q01",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How does Transport Canada define fatigue, and since when has fatigue management in the marine sector been on the TSB Watchlist?",
+      "options": [
+        "Reduced mental or physical ability from sleep-related factors; since 2018",
+        "Muscle soreness after work; since 2005",
+        "A medical condition needing treatment; since 2010",
+        "Reduced eyesight at night; since 2015"
+      ],
+      "correct_index": 0,
+      "explanation": "Fatigue is reduced mental or physical ability from sleep-related factors, and the issue has been on the TSB Watchlist since 2018. The other definitions and dates are invented.",
+      "source_ids": [
+        "bw-watch-tc-managing-fatigue-page"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q02",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these counts as hours of rest under the regulation?",
+      "options": [
+        "Any time not at the wheel, including coffee breaks",
+        "Time in the mess during a watch",
+        "The first 5 minutes of every hour",
+        "Rest time outside hours of work, not including short breaks"
+      ],
+      "correct_index": 3,
+      "explanation": "Hours of rest means rest time outside hours of work and does not include short breaks.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q03",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crew member on a near coastal voyage in Canadian waters has a schedule that gives only 4 hours of rest as the longest uninterrupted block each day, with 10 hours of rest in total. What does the domestic hours of rest rule require?",
+      "options": [
+        "Any 8 hours in 24, so this passes",
+        "At least 12 consecutive hours, so this fails",
+        "At least 6 consecutive hours of rest in every 24 hours, so this fails",
+        "At least 10 hours in total, so this passes"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 320 requires at least 6 consecutive hours of rest in every 24 hours and 16 hours of rest in every 48. A longest block of 4 hours does not meet the consecutive-hours test even if the total is higher.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q04",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On domestic voyages, how long may elapse between the end of one rest period and the start of the next?",
+      "options": [
+        "Not less than 12 hours",
+        "Not more than 18 hours, and not less than 6 hours",
+        "Not more than 14 hours",
+        "Not more than 24 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 320 says not more than 18 but not less than 6 hours between rest periods. The 14-hour figure is the s. 321 interval for unlimited voyages.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q05",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement matches the rule for unlimited voyages (s. 321)?",
+      "options": [
+        "Either no more than 14 hours of work in 24 and 72 in 7 days, or at least 10 hours of rest in 24 and 77 in 7 days",
+        "At least 6 consecutive hours in 24 and 16 hours in 48",
+        "No more than 12 hours of work in 24 and 60 in 7 days",
+        "At least 8 hours of rest in 24 and 56 in 7 days"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 321 gives two alternatives: 14/72 limits on work, or 10/77 minimums of rest. The 6 and 16 figures are the domestic rule.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q06",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "On an unlimited voyage a crew member works 0600-1800 and 2000-0200 each day. Which statement is correct?",
+      "options": [
+        "The schedule passes because it has two work blocks",
+        "The schedule passes because rest is at least 6 hours",
+        "The schedule passes if the crew member is on call",
+        "The schedule fails: 18 hours of work in 24 exceeds 14, and rest is only 6 hours, below 10"
+      ],
+      "correct_index": 3,
+      "explanation": "Work is 12 + 6 = 18 hours, which exceeds 14, and rest is 24 − 18 = 6 hours, below 10. So both the work limit and the rest minimum are failed.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q07",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On unlimited voyages, how must the rest hours be divided?",
+      "options": [
+        "One single block of 10 hours",
+        "Three periods of 3 hours each",
+        "No more than two periods, one at least 6 hours, with no more than 14 hours between rest periods",
+        "Into any number of periods of at least one hour"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 321(2) says no more than two rest periods, one at least 6 hours, and no more than 14 hours between consecutive rest periods.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q08",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When scheduling work and rest, whose fatigue must the master consider especially?",
+      "options": [
+        "Only crew on their first trip",
+        "Crew whose duties involve navigational safety and the safe and secure operation of the vessel",
+        "Only the master's own fatigue",
+        "Only engine room crew"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 322 says the danger of fatigue, especially for those whose duties involve navigational safety and safe operation, must be taken into account.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q09",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel in trouble needs all hands to help a boat in distress for 9 hours. Which statement about the rest schedule is correct?",
+      "options": [
+        "The master may suspend the schedule, and must give compensatory rest to anyone who worked in a scheduled rest period as soon as feasible",
+        "The rest rules cannot be suspended in any circumstances",
+        "The master may suspend the schedule and no compensatory rest is needed",
+        "The rest rules apply only to the master"
+      ],
+      "correct_index": 0,
+      "explanation": "The master may suspend the schedule for the immediate safety of the vessel or persons, or to help others in distress, but compensatory rest must follow as soon as feasible.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.fatigue-and-hours-of-rest.q10",
+      "lesson_id": "bridge-watch.fatigue-and-hours-of-rest",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is true about fatigue training and records?",
+      "options": [
+        "No records are needed if the voyage is under 24 hours, and the e-course is optional",
+        "Records are kept only for officers, and the e-course must be repeated every year",
+        "The e-course must be paid for and expires after 5 years",
+        "The master keeps a record of daily hours of work or rest until the crew member is discharged, and seafarers taking MED courses must complete the Fatigue Management at Sea e-course"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 323 requires the record until discharge. Transport Canada requires the free CCOHS e-course before the MED certificate is issued, and says the course certificate does not expire.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115",
+        "bw-tc-ssb-01-2026-fatigue",
+        "bw-watch-tc-managing-fatigue-page"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
