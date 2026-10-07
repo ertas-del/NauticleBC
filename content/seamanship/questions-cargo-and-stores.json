@@ -1,0 +1,228 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.cargo-and-stores.q01",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which list gives UN hazard classes 1, 2 and 3 in order?",
+      "options": [
+        "Explosives, gases, flammable liquids",
+        "Flammable liquids, explosives, gases",
+        "Gases, explosives, flammable solids",
+        "Explosives, flammable liquids, gases"
+      ],
+      "correct_index": 0,
+      "explanation": "Class 1 is explosives, class 2 gases and class 3 flammable liquids. The other lists put the classes in the wrong order or use the wrong name for class 3.",
+      "source_ids": [
+        "bw-tdg-sor-2001-286"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q02",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A drum label shows a diamond with the number 8 at the bottom. What is the hazard?",
+      "options": [
+        "Radioactive",
+        "Corrosive",
+        "Miscellaneous",
+        "Toxic"
+      ],
+      "correct_index": 1,
+      "explanation": "Class 8 is corrosives (acids and alkalis). Radioactive is class 7, toxic and infectious is class 6, and miscellaneous is class 9.",
+      "source_ids": [
+        "bw-tdg-sor-2001-286"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q03",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about class 5 is correct?",
+      "options": [
+        "Class 5 is flammable solids",
+        "Class 5 is oxidizing substances and organic peroxides",
+        "Class 5 is toxic and infectious substances",
+        "Class 5 is compressed gases"
+      ],
+      "correct_index": 1,
+      "explanation": "Class 5 is oxidizing substances and organic peroxides. Flammable solids is class 4, toxic and infectious is class 6, and gases are class 2.",
+      "source_ids": [
+        "bw-tdg-sor-2001-286"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q04",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which pair correctly describes class 2 and class 6?",
+      "options": [
+        "Class 2: liquids; class 6: radioactive",
+        "Class 2: gases, only flammable; class 6: only infectious",
+        "Class 2: gases (flammable, non-flammable or toxic); class 6: toxic and infectious substances",
+        "Class 2: explosives; class 6: corrosives"
+      ],
+      "correct_index": 2,
+      "explanation": "Class 2 covers gases in three groups (flammable, non-flammable and toxic) and class 6 covers toxic (poisonous) and infectious substances. The other options mis-name the classes.",
+      "source_ids": [
+        "sea-b-wikipedia-dangerous-goods",
+        "bw-tdg-sor-2001-286"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q05",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How is a dangerous goods hazard label shaped, and where is the class number shown?",
+      "options": [
+        "A diamond, with the class number at the bottom",
+        "A circle, with the class number in the middle",
+        "A rectangle, with the class number at the top",
+        "A triangle, with the class number at the side"
+      ],
+      "correct_index": 0,
+      "explanation": "The hazard label is a diamond (a square turned on its point) with the class number at the bottom. The other shapes are not used for these labels.",
+      "source_ids": [
+        "sea-b-wikipedia-dangerous-goods"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q06",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a hazard diamond, which colours go with flammable goods, explosives and non-flammable gas?",
+      "options": [
+        "Green, red and orange respectively",
+        "Red, orange and green respectively",
+        "All three are red",
+        "Orange, green and red respectively"
+      ],
+      "correct_index": 1,
+      "explanation": "Red marks flammable goods, orange marks explosives and green marks non-flammable gas. Mixing the colours up is the common slip.",
+      "source_ids": [
+        "sea-b-wikipedia-dangerous-goods"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q07",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which International Code of Signals flag means that the ship is taking in, discharging or carrying dangerous goods?",
+      "options": [
+        "O",
+        "B",
+        "A",
+        "J"
+      ],
+      "correct_index": 1,
+      "explanation": "Flag B means 'I am taking in, or discharging, or carrying dangerous goods'. A is diver down, J is fire with dangerous cargo (or leaking it), and O is man overboard.",
+      "source_ids": [
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q08",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crewmember suggests opening a hold that has been shut for weeks and going in at once to check the cargo, because 'it has been open to the air through the vents'. What is the correct response?",
+      "options": [
+        "Agree, if a second person watches from the hatch",
+        "No entry without a work permit; the oxygen level must be tested and be 19.5 to 23 per cent by volume",
+        "Agree, if you hold your breath",
+        "Agree, if the hold is lit"
+      ],
+      "correct_index": 1,
+      "explanation": "A hold is a confined space. No one may enter without a work permit, and the atmosphere must be assessed by a marine chemist or other qualified person, with oxygen between 19.5 and 23 per cent by volume. A watcher, lights or holding your breath do not make a space safe.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q09",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A sling with a safe working load (SWL) of 1.5 tonnes is to lift a 1.8 tonne pallet 'for a short lift'. What is the correct response?",
+      "options": [
+        "Go ahead if the lift is slow",
+        "Do not use it: cargo gear must never be used above its SWL; use a larger sling",
+        "Go ahead if two people stand back",
+        "Go ahead, since the SWL is less than the breaking strength"
+      ],
+      "correct_index": 1,
+      "explanation": "Cargo gear must not be loaded beyond its safe working load. The SWL is well below the breaking strength to give a safety margin, and a slow lift or keeping people back does not remove the limit.",
+      "source_ids": [
+        "bw-tackle-crc-1494",
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.cargo-and-stores.q10",
+      "lesson_id": "seamanship.cargo-and-stores",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is an example of a class 9 (miscellaneous) dangerous good?",
+      "options": [
+        "Petrol",
+        "Dry ice",
+        "Hydrochloric acid",
+        "Acetylene"
+      ],
+      "correct_index": 1,
+      "explanation": "Dry ice and asbestos are examples of class 9, miscellaneous. Petrol is class 3 (flammable liquid), acetylene is class 2 (flammable gas) and hydrochloric acid is class 8 (corrosive).",
+      "source_ids": [
+        "sea-b-wikipedia-dangerous-goods",
+        "bw-tdg-sor-2001-286"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.draft-marks-and-soundings.q01",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where on a ship are the draft marks normally painted?",
+      "options": [
+        "On the keel only",
+        "Only on the port side amidships",
+        "On both sides near the bow and stern, and often amidships",
+        "Inside the engine room"
+      ],
+      "correct_index": 2,
+      "explanation": "Draft marks are painted on both sides of the hull near the bow and stern, and often amidships as well, so the draft can be read from either side. They are not limited to one side, the keel or the engine room.",
+      "source_ids": [
+        "bw-wiki-draft-hull"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q02",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Metric draft figures are how high, and how far apart, and where is the water level read against a figure?",
+      "options": [
+        "10 cm high, 20 cm apart, read at the bottom of the figure",
+        "6 in high, 12 in apart, read at the middle",
+        "20 cm high, 10 cm apart, read at the top of the figure",
+        "10 cm high, 20 cm apart, read at the top of the figure"
+      ],
+      "correct_index": 0,
+      "explanation": "Metric figures are 10 cm high with 20 cm between them (so the figures step by 20 cm) and the draft is read at the bottom of the figure. Imperial figures are 6 inches high and 12 inches apart.",
+      "source_ids": [
+        "bw-wiki-draft-hull"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q03",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At the bow, the water level is at the top of the metric figure whose bottom edge marks 3.60 m. What is the draft there?",
+      "options": [
+        "3.80 m",
+        "3.70 m",
+        "3.50 m",
+        "3.60 m"
+      ],
+      "correct_index": 1,
+      "explanation": "A metric figure is 10 cm high and is read at its bottom edge. The water at the top of the figure whose bottom is 3.60 m is 10 cm higher: 3.70 m. 3.60 m would be water at the bottom edge, and 3.80 m would be at the next figure's bottom.",
+      "source_ids": [
+        "bw-wiki-draft-hull"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q04",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship reads draft 3.80 m forward and 4.40 m aft. Using the definitions mean draft = (forward + aft) / 2 and trim = aft minus forward, what are they?",
+      "options": [
+        "Mean draft 4.10 m, trim 0.60 m by the head",
+        "Mean draft 4.10 m, trim 0.60 m by the stern",
+        "Mean draft 4.40 m, trim 0.60 m by the stern",
+        "Mean draft 8.20 m, trim 0.60 m by the stern"
+      ],
+      "correct_index": 1,
+      "explanation": "Mean draft = (3.80 + 4.40) / 2 = 4.10 m. Trim = 4.40 - 3.80 = 0.60 m, and she is deeper aft so it is by the stern. Adding without halving gives 8.20 m, and by the head would mean deeper forward.",
+      "source_ids": [
+        "bw-wiki-draft-hull"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q05",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master is told that loading a few more tonnes will put the summer load line 3 cm under water 'just for this short passage'. What does the Canada Shipping Act, 2001 say?",
+      "options": [
+        "Only the owner is liable",
+        "It is an offence only if there is an accident",
+        "The master must ensure that the applicable load lines are not submerged, and submerging them is an offence with a fine of up to $500,000 for each centimetre or part of a centimetre",
+        "It is allowed for short passages"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 110(2) requires the master to ensure the applicable load lines are not submerged, and section 122 makes it an offence with a fine of up to $500,000 for each centimetre or part of a centimetre, or imprisonment up to 18 months, or both. It is not limited to short passages or to accidents.",
+      "source_ids": [
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q06",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which letters mark the tropical fresh water and the winter North Atlantic load lines?",
+      "options": [
+        "TF and WNA",
+        "FW and NA",
+        "T and W",
+        "F and S"
+      ],
+      "correct_index": 0,
+      "explanation": "TF is tropical fresh water and WNA is winter North Atlantic. F is fresh water, T tropical seawater, S summer and W winter.",
+      "source_ids": [
+        "sea-b-wikipedia-plimsoll-line"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q07",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why do the fresh water load line marks sit above the summer mark?",
+      "options": [
+        "Fresh water is colder",
+        "Fresh water is less dense, so the ship floats deeper and may be loaded to a slightly deeper mark",
+        "To show the ship is empty",
+        "Fresh water is denser, so the ship floats higher"
+      ],
+      "correct_index": 1,
+      "explanation": "Fresh water is less dense than seawater, so a ship floats deeper in it. The fresh water marks therefore sit above the summer and tropical marks (the fresh water allowance), so the ship has the same freeboard when she reaches the sea.",
+      "source_ids": [
+        "sea-b-wikipedia-plimsoll-line"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q08",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tank is 9.00 m deep from its sounding reference point to the bottom. The sounding is 2.40 m. What is the ullage?",
+      "options": [
+        "9.00 m",
+        "6.60 m",
+        "11.40 m",
+        "2.40 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Ullage is the empty space from the top reference point to the liquid surface: total depth minus sounding = 9.00 - 2.40 = 6.60 m. Adding them (11.40 m) is the common slip, and 2.40 m is the sounding itself.",
+      "source_ids": [
+        "sea-b-marineinsight-sounding-ullage"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q09",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is a sounding pipe?",
+      "options": [
+        "A pipe that vents the tank to the funnel",
+        "A pipe used to fill the tank",
+        "A pipe from the tank top, capped at the top and open at the bottom, through which the liquid level can be measured",
+        "A pipe carrying liquid between two tanks"
+      ],
+      "correct_index": 2,
+      "explanation": "A sounding pipe runs from the tank top to near the bottom, is capped, and is open at its lower end so the level inside matches the tank level, letting a tape be lowered to measure the liquid. A vent pipe lets air escape; a filling pipe loads the tank.",
+      "source_ids": [
+        "sea-b-marineinsight-sounding-ullage"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.draft-marks-and-soundings.q10",
+      "lesson_id": "seamanship.draft-marks-and-soundings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 25 m vessel is making a near coastal voyage. What hand lead line must she carry?",
+      "options": [
+        "None, because the rule is only for ships over 100 m",
+        "A 10 m line with a 1 kg lead",
+        "A 46 m line with no markings",
+        "A line at least 46 m long, clearly marked for depth, with a lead of at least 3.2 kg that can be armed"
+      ],
+      "correct_index": 3,
+      "explanation": "A vessel 20 m or more on a voyage other than a sheltered waters voyage must carry a hand lead line at least 46 m long, clearly and accurately marked to indicate depth, with a lead weighing at least 3.2 kg that is capable of being armed.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

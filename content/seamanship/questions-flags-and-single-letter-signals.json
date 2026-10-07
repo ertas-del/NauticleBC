@@ -1,0 +1,233 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q01",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under the Canada Shipping Act, 2001, when must the master of a Canadian vessel (not on the small vessel register) make sure the Canadian flag is flown?",
+      "options": [
+        "Only on Canada Day",
+        "When signalled to do so by a government vessel or Canadian Forces vessel, and when entering or leaving, or while moored or anchored in, a port",
+        "Only when in Canadian waters at night",
+        "Never, since flying it is optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 64 requires the flag to be flown when signalled by a government vessel or a vessel under Canadian Forces command, and when entering or leaving, or while moored at or anchored in, a port. It is not limited to a holiday or to Canadian waters, and it is not optional.",
+      "source_ids": [
+        "sixty-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q02",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which vessel must carry a set of International Code of Signals flags under the Navigation Safety Regulations?",
+      "options": [
+        "A 12 m Canadian pleasure craft in sheltered waters",
+        "Every vessel of any size",
+        "A Canadian vessel of 200 GT on a near coastal Class 1 voyage",
+        "A 100 GT tug on an inland voyage"
+      ],
+      "correct_index": 2,
+      "explanation": "Every Canadian vessel of more than 150 GT on a near coastal Class 1 or unlimited voyage must carry the set of signal flags. A small pleasure craft, a 100 GT tug, or 'every vessel' does not fit the rule.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q03",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which pairing is correct?",
+      "options": [
+        "A: I am taking in dangerous goods; B: I have a diver down",
+        "A: man overboard; B: all persons report on board",
+        "A: I require a pilot; B: I have a pilot on board",
+        "A: I have a diver down, keep well clear at slow speed; B: I am taking in, discharging or carrying dangerous goods"
+      ],
+      "correct_index": 3,
+      "explanation": "A means 'I have a diver down; keep well clear at slow speed' and B means 'I am taking in, or discharging, or carrying dangerous goods'. Swapping them is the common slip. A pilot is G (or H when one is on board), man overboard is O and the report-on-board call is P.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q04",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two trawlers in a fleet, close together on the fishing grounds, each hoist flag Z. What does it mean among fishing vessels there?",
+      "options": [
+        "I am pair trawling",
+        "I require a tug",
+        "I am hauling nets",
+        "I am shooting nets"
+      ],
+      "correct_index": 3,
+      "explanation": "Among fishing vessels close together on the fishing grounds, Z means 'I am shooting nets'. In other settings Z means 'I require a tug', G means 'I require a pilot' (and among fishing vessels 'I am hauling nets'), and T means pair trawling.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q05",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In harbour, a ship hoists flag P. What should the crew do?",
+      "options": [
+        "Leave the ship",
+        "All persons should report on board, as the vessel is about to proceed to sea",
+        "Treat it as a request for a pilot",
+        "Hoist flag Q at once"
+      ],
+      "correct_index": 1,
+      "explanation": "In harbour, flag P calls all persons to report on board because the vessel is about to proceed to sea. Q is the request for free pratique (the ship is healthy), and a pilot request is G.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q06",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pair is correct?",
+      "options": [
+        "E means 'dragging anchor' and I means 'fire'",
+        "E means 'altering to port' and I means 'altering to starboard'",
+        "E means 'altering course to starboard' and I means 'altering course to port'",
+        "E means 'stopped' and I means 'astern'"
+      ],
+      "correct_index": 2,
+      "explanation": "E is 'I am altering my course to starboard' and I is 'I am altering my course to port'. S is 'I am operating astern propulsion' and M is 'my vessel is stopped and making no way'. Y is dragging.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q07",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship at anchor hoists flag Y. What is she telling nearby vessels?",
+      "options": [
+        "I have a diver down",
+        "I require medical assistance",
+        "I am disabled",
+        "I am dragging my anchor"
+      ],
+      "correct_index": 3,
+      "explanation": "Y means 'I am dragging my anchor'. Disabled is F, diver down is A and medical assistance is W.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q08",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Match the signal to its meaning: which statement is correct?",
+      "options": [
+        "J: free pratique; W: pair trawling; V: stop your vessel",
+        "J: on fire with dangerous cargo, keep well clear; W: I require medical assistance; V: I require assistance",
+        "J: man overboard; W: I have a pilot; V: keep clear",
+        "J: I am taking in stores; W: wind warning; V: vessel stopped"
+      ],
+      "correct_index": 1,
+      "explanation": "J means 'I am on fire and have dangerous cargo on board: keep well clear of me' (or leaking dangerous cargo), W means 'I require medical assistance' and V means 'I require assistance'. O is man overboard, H is pilot on board, Q is free pratique, T is pair trawling and L is 'stop your vessel instantly'.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q09",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which description is correct for D, F and U?",
+      "options": [
+        "D: keep clear, I am manoeuvring with difficulty; F: I am disabled, communicate with me; U: you are running into danger",
+        "D: diver down; F: fire; U: underway",
+        "D: I am disabled; F: keep clear, manoeuvring with difficulty; U: stop instantly",
+        "D: dragging; F: free pratique; U: under tow"
+      ],
+      "correct_index": 0,
+      "explanation": "D is 'keep clear of me; I am manoeuvring with difficulty', F is 'I am disabled; communicate with me' and U is 'you are running into danger'. Swapping D and F is the common slip, and the last two options invent meanings.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flags-and-single-letter-signals.q10",
+      "lesson_id": "seamanship.flags-and-single-letter-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which spellings are used in the phonetic alphabet for the letters A and J?",
+      "options": [
+        "Alfa and Juliet",
+        "Alfa and Juliett",
+        "Able and Jig",
+        "Alpha and Juliet"
+      ],
+      "correct_index": 1,
+      "explanation": "The spelling alphabet uses Alfa (not Alpha) and Juliett (with two t's). Able and Jig belong to an older wartime alphabet.",
+      "source_ids": [
+        "sea-b-nga-pub102-letters-phonetic",
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

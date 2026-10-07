@@ -6,9 +6,23 @@
   "time_limit_minutes": 60,
   "pass_mark_percent": 60,
   "blueprint": [
-    { "module": "colregs", "count": 50 }
+    {
+      "module": "colregs",
+      "count": 15
+    },
+    {
+      "module": "bridge-watch",
+      "count": 15
+    },
+    {
+      "module": "seamanship",
+      "count": 20
+    }
   ],
-  "notes": "Practice format, not the official exam. The question count (50) and pass mark (60 per cent) follow the written examination described for the TP 10936 Bridge Watch Rating training course, Edition 2, as reported through a summarising tool; the TP 10936 PDF was not opened. Uncertain points: (1) whether course graduates write a separate Transport Canada exam, and its count, time and pass mark, are unverified; providers also quote a 70 per cent overall course mark, and TP 2293 (2007) says most TC written exams pass at 70 per cent, some at 60; (2) the 60 minute time limit is our own assumption because no time limit was found. For now the blueprint uses COLREGs questions only. The bridge-watch (watchkeeping, helm orders, lookout, equipment) and seamanship shares will be added when those modules merge, and the blueprint should then be rebalanced, ideally by course hours. Questions are original practice items. Study aid, not a navigation aid.",
-  "source_ids": ["bw-tp10936-ed2-html", "bw-tp2293-2007"],
+  "notes": "Practice format, not the official exam. The question count (50) and pass mark (60 per cent) follow the written examination described for the TP 10936 Bridge Watch Rating training course, Edition 2, as reported through a summarising tool; the TP 10936 PDF was not opened. Uncertain points: (1) whether course graduates write a separate Transport Canada exam, and its count, time and pass mark, are unverified; providers also quote a 70 per cent overall course mark, and TP 2293 (2007) says most TC written exams pass at 70 per cent, some at 60; (2) the 60 minute time limit is our own assumption because no time limit was found. The module weighting is our own choice, not an official blueprint: 15 COLREGs, 15 bridge-watch (watchkeeping, helm orders, look-out, equipment) and 20 seamanship (ropes, knots, mooring, anchoring, deck equipment, flags, cargo, maintenance). It leans toward seamanship because the regulation names a written exam on general seamanship (MPR s. 171) and TP 10936 gives most of its 300 course hours to deck work (berthing, anchoring and mooring 25, cargo and stores 35, deck equipment and machinery 65, maintenance and repair 35). It should be rebalanced if a real blueprint is found. Questions are original practice items. Study aid, not a navigation aid.",
+  "source_ids": [
+    "bw-tp10936-ed2-html",
+    "bw-tp2293-2007"
+  ],
   "review_status": "needs_expert_review"
 }
