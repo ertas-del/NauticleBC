@@ -1,0 +1,235 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q01",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A relative bearing is measured from which reference, and in which direction?",
+      "options": [
+        "From true north, clockwise",
+        "From the ship's head, anticlockwise",
+        "From the compass north, anticlockwise",
+        "From the ship's head, clockwise"
+      ],
+      "correct_index": 3,
+      "explanation": "Relative bearings count clockwise from the ship's head. True and compass bearings use north as the reference.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q02",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the relative bearing of an object on the port beam?",
+      "options": [
+        "180",
+        "315",
+        "270",
+        "090"
+      ],
+      "correct_index": 2,
+      "explanation": "Dead ahead is 000, starboard beam 090, dead astern 180 and port beam 270. 315 is broad on the port bow.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q03",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How many degrees are there in one point of the compass?",
+      "options": [
+        "8",
+        "11.25",
+        "10",
+        "22.5"
+      ],
+      "correct_index": 1,
+      "explanation": "360 degrees divided by 32 points is 11.25 degrees. Ten is a rounding that loses accuracy, 22.5 is two points and 8 is the number of points in a right angle.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q04",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description matches \"broad on the starboard bow\"?",
+      "options": [
+        "4 points (45 degrees) to starboard of dead ahead",
+        "8 points (90 degrees) to starboard of dead ahead",
+        "4 points to starboard of dead astern",
+        "1 point to starboard of dead ahead"
+      ],
+      "correct_index": 0,
+      "explanation": "Broad on the bow is 4 points or 45 degrees off ahead. Eight points is abeam, 4 points off astern is broad on the quarter and one point is \"fine on the bow\".",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q05",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A look-out reports \"three points on the port bow\". What is the relative bearing, to the nearest degree?",
+      "options": [
+        "034",
+        "236",
+        "124",
+        "326"
+      ],
+      "correct_index": 3,
+      "explanation": "3 × 11.25 = 33.75 degrees. On the port side the bearing is 360 − 33.75 = 326.25, about 326. 034 would be the starboard bow, 236 is three points abaft the port beam and 124 is on the starboard quarter.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q06",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A boat is reported \"two points abaft the starboard beam\". What is its relative bearing?",
+      "options": [
+        "About 022",
+        "About 158",
+        "About 112",
+        "About 068"
+      ],
+      "correct_index": 2,
+      "explanation": "Starboard beam is 090 and abaft means towards the stern, so 090 + 22.5 = 112.5. 068 would be two points forward of the starboard beam, 022 is two points on the bow and 158 is five points abaft the beam.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q07",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An object bears 225 relative. Which description fits?",
+      "options": [
+        "Fine on the port bow",
+        "Broad on the port quarter",
+        "Broad on the starboard quarter",
+        "Broad on the port bow"
+      ],
+      "correct_index": 1,
+      "explanation": "225 is 45 degrees past dead astern towards the port side, so it is broad on the port quarter. Broad on the starboard quarter is 135, broad on the port bow is 315.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q08",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Your ship's true heading is 290 degrees. A tug is at 100 degrees relative. What is the tug's true bearing?",
+      "options": [
+        "030",
+        "190",
+        "390",
+        "270"
+      ],
+      "correct_index": 0,
+      "explanation": "True bearing = true heading + relative bearing = 290 + 100 = 390. Subtract 360 to get 030. 390 is not a valid bearing, and the other answers use the wrong arithmetic.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions",
+        "bw-navedtra-14067-seaman"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q09",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about a look-out's bearing reports is correct?",
+      "options": [
+        "A look-out should always convert to true bearings before reporting",
+        "A look-out should report only in points, never in degrees",
+        "A look-out should report bearings to the nearest 0.1 degree",
+        "A look-out normally reports relative bearings, usually to the nearest 10 degrees"
+      ],
+      "correct_index": 3,
+      "explanation": "The look-out reports relative bearings, usually to the nearest 10 degrees. TP 10936 asks for degrees or points, and converting to true bearing is not the look-out's task.",
+      "source_ids": [
+        "bw-watch-navedtra-14067-pages",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.relative-bearings-and-points.q10",
+      "lesson_id": "bridge-watch.relative-bearings-and-points",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pair of terms correctly describes a position close to dead ahead, and a position close to dead astern?",
+      "options": [
+        "Abeam; dead astern",
+        "Fine on the quarter; fine on the bow",
+        "Fine on the bow; fine on the quarter",
+        "Broad on the bow; broad on the quarter"
+      ],
+      "correct_index": 2,
+      "explanation": "\"Fine\" means close to the fore-and-aft line, ahead or astern. \"Broad\" is about 45 degrees off, and \"abeam\" is 90 degrees.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-wiki-points-of-the-compass"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
