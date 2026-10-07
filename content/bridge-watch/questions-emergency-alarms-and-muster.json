@@ -1,0 +1,225 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q01",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which pair correctly gives the two alarm signals defined in the Fire and Boat Drills Regulations?",
+      "options": [
+        "General emergency alarm: seven or more short blasts followed by one long blast on the whistle or siren. Fire alarm: continuous sounding of the fire alarm",
+        "General emergency alarm: continuous sounding of the fire alarm. Fire alarm: seven or more short blasts followed by one long blast",
+        "General emergency alarm: one long blast followed by seven short blasts. Fire alarm: three prolonged blasts",
+        "General emergency alarm: three prolonged blasts. Fire alarm: five short blasts"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 1 defines the general emergency alarm signal as a succession of seven or more short blasts followed by one long blast on the whistle or siren, and the fire alarm signal as the continuous sounding of the fire alarm. The order is short blasts first, then one long; swapping the two signals or inventing other patterns is wrong.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q02",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "The general emergency alarm sounds and no drill notice has been given. What does a crew member do?",
+      "options": [
+        "Report to his designated muster station and prepare to perform his duties set out in the muster list",
+        "Wait in his cabin for an announcement",
+        "Go straight to the survival craft and abandon ship",
+        "Go to the bridge to ask what is happening"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 19 requires crew to report to their designated muster stations and prepare to perform assigned duties. The alarm is not by itself an abandon-ship order, and everyone going to the bridge would leave the stations empty.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q03",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which item is NOT required content of a muster list under s. 7 of the Fire and Boat Drills Regulations?",
+      "options": [
+        "The tide tables for the voyage",
+        "A description of how the order to abandon ship is given",
+        "The station at which each crew member reports",
+        "The crew member responsible for each survival craft"
+      ],
+      "correct_index": 0,
+      "explanation": "The muster list covers alarm signals, the abandon-ship order, stations, duties, substitutes for key persons, who is responsible for each survival craft, the principal communicator and equipment maintenance. Tide tables are navigation publications and are not part of the muster list.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q04",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about the muster list is correct under the Fire and Boat Drills Regulations?",
+      "options": [
+        "It is posted conspicuously throughout the vessel, including the navigation bridge, engine room and crew accommodations, and is revised or replaced when the crew changes",
+        "It is posted only in the master's cabin and revised once a year",
+        "It is posted only on the bridge and revised only after a drill",
+        "It is kept in the ship's office and need not change when the crew changes"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(2) requires conspicuous posting throughout the vessel, including those three places, and s. 6(b) requires the master to revise or replace the list when there is a change in the crew. A new person needs a station and duties from the day they join, not after the next drill.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q05",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A passenger vessel is about to hold a drill with passengers on board. What must the master do before sounding the signal?",
+      "options": [
+        "Tell the passengers that a drill will be held and that there is no actual emergency",
+        "Say nothing so the drill is realistic",
+        "Ask passengers to go to the survival craft",
+        "Hold the drill only when no passengers are aboard"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 16 requires passengers to be notified in either or both official languages that a drill will be held and that it is not an actual emergency, before the signal for the drill is sounded. Section 17 also says the drill is otherwise carried out as if real.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q06",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How often must every crew member take part in a fire drill and a survival craft drill?",
+      "options": [
+        "At least once every month",
+        "At least once every week",
+        "At least once every three months",
+        "Once a year"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 21 requires every member of the crew to take part in at least one fire drill and one survival craft drill every month. Weekly and two-weekly figures are the vessel-level intervals for some passenger vessels, not the individual crew requirement.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q07",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A cargo vessel and a Safety Convention passenger vessel each carry passengers or cargo as described. What are the minimum drill intervals for fire and survival craft drills under the Schedule?",
+      "options": [
+        "Cargo vessel one month; Safety Convention passenger vessel carrying passengers one week",
+        "Cargo vessel one week; Safety Convention passenger vessel one month",
+        "Both one month",
+        "Both one week"
+      ],
+      "correct_index": 0,
+      "explanation": "The Schedule gives one week for a Safety Convention vessel carrying passengers and one month for a cargo vessel. The reverse is tempting but wrong: passengers raise the frequency, not cargo.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q08",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which vessel is outside the Fire and Boat Drills Regulations (s. 2)?",
+      "options": [
+        "A fishing vessel of 120 gross tonnage",
+        "A self-propelled Canadian cargo vessel that must hold a safety certificate",
+        "A Canadian Safety Convention passenger vessel",
+        "A fishing vessel of 200 gross tonnage that must hold a safety certificate"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 2(2) excludes fishing vessels of 150 gross tonnage or less, cable ferries, and vessels of 15 gross tonnage or less carrying 12 or fewer passengers. The 200 gross tonnage fishing vessel is over the limit, and the other two are covered.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q09",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The master holds a fire drill in the middle of a crew member's rest period. Under the Marine Personnel Regulations, when is this acceptable without breaching the hours-of-rest rules?",
+      "options": [
+        "When the master minimises the disturbance of rest periods and does not induce fatigue",
+        "Never; rest periods may not be disturbed by drills",
+        "Always, drills override all rest rules",
+        "Only if the crew member agrees in writing"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 322(3) says the usual rest rules do not apply during practice musters, fire drills and survival craft drills if the master conducts them in a way that minimises disturbance of rest and does not induce fatigue. It is conditional, so it is neither 'never' nor 'always'.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.emergency-alarms-and-muster.q10",
+      "lesson_id": "bridge-watch.emergency-alarms-and-muster",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who keeps the records of musters and drills, and what does the record include?",
+      "options": [
+        "The master; the date of each muster and a detailed report of each fire, survival craft and rescue boat drill",
+        "The cook; only the dates of fire drills",
+        "The passengers; only the date of the safety briefing",
+        "No records are required"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 37 requires the master to record and keep the date of each muster, detailed reports of each fire, survival craft and rescue boat drill, any muster or drill not held and why, and an evaluation of the crew's readiness.",
+      "source_ids": [
+        "bw-steer-fbdr-sor-2010-83"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
