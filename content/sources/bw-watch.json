@@ -1,0 +1,81 @@
+{
+  "sources": [
+    {
+      "id": "bw-watch-amsa242-paras",
+      "title": "AMSA 242 Watchkeeping standards (reproduction of STCW Code chapter VIII, A-VIII/2 principles)",
+      "publisher": "Australian Maritime Safety Authority",
+      "url": "https://www.amsa.gov.au/sites/default/files/amsa242-watchkeeping-standards.pdf",
+      "edition": "Accessed 2026-10-06 (first 100,000 of about 126,000 characters)",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through a fetch-and-summarise tool that returned paragraph numbers. Supports: factors in composing the watch (para 18: bridge never left unattended; weather, visibility, daylight or darkness; closeness of navigational hazards; state of navigation aids; automatic steering; radio duties; unusual demands); purposes of the lookout (para 14); sole lookout in daylight only after careful assessment with help immediately available (para 16); the helmsperson is not the lookout while steering except in small ships with an unobstructed all-round view from the steering position (para 16); relieving officer's checks (paras 20-22: crew able to perform duties, eyes adjusted before assuming the watch, standing orders, position, course, speed, draught, tides, currents, weather, visibility, engine manoeuvring procedures, equipment condition, compass errors, other ships, expected hazards); watch officer stays on the bridge until relieved and remains responsible until the master takes over (para 24); regular checks of course, position and speed (para 25); when to call the master (para 40 list); restricted visibility steps (para 45); anchor watch duties (para 51). The IMO original is copyrighted; paraphrase only. Canadian law adopts A-VIII/2 Parts 2, 3 and 3-1 through MPR s. 213. A reviewer should compare against the current STCW Code."
+    },
+    {
+      "id": "bw-watch-notmar-d29-aircraft",
+      "title": "Communications from Aircraft: Distress, Urgency and Safety Signals, Annual Edition of Notices to Mariners, section D29",
+      "publisher": "Canadian Coast Guard (Notices to Mariners)",
+      "url": "https://notmar.gc.ca/publications/annual/section-d/d29-en",
+      "edition": "July 2005 content date shown on the page; accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool (two passes). Supports: aircraft in distress say MAYDAY three times or fly two triangles; urgency is three repetitions of PAN PAN; aircraft directing a vessel to a casualty circle the vessel at least once, cross ahead of the vessel's projected course close and low while rocking the wings, then head in the direction the vessel is to go; wing rocking is preferred to engine-noise signals because of noise aboard ships. The page as summarised did NOT contain the signal meaning 'assistance no longer required'; do not state that signal as sourced."
+    },
+    {
+      "id": "bw-watch-mca-life-saving-signals",
+      "title": "Life Saving Signals (SOLAS Chapter V, regulation 29 table)",
+      "publisher": "UK Maritime and Coastguard Agency",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1035412/Life_Saving_Signals.pdf",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. UK publication, not Canadian law, but it reproduces the SOLAS V/29 signals used worldwide. Supports: aircraft direction signals (overfly the vessel and head in the required direction; cross low ahead of the vessel rocking wings); the SOLAS Chapter V regulation 29 basis. The tool did not return the cancellation signal."
+    },
+    {
+      "id": "bw-watch-khalique-night-lookout",
+      "title": "Utilising State of the Art Eye Tracking Equipment to Improve Outcomes for Maritime Watchkeepers on Nocturnal Navigational Watches (Khalique, Bury, Blanco-Davis); related TransNav 2024 paper by Khalique, Bury and Loughney",
+      "publisher": "Liverpool John Moores University research repository",
+      "url": "https://researchonline.ljmu.ac.uk/25380/1/978-1-958651-87-2_42%20%281%29.pdf",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Academic research, seen through a fetch-and-summarise tool, not a regulation or exam standard. Supports: full dark adaptation can take as long as 30 minutes though much improvement comes within about 5 minutes; a brief exposure to bright light can undo adaptation; at night look slightly to one side of an object (about 5 to 10 degrees) to use the part of the eye that works best in the dark; a 'window wiper' scan of 10-degree sectors with no more than about 4 seconds in each; dim red light is used for pre-watch adaptation; bright bridge displays make full dark adaptation hard. Treat the numbers as study-aid detail and check with an instructor."
+    },
+    {
+      "id": "bw-watch-tc-managing-fatigue-page",
+      "title": "Managing fatigue at sea in Canada",
+      "publisher": "Transport Canada, Marine Safety and Security",
+      "url": "https://tc.canada.ca/en/marine-transportation/seafarer-certification/managing-fatigue-sea-canada",
+      "edition": "Accessed 2026-10-06",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: fatigue defined as reduced mental or physical ability from sleep-related factors; causes include poor sleep quality, unsuitable sleeping conditions (noise, light, vibration, ventilation, vessel motion), rotating shifts, circadian disruption, stress and heavy workload; the free CCOHS Fatigue Management at Sea e-course, certificate with no expiry; fatigue on the TSB Watchlist since 2018; masters must consider fatigue when scheduling. The page did not list symptoms."
+    },
+    {
+      "id": "bw-watch-mca-mgn592-mooring",
+      "title": "MGN 592 (M+F) Mooring, Towing or Hauling Equipment",
+      "publisher": "UK Maritime and Coastguard Agency",
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/855790/MGN592.pdf",
+      "edition": "August 2018; accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "UK guidance, not Canadian law; seen through a fetch-and-summarise tool. Supports: keep people out of snap-back zones when lines are under strain; nobody should stand in a bight of rope or wire; reduce the load at once if a line or its fittings show excessive strain. It does not give a procedure for a parted line, so the parted-mooring response in the lesson is general seamanship to be checked with an instructor."
+    },
+    {
+      "id": "bw-watch-navedtra-14067-pages",
+      "title": "Seaman, NAVEDTRA 14067 (pages 1-4 to 1-7 on watches and anchor watch; page 2-4 on lookout reports)",
+      "publisher": "United States Navy, Naval Education and Training Command",
+      "url": "https://www.nashvilleseacadets.org/s/Seaman.pdf",
+      "edition": "Accessed 2026-10-06 (first 100,000 of about 115,000 characters)",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "The earlier registry entry bw-navedtra-14067-seaman reports 'Approved for public release; distribution is unlimited'; marked unclear here because that statement was not seen in this pass. Seen through a fetch-and-summarise tool. Supports: lookouts report relative bearings in degrees, usually to the nearest 10 degrees, measured from the ship's fore-and-aft line with dead ahead 000, starboard beam 090, dead astern 180, port beam 270 (p. 2-4); anchor watch watches the chain for strain and how it is tending, and a line from a drift lead with no slack that tends noticeably forward suggests the anchor is dragging, so the bridge must be told (p. 1-4); helm relief tells the relief the course, which compass or repeater is in use, the equivalent magnetic course and any steering peculiarities (pp. 1-5 to 1-6). U.S. Navy practice and wording, so use for concepts only."
+    }
+  ]
+}
