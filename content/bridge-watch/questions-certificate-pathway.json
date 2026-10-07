@@ -1,0 +1,215 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.certificate-pathway.q01",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "A Bridge Watch Rating certificate is best described as which of these?",
+      "options": [
+        "A training certificate for survival craft only",
+        "A medical certificate for deck crew",
+        "A certificate of competency for a rating who takes part in a navigational watch",
+        "An officer certificate that lets the holder take charge of the watch"
+      ],
+      "correct_index": 2,
+      "explanation": "The Marine Personnel Regulations list it as a certificate of competency for a rating. It does not make you the person in charge of the deck watch, it is not just a course certificate, and the medical is a separate requirement.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q02",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "Which statement about age is correct for a Bridge Watch Rating?",
+      "options": [
+        "The applicant only needs to be 16 at any time",
+        "Sea service may start at 16 or older, and the applicant must be 18 on the day the certificate is received",
+        "Sea service may start at 18, and the applicant must be 16 when the certificate is received",
+        "Both the start of sea service and the receipt of the certificate must be at age 18"
+      ],
+      "correct_index": 1,
+      "explanation": "Sixteen is the earliest age at which sea service can start and still count. Eighteen is the age on the day you receive the certificate. The other options swap or merge these two ages.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q03",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "An applicant has completed an approved training program in bridge watchkeeping duties. How much sea service performing bridge watchkeeping duties is the minimum?",
+      "options": [
+        "2 months",
+        "6 months",
+        "12 months",
+        "60 days on a vessel of any kind with no watchkeeping"
+      ],
+      "correct_index": 0,
+      "explanation": "With an approved program the minimum is 2 months. Six months is the requirement without one. The service must be performing bridge watchkeeping duties, so general time on board is not what the regulation asks for.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q04",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list matches the documents the examiner must receive for a Bridge Watch Rating?",
+      "options": [
+        "MED STCW basic safety, MED fast rescue boats, radio operator certificate, marine basic first aid",
+        "Marine basic first aid, steering testimonial, Able Seafarer certificate, radar course",
+        "MED STCW basic safety, steering testimonial, chartwork certificate, firefighting advanced",
+        "MED STCW basic safety, MED survival craft and rescue boats other than fast rescue boats, steering testimonial, marine basic first aid"
+      ],
+      "correct_index": 3,
+      "explanation": "The regulation lists four items: basic safety, survival craft and rescue boats other than fast rescue boats, the steering testimonial and marine basic first aid. A radio operator certificate, a fast rescue boat course, an Able Seafarer certificate and advanced firefighting are not on that list.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q05",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Who signs the declaration on a steering testimonial, and what does the regulation say about the number of hours?",
+      "options": [
+        "The master signs; the regulation sets 10 hours",
+        "The mate signs; the regulation sets 6 hours",
+        "The master signs; the number of hours is left blank in the regulation and filled in for the applicant",
+        "The training instructor signs; the regulation sets 10 hours"
+      ],
+      "correct_index": 2,
+      "explanation": "The master declares that the seafarer stood regular watches at the wheel and is a competent wheelsman. The regulation leaves the hours blank. Ten hours is something some providers ask for, not what the regulation says.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q06",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Jordan passed the Bridge Watch Rating written exam 7 months ago and now holds the certificate. How long does the exam pass stay valid?",
+      "options": [
+        "Until the medical certificate expires",
+        "For life, because the certificate has been obtained",
+        "For 5 years from the exam date, then it lapses",
+        "For 1 year"
+      ],
+      "correct_index": 1,
+      "explanation": "A passing grade is valid 5 years from the exam date while the certificate is still being sought, and once the certificate is obtained it stays valid for life. One year is the validity of the exam application, not the pass.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q07",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "An applicant wants to write the exam in about four weeks. Which statement about the application is correct?",
+      "options": [
+        "It must reach the examiner at least two weeks before the first exam, and it stays valid for one year",
+        "It must reach the examiner on the day of the exam, and it stays valid for five years",
+        "It must reach the examiner one month before, and it stays valid for life",
+        "No application is needed if a training certificate is held"
+      ],
+      "correct_index": 0,
+      "explanation": "Two weeks before the first exam is the minimum, and the application is valid one year after the examiner receives it. Five years is the exam pass validity.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q08",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "A candidate is 17, has the 2 months of sea service, the four documents and a passing exam grade, and turns 18 in three weeks. A friend says the certificate can be issued now. What is the correct answer?",
+      "options": [
+        "Yes. Age 16 at the start of sea service is all that matters",
+        "Yes, because a pass in the exam overrides the age rule",
+        "No. The applicant must be 19 because the course is 300 hours",
+        "No. The applicant must be at least 18 on the day the certificate is received"
+      ],
+      "correct_index": 3,
+      "explanation": "Age 18 applies on the day of receipt. The earlier start at 16 only makes the service count. The exam pass does not override the age rule, and no age of 19 applies.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q09",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about the medical requirement is correct?",
+      "options": [
+        "A medical is needed, but colour vision is never tested for deck ratings",
+        "A medical is needed only after the first six months of service",
+        "A medical certificate is needed before issue, and the colour vision standard applies to a Bridge Watch Rating",
+        "No medical is needed because a rating certificate is not an officer certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "The regulation requires a medical certificate before issue, and the list of certificates exempt from the colour vision standard does not include Bridge Watch Rating. Rating certificates are not generally exempt just because they are not officer certificates.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.certificate-pathway.q10",
+      "lesson_id": "bridge-watch.certificate-pathway",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "According to the TP 10936 course standard summarised in this app, how long is the Bridge Watch Rating training course, and how many hours go to look-out?",
+      "options": [
+        "40 hours, with 300 on look-out",
+        "300 hours, with 40 on look-out",
+        "120 hours, with 40 on look-out",
+        "300 hours, with 65 on look-out"
+      ],
+      "correct_index": 1,
+      "explanation": "The course is 300 hours and the look-out competence is 40 hours. The 65-hour block is deck equipment and machinery.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

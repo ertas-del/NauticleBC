@@ -1,0 +1,226 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q01",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When restricted visibility is encountered or expected, what is the officer of the watch's first responsibility under the STCW watchkeeping principles?",
+      "options": [
+        "To turn off the radar to save power",
+        "To hand over the watch",
+        "To comply with the Collision Regulations on fog signals, safe speed and engine readiness",
+        "To drop the anchor immediately"
+      ],
+      "correct_index": 2,
+      "explanation": "The first responsibility is compliance with the Collision Regulations on fog signals, safe speed and having engines ready. Dropping anchor or handing over are not the first duty.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q02",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list gives the additional actions the officer must take in restricted visibility?",
+      "options": [
+        "Hand over the watch, sound the general alarm, and anchor",
+        "Inform the master, post a proper look-out, exhibit navigation lights, and operate and use the radar",
+        "Switch off navigation lights, post a look-out, and go full ahead",
+        "Inform the coast guard, stop engines, and turn off the radar"
+      ],
+      "correct_index": 1,
+      "explanation": "The four additions are to inform the master, post a proper look-out, exhibit navigation lights and use the radar. Turning off lights or going full ahead is the opposite of safe practice.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q03",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The forecast warns of fog within the hour, but visibility is still good. What should the officer do about the master?",
+      "options": [
+        "Notify the master, since restricted visibility expected is a trigger",
+        "Wait until visibility actually drops",
+        "Notify the master only if the radar is not working",
+        "Do nothing; fog is a normal event"
+      ],
+      "correct_index": 0,
+      "explanation": "The master is to be notified if restricted visibility is encountered or expected, so the call is made before the fog arrives.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q04",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does Rule 19 say about speed and engines in restricted visibility?",
+      "options": [
+        "Proceed at full speed to clear the area quickly",
+        "Stop engines and drift until the fog lifts",
+        "Speed is unrestricted if radar is working",
+        "Proceed at a safe speed adapted to the conditions, with engines ready for immediate manoeuvre"
+      ],
+      "correct_index": 3,
+      "explanation": "Safe speed adapted to the restricted visibility and engines ready for immediate manoeuvre. Radar does not remove the requirement.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q05",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel is making way in fog. What signal does she sound, and at what maximum interval?",
+      "options": [
+        "One prolonged and two short, every minute",
+        "A bell for five seconds, every minute",
+        "One prolonged blast, at intervals of not more than 2 minutes",
+        "Two prolonged blasts, at intervals of not more than 2 minutes"
+      ],
+      "correct_index": 2,
+      "explanation": "Making way is one prolonged blast at not more than 2 minute intervals. Two prolonged is for a vessel underway but stopped, and the bell is for a vessel at anchor.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q06",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel is underway in fog, but has stopped her engines and is making no way through the water. What does she sound?",
+      "options": [
+        "No signal is needed",
+        "Two prolonged blasts about 2 seconds apart, at intervals of not more than 2 minutes",
+        "One prolonged blast every 2 minutes",
+        "The bell rung rapidly"
+      ],
+      "correct_index": 1,
+      "explanation": "Underway but stopped is two prolonged blasts, about 2 seconds apart. One prolonged is for making way. The bell is for anchored vessels.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q07",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In fog, a vessel at anchor must give which sound signal, and at what longest interval?",
+      "options": [
+        "Bell rung rapidly for about 5 seconds, at intervals of not more than 1 minute",
+        "One prolonged blast every 2 minutes",
+        "Two prolonged blasts every 2 minutes",
+        "Continuous whistle"
+      ],
+      "correct_index": 0,
+      "explanation": "An anchored vessel rings the bell rapidly for about 5 seconds at intervals of not more than a minute. A continuous whistle would be a distress signal.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q08",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In dense fog a vessel in the Strait of Georgia sounds one prolonged blast at the longest interval allowed. What is the minimum number of signals she makes in one hour?",
+      "options": [
+        "60",
+        "15",
+        "120",
+        "30"
+      ],
+      "correct_index": 3,
+      "explanation": "The longest interval is 2 minutes, so 60 ÷ 2 = 30 signals per hour at least. Sixty would be an interval of one minute, as for the bell at anchor.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q09",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You hear a fog signal apparently forward of the beam. According to Rule 19, what should the vessel do unless it is determined that no risk of collision exists?",
+      "options": [
+        "Turn to port at full speed",
+        "Ignore it as radar shows nothing",
+        "Reduce speed to the minimum at which she can keep her course, taking off all way if necessary, and navigate with extreme caution",
+        "Increase speed to pass quickly"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 19(e) calls for minimum speed to keep course, taking off all way if necessary, with extreme caution until danger of collision is over. Radar showing nothing does not prove clear water.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.restricted-visibility-watch.q10",
+      "lesson_id": "bridge-watch.restricted-visibility-watch",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In dense fog the radar shows no targets ahead. As look-out, what is the correct approach?",
+      "options": [
+        "Rely on AIS alone",
+        "Keep listening and looking, and report every sound signal with its relative bearing, because radar may miss small vessels and floating objects",
+        "Stop looking, since a clear radar means clear water",
+        "Wear ear defenders to cut engine noise"
+      ],
+      "correct_index": 1,
+      "explanation": "Radar supports the look-out but may miss small vessels, ice and floating objects, and it cannot hear signals. In fog hearing is your main sense, so keep noise down and report each sound with its bearing.",
+      "source_ids": [
+        "bw-mca-mgn-137",
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

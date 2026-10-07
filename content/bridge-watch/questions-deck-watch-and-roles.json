@@ -1,0 +1,226 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q01",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under the Marine Personnel Regulations, which STCW Code provisions must a deck watch be kept in line with?",
+      "options": [
+        "Chapter II, section A-II/1 only",
+        "Section A-VI/1 on basic safety",
+        "Part 4 of section A-VIII/1 on engine-room watches",
+        "Parts 2, 3 and 3-1 of section A-VIII/2"
+      ],
+      "correct_index": 3,
+      "explanation": "MPR s. 213 points to section A-VIII/2, Parts 2, 3 and 3-1, which cover the principles of keeping a navigational watch. The other sections deal with other subjects such as basic safety or engine-room watches.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q02",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What must the person in charge of the deck watch hold?",
+      "options": [
+        "A Bridge Watch Rating certificate",
+        "A master's certificate for the vessel",
+        "A certificate of competency that authorizes watchkeeping and radio watch duties",
+        "Any marine first aid certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "The regulation requires a certificate of competency authorizing watchkeeping and radio watch duties. A Bridge Watch Rating is a rating certificate and is the minimum for the additional person, not for the person in charge. A master's certificate is more than the regulation asks for here.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q03",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 120 GT vessel is on a normal voyage. According to the regulation, what is the minimum deck watch?",
+      "options": [
+        "The master plus the person in charge, with no additional person",
+        "The person in charge plus one additional person",
+        "The person in charge only",
+        "The person in charge plus two additional persons"
+      ],
+      "correct_index": 1,
+      "explanation": "From 5 GT up, an additional person is required. The second additional person is only needed above 1,000 GT. Under 5 GT the person in charge alone would meet the minimum.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q04",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On which vessels must the additional person on the deck watch hold at least an Able Seafarer or Bridge Watch Rating certificate?",
+      "options": [
+        "Vessels of 500 GT or more",
+        "Vessels of 5 GT or more",
+        "Vessels of more than 1,000 GT only",
+        "Vessels of 150 GT or more"
+      ],
+      "correct_index": 0,
+      "explanation": "The certificate requirement for the additional person starts at 500 GT. Five GT is the point at which an additional person is required at all. Over 1,000 GT adds a second additional person, not the first certificate requirement.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q05",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 1,400 GT vessel is leaving harbour and is not securely moored or anchored. How many additional persons beyond the person in charge must the deck watch have, and what is the minimum certificate?",
+      "options": [
+        "One additional person with at least Able Seafarer or Bridge Watch Rating",
+        "Two additional persons with no certificate required",
+        "None, because the master is counted",
+        "Two additional persons, each holding at least Able Seafarer or Bridge Watch Rating (subject to the exceptions)"
+      ],
+      "correct_index": 3,
+      "explanation": "Over 1,000 GT and not anchored or moored, a second additional person is required and the minimum for both is Able Seafarer or Bridge Watch Rating, subject to the listed exceptions. One person is the 500 to 1,000 GT answer. The master is not counted on a vessel of 1,400 GT unless three deck watches are kept and the vessel is under 3,000 GT.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q06",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "On the deck watch of a 2,000 GT vessel the additional person holds Bridge Watch Rating and the second additional person is a deck rating currently training for Bridge Watch Rating. Is the watch complying with the certificate rule?",
+      "options": [
+        "No, because a rating under training is never allowed on the deck watch",
+        "Yes, but only if the master is counted as a watch member",
+        "Yes, because only one of the two is a rating under training",
+        "No, because both must hold the certificate with no exceptions"
+      ],
+      "correct_index": 2,
+      "explanation": "The regulation says the two are not both required to hold the certificate if either one, but not both, is a rating under training. Both being trainees would not meet the rule. The master being counted is not what makes this arrangement acceptable.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q07",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In which case may the master be counted as a member of the deck watch?",
+      "options": [
+        "The vessel is over 3,000 GT with two deck watches",
+        "The vessel is 1,000 GT or less",
+        "The vessel is 500 GT or more and it is night",
+        "The master is the only certified person on board"
+      ],
+      "correct_index": 1,
+      "explanation": "The master counts when the vessel is securely anchored in port or moored to shore, is 1,000 GT or less, or is over 1,000 but under 3,000 GT with at least three deck watches. The other options are not on the list.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q08",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When may an officer of the watch act as the sole look-out?",
+      "options": [
+        "In daylight only, after careful assessment, with help immediately available on the bridge",
+        "At night in good visibility with the radar on",
+        "Whenever the vessel is on autopilot",
+        "Only in restricted visibility, because radar replaces extra eyes"
+      ],
+      "correct_index": 0,
+      "explanation": "The sole look-out allowance is for daylight only, after assessing weather, visibility, traffic and dangers, and with assistance immediately available. Night, autopilot or restricted visibility do not qualify.",
+      "source_ids": [
+        "bw-tc-ssb-07-2017-deck-watch",
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q09",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rating on watch sees a small fishing boat close ahead while the master is asleep and the officer of the watch is at the chart table. Who is responsible for safe navigation, and what should the rating do?",
+      "options": [
+        "The rating becomes responsible and alters course",
+        "The master is responsible, so the rating should wake the master before telling anyone",
+        "Nobody until the master takes over, so the rating should wait",
+        "The officer of the watch stays responsible; the rating reports the boat to the officer at once"
+      ],
+      "correct_index": 3,
+      "explanation": "The officer of the watch remains responsible until the master explicitly takes over, so the rating reports at once and the officer decides. The rating does not take over decisions or wait for the master.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.deck-watch-and-roles.q10",
+      "lesson_id": "bridge-watch.deck-watch-and-roles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 90 GT harbour tug is making a 3 nautical mile harbour voyage in good visibility at noon, with an unobstructed all-round view from the steering position. Which statement about the additional person is the most accurate?",
+      "options": [
+        "An additional person is required only if the master is not on the bridge",
+        "The additional person must hold Able Seafarer because it is a commercial vessel",
+        "An exception may apply, because the regulation lists short daylight harbour voyages in good visibility for vessels up to 500 GT; the conditions must all be met",
+        "An additional person is always required from 5 GT, without exception"
+      ],
+      "correct_index": 2,
+      "explanation": "The regulation excuses the additional person for a vessel up to 500 GT with an unobstructed view, on a voyage of no more than five nautical miles within a harbour, in good visibility between sunrise and sunset. All the conditions must apply. It is not required to be Able Seafarer below 500 GT in s. 216(2)(b).",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
