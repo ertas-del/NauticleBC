@@ -1,0 +1,226 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q01",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Within what time before departure must a vessel's steering gear be checked and tested under the Navigation Safety Regulations, 2020?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "6 hours",
+        "48 hours"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 136(1) requires the checks and tests within 12 hours before departure. The 24 and 48 hour figures are tempting because other watchkeeping rules use them, but they are not the steering gear test interval.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q02",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which group of items is part of the pre-departure steering gear test?",
+      "options": [
+        "Rudder angle indicators against the actual rudder, full rudder movement, and bridge to steering gear compartment communication",
+        "Anchor windlass brake, radar range scales and fire pump pressure",
+        "Gyro settling time, compass deviation and autopilot gain",
+        "Muster list, lifejacket stowage and boat davits"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 136(1) lists the rudder angle indicators checked against the actual rudder position, the full movement of the rudder, a visual inspection of the gear and linkage, and the communication between the bridge and the steering gear compartment, along with the main and auxiliary gear, controls, power, alarms and isolating arrangements. The other groups are real equipment but belong to other checks.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q03",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel regularly makes voyages of three days. What does the regulation allow regarding the departure steering test?",
+      "options": [
+        "The test need not be done within 12 hours of each departure if it is done at least once every week",
+        "No steering test is needed at all",
+        "The test is needed only once a month",
+        "The test is needed within 12 hours but may be done by a passenger"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 136(2) gives an exception for vessels that regularly make voyages of less than one week: the tests must still be done at least weekly. It does not remove the testing duty, and a month is far too long.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q04",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which statement about emergency steering drills under the Navigation Safety Regulations, 2020 is correct?",
+      "options": [
+        "They are held at least once every three months and include direct control from within the steering gear compartment",
+        "They are held weekly and are carried out from the bridge only",
+        "They are held every six months and need not involve the steering gear compartment",
+        "They are held only after a steering failure"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 136(3) requires drills at least once every three months, including direct control from within the steering gear compartment, communications with the bridge and, where applicable, alternative power supplies. Weekly is the interval for the regular-voyage test, not the drill.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q05",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who must record the dates of steering checks, tests and drills in the log book?",
+      "options": [
+        "The person in charge of the deck watch",
+        "The chief engineer",
+        "The helmsman on duty",
+        "The shipping company's office"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 136(4) puts the duty on the person in charge of the deck watch, recording in the official log book or any log book where the official one is not required. The helmsman helps with the test but does not own the record.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q06",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel has two steering gear power units that can run at the same time. When must at least two be in operation?",
+      "options": [
+        "In areas where navigation demands special caution",
+        "Only in open ocean",
+        "Only when the autopilot is engaged",
+        "Only during the three-monthly drill"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 134 requires at least two units in operation in areas where navigation demands special caution, such as confined channels. It is not tied to open ocean, the autopilot or the drill.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q07",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where must simple operating instructions and a block diagram of the changeover procedures be permanently displayed?",
+      "options": [
+        "On the navigating bridge and in the steering gear compartment",
+        "Only on the bridge",
+        "Only in the master's cabin",
+        "In the crew mess"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 135(1) requires display in both the navigating bridge and the steering gear compartment (if there is one). Only one of the two would leave the crew without instructions at the other place.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q08",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How does non-follow-up (NFU) steering differ from follow-up steering?",
+      "options": [
+        "In NFU the rudder moves only while the control is held and stops when it is released",
+        "In NFU the rudder returns to midships automatically when the control is released",
+        "In NFU the rudder angle always matches the wheel angle",
+        "NFU can only be used when the vessel is stopped"
+      ],
+      "correct_index": 0,
+      "explanation": "NFU uses a lever or buttons: the rudder moves while it is held and stops where it is when released, so the helmsman must watch the rudder angle indicator. In follow-up steering the rudder goes to and holds the angle set on the wheel. NFU is used while under way.",
+      "source_ids": [
+        "bw-steer-nautinst-nfu",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q09",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Scenario: in a narrow channel the helmsman turns the wheel but the rudder angle indicator does not move. He tells the OOW at once. What is the reported first reaction for a failure of follow-up steering?",
+      "options": [
+        "Switch to non-follow-up control, or to the backup system, and stop the ship if practicable",
+        "Keep turning the wheel until it responds",
+        "Shut down the main engine and wait",
+        "Switch the autopilot off and on again"
+      ],
+      "correct_index": 0,
+      "explanation": "The Nautical Institute report stresses switching to NFU first, with the backup steering system and stopping the ship as other options. Turning the wheel further does not help a failed follow-up system, and waiting with the engine off loses control in a channel.",
+      "source_ids": [
+        "bw-steer-nautinst-nfu"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.steering-systems-and-checks.q10",
+      "lesson_id": "bridge-watch.steering-systems-and-checks",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Under the Small Vessel Regulations s. 737, which of these vessels is not required to have a means of emergency steering?",
+      "options": [
+        "A vessel steered by a rudder and hand tiller",
+        "A vessel with a remote-controlled main steering that works in remote areas",
+        "A vessel with remote-controlled steering working near a busy harbour",
+        "A vessel working in areas where help is not readily available and steered by a wheel and cable"
+      ],
+      "correct_index": 0,
+      "explanation": "Emergency steering is required where the vessel works in remote areas or the main steering has a remote control, but not if the main steering is a rudder and hand tiller, or an outboard or stern-drive. A remote control near a harbour still triggers the requirement because the remote-control condition applies on its own.",
+      "source_ids": [
+        "bw-svr-sor-2010-91"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
