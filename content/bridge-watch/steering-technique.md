@@ -32,14 +32,14 @@ supervision. Your training record will count your hours.
 
 ## What you need to know
 
-Steering is the skill of keeping the ship on a chosen heading with the **least rudder movement** that does the job.
+Steering is the skill of keeping the ship on a chosen heading ==within acceptable limits== for the sea state, with the ==least rudder movement== that does the job.
 Beginners over-steer: they chase every swing and the ship wanders. Experienced helmsmen make small movements early and
 let the ship settle.
 
 Three ideas carry most of the lesson:
 
 1. The ship ==turns under the compass card==.
-2. The ship answers the rudder ==with a delay==.
+2. The ship answers the rudder ==with a delay== (a lag between wheel, rudder and swing).
 3. The cure for the delay is to ==anticipate the swing== with small, early rudder and to check the swing before it
    overshoots.
 
@@ -73,7 +73,7 @@ before the new course. A heavy ship may need it a long way ahead. Learn the indi
 
 ## The indicators
 
-- The ==rudder angle indicator== shows the **actual** rudder angle. Compare it with the angle you ordered. If they do
+- The ==rudder angle indicator== shows the **actual** rudder angle. Compare it with the angle you ordered (it shows the ==actual== rudder angle, not the wheel position). If they do
   not agree, or if the indicator does not move, tell the OOW at once.
 - The **rate-of-turn indicator** shows how fast the head is swinging, so you can stop the swing before the compass
   shows an error.
@@ -87,8 +87,8 @@ When a fixed mark is visible ahead (a headland, a beacon, a distant peak), steer
 once. A **range** is a pair of marks (a front mark and a higher or farther rear mark) that, when they line up, mark a
 safe line. The Canadian Coast Guard's aids to navigation system includes range marks for this purpose. The idea:
 
-- When the two marks are in line, the ship is on the range line.
-- When they open (one appears to the left or right of the other), the ship has moved off the line.
+- When the two marks are ==in line==, the ship is on the range line.
+- When they ==open== (one appears to the left or right of the other), the ship has moved off the line.
 
 Which way to steer: if the **rear mark appears on one side of the front mark, you are on that same side of the
 line**, so alter the other way, toward the line. For example, if the rear mark is to the **left** of the front mark,
@@ -118,7 +118,7 @@ a small angle, and take the rudder off a little before the head is back on the c
 
 ## Exam traps
 
-- **More rudder is not better.** Large movements make the ship wander and create drag.
+- **More rudder is not better.** ==Large movements== make the ship wander and create drag.
 - **The compass card does not turn with the ship.** The ship turns under the card.
 - **A lag is normal.** Do not add rudder when the head has not yet answered; wait for the effect.
 - **Do not steer only by compass** when a mark ahead can show drift earlier.

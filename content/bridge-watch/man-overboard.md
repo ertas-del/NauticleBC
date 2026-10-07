@@ -45,7 +45,7 @@ therefore has two jobs: **raise the alarm** and **keep the person in view**.
    helm which way to turn.
 2. ==Throw or release a lifebuoy== at once, preferably one with a light and a smoke signal, so there is something
    floating near the person and a mark on the water.
-3. ==Point at the person== and keep pointing. **Never take your eyes or your arm away** until recovery is complete.
+3. ==Point at the person== and keep pointing. ==Never take your eyes or your arm away== until recovery is complete.
    If you have to move, hand over the pointing to someone else. The look-out is the best "tracking device" the ship has.
 4. Make sure the bridge has been told. If you can reach the intercom or radio without taking your eyes off the person,
    do so. Otherwise shout again until someone answers.
@@ -60,7 +60,7 @@ Typical actions (follow your own vessel's procedure):
 - Change to **hand steering** if on autopilot (see the autopilot changeover lesson).
 - Sound the **alarm** and call all hands; post extra look-outs.
 - **Mark the position** (GPS or ECDIS man overboard button), and note the time, wind and heading.
-- Display flag **O** and call on VHF as the vessel's procedure requires.
+- Display flag ==O== and call on VHF as the vessel's procedure requires.
 - Choose the recovery manoeuvre and order the rudder and engine orders. (Use the helm orders from the earlier lesson.)
 
 A trade website (Marine Insight) and a training site list **three prolonged whistle blasts** as a man overboard signal;
@@ -130,18 +130,18 @@ Vessel Regulations require, as personal life-saving appliances in addition to li
 
 | Vessel length | Additional appliance |
 |---|---|
-| Not more than 6 m | A **buoyant heaving line of not less than 15 m** |
+| Not more than 6 m | A ==buoyant heaving line of not less than 15 m== |
 | More than 6 m, up to 9 m | A buoyant heaving line of not less than 15 m, **or** a lifebuoy attached to a buoyant line of not less than 15 m |
 | More than 9 m, up to 12 m | A buoyant heaving line of not less than 15 m, **and** a lifebuoy attached to a buoyant line of not less than 15 m |
 | More than 12 m | A buoyant heaving line of not less than 15 m, **and** a lifebuoy equipped with a self-igniting light **or** attached to a buoyant line of not less than 15 m |
 
-The vessel must also carry a **reboarding device**, **unless the vertical height that must be climbed to reboard is not
-more than 0.5 m**. The heaving line has a buoyant mass at one end to help it carry when thrown.
+The vessel must also carry a **reboarding device**, ==unless the vertical height that must be climbed to reboard is not
+more than 0.5 m==. The heaving line has a buoyant mass at one end to help it carry when thrown.
 
 ## Cold water
 
-A person in cold water faces **cold shock (about 1 minute)**, **cold incapacitation (about 10 minutes of useful
-movement)** and **hypothermia (about 1 hour before unconsciousness)**, according to the Canadian Safe Boating Council. In
+A person in cold water faces ==cold shock (about 1 minute)==, ==cold incapacitation (about 10 minutes of useful
+movement)== and ==hypothermia (about 1 hour before unconsciousness)==, according to the Canadian Safe Boating Council. In
 BC waters, which are cold all year, a person who falls overboard is on a clock the moment they hit the water. A
 lifejacket keeps them afloat through the first two stages.
 
