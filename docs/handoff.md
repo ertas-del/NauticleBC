@@ -10,19 +10,19 @@ Written so another person or Claude session can pick up without the earlier conv
 
 ## Status (2026-10-06)
 
-On `main`: 92 lessons, 791 questions, 2 mock exams (NS1 practice, Bridge Watch practice), 156 sources. Lint clean, CI green. All content is `needs_expert_review`.
+On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch practice), 156 sources. Lint clean, CI green. All content is `needs_expert_review`.
 
 - COLREGs complete: Rules 1-38, Part F (Canadian Rules 39-46), Annexes I-IV, encounter/lights/sound drills, NS1 traps review.
 - Tides module 1 (6 lessons).
 - Bridge watch: 24 lessons (watchkeeping, lookout, reports, handover, calling the master, helm orders, steering, compass, alarms, MOB, pyrotechnics, survival craft).
-- Seamanship 1-9: buoyage, light characteristics, ship terms, vessel types, ropes, knots, splices.
+- Seamanship 1-18: buoyage, light characteristics, ship terms, vessel types, ropes, knots, splices, wire and shackles, mooring, anchoring, deck machinery, access equipment, flags and single-letter signals, draft marks, cargo, maintenance. Bridge Watch syllabus is now fully written (except the optional radio/stability/regs rating lessons in items 5, 7, 8, 9).
 - Sixty-ton pathway: 6 lessons (certificate, requirements, sea service, exams, oral guide, know your vessel).
 - App: lesson reader, exam-focus card and highlights, quizzes, progress. Debug APK is built by CI (Actions artifact `app-debug`).
 - Syllabus briefs: `docs/syllabus/bridge-watch-rating.md`, `docs/syllabus/master-limited-60gt.md`. Writer instructions: `docs/writer-guide.md` (official law text via the Justice Canada XML repo, cloned no-checkout at /home/claude/justicecanada/laws-lois-xml in the old sandbox; re-clone github.com/justicecanada/laws-lois-xml).
 
 ## Remaining writer assignments (run 3-4 at a time; each follows docs/writer-guide.md)
 
-1. seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
+1. DONE (#24): seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
 2. seamanship 200+: the 16 master-level lessons in the 60 GT brief 'Module seamanship' (emergencies, fire, flooding, abandon ship, cold water, heavy weather, towing). sources sea-c.json.
 3. chartwork 5 + 60 GT chartwork 1-12 (charts, datums, lat/long, publications, compass error and TVMDC). sources chw-a.json.
 4. chartwork 60 GT 13-24 (DR, fixes, running fix, set and drift, course to steer, clearing bearings, passage planning, CP1 technique). sources chw-b.json.
