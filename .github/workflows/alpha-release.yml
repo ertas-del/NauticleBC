@@ -1,0 +1,54 @@
+name: Alpha APK release
+
+# Builds the debug APK from main and publishes it to the rolling "alpha" pre-release,
+# so testers can download it straight from GitHub on their phone.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "content/**"
+      - "schemas/**"
+      - "tools/**"
+      - "gradle/**"
+      - "*.gradle.kts"
+      - ".github/workflows/alpha-release.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: alpha-release
+  cancel-in-progress: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r tools/requirements.txt
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: "8.10.2"
+      - name: Build debug APK
+        run: gradle :app:assembleDebug --stacktrace
+      - name: Publish to the alpha pre-release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp app/build/outputs/apk/debug/app-debug.apk NauticleBC-alpha.apk
+          NOTES="Alpha build from ${GITHUB_SHA::7} ($(date -u +%Y-%m-%d)). Study aid only, not for navigation. Debug-signed: if an update will not install, uninstall the old version first."
+          if gh release view alpha >/dev/null 2>&1; then
+            gh release upload alpha NauticleBC-alpha.apk --clobber
+            gh release edit alpha --notes "$NOTES" --prerelease
+          else
+            gh release create alpha NauticleBC-alpha.apk --title "NauticleBC alpha" --notes "$NOTES" --prerelease --target "$GITHUB_SHA"
+          fi
