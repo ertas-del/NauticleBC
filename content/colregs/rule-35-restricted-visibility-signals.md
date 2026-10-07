@@ -10,7 +10,7 @@ objectives:
   - List the vessels that sound one prolonged, two short, and the signal for a manned vessel being towed.
   - Describe the signals for a vessel at anchor (under and over 100 m) and a vessel aground, including the optional warning signal.
   - State the pilot vessel identity signal and the allowances for vessels under 20 m and under 12 m.
-  - Describe the Canadian paragraph for small vessels built or converted for pushing or pulling.
+  - Describe the Canadian paragraph for small vessels ordinarily used for pushing or pulling.
 estimated_minutes: 15
 prerequisites: [colregs.rule-32.definitions]
 key_facts:
@@ -24,7 +24,7 @@ key_facts:
   - "Aground: three separate strokes on the bell, the rapid ringing, then three separate strokes; may add a suitable whistle signal."
   - "Pilot vessel on pilotage duty may add four short as an identity signal."
   - "Under 12 m need not give the Rule 35 signals, and 12-20 m need not give the bell signals, but either must then make some other efficient sound signal at intervals of not more than 2 minutes."
-  - "Canadian waters of a roadstead, harbour, river, lake or inland waterway: a vessel under 12 m built or converted to push or pull, outside a recognized mooring, storage or booming area, sounds the 12 m-plus signals."
+  - "Canadian waters of a roadstead, harbour, river, lake or inland waterway: a vessel under 12 m ordinarily used to push or pull, outside a recognized mooring, storage or booming area, sounds the 12 m-plus signals."
 source_ids: [colregs-canada, colregs-signals-crc1416-2008-copy, colregs-signals-cultofsea-rule-35, colregs-signals-safety4sea-pov-fog-2018]
 review_status: needs_expert_review
 ---
@@ -82,7 +82,7 @@ anchor signal. You will hear it near pilot boarding stations.
 ## Canadian addition: small pushing and pulling vessels
 
 In the ==Canadian waters of a roadstead, harbour, river, lake or inland waterway==, a vessel that is under 12 m,
-==built or converted for pushing or pulling== any floating object, and
+==ordinarily used for pushing or pulling== any floating object, and
 ==not inside a recognized mooring, storage or booming area==, must sound the signals prescribed for a vessel of 12 m or more. On the Fraser River this catches the
 small boom boats that move logs outside the booming grounds.
 

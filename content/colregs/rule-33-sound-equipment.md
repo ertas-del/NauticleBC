@@ -8,7 +8,7 @@ summary: What sound gear a vessel must carry by length (12 m whistle, 20 m bell,
 objectives:
   - State the sound signal appliances required at 12 m, 20 m and 100 m in length.
   - State what a vessel under 12 m must have if it does not carry a whistle and bell.
-  - Describe the Canadian paragraph for small vessels built or converted for pushing or pulling.
+  - Describe the Canadian paragraph for small vessels ordinarily used for pushing or pulling.
   - Recall the Annex III basics on whistle pitch, audibility range and bell size.
 estimated_minutes: 9
 prerequisites: [colregs.rule-32.definitions]
@@ -18,7 +18,7 @@ key_facts:
   - A vessel of 100 m or more must also have a gong, with a tone that cannot be confused with the bell.
   - A vessel under 12 m need not carry a whistle or bell, but must have some other means of making an efficient sound signal.
   - The bell or gong may be replaced by equipment with the same sound characteristics, but manual sounding must always be possible.
-  - "Canadian waters of a roadstead, harbour, river, lake or inland waterway: a vessel under 12 m built or converted to push or pull floating objects (not solely yarding or warping) must carry the 12 m-plus sound gear."
+  - "Canadian waters of a roadstead, harbour, river, lake or inland waterway: a vessel under 12 m ordinarily used to push or pull floating objects (not solely yarding or warping) must carry the 12 m-plus sound gear."
   - "Annex III: the larger the vessel, the lower the whistle pitch (under 75 m: 250-700 Hz)."
   - "Annex III audibility ranges: under 20 m 0.5 M, 20-75 m 1 M, 75-200 m 1.5 M, 200 m or more 2 M."
 source_ids: [colregs-canada, colregs-signals-crc1416-2008-copy, colregs-signals-cultofsea-annex-iii, colregs-signals-sor-2014-17]
@@ -54,7 +54,7 @@ The Canadian text adds a paragraph. In the
 ==Canadian waters of a roadstead, harbour, river, lake or inland waterway==, a vessel that is:
 
 1. under 12 metres in length,
-2. ==built or converted for the purpose of pushing or pulling== any floating object, and
+2. ==ordinarily used for the purpose of pushing or pulling== any floating object, and
 3. not solely employed in yarding or warping operations,
 
 must carry the sound signal gear required for a vessel of 12 metres or more. In other words, a small working tug or
@@ -87,7 +87,7 @@ You do not need to memorise the whole annex, but these points are fair game:
 
 A 10 metre aluminium boat on the Fraser River is fitted and used to push log booms between booming grounds. Under the
 international text alone, a 10 metre boat could get by with a portable air horn. Under the Canadian paragraph, if it
-was built or converted to push or pull floating objects and is not solely yarding or warping, it must carry the sound
+is ordinarily used to push or pull floating objects and is not solely yarding or warping, it must carry the sound
 gear of a 12 metre vessel. Check what is actually fitted before you take the wheel.
 
 ## Common mistakes
