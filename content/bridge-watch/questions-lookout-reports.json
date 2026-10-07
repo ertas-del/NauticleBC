@@ -1,0 +1,226 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.lookout-reports.q01",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which report is best for a look-out to give the officer on seeing a white light off the starboard bow?",
+      "options": [
+        "\"Light.\"",
+        "\"A vessel is going to hit us.\"",
+        "\"White light, two points on the starboard bow.\"",
+        "\"I think I see something.\""
+      ],
+      "correct_index": 2,
+      "explanation": "A good report says what was seen and where, with side and bearing in points or degrees. The other options give no bearing, no description, or jump to a conclusion.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q02",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does closed-loop communication mean for a look-out report?",
+      "options": [
+        "The report is made only when the officer asks",
+        "The report is acknowledged by the officer, and the look-out repeats it if there is no acknowledgement",
+        "The report is written in the log before it is spoken",
+        "The report goes to the master and not the officer"
+      ],
+      "correct_index": 1,
+      "explanation": "Closed loop means the message is given and acknowledged so the sender knows it was received. If there is no reply, repeat it.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q03",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A look-out spots a fishing boat but is not sure if it is a danger and waits for two more minutes to be certain before reporting. What is wrong with this?",
+      "options": [
+        "Reports should be prompt: say it first, then keep watching",
+        "Nothing, because look-outs should only report certain dangers",
+        "The look-out should have reported to the master and not the officer",
+        "The look-out should have used the radio"
+      ],
+      "correct_index": 0,
+      "explanation": "Promptness is part of the duty. The officer can only act on what reaches the bridge, and the officer decides what is a danger.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q04",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "According to the rule on risk of collision, what is deemed to exist if the compass bearing of an approaching vessel does not appreciably change?",
+      "options": [
+        "Safe passing",
+        "A crossing situation requiring no action",
+        "A head-on situation",
+        "Risk of collision"
+      ],
+      "correct_index": 3,
+      "explanation": "A steady compass bearing with closing range means risk of collision is deemed to exist. It does not tell you which Rule applies.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q05",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a situation where risk of collision may still exist even though the bearing is changing?",
+      "options": [
+        "A vessel moving away at high speed",
+        "A buoy dead ahead",
+        "Approaching a tow at close range",
+        "A small vessel far away on the horizon"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 7 warns that risk may exist with a very large vessel, a tow or any vessel at close range, even if the bearing changes appreciably.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q06",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these should a look-out report in addition to other ships?",
+      "options": [
+        "Only things closer than half a mile",
+        "Buoys and other aids to navigation, floating objects, persons in the water and changes in visibility",
+        "Only vessels with lights lit",
+        "Only objects that show on radar"
+      ],
+      "correct_index": 1,
+      "explanation": "The look-out purposes include detecting persons in distress, wrecks and debris and appraising dangers to navigation, so floating objects, aids and visibility changes are all reported.",
+      "source_ids": [
+        "bw-stcw-a-viii-2-review-stw40"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q07",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At night you see a red sidelight and a masthead light on a vessel on your port bow. What does the red sidelight tell you?",
+      "options": [
+        "You are looking at her port side",
+        "You are looking at her starboard side",
+        "She is heading directly away from you",
+        "She is anchored"
+      ],
+      "correct_index": 0,
+      "explanation": "A red sidelight is shown on the vessel's port side, so seeing it means her port side faces you. A green light would mean her starboard side. A vessel heading directly away shows only a sternlight (and masthead lights).",
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q08",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a single white light low down, with no red or green lights, on a vessel ahead of you. What does this suggest about her heading relative to you?",
+      "options": [
+        "She is heading directly towards you",
+        "She is at anchor at night",
+        "She is crossing from starboard to port",
+        "You are seeing her from astern, so she is heading away from you"
+      ],
+      "correct_index": 3,
+      "explanation": "A sternlight alone with no sidelights means you are behind her, so she is heading away. Heading towards you would show both sidelights. Other vessels (such as an anchored one) show an anchor light, so check the whole light display before drawing a conclusion.",
+      "source_ids": [
+        "lights-crc1416-xml",
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q09",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Radar ranges on a steady-bearing vessel are 3.0 nm at 2100, 2.4 nm at 2103 and 1.8 nm at 2106. If nothing changes, at about what time will the vessels meet?",
+      "options": [
+        "About 2120",
+        "About 2106",
+        "About 2115",
+        "About 2112"
+      ],
+      "correct_index": 2,
+      "explanation": "The range closes 0.6 nm every 3 minutes, so the closing speed is 0.6 ÷ 0.05 h = 12 knots. At 2106 the range is 1.8 nm, so time left = 1.8 ÷ 12 = 0.15 h = 9 minutes, giving about 2115.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.lookout-reports.q10",
+      "lesson_id": "bridge-watch.lookout-reports",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Your ship heads 090 compass and you report a vessel at 030 relative. You then alter course to 110 compass and the same vessel is now at 010 relative. Has the compass bearing changed?",
+      "options": [
+        "It cannot be known without the other vessel's speed",
+        "No. It is 120 both times, so the bearing is steady and risk may exist",
+        "Yes. It changed by 20 degrees, so there is no risk",
+        "Yes. It changed from 030 to 010, so it is drawing ahead"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass bearing = heading + relative bearing: 090 + 030 = 120 and 110 + 010 = 120. The relative bearing changed only because your ship turned. The Rule 7 test uses the compass bearing.",
+      "source_ids": [
+        "colregs-canada"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
