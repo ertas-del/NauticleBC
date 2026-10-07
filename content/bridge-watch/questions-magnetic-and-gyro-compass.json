@@ -1,0 +1,228 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q01",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which description of the two compasses is correct?",
+      "options": [
+        "The magnetic compass needs no power and points to magnetic north; the gyro-compass needs power and settles on true north",
+        "The magnetic compass needs power and points to true north; the gyro-compass needs no power",
+        "Both compasses need power and both point to magnetic north",
+        "The magnetic compass needs no power and points to true north; the gyro-compass points to magnetic north"
+      ],
+      "correct_index": 0,
+      "explanation": "The Navigation Safety Regulations, 2020 require the standard magnetic compass to be independent of any power supply, and it lines up with the Earth's magnetic field. The gyro needs its wheel running and electrical supply, and settles on true north, the axis of the Earth's rotation, so it has no variation or deviation. The other options mix these up.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216",
+        "bw-steer-wiki-gyrocompass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q02",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the lubber line on a magnetic compass?",
+      "options": [
+        "A fixed mark on the bowl that lines up with the ship's centreline",
+        "A mark on the card showing magnetic north",
+        "A ring that keeps the bowl level",
+        "The correcting magnet in the binnacle"
+      ],
+      "correct_index": 0,
+      "explanation": "The lubber line is fixed to the bowl and lies along the ship's centreline, so the card number at the lubber line is the heading. The ring that keeps the bowl level is the gimbals, and the correcting magnets sit in the binnacle.",
+      "source_ids": [
+        "bw-navedtra-14067-seaman"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q03",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these must a vessel that has a magnetic compass also have under s. 106 of the Navigation Safety Regulations, 2020?",
+      "options": [
+        "A means of correcting headings and bearings to true at all times, and a means of communication between the compass position and the position from which the vessel is normally navigated",
+        "A second gyro-compass and a sextant",
+        "A radar with a compass rose overlay",
+        "A printed copy of the Nautical Almanac"
+      ],
+      "correct_index": 0,
+      "explanation": "Sections 106(5) and 106(6) require a means of correcting to true at all times (for most vessels) and a means of communication between the standard compass position and the normal navigating position. The other items are not required by those subsections.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q04",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What must be kept on board near a magnetic compass under the Navigation Safety Regulations, 2020?",
+      "options": [
+        "A table or curve of residual deviations",
+        "The ship's stability booklet",
+        "A copy of the tide tables",
+        "The master's standing orders"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 106(4) requires a properly compensated compass with its table or curve of residual deviations available in the vicinity of the compass. The other documents are useful but are not what that section requires near the compass.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q05",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "During an inspection of the compasses on a vessel, the master must be able to show the inspector what?",
+      "options": [
+        "The most recent deviation card for each compass, signed and dated by the master and a deck officer, or a signed statement that the compasses are satisfactory",
+        "The gyro-compass service manual only",
+        "The chart of the voyage",
+        "A certificate signed by the compass manufacturer"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 132 requires the latest deviation card for each compass signed and dated by the master and a deck officer, or an equivalent signed statement. A manufacturer's certificate or a chart is not the requirement.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q06",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessel is not required to carry a standard magnetic compass?",
+      "options": [
+        "A vessel of 8 m or less that navigates within sight of navigation marks",
+        "A 20 m vessel on a coastal voyage",
+        "A tug of 100 gross tonnage",
+        "A vessel of 150 gross tonnage or more"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 106(1) exempts vessels of 8 m or less that stay within sight of navigation marks, and cable ferries. The others do not meet the exemption; a vessel under 150 GT may carry a steering compass instead of a standard one, but it still needs a compass.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q07",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "From what gross tonnage must a vessel carry a spare magnetic compass interchangeable with the main one?",
+      "options": [
+        "150 gross tonnage or more",
+        "500 gross tonnage or more",
+        "15 gross tonnage or more",
+        "Every vessel regardless of size"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 109(1)(c) puts the spare compass requirement on vessels of 150 gross tonnage or more. The 500 gross tonnage figure belongs to the gyro-compass and repeater requirements in s. 111, not to the spare magnetic compass.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q08",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a limitation of a gyro-compass?",
+      "options": [
+        "It needs electrical power, takes time to settle and shows a temporary error after rapid changes of course, speed or latitude",
+        "It is affected by the iron in the ship's hull in the same way as a magnetic compass",
+        "It always points to magnetic north",
+        "It needs no power and never has any error"
+      ],
+      "correct_index": 0,
+      "explanation": "A gyro-compass has to be running and settled, and it has steaming error after rapid changes. It is not affected by the ship's iron, and it points to true north, not magnetic north.",
+      "source_ids": [
+        "bw-steer-wiki-gyrocompass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q09",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Scenario: a vessel is steering by gyro repeater. The gyro alarm sounds and the repeater starts to wander, while the standard magnetic compass is steady. What should the helmsman do?",
+      "options": [
+        "Tell the OOW at once and steer by the magnetic compass until told otherwise",
+        "Keep steering by the repeater because it is more accurate",
+        "Silence the alarm and carry on",
+        "Switch off the magnetic compass light"
+      ],
+      "correct_index": 0,
+      "explanation": "A gyro alarm and wandering repeater mean the gyro cannot be trusted. The helmsman reports at once and uses the magnetic compass, which is independent of power, until the OOW decides what to do. Ignoring the alarm or continuing on the repeater risks steering a wrong course.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216",
+        "bw-steer-wiki-gyrocompass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.magnetic-and-gyro-compass.q10",
+      "lesson_id": "bridge-watch.magnetic-and-gyro-compass",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Why does a magnetic compass become unreliable at high latitudes near the magnetic pole?",
+      "options": [
+        "The horizontal part of the Earth's magnetic field, which the card responds to, becomes weak",
+        "The iron in the ship stops working",
+        "The gimbals freeze",
+        "The Earth's magnetic field disappears completely"
+      ],
+      "correct_index": 0,
+      "explanation": "The card responds to the horizontal component of the Earth's field, and that component weakens toward the pole, so the card is sluggish and unreliable. The field does not disappear; it points steeply downward there.",
+      "source_ids": [
+        "bw-steer-cultofsea-high-latitude",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
