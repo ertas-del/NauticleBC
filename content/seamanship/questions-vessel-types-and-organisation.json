@@ -1,0 +1,158 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.vessel-types-and-organisation.q01",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Who holds overall command of a merchant ship?",
+      "options": [
+        "The chief mate",
+        "The master",
+        "The second mate",
+        "The boatswain"
+      ],
+      "correct_index": 1,
+      "explanation": "The master holds overall command. The chief mate heads the deck department and reports to the master; the second mate handles navigation equipment and publications; the boatswain is a senior rating.",
+      "source_ids": ["sea-a-wikipedia-deck-department"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q02",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "Who is the head of the deck department?",
+      "options": [
+        "The master",
+        "The chief mate",
+        "The third mate",
+        "The Bridge Watch Rating"
+      ],
+      "correct_index": 1,
+      "explanation": "The chief mate (first officer) heads the deck department and reports to the master. The master is in command of the whole ship, not just the deck department.",
+      "source_ids": ["sea-a-wikipedia-deck-department"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q03",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which officer is normally responsible for correcting charts and keeping the navigational publications and gyrocompass in order?",
+      "options": [
+        "Second mate",
+        "Chief mate",
+        "Third mate",
+        "Engineer"
+      ],
+      "correct_index": 0,
+      "explanation": "The second mate looks after charts, navigational publications, the gyrocompass and navigation equipment, and keeps voyage logs. The chief mate is administrative head of the deck department and the third mates navigate and stand watches.",
+      "source_ids": ["sea-a-wikipedia-deck-department"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q04",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which is NOT one of the vessel types named in the Bridge Watch Rating course standard TP 10936?",
+      "options": [
+        "Container",
+        "Ro-ro",
+        "Hovercraft",
+        "Oilfield service"
+      ],
+      "correct_index": 2,
+      "explanation": "The standard names passenger, container, ro-ro, tanker, bulk carrier (self-unloader), general cargo, tug, oilfield service, special purpose and fishing vessels. A hovercraft is not in that list.",
+      "source_ids": ["bw-tp10936-ed2-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q05",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "A vessel discharges loose grain using its own conveyor system and does not need shore cranes. What type is it?",
+      "options": [
+        "A ro-ro",
+        "A container ship",
+        "A bulk carrier that is a self-unloader",
+        "A tanker"
+      ],
+      "correct_index": 2,
+      "explanation": "Loose dry cargo makes it a bulk carrier, and discharging with its own conveyor makes it a self-unloader. Ro-ros carry vehicles, container ships carry boxes and tankers carry liquids.",
+      "source_ids": ["bw-tp10936-ed2-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q06",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "How is the deck department organised?",
+      "options": [
+        "It is divided into deck officers and ratings",
+        "It is divided into navigation officers and cargo officers only",
+        "It has only the master and the chief mate",
+        "It is run by the engine department"
+      ],
+      "correct_index": 0,
+      "explanation": "The deck department is made up of deck officers and ratings (for example able seafarers and Bridge Watch Ratings). The engine department is separate and runs the machinery.",
+      "source_ids": ["sea-a-wikipedia-deck-department"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q07",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "On a 700 GT vessel under way, the officer of the watch wants an additional person on the deck watch. Which certificate must that additional person hold under the Marine Personnel Regulations?",
+      "options": [
+        "Any marine basic safety certificate",
+        "An Able Seafarer or Bridge Watch Rating certificate",
+        "A Master Limited certificate",
+        "No certificate is needed at that size"
+      ],
+      "correct_index": 1,
+      "explanation": "The Marine Personnel Regulations require that, on vessels of 500 GT or more, the additional person on the deck watch hold an Able Seafarer or Bridge Watch Rating certificate. A basic safety course alone is not enough, and a Master Limited certificate is not the one specified.",
+      "source_ids": ["bw-mpr-sor-2007-115"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q08",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What kind of certificate is the Bridge Watch Rating under the Marine Personnel Regulations?",
+      "options": [
+        "An officer's licence",
+        "A certificate of competency",
+        "A pilotage certificate",
+        "A medical certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "The Bridge Watch Rating is a certificate of competency for ratings. It is not an officer's licence, and a medical certificate is a separate requirement.",
+      "source_ids": ["bw-mpr-sor-2007-115"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.vessel-types-and-organisation.q09",
+      "lesson_id": "seamanship.vessel-types-and-organisation",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Which statement about third mates is supported by the references used for this lesson?",
+      "options": [
+        "They handle navigation and coastal pilotage and stand watches",
+        "They command the ship when the master is asleep",
+        "They are responsible for the engine room",
+        "They head the deck department"
+      ],
+      "correct_index": 0,
+      "explanation": "Third mates handle ship navigation, fix the position and pilot in coastal waters, and stand watches. The master commands, the chief mate heads the department, and engineers run the machinery.",
+      "source_ids": ["sea-a-wikipedia-deck-department"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

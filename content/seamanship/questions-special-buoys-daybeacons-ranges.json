@@ -4,7 +4,10 @@
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q01",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What colour are special marks, and what colour is their light?",
       "options": [
@@ -15,13 +18,19 @@
       ],
       "correct_index": 2,
       "explanation": "Special marks are yellow and, if lit, show a yellow light (Fl 4s). Red and green are lateral colours, and white lights belong to cardinal, isolated danger and fairway marks.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q02",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A yellow buoy with a yellow X topmark shows a group of five yellow flashes every 20 seconds. What is it most likely to be?",
       "options": [
@@ -32,13 +41,19 @@
       ],
       "correct_index": 1,
       "explanation": "Fl(5)Y 20s is the distinctive ODAS light. Other special marks, including anchorage and cautionary buoys, show Fl 4s. A south cardinal is yellow and black with white lights.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sixty-ccg-atons-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sixty-ccg-atons-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q03",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What does the shape of a special mark tell you?",
       "options": [
@@ -49,13 +64,18 @@
       ],
       "correct_index": 2,
       "explanation": "For special marks colour, symbols and light give the meaning; shape does not. Shapes carry meaning only on lateral marks (can and cone) and the fairway mark (sphere).",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q04",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A white buoy has an orange diamond containing an orange cross, with orange bands above and below. What is it telling you?",
       "options": [
@@ -66,13 +86,18 @@
       ],
       "correct_index": 0,
       "explanation": "White with an orange diamond and cross is a keep-out buoy, tied to the Vessel Operation Restriction Regulations. An information buoy has orange squares, a mooring buoy is white and orange with orange on the top third, and a bifurcation mark is a lateral mark with a contrasting band.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q05",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "Going upstream, you see a fixed post on a rock with a triangular red daymark and no light. What is it and which side do you keep it on?",
       "options": [
@@ -83,13 +108,19 @@
       ],
       "correct_index": 0,
       "explanation": "Starboard hand daybeacons are fixed, unlit and triangular with a red centre; port hand daybeacons are square. Going upstream, starboard hand aids are kept to starboard.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q06",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Approaching a channel you can see a front and a rear range daymark. The front mark appears to the left of the rear mark. What does this mean?",
       "options": [
@@ -100,13 +131,18 @@
       ],
       "correct_index": 1,
       "explanation": "The nearer (front) mark seems to move more than the rear mark as you move sideways. If you are right of the line, both marks lie to your left but the front one is angled further left, so it appears left of the rear. When they stand one above the other you are on the line. This is the general geometry of a range, so check your own case against the chart.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q07",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "What is the difference between a RACON and a radar reflector?",
       "options": [
@@ -117,13 +153,18 @@
       ],
       "correct_index": 1,
       "explanation": "A radar reflector is a passive device that returns more of the radar energy. A RACON is an active radar beacon: it receives your radar pulse and transmits an identifiable reply. Neither is a light, and neither depends on fog or daylight.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q08",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "hard",
       "stem": "In poor visibility you hear a fog signal that sounds faint. Which conclusion is sound?",
       "options": [
@@ -134,13 +175,18 @@
       ],
       "correct_index": 2,
       "explanation": "The Coast Guard warns against judging distance from the power of the sound, because atmospheric conditions can swallow it at a short distance, and against assuming a signal is off because you cannot hear it. Shore fog signals operate when visibility drops below 2 nautical miles.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.special-buoys-daybeacons-ranges.q09",
       "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "A white buoy is entirely white with no orange markings and may not appear on the chart. What is the most likely purpose?",
       "options": [
@@ -151,7 +197,31 @@
       ],
       "correct_index": 0,
       "explanation": "A plain white buoy is the swimming buoy, which may not be charted. Fairway marks have red and white stripes, cardinals are black and yellow, and an anchorage buoy is yellow with an anchor symbol.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.special-buoys-daybeacons-ranges.q10",
+      "lesson_id": "seamanship.special-buoys-daybeacons-ranges",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description matches an anchorage buoy and which a mooring buoy?",
+      "options": [
+        "Anchorage: yellow with a black anchor symbol and a yellow X topmark; mooring: white and orange, with orange covering the top third above the waterline",
+        "Anchorage: white and orange; mooring: yellow with a black anchor symbol",
+        "Anchorage: red and white stripes; mooring: green and flat-topped",
+        "Anchorage and mooring buoys are identical and are told apart only by their light"
+      ],
+      "correct_index": 0,
+      "explanation": "The anchorage buoy is a yellow special mark carrying a black anchor and a yellow X topmark. The mooring buoy is white and orange. Red and white stripes are a fairway mark and green flat-topped buoys are port hand marks.",
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     }
   ]
