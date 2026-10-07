@@ -1,0 +1,265 @@
+{
+  "module": "sixty-ton",
+  "questions": [
+    {
+      "id": "sixty-ton.exams-and-format.q01",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which document sets out the exam subject matter for the Master, Limited < 60 GT certificate?",
+      "options": [
+        "The Collision Regulations only",
+        "The Small Vessel Regulations",
+        "TP 10936",
+        "TP 2293"
+      ],
+      "correct_index": 3,
+      "explanation": "MPR section 131 sends the exam subject matter to TP 2293. TP 10936 is the Bridge Watch Rating course standard, and the other documents do not list the Master, Limited exams.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q02",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which three exams make up the usual BC route to the Master, Limited < 60 GT?",
+      "options": [
+        "NS1, CP1 and the oral",
+        "NS1, CP1 and a radar simulator exam",
+        "CP1, stability and the oral",
+        "NS1 only"
+      ],
+      "correct_index": 0,
+      "explanation": "The usual route is Navigation Safety Level 1, Chartwork and Pilotage Level 1 and an in-person oral. A radar simulator course is not in section 131.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q03",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the reported format of the NS1 written exam?",
+      "options": [
+        "50 multiple-choice questions in 1 hour",
+        "100 multiple-choice questions in 2 hours",
+        "10 questions and 5 chartwork problems in 3 hours",
+        "A 3 hour oral examination"
+      ],
+      "correct_index": 1,
+      "explanation": "Training providers report NS1 as 100 multiple-choice questions in 2 hours. The 10 plus 5 structure in 3 hours is CP1.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q04",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the reported format of the CP1 exam?",
+      "options": [
+        "2 hours with 100 multiple-choice questions",
+        "1 hour of plotting only",
+        "3 hours with 10 multiple-choice questions at 3 marks each and 5 practical chartwork questions",
+        "A 20 minute spoken exam"
+      ],
+      "correct_index": 2,
+      "explanation": "CP1 is reported as 3 hours: 10 multiple-choice questions worth 3 marks each plus 5 practical chartwork questions worth 5 to 15 marks each. The 100 question, 2 hour paper is NS1.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q05",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What pass mark does the 2019 draft of TP 2293 give for NS1 and CP1?",
+      "options": [
+        "60 per cent",
+        "80 per cent",
+        "50 per cent",
+        "70 per cent"
+      ],
+      "correct_index": 3,
+      "explanation": "The draft gives 70 per cent for both. The 60 per cent figure applies to some other exams and courses, and 80 per cent is not given.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q06",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "According to the 2019 draft TP 2293, how can a candidate show competence in NS1 or CP1?",
+      "options": [
+        "By an approved training course or by scoring at least 70 per cent on the TC exam",
+        "Only by scoring 70 per cent on the TC exam",
+        "Only by completing an approved course",
+        "By two years of sea service"
+      ],
+      "correct_index": 0,
+      "explanation": "The draft allows either an approved course or 70 per cent on the Transport Canada exam. The exact route open to a given candidate should be confirmed with Transport Canada.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q07",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the fee for the written exam and for the oral or practical exam for a limited certificate under MPR section 121?",
+      "options": [
+        "$100 each",
+        "$27.50 each",
+        "$27.50 for the written exam and $55 for the oral",
+        "There is no fee"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 121 sets $27.50 for a written exam and $27.50 for an oral or practical exam for a limited certificate, paid each time an exam is taken. Fees can change, so check the current regulation.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q08",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A candidate passes NS1 in 2026 and gets the certificate in 2029. How long is the pass valid?",
+      "options": [
+        "Only until 2031",
+        "Only until the application lapses after 1 year",
+        "For life once the certificate is obtained",
+        "It expires 5 years after the certificate is issued"
+      ],
+      "correct_index": 2,
+      "explanation": "A passing grade is valid for 5 years after the exam and for life once the certificate is obtained. The 1 year clock belongs to the application, not to the pass.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q09",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A candidate plans the process. Which statement about order and procedure is correct?",
+      "options": [
+        "The oral can be taken first, and procedure breaches only lose marks",
+        "The oral is taken as soon as the sea service is complete, whatever else is missing",
+        "The oral and CP1 must be taken on the same day",
+        "The oral is taken last, and not following the TP 2293 exam procedure is an automatic fail"
+      ],
+      "correct_index": 3,
+      "explanation": "The oral is taken last, after the other requirements are met, and section 112 makes failing to follow the TP 2293 exam procedure an automatic fail. The other options reverse the order or invent rules.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.exams-and-format.q10",
+      "lesson_id": "sixty-ton.exams-and-format",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A study site lists CP1 only for larger certificates, while four BC providers list it for Master, Limited < 60 GT. What is the best advice?",
+      "options": [
+        "Plan for CP1 and confirm with Transport Canada whether TP 2293 requires it for your area",
+        "Skip CP1 because the study site says it is not needed",
+        "Assume CP1 is always required in every area with no need to check",
+        "Take the oral instead of CP1"
+      ],
+      "correct_index": 0,
+      "explanation": "The study site does not actually say CP1 is not required for the under-60 certificate, and providers include it. Because section 131 says the exams must suit the area of operation, the safe course is to plan for CP1 and confirm the current rule with Transport Canada.",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service",
+        "sixty-tp2293-2019-draft",
+        "sixty-holland-ns1",
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-master-limited-practical"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "module": "sixty-ton",
+  "questions": [
+    {
+      "id": "sixty-ton.oral-exam-guide.q01",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where in the process is the Master, Limited oral taken?",
+      "options": [
+        "First, before the written exams",
+        "Between NS1 and CP1",
+        "Last, after the other requirements are met",
+        "Only after the certificate is issued"
+      ],
+      "correct_index": 2,
+      "explanation": "The oral is the last step, taken in person with a Transport Canada examiner by appointment once the other requirements are in place.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q02",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these is NOT reported as a usual oral topic?",
+      "options": [
+        "Fire in the engine space",
+        "Man overboard",
+        "Grounding",
+        "Calculating celestial sights for an ocean crossing"
+      ],
+      "correct_index": 3,
+      "explanation": "The reported topics are emergencies (fire, flooding, man overboard, abandonment, collision, grounding), shiphandling, the vessel's systems, communications, pollution prevention, and passenger and cargo safety. Celestial navigation for ocean crossings is not part of a certificate limited to near coastal Class 2 and sheltered waters.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q03",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is one way the oral can be held that differs from a classroom exam?",
+      "options": [
+        "On board the vessel, with the candidate manoeuvring and running drills",
+        "By telephone only",
+        "In writing, in a quiet room",
+        "As part of the NS1 paper"
+      ],
+      "correct_index": 0,
+      "explanation": "The oral may be held on board your vessel with manoeuvres and drills. It is not a written paper and is not part of NS1.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q04",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is the oral graded?",
+      "options": [
+        "70 per cent, like NS1",
+        "On the examiner's judgement, with no published percentage",
+        "60 per cent",
+        "By a computer score from 0 to 100"
+      ],
+      "correct_index": 1,
+      "explanation": "No pass percentage is published for the oral. The 70 per cent figure belongs to the written exams in the draft TP 2293.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q05",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The examiner adds a restriction to a certificate after the oral. What is the most likely reason?",
+      "options": [
+        "The candidate failed NS1",
+        "The candidate paid the wrong fee",
+        "The candidate's experience and answers suggest a narrower area or vessel type",
+        "The candidate's first aid certificate expired"
+      ],
+      "correct_index": 2,
+      "explanation": "The examiner may add restrictions based on experience and answers, for example to a narrower area or a particular vessel. They are not a response to fees or to the written exams.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q06",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When asked how you would respond to a fire on board, which opening best matches the guide's suggested order?",
+      "options": [
+        "Start by listing the types of extinguisher",
+        "Say that the fire is the engineer's job",
+        "Give the regulation number first",
+        "Protect the people on board first, then stop the problem getting worse, then call for help"
+      ],
+      "correct_index": 3,
+      "explanation": "The suggested order puts people first, then stopping the problem getting worse, then the call for help, control, and afterwards. Listing equipment or citing a rule number first leaves out the priority the examiner is listening for.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q07",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "You are unsure of an exact figure the examiner asks about. What does the guide recommend?",
+      "options": [
+        "Say that you would check the regulation or manufacturer's manual, rather than invent a number",
+        "Guess a number confidently",
+        "Refuse to answer the question",
+        "Change the subject to your own vessel"
+      ],
+      "correct_index": 0,
+      "explanation": "A wrong invented figure is worse than admitting you would check the source. Examiners value knowing where to find the answer.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q08",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A Master, Limited holder renews using a refresher MED course. What else is needed?",
+      "options": [
+        "Passing NS1 and CP1 again",
+        "A practical and oral exam on general seamanship for the vessel",
+        "24 months of shore service",
+        "Nothing else"
+      ],
+      "correct_index": 1,
+      "explanation": "The refresher route to renewal pairs the MED refresher (within the last 5 years) with a practical and oral exam on general seamanship for the vessel. NS1 and CP1 are not part of that renewal route.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "sixty-ton.oral-exam-guide.q09",
+      "lesson_id": "sixty-ton.oral-exam-guide",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which set of topics is reported to be covered by the oral?",
+      "options": [
+        "Only the Collision Regulations",
+        "Only tides and currents",
+        "The vessel's systems, communications, pollution prevention, passenger safety and emergencies",
+        "Only the Canada Shipping Act definitions"
+      ],
+      "correct_index": 2,
+      "explanation": "Providers report a wide scope: emergencies, shiphandling, the vessel's systems, communications, pollution prevention, passenger and cargo safety, and anything from the related courses. The other options are far too narrow.",
+      "source_ids": [
+        "sixty-nauticalmind-master-limited-practical",
+        "sixty-saferoceans-course-info",
+        "sixty-saferoceans-oral-prep",
+        "sixty-wmi-ns1-orals-prep",
+        "sixty-mpr-sor-2007-115-xml",
+        "sixty-pw-mpr-qualifying-service"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

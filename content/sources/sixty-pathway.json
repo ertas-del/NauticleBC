@@ -1,0 +1,37 @@
+{
+  "sources": [
+    {
+      "id": "sixty-pw-mpr-qualifying-service",
+      "title": "Marine Personnel Regulations, SOR/2007-115: ss. 106, 110, 111, 115-118 and 131 (qualifying service and Master, Limited < 60 GT)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2007-115.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Narrow entry for the sections the sixty-ton pathway lessons rely on, read word for word from the XML. s. 110(1)-(3): age 18 on the day of receipt, service started after 16, documents to the examiner at least two weeks before the first exam, application valid 1 year. s. 111(b): medical needed unless the s. 131 certificate is for a vessel that is not passenger-carrying. s. 115(1)-(3): 8 hours = 1 day; other watches prorated to a maximum of 12 hours in a calendar day with a 12-hour watch = 1.5 days; months = credited days / 30. s. 116-118: other service per TP 2293 chapter 3; two-thirds credit for junior officer service; desertion. s. 106(1)-(3): renewal options and the rule that for 100(h) the renewal sea service must be on the vessel(s) and in the area on the certificate. s. 131: Master, Limited < 60 GT requirements (2 months or 1 month approved on-board training; MED by vessel type; radio certificate if VHF; marine basic first aid; exams per TP 2293). The linear reading of s. 115(2) for watches other than 8 or 12 hours (for example 10 hours = 1.25 days) is our interpretation and needs examiner confirmation. Not the official version."
+    },
+    {
+      "id": "sixty-pw-vscr-voyage-definitions",
+      "title": "Vessel Safety Certificates Regulations, SOR/2021-135: s. 1 definitions of voyage classes and Schedule 1 Part 6 (British Columbia sheltered waters)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2021-135.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Supports: near coastal voyage, Class 2 = not a sheltered waters voyage and always 25 nautical miles or less from shore in waters contiguous to Canada, the United States (except Hawaii) or Saint Pierre and Miquelon, and 100 nautical miles or less from a place of refuge; sheltered waters voyage = on a river above tidal waters or a lake where a vessel cannot be more than 2.5 nautical miles from the closest shore, or on waters listed in Schedule 1 during the period given. Schedule 1 Part 6 lists BC waters, for example Vancouver Harbour east of the Point Atkinson to QA buoy line (all year), Juan de Fuca Strait inside the Trial Islands to Albert Head line including Esquimalt Harbour (all year), and Howe Sound north of the Gower Point to Point Atkinson line (1 June to 30 September). The lesson uses these as examples only; the full list and the exact lines are in the regulation. Not the official version."
+    },
+    {
+      "id": "sixty-pw-vessel-scope-vscr-svr",
+      "title": "Vessel Safety Certificates Regulations s. 11 and Small Vessel Regulations s. 2 and Part 4 (which regime a small vessel falls under)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2021-135.xml",
+      "edition": "Consolidated XML for SOR/2021-135 and SOR/2010-91, repository commit b7292cf (updated 2026-09-28); read 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Supports: VSCR Division 2 (vessels that are not Safety Convention vessels) applies to Canadian vessels of 15 gross tonnage or less that carry more than 12 passengers, and to vessels of more than 15 gross tonnage, subject to the exclusions in s. 11(2) (pleasure craft, special-purpose vessels, human-powered vessels and some unpowered vessels). Small Vessel Regulations s. 2 apply to pleasure craft, passenger-carrying vessels of not more than 15 gross tonnage carrying not more than 12 passengers, workboats of not more than 15 gross tonnage, and human-powered vessels other than pleasure craft; fishing vessels are excluded. SVR Part 4 covers passenger-carrying vessels of not more than 15 GT with not more than 12 passengers. This source does not say what an inspection involves or which equipment a given vessel needs; the lesson tells the learner to check the regulations for their own vessel. Not the official version."
+    }
+  ]
+}
