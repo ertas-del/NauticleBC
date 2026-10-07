@@ -1,4 +1,4 @@
-# Handoff note (updated 2026-10-05, late)
+# Handoff note (updated 2026-10-06)
 
 Written so another person or Claude session can pick up without the earlier conversation.
 
@@ -8,27 +8,38 @@ Written so another person or Claude session can pick up without the earlier conv
 - Living plan: Claude Docs doc "Marine Ticket Prep App: Plan" (https://claude.ai/code/artifact/19398f14-8ff9-4bee-8c45-8a80b032975e). Edit it in place; do not recreate it.
 - Rules for every contributor: `CLAUDE.md`. Lanes and parallel workflow: `docs/workflow.md`. Licences: `docs/licence-checklist.md`.
 
-## Done
+## Status (2026-10-06)
 
-- Plan doc written (all modules, sources, licensing, exam facts, open questions).
-- Decisions: Android first (Kotlin + Compose); first release = Bridge Watch Rating + Master Limited < 60 GT, starting with COLREGs and tides; text-to-speech for audio later; MED, MED practice and marine first aid on hold; speech recognition later.
-- Merged to `main` (all with green CI, Android build included):
-  - #1 foundation: layout, `CLAUDE.md`, schemas, content lint and bundle builder, Android skeleton, CI.
-  - #4 engine: module list, lesson reader (small Markdown renderer), per-lesson quiz, progress storage, review-status label, sources list.
-  - #3 COLREGs Rules 1, 2, 3, 4, 6, 7 (6 lessons, 31 questions).
-  - #2 COLREGs Rules 8, 9, 10 (3 lessons, 20 questions) plus Rule 5 sample from #1.
-  - #5 Tides module 1: six lessons (causes, spring/neap, vocabulary, types, tables and heights, tidal currents), 41 questions, 20 new sources.
-- Totals on `main`: 16 lessons, 95 questions, 26 sources. Everything is `needs_expert_review`.
+On `main`: 92 lessons, 791 questions, 2 mock exams (NS1 practice, Bridge Watch practice), 156 sources. Lint clean, CI green. All content is `needs_expert_review`.
 
-## Needs doing next
+- COLREGs complete: Rules 1-38, Part F (Canadian Rules 39-46), Annexes I-IV, encounter/lights/sound drills, NS1 traps review.
+- Tides module 1 (6 lessons).
+- Bridge watch: 24 lessons (watchkeeping, lookout, reports, handover, calling the master, helm orders, steering, compass, alarms, MOB, pyrotechnics, survival craft).
+- Seamanship 1-9: buoyage, light characteristics, ship terms, vessel types, ropes, knots, splices.
+- Sixty-ton pathway: 6 lessons (certificate, requirements, sea service, exams, oral guide, know your vessel).
+- App: lesson reader, exam-focus card and highlights, quizzes, progress. Debug APK is built by CI (Actions artifact `app-debug`).
+- Syllabus briefs: `docs/syllabus/bridge-watch-rating.md`, `docs/syllabus/master-limited-60gt.md`. Writer instructions: `docs/writer-guide.md` (official law text via the Justice Canada XML repo, cloned no-checkout at /home/claude/justicecanada/laws-lois-xml in the old sandbox; re-clone github.com/justicecanada/laws-lois-xml).
 
-1. **Add the Gradle wrapper**: `gradle wrapper --gradle-version 8.10.2`, commit it, switch `android.yml` to `./gradlew`. It could not be generated offline.
-2. **Test on a device.** Nothing has run on a phone yet: check layout, TalkBack, large fonts, rotation mid-quiz, dark theme. Product choices to confirm: finishing a quiz marks the lesson complete; best score compares by fraction correct.
-3. **Expert review.** Each merged PR body lists the items a certified master should check (Canadian modifications in Rules 1, 3, 6, 9, 10; BC traffic separation schemes; BC tide type; CHS secondary-port method; rule of twelfths).
-4. **Read the primary sources.** Justice Laws, tc.canada.ca and tides.gc.ca could not be fetched, so every COLREGs and tides lesson rests on summaries and secondary sources. Someone with browser access should read the live text and correct anything off.
-5. **Next content lanes**: COLREGs Rules 11 to 19 (steering and sailing), 20 to 31 (lights and shapes), 32 to 37 (sound signals); tides: BC regional atlas and current tables; Bridge Watch and 60-ton modules (stability, radar, TimeZero); mock-exam blueprints (`content/mock-exams/`).
-6. **QA and licences lane**: licence checklist upkeep, reviewer hand-off lists per module.
-7. **Later**: oral exam tester, knots, SVOP, SVMO (video plus TTS), flags, radio, lights map, sea temperature, BC coast map hub, weather, towing logs.
+## Remaining writer assignments (run 3-4 at a time; each follows docs/writer-guide.md)
+
+1. seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
+2. seamanship 200+: the 16 master-level lessons in the 60 GT brief 'Module seamanship' (emergencies, fire, flooding, abandon ship, cold water, heavy weather, towing). sources sea-c.json.
+3. chartwork 5 + 60 GT chartwork 1-12 (charts, datums, lat/long, publications, compass error and TVMDC). sources chw-a.json.
+4. chartwork 60 GT 13-24 (DR, fixes, running fix, set and drift, course to steer, clearing bearings, passage planning, CP1 technique). sources chw-b.json.
+5. canadian-regulations 60 GT 1-7 + Bridge Watch safe working, enclosed spaces, pollution (orders 200-220). sources regs-a.json.
+6. canadian-regulations 60 GT 8-14 (Navigation Safety Regs 2020, VTS/MCTS BC (rules changed 2026-03-31), pollution, TSB reporting). sources regs-b.json.
+7. stability 5 + 60 GT stability 1-11 (full first-principles stability with worked calculations). sources stab.json.
+8. radio 5 + 60 GT radio 1-7, meteorology 1-6. sources rmet.json.
+9. radar 1-6, electronic-navigation 1-5 + Bridge Watch bridge-equipment-tour (60) and radar-for-lookouts (70). sources renav.json.
+10. tides additions 7-8 (60 GT brief).
+11. Update mock-exam blueprints to include bridge-watch and seamanship questions.
+
+## Before an alpha test
+
+- Bridge Watch / COLREGs alpha: ready to sideload now. Do a device pass (TalkBack, large fonts, rotation mid-quiz, dark theme) on the Samsung S26.
+- Add the Gradle wrapper (`gradle wrapper --gradle-version 8.10.2`).
+- Get one certified master to skim COLREGs and bridge-watch content; each PR lists its expert-review items.
+- Full Master Limited alpha needs items 3-7 above (chartwork and stability are the core of CP1 and the oral).
 
 ## Waiting on the user
 
