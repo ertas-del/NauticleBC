@@ -1,0 +1,205 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.deck-machinery-and-signals.q01",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which description of a windlass is correct?",
+      "options": [
+        "A boom with a topping lift and guys",
+        "A vertical-axis drum used only for mooring",
+        "A hand tool for tightening shackles",
+        "A horizontal winch used on ships mainly to raise the anchor"
+      ],
+      "correct_index": 3,
+      "explanation": "A windlass is a horizontal winch used to raise the anchor. A vertical-axis drum is a capstan, and the boom with a topping lift and guys is a derrick.",
+      "source_ids": [
+        "sea-b-wikipedia-windlass",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q02",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crane operator cannot see the area where the load is to be landed because stacked pallets block the view. Under the Maritime Occupational Health and Safety Regulations, what must happen?",
+      "options": [
+        "The operator may continue if the deck crew shout",
+        "The load may be landed if the SWL is not exceeded",
+        "Nothing: the operator can estimate the position",
+        "The operator must be directed by a signaller"
+      ],
+      "correct_index": 3,
+      "explanation": "An operator must either have a clear and unobstructed view or be directed by a signaller. Staying within the SWL does not replace that rule, and unstructured shouting is not a code of signals.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q03",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who must establish the code of signals used for deck equipment, and what must be done with it?",
+      "options": [
+        "The crane maker, who prints it on the machine",
+        "The signaller, who keeps it in their head",
+        "Transport Canada, which supplies one code for every vessel",
+        "The employer, who must instruct every signaller and operator in it and keep a copy available for examination"
+      ],
+      "correct_index": 3,
+      "explanation": "The employer must establish the code, instruct every signaller and operator in it and keep a copy where it can be examined. The regulation does not set one national gesture code for every vessel, and the signaller does not make up the code.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q04",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "While a winch is hauling a load, the signaller is asked to help tend a sling. What is the correct answer?",
+      "options": [
+        "Yes, if the operator agrees",
+        "No: the signaller must not perform other duties while the equipment under their direction is moving",
+        "Yes, as long as one hand stays free to signal",
+        "Yes, if the load is light"
+      ],
+      "correct_index": 1,
+      "explanation": "A signaller must not perform duties other than signalling while any equipment under their direction is in motion. Being asked, a light load or the operator's agreement do not change that rule.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q05",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Visual signals cannot be seen because of distance and spray. What must the employer provide?",
+      "options": [
+        "Nothing; work should simply continue with caution",
+        "A telephone, radio or other audible signalling device for the signaller",
+        "A second operator",
+        "A louder whistle for the operator"
+      ],
+      "correct_index": 1,
+      "explanation": "When visual signals are not feasible, the employer must provide a telephone, radio or other audible signalling device for the signaller. Continuing without a way to signal would leave the operator working without direction.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q06",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A winch is rated with a safe working load (SWL) of 2 tonnes. A load of 2.3 tonnes must be moved 'just a short distance'. What is the correct course?",
+      "options": [
+        "Do it slowly",
+        "Do it only if two signallers are used",
+        "Do not use it: equipment must never be used or operated with a load above its safe working load",
+        "Do it, since the SWL is below the breaking strength"
+      ],
+      "correct_index": 2,
+      "explanation": "Equipment must not be used with a load in excess of its SWL, which is marked on it. The SWL is well below the breaking strength to give a safety margin, and going slowly or adding signallers does not change the limit.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120",
+        "bw-tackle-crc-1494"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q07",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In the standard hand-signal code used as the example in this lesson, what does an arm extended to the side, palm down, swung back and forth mean?",
+      "options": [
+        "Emergency stop",
+        "Dog everything",
+        "Hoist",
+        "Stop"
+      ],
+      "correct_index": 3,
+      "explanation": "One arm extended to the side with the palm down, swung back and forth, is stop. Emergency stop uses both arms in the same way, hoist is the forearm vertical with small circles, and dog everything is hands together at waist level. Always learn your own ship's code.",
+      "source_ids": [
+        "sea-b-osha-crane-hand-signals"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q08",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In that example code, a signaller holds both arms extended to the side, palms down, and swings them back and forth. What does the operator do?",
+      "options": [
+        "Swing the boom to the right",
+        "Lower the boom",
+        "Make an emergency stop",
+        "Slow down and continue"
+      ],
+      "correct_index": 2,
+      "explanation": "Both arms swung back and forth, palms down, is emergency stop. A hand held in front of the action hand is move slowly, a pointing finger gives the swing direction, and thumb down is lower boom.",
+      "source_ids": [
+        "sea-b-osha-crane-hand-signals"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.deck-machinery-and-signals.q09",
+      "lesson_id": "seamanship.deck-machinery-and-signals",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A machine's operator has to leave the crane cab for ten minutes. Which is correct?",
+      "options": [
+        "Leave the load hanging at the signaller's discretion",
+        "No action is needed if the deck is quiet",
+        "Secure it so that it cannot move by accident or be used by an unauthorised person",
+        "Leave it running so it stays warm"
+      ],
+      "correct_index": 2,
+      "explanation": "Equipment must not be left unattended unless it has been secured to prevent inadvertent movement or unauthorised use. A suspended load should be landed and the machine secured, not left to chance.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

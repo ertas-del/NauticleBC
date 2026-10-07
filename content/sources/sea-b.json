@@ -1,0 +1,180 @@
+{
+  "sources": [
+    {
+      "id": "sea-b-notmar-b24-pilot-transfer",
+      "title": "Notices to Mariners, Section B, item 24: Pilotage Services in Canadian Waters (pilot transfer arrangements)",
+      "publisher": "Canadian Coast Guard (Notices to Mariners annual edition)",
+      "url": "https://www.notmar.gc.ca/publications/annual/section-b/b24-en",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened). This is the document that Navigation Safety Regulations s. 119 points to for pilot transfer equipment. Supports: pilot ladder climb of not less than 1.5 m and not more than 9 m above the water; on the Great Lakes and St. Lawrence River, where the distance exceeds 5 m, an accommodation ladder or equivalent must limit the pilot ladder climb to 5 m at most; ladder within the parallel body length and as far as practicable in the mid-ship half length, clear of discharges; two man-ropes of 28 mm to 32 mm diameter ready for immediate use; a lifebuoy with self-igniting light and a heaving line; a responsible officer with a means of communication with the bridge supervises rigging and embarkation; adequate lighting of the transfer arrangements overside and the position on deck; where the distance exceeds 9 m an accommodation ladder may be used in conjunction with the pilot ladder. The item may have been amended since the tool read it; a reviewer should check the current edition."
+    },
+    {
+      "id": "sea-b-wikipedia-anchor",
+      "title": "Anchor (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Anchor",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: anchor types and short descriptions (admiralty or fisherman pattern with a stock; stockless anchors patented in England in 1821, easier to handle, nearly universal on large ships; plough/CQR; Danforth, compact and buries well but poor in gravel and weed; grapnel with four or more tines, good in coral and rock; mushroom for silt and mud; modern scoop types); parts (shank, flukes, stock, tripping palms, rode); scope rule of thumb: in moderate conditions the ratio of rode to depth should be 4:1 with a greater scope better, up to twice that in rough conditions, and generally 5:1 to 10:1; the worked example of 8 m of water plus 1 m bow height giving 36 m of rode; 'aweigh' means hanging on the rope and not resting on the bottom; 'up and down' means the vessel is directly above the anchor; a hand on the rode may feel jerks and jolts when the anchor is dragging."
+    },
+    {
+      "id": "sea-b-seamanship-examiner-anchorwork",
+      "title": "The Seamanship Examiner: For STCW Certification Examinations, chapter 'Anchorwork' (GlobalSpec reference page)",
+      "publisher": "GlobalSpec (publisher's online excerpt)",
+      "url": "https://www.globalspec.com/reference/25828/203279/anchorwork",
+      "edition": "accessed 2026-10-06",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool, on an excerpt page only (the book was not opened). Supports: 'a shackle length is 15 fathoms, or 27.5 m (90 ft)'; joining by Kenter lugless joining shackles or D lugged shackles; stockless anchor parts (crown D shackle, shank, arms, fluke, pea/bill, crown, tripping palms); securing the anchor for sea with the windlass brake applied, the hawse pipe cover in place, the bow stopper secured, a devil's claw with a bottle screw and chain lashings through the crown D shackle. The excerpt was cut off before the holding-ground answer and the chain-marking material."
+    },
+    {
+      "id": "sea-b-maritimepage-anchor-chain",
+      "title": "Anchor chain article (maritimepage.com)",
+      "publisher": "maritimepage.com (trade blog)",
+      "url": "https://maritimepage.com/?p=1900",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust trade blog, used only as a second voice for figures that another source also gives. Supports: a shackle (called a 'shot' in American usage) is 27.5 m, 15 fathoms or 90 ft; chain is marked at each shackle boundary so the scope can be read from the bridge or forecastle; individual lengths are joined by Kenter (lugless) shackles that pass over the cable lifter smoothly; a usual minimum scope of about 5:1 in moderate conditions, 7:1 or more in worsening weather or on a lee shore, with depth measured from the hawsepipe and tidal change allowed for; the bitter end secured so that it can be slipped (pelican hook or senhouse slip). The tool's wording on the marking scheme ('turnback links', wire seizings) was vague and is not relied on."
+    },
+    {
+      "id": "sea-b-nvic-4j6b-chain-markings",
+      "title": "NVIC 14-14 Task 4.6.B: Anchor Chain Markings (Able Seafarer Deck task sheet)",
+      "publisher": "Massachusetts Maritime Academy (STCW task book)",
+      "url": "https://stcw.maritime.edu/stcw/2025/tasks/4J6B",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool; the page lists what a candidate must be able to describe, not the actual scheme. Supports only: a candidate must be able to describe the markings for each shot, how the detachable link is marked to show how many shots it is from the anchor, and the special painting of the last two shots of the chain. The exact colours or number of links for any scheme were not given and are not claimed."
+    },
+    {
+      "id": "sea-b-dockwalk-chain-colour-code",
+      "title": "How to colour code an anchor chain (Dockwalk)",
+      "publisher": "Dockwalk (yachting magazine)",
+      "url": "https://dockwalk.com/crewlife/how-to-colour-code-an-anchor-chain",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Yachting article, low trust for ship practice. Supports: markers placed at each shackle (commonly 90 ft); one yacht scheme of five colours in a fixed order, and a red and white scheme in which each shackle shows one more white link than the last; the statement that many vessels invent their own marking scheme and that paint needs refreshing. Used only to show that schemes differ between vessels."
+    },
+    {
+      "id": "sea-b-wikipedia-mooring",
+      "title": "Mooring (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Mooring",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: the six usual lines of a ship alongside (head line, forward breast line, forward or head spring, back or aft spring, aft breast line, stern line) and the one-line functions the tool reported (the table's spring and stern-line wording looked muddled, so the lesson derives directions from geometry and flags them for review); nylon lines that break under high stress can snap back and fatally injure bystanders; bitts take a line quickly and release it quickly; bollards are shore-side attachment points along with rings and cleats."
+    },
+    {
+      "id": "sea-b-wikipedia-wire-rope",
+      "title": "Wire rope (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Wire_rope",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: wire rope clip saddle goes on the load-bearing (live) end, mnemonic 'never saddle a dead horse'; two or more clips are usually used depending on diameter, as many as eight for a 2 in rope; core types are fibre, wire strand and independent wire rope core (IWRC, described as the most durable). No spacing, torque, discard criteria or 6x19 / 6x37 construction detail was found."
+    },
+    {
+      "id": "sea-b-wikipedia-shackle",
+      "title": "Shackle (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Shackle",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: a shackle is a U-shaped piece of metal closed by a pin or bolt; D (chain) shackles are strongest when pulled in line and may bend under side load; bow (anchor) shackles take loads from several directions but are weaker overall; pin shackles close with a bolt and cotter pin; threaded shackles often need mousing so the pin does not work loose; snap shackles can release under load and are less secure; soft shackles of synthetic fibre exist."
+    },
+    {
+      "id": "sea-b-wikipedia-windlass",
+      "title": "Windlass (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Windlass",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool, which returned very little. Supports only: a windlass is a type of horizontal winch, and windlasses are used on boats to raise the anchor as an alternative to a vertical capstan. Gypsy, wildcat, brake and warping drum details were not found and are explained as general seamanship."
+    },
+    {
+      "id": "sea-b-wikipedia-pilot-ladder",
+      "title": "Pilot ladder (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Pilot_ladder",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA), reporting the SOLAS / IMO construction standard. Supports: steps not more than 400 mm x 115 mm x 25 mm; step spacing 310 mm plus or minus 5 mm; a spreader step (minimum length 1.8 m) in place of a standard step at a maximum interval of eight steps; two pairs of side ropes of minimum 18 mm diameter manila; the lowest four steps normally of synthetic or composite material; ladders must not be secured by shackles and are tied by knots to a fixed securing point on deck. Maximum height above water, man ropes, lighting and combination arrangements were not in the text it saw (those come from the Notices to Mariners item). The IMO text itself was not read."
+    },
+    {
+      "id": "sea-b-osha-crane-hand-signals",
+      "title": "OSHA 29 CFR 1926 Subpart CC, Appendix A (standard hand signals) and 1926.1419 (signal requirements)",
+      "publisher": "U.S. Occupational Safety and Health Administration",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926SubpartCCAppA",
+      "edition": "accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. U.S. federal regulation (a U.S. Government work; copyright status not confirmed on the page). U.S. construction crane practice, NOT Canadian marine law: it is used here only as a worked example of what a standard hand-signal code looks like. Supports the gestures for hoist, lower, use main hoist, use auxiliary hoist, raise boom, lower boom, move slowly, raise boom and lower load, swing, stop, emergency stop, travel and dog everything, and (1926.1419) that hand signals follow the standard method unless the signaller, operator and lift director agree on another. Canadian ships follow the employer's code of signals under MOHS s. 229."
+    },
+    {
+      "id": "sea-b-nga-pub102-letters-phonetic",
+      "title": "Pub. 102, International Code of Signals (2020, U.S. edition): single-letter signals and phonetic alphabet",
+      "publisher": "National Geospatial-Intelligence Agency / U.S. Coast Guard National Maritime Center (exam copy)",
+      "url": "https://www.dco.uscg.mil/Portals/9/NMC/pdfs/examinations/Pub102_2020.pdf",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool that printed the copyright line 'No copyright claimed under Title 17 U.S.C.' and then a table of single-letter signals and the phonetic alphabet. Supports every letter listed in the flags lesson: A diver down; B dangerous goods; C yes; D keep clear, manoeuvring with difficulty; E altering course to starboard; F disabled; G pilot or hauling nets; H pilot on board; I altering course to port; J on fire with dangerous cargo or leaking it; K wish to communicate; L stop instantly; M stopped and making no way; N no; O man overboard; P all persons report on board; Q free pratique; S operating astern propulsion; T pair trawling; U running into danger; V require assistance; W require medical assistance; X stop your intentions and watch for my signals; Y dragging my anchor; Z require a tug or shooting nets. The tool's table had no row for letter R, so R is not stated as sourced anywhere in the lessons. Phonetic words: Alfa, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett, Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Victor, Whiskey, X-ray, Yankee, Zulu. This is the U.S. printing of the IMO code; the IMO original was not read."
+    },
+    {
+      "id": "sea-b-wikipedia-plimsoll-line",
+      "title": "Plimsoll line (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Plimsoll_line",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: load line letters TF tropical fresh water, F fresh water, T tropical seawater, S summer, W winter, WNA winter North Atlantic; the original mark a 12 inch disc with an 18 inch line through its centre, the line at the summer load line; classification society authority letters beside the mark (for example AB, BV, LR, NK); timber load lines with an L prefix. The Canadian requirement for load lines is not covered by this page."
+    },
+    {
+      "id": "sea-b-wikipedia-dangerous-goods",
+      "title": "Dangerous goods (Wikipedia)",
+      "publisher": "Wikipedia contributors",
+      "url": "https://en.wikipedia.org/wiki/Dangerous_goods",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Low-trust general reference (CC BY-SA). Supports: the nine UN hazard classes (1 explosives with divisions, 2 gases split into flammable, non-flammable and toxic, 3 flammable liquids, 4 flammable solids, 5 oxidizing substances and organic peroxides, 6 toxic and infectious, 7 radioactive, 8 corrosives, 9 miscellaneous such as dry ice); the hazard label is a diamond with the class number at the bottom, with colour coding (red for flammable, orange for explosive, green for non-flammable gas). Class names are confirmed in the Canadian Transportation of Dangerous Goods Regulations (bw-tdg-sor-2001-286). The IMDG Code itself was not read."
+    },
+    {
+      "id": "sea-b-marineinsight-sounding-ullage",
+      "title": "Understanding Sounding, Ullage, and Frequency of Sounding (Marine Insight)",
+      "publisher": "Marine Insight",
+      "url": "https://www.marineinsight.com/guidelines/understanding-sounding-ullage-and-frequency-of-sounding/",
+      "edition": "accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through an automated fetch-and-summarise tool. Industry education site, low trust. Supports: sounding is the measured height of the liquid from its surface down to the bottom of the tank; ullage is the empty space from the top of the tank down to the liquid surface; sounding pipes run from the tank top (with a cap) and are open at the bottom so the liquid rises to the tank level; the sounding book (tables) turns a reading into a volume; typical sounding frequencies (fuel, lube and waste twice daily; ballast and fresh water daily; during bunkering every 15 minutes at the start and end) are one ship's example, not a rule."
+    }
+  ]
+}

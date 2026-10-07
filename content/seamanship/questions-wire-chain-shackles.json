@@ -1,0 +1,227 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.wire-chain-shackles.q01",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which wire rope core is described as the most durable in hard service?",
+      "options": [
+        "Synthetic fibre core",
+        "A core made of a single lay strand of manila",
+        "Natural fibre core",
+        "Independent wire rope core (IWRC)"
+      ],
+      "correct_index": 3,
+      "explanation": "An independent wire rope core (IWRC) is a small wire rope in the middle and is the most durable. Fibre cores (natural or synthetic) are more flexible but crush more easily, and a plain wire strand core is a step between them.",
+      "source_ids": [
+        "sea-b-wikipedia-wire-rope"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q02",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A seaman finds a kink in a length of wire rope and suggests straightening it by hanging a weight on it. What is the correct response?",
+      "options": [
+        "Agree: the weight will pull the kink out and restore full strength",
+        "Disagree: a kink in wire rope is permanent damage and the rope should not be used where it has kinked",
+        "Agree, but only if the wire is first lubricated",
+        "Disagree: kinks are harmless in wire but dangerous in fibre rope"
+      ],
+      "correct_index": 1,
+      "explanation": "A kink cannot be pulled out. The wires have been permanently deformed, so the rope is weaker there. Lubrication does not repair it, and kinks are not harmless in wire; wire is actually the rope that suffers most from them.",
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q03",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You must hang a block from a padeye so that the pull may come from several directions as the lead changes. Which shackle is the better choice?",
+      "options": [
+        "A soft shackle of fibre, because it never wears",
+        "A bow (anchor) shackle, because it copes with pulls from several directions",
+        "A snap shackle, because it releases quickly",
+        "A D (chain) shackle, because it is the strongest type"
+      ],
+      "correct_index": 1,
+      "explanation": "A bow shackle has a wide rounded shape and takes loads from several directions, though it is weaker overall than a D shackle of the same size. A D shackle is strongest in line but bends under side load. A snap shackle can release under load and is not for a heavy lead, and a fibre soft shackle is vulnerable to heat and sharp edges.",
+      "source_ids": [
+        "sea-b-wikipedia-shackle"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q04",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is the pin of a screw-pin shackle moused?",
+      "options": [
+        "To raise its safe working load",
+        "To let the shackle pass over a cable lifter",
+        "To show the shackle has been tested",
+        "To stop the pin working loose and unscrewing with vibration"
+      ],
+      "correct_index": 3,
+      "explanation": "Mousing ties the pin to the shackle body with seizing wire so it cannot unscrew. It does not change the SWL, it has nothing to do with passing over a cable lifter (that is a feature of the Kenter joining shackle) and it is not a test mark.",
+      "source_ids": [
+        "sea-b-wikipedia-shackle"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q05",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A wire has a breaking load of 72 kN. The rule you must follow is a safety factor of 6. What is the greatest working load it may carry?",
+      "options": [
+        "12 kN",
+        "6 kN",
+        "432 kN",
+        "36 kN"
+      ],
+      "correct_index": 0,
+      "explanation": "Working load = breaking load divided by the safety factor: 72 / 6 = 12 kN. Multiplying (72 x 6 = 432 kN) is the common slip. Dividing by 12 gives 6 kN, and dividing by 2 gives 36 kN, neither of which matches a factor of six.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q06",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A crew member says, 'A stage and a scaffold both need a safety factor of four, since four times the likely load is the rule.' What is the correct statement under the Maritime Occupational Health and Safety Regulations?",
+      "options": [
+        "Stages need four and scaffolds need six",
+        "The scaffold must support at least four times the likely load, but the ropes and supports of a stage need a safety factor of at least six",
+        "Both need ten",
+        "Correct: four applies to both"
+      ],
+      "correct_index": 1,
+      "explanation": "A scaffold (a platform supported from below) must support at least four times the load likely to be put on it. A stage (a platform supported from above) must have a supporting structure and ropes or tackle with a safety factor of not less than six. The other options swap or invent the figures.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q07",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about the safe working load (SWL) of lifting or mooring gear is correct?",
+      "options": [
+        "It equals the breaking strength",
+        "It is marked on the equipment and must never be exceeded",
+        "It may be exceeded briefly if the load is steady",
+        "It applies only to wire rope, not to chain or shackles"
+      ],
+      "correct_index": 1,
+      "explanation": "The SWL is marked on the equipment (or on a label fixed to it) and is well below the breaking strength. Equipment must not be used with a load above its SWL, whether the load is brief or steady, and the rule covers all lifting gear, not only wire.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120",
+        "bw-tackle-crc-1494"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q08",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is a Kenter shackle used for?",
+      "options": [
+        "Hoisting a bosun's chair",
+        "Locking a hatch",
+        "Securing a bulldog clip to a wire",
+        "Joining two lengths of anchor chain so that the join passes smoothly over the cable lifter"
+      ],
+      "correct_index": 3,
+      "explanation": "A Kenter (lugless) joining shackle joins lengths of anchor chain and has no lugs to snag, so it passes smoothly over the cable lifter. The other jobs belong to clips, rigging and fittings of other kinds.",
+      "source_ids": [
+        "sea-b-seamanship-examiner-anchorwork"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q09",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Compared with nylon line, which description fits wire rope?",
+      "options": [
+        "Floats and is cheap but weak",
+        "Much more stretch, which stores energy",
+        "Very strong with little stretch, needing lubrication and checks for corrosion and kinks",
+        "Shrinks when wet and is poor in salt water"
+      ],
+      "correct_index": 2,
+      "explanation": "Wire rope is very strong with little stretch, and it needs lubrication and inspection for corrosion and kinks. Stretch that stores energy describes nylon, floating describes polypropylene, and shrinking when wet describes manila.",
+      "source_ids": [
+        "sea-a-usace-marlinspike-seamanship"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.wire-chain-shackles.q10",
+      "lesson_id": "seamanship.wire-chain-shackles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are clipping a wire about 2 in (51 mm) across to make an eye. Which description is correct?",
+      "options": [
+        "Two clips only, since more weakens the wire",
+        "One large clip with its U-bolt on the live part",
+        "Several clips (up to about eight for that size), saddle on the live part",
+        "Clips are not used on wire this thick"
+      ],
+      "correct_index": 2,
+      "explanation": "Thicker wire needs more clips: two or more are usual, and as many as eight may be needed for a wire about 2 in across, always with the saddle on the live part. Two clips are for small wire, a single clip is never enough, and the exact numbers come from the manufacturer's table.",
+      "source_ids": [
+        "sea-b-wikipedia-wire-rope"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
