@@ -1,0 +1,158 @@
+{
+  "sources": [
+    {
+      "id": "bw-steer-fbdr-sor-2010-83",
+      "title": "Fire and Boat Drills Regulations, SOR/2010-83",
+      "publisher": "Government of Canada, Justice Laws (Department of Justice consolidated text)",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-83/",
+      "edition": "Consolidation current to 2025-07-25 (Justice Canada laws-lois-xml repository); accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read in full from the Justice Canada XML (eng/regulations/SOR-2010-83.xml). Supports: s. 1 definitions (general emergency alarm signal = a succession of seven or more short blasts followed by one long blast on the whistle or siren; fire alarm signal = continuous sounding of the vessel's fire alarm; survival craft; rescue boat); s. 2 application and exceptions; ss. 3-6 muster lists and posting (including the navigation bridge); s. 7 muster list contents (alarm descriptions, how the order to abandon ship is given, station and duties of each crew member); s. 16 passengers told a drill is not a real emergency; s. 17 drills carried out as if an actual emergency; s. 19 reporting to stations; ss. 20-22 drill intervals and monthly crew participation; ss. 25-31 survival craft and rescue boat drills (lifeboats launched at least every three months, rescue boat drill monthly, donning of immersion suits); s. 37 records; Schedule (drill frequencies). Reproduction of Federal Law Order statement not seen, so marked unclear."
+    },
+    {
+      "id": "bw-steer-vcer-sor-2023-257",
+      "title": "Vessel Construction and Equipment Regulations, SOR/2023-257",
+      "publisher": "Government of Canada, Justice Laws (Department of Justice consolidated text)",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2023-257/",
+      "edition": "Consolidation current to 2025-07-24 (Justice Canada laws-lois-xml repository); accessed 2026-10-06",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read the life-saving appliance provisions from the Justice Canada XML (eng/regulations/SOR-2023-257.xml). Supports: s. 103 (a vessel must comply with SOLAS Chapter III, with listed exceptions, and the LSA Code as modified by Part A of TP 14475; so the detailed alarm and life-saving appliance technical rules sit in those incorporated documents, which this project has not read). Reproduction of Federal Law Order statement not seen, so marked unclear."
+    },
+    {
+      "id": "bw-steer-nautinst-nfu",
+      "title": "Steering failure? Think NFU (Nautical Institute Mariners' Alerting and Reporting Scheme item 201341)",
+      "publisher": "The Nautical Institute",
+      "url": "https://www.nautinst.org/resources-page/201341-steering-failure-think-nfu.html",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: full follow-up (FFU) steering is driven by the helm wheel and shows actual rudder angle; non-follow-up (NFU) steering is driven by a spring-loaded lever and the wheel is deactivated; when steering fails in follow-up mode the first reaction should be to switch to NFU, or to the backup steering system, or to stop the vessel if practicable. A report of one incident, so the writer should check the wording of the page before relying on fine detail."
+    },
+    {
+      "id": "bw-steer-steamship-interaction",
+      "title": "Interaction risk in narrow channels, Risk Alert 70",
+      "publisher": "Steamship Mutual Underwriting Association",
+      "url": "https://www.steamshipmutual.com/interaction-risk-narrow-channels-risk-alert-70",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: pressure build-up at the bow and low pressure along the hull; overtaking is the highest-risk case, where a smaller vessel may sheer into the path of the larger or the bows turn away and the sterns swing together; bank cushion pushes the bow away from a bank and bank suction draws the stern toward it; speed, shallow water and small clearance make the effects stronger; slow down early and keep power available for the rudder; agree overtaking in advance."
+    },
+    {
+      "id": "bw-steer-mca-mgn-199",
+      "title": "MGN 199 (M): Dangers of interaction",
+      "publisher": "UK Maritime and Coastguard Agency",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7b8a30e5274a7318b8f51b/mgn199.pdf",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. UK guidance, used only as evidence of general seamanship. Supports: reduce speed well before passing another vessel in a narrow channel; keep as much distance as practicable; rudder effectiveness falls if the engine is stopped; take extra care when overtaking."
+    },
+    {
+      "id": "bw-steer-wiki-squat",
+      "title": "Squat effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Squat_effect",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. General reference, low authority. Supports: a vessel in shallow water sinks lower and may change trim as water speeds up under and beside the hull; squat is roughly proportional to the square of speed, so halving speed cuts it to about a quarter; felt more when depth is less than about four times draught or near a bank; effects include vibration, poor helm response and sheering; allow for it in under-keel clearance. Prefer a nautical textbook or TC/CHS publication when one is registered."
+    },
+    {
+      "id": "bw-steer-wiki-bank-effect",
+      "title": "Bank effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bank_effect",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. General reference, low authority. Supports: near a bank the stern tends to swing toward the near bank, with a force toward the bank and a yaw that turns the bow toward the middle of the waterway; the effect depends on bank shape, depth, distance, speed and propeller action."
+    },
+    {
+      "id": "bw-steer-wiki-mob-turns",
+      "title": "Man overboard rescue turn",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Man_overboard_rescue_turn",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: Williamson turn (rudder over toward the casualty, after 60 degrees of heading change put the rudder fully the other way, centre the rudder about 20 degrees short of the reciprocal course; usable in any visibility, suits delayed action or a person missing); Anderson turn (single turn of about 250 degrees toward the casualty's side, quickest when the person is still in view); Scharnow turn (about 240 degrees, then opposite rudder, centre about 20 degrees short of the reciprocal; suits a casualty well astern, ends on the reciprocal in the ship's own wake). The page cites seamanship texts, not IMO or IAMSAR."
+    },
+    {
+      "id": "bw-steer-marineinsight-mob",
+      "title": "What is a man overboard situation on a ship and ways to tackle it",
+      "publisher": "Marine Insight",
+      "url": "https://www.marineinsight.com/marine-safety/man-overboard-situation-on-ship-and-ways-to-tackle-it/",
+      "edition": "Accessed 2026-10-06",
+      "kind": "provider-page",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Trade website, moderate authority. Supports a typical action list: shout 'man overboard' with the side, release a lifebuoy with light and smoke, keep a lookout pointing at the person, report to the bridge, hand steering and wheel hard over toward the casualty's side, mark the position (GPS MOB button), sound the alarm, post extra lookouts, display flag O. It also mentions three prolonged whistle blasts, which should be checked against the vessel's own procedure."
+    },
+    {
+      "id": "bw-steer-oow-mob",
+      "title": "Man overboard: OOW and lookout actions",
+      "publisher": "officerofthewatch.co.uk",
+      "url": "https://officerofthewatch.co.uk/?p=583",
+      "edition": "Accessed 2026-10-06",
+      "kind": "provider-page",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Training website, moderate authority. Supports: OOW puts the helm hard over to the side the person fell, releases a lifebuoy with smoke, sounds the alarm, marks position, hoists flag O, calls on VHF; lookouts keep watch on the person and point at them until recovery; which turn to use depends on whether the report is immediate or delayed."
+    },
+    {
+      "id": "bw-steer-wiki-gyrocompass",
+      "title": "Gyrocompass",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gyrocompass",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. General reference. Supports: a gyrocompass settles on true north (the axis of the Earth's rotation), not magnetic north; it needs its wheel running and takes time to settle after starting; rapid changes of course, speed and latitude cause a temporary (steaming) error; it is not affected by ship's iron, so it has no variation or deviation; modern ships correct it with GPS input."
+    },
+    {
+      "id": "bw-steer-cultofsea-high-latitude",
+      "title": "Why is the magnetic compass useless in higher latitude or polar regions?",
+      "publisher": "Cult of Sea (blog)",
+      "url": "https://cultofsea.com/?p=1174",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Low authority blog. Supports only: the magnetic compass depends on the horizontal part of the Earth's magnetic field, which weakens as you approach the magnetic pole, so readings become unreliable. Latitude figures were not found; none are used."
+    },
+    {
+      "id": "bw-steer-ccg-notmar-d30-epirb",
+      "title": "Notice to Mariners annual edition, Section D, D30: Emergency Position Indicating Radiobeacons (EPIRBs) on Ships",
+      "publisher": "Canadian Coast Guard",
+      "url": "https://www.notmar.gc.ca/publications/annual/section-d/d30-en",
+      "edition": "Accessed 2026-10-06",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: only 406 MHz beacons are detected by Cospas-Sarsat; beacons must be coded for Canada and registered; verify and update registration yearly and report transfer or retirement; inspect and test at least every six months; do not use a beacon past its battery expiry; if accidentally activated, switch from ON to ARMED/SAFE and call the Canadian Mission Control Centre at 1-800-211-8107 or 613-965-7265 (phone numbers must be re-checked before publication). Does not mention hydrostatic release."
+    },
+    {
+      "id": "bw-steer-csbc-1-10-1",
+      "title": "The 1-10-1 principle",
+      "publisher": "Canadian Safe Boating Council",
+      "url": "https://csbc.ca/1-10-1-principle/",
+      "edition": "Accessed 2026-10-06",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: cold-water immersion has three stages: cold shock (about 1 minute, control breathing and keep the airway clear), cold incapacitation (about 10 minutes of useful movement, so self-rescue first), hypothermia (about 1 hour before unconsciousness); a lifejacket is essential. Does not cover HELP position or huddling."
+    }
+  ]
+}

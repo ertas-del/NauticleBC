@@ -1,0 +1,231 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.man-overboard.q01",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You see a crew member fall overboard from the port side. What do you do first?",
+      "options": [
+        "Shout \"Man overboard, port side\", throw a lifebuoy, and point at the person",
+        "Run to the bridge to report, leaving the person out of sight",
+        "Jump in after the person",
+        "Wait for the alarm to sound before doing anything"
+      ],
+      "correct_index": 0,
+      "explanation": "The first actions are to raise the alarm and give the side, throw a lifebuoy, and keep pointing at the person so they are not lost from sight. Running off loses sight, jumping in adds a second casualty, and waiting wastes the first seconds.",
+      "source_ids": [
+        "bw-steer-marineinsight-mob",
+        "bw-steer-oow-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q02",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A person falls overboard on the starboard side. In which direction does the officer of the watch put the helm first?",
+      "options": [
+        "Hard over to starboard, toward the side the person fell",
+        "Hard over to port, away from the person",
+        "Midships",
+        "The helm is left alone until the lifebuoy is recovered"
+      ],
+      "correct_index": 0,
+      "explanation": "The sources read say to put the helm hard over toward the side the person fell, which swings the stern, and the propeller, away from the person. Turning away would swing the stern toward them, and leaving the helm alone wastes the moment when the person is closest.",
+      "source_ids": [
+        "bw-steer-oow-mob",
+        "bw-steer-marineinsight-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q03",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does the single-letter flag O mean in the International Code of Signals?",
+      "options": [
+        "Man overboard",
+        "I require assistance",
+        "I am on fire",
+        "Keep clear of me"
+      ],
+      "correct_index": 0,
+      "explanation": "Flag O means man overboard. The other meanings belong to other flags or signals.",
+      "source_ids": [
+        "bw-nga-pub-102-ics"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q04",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description matches the Williamson turn?",
+      "options": [
+        "Rudder over toward the casualty, after 60 degrees put the rudder fully the other way, and centre it about 20 degrees short of the reciprocal course",
+        "A single turn of about 250 degrees toward the casualty",
+        "Stop the ship and put the lifeboat in the water",
+        "Turn 90 degrees away and then return on the same track"
+      ],
+      "correct_index": 0,
+      "explanation": "The Williamson turn is 60 degrees of turn toward the casualty, rudder fully the other way, and rudder centred about 20 degrees short of the reciprocal course. The single turn of about 250 degrees is the Anderson turn.",
+      "source_ids": [
+        "bw-steer-wiki-mob-turns",
+        "bw-steer-oow-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q05",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship is steering 090 and a person falls from the starboard side. She makes a Williamson turn, turning to starboard first. What are the headings at which the rudder is put the other way, and at which it is centred?",
+      "options": [
+        "Other way at 150, centred at about 290",
+        "Other way at 120, centred at about 250",
+        "Other way at 150, centred at about 250",
+        "Other way at 030, centred at about 070"
+      ],
+      "correct_index": 0,
+      "explanation": "The reciprocal of 090 is 270. Sixty degrees of turn to starboard gives 090 + 60 = 150, where the rudder goes the other way (port). The ship then swings to port through 090, 000 and 330 toward 270, and the rudder is centred about 20 degrees short of 270, which is at 290. 250 would be the wrong side of the reciprocal.",
+      "source_ids": [
+        "bw-steer-wiki-mob-turns"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q06",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In good visibility a person has just fallen overboard and is still clearly in sight. Which turn is quickest?",
+      "options": [
+        "The Anderson turn, a single turn toward the casualty's side",
+        "The Williamson turn",
+        "The Scharnow turn",
+        "No turn; stop and wait"
+      ],
+      "correct_index": 0,
+      "explanation": "The Anderson turn is the single-turn manoeuvre that is quickest in immediate action when the person remains in sight. The Williamson takes the ship farther away first, and the Scharnow is for a person well astern or a delayed report.",
+      "source_ids": [
+        "bw-steer-wiki-mob-turns",
+        "bw-steer-oow-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q07",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "It is night with poor visibility, and the person was reported missing some time ago. Which turn is usually chosen to return along the original track?",
+      "options": [
+        "The Williamson turn, which works in any visibility and returns the ship to the reciprocal course",
+        "The Anderson turn, because it is the quickest",
+        "No turn, because the person cannot be found",
+        "A 90 degree turn and full speed ahead"
+      ],
+      "correct_index": 0,
+      "explanation": "The Williamson turn can be used in any visibility and suits a delayed report or a person missing, because it brings the ship back on the reciprocal of her original track. The Anderson turn relies on keeping the person in sight.",
+      "source_ids": [
+        "bw-steer-wiki-mob-turns",
+        "bw-steer-oow-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q08",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which statement correctly describes the Scharnow turn?",
+      "options": [
+        "About 240 degrees of turn, then opposite rudder, centred about 20 degrees short of the reciprocal, ending in the ship's own wake",
+        "A single turn of about 250 degrees ending near the bow",
+        "A turn of 60 degrees followed by hard opposite rudder",
+        "An immediate stop followed by a lifeboat launch"
+      ],
+      "correct_index": 0,
+      "explanation": "The Scharnow turn is about 240 degrees, then opposite rudder, centred 20 degrees short of the reciprocal course. It suits a casualty well astern and ends on the reciprocal in the ship's own wake. A single 250 degree turn is the Anderson turn and 60 degrees is the Williamson turn.",
+      "source_ids": [
+        "bw-steer-wiki-mob-turns",
+        "bw-steer-oow-mob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q09",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A passenger-carrying vessel of 8 m (not more than 15 gross tonnage, 12 passengers or fewer) is being inspected under the Small Vessel Regulations. Which personal life-saving appliance satisfies the heaving line and lifebuoy item for her length, and what else must she carry?",
+      "options": [
+        "A buoyant heaving line of at least 15 m or a lifebuoy on a buoyant line of at least 15 m; also a reboarding device unless the climb is 0.5 m or less",
+        "A lifebuoy with a self-igniting light only; no reboarding device",
+        "Two lifebuoys and a life raft",
+        "No additional appliance is needed beyond lifejackets"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 409(1) gives, for more than 6 m up to 9 m, a buoyant heaving line of not less than 15 m or a lifebuoy attached to a buoyant line of not less than 15 m, and it also requires a reboarding device unless the height to be climbed is 0.5 m or less. The self-igniting light requirement is for vessels over 12 m.",
+      "source_ids": [
+        "bw-svr-sor-2010-91"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.man-overboard.q10",
+      "lesson_id": "bridge-watch.man-overboard",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A person falls into 8 degree Celsius water. According to the 1-10-1 principle, about how long do they have useful movement before cold incapacitation sets in?",
+      "options": [
+        "About 10 minutes",
+        "About 1 minute",
+        "About 1 hour",
+        "About 3 hours"
+      ],
+      "correct_index": 0,
+      "explanation": "The 1-10-1 principle gives about 1 minute for cold shock, about 10 minutes of useful movement before cold incapacitation, and about 1 hour before hypothermia leads to unconsciousness. That is why a fast recovery and a lifejacket matter.",
+      "source_ids": [
+        "bw-steer-csbc-1-10-1"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

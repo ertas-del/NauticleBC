@@ -1,0 +1,158 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.autopilot-changeover.q01",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "In which situation does the Navigation Safety Regulations, 2020, s. 133 require means for immediate changeover from autopilot to manual steering?",
+      "options": [
+        "In an area of high traffic density, in restricted visibility, or in any other hazardous navigational situation",
+        "Only in open ocean at night",
+        "Only when the vessel is alongside",
+        "Only when the master is on the bridge"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(1) names high traffic density, restricted visibility and any other hazardous navigational situation. Open ocean at night is not named and is usually less hazardous; alongside, the autopilot is not used; and the master's presence does not change the requirement.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q02",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "The vessel is on autopilot in heavy fog. Who must ensure that a qualified helmsman is available at all times to take over steering?",
+      "options": [
+        "The person in charge of the deck watch",
+        "The helmsman himself",
+        "The chief engineer",
+        "The shore manager"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(2) puts this duty on the person in charge of the deck watch. The helmsman is the person who may be called on, but the duty to make him available is the officer's.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q03",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "Who must make, or supervise, a changeover from hand steering back to autopilot?",
+      "options": [
+        "The person in charge of the deck watch makes it or supervises it",
+        "Only a changeover to hand steering needs supervision; changeover back is the helmsman's own decision",
+        "The helmsman alone",
+        "The engineer on watch"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(3) says every changeover, from the heading or track control system to manual steering and vice versa, must be made by or under the supervision of the person in charge of the deck watch. The 'only to hand steering' option misreads 'and vice versa'.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q04",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "How often must manual steering be tested, and when else?",
+      "options": [
+        "At least once a day and before entering any area where navigation demands special caution, while the autopilot is not in use",
+        "Once a week and only after repairs",
+        "Once a month and before every departure only",
+        "Only when the autopilot fails"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(4) requires the test at least once a day and before the vessel enters any area demanding special caution, with the autopilot not in use. Weekly or monthly is too seldom, and waiting for a failure defeats the purpose of the test.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q05",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "easy",
+      "stem": "What term do the Navigation Safety Regulations, 2020 use for an autopilot?",
+      "options": [
+        "Heading or track control system",
+        "Automatic helm unit",
+        "Steering computer",
+        "Rudder assist system"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133 refers to the heading or track control system. The other names are informal and do not appear in that section.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q06",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "You are asked to check that the autopilot is holding the course. Which action best does this?",
+      "options": [
+        "Compare the autopilot heading with the compass or gyro repeater and watch the vessel's progress against the track",
+        "Check only that the autopilot display shows the ordered heading",
+        "Switch the autopilot off to see whether the ship stays on course",
+        "Ask the engine room for the rudder position"
+      ],
+      "correct_index": 0,
+      "explanation": "An independent comparison with the compass or gyro repeater, plus a look at the track, shows whether the autopilot is doing its job. The autopilot's own display could be wrong, switching it off is a changeover that needs the OOW, and the engine room has no rudder indicator.",
+      "source_ids": ["bw-tp10936-ed2-html"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q07",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Scenario: you are on autopilot on a heading of 090. The tide is setting the ship steadily north, and the ship is moving off her planned track although the compass and autopilot both read 090. What does this show?",
+      "options": [
+        "A heading can be correct while the vessel is off track, so the position must be checked against the track",
+        "The autopilot has failed",
+        "The compass is wrong",
+        "The ship is on the planned track"
+      ],
+      "correct_index": 0,
+      "explanation": "Heading control holds a compass heading only; tide or wind can set the ship off the track. The compass and autopilot agree, so neither has failed. The right response is to report the set and correct the course.",
+      "source_ids": ["bw-tp10936-ed2-html", "bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q08",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "medium",
+      "stem": "To which group of Canadian vessels do ss. 133 to 136 of the Navigation Safety Regulations, 2020 apply?",
+      "options": [
+        "Vessels not subject to Chapter V of SOLAS (Division 5 of Part 1)",
+        "Only vessels of 10 000 gross tonnage or more",
+        "Only pleasure craft",
+        "Only foreign vessels"
+      ],
+      "correct_index": 0,
+      "explanation": "These sections are in Division 5, headed Additional Requirements: Vessels Not Subject to Chapter V of SOLAS. Division 5 does not apply to vessels covered by Division 2. Larger SOLAS vessels have equivalent duties through SOLAS itself.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.autopilot-changeover.q09",
+      "lesson_id": "bridge-watch.autopilot-changeover",
+      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "difficulty": "hard",
+      "stem": "Scenario: the OOW says \"Take the wheel, I'm going to switch to hand steering.\" The helmsman says he cannot, because he has just come on deck from a rest and needs a few minutes. Visibility is falling and traffic is increasing. What is the problem?",
+      "options": [
+        "A qualified helmsman was required to be available at all times, so the OOW should have had one ready earlier",
+        "There is no problem; the helmsman should have been given the wheel in good weather only",
+        "The helmsman, not the OOW, is responsible for being ready",
+        "Manual steering is never allowed in restricted visibility"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(2) makes the person in charge of the deck watch responsible for ensuring a qualified helmsman is available at all times in restricted visibility, high traffic or other hazardous situations. The OOW should have called the helmsman before conditions worsened. Manual steering is exactly what is expected in these conditions, not forbidden.",
+      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

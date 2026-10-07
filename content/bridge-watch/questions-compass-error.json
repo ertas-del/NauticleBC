@@ -1,0 +1,227 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.compass-error.q01",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which statement about variation and deviation is correct?",
+      "options": [
+        "Variation depends on the place; deviation is caused by the ship's own magnetism and changes with her heading",
+        "Variation depends on the ship's heading; deviation depends on the place",
+        "Both depend only on the place",
+        "Both are the same thing and are printed on every chart"
+      ],
+      "correct_index": 0,
+      "explanation": "Variation is the angle between true and magnetic north and changes from place to place. Deviation is the angle between magnetic and compass north, caused by the iron and electrical gear in the ship, and it changes with her heading, trim and loading, so each ship keeps a deviation table or curve. The other options swap or merge the two.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q02",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Variation is 12 degrees west and deviation is 4 degrees east. What is the compass error?",
+      "options": [
+        "8 degrees west",
+        "16 degrees west",
+        "8 degrees east",
+        "16 degrees east"
+      ],
+      "correct_index": 0,
+      "explanation": "Compass error is variation plus deviation, with east counted as plus and west as minus: -12 + 4 = -8, which is 8 degrees west. Adding the two numbers without regard to their names gives 16, which is wrong because they act in opposite directions.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q03",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the correct order of the five headings in the chain from true to compass?",
+      "options": [
+        "True, Variation, Magnetic, Deviation, Compass",
+        "True, Deviation, Magnetic, Variation, Compass",
+        "Compass, Variation, Magnetic, Deviation, True",
+        "True, Magnetic, Variation, Compass, Deviation"
+      ],
+      "correct_index": 0,
+      "explanation": "The order is True, Variation, Magnetic, Deviation, Compass (T V M D C). Variation sits between true and magnetic, deviation between magnetic and compass. The third option is the same order reversed, which is the compass to true direction but not the standard order of writing.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q04",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The compass reads 087 and the compass error is 6 degrees west. What is the true heading?",
+      "options": [
+        "081",
+        "093",
+        "087",
+        "075"
+      ],
+      "correct_index": 0,
+      "explanation": "Compass to true: subtract westerly error, so 087 - 6 = 081. The answer 093 adds the westerly error, which would be correct for true to compass. 075 uses the wrong amount.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q05",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The chart course is true 270 and the compass error is 10 degrees east. What compass heading should the helmsman steer?",
+      "options": [
+        "260",
+        "280",
+        "270",
+        "250"
+      ],
+      "correct_index": 0,
+      "explanation": "True to compass: subtract easterly error, so 270 - 10 = 260. An easterly error means the compass reads low, so the compass heading must be lower than true. 280 comes from adding instead.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q06",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "True heading 100, variation 10 degrees west, deviation 3 degrees east. What are the magnetic heading and the compass heading?",
+      "options": [
+        "Magnetic 110, compass 107",
+        "Magnetic 090, compass 093",
+        "Magnetic 110, compass 113",
+        "Magnetic 107, compass 110"
+      ],
+      "correct_index": 0,
+      "explanation": "True to magnetic with westerly variation: add, 100 + 10 = 110. Magnetic to compass with easterly deviation: subtract, 110 - 3 = 107. Total error is 10 W + 3 E = 7 W, and true to compass adds westerly error: 100 + 7 = 107, which agrees.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q07",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A gyro repeater reads 004 and the gyro error is 3 degrees east. What is the true heading?",
+      "options": [
+        "007",
+        "001",
+        "004",
+        "357"
+      ],
+      "correct_index": 0,
+      "explanation": "Gyro error is applied like compass error. Gyro to true with easterly error means add: 004 + 3 = 007. 001 subtracts instead, which would be correct for a westerly error.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions",
+        "bw-steer-wiki-gyrocompass"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q08",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Scenario: the compass reads 355 and the compass error is 10 degrees east. What is the true heading?",
+      "options": [
+        "005",
+        "345",
+        "365",
+        "355"
+      ],
+      "correct_index": 0,
+      "explanation": "Compass to true with easterly error means add: 355 + 10 = 365. A heading cannot exceed 360, so subtract 360 and the true heading is 005. 345 subtracts instead of adding, and 365 forgets to wrap round.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q09",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is deviation not printed on a chart?",
+      "options": [
+        "It belongs to the individual ship, her trim, load, heading and compass position, so it is read from her own deviation card",
+        "It is the same everywhere, so it is not needed",
+        "It is the same as variation",
+        "It is printed only on tide tables"
+      ],
+      "correct_index": 0,
+      "explanation": "Deviation depends on the ship and the heading, not on the chart area, so each ship keeps a deviation table or curve near the compass. It is not the same as variation, and it does not appear on tide tables.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions",
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.compass-error.q10",
+      "lesson_id": "bridge-watch.compass-error",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A ship has an easterly compass error. How does the compass reading compare with the true heading?",
+      "options": [
+        "The compass reads lower than true",
+        "The compass reads higher than true",
+        "The compass reads the same as true",
+        "It depends on the sign of the variation only"
+      ],
+      "correct_index": 0,
+      "explanation": "An easterly error rotates the card clockwise so smaller numbers sit at the lubber line: the compass reads low. A westerly error makes it read high.",
+      "source_ids": [
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
