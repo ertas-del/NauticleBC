@@ -1,0 +1,215 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.maintenance-and-repair.q01",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A welder finishes a job at 14:00 on a deck close to cargo. The qualified person decides a fire watch is necessary afterwards. For how long does the regulation say it continues, at most as a set period?",
+      "options": [
+        "30 minutes",
+        "2 hours",
+        "15 minutes",
+        "5 minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "A qualified person keeps a fire protection watch for the duration of the work and, if the qualified person decides it is necessary, for 30 minutes after the work is completed. Enough extinguishers must also be provided.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q02",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A cargo space might still hold petrol vapour. Under what condition may hot work be done there?",
+      "options": [
+        "If the hatch is left open",
+        "Only if the area has been freed of gas, tested by a marine chemist or other qualified person and found safe for that work",
+        "Never, under any circumstances",
+        "If the work is done quickly"
+      ],
+      "correct_index": 1,
+      "explanation": "Hot work must not be done where flammable gas, vapour or dust may be present unless the area has been freed of gas, tested by a marine chemist or other qualified person and found safe. Opening a hatch or working quickly is not a test.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q03",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these needs a written work permit before work starts?",
+      "options": [
+        "Greasing a hinge",
+        "Entering a confined space such as a tank",
+        "Washing a window",
+        "Sweeping the deck"
+      ],
+      "correct_index": 1,
+      "explanation": "The employer must issue a written work permit before work that requires entry into a confined space, and before any other work assessed as hazardous (which includes hot work that presents a hazard capable of causing death or serious injury). Sweeping, greasing and washing do not need one.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q04",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "What does the regulation require the employer to develop and implement to avoid failures that could create a hazard to employees?",
+      "options": [
+        "A cargo plan",
+        "A watch bill",
+        "A passage plan",
+        "A preventive maintenance programme"
+      ],
+      "correct_index": 3,
+      "explanation": "The employer must develop and implement a preventive maintenance programme to avoid failures that could result in a hazard to employees. The other plans are separate documents with other purposes.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q05",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "You find that the buckle of a harness is cracked. What must happen?",
+      "options": [
+        "Keep using it and tell the bosun at the end of the week",
+        "Use it for light work only",
+        "Repair it yourself with tape",
+        "Report the defect as soon as feasible; the employer marks or tags it unsafe and removes it from service"
+      ],
+      "correct_index": 3,
+      "explanation": "A defect in protection equipment must be reported as soon as feasible, and the employer must mark or tag it as unsafe and remove it from service. Taping it or continuing to use it leaves a hidden hazard.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q06",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "What does 'lock out' mean?",
+      "options": [
+        "Locking a cabin door",
+        "Placing a lock on equipment or an energy-isolating device, by an established procedure, so it is not operated until the lock is removed by that procedure",
+        "Switching a machine off at the control panel only",
+        "Locking the crew out of the engine room"
+      ],
+      "correct_index": 1,
+      "explanation": "Lock out is placing a lock on equipment, machines or energy-isolating devices, following an established procedure, to show they must not be operated until the lock is removed by that procedure. Switching off at the panel alone does not isolate the energy source.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q07",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A person is painting from a staging over the side. What must be done with tools and materials?",
+      "options": [
+        "Throw them down to the deck when finished",
+        "Put them on the edge for easy reach",
+        "Arrange or secure them so they cannot be knocked off",
+        "Leave them loose on the plank"
+      ],
+      "correct_index": 2,
+      "explanation": "Tools, equipment and materials on a temporary or raised structure must be arranged or secured so they cannot be knocked off accidentally. Where a toe board is not possible, tools are tied on or a net is used.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q08",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A bosun asks you to freshen a non-metallic (fibreglass) portable ladder with a coat of paint. What is the correct response?",
+      "options": [
+        "Do not paint it: a non-metallic portable ladder must not be painted",
+        "Paint the rungs only",
+        "Paint it all over",
+        "Paint it only if it is under 2 m long"
+      ],
+      "correct_index": 0,
+      "explanation": "The Regulations say a non-metallic portable ladder must not be painted. The usual reason is that paint can hide cracks and damage, so the ladder cannot be inspected properly.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q09",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "A frayed nylon mooring line is to be got rid of at sea. What does the Vessel Pollution and Dangerous Chemicals Regulations rule say?",
+      "options": [
+        "Plastics, which include synthetic ropes, may never be thrown overboard",
+        "It may be thrown overboard if cut into short pieces",
+        "It may be thrown overboard beyond 12 nm",
+        "It may be thrown overboard because it is only rope"
+      ],
+      "correct_index": 0,
+      "explanation": "Plastics may never be thrown overboard, and the term includes synthetic ropes, synthetic fishing nets and plastic garbage bags. The distance limits apply to other kinds of garbage, not to plastics.",
+      "source_ids": [
+        "bw-vpdcr-sor-2012-69"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.maintenance-and-repair.q10",
+      "lesson_id": "seamanship.maintenance-and-repair",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "A deck-house wall is 8 m long and 2.5 m high. It needs 2 coats of paint that covers 10 square metres per litre per coat. Allowing 10 per cent extra, how many litres should be drawn?",
+      "options": [
+        "5.5 litres",
+        "8.8 litres",
+        "4.0 litres",
+        "4.4 litres"
+      ],
+      "correct_index": 3,
+      "explanation": "Area = 8 x 2.5 = 20 m2. For 2 coats: 20 x 2 / 10 = 4.0 litres. Add 10 per cent: 4.0 x 1.10 = 4.4 litres. Forgetting the extra gives 4.0 litres, and forgetting to divide gives much larger figures.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -6,10 +6,24 @@
   "time_limit_minutes": 120,
   "pass_mark_percent": 70,
   "blueprint": [
-    { "module": "colregs", "count": 90 },
-    { "module": "tides", "count": 10 }
+    {
+      "module": "colregs",
+      "count": 80
+    },
+    {
+      "module": "bridge-watch",
+      "count": 15
+    },
+    {
+      "module": "tides",
+      "count": 5
+    }
   ],
-  "notes": "Practice format, not the official Transport Canada exam. The shape (100 multiple-choice questions, 120 minutes, 70 per cent) follows what training providers report for Navigation Safety Level 1 and the 2019 draft of TP 2293; neither has been confirmed against the current TP 2293, and the real exam may differ. The module weighting is our own choice for now: only modules with enough questions on the main branch are used, so COLREGs gets 90 questions and tides 10. The brief's intended weighting is about 70 per cent COLREGs, 20 per cent watchkeeping and bridge resource management, and 10 per cent buoyage and radio calls; the bridge-watch and seamanship shares will be added when those modules merge, and the blueprint should then be rebalanced. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
-  "source_ids": ["sixty-holland-ns1", "sixty-tp2293-2019-draft", "sixty-mpr-sor-2007-115-xml"],
+  "notes": "Practice format, not the official Transport Canada exam. The shape (100 multiple-choice questions, 120 minutes, 70 per cent) follows what training providers report for Navigation Safety Level 1 and the 2019 draft of TP 2293; neither has been confirmed against the current TP 2293, and the real exam may differ. The module weighting is our own choice for now: 80 COLREGs, 15 bridge-watch (watchkeeping, look-out and bridge procedures) and 5 tides. The brief's intended weighting is about 70 per cent COLREGs, 20 per cent watchkeeping and bridge resource management, and 10 per cent buoyage and radio calls; the radio and remaining shares will be added when those modules merge, and the blueprint should then be rebalanced. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
+  "source_ids": [
+    "sixty-holland-ns1",
+    "sixty-tp2293-2019-draft",
+    "sixty-mpr-sor-2007-115-xml"
+  ],
   "review_status": "needs_expert_review"
 }

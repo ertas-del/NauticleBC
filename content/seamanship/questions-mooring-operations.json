@@ -1,0 +1,234 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.mooring-operations.q01",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these is the complete set of the six usual mooring lines of a ship alongside?",
+      "options": [
+        "Head line, forward breast line, forward spring, aft spring, aft breast line, stern line",
+        "Bow line, stern line, two stoppers, two messengers, one painter",
+        "Forward breast line, aft breast line, bridle, warp, hawser, painter",
+        "Head line, tug line, forward spring, aft spring, heaving line, stopper"
+      ],
+      "correct_index": 0,
+      "explanation": "The usual six lines are the head line, forward breast line, forward spring, aft spring, aft breast line and stern line. Stoppers, messengers, heaving lines and tug lines are used in mooring but are not part of that standard set.",
+      "source_ids": [
+        "sea-b-wikipedia-mooring",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q02",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which lines mainly hold the ship in against the berth, leading roughly square to the ship?",
+      "options": [
+        "Breast lines",
+        "Springs",
+        "Head and stern lines only",
+        "Stoppers"
+      ],
+      "correct_index": 0,
+      "explanation": "Breast lines lead roughly across the ship and hold her in to the berth. Springs lead along the ship and stop fore-and-aft movement, the head and stern lines hold the ends, and a stopper is a temporary load-holding line, not a mooring line.",
+      "source_ids": [
+        "sea-b-wikipedia-mooring",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q03",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship is made fast alongside and wind is pushing her astern along the berth. Which line most directly resists this movement?",
+      "options": [
+        "The aft spring, leading forward from the stern",
+        "The forward spring, leading aft from the bow",
+        "The forward breast line",
+        "The aft breast line"
+      ],
+      "correct_index": 0,
+      "explanation": "The aft spring leads forward from the stern, so it opposes movement astern. The forward spring opposes movement ahead, and breast lines hold her in against the berth rather than stopping her sliding along it. (Check the names and jobs against your ship's mooring plan.)",
+      "source_ids": [
+        "sea-b-wikipedia-mooring",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q04",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What are bitts and bollards?",
+      "options": [
+        "Bitts hold the anchor and bollards hold the gangway",
+        "Bitts are posts on the ship's deck that take a line quickly and release it quickly; bollards are shore-side posts with rings and cleats",
+        "Bitts are the shore posts and bollards are the ship's deck posts",
+        "Both are names for the winch drum"
+      ],
+      "correct_index": 1,
+      "explanation": "Bitts are on the ship's deck and take a line quickly and let it go quickly. Bollards (together with rings and cleats) are the shore-side attachment points. The reverse option swaps them, and neither is a winch drum or an anchor fitting.",
+      "source_ids": [
+        "sea-b-wikipedia-mooring",
+        "sea-a-wikipedia-nautical-glossary"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q05",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is a heavily loaded nylon mooring line especially dangerous if it parts?",
+      "options": [
+        "Nylon is brittle and shatters",
+        "It sinks and fouls the propeller",
+        "It gives off toxic fumes",
+        "It stores energy as it stretches and can snap back violently, causing serious or fatal injury"
+      ],
+      "correct_index": 3,
+      "explanation": "Nylon stretches a great deal and stores energy; when a highly stressed line parts it can snap back catastrophically. It does not shatter like glass, the propeller risk belongs to a line in the water, and no toxic fumes are involved.",
+      "source_ids": [
+        "bw-watch-mca-mgn592-mooring",
+        "sea-b-wikipedia-mooring"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q06",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are told to heave on the forward spring. A deckhand stands in the loop (bight) of slack line on deck to watch the drum. What is the correct judgement?",
+      "options": [
+        "Acceptable: the line is still slack",
+        "Unsafe: nobody should stand in a bight because the line can tighten or snap back without warning",
+        "Acceptable if the line is polypropylene",
+        "Acceptable if wearing gloves"
+      ],
+      "correct_index": 1,
+      "explanation": "No one should stand in a bight or in the snap-back zone of a line. A slack line comes taut in an instant, gloves do not stop the line closing, and the fibre type does not make a bight safe.",
+      "source_ids": [
+        "bw-watch-mca-mgn592-mooring",
+        "sea-b-wikipedia-mooring"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q07",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A mooring line is loaded and the crew need to shift it from the winch drum to the bitts. What should they do first?",
+      "options": [
+        "Throw the line off the drum and run clear",
+        "Put a stopper on it, using a rolling hitch, and take the load on the stopper",
+        "Ask the shore party to slack the line",
+        "Cut the line and re-join it"
+      ],
+      "correct_index": 1,
+      "explanation": "A stopper, hitched to the line with a rolling hitch, holds the load while the main line is shifted. The rolling hitch grips the line and resists slipping in the direction of pull. Cutting, releasing it all at once or relying on the shore party are all unsafe or uncontrolled.",
+      "source_ids": [
+        "sea-a-usace-marlinspike-seamanship",
+        "sea-a-jutsum-knots-bends-splices"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q08",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "While heaving in, the officer sees a fairlead and the line leading through it showing excessive strain. What does the guidance say to do?",
+      "options": [
+        "Wait until the strain eases by itself",
+        "Belay the line and leave the area unwatched",
+        "Heave harder to take up the strain",
+        "Reduce the load at once and keep everyone clear of the line's path"
+      ],
+      "correct_index": 3,
+      "explanation": "When a line or its fittings show excessive strain the load must be reduced at once, and people must stay clear of the snap-back zone. Heaving harder adds load, and waiting or leaving the line unwatched allows a failure to happen.",
+      "source_ids": [
+        "bw-watch-mca-mgn592-mooring",
+        "sea-b-wikipedia-mooring"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q09",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel listed in Schedule 4 of the Navigation Safety Regulations will leave its berth at 09:40. What does the regulation require around that departure?",
+      "options": [
+        "A listening watch from 09:25 but no call",
+        "A call at 09:40 only, with no listening watch needed",
+        "A listening watch from 09:00 and one call at 09:00",
+        "A continuous VHF listening watch from 09:25 and navigation safety calls at 09:25 and immediately before departure"
+      ],
+      "correct_index": 3,
+      "explanation": "The continuous listening watch begins 15 minutes before the vessel is underway (09:25 here), and a Schedule 4 vessel makes a navigation safety call 15 minutes before and again immediately before departure. The other options use the wrong time, drop the second call or omit one of the duties.",
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.mooring-operations.q10",
+      "lesson_id": "seamanship.mooring-operations",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which load rule applies to mooring winches, bitts and lines?",
+      "options": [
+        "The limit applies only in port",
+        "They must never be loaded beyond their safe working load",
+        "They may be loaded to their breaking strength once",
+        "Only the winch has a limit"
+      ],
+      "correct_index": 1,
+      "explanation": "Equipment must not be used with a load above its safe working load, and the SWL is well below breaking strength. The limit applies to every piece of the system and is not tied to being in port.",
+      "source_ids": [
+        "bw-mohs-sor-2010-120",
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
