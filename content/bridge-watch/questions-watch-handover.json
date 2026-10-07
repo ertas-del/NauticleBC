@@ -1,0 +1,203 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.watch-handover.q01",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "The relieving officer arrives for the watch but the officer in charge believes the relief is too unwell to carry out the duties effectively. What must the officer in charge do?",
+      "options": [
+        "Hand over but ask the relief to keep the radio on",
+        "Not hand over the watch and notify the master",
+        "Hand over anyway, since the relief is on time",
+        "Hand over to the rating and leave the bridge"
+      ],
+      "correct_index": 1,
+      "explanation": "The watch is not handed over to someone believed incapable, and the master is notified. Handing over anyway or leaving the bridge to a rating breaks the principles.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q02",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At 0356 a vessel is crossing close ahead and the officer of the watch is altering course to avoid it. The relief arrives at 0358. What should happen?",
+      "options": [
+        "Handover is deferred until the manoeuvre has been completed",
+        "The relief takes over immediately because the relief is on time",
+        "The relief takes over and the outgoing officer leaves",
+        "The master is called to hand over"
+      ],
+      "correct_index": 0,
+      "explanation": "If a manoeuvre or action to avoid a hazard is under way, the relief is deferred until it has been completed. The outgoing officer knows what is happening and should finish.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q03",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "It is midnight. A relieving officer has just come from a brightly lit mess room. Which statement is correct?",
+      "options": [
+        "They may take over at once as eyesight is unimportant at night",
+        "They may take over but only if the radar is on",
+        "They must wait until sunrise",
+        "They should not take over until their vision is fully adjusted to the light conditions"
+      ],
+      "correct_index": 3,
+      "explanation": "The relieving officer must be fit and not take over the watch until their vision is fully adjusted to the light. Waiting until sunrise is unnecessary and radar does not replace vision.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q04",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these must the relieving officer confirm before taking over the watch?",
+      "options": [
+        "The crew's pay rates",
+        "The galley stores list",
+        "The ship's position, intended track, course and speed, plus expected dangers",
+        "The cargo manifest and passenger names"
+      ],
+      "correct_index": 2,
+      "explanation": "Before taking over, the relieving officer satisfies themselves about position, track, course and speed and notes expected dangers. The other items have no bearing on navigation.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q05",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list matches things the relieving officer also checks at handover?",
+      "options": [
+        "Lifeboat weights and anchor chain colour",
+        "Master's standing orders, draught, tides and currents, weather and visibility, equipment condition, compass errors and nearby ships",
+        "Menu, crew rota, shore leave list and fuel price",
+        "Radio licence, passports, galley stores and paint stocks"
+      ],
+      "correct_index": 1,
+      "explanation": "The relieving officer checks standing orders, draught, tides, currents, weather, visibility, engine procedures, equipment condition, compass errors, other ships and expected hazards.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q06",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When must the watch officer leave the bridge?",
+      "options": [
+        "Not until properly relieved",
+        "Whenever the autopilot is on",
+        "At the end of the clock hour, relieved or not",
+        "Whenever the master comes on the bridge"
+      ],
+      "correct_index": 0,
+      "explanation": "The principle is that the officer does not leave the bridge until properly relieved, even if the master arrives.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q07",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In which situations do the watch relief and handover requirements apply?",
+      "options": [
+        "At sea only",
+        "In port only",
+        "In restricted visibility only",
+        "At sea, at anchor and in port"
+      ],
+      "correct_index": 3,
+      "explanation": "TP 10936 lists relief, maintenance and handover of the watch at sea, at anchor and in port.",
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q08",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A helmsman is relieved at the wheel. Which handover is best?",
+      "options": [
+        "\"Follow the ship ahead.\" The relief says nothing",
+        "\"Course is on the chart.\" The relief goes to look at the chart",
+        "\"Course 245 gyro, standby magnetic reads 252, ship pulls slightly to port.\" The relief repeats it back",
+        "\"Just keep her straight.\" The relief nods"
+      ],
+      "correct_index": 2,
+      "explanation": "The helmsman gives the course, which compass is in use and any steering peculiarities, and the relief repeats it back. The vague options leave the relief without the facts.",
+      "source_ids": [
+        "bw-watch-navedtra-14067-pages"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watch-handover.q09",
+      "lesson_id": "bridge-watch.watch-handover",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A relieving rating arrives to take the look-out at 0200 after reading in the lit crew mess. The outgoing look-out is about to leave. Which is the best action?",
+      "options": [
+        "Tell the relief to use the radar instead of their eyes",
+        "Allow the relief time for their eyes to adjust, keep the look-out meanwhile, and then hand over",
+        "Hand over immediately, since the watch should change on the hour",
+        "Leave the post empty until the relief is ready"
+      ],
+      "correct_index": 1,
+      "explanation": "The relief must be fit and have adjusted vision, and the post must not be left empty. The outgoing look-out stays until a capable relief takes over. Radar does not replace the look-out.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
