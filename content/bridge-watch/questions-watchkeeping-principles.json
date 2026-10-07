@@ -1,0 +1,225 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.watchkeeping-principles.q01",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which regulation section makes the STCW A-VIII/2 watchkeeping principles apply to Canadian vessels, and what two things does the master have to ensure?",
+      "options": [
+        "MPR s. 320: the crew have enough rest and a deck watch is kept",
+        "Navigation Safety Regulations s. 137: a working language is chosen and recorded",
+        "MPR s. 213: the voyage is planned and a deck watch is kept in line with A-VIII/2 Parts 2, 3 and 3-1",
+        "MPR s. 171: the voyage is planned and the rating holds Bridge Watch Rating"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 213 of the MPR is the link to A-VIII/2 and names voyage planning and keeping a deck watch. Section 171 is the Bridge Watch Rating certificate, s. 320 is hours of rest and s. 137 of the Navigation Safety Regulations is the working language.",
+      "source_ids": [
+        "bw-mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q02",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the first principle of watchkeeping on the bridge?",
+      "options": [
+        "The bridge may be left unattended when at anchor",
+        "The bridge must never be left unattended",
+        "The bridge may be left unattended in daylight",
+        "The bridge may be left unattended if the autopilot is on"
+      ],
+      "correct_index": 1,
+      "explanation": "The bridge must never be left unattended. Daylight, autopilot and being at anchor do not change that.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q03",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is NOT one of the factors the master weighs when deciding how many people are needed on watch?",
+      "options": [
+        "The colour of the hull",
+        "The state of the navigation aids",
+        "Whether automatic steering is in use",
+        "Radio duties that take the officer's attention"
+      ],
+      "correct_index": 0,
+      "explanation": "The listed factors are weather, visibility, daylight or darkness, closeness of navigational hazards, state of navigation aids, automatic steering, radio duties and unusual operational demands. Hull colour is not one of them.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q04",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A watch officer finishes a quick chart check and wants to go below for five minutes while a rating steers. What do the principles say?",
+      "options": [
+        "The officer may go if the rating has at least 6 months of experience",
+        "The officer may go if the radar is on",
+        "The officer may go in daylight in open water",
+        "The officer must not leave the bridge until properly relieved"
+      ],
+      "correct_index": 3,
+      "explanation": "In no circumstances may the officer leave the bridge until properly relieved. The rating's experience, radar and daylight do not alter that.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q05",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At 0300 the master walks onto the bridge and watches in silence from the chair. A vessel appears on the bow. Who is responsible for safe navigation?",
+      "options": [
+        "The rating who first saw the vessel",
+        "Both equally until the vessel has passed",
+        "The officer of the watch, until the master explicitly takes over and it is understood",
+        "The master, from the moment of arrival on the bridge"
+      ],
+      "correct_index": 2,
+      "explanation": "The officer remains responsible until the master explicitly takes over responsibility and both understand it. Simply being present does not transfer it, and a rating never takes it over.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q06",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does the principle on regular checks require of the officer of the watch?",
+      "options": [
+        "Check the crew's hours of rest each watch",
+        "Check the course steered, the position and the speed at regular intervals so the vessel follows the planned route",
+        "Check the engine room temperatures every hour",
+        "Check the passage plan only at the start of the watch"
+      ],
+      "correct_index": 1,
+      "explanation": "The principle names course, position and speed, checked regularly against the planned route. Engine temperatures and rest hours are other jobs, and checking only once at the start is not \"regular\".",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q07",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is required of the officer of the watch regarding bridge equipment?",
+      "options": [
+        "Full knowledge of the location and operation of all safety and navigational equipment",
+        "Knowledge of the radar only, since other equipment is optional",
+        "The ability to repair any equipment fault underway",
+        "Knowledge of the manuals only, not the location"
+      ],
+      "correct_index": 0,
+      "explanation": "The officer must know where all the safety and navigational equipment is and how to operate it. Repair skills are not what the principle asks for.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q08",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The officer of the watch is on a quiet night watch and decides to do cargo paperwork at the chart table. Which principle does this conflict with?",
+      "options": [
+        "The officer must leave the bridge at 0300",
+        "The officer must be relieved every hour",
+        "The officer must steer by hand",
+        "The officer must not undertake any other duty that would interfere with safe navigation"
+      ],
+      "correct_index": 3,
+      "explanation": "The principles say the officer must not take on duties that interfere with safe navigation. Paperwork that takes attention from the watch is exactly that. The other options do not appear in the principles.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q09",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel crosses open water in daylight with the autopilot on, a calm sea and good visibility. The master says the autopilot makes the watch factors irrelevant. What is the best answer?",
+      "options": [
+        "The master is right, so only the radar needs to be checked",
+        "The master is wrong because automatic steering is never allowed in daylight",
+        "Automatic steering is only one of the factors; weather, visibility, hazards, radio duties and other demands still decide whether more people are needed",
+        "The master is right, so a watch is not needed with the autopilot on"
+      ],
+      "correct_index": 2,
+      "explanation": "Automatic steering is one factor in the list, not a replacement for the watch. The bridge still must not be unattended and the officer still keeps the watch. Nothing in the principles bans autopilot use in daylight.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.watchkeeping-principles.q10",
+      "lesson_id": "bridge-watch.watchkeeping-principles",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which item does a relieving officer check at handover that links to the master's authority?",
+      "options": [
+        "The ship's mooring plan alongside",
+        "The master's standing orders for navigation",
+        "The galley menu",
+        "The crew's shore leave list"
+      ],
+      "correct_index": 1,
+      "explanation": "The relieving officer checks the master's standing orders along with position, course, speed, draught, weather, equipment and traffic.",
+      "source_ids": [
+        "bw-watch-amsa242-paras"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
