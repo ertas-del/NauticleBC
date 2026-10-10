@@ -1,0 +1,291 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.safety.safe-working-practices.q01",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before servicing a machine that could start automatically, the most important step is to:",
+      "options": [
+        "Run it for an hour first",
+        "Isolate it and lock out the power so it cannot start",
+        "Check the spares inventory",
+        "Note the running hours"
+      ],
+      "correct_index": 1,
+      "explanation": "Lockout and tag-out protects you from accidental start-up.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q02",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "WHMIS helps engine-room workers by providing:",
+      "options": [
+        "Tide tables",
+        "Labels and safety data sheets for hazardous products",
+        "Engine tuning charts",
+        "Crew rosters"
+      ],
+      "correct_index": 1,
+      "explanation": "WHMIS is hazard communication for workplace chemicals.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q03",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which set lists the three basic workers' rights under occupational health and safety law in Canada?",
+      "options": [
+        "Right to overtime, right to a pension, right to strike",
+        "Right to a cabin, right to leave, right to a bonus",
+        "Right to know, right to participate, right to refuse unsafe work",
+        "Right to inspect, right to fine, right to hire"
+      ],
+      "correct_index": 2,
+      "explanation": "Know, participate, refuse. Check provincial and federal wording with an examiner.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q04",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before entering a confined space such as a tank, you must at minimum:",
+      "options": [
+        "Hold your breath and enter quickly",
+        "Test the atmosphere and make sure it is safe and ventilated, with a standby person",
+        "Enter if the hatch has been open for a minute",
+        "Send in a lit torch to check for gas"
+      ],
+      "correct_index": 1,
+      "explanation": "Oxygen deficiency and toxic or flammable gas kill quickly. Test, ventilate, control entry.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q05",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Hot work (welding, grinding, cutting) aboard should only start after:",
+      "options": [
+        "The engine has been running for 10 minutes",
+        "The crew have eaten",
+        "The bilges have been pumped",
+        "Surrounding hazards are cleared and a fire watch and extinguisher are in place"
+      ],
+      "correct_index": 3,
+      "explanation": "Remove combustibles, check adjoining spaces, and keep a fire watch.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q06",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A safety data sheet (SDS) for a cleaning solvent tells you:",
+      "options": [
+        "The hazards, protective equipment, first aid, fire and spill advice for the product",
+        "The tide times at the dock",
+        "The fuel burn of the engine",
+        "The price and supplier discount"
+      ],
+      "correct_index": 0,
+      "explanation": "The SDS is the full hazard information for a product under WHMIS. The label gives the short summary, and the SDS gives the detail.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q07",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Which PPE protects against the noise of running engines?",
+      "options": [
+        "Safety glasses",
+        "Rubber gloves",
+        "A hard hat",
+        "Earmuffs or earplugs"
+      ],
+      "correct_index": 3,
+      "explanation": "Hearing protection is worn in noisy machinery spaces. Prolonged noise damages hearing without pain, so it is easy to ignore.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q08",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Why should you avoid loose clothing, jewellery and dangling lanyards near an engine room?",
+      "options": [
+        "They can catch on rotating shafts and belts and pull you in",
+        "They attract static",
+        "They slow the work",
+        "They get oily"
+      ],
+      "correct_index": 0,
+      "explanation": "Rotating shafts, couplings and belts can wrap around loose items instantly. Wear close-fitting clothes and tie back hair.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q09",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "After locking out and tagging a machine, the final step before you start work is to:",
+      "options": [
+        "Assume it is safe",
+        "Try the start control to prove it cannot start",
+        "Remove your lock",
+        "Run it for a minute"
+      ],
+      "correct_index": 1,
+      "explanation": "Testing proves the isolation worked. Lockout is: tell, isolate, lock and tag, release stored energy, test, then work.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q10",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "A crew member collapses inside a tank. The best first action is to:",
+      "options": [
+        "Switch off the ventilation",
+        "Climb in immediately to help",
+        "Wait for them to wake up",
+        "Raise the alarm and rescue only with breathing apparatus and a plan"
+      ],
+      "correct_index": 3,
+      "explanation": "A poor atmosphere kills would-be rescuers quickly. Call for help, keep the standby outside and use breathing apparatus and a rescue plan.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q11",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Electrical equipment must be treated as live until it has been:",
+      "options": [
+        "Isolated and proved dead",
+        "Switched off at the panel",
+        "Wiped with a dry cloth",
+        "Labelled as faulty"
+      ],
+      "correct_index": 0,
+      "explanation": "Switching off at one point is not proof. Isolate, lock, and test with a proper instrument before touching.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q12",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before hot work on a bulkhead, you should clear combustibles, have an extinguisher ready and:",
+      "options": [
+        "Fill the bilge with water",
+        "Work alone to avoid distraction",
+        "Post a fire watch and check the other side of the bulkhead",
+        "Switch off the bilge alarm"
+      ],
+      "correct_index": 2,
+      "explanation": "Heat travels through steel and can ignite material on the other side. A fire watch stays during and after the work.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.safe-working-practices.q13",
+      "lesson_id": "machinery.safety.safe-working-practices",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "You hurt your hand on a sharp edge but it is minor. The most appropriate thing to do is:",
+      "options": [
+        "Ignore it because it is minor",
+        "Hide it from the master",
+        "Report it and get it treated, and report the hazard",
+        "Wait for it to get worse"
+      ],
+      "correct_index": 2,
+      "explanation": "Report every injury, near miss and hazard. It fixes the cause and protects the next person, and it is required by the company's procedures.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

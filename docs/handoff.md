@@ -31,9 +31,10 @@ On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch 
 ## SVMO (Small Vessel Machinery Operator) track
 Uploaded from another Claude on 2026-10-10. Brief: `docs/syllabus/svmo.md`. Learner plan: `docs/svmo-study-plan.md`.
 - Module `machinery`, ticket `svmo`, sources in `content/sources/svmo.json`.
-- Written (9 lessons, 83 questions): diesel basics (100), start/run/faults (110), fuels (120), cooling (130), electricity basics/protection/batteries (200-220), pumps (300), piping (310).
-- Parked: `docs/svmo-pending/questions-svmo-pending.json` holds 54 questions for 13 lessons that do not exist yet (materials, fire hazards, fire/watertight equipment, safe working, pollution/bunkering, shafting/gearboxes, steering, underwater fittings, deck machinery, lubricants, hydraulics, pneumatics, watchkeeping). Move each group into `content/machinery/` when its lesson is written (ids must match the lesson id).
-- Still to write: about 22 lessons per the lesson map in the brief, then two 60-question SVMO mocks.
+- Written (22 lessons, 222 questions, all `needs_expert_review`): materials (10); diesel basics (100), start/run/faults (110), fuels (120), cooling (130); electricity basics/protection/batteries (200-220); pumps (300), piping (310); lubricants, hydraulics, pneumatics, transmission, steering, underwater fittings, deck machinery (batch 2); fire hazards and storage (400), fire and watertight equipment (410), safe working practices (420), pollution prevention and bunkering (430), watchkeeping rounds/logs/emergencies (500, includes the seven oral prep scenarios).
+- `docs/svmo-pending/` is gone: all parked questions were moved into `content/machinery/` with their lessons.
+- Mocks: `content/mock-exams/svmo-practice-1.json` and `-2.json` (60 questions, 120 min, pass mark 70 is our placeholder). The mock schema only names modules, so the blueprint is `machinery: 60`. `docs/svmo-mock-draw.json` lists the exact question ids per TP 14814E topic, with no overlap between the two mocks. Next step: a separate schema PR (e.g. optional `question_ids`) so the app can use it; until then draws are random from the machinery bank.
+- Still to do for SVMO: lessons that split large topics further if wanted (see the lesson map in the brief), an oral-exam lane (lifesaving appliances, Canada Shipping Act basics), and the expert review below.
 - Expert review items are listed in the brief (MED course name, pass mark, oral vs practical, figures such as bilge blower time and battery electrolyte values).
 - `tp14814e` is a 2008 third-party copy; check for a newer TC edition.
 

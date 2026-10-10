@@ -1,0 +1,291 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q01",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The engine-room log is used to:",
+      "options": [
+        "Record machinery readings, events and maintenance",
+        "Hold passenger lists",
+        "Keep chart corrections",
+        "Record the tides"
+      ],
+      "correct_index": 0,
+      "explanation": "It documents operation and supports reporting if something goes wrong.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q02",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "If the main engine stops unexpectedly you should first:",
+      "options": [
+        "Shut off all electrical power",
+        "Inform the master and investigate the cause before attempting a restart",
+        "Ignore it",
+        "Restart immediately without checking"
+      ],
+      "correct_index": 1,
+      "explanation": "Tell the bridge, check for obvious causes, and restart only if safe.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q03",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "If a bump suggests the vessel has grounded, the engine-room operator should:",
+      "options": [
+        "Continue normal operations",
+        "Open sea valves",
+        "Report to the master and check bilges, shaft and stern gland for damage",
+        "Switch off the lights"
+      ],
+      "correct_index": 2,
+      "explanation": "Grounding can open the hull or damage the propeller and shaft.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q04",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "In an engine-room fire the usual order is:",
+      "options": [
+        "Add fuel to starve the fire",
+        "Raise the alarm, stop fuel and ventilation, evacuate and then use the fixed system if needed",
+        "Open all hatches",
+        "Continue working until the smoke thickens"
+      ],
+      "correct_index": 1,
+      "explanation": "Raise the alarm, isolate the fuel and the air, close openings and account for everyone, then discharge the fixed system on the master's order. Adding fuel or opening hatches feeds the fire.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q05",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A Small Vessel Machinery Operator - Restricted certificate is valid:",
+      "options": [
+        "Only on the specified passenger vessel named on it, under 750 kW",
+        "On any vessel in Canada",
+        "On any cargo vessel",
+        "On any tug"
+      ],
+      "correct_index": 0,
+      "explanation": "The SVMO-R is vessel-specific.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q06",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "You made a mistake in the engine-room log. The correct way to fix it is to:",
+      "options": [
+        "Cover it with correction fluid",
+        "Tear out the page",
+        "Erase it completely",
+        "Draw a single line through it, initial it and write the correction"
+      ],
+      "correct_index": 3,
+      "explanation": "The original entry must stay readable because the log is a record that may be examined. Never erase or obscure it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q07",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "At handover, the outgoing watchkeeper should tell the relief:",
+      "options": [
+        "Only the fuel price",
+        "Nothing, because the log says it all",
+        "What is running, any faults or alarms, work in progress and anything unusual",
+        "Only the next meal time"
+      ],
+      "correct_index": 2,
+      "explanation": "A good handover includes the state of the machinery, isolations, faults and orders. Leave only when the relief understands.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q08",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Which sequence best describes using your senses on a round?",
+      "options": [
+        "Look only at the gauges",
+        "Look for leaks, listen for new noises, smell for heat or fuel and feel for abnormal vibration or heat carefully",
+        "Taste the oil, listen to the bilge",
+        "Listen only to the alarm panel"
+      ],
+      "correct_index": 1,
+      "explanation": "Rounds use sight, hearing, smell and touch. Many faults are noticed by senses before any alarm sounds.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q09",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The oil pressure of the running main engine falls to zero. You should:",
+      "options": [
+        "Ignore it if the temperature is normal",
+        "Tell the bridge, stop the engine promptly and check the oil level and leaks before restarting",
+        "Speed the engine up",
+        "Add more fuel"
+      ],
+      "correct_index": 1,
+      "explanation": "An engine can be destroyed in seconds without oil. Stop it, find the cause (level, leak, filter, pump or gauge) and do not restart until it is understood.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q10",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The coolant temperature is rising on a loaded engine. The most appropriate first step is to:",
+      "options": [
+        "Increase speed to improve flow",
+        "Pour cold water on the cylinder head",
+        "Tell the bridge, reduce load and check coolant level, raw-water flow and strainer",
+        "Open the pressure cap at once"
+      ],
+      "correct_index": 2,
+      "explanation": "Reduce the heat input and look for blocked sea-water flow, low coolant, slipping belts or a faulty thermostat. A hot cap can spray scalding coolant, and cold water can crack a hot engine.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q11",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "Your engine overheated because the coolant is low. Before topping up you should:",
+      "options": [
+        "Remove the thermostat permanently",
+        "Pour in cold water at once",
+        "Let the engine cool and find the leak, then refill slowly with the correct mixture",
+        "Run at full speed to cool down"
+      ],
+      "correct_index": 2,
+      "explanation": "Adding cold liquid to a hot engine can crack the block or head. Find and fix the cause of the loss, refill, and bleed air out.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q12",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The high bilge alarm sounds at sea. After checking the alarm is real, you should:",
+      "options": [
+        "Open all sea valves",
+        "Silence the alarm and carry on",
+        "Go to the galley",
+        "Find the source, start the bilge pump and tell the bridge"
+      ],
+      "correct_index": 3,
+      "explanation": "Locate the leak (hose, seacock, stern gland or hull), pump, isolate and report. If the water is rising faster than the pump can clear, tell the master at once.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.watchkeeping.rounds-logs-and-emergencies.q13",
+      "lesson_id": "machinery.watchkeeping.rounds-logs-and-emergencies",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The main engine stops without warning. The most appropriate action is to:",
+      "options": [
+        "Crank repeatedly until it starts",
+        "Close the fuel tank valves permanently",
+        "Say nothing until the next port",
+        "Tell the bridge, then look for obvious causes such as fuel supply or a tripped shutdown before restarting"
+      ],
+      "correct_index": 3,
+      "explanation": "The master needs to know quickly because the vessel may need to anchor or avoid danger. Check fuel valves, filters and alarms, and only restart once the cause is dealt with.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
