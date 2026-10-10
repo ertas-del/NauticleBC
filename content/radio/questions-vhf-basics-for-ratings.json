@@ -1,0 +1,309 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.vhf-basics-for-ratings.q01",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which VHF channel is reserved for distress, urgency, safety and calling?",
+      "options": [
+        "Channel 16 (156.800 MHz)",
+        "Channel 70",
+        "Channel 21B",
+        "Channel 13"
+      ],
+      "correct_index": 0,
+      "explanation": "Channel 16 is the distress, urgency, safety and calling channel. Channel 70 is the DSC alert channel, 21B carries the continuous marine broadcast, and 13 is an intership navigation channel.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q02",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is Channel 70 used for?",
+      "options": [
+        "Voice calls between bridges",
+        "The weather broadcast",
+        "Calls to marinas",
+        "Digital selective calling (DSC) alerts and calls"
+      ],
+      "correct_index": 3,
+      "explanation": "Channel 70 (156.525 MHz) is the DSC alert channel. The radio sends coded calls on it; voice traffic goes on other channels.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-boated-vhf-channels"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q03",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug skipper wants to call a Coast Guard centre for the first time. Why should the first call be on Channel 16?",
+      "options": [
+        "Channel 16 has the strongest signal",
+        "Working channels are illegal for calls",
+        "MCTS centres monitor Channel 16 but do not monitor working channels",
+        "Channel 16 is only for voice mail"
+      ],
+      "correct_index": 2,
+      "explanation": "The RAMN says initial calls are made on Channel 16 because MCTS centres do not monitor working channels. The reason is monitoring, not signal strength or legality.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q04",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which word announces a message of grave and imminent danger needing immediate assistance?",
+      "options": [
+        "PAN PAN",
+        "MAYDAY",
+        "SECURITE",
+        "OVER"
+      ],
+      "correct_index": 1,
+      "explanation": "MAYDAY is the distress word. PAN PAN is a very urgent message about safety, and SECURITE announces an important navigational or weather warning.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q05",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On the BC coast, which channel carries the continuous marine broadcast of weather and warnings?",
+      "options": [
+        "Channel 21B",
+        "Channel 16",
+        "Channel 70",
+        "Channel 13"
+      ],
+      "correct_index": 0,
+      "explanation": "The RAMN facilities part shows the BC continuous marine broadcast on Channel 21B, with WX channels also used. Channel 16 is for calling, 70 for DSC.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-part2-2024"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q06",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel is in BC waters outside a traffic zone. Which channel do the regulations name for a navigation safety call?",
+      "options": [
+        "Channel 13",
+        "Channel 70",
+        "Channel 21B",
+        "Channel 16"
+      ],
+      "correct_index": 3,
+      "explanation": "Schedule 4 of the NSR 2020 names Channel 16 outside a traffic zone. Channel 13 appears in the Great Lakes entry, not the Pacific.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q07",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the minimum radio operator certificate needed to operate a marine radio in Canada?",
+      "options": [
+        "No certificate is needed on a commercial vessel",
+        "A General Operator Certificate only",
+        "ROC-M (the ROC-MC also satisfies it)",
+        "A first aid certificate"
+      ],
+      "correct_index": 2,
+      "explanation": "Anyone operating a marine radio in Canada needs at least an ROC-M; the ROC-MC meets that requirement.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-ised-roc-faq"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q08",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel has a VHF installation. Who on the deck watch must hold an appropriate radio operator certificate?",
+      "options": [
+        "Only the master",
+        "The person in charge of the deck watch",
+        "Only the lookout",
+        "Nobody, unless passengers are carried"
+      ],
+      "correct_index": 1,
+      "explanation": "MPR s. 216(2)(a)(ii) requires the person in charge of the deck watch to hold a radio operator certificate appropriate to the vessel, if it has a VHF installation.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-mpr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q09",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A DSC radio sends an alert that nobody can link to the vessel. What is the most likely fault?",
+      "options": [
+        "The radio was not programmed with the vessel's own nine-digit MMSI",
+        "Channel 16 was busy",
+        "The squelch was set too high",
+        "The battery was fully charged"
+      ],
+      "correct_index": 0,
+      "explanation": "A DSC radio identifies the vessel by its MMSI. Without the correct nine-digit number the alert cannot be traced.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q10",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Except in distress, how much power may a radio installation radiate?",
+      "options": [
+        "Full power at all times",
+        "Exactly 1 W",
+        "25 W on any channel",
+        "No more than needed for clear communication"
+      ],
+      "correct_index": 3,
+      "explanation": "NSR 2020 s. 245 limits power to what is needed for clear communication, except in distress.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q11",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "On lookout you hear 'PAN PAN, PAN PAN, PAN PAN' on Channel 16 from a vessel with engine failure. What do you do?",
+      "options": [
+        "Reply on Channel 16 yourself",
+        "Wait until the end of the watch to mention it",
+        "Tell the officer of the watch at once what you heard, including the vessel name and position if caught",
+        "Switch the radio to Channel 70"
+      ],
+      "correct_index": 2,
+      "explanation": "A rating who is not certified listens and reports at once. The officer of the watch decides the response.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q12",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which channel is the intership bridge-to-bridge navigation channel named in the Great Lakes entry of the regulations?",
+      "options": [
+        "Channel 70",
+        "Channel 13",
+        "Channel 21B",
+        "Channel 6"
+      ],
+      "correct_index": 1,
+      "explanation": "Channel 13 appears in the Great Lakes entry of Schedule 4; in BC outside a traffic zone the regulations name Channel 16.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-boated-vhf-channels"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.vhf-basics-for-ratings.q13",
+      "lesson_id": "radio.vhf-basics-for-ratings",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pairing of word and meaning is correct?",
+      "options": [
+        "PAN PAN: a very urgent message about the safety of a vessel or person; SECURITE: an important navigational or weather warning",
+        "PAN PAN: a weather warning; SECURITE: a vessel sinking",
+        "SECURITE: grave and imminent danger; MAYDAY: a weather warning",
+        "PAN PAN: a routine call; SECURITE: a request for a berth"
+      ],
+      "correct_index": 0,
+      "explanation": "RAMN gives these meanings. MAYDAY is the grave and imminent danger word.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

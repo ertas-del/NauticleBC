@@ -1,0 +1,283 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.distress-urgency-safety.q01",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which ITU Radio Regulations articles govern distress, urgency and safety communications under NSR 2020 s. 243?",
+      "options": [
+        "Articles 32 to 34",
+        "Articles 1 to 3",
+        "Articles 10 to 12",
+        "Articles 50 to 55"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 243 refers to articles 32 to 34 of Chapter VII.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q02",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the correct start of a distress call?",
+      "options": [
+        "MAYDAY once, vessel name once",
+        "PAN PAN three times, THIS IS",
+        "OVER three times",
+        "MAYDAY three times, THIS IS, vessel name three times, call sign"
+      ],
+      "correct_index": 3,
+      "explanation": "RAMN: MAYDAY three times, THIS IS, ship name three times, call sign, and MMSI if DSC was sent.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q03",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "What comes first in the distress message after the vessel identification?",
+      "options": [
+        "Number of passengers",
+        "The weather",
+        "Position",
+        "The port of destination"
+      ],
+      "correct_index": 2,
+      "explanation": "The message order is MAYDAY, name, call sign, MMSI, position, nature of distress, assistance needed, other information, OVER.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q04",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which call has absolute priority over all other transmissions?",
+      "options": [
+        "PAN PAN",
+        "The distress call",
+        "SECURITE",
+        "A routine call"
+      ],
+      "correct_index": 1,
+      "explanation": "RAMN: the distress call has absolute priority.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q05",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What words end distress traffic?",
+      "options": [
+        "SEELONCE FEENEE, then OUT",
+        "PAN PAN OUT",
+        "ALL STATIONS OVER",
+        "MAYDAY CLEAR"
+      ],
+      "correct_index": 0,
+      "explanation": "The controlling station announces the end with SEELONCE FEENEE and finishes OUT.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q06",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A PAN PAN call is sent on the authority of:",
+      "options": [
+        "any deckhand",
+        "the Coast Guard only",
+        "a passenger",
+        "the master or person responsible"
+      ],
+      "correct_index": 3,
+      "explanation": "RAMN: PAN PAN is only on the authority of the master or person responsible.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q07",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long should stations keep listening after hearing a PAN PAN?",
+      "options": [
+        "30 seconds",
+        "One minute",
+        "At least three minutes",
+        "Until the next watch"
+      ],
+      "correct_index": 2,
+      "explanation": "RAMN states at least three minutes.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q08",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "What does a SECURITE call announce?",
+      "options": [
+        "A vessel in grave danger",
+        "An important navigational or meteorological warning",
+        "A vessel sinking",
+        "A routine position report"
+      ],
+      "correct_index": 1,
+      "explanation": "SECURITE is the safety call. It gives a short description and the working channel for the full message.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q09",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which is a listed condition for sending a MAYDAY RELAY?",
+      "options": [
+        "The distressed station cannot transmit the message",
+        "The weather is rough",
+        "The relaying vessel wants to practise",
+        "The channel is quiet"
+      ],
+      "correct_index": 0,
+      "explanation": "RAMN lists: the distressed station cannot transmit, the relaying master believes more help is needed, and an unacknowledged message was heard.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q10",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master hears a distress signal and decides it is unreasonable to go to help. What must be done under CSA 2001 s. 131?",
+      "options": [
+        "Nothing",
+        "Inform the owner only",
+        "Switch off the radio",
+        "Enter the reason in the official log book"
+      ],
+      "correct_index": 3,
+      "explanation": "A master who is unable, or considers it unreasonable or unnecessary, to proceed is not required to but must enter the reason in the log book.",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q11",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On receiving a distress signal the master must proceed with all speed and:",
+      "options": [
+        "wait for the Coast Guard",
+        "call the owner",
+        "inform the persons in distress or the sender, if possible",
+        "anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "CSA 2001 s. 131(1).",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml",
+        "rmet-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.distress-urgency-safety.q12",
+      "lesson_id": "radio.distress-urgency-safety",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A card of instructions such as TP 9878 must be displayed:",
+      "options": [
+        "in the engine room",
+        "at the main operating position of the radio installation",
+        "in the passenger saloon",
+        "in the master's cabin"
+      ],
+      "correct_index": 1,
+      "explanation": "NSR 2020 s. 214(a).",
+      "source_ids": [
+        "rmet-ramn-general",
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

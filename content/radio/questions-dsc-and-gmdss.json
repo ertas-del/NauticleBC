@@ -1,0 +1,315 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.dsc-and-gmdss.q01",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Sea area A1 is within the coverage of:",
+      "options": [
+        "at least one VHF coast station with continuous DSC alerting",
+        "an MF coast station",
+        "a satellite service",
+        "no radio station"
+      ],
+      "correct_index": 0,
+      "explanation": "NSR 2020 s. 200 defines A1 by VHF coverage with continuous DSC alerting.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q02",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which sea area is outside A1 but within MF coast station coverage?",
+      "options": [
+        "A1",
+        "A3",
+        "A4",
+        "A2"
+      ],
+      "correct_index": 3,
+      "explanation": "A2 is outside A1 and within MF coverage; A3 is satellite coverage; A4 is everything else.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q03",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "About how far does the RAMN say A1 and A2 extend?",
+      "options": [
+        "About 5 nm and 20 nm",
+        "About 100 nm and 400 nm",
+        "About 40 nm for A1 and 150 nm for A2",
+        "About 40 nm for A2"
+      ],
+      "correct_index": 2,
+      "explanation": "RAMN gives roughly 40 nautical miles for A1 and 150 for A2.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q04",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which MMSI statement is correct?",
+      "options": [
+        "It is the same as the call sign",
+        "It is a nine-digit identifier that must be programmed into the DSC radio",
+        "It is a five-digit number",
+        "It is only needed on international voyages"
+      ],
+      "correct_index": 1,
+      "explanation": "RAMN: VHF/DSC equipment must be programmed with the correct nine-digit MMSI.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q05",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which VHF channel is used for DSC?",
+      "options": [
+        "Channel 70 (156.525 MHz)",
+        "Channel 16",
+        "Channel 13",
+        "Channel 21B"
+      ],
+      "correct_index": 0,
+      "explanation": "DSC alert traffic is on Channel 70.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q06",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "List the DSC call categories.",
+      "options": [
+        "Distress, weather, tides, routine",
+        "Mayday, pan-pan, securite only",
+        "Emergency, navigational, commercial",
+        "Distress, urgency, safety, ship's business and routine"
+      ],
+      "correct_index": 3,
+      "explanation": "RIC-25 syllabus lists these call categories.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general",
+        "rmet-ised-ric25"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q07",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is a DSC distress alert started on VHF, and what follows?",
+      "options": [
+        "Tap the button once; nothing follows",
+        "Hold for 30 seconds; follow on Channel 70",
+        "Hold the red button for 5 seconds; the voice call and message follow on Channel 16",
+        "Press twice; follow on Channel 13"
+      ],
+      "correct_index": 2,
+      "explanation": "RAMN: press and hold the red distress button for 5 seconds, then send the distress call and message on Channel 16.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q08",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship hears a DSC distress alert on VHF. Which statement is correct?",
+      "options": [
+        "It must relay at once by DSC",
+        "It must not send a DSC relay",
+        "It must acknowledge by DSC at once",
+        "It must switch off DSC"
+      ],
+      "correct_index": 1,
+      "explanation": "RAMN: a ship may not send a DSC distress relay after receiving a DSC distress alert on VHF or MF.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q09",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship receives an all-stations DSC safety announcement. It:",
+      "options": [
+        "must not acknowledge receipt",
+        "must acknowledge at once",
+        "must relay it",
+        "must switch to Channel 70 voice"
+      ],
+      "correct_index": 0,
+      "explanation": "RAMN: a ship receiving an all-stations DSC safety announcement shall not acknowledge it.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q10",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is maritime safety information (MSI)?",
+      "options": [
+        "Port fees and berth lists",
+        "Tide tables only",
+        "Crew lists",
+        "Navigational and meteorological warnings, forecasts and other urgent safety messages broadcast to vessels"
+      ],
+      "correct_index": 3,
+      "explanation": "That is the NSR 2020 s. 200 definition.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q11",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On what frequency does the international NAVTEX service broadcast in English?",
+      "options": [
+        "156.800 MHz",
+        "121.5 MHz",
+        "518 kHz",
+        "2182 kHz"
+      ],
+      "correct_index": 2,
+      "explanation": "NSR 2020 s. 200: international NAVTEX is on 518 kHz.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q12",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which vessels must be able to reach an MCTS centre at any time on a voyage with part outside A1 (s. 206)?",
+      "options": [
+        "Any vessel over 5 m",
+        "A vessel that carries more than six passengers",
+        "Only vessels over 500 GT",
+        "Only fishing vessels"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 206 covers vessels carrying passengers more than 2 nm from shore, more than six passengers, or on a Near Coastal Class 1 or unlimited voyage.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q13",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "DSC is defined in NSR 2020 as a system of digital codes that conforms to:",
+      "options": [
+        "ITU-R Recommendation M.493",
+        "IMO resolution A.814(19)",
+        "SOLAS Chapter II",
+        "IEC 60945 only"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 200 defines DSC by reference to ITU-R M.493. A.814(19) is the false alert guideline.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.dsc-and-gmdss.q14",
+      "lesson_id": "radio.dsc-and-gmdss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which two NAVTEX transmitters does Prince Rupert MCTS use on the BC coast?",
+      "options": [
+        "Mount Parke and Bowen Island",
+        "Race Rocks and Sandheads",
+        "Cape Lazo and Texada Island",
+        "Digby Island and Amphitrite Point"
+      ],
+      "correct_index": 3,
+      "explanation": "RAMN Parts 2 and 5 list Digby Island and Amphitrite Point as NAVTEX transmitters.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general",
+        "rmet-ramn-part5-2024"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

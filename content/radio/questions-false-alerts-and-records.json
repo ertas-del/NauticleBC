@@ -1,0 +1,269 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.false-alerts-and-records.q01",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A distress alert was sent by accident. What must be done?",
+      "options": [
+        "Cancel it immediately",
+        "Wait to see if anyone responds",
+        "Switch off the radio and say nothing",
+        "Wait for the end of the voyage"
+      ],
+      "correct_index": 0,
+      "explanation": "NSR 2020 s. 244 requires immediate cancellation under IMO A.814(19).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q02",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is the correct set of cancel steps for a VHF DSC false alert (RAMN)?",
+      "options": [
+        "Switch to Channel 70 and wait",
+        "Call the owner by phone only",
+        "Press the distress button again",
+        "Switch off the transmitter, set Channel 16, and broadcast to all stations with name, call sign, MMSI and the cancel statement"
+      ],
+      "correct_index": 3,
+      "explanation": "The RAMN gives these steps, with the date and time stated in UTC.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q03",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In the cancel broadcast, how is the date and time of the original alert stated?",
+      "options": [
+        "In local time only",
+        "In tide-table time",
+        "In UTC",
+        "No time is stated"
+      ],
+      "correct_index": 2,
+      "explanation": "RAMN: 'cancel my distress alert of' followed by the date and time in UTC.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q04",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long must the radio record be kept?",
+      "options": [
+        "12 months after the first entry",
+        "At least 12 months after the last entry",
+        "30 days",
+        "Until the next inspection"
+      ],
+      "correct_index": 1,
+      "explanation": "NSR 2020 s. 247(3).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q05",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A paper radio record must be kept:",
+      "options": [
+        "in its original format",
+        "recopied neatly each year",
+        "as a photograph only",
+        "in a safe ashore"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 247(3).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q06",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who initials entries in the radio record?",
+      "options": [
+        "The master only",
+        "The Coast Guard",
+        "A passenger",
+        "The radio operator making the entry"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 247(2).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q07",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "What must be recorded about an inadvertent distress transmission?",
+      "options": [
+        "Nothing, if cancelled quickly",
+        "Only the vessel's position",
+        "The time of the transmission and the time and method of its cancellation",
+        "Only the MMSI"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 247(1)(h).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q08",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How must a radio operator state the time on a domestic BC voyage in voice communications?",
+      "options": [
+        "UTC only, in 12-hour time",
+        "Local time in the 24-hour system, four figures, with the time zone identifier",
+        "Tide-table time",
+        "Ship's clock time without a zone"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 246: UTC on an international voyage, local time otherwise; 24-hour, four figures, followed by the time zone identifier.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q09",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At sea, how often is a VHF installation assessed and tested?",
+      "options": [
+        "Assessed daily; tested weekly by normal communications or a test call",
+        "Tested daily by a distress alert",
+        "Assessed monthly",
+        "Only before the voyage"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 237(1).",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q10",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A radio has been out of service for 40 days. What must the operator do?",
+      "options": [
+        "Nothing",
+        "Verify it after the voyage",
+        "Replace the antenna",
+        "Verify it within the seven days before the voyage and enter it in the radio log"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 237(5) applies when out of service for more than 30 days.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q11",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 245 say about transmitter power?",
+      "options": [
+        "Always use full power",
+        "Use low power only at night",
+        "Except in distress, do not radiate more power than needed for clear communication",
+        "Power may not be adjusted"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 245.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.false-alerts-and-records.q12",
+      "lesson_id": "radio.false-alerts-and-records",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When must the radio equipment be confirmed to be in proper operating condition?",
+      "options": [
+        "After the voyage",
+        "Before the vessel embarks on a voyage",
+        "Once a year",
+        "Only after a fault"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 236.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-ramn-general"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
