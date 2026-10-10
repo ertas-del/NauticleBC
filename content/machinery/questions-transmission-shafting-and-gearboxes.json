@@ -1,0 +1,203 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q01",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A thrust block's job is to:",
+      "options": [
+        "Cool the shaft",
+        "Measure shaft speed",
+        "Pass propeller thrust from the shaft to the hull structure",
+        "Reduce propeller noise"
+      ],
+      "correct_index": 2,
+      "explanation": "It stops the shaft from pushing the engine and carries thrust to the hull.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q02",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A water-lubricated stern gland with packing normally:",
+      "options": [
+        "Drips slightly, adjusted so it stays cool without excessive leakage",
+        "Should be tightened until completely dry",
+        "Should never be touched",
+        "Should leak freely"
+      ],
+      "correct_index": 0,
+      "explanation": "A slight drip keeps packing cool. Over-tightening can overheat the gland and shaft.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q03",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before starting a vessel's engine and gearbox, a basic check on the gearbox is:",
+      "options": [
+        "Galley fuel stock",
+        "Anchor light function",
+        "Radio channel setting",
+        "Oil level and condition"
+      ],
+      "correct_index": 3,
+      "explanation": "Low or contaminated gearbox oil damages gears and bearings.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q04",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Theoretical propeller pitch is the distance a propeller would advance:",
+      "options": [
+        "In one minute",
+        "In one tide",
+        "In one nautical mile",
+        "In one revolution"
+      ],
+      "correct_index": 3,
+      "explanation": "Pitch is like the thread pitch of a screw.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q05",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The correct order of the drive line from engine to water on a single-screw vessel is:",
+      "options": [
+        "Gearbox, engine, coupling, propeller, shaft",
+        "Engine, coupling, gearbox, shaft with thrust block, stern gland, propeller",
+        "Engine, propeller, shaft, gearbox, stern gland",
+        "Stern gland, shaft, engine, gearbox, propeller"
+      ],
+      "correct_index": 1,
+      "explanation": "Power goes from the engine through a flexible coupling and gearbox, down the shaft, out through the stern tube and gland to the propeller.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q06",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "An engine turns at 1 800 rpm through a 2:1 reduction gearbox. The propeller shaft speed is:",
+      "options": [
+        "3 600 rpm",
+        "1 800 rpm",
+        "900 rpm",
+        "600 rpm"
+      ],
+      "correct_index": 2,
+      "explanation": "Shaft speed = engine speed divided by ratio = 1 800 / 2 = 900 rpm.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q07",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "When changing from ahead to astern with a marine gearbox you should:",
+      "options": [
+        "Move the lever quickly at full revolutions",
+        "Reduce to idle and pause in neutral before engaging astern",
+        "Stop the engine first, then restart",
+        "Engage astern before reducing speed so the propeller stops quickly"
+      ],
+      "correct_index": 1,
+      "explanation": "Shifting at idle with a pause in neutral protects the clutches and gears from shock.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q08",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "A propeller of pitch 0.8 m turns at 500 rpm and the vessel makes 9.72 knots (theoretical speed 12.96 knots). The slip is about:",
+      "options": [
+        "25 per cent",
+        "12 per cent",
+        "3 per cent",
+        "75 per cent"
+      ],
+      "correct_index": 0,
+      "explanation": "Slip = (12.96 - 9.72) / 12.96 = 0.25, or 25 per cent. Some slip is normal.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.transmission.shafting-and-gearboxes.q09",
+      "lesson_id": "machinery.transmission.shafting-and-gearboxes",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The whole vessel starts to vibrate at a certain engine speed. A reasonable thing to check is:",
+      "options": [
+        "The galley stove",
+        "The fresh-water tank level",
+        "Only the radar mast",
+        "The propeller for damage or fouling, and the coupling, shaft line and cutless bearing"
+      ],
+      "correct_index": 3,
+      "explanation": "Bent or fouled propellers, misalignment and worn bearings all cause shaft-line vibration.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

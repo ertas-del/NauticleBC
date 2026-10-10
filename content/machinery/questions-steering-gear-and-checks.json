@@ -1,0 +1,203 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.steering.gear-and-checks.q01",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A hydraulic steering system feels spongy and moves erratically. The most likely cause is:",
+      "options": [
+        "A flat starting battery",
+        "Air in the hydraulic fluid",
+        "A blocked sea strainer",
+        "Too much fuel in the day tank"
+      ],
+      "correct_index": 1,
+      "explanation": "Air is compressible. Bleed the system and find where the air gets in.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q02",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A normal pre-departure steering check includes:",
+      "options": [
+        "Testing the radar only",
+        "Running the bilge pump",
+        "Checking the anchor light",
+        "Moving the rudder fully each way and confirming the indicator matches"
+      ],
+      "correct_index": 3,
+      "explanation": "Confirm full travel, smooth operation and correct indication.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q03",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "If main steering fails, emergency steering is typically provided by:",
+      "options": [
+        "The anchor windlass",
+        "The fire pump",
+        "An emergency tiller or hand pump arrangement",
+        "The radio"
+      ],
+      "correct_index": 2,
+      "explanation": "Know where the emergency steering gear is and how to rig it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q04",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A hydraulic steering gear that is slightly warm to the touch is:",
+      "options": [
+        "Always a sign of a failed seal",
+        "A reason to stop the vessel at once",
+        "Cooled by pouring water on it",
+        "Often normal, but keep monitoring it"
+      ],
+      "correct_index": 3,
+      "explanation": "Some warmth is normal. Watch for rapid temperature rise, noise, or leaks.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q05",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The rudder angle indicator is used to:",
+      "options": [
+        "Show the helmsman where the rudder actually is",
+        "Steer the vessel automatically",
+        "Measure the vessel's speed",
+        "Warn of low hydraulic oil"
+      ],
+      "correct_index": 0,
+      "explanation": "It shows the rudder position at the helm so it can be compared with the helm order.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q06",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "In a basic hydraulic steering system, turning the wheel works the:",
+      "options": [
+        "Anchor windlass pump",
+        "Sea water pump",
+        "Helm pump, which sends oil to the steering cylinder",
+        "Fuel injection pump"
+      ],
+      "correct_index": 2,
+      "explanation": "The helm pump pushes oil to the ram that moves the tiller or drive.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q07",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these belongs in steering gear maintenance?",
+      "options": [
+        "Greasing the pins and bearings and checking the rudder stock gland, linkages and fluid level",
+        "Painting the rudder indicator",
+        "Draining the hydraulic oil weekly",
+        "Closing the steering reservoir vent for good"
+      ],
+      "correct_index": 0,
+      "explanation": "Steering gear needs lubrication and inspection of every moving joint and seal.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q08",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "You find the main steering has failed while under way. Your first action is to:",
+      "options": [
+        "Try repairs and tell the bridge afterwards",
+        "Wait for the helmsman to notice",
+        "Tell the bridge at once, then go to the steering position and prepare emergency steering",
+        "Shut down the main engine without telling anyone"
+      ],
+      "correct_index": 2,
+      "explanation": "The master must know immediately, because the response involves speed, warnings and perhaps stopping.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.steering.gear-and-checks.q09",
+      "lesson_id": "machinery.steering.gear-and-checks",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "During a steering test the rudder follows the helm both ways but the indicator reads two degrees low on one side. This means:",
+      "options": [
+        "The steering is safe to ignore",
+        "The indicator or its linkage needs checking and correcting before sailing",
+        "The rudder stops have worn",
+        "The hydraulic oil is too thick"
+      ],
+      "correct_index": 1,
+      "explanation": "Rudder and indicator must agree. Correct the fault and re-test, and report it to the master.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

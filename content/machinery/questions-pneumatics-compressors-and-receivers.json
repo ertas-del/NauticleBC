@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q01",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "An air compressor starts unloaded so that it:",
+      "options": [
+        "Keeps the drains closed",
+        "Uses more air",
+        "Cools the receiver",
+        "Reaches speed before it has to work against pressure"
+      ],
+      "correct_index": 3,
+      "explanation": "The unloader reduces the starting load.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q02",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Condensation in an air receiver should be:",
+      "options": [
+        "Drained regularly to prevent corrosion",
+        "Left to build up",
+        "Ignored",
+        "Mixed with the oil"
+      ],
+      "correct_index": 0,
+      "explanation": "Water in air systems causes corrosion and erratic operation.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q03",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which device protects an air receiver from over-pressure?",
+      "options": [
+        "Drain cock",
+        "Sight glass",
+        "Pressure gauge",
+        "Safety relief valve"
+      ],
+      "correct_index": 3,
+      "explanation": "Never alter its setting without authority.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q04",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "An intercooler on a two-stage air compressor:",
+      "options": [
+        "Removes oil from the cylinder",
+        "Cools the air between stages",
+        "Drains the receiver",
+        "Heats the air before the receiver"
+      ],
+      "correct_index": 1,
+      "explanation": "Cooling between stages improves efficiency and lowers final air temperature.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q05",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Compared with hydraulic oil, air is:",
+      "options": [
+        "Incompressible and heats when squeezed",
+        "Compressible, and its temperature rises when it is compressed",
+        "Compressible, and its temperature falls when it is compressed",
+        "Heavier and more viscous"
+      ],
+      "correct_index": 1,
+      "explanation": "Air volume shrinks under pressure and the work of compression heats it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q06",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "In a piston compressor, air enters the cylinder through the:",
+      "options": [
+        "Discharge valve on the upstroke",
+        "Relief valve",
+        "Drain valve",
+        "Suction valve on the downstroke"
+      ],
+      "correct_index": 3,
+      "explanation": "The pressure falls in the cylinder on the downstroke, so the suction valve opens. The discharge valve opens when the compressed air exceeds line pressure.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q07",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "What makes a small compressor start and stop automatically to keep the receiver topped up?",
+      "options": [
+        "The safety relief valve",
+        "A pressure switch with cut-in and cut-out settings",
+        "The drain cock",
+        "The intercooler"
+      ],
+      "correct_index": 1,
+      "explanation": "The pressure switch starts the motor when pressure falls to cut-in and stops it at cut-out.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q08",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "A compressor must never be run with its discharge valve closed because:",
+      "options": [
+        "The suction valve will stick",
+        "The air will be too cold",
+        "The intercooler will freeze",
+        "Pressure and temperature can rise dangerously, and oil vapour in hot air may ignite"
+      ],
+      "correct_index": 3,
+      "explanation": "Without a path out the air heats and pressurises, and carbon and oil can burn.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q09",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Compressed air must not be used to blow dust off overalls because:",
+      "options": [
+        "It wastes electricity only",
+        "Air can be forced through the skin and flying particles can injure eyes",
+        "The oil will freeze",
+        "The dust will start a fire"
+      ],
+      "correct_index": 1,
+      "explanation": "A jet of air can inject into the skin, and it throws particles into the eyes.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pneumatics.compressors-and-receivers.q10",
+      "lesson_id": "machinery.pneumatics.compressors-and-receivers",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "A receiver's safety relief valve keeps lifting. The correct response is to:",
+      "options": [
+        "Screw down the spring to stop it lifting",
+        "Fit a blank in its outlet",
+        "Find why the pressure is too high, for example a faulty pressure switch or unloader",
+        "Leave it alone until it fails"
+      ],
+      "correct_index": 2,
+      "explanation": "A relief valve is the last protection. Never adjust or jam it. Fix the cause.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.deck.deck-machinery.q01",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The machine that raises the anchor on most small vessels is the:",
+      "options": [
+        "Windlass",
+        "Binnacle",
+        "Davit",
+        "Capstan"
+      ],
+      "correct_index": 0,
+      "explanation": "A windlass handles anchor chain. A capstan has a vertical drum and is typically used for mooring lines.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q02",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before maintenance on a crane or winch you should:",
+      "options": [
+        "Work with the load suspended",
+        "Leave the hydraulics live to check for leaks",
+        "Run it at full load to test",
+        "Isolate and lock out the power and release stored energy"
+      ],
+      "correct_index": 3,
+      "explanation": "Stored hydraulic and mechanical energy can move machinery unexpectedly.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q03",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A hydraulic winch reservoir is found much lower than normal. The best first response is:",
+      "options": [
+        "Isolate the winch and look for a leak before topping up",
+        "Heat the oil",
+        "Top up and ignore the cause",
+        "Drain the tank"
+      ],
+      "correct_index": 0,
+      "explanation": "Find and stop the leak to prevent damage and pollution.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q04",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A capstan differs from a winch because a capstan has:",
+      "options": [
+        "A horizontal drum for storing wire",
+        "A vertical drum that the line wraps round and does not store it",
+        "No brake",
+        "A notched wheel for chain links"
+      ],
+      "correct_index": 1,
+      "explanation": "A winch has a horizontal drum, usually storing wire or rope. A windlass has a gypsy for chain.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q05",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The clutch on a windlass or winch is used to:",
+      "options": [
+        "Measure the load",
+        "Connect the drive to the drum or gypsy, or disconnect it so the anchor or line can run out",
+        "Cool the hydraulic oil",
+        "Tighten the wire rope"
+      ],
+      "correct_index": 1,
+      "explanation": "With the clutch out, the brake alone controls the load.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q06",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Once the anchor is set and the vessel is lying to it, the strain should be held by the:",
+      "options": [
+        "Windlass motor",
+        "Hydraulic pump",
+        "Capstan",
+        "Chain stopper or bow stopper, not the windlass"
+      ],
+      "correct_index": 3,
+      "explanation": "The stopper takes the load so that the windlass and its brake are not overloaded.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q07",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The safest position when a mooring line or wire is under strain is:",
+      "options": [
+        "Standing inside the bight of the line",
+        "Standing in line with the wire",
+        "Clear of the bight and out of line with the wire, in case it parts and recoils",
+        "Holding the line with a bare hand"
+      ],
+      "correct_index": 2,
+      "explanation": "A parting line whips back along its length and snaps tight inside a bight.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q08",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A routine check of a deck winch wire rope should look for:",
+      "options": [
+        "The colour of the strands",
+        "Broken strands, kinks, flattening and corrosion",
+        "How shiny it is",
+        "Whether it is longer than last year"
+      ],
+      "correct_index": 1,
+      "explanation": "Broken strands, kinks and wear reduce strength, and a damaged wire must be replaced.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.deck.deck-machinery.q09",
+      "lesson_id": "machinery.deck.deck-machinery",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The maximum load stamped on a winch or crane is called the safe working load. You should:",
+      "options": [
+        "Treat it as a target to reach",
+        "Allow loads up to double it in calm weather",
+        "Never exceed it, and allow for shock loads in a seaway",
+        "Ignore it for the first lift of the day"
+      ],
+      "correct_index": 2,
+      "explanation": "The SWL includes a safety margin, and wave motion adds shock load.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
