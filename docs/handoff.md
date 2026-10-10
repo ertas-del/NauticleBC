@@ -20,6 +20,14 @@ On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch 
 - App: lesson reader, exam-focus card and highlights, quizzes, progress. Debug APK is built by CI (Actions artifact `app-debug`).
 - Syllabus briefs: `docs/syllabus/bridge-watch-rating.md`, `docs/syllabus/master-limited-60gt.md`. Writer instructions: `docs/writer-guide.md` (official law text via the Justice Canada XML repo, cloned no-checkout at /home/claude/justicecanada/laws-lois-xml in the old sandbox; re-clone github.com/justicecanada/laws-lois-xml).
 
+## Work in progress (draft PRs, cut off by usage limits)
+
+- PR #26 chartwork lessons 1-7 written (charts, datums, symbols, lat/long, compass types, variation, deviation card). Missing: questions for 5 of them, the rest of chartwork 1-12 (Canadian publications, chart correction, TVMDC conversions, bearings).
+- PR #27 stability lessons 1-4 written (awareness, terms, G/B/M, metacentric height). Missing: questions for all four, and lessons 5-11 of the stability list.
+- Chartwork 13-24 (fixes, DR, set and drift) not started.
+- Next Claude: check out each branch, add 6-10 original questions per lesson, finish the lesson list from docs/syllabus/master-limited-60gt.md, run `python3 tools/lint_content.py`, mark the PR ready and merge when CI is green.
+- The user has dyslexia and said the current swift, to-the-point lesson style works for them. Keep it. Reading mode and read-aloud are still to build in the app.
+
 ## Remaining writer assignments (run 3-4 at a time; each follows docs/writer-guide.md)
 
 1. DONE (#24): seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
