@@ -32,12 +32,24 @@ private data class ModuleCard(
 private val modules = listOf(
     ModuleCard("colregs", R.string.module_colregs, R.string.module_colregs_desc, available = true),
     ModuleCard("tides", R.string.module_tides, R.string.module_tides_desc, available = true),
+    ModuleCard("bridge-watch", R.string.module_bridge_watch, R.string.module_bridge_watch_desc, available = true),
+    ModuleCard("sixty-ton", R.string.module_sixty_ton, R.string.module_sixty_ton_desc, available = true),
+    ModuleCard("seamanship", R.string.module_seamanship, R.string.module_seamanship_desc, available = true),
+    ModuleCard("chartwork", R.string.module_chartwork, R.string.module_chartwork_desc, available = true),
+    ModuleCard("stability", R.string.module_stability, R.string.module_stability_desc, available = true),
+    ModuleCard("machinery", R.string.module_machinery, R.string.module_machinery_desc, available = true),
 )
 
 /** Title string for a module id, falling back to the raw id for modules without a home card. */
 fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     "colregs" -> R.string.module_colregs
     "tides" -> R.string.module_tides
+    "bridge-watch" -> R.string.module_bridge_watch
+    "sixty-ton" -> R.string.module_sixty_ton
+    "seamanship" -> R.string.module_seamanship
+    "chartwork" -> R.string.module_chartwork
+    "stability" -> R.string.module_stability
+    "machinery" -> R.string.module_machinery
     else -> null
 }
 
@@ -64,7 +76,9 @@ fun HomeScreen(
                 )
             }
 
-            items(modules) { module ->
+            val loaded = bundle?.getOrNull()?.lessons?.map { it.module }?.toSet()
+            val shown = modules.filter { loaded == null || it.id in loaded || it.id == "colregs" || it.id == "tides" }
+            items(shown) { module ->
                 val cardModifier = if (module.available) {
                     Modifier
                         .fillMaxWidth()
