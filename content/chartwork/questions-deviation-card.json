@@ -1,0 +1,239 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.deviation-card.q01",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is deviation?",
+      "options": [
+        "The angle between magnetic north and compass north caused by the ship's own magnetism, named east or west",
+        "The angle between true north and magnetic north at a place",
+        "The angle between the ship's head and her track over the ground",
+        "The yearly change in the charted variation"
+      ],
+      "correct_index": 0,
+      "explanation": "Deviation comes from the ship's iron, equipment and electrical circuits. The angle between true and magnetic north is variation.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q02",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these changes with the ship's heading?",
+      "options": [
+        "Variation",
+        "The latitude scale",
+        "Deviation",
+        "The annual change printed on the rose"
+      ],
+      "correct_index": 2,
+      "explanation": "A ship's magnetic field acts on the compass differently on each heading, so deviation changes as she swings. Variation depends on the place.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q03",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Invented card, entered with compass heading: Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E. Interpolating, what is the deviation on a compass heading of 110 degrees?",
+      "options": [
+        "2.9 degrees W",
+        "2.9 degrees E",
+        "3.0 degrees E",
+        "2.0 degrees W"
+      ],
+      "correct_index": 0,
+      "explanation": "Between 090 (2 W = minus 2) and 135 (4 W = minus 4). You are 20 of 45 degrees along, so deviation = -2 + (-2 x 20/45) = -2.89, that is 2.9 W. The east answers have the wrong sign, and 2.0 W takes the lower entry without interpolating.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q04",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E). What is the deviation on a compass heading of 070 degrees?",
+      "options": [
+        "0.7 degrees E",
+        "1.5 degrees W",
+        "0.7 degrees W",
+        "0 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Between 045 (1 E = plus 1) and 090 (2 W = minus 2). You are 25 of 45 degrees along, so deviation = +1 + (-3 x 25/45) = -0.67, which is 0.7 W. The sign changes between the two entries, so use plus and minus numbers. 0 degrees would be the answer at 060.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q05",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E). What is the deviation on a compass heading of 250 degrees?",
+      "options": [
+        "1.7 degrees W",
+        "0.0 degrees",
+        "3.0 degrees E",
+        "1.7 degrees E"
+      ],
+      "correct_index": 3,
+      "explanation": "Between 225 (0) and 270 (3 E = plus 3). You are 25 of 45 degrees along, so deviation = 0 + 3 x 25/45 = +1.67, which is 1.7 E. 3.0 E is the next entry without interpolating, and the W answer has the wrong sign.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q06",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E), entered with compass heading. You want to make good 120 degrees true. Corrected variation is 15 degrees E. About what compass course do you steer?",
+      "options": [
+        "102 degrees",
+        "105 degrees",
+        "108 degrees",
+        "135 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Magnetic course = 120 - 15 = 105. Near 108 C the deviation is about 2.8 W, so compass = magnetic - deviation = 105 - (-2.8) = about 108. Check: 108 + (-2.8) + 15 = 120. 102 uses the wrong sign for deviation, 105 ignores deviation, and 135 adds the variation instead of subtracting it.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q07",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The compass error found on a charted transit is 12 degrees E. The variation is 15 degrees E. What is the deviation on that heading?",
+      "options": [
+        "3 degrees W",
+        "3 degrees E",
+        "27 degrees E",
+        "27 degrees W"
+      ],
+      "correct_index": 0,
+      "explanation": "Deviation = compass error - variation = (+12) - (+15) = -3, which is 3 W. Adding the two (27) is a sign error.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q08",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Variation is 15 degrees E and deviation on the present heading is 4 degrees W. What is the compass error?",
+      "options": [
+        "19 degrees E",
+        "11 degrees E",
+        "11 degrees W",
+        "19 degrees W"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass error = variation + deviation, with east as plus and west as minus: +15 + (-4) = +11, which is 11 E. Adding the sizes (19) ignores the names.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q09",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A deviation card has a heading column. What must you check before you enter it?",
+      "options": [
+        "Whether it is entered with compass heading or magnetic heading",
+        "Whether it was printed in the current year",
+        "Whether the variation has been added to the column",
+        "Whether it was drawn up in port"
+      ],
+      "correct_index": 0,
+      "explanation": "Some cards are entered with the compass heading, some with the magnetic heading, and the card should say which. If deviation is large the choice changes the answer.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q10",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You fit a steel toolbox and a loudspeaker beside the binnacle. What is the correct response?",
+      "options": [
+        "Nothing, because deviation depends only on the ship's heading",
+        "Compare the compass with known bearings again, update the card if it has changed, and log it",
+        "Apply the old card and add the variation twice",
+        "Take a bearing of the loudspeaker"
+      ],
+      "correct_index": 1,
+      "explanation": "Iron, magnets and electrical equipment near the compass can change deviation, so the card may no longer be right. Check against a transit or known bearing after any change and record the check.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.deviation-card.q11",
+      "lesson_id": "chartwork.deviation-card",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where must the table or curve of residual deviations be kept, according to NSR 2020 s. 106(4)?",
+      "options": [
+        "On board, in the vicinity of the compass",
+        "In the owner's office",
+        "Inside the binnacle lid only when the compass is being adjusted",
+        "In the Notices to Mariners folder"
+      ],
+      "correct_index": 0,
+      "explanation": "The residual deviation table or curve must be available on board in the vicinity of the compass so the person steering and plotting can use it.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.cp1-problem-technique.q01",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In the reported format of the CP1 exam, how many marks does each multiple-choice question carry?",
+      "options": [
+        "1 mark",
+        "5 marks",
+        "3 marks",
+        "15 marks"
+      ],
+      "correct_index": 2,
+      "explanation": "One provider reports 10 multiple-choice questions at 3 marks each and 5 practical chartwork questions at 5 to 15 marks each, in a 3-hour paper. Confirm with your course or Transport Canada.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q02",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which tools does the reported CP1 format expect, and what pass mark does the draft TP 2293 give?",
+      "options": [
+        "A phone calculator and a ruler, with a pass mark of 50 per cent",
+        "Only a pencil, with a pass mark of 100 per cent",
+        "A GNSS receiver, with a pass mark of 60 per cent",
+        "A non-phone calculator, parallel rules and dividers, with a pass mark of 70 per cent"
+      ],
+      "correct_index": 3,
+      "explanation": "The reported tools are a non-phone calculator, parallel rules and dividers. The 70 per cent figure comes from a draft of TP 2293 and should be confirmed.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-nauticalmind-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q03",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the first step in working a multi-part chartwork problem?",
+      "options": [
+        "Read the whole question, list the given data and note what each part asks",
+        "Plot the first position and start measuring",
+        "Convert every bearing to relative",
+        "Work out the ETA"
+      ],
+      "correct_index": 0,
+      "explanation": "A mistake early on carries through every later part. A data box with the corrected variation, the deviation card, the speeds and the times prevents the commonest errors.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q04",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which correction goes with which instrument?",
+      "options": [
+        "Hand-bearing compass: deviation only. Ship's compass: variation only. Gyro: variation",
+        "Hand-bearing compass held clear of iron: variation only. Ship's compass: compass error for the ship's heading. Gyro: gyro error",
+        "All three: variation and deviation",
+        "Hand-bearing compass: the ship's compass error. Gyro: variation"
+      ],
+      "correct_index": 1,
+      "explanation": "A hand compass away from iron has no deviation. The ship's compass has both variation and deviation for the heading. A gyro has neither but may have its own error.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q05",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In the plot for the course to steer in a current, where do the track and the current vector start?",
+      "options": [
+        "Both start at the departure point; the arc of the ship's speed is swung from the end of the current vector",
+        "The track starts at the destination and the current vector at the departure point",
+        "Both start at the destination",
+        "The current vector starts at the end of the track and the arc from the departure point"
+      ],
+      "correct_index": 0,
+      "explanation": "The triangle is built from a single starting point. The current vector goes from there, and the arc is swung from its end to cut the track.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q06",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which labelling of the plot is expected?",
+      "options": [
+        "Positions with their latitude only",
+        "Each position with its time in four figures and its type, and each course line with its true course and speed",
+        "Courses in two figures and times in three",
+        "No labels, to keep the chart clear"
+      ],
+      "correct_index": 1,
+      "explanation": "Labels let the marker see what each position is, and let you restart the DR from a labelled fix. Directions are three figures and times four.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q07",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The rose reads 17 degrees 10 minutes E 2014 (6 minutes W). What is the variation in 2026?",
+      "options": [
+        "18 degrees 22 minutes E",
+        "17 degrees 10 minutes E",
+        "16 degrees 04 minutes W",
+        "15 degrees 58 minutes E"
+      ],
+      "correct_index": 3,
+      "explanation": "12 years x 6 minutes = 72 minutes = 1 degree 12 minutes toward the west, which shrinks an easterly variation: 17 degrees 10 minutes - 1 degree 12 minutes = 15 degrees 58 minutes E. Adding gives 18 degrees 22 minutes E.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q08",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A hand-bearing compass, held clear of iron, gives 333 degrees on a tower. The corrected variation is 17 degrees E. What true bearing is plotted?",
+      "options": [
+        "316 degrees",
+        "333 degrees",
+        "350 degrees",
+        "347 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Hand compass: variation only. 333 + 17 = 350. Subtracting (316) is the true-to-magnetic direction, and 347 uses the ship's compass error of 14 degrees E by mistake.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q09",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At the same time as a fix, the DR position lies 1.0 nm north and 1.0 nm west of the fix, one hour after the DR was started. What are the set and rate?",
+      "options": [
+        "Set 135 degrees, rate 1.4 knots",
+        "Set 315 degrees, rate 1.4 knots",
+        "Set 135 degrees, rate 2.0 knots",
+        "Set 045 degrees, rate 1.4 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "The set is from the DR to the fix, and the fix lies south-east of the DR (135 degrees). The drift is the square root of 2, 1.4 nm, in 1 hour, so the rate is 1.4 knots. 315 reverses the direction.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q10",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Your course to steer comes out on the opposite side of the track from the one the current comes from. What do you do?",
+      "options": [
+        "Accept it, because the sign of the correction does not matter",
+        "Halve the correction",
+        "Check the plot, because the bow should point up-current, and look for a reversed current vector",
+        "Steer the track itself"
+      ],
+      "correct_index": 2,
+      "explanation": "The correction should put the bow toward the side the water comes from. An answer on the other side nearly always means the current vector was drawn the wrong way or its set was read as its source.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q11",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which check should you apply to a computed answer?",
+      "options": [
+        "A reverse calculation or a sanity check against the chart",
+        "No check is needed if the arithmetic was done twice",
+        "A comparison with last year's answer",
+        "A comparison with the neighbouring candidate"
+      ],
+      "correct_index": 0,
+      "explanation": "A quick reverse calculation catches slips in sign and conversion, and asking whether the answer is believable on the chart catches the rest.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q12",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In which form are courses and bearings plotted on the chart?",
+      "options": [
+        "In compass, after converting from true",
+        "In true, after converting from compass or gyro",
+        "In magnetic, using the inner rose",
+        "In relative bearings from the ship's head"
+      ],
+      "correct_index": 1,
+      "explanation": "The chart is drawn in true, so compass bearings are converted to true before plotting, and the true course to steer is converted to compass for the helm at the end.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.cp1-problem-technique.q13",
+      "lesson_id": "chartwork.cp1-problem-technique",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is the correct way to measure a distance and to write a direction?",
+      "options": [
+        "Dividers on the latitude scale level with the work, and a direction in three figures",
+        "Dividers on the longitude scale, and a direction in two figures",
+        "Dividers on the scale at the far edge of the chart, and a direction in degrees and decimals",
+        "The title-block fraction for distance, and a direction in four figures"
+      ],
+      "correct_index": 0,
+      "explanation": "One minute of latitude is one nautical mile, and on a Mercator chart the scale changes with latitude, so use the side scale level with the work. Directions are written 007, 047, 310.",
+      "source_ids": [
+        "sixty-holland-cp1",
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

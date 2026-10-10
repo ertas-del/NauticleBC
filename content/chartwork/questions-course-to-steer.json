@@ -1,0 +1,247 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.course-to-steer.q01",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which description of the plot for the course to steer is correct?",
+      "options": [
+        "Draw the track and the current vector from the start; from the end of the current vector swing an arc of the ship's speed to cut the track; join the end of the current vector to that point",
+        "Draw the current vector from the destination and swing an arc of the current's rate",
+        "Draw the ship's speed from the start and the current from the destination",
+        "Draw the track, add the compass error, and read the course"
+      ],
+      "correct_index": 0,
+      "explanation": "The ship's own velocity plus the current's velocity must add up to a velocity along the track. The arc finds the ship's velocity vector, and its direction is the course to steer.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q02",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Track 090 degrees, speed 8 knots, current setting 040 degrees at 2 knots. What is the course to steer?",
+      "options": [
+        "079 degrees true",
+        "101 degrees true",
+        "090 degrees true",
+        "111 degrees true"
+      ],
+      "correct_index": 1,
+      "explanation": "The current sets partly northward of the track, so the bow goes south of it. Sine of the correction = 2 x sin 50 degrees / 8 = 0.19, so 11 degrees: 090 + 11 = 101. 079 puts the bow on the wrong side.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q03",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "For the same problem (track 090, 8 knots, current 040 at 2 knots), what is the speed made good?",
+      "options": [
+        "8.0 knots",
+        "10.0 knots",
+        "About 9.1 knots",
+        "6.0 knots"
+      ],
+      "correct_index": 2,
+      "explanation": "Speed made good = 8 x cos 11 degrees + 2 x cos 50 degrees = 7.85 + 1.29 = 9.1 knots. The current has a fair component of about 1.3 knots along the track.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q04",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The course to steer is 342 degrees true. The compass error is 14 degrees E. What compass course is given to the helm?",
+      "options": [
+        "356 degrees",
+        "328 degrees",
+        "342 degrees",
+        "014 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "True to compass: subtract easterly error, 342 - 14 = 328. 356 adds it, and 342 forgets the conversion.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q05",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The wanted track is 095 degrees true, the ship's speed is 12 knots, and the current sets 170 degrees at 2.5 knots. What is the course to steer?",
+      "options": [
+        "107 degrees true",
+        "095 degrees true",
+        "083 degrees true",
+        "071 degrees true"
+      ],
+      "correct_index": 2,
+      "explanation": "The set is on the right of the track (170 is south of 095), so the bow is turned to the left. Sine of the correction = 2.5 x sin 75 degrees / 12 = 0.20, so 11.6 degrees: 095 - 11.6 = 083. 107 puts the bow on the down-current side.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q06",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Track 000 degrees, speed 8 knots, current setting 180 degrees at 2 knots. What are the course to steer and the speed made good?",
+      "options": [
+        "000 degrees at 10.0 knots",
+        "000 degrees at 6.0 knots",
+        "180 degrees at 6.0 knots",
+        "008 degrees at 8.0 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "The current is dead against the track, so there is no cross-track part and no correction is needed; the current simply subtracts 2 knots.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q07",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship steers 270 degrees at 6 knots. The current sets 180 degrees at 1.5 knots. What are the track and speed made good?",
+      "options": [
+        "About 256 degrees and 6.2 knots",
+        "About 284 degrees and 6.2 knots",
+        "270 degrees and 6.0 knots",
+        "About 256 degrees and 7.5 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "West 6 nm and south 1.5 nm: track = 270 - arctan(1.5 / 6) = 270 - 14 = 256. Speed made good = square root of (6 squared + 1.5 squared) = 6.2 knots. 284 puts the track on the wrong side.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q08",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A track is 18.3 nm long and the speed made good is 9.14 knots. What is the time on passage?",
+      "options": [
+        "2.3 hours",
+        "2.7 hours",
+        "1.7 hours",
+        "2.0 hours"
+      ],
+      "correct_index": 3,
+      "explanation": "Time = distance / speed made good = 18.3 / 9.14 = 2.0 h. Using the ship's speed through the water of 8 knots gives 2.3 hours, which is the wrong speed.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q09",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A boat doing 4 knots must cross a current whose cross-track part is 5 knots. What is the result?",
+      "options": [
+        "She must steer directly into the current",
+        "She can hold the track at a speed made good of 1 knot",
+        "No course can hold the track, because the cross-track current exceeds her speed",
+        "She steers the track and makes good 4 knots"
+      ],
+      "correct_index": 2,
+      "explanation": "The arc of radius equal to the ship's speed never reaches the track. She can only be carried down-current, turn back, or wait for the current to ease.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q10",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "To which side of the track does the bow point to counter a current?",
+      "options": [
+        "To the down-current side",
+        "To the up-current side, the side the water is coming from",
+        "Directly along the track",
+        "To the side of the destination's bearing from the current"
+      ],
+      "correct_index": 1,
+      "explanation": "The bow is pointed up-current of the track, by an angle that cancels the cross-track part of the current.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-to-steer.q11",
+      "lesson_id": "chartwork.course-to-steer",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which formula checks the correction angle for a course to steer?",
+      "options": [
+        "Sine of the correction angle = ship's speed x rate / sine of the track",
+        "Tangent of the correction angle = rate / ship's speed, whatever the set",
+        "Sine of the correction angle = rate x sine of the angle between the set and the track, divided by the ship's speed",
+        "Correction angle = rate x time"
+      ],
+      "correct_index": 2,
+      "explanation": "The cross-track part of the current is rate x sin(angle between set and track). The bow must give an equal and opposite cross-track part of the ship's speed, ship's speed x sin(correction angle). Setting them equal gives the formula.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.variation.q01",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is variation?",
+      "options": [
+        "The angle between magnetic north and compass north caused by the ship",
+        "The angle between the ship's head and the track",
+        "The angle between the true meridian and the magnetic meridian at a place, named east or west",
+        "The difference between the standard and the steering compass"
+      ],
+      "correct_index": 2,
+      "explanation": "Variation belongs to the place on the earth. The angle between magnetic and compass north is deviation, which belongs to the ship, and the angle between heading and track is leeway or set effect.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q02",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does variation depend on?",
+      "options": [
+        "The place, and slowly the date; it does not depend on the ship's heading",
+        "The ship's heading and nothing else",
+        "The ship's loading and the cables near the compass",
+        "The speed of the ship"
+      ],
+      "correct_index": 0,
+      "explanation": "Variation changes with position and drifts slowly with time. The ship's heading, loading and nearby iron change deviation, not variation.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q03",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A true course is 220 degrees and the variation is 17 degrees E. What is the magnetic course?",
+      "options": [
+        "237 degrees",
+        "203 degrees",
+        "017 degrees",
+        "220 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "True to magnetic: subtract easterly variation. 220 - 17 = 203. Adding it (237) is the magnetic-to-true direction.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q04",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A magnetic bearing of 005 degrees is taken where the variation is 17 degrees E. What is the true bearing?",
+      "options": [
+        "348 degrees",
+        "012 degrees",
+        "005 degrees",
+        "022 degrees"
+      ],
+      "correct_index": 3,
+      "explanation": "Magnetic to true: add easterly. 005 + 17 = 022. Subtracting would give minus 12, which wraps to 348 and is the wrong way round.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q05",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A magnetic bearing of 355 degrees is taken where the variation is 16 degrees E. What is the true bearing?",
+      "options": [
+        "339 degrees",
+        "371 degrees",
+        "011 degrees",
+        "019 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "355 + 16 = 371, which is over 360, so subtract 360 to give 011. A bearing is never written above 360. 339 subtracts the variation, and 019 mixes up the figures.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q06",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A chart rose gives 17 degrees 30 minutes E 2015 (8 minutes W). What does the bracket mean?",
+      "options": [
+        "The variation is 8 minutes west of the figure stated",
+        "The easterly variation is increasing by 8 minutes every year",
+        "The deviation is 8 minutes west",
+        "The easterly variation is decreasing by 8 minutes every year"
+      ],
+      "correct_index": 3,
+      "explanation": "The bracket is the annual change and its direction. A westerly change shrinks an easterly variation. It is a rate per year, not a second variation and not deviation.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q07",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A chart rose reads 15 degrees 10 minutes W 2014 (4 minutes E). What is the variation in 2026?",
+      "options": [
+        "14 degrees 22 minutes W",
+        "15 degrees 58 minutes W",
+        "14 degrees 22 minutes E",
+        "15 degrees 10 minutes W"
+      ],
+      "correct_index": 0,
+      "explanation": "Years = 12, change = 12 x 4 = 48 minutes toward the east, which shrinks a westerly variation: 15 degrees 10 minutes - 48 minutes = 14 degrees 22 minutes W. The 15 degrees 58 minutes W answer adds the change instead, and the E answer has not crossed zero.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q08",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A chart rose reads 0 degrees 50 minutes W 2008 (6 minutes E). What is the variation in 2026?",
+      "options": [
+        "0 degrees 58 minutes W",
+        "2 degrees 38 minutes W",
+        "2 degrees 38 minutes E",
+        "0 degrees 58 minutes E"
+      ],
+      "correct_index": 3,
+      "explanation": "Years = 18, change = 18 x 6 = 108 minutes east. Treat west as minus: -50 + 108 = +58 minutes, so 0 degrees 58 minutes E. The variation has crossed zero and changed name. Subtracting and adding in the wrong order gives the 2 degrees 38 minutes answers.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q09",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The variation is 10 degrees W and a true bearing is 090 degrees. What is the magnetic bearing?",
+      "options": [
+        "080 degrees",
+        "090 degrees",
+        "100 degrees",
+        "110 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "True to magnetic: add westerly. 090 + 10 = 100. Westerly variation makes magnetic bearings larger than true ones. 080 is the answer for easterly variation.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q10",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A chart rose printed 12 years ago has an annual change of 6 minutes. If you ignore the change, by roughly how much are your bearings out?",
+      "options": [
+        "6 minutes",
+        "12 minutes",
+        "7 degrees 12 minutes",
+        "1 degree 12 minutes"
+      ],
+      "correct_index": 3,
+      "explanation": "12 years x 6 minutes = 72 minutes = 1 degree 12 minutes. This is a small error per bearing but a real one in a fix, which is why you correct the rose to the current year.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.variation.q11",
+      "lesson_id": "chartwork.variation",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where a chart marks a local magnetic anomaly, what should you do about compass bearings taken there?",
+      "options": [
+        "Apply the variation twice",
+        "Use them in preference to bearings taken elsewhere",
+        "Treat them as unreliable and rely on other means of position",
+        "Apply the deviation from the card for that heading and trust the result"
+      ],
+      "correct_index": 2,
+      "explanation": "Local magnetic disturbance can make the compass read wrongly for a stretch and neither the rose nor the deviation card allows for it. Use bearings of other objects, or other methods.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

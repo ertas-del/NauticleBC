@@ -1,0 +1,203 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.set-and-drift.q01",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A current is said to have a set of 135 degrees. What does this mean?",
+      "options": [
+        "The water is flowing toward the south-east",
+        "The water is coming from the south-east",
+        "The current's speed is 135 knots",
+        "The wind is blowing toward the south-east"
+      ],
+      "correct_index": 0,
+      "explanation": "Set is the direction toward which the current flows. A wind is named by the direction it blows from, which is the usual source of confusion.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q02",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement defines rate and drift correctly?",
+      "options": [
+        "Rate is the distance carried; drift is the speed in knots",
+        "Both are directions",
+        "Rate is the current's speed in knots; drift is the distance it carries the ship in the time",
+        "Rate is the direction; drift is the speed"
+      ],
+      "correct_index": 2,
+      "explanation": "Rate (knots) multiplied by time (hours) gives drift (nautical miles). Some books use 'drift' for the speed, so check the units asked for.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q03",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A current sets 270 degrees at 2.5 knots. How far does it carry the ship in 45 minutes?",
+      "options": [
+        "2.5 nm",
+        "1.9 nm",
+        "112 nm",
+        "3.3 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Drift = rate x time = 2.5 x 0.75 = 1.875, about 1.9 nm toward 270 degrees. 112 forgets to divide by 60, and 3.3 divides by 0.75.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q04",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A fix is taken 1.5 hours after the DR was started. It lies 2.0 nm from the DR position in the direction 045 degrees. What are the set and the rate?",
+      "options": [
+        "Set 045 degrees, rate 1.3 knots",
+        "Set 225 degrees, rate 1.3 knots",
+        "Set 045 degrees, rate 2.0 knots",
+        "Set 045 degrees, rate 3.0 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "The direction from the DR to the fix is the set. The drift of 2.0 nm over 1.5 hours is 2.0 / 1.5 = 1.3 knots. 225 reverses the direction, 2.0 knots forgets the time, and 3.0 multiplies instead of dividing.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q05",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why can the difference between a DR and a fix not simply be called 'the current'?",
+      "options": [
+        "It includes only the effect of wind",
+        "It is always larger than the current",
+        "It includes leeway, steering error, compass error and log error as well",
+        "It is measured in the wrong units"
+      ],
+      "correct_index": 2,
+      "explanation": "The offset is the sum of everything the DR ignored. If the log reads high or the compass error is uncorrected, those errors appear in the offset.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q06",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship steers 000 degrees at 6 knots for 3 hours. The current sets 090 degrees at 1.0 knot. Which gives the track and speed made good?",
+      "options": [
+        "About 081 degrees at 6.1 knots",
+        "About 009 degrees at 6.1 knots",
+        "About 351 degrees at 6.1 knots",
+        "About 009 degrees at 7.0 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "DR distance 18 nm north; drift 3.0 nm east. Track = arctan(3.0 / 18) = 9.5 degrees from north toward east, so 009 degrees. Distance = square root of (18 squared + 3 squared) = 18.2 nm in 3 hours, 6.1 knots. 081 uses the wrong ratio, 351 the wrong side, and 7.0 adds the rate.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q07",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is the estimated position found from a DR and a known set and rate?",
+      "options": [
+        "Draw the set direction from the DR position for a distance equal to rate x time",
+        "Draw the set direction from the last fix for the distance of the DR",
+        "Draw the reciprocal of the set from the DR",
+        "Move the DR by the rate in the direction of the track"
+      ],
+      "correct_index": 0,
+      "explanation": "The current carries the ship from where the DR places her, in the direction of its set, by the drift in the time since the last fix. The end of that line is the EP.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q08",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A current sets 270 degrees. In which direction does it push the ship?",
+      "options": [
+        "Toward the east",
+        "Toward the west",
+        "Toward the north",
+        "Toward the south"
+      ],
+      "correct_index": 1,
+      "explanation": "Set is the direction toward which the current flows. 270 degrees is west.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.set-and-drift.q09",
+      "lesson_id": "chartwork.set-and-drift",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "After finding the set and drift from a DR and a fix, from where is the next DR laid?",
+      "options": [
+        "From the fix",
+        "From the old DR position",
+        "From the midpoint between them",
+        "From the previous fix"
+      ],
+      "correct_index": 0,
+      "explanation": "A fix restarts the dead reckoning. The offset is carried forward as a set and drift if the current is expected to persist.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

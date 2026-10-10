@@ -1,0 +1,222 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.chart-datums.q01",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In Canadian tidal waters, charted depths are measured from which level?",
+      "options": [
+        "Mean sea level",
+        "Higher high water, large tide",
+        "Lower low water, large tide (LLWLT), formerly called lowest normal tide",
+        "The water level at the time the survey was made"
+      ],
+      "correct_index": 2,
+      "explanation": "Chart datum in Canadian tidal waters is a low-water level, LLWLT, so that there is normally at least the charted depth of water. Mean sea level would put many soundings above the water at low tide, and HHWLT is the high-water level used for heights and clearances.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q02",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "To which level are charted vertical clearances of bridges and overhead cables normally referred in Canadian tidal waters?",
+      "options": [
+        "Higher high water, large tide (HHWLT)",
+        "Chart datum",
+        "Mean sea level",
+        "Lowest normal tide"
+      ],
+      "correct_index": 0,
+      "explanation": "Clearances and heights of lights and islands use a high-water datum so that the clearance shown is about the least you will find. Using chart datum would make the printed clearance bigger than the real one. The chart title states the datums, so read it.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q03",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Charted depth 5.6 m, height of tide 1.9 m, draught 2.4 m. How much water is under the keel? (Invented figures.)",
+      "options": [
+        "1.3 m",
+        "5.1 m",
+        "7.5 m",
+        "9.9 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Depth of water = 5.6 + 1.9 = 7.5 m. Water under the keel = 7.5 - 2.4 = 5.1 m. 1.3 m results from subtracting the tide, 7.5 m forgets the draught, and 9.9 m adds the draught instead of subtracting it.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q04",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rock is charted with an underlined figure 1.6. The height of tide is 3.4 m. How much water covers the rock? (Invented figures.)",
+      "options": [
+        "5.0 m",
+        "1.6 m",
+        "1.8 m",
+        "3.4 m"
+      ],
+      "correct_index": 2,
+      "explanation": "An underlined figure is a drying height above chart datum. Depth over it = height of tide - drying height = 3.4 - 1.6 = 1.8 m. Adding the two (5.0 m) is the usual slip, and the other two simply repeat a given number.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q05",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does an underlined figure 0.9 on a drying area of a chart mean?",
+      "options": [
+        "There is 0.9 m of water at chart datum",
+        "There is 0.9 m of water at high water",
+        "A feature stands 0.9 m above higher high water, large tide",
+        "The seabed there stands 0.9 m above chart datum"
+      ],
+      "correct_index": 3,
+      "explanation": "Underlined figures on drying areas are drying heights: the ground is that many metres above chart datum, so you would be on dry ground at the lowest tides. A plain figure is the opposite, a depth of water below chart datum.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q06",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A bridge has a charted clearance of 9.0 m. HHWLT at the place is 4.2 m above chart datum and the present height of tide is 2.2 m. Your mast is 10.2 m above the waterline. How much room is there between the masthead and the bridge? (Invented figures.)",
+      "options": [
+        "0.8 m",
+        "1.0 m",
+        "3.0 m",
+        "Minus 1.2 m, so the mast would hit"
+      ],
+      "correct_index": 0,
+      "explanation": "The water is 4.2 - 2.2 = 2.0 m below the HHWLT level, so the clearance now is 9.0 + 2.0 = 11.0 m and the gap is 11.0 - 10.2 = 0.8 m. 1.0 m comes from adding the tide height directly (9.0 + 2.2), 3.0 m forgets to subtract the present tide, and minus 1.2 m forgets to add the extra clearance at all.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q07",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why may the real depth of water be less than the charted depth plus the predicted tide?",
+      "options": [
+        "Charted depths are averages, so half of them are overstated",
+        "Charted depths are measured at higher high water",
+        "Tide tables are always printed for a different place",
+        "Chart datum is a low level that the water seldom, but not never, falls below, and wind, air pressure or river flow can lower the actual level; the seabed may also have changed since the survey"
+      ],
+      "correct_index": 3,
+      "explanation": "Charted depths are meant to be about the least you will find, but the predicted tide is only a prediction. Weather and river flow can push the level below prediction, and survey age matters. The statement that depths are averages or measured at high water is false.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q08",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about soundings on a metric Canadian chart matches Chart 1?",
+      "options": [
+        "They are shown in metres and decimetres down to 21 m and in whole metres beyond",
+        "They are shown in whole metres only, with decimals dropped",
+        "They are shown in metres and decimetres at every depth",
+        "They are shown in fathoms below 20 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Chart 1 gives soundings in metres and decimetres to 21 m and whole metres beyond. A small subscript is the decimetre figure, so 7 with a small 2 is 7.2 m.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q09",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A channel has a charted depth of 1.8 m. Your draught is 2.1 m and you want at least 0.6 m under the keel. What is the least height of tide you need? (Invented figures.)",
+      "options": [
+        "0.3 m",
+        "0.9 m",
+        "3.9 m",
+        "0.6 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Water needed = draught + clearance = 2.1 + 0.6 = 2.7 m. Tide needed = 2.7 - 1.8 = 0.9 m above chart datum. 0.3 m ignores the clearance, 3.9 m adds the charted depth instead of subtracting it, and 0.6 m only repeats the clearance wanted.",
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-datums.q10",
+      "lesson_id": "chartwork.chart-datums",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "An old chart's title block says depths are in fathoms and feet, but the tide table gives metres. What should you do before working out the water under your keel?",
+      "options": [
+        "Add the numbers as they stand, since both are measured from chart datum",
+        "Ignore the title block, because all charts are in metres",
+        "Convert them to the same unit before combining them",
+        "Use the tide table only"
+      ],
+      "correct_index": 2,
+      "explanation": "Both numbers are measured from chart datum, but a fathom is not a metre. Mixing units gives a wrong answer that looks tidy. Always read the units and datums in the chart title.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

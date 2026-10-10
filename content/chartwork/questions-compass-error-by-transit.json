@@ -1,0 +1,246 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.compass-error-by-transit.q01",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is a transit in the sense used for finding compass error?",
+      "options": [
+        "Two buoys on either side of a channel",
+        "Two charted objects seen in line, so that the ship is somewhere on the extension of the line joining them",
+        "The moment a heavenly body crosses the meridian",
+        "A course made good over the ground"
+      ],
+      "correct_index": 1,
+      "explanation": "A transit is two fixed charted objects in line. The ship is on the line through them, and the line has a true bearing that can be read from the chart.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q02",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why does a transit give the compass error without a fix?",
+      "options": [
+        "Because the compass is more accurate near the objects",
+        "Because the objects are always exactly north of the ship",
+        "The true bearing of the line is the same wherever the ship is on the line, so it can be taken from the chart",
+        "Because a transit has no variation"
+      ],
+      "correct_index": 2,
+      "explanation": "The bearing of the objects, seen from anywhere on their line, is the direction of the line. You compare that charted true bearing with the compass bearing and the difference is the compass error.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q03",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The chart gives the true bearing of a transit as 220 degrees. The ship's compass bearing of the objects in line is 213 degrees. What is the compass error?",
+      "options": [
+        "7 degrees W",
+        "7 degrees E",
+        "14 degrees E",
+        "14 degrees W"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass error = true - compass = 220 - 213 = +7, so the error is east: the compass reads low. If you subtracted the other way you would get 7 W.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q04",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Compass error found from a transit is 15 degrees E. The corrected variation is 17 degrees E. What is the deviation on that heading?",
+      "options": [
+        "2 degrees E",
+        "32 degrees E",
+        "32 degrees W",
+        "2 degrees W"
+      ],
+      "correct_index": 3,
+      "explanation": "Deviation = compass error - variation = +15 - (+17) = -2, which is 2 W. Adding the two numbers (32) is the common slip.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q05",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A transit has a true bearing of 215 degrees. The compass bearing is 199 degrees. The variation, corrected to this year, is 17 degrees E. What are the compass error and deviation?",
+      "options": [
+        "Compass error 16 degrees W, deviation 1 degree E",
+        "Compass error 16 degrees E, deviation 1 degree W",
+        "Compass error 16 degrees E, deviation 33 degrees E",
+        "Compass error 34 degrees E, deviation 17 degrees E"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass error = 215 - 199 = 16 E. Deviation = 16 - 17 = -1, so 1 W. The other options reverse the names or add the variation instead of subtracting it.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q06",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A student finds a deviation of 22 degrees W from a transit when the card shows only a few degrees. What is the sensible next step?",
+      "options": [
+        "Look for a mistake (variation sign or year, reciprocal bearing, wrong marks) or a magnetic disturbance near the compass before trusting the result",
+        "Enter 22 degrees W on the card, since it was measured",
+        "Halve the figure, since it is probably double counted",
+        "Ignore the transit and use the old card"
+      ],
+      "correct_index": 0,
+      "explanation": "A deviation of that size on a compensated compass is not believable. Typical causes are the wrong sign or an uncorrected variation, a reciprocal bearing, unidentified marks, or iron or a speaker near the compass. Find the cause before recording anything.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q07",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Looking from seaward, a front beacon and a rear tower are in line. Which direction is the true bearing of the transit?",
+      "options": [
+        "From the rear object toward the front one",
+        "From the front object toward the rear one, which is the direction from you toward both",
+        "The course the ship is steering",
+        "The reciprocal of the direction from you toward the objects"
+      ],
+      "correct_index": 1,
+      "explanation": "The ship sees the objects in the direction from the front mark toward the rear mark. Measuring the reverse gives a bearing 180 degrees out.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q08",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A transit has a true bearing of 047 degrees. The gyro-compass bearing of the objects in line is 048.5 degrees. What is the gyro error?",
+      "options": [
+        "1.5 degrees E",
+        "0.5 degrees W",
+        "95.5 degrees W",
+        "1.5 degrees W"
+      ],
+      "correct_index": 3,
+      "explanation": "Gyro error = true - gyro = 047.0 - 048.5 = -1.5, so 1.5 W: the gyro reads high. There is no variation to take off for a gyro.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q09",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "To which heading does a deviation found from a transit apply?",
+      "options": [
+        "Every heading of the ship",
+        "The heading that the transit bears",
+        "The ship's compass heading at the moment of the observation",
+        "The reciprocal of the bearing of the transit"
+      ],
+      "correct_index": 2,
+      "explanation": "Deviation changes as the ship swings, so a single observation gives the deviation for that heading only. Note the heading when you take the bearing.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q10",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What should be entered in the log after a compass check by a transit?",
+      "options": [
+        "Only the deviation, because it is the only part that changes",
+        "The date, time, ship's heading, true and compass bearings and the resulting error",
+        "Only the variation from the rose",
+        "Nothing, if the error is within 5 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "The draft competence includes keeping a record of compass errors. A full entry lets the next person repeat the check and rebuild the deviation card.",
+      "source_ids": [
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-by-transit.q11",
+      "lesson_id": "chartwork.compass-error-by-transit",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The rose reads 18 degrees 30 minutes E 2015 (8 minutes W). In 2026 a transit with a true bearing of 050 degrees has a compass bearing of 036 degrees. What is the deviation, to the nearest degree?",
+      "options": [
+        "4.5 degrees W",
+        "3 degrees E",
+        "31 degrees E",
+        "3 degrees W"
+      ],
+      "correct_index": 3,
+      "explanation": "Variation 2026 = 18 30 - 11 x 8 minutes = 18 30 - 1 28 = 17 02 E, say 17 E. Compass error = 50 - 36 = 14 E. Deviation = 14 - 17 = -3, so 3 W. Using the uncorrected 18.5 E gives 4.5 W, and the other answers reverse the sign or add.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

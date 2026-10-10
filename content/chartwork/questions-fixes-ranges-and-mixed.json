@@ -1,0 +1,225 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q01",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A single radar range to a charted lighthouse puts the ship on what?",
+      "options": [
+        "A straight line through the lighthouse",
+        "A circle of position centred on the lighthouse",
+        "A fixed point",
+        "A line parallel to the coast"
+      ],
+      "correct_index": 1,
+      "explanation": "Distance alone does not give direction. The ship could be anywhere on the circle whose radius is the range. A second range gives a second circle and a fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q02",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a fix from two radar ranges preferred to range and bearing of one object?",
+      "options": [
+        "Radar bearing is always exact",
+        "Ranges can be measured on the longitude scale",
+        "Two ranges need no identification of the objects",
+        "Radar range is more accurate than radar bearing"
+      ],
+      "correct_index": 3,
+      "explanation": "Range depends on the timing of the echo; bearing depends on beam width and the heading reference, so it is the weaker measurement.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q03",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two range arcs cross at two points about 6 nm apart. The DR is within 1 nm of one of them. What do you do?",
+      "options": [
+        "Take the crossing farthest from the DR",
+        "Take the midpoint of the two",
+        "Take the crossing nearest the DR, and confirm with a bearing or third range if in doubt",
+        "Reject both and use the DR"
+      ],
+      "correct_index": 2,
+      "explanation": "Two circles intersect at two points. The DR picks the right one; a third line removes the doubt.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q04",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At what angle should two range arcs ideally cross as seen from the ship?",
+      "options": [
+        "About 10 degrees",
+        "About 90 degrees",
+        "About 180 degrees",
+        "About 0 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "The best crossing is at right angles. Objects nearly in line produce nearly tangent circles and a poor fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q05",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A lighthouse at 49 degrees 00.0 minutes N, 123 degrees 30.0 minutes W is 2.4 nm away on a bearing of 090 degrees true from the ship. cos 49 degrees = 0.656. What is the ship's position?",
+      "options": [
+        "49 degrees 00.0 minutes N, 123 degrees 26.3 minutes W",
+        "49 degrees 02.4 minutes N, 123 degrees 30.0 minutes W",
+        "49 degrees 00.0 minutes N, 123 degrees 32.4 minutes W",
+        "49 degrees 00.0 minutes N, 123 degrees 33.7 minutes W"
+      ],
+      "correct_index": 3,
+      "explanation": "The ship is on the reciprocal, 270 degrees, from the lighthouse. Departure 2.4 nm west; difference of longitude = 2.4 / 0.656 = 3.7 minutes W, so 123 degrees 33.7 minutes W. East of the light (26.3) is the wrong side, and 32.4 forgets to divide by the cosine.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q06",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The echo sounder reads 9.6 m below the transducer, which is 0.6 m below the waterline. The height of tide is 2.2 m. What depth do you compare with the chart?",
+      "options": [
+        "8.0 m",
+        "6.8 m",
+        "12.4 m",
+        "7.4 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Depth of water = 9.6 + 0.6 = 10.2 m. Charted equivalent = depth of water - height of tide = 10.2 - 2.2 = 8.0 m. 6.8 subtracts the transducer offset, 12.4 adds the tide, and 7.4 omits the offset.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q07",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A single echo-sounder reading matches a charted sounding. What does that tell you?",
+      "options": [
+        "It is a fix, because depth is unique",
+        "It proves the chart is out of date",
+        "It replaces the need for a DR",
+        "It is consistent with your position but not a fix, because many places have the same depth"
+      ],
+      "correct_index": 3,
+      "explanation": "A depth is a check. A well-defined contour can act as a line of position, but one sounding alone is not a fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q08",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Where is a radar range measured with dividers read off the chart?",
+      "options": [
+        "On the latitude scale at the side of the chart, level with the work",
+        "On the longitude scale along the bottom",
+        "On the scale in the title block",
+        "On the compass rose"
+      ],
+      "correct_index": 0,
+      "explanation": "The length of a minute of latitude changes with latitude on a Mercator chart, so use the part of the side scale level with the work.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q09",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which radar target is best for a range fix?",
+      "options": [
+        "A low sloping beach with no distinct edge",
+        "A steep-to cliff or small islet that is clearly identified on the display and the chart",
+        "An unidentified echo",
+        "A large area of rain clutter"
+      ],
+      "correct_index": 1,
+      "explanation": "Choose well-defined, positively identified objects. Low shores return echoes from somewhere inland of the charted waterline.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.fixes-ranges-and-mixed.q10",
+      "lesson_id": "chartwork.fixes-ranges-and-mixed",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Radar gives you the range and the bearing of one lighthouse at the same instant. What can you say about the resulting position?",
+      "options": [
+        "It is a fix, but a weaker one than two ranges because it carries the bearing error",
+        "It is exact because both measurements come from the same object",
+        "It is only an estimated position, never a fix",
+        "It needs a third object to be a fix"
+      ],
+      "correct_index": 0,
+      "explanation": "The range and bearing of one object give a fix, but the bearing error is carried into it, which is why two ranges are preferred.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-saferoceans-course-info"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
