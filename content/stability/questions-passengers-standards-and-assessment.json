@@ -1,0 +1,230 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.passengers-standards-and-assessment.q01",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What must the passenger safety briefing under the Small Vessel Regulations cover about stability?",
+      "options": [
+        "The effect of the movement and grouping of passengers on the stability of the vessel",
+        "The vessel's KM and KG figures",
+        "The IS Code criteria for the vessel",
+        "How to incline the vessel"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 401(1)(e) lists the effect of the movement and grouping of passengers on stability as a briefing item. Passengers do not need the numbers; they need to know why they should not all rush to one rail.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q02",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crowd of passengers goes up to an upper deck and then moves to one rail. Which two effects do they have on the vessel?",
+      "options": [
+        "Going up lowers G, and moving sideways has no effect",
+        "Going up has no effect, and moving sideways raises G",
+        "Going up raises G (cutting GM), and moving to one side shifts G sideways (causing a list)",
+        "Both movements only increase the displacement"
+      ],
+      "correct_index": 2,
+      "explanation": "Weight moved higher raises G; weight moved sideways shifts G off the centreline. Together they produce a bigger list than the sideways movement alone, because the smaller GM gives a larger angle for the same shift.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q03",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Ten passengers weighing 80 kg each (0.8 t in all) move 2.0 m to one side of a 20 t vessel with GM 0.40 m. What is the list (tan(list) = GG1 / GM)?",
+      "options": [
+        "About 11.3 degrees",
+        "About 5.7 degrees",
+        "About 0.2 degrees",
+        "About 21.8 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "GG1 = 0.8 x 2.0 / 20 = 0.08 m. tan(list) = 0.08 / 0.40 = 0.20, and the list is 11.3 degrees. 0.2 is the tangent, not the angle; 5.7 degrees comes from dividing by 0.80 as GM.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q04",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under the Small Vessel Regulations, what must the owner and operator of a vessel other than a pleasure craft ensure about stability?",
+      "options": [
+        "That GM is at least 0.15 m at all times",
+        "That the vessel has a stability booklet in every case",
+        "That passengers do not exceed 12 in number",
+        "That the vessel has adequate stability and structural strength to safely carry out its intended operations, and the owner must show this when the Minister asks"
+      ],
+      "correct_index": 3,
+      "explanation": "Sections 601(2) and 716 set the standard as adequate for the intended operations. The regulation does not set a GM figure; how stability is shown depends on the vessel's size and the applicable standard.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q05",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Who must inform the Minister of a major modification, and what counts?",
+      "options": [
+        "The master; only a change of engine counts",
+        "The owner of a vessel other than a pleasure craft; a change that affects watertight integrity or stability counts",
+        "The crew; any repair counts",
+        "Nobody; this is optional"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 710 puts the duty on the owner, and a major modification includes any change that affects watertight integrity or stability.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q06",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "For larger certificated vessels, which stability standard do the Vessel Certificates and Equipment Regulations require?",
+      "options": [
+        "The Collision Regulations, Rule 7",
+        "Compliance with Part B of the 2008 IS Code as modified by the Canadian modifications in TP 7301",
+        "A rolling period of less than the beam",
+        "No standard; the master decides"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 101 refers to Part B of the 2008 IS Code as modified by TP 7301 (December 2023). Whether these regulations apply to a particular vessel depends on its size and operation, so check.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q07",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "As quoted in this lesson (and not verified in the code itself), which is among the 2008 IS Code general GZ criteria?",
+      "options": [
+        "Area under the GZ curve to 40 degrees of at most 0.09 m.rad",
+        "Maximum GZ below 25 degrees",
+        "Initial GM of at most 0.15 m",
+        "Area under the GZ curve to 40 degrees (or to the downflooding angle if less) of at least 0.09 m.rad"
+      ],
+      "correct_index": 3,
+      "explanation": "The quoted criteria are minimums: 0.055 m.rad to 30 degrees, 0.09 m.rad to 40 degrees or the downflooding angle if smaller, 0.03 m.rad between 30 and 40, GZ at least 0.20 m at 30 degrees or more, angle of maximum GZ at least 25 degrees, and GM at least 0.15 m. They are floors, not ceilings.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q08",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In an inclining experiment on a 20 t vessel, a 0.4 t weight is moved 2.5 m across the deck and the list gives tan(heel) = 0.10. What GM does this give?",
+      "options": [
+        "0.50 m",
+        "0.05 m",
+        "5.0 m",
+        "0.20 m"
+      ],
+      "correct_index": 0,
+      "explanation": "GM = w x d / (displacement x tan(heel)) = 0.4 x 2.5 / (20 x 0.10) = 1.0 / 2.0 = 0.50 m. 0.05 divides by the wrong value, and 5.0 forgets the displacement.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.passengers-standards-and-assessment.q09",
+      "lesson_id": "stability.passengers-standards-and-assessment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which best describes a stability booklet or notice on a vessel?",
+      "options": [
+        "An optional guide that the master may ignore",
+        "A document that replaces the master's judgement in all weather",
+        "A document supplied by a competent person that sets operating limits; the master must operate within them and keep a copy aboard",
+        "A record of the vessel's repairs"
+      ],
+      "correct_index": 2,
+      "explanation": "Under the pattern in the Fishing Vessel Safety Regulations (ss. 3.57 to 3.6), a competent person provides the booklet or record of stability and the notice, a copy is kept aboard, and the master operates within the limits and makes sure the crew know the notice.",
+      "source_ids": [
+        "stab-svr-sor-2010-91-stability",
+        "stab-vcer-sor-2023-257-stability",
+        "stab-wartsila-intact-criteria",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

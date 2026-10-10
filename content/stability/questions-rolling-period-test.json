@@ -1,0 +1,212 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.rolling-period-test.q01",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What counts as one complete roll when you time the rolling period?",
+      "options": [
+        "From one side across to the other",
+        "From upright to the greatest heel on one side",
+        "From one side out and across to the other and back to the same side",
+        "Any single swing of the masthead"
+      ],
+      "correct_index": 2,
+      "explanation": "A complete roll is out and back. Counting each swing as a roll halves the period and gives false comfort.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q02",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "8 complete rolls take 44 seconds. What is the rolling period?",
+      "options": [
+        "352 seconds",
+        "0.18 seconds",
+        "11 seconds",
+        "5.5 seconds"
+      ],
+      "correct_index": 3,
+      "explanation": "Period = total time / number of complete rolls = 44 / 8 = 5.5 s. Multiplying gives 352; inverting gives the roll frequency of 0.18 per second.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q03",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "For the same vessel, what does a longer rolling period tell you?",
+      "options": [
+        "GM is larger, so she is stiffer",
+        "GM is smaller, so she is more tender and has less stability",
+        "KM has increased",
+        "She has a higher freeboard"
+      ],
+      "correct_index": 1,
+      "explanation": "A small GM returns the vessel slowly, so she hangs at the end of each roll and has a long period. A large GM gives a short period.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q04",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A small vessel has a beam of 4.5 m and her rolling period is measured at 5.1 seconds. Using the rule of thumb that the period in seconds should be less than the beam in metres, what is the conclusion?",
+      "options": [
+        "The check passes, since 5.1 is a small number",
+        "The check passes, because the period exceeds the beam",
+        "The check is not met, so look harder at her stability",
+        "The check cannot be applied to a small vessel"
+      ],
+      "correct_index": 2,
+      "explanation": "The rule says a period shorter than the beam (in metres) suggests enough stability. 5.1 is longer than 4.5, so she does not meet the screening check. That is a reason to ask for a proper assessment, not proof of danger.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q05",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Using GM = (0.8 x beam / T) squared, what is the rough GM of a vessel with beam 5.0 m and a rolling period of 6.0 seconds?",
+      "options": [
+        "About 0.44 m",
+        "About 0.67 m",
+        "About 0.80 m",
+        "About 2.25 m"
+      ],
+      "correct_index": 0,
+      "explanation": "0.8 x 5.0 / 6.0 = 0.667; squared = 0.444 m. 0.67 forgets to square, 2.25 inverts the fraction, and 0.80 is just the constant. The constant 0.8 is a teaching figure; a real vessel's own constant is needed.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q06",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Where and how should a rolling period test be done?",
+      "options": [
+        "Alongside the dock, tight on her lines, with a single roll timed",
+        "In a heavy sea, because that is where it matters",
+        "In calm water, with the vessel free of lines that restrain her, in the loading condition being checked, timing several complete rolls",
+        "Only when the tanks are completely empty"
+      ],
+      "correct_index": 2,
+      "explanation": "Lines and fenders change the roll, and waves force the vessel at the wave's period. Different loading conditions give different periods, so test the one you care about, and time several rolls for accuracy.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q07",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crew times 6 complete rolls (12 swings) in 48 seconds but counts each swing as a roll. What is the correct period, and what did the mistake give?",
+      "options": [
+        "8.0 s is correct; counting swings gave 4.0 s, a false impression of high stability",
+        "4.0 s is correct; counting swings gave 8.0 s",
+        "8.0 s is correct; counting swings gave 16 s",
+        "Both methods give 4.0 s"
+      ],
+      "correct_index": 0,
+      "explanation": "Period = 48 / 6 = 8.0 s. Counting 12 swings as rolls gives 48 / 12 = 4.0 s, half the true value, which falsely suggests a stiff, stable vessel.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q08",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel's rolling period is getting longer during a trip while the weather is steady. What should the crew suspect, and what should they do?",
+      "options": [
+        "Her GM is growing, so no action is needed",
+        "The compass is out; check the course",
+        "Her stability criteria have been met; stop checking",
+        "GM may be shrinking from burned fuel, ice, a slack tank or top weight; tell the master"
+      ],
+      "correct_index": 3,
+      "explanation": "A lengthening period means smaller GM. Possible causes are low weight burned off, ice, free surface or added top weight. The master needs to know.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.rolling-period-test.q09",
+      "lesson_id": "stability.rolling-period-test",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A small vessel passes the rolling-period rule of thumb. Which is the correct statement?",
+      "options": [
+        "She is approved for all loading conditions",
+        "It is only a screening check; it does not replace the vessel's stability documents or tell you about the GZ curve, downflooding angle or range of stability",
+        "Her GZ curve must meet all the IS Code criteria",
+        "She no longer needs a stability notice"
+      ],
+      "correct_index": 1,
+      "explanation": "The test gives a rough indication of GM in one loading condition. It says nothing about the shape of the GZ curve, freeboard, the downflooding angle or free surface in other conditions.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

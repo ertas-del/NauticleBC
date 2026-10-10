@@ -1,0 +1,221 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.free-surface.q01",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is free surface in stability?",
+      "options": [
+        "The distance between the waterline and the deck",
+        "The area of the waterplane",
+        "A liquid surface that can move freely as the vessel heels, such as in a part-full tank, a bilge, or water on deck",
+        "The top surface of the cargo"
+      ],
+      "correct_index": 2,
+      "explanation": "Free surface is any liquid surface that is able to slosh to the low side when the vessel leans. It is not freeboard or waterplane area.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q02",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tank is half full of fuel. When the vessel heels, the fuel runs to the low side. How does that affect her stability?",
+      "options": [
+        "It acts like a rise of G, reducing the effective GM, although the solid weights have not moved",
+        "It lowers G, which improves stability",
+        "It has no effect, because the weight of the fuel is the same",
+        "It raises M, which improves stability"
+      ],
+      "correct_index": 0,
+      "explanation": "The liquid's centre of gravity shifts to the low side as she heels, adding to the heeling and cutting the righting lever. The effect is the same as a rise of G, called the virtual rise of G.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q03",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The free surface moment of a vessel's slack tanks is 6.0 t.m. She displaces 48 t and has a solid GM of 0.50 m. What is her fluid GM?",
+      "options": [
+        "0.625 m",
+        "0.125 m",
+        "0.50 m",
+        "0.375 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Loss of GM = free surface moment / displacement = 6.0 / 48 = 0.125 m. Fluid GM = 0.50 - 0.125 = 0.375 m. 0.625 adds the loss instead of subtracting it; 0.125 is the loss alone, and 0.50 ignores free surface.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q04",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A rectangular seawater tank is 2.5 m long (fore-and-aft) and 2.0 m wide (athwartships), and part full. What is its free surface moment, using density x length x breadth cubed / 12 with seawater 1.025 t/m3?",
+      "options": [
+        "About 0.43 t.m",
+        "About 1.71 t.m",
+        "About 0.85 t.m",
+        "About 20.5 t.m"
+      ],
+      "correct_index": 1,
+      "explanation": "FSM = 1.025 x 2.5 x 2.0^3 / 12 = 1.025 x 2.5 x 8 / 12 = 1.708 t.m. 0.43 uses the breadth instead of its cube, 0.85 squares the breadth instead of cubing it, and 20.5 forgets to divide by 12.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q05",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tank's width athwartships is halved, and its length and the liquid are the same. What happens to the free surface effect?",
+      "options": [
+        "It halves",
+        "It falls to one eighth, because the breadth is cubed",
+        "It falls to one quarter",
+        "It is unchanged"
+      ],
+      "correct_index": 1,
+      "explanation": "The free surface moment is proportional to breadth cubed, so half the breadth gives one eighth (1/2 cubed). Halving the length would only halve the effect.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q06",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Tank A is 3.0 m long and 1.0 m wide. Tank B holds the same liquid and is 1.5 m long and 2.0 m wide. Both are part full. Compared with tank A, what is the free surface effect of tank B?",
+      "options": [
+        "Half as large",
+        "The same",
+        "Eight times as large",
+        "Four times as large"
+      ],
+      "correct_index": 3,
+      "explanation": "A: length x breadth cubed = 3.0 x 1 = 3.0. B: 1.5 x 8 = 12.0. B / A = 4. The wide tank is worse, even though it is shorter.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q07",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two longitudinal baffles divide a wide tank into three equal narrow pens. What is the effect on the free surface effect?",
+      "options": [
+        "It is reduced to about one ninth of its original value, but not removed",
+        "It is removed completely",
+        "It is reduced to one third",
+        "It is increased, because there are more surfaces"
+      ],
+      "correct_index": 0,
+      "explanation": "Each pen is one third as wide, so each has 1/27 of the original effect; three pens give 3 x 1/27 = 1/9. Baffles shrink free surface; they do not eliminate it.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q08",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which tank condition has no free surface effect?",
+      "options": [
+        "A tank that is half full",
+        "A tank that is 90 percent full",
+        "A tank that is completely full (pressed up) or completely empty",
+        "A tank that is nearly empty"
+      ],
+      "correct_index": 2,
+      "explanation": "With no air space, the liquid cannot shift; with no liquid there is nothing to shift. A tank that is nearly full or nearly empty still has a free surface and an effect, which depends on its breadth and little on the amount of liquid.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.free-surface.q09",
+      "lesson_id": "stability.free-surface",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the best practice for a crew to limit free surface?",
+      "options": [
+        "Keep all tanks about half full so the weight is balanced",
+        "Close the freeing ports to stop water leaving the vessel",
+        "Leave water on deck to add stability",
+        "Keep tanks full or empty, keep the deck and bilges clear of water, and keep freeing ports and scuppers open"
+      ],
+      "correct_index": 3,
+      "explanation": "Half-full tanks have the worst free surface effect for their size. Freeing ports drain water that would otherwise form a wide, high free surface on deck. Water on deck never adds stability.",
+      "source_ids": [
+        "stab-swos-dca-4-3",
+        "stab-wikipedia-free-surface-effect",
+        "stab-wikipedia-metacentric-height",
+        "stab-mt4241-stability-trim"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
