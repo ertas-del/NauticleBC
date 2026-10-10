@@ -37,6 +37,11 @@ private val modules = listOf(
     ModuleCard("seamanship", R.string.module_seamanship, R.string.module_seamanship_desc, available = true),
     ModuleCard("chartwork", R.string.module_chartwork, R.string.module_chartwork_desc, available = true),
     ModuleCard("stability", R.string.module_stability, R.string.module_stability_desc, available = true),
+    ModuleCard("radio", R.string.module_radio, R.string.module_radio_desc, available = true),
+    ModuleCard("meteorology", R.string.module_meteorology, R.string.module_meteorology_desc, available = true),
+    ModuleCard("canadian-regulations", R.string.module_canadian_regulations, R.string.module_canadian_regulations_desc, available = true),
+    ModuleCard("radar", R.string.module_radar, R.string.module_radar_desc, available = true),
+    ModuleCard("electronic-navigation", R.string.module_electronic_navigation, R.string.module_electronic_navigation_desc, available = true),
     ModuleCard("machinery", R.string.module_machinery, R.string.module_machinery_desc, available = true),
 )
 
@@ -49,6 +54,11 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     "seamanship" -> R.string.module_seamanship
     "chartwork" -> R.string.module_chartwork
     "stability" -> R.string.module_stability
+    "radio" -> R.string.module_radio
+    "meteorology" -> R.string.module_meteorology
+    "canadian-regulations" -> R.string.module_canadian_regulations
+    "radar" -> R.string.module_radar
+    "electronic-navigation" -> R.string.module_electronic_navigation
     "machinery" -> R.string.module_machinery
     else -> null
 }
