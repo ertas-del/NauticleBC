@@ -1,0 +1,181 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q01",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The thermostat in an engine cooling system:",
+      "options": [
+        "Filters sea water",
+        "Pumps the coolant",
+        "Regulates coolant temperature",
+        "Removes air from fuel"
+      ],
+      "correct_index": 2,
+      "explanation": "A stuck thermostat is a classic cause of overheating.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q02",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The expansion tank is placed at the highest point in a fresh water cooling system so it can:",
+      "options": [
+        "Act as a bilge",
+        "Hold spare fuel",
+        "Cool the exhaust",
+        "Allow for expansion and let air escape"
+      ],
+      "correct_index": 3,
+      "explanation": "It keeps the system full and helps release trapped air.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q03",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A sea water strainer in a cooling circuit is there to:",
+      "options": [
+        "Reduce engine noise",
+        "Warm the water",
+        "Add coolant",
+        "Stop debris from blocking the coolers and pump"
+      ],
+      "correct_index": 3,
+      "explanation": "A blocked strainer is a common cause of overheating. Clean it regularly.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q04",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Sea water is not used to cool the inside of a diesel engine mainly because it:",
+      "options": [
+        "Is too cold",
+        "Is too clean",
+        "Causes corrosion and scale and deposits salt",
+        "Is too warm"
+      ],
+      "correct_index": 2,
+      "explanation": "Fresh water with additives is used inside the engine.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q05",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "You should not remove a hot pressure cap from an expansion tank because:",
+      "options": [
+        "The thermostat will close",
+        "The cap will rust",
+        "The coolant can flash to steam and scald you",
+        "The engine will stall"
+      ],
+      "correct_index": 2,
+      "explanation": "Let the system cool and open the cap slowly with a cloth over it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q06",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A failed raw water impeller will most likely cause:",
+      "options": [
+        "Low oil pressure",
+        "A flat battery",
+        "Black smoke only",
+        "Overheating because the sea water flow stops"
+      ],
+      "correct_index": 3,
+      "explanation": "Check the water flow at the exhaust. Carry a spare impeller.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q07",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "In a fresh water and sea water heat exchanger, the fresh water side is usually kept at the higher pressure so that a leak:",
+      "options": [
+        "Loses a little coolant but does not let salt into the engine",
+        "Lets salt water into the engine",
+        "Stops the pump",
+        "Heats the sea water"
+      ],
+      "correct_index": 0,
+      "explanation": "Pressure order is arranged so a leak does the least harm.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.cooling.fresh-and-raw-water.q08",
+      "lesson_id": "machinery.cooling.fresh-and-raw-water",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A keel cooler cools the engine fresh water by:",
+      "options": [
+        "Running it through pipes fixed to the outside of the hull",
+        "Spraying it with fuel",
+        "Pumping it through the bilge",
+        "Drawing sea water through the engine"
+      ],
+      "correct_index": 0,
+      "explanation": "It needs no raw water intake, so there is less fouling inside.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

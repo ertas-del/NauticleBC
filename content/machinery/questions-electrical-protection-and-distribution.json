@@ -1,0 +1,247 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.electrical.protection-and-distribution.q01",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A blown fuse must be replaced with one of:",
+      "options": [
+        "Any size that fits",
+        "A higher rating",
+        "The same rating",
+        "A piece of wire"
+      ],
+      "correct_index": 2,
+      "explanation": "A higher rating defeats the protection and can cause a fire.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q02",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Earth lamps on an insulated electrical distribution system are used to:",
+      "options": [
+        "Show whether there is an earth fault",
+        "Show the engine speed",
+        "Measure generator load",
+        "Measure battery capacity"
+      ],
+      "correct_index": 0,
+      "explanation": "If one lamp dims or goes out and the other stays bright, the line with the dim lamp is earthed.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q03",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "With two earth lamps on a two-wire insulated system, one lamp goes dark and the other glows brightly. This indicates:",
+      "options": [
+        "The generator is overloaded",
+        "Both lines are healthy",
+        "An earth fault on the line connected to the dark lamp",
+        "The battery is fully charged"
+      ],
+      "correct_index": 2,
+      "explanation": "A lamp on an earthed line has no voltage across it, so it goes dark.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q04",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "An electric motor converts:",
+      "options": [
+        "Fuel into electricity",
+        "Electrical energy into mechanical energy",
+        "Mechanical energy into electrical energy",
+        "Heat into light"
+      ],
+      "correct_index": 1,
+      "explanation": "A generator or alternator does the reverse.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q05",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A generator or alternator driven by a diesel engine converts:",
+      "options": [
+        "Electrical energy into heat",
+        "Fuel directly into power",
+        "Electrical energy into rotation",
+        "Mechanical energy into electrical energy"
+      ],
+      "correct_index": 3,
+      "explanation": "The engine turns the machine, which produces electricity.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q06",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A navigation-light circuit on a vessel normally includes:",
+      "options": [
+        "No fuse, to avoid it ever failing",
+        "A connection through the bilge pump circuit",
+        "Its own protection and a way to indicate lamp failure",
+        "A switch shared with the galley"
+      ],
+      "correct_index": 2,
+      "explanation": "Nav lights are critical safety equipment, so the circuit is protected and monitored.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q07",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A circuit breaker keeps tripping when reset. You should:",
+      "options": [
+        "Hold it closed",
+        "Fit a bigger breaker",
+        "Find and fix the fault before resetting again",
+        "Ignore it"
+      ],
+      "correct_index": 2,
+      "explanation": "Repeated tripping means an overload or short. Find the cause.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q08",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Paralleling two generators allows them to:",
+      "options": [
+        "Run at half speed",
+        "Share the load and change over without a blackout",
+        "Make DC from AC",
+        "Charge the starting battery only"
+      ],
+      "correct_index": 1,
+      "explanation": "The incoming generator must match voltage, frequency and phase before connecting.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q09",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A blackout is:",
+      "options": [
+        "The total loss of main electrical power",
+        "A tripped bilge pump",
+        "Low oil pressure",
+        "A broken light bulb"
+      ],
+      "correct_index": 0,
+      "explanation": "Emergency power then supplies essential services.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q10",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The emergency bus is normally supplied from:",
+      "options": [
+        "The main engine starter",
+        "The emergency generator or batteries",
+        "The shore connection only",
+        "The galley circuit"
+      ],
+      "correct_index": 1,
+      "explanation": "It serves emergency lighting, communications, steering and navigation lights.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.protection-and-distribution.q11",
+      "lesson_id": "machinery.electrical.protection-and-distribution",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "If a ship's generator is overloaded, which circuits are shed first?",
+      "options": [
+        "Navigation lights",
+        "Steering",
+        "Non-essential circuits",
+        "Fire pump"
+      ],
+      "correct_index": 2,
+      "explanation": "A non-essential trip protects essential services.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

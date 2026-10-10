@@ -1,0 +1,203 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.pumps.types-and-faults.q01",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Priming a pump means:",
+      "options": [
+        "Opening the discharge valve fully",
+        "Greasing the bearings",
+        "Cooling the motor",
+        "Filling the pump and suction line with liquid so it can start pumping"
+      ],
+      "correct_index": 3,
+      "explanation": "Many pumps cannot lift liquid if the casing is full of air.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q02",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which type of pump is a positive displacement pump?",
+      "options": [
+        "Gear pump",
+        "Propeller-type circulating pump",
+        "Jet nozzle",
+        "Centrifugal pump"
+      ],
+      "correct_index": 0,
+      "explanation": "A gear pump traps and moves a fixed volume per revolution, often used for oil.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q03",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A standard centrifugal pump typically:",
+      "options": [
+        "Gives constant flow at any pressure",
+        "Works only on compressed air",
+        "Pumps best when dry",
+        "Needs to be primed and is not self-priming"
+      ],
+      "correct_index": 3,
+      "explanation": "Special self-priming designs exist, but a basic centrifugal pump needs liquid in the casing.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q04",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A bilge pump runs but removes no water. The first thing to check is:",
+      "options": [
+        "Cabin lighting",
+        "Anchor chain",
+        "Strainer and suction line for blockage and any air leaks",
+        "Radio batteries"
+      ],
+      "correct_index": 2,
+      "explanation": "A blocked strainer or air leak is a common cause of lost suction.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q05",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A positive displacement pump must have:",
+      "options": [
+        "A closed suction",
+        "An air vent on the shaft",
+        "A relief valve on its discharge",
+        "No discharge valve"
+      ],
+      "correct_index": 2,
+      "explanation": "Without a relief valve, a closed discharge can burst the pipe or stall the pump.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q06",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A flexible rubber-impeller pump must never:",
+      "options": [
+        "Be fitted with a strainer",
+        "Run dry",
+        "Be used for sea water",
+        "Run slowly"
+      ],
+      "correct_index": 1,
+      "explanation": "Dry running overheats and destroys the impeller within moments.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q07",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The flow from a reciprocating pump is usually:",
+      "options": [
+        "Zero",
+        "Perfectly smooth",
+        "Pulsating",
+        "Reversing"
+      ],
+      "correct_index": 2,
+      "explanation": "Each stroke delivers a pulse of liquid.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q08",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pump is commonly used for lubricating oil transfer?",
+      "options": [
+        "Gear pump",
+        "Radiator cap",
+        "Hand-held bilge pump only",
+        "Fire hose nozzle"
+      ],
+      "correct_index": 0,
+      "explanation": "Gear pumps are positive displacement pumps well suited to oils.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.pumps.types-and-faults.q09",
+      "lesson_id": "machinery.pumps.types-and-faults",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The commonest cause of a bilge pump that runs but delivers little water is:",
+      "options": [
+        "A full fuel tank",
+        "Too much light",
+        "A clean impeller",
+        "A blocked suction strainer"
+      ],
+      "correct_index": 3,
+      "explanation": "Check the strainer first.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

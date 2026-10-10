@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.piping.systems-and-precautions.q01",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A non-return valve:",
+      "options": [
+        "Allows flow in one direction only",
+        "Cools the liquid",
+        "Reduces pressure",
+        "Controls flow rate with a hand wheel"
+      ],
+      "correct_index": 0,
+      "explanation": "Also called a check valve. It stops backflow.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q02",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Water hammer is:",
+      "options": [
+        "Air trapped in the tank",
+        "Corrosion from sea water",
+        "A leak at a flange",
+        "A pressure shock caused by suddenly stopping or changing flow in a pipe"
+      ],
+      "correct_index": 3,
+      "explanation": "Close valves slowly and avoid sudden flow changes to prevent damaged pipes.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q03",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Why must tank vents be clear when filling or pumping out a tank?",
+      "options": [
+        "To reduce fuel cost",
+        "To prevent over-pressure or vacuum damaging the tank",
+        "To warm the liquid",
+        "To improve the smell"
+      ],
+      "correct_index": 1,
+      "explanation": "Blocked vents can rupture or collapse a tank.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q04",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Steel pipe carrying a hot fluid will:",
+      "options": [
+        "Shrink in length",
+        "Stay exactly the same",
+        "Become magnetic",
+        "Expand in length, so the system must allow for it"
+      ],
+      "correct_index": 3,
+      "explanation": "Expansion bends or joints allow for movement.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q05",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A cross connection in a piping system is a hazard because it can:",
+      "options": [
+        "Make pipes lighter",
+        "Let fluids flow where they are not meant to, such as into the wrong tank or system",
+        "Improve cooling",
+        "Remove the need for valves"
+      ],
+      "correct_index": 1,
+      "explanation": "Always check the valve line-up before pumping.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q06",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A gate valve is best used:",
+      "options": [
+        "To regulate flow finely",
+        "As a non-return valve",
+        "As a relief valve",
+        "Fully open or fully closed"
+      ],
+      "correct_index": 3,
+      "explanation": "Partly open, a gate valve is damaged by the flow. Use a globe valve for regulating.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q07",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A vacuum gauge on a pump is normally fitted:",
+      "options": [
+        "On the discharge side",
+        "On the radiator cap",
+        "On the exhaust",
+        "On the suction side"
+      ],
+      "correct_index": 3,
+      "explanation": "It shows pressure below atmospheric, as in a suction line.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q08",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "hard",
+      "stem": "A fresh water accumulator tank that makes the pump start and stop rapidly is probably:",
+      "options": [
+        "Perfectly normal",
+        "Waterlogged, with its air charge lost",
+        "Missing a thermostat",
+        "Too full of air"
+      ],
+      "correct_index": 1,
+      "explanation": "The air cushion absorbs pressure changes. Without it the pump cycles often.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q09",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A bilge suction pipe ends in a strum box to:",
+      "options": [
+        "Keep rubbish out of the pump",
+        "Increase pressure",
+        "Cool the water",
+        "Heat the water"
+      ],
+      "correct_index": 0,
+      "explanation": "A blocked strum box is a common cause of lost suction.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.piping.systems-and-precautions.q10",
+      "lesson_id": "machinery.piping.systems-and-precautions",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "When bringing a hot liquid line into service you should:",
+      "options": [
+        "Run it dry first",
+        "Warm it gradually and open the drains",
+        "Close the vents",
+        "Open the valves suddenly"
+      ],
+      "correct_index": 1,
+      "explanation": "Gradual heating and draining prevent water hammer and thermal shock.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

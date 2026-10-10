@@ -1,0 +1,181 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.electrical.basics-and-meters.q01",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The current in a circuit of 12 V across a 4-ohm resistance is:",
+      "options": [
+        "0.33 A",
+        "8 A",
+        "48 A",
+        "3 A"
+      ],
+      "correct_index": 3,
+      "explanation": "I = V / R = 12 / 4 = 3 A.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q02",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Power in a circuit of 24 V and 10 A is:",
+      "options": [
+        "2.4 W",
+        "34 W",
+        "240 W",
+        "14 W"
+      ],
+      "correct_index": 2,
+      "explanation": "P = V x I = 24 x 10 = 240 W.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q03",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "An ammeter is connected:",
+      "options": [
+        "In parallel across the load",
+        "Across the battery terminals only",
+        "In series with the circuit",
+        "In the fuel line"
+      ],
+      "correct_index": 2,
+      "explanation": "Current flows through the meter. A voltmeter goes in parallel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q04",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A voltmeter is connected:",
+      "options": [
+        "Through the fuse",
+        "Only across a battery",
+        "In parallel, across the component or supply",
+        "In series with the circuit"
+      ],
+      "correct_index": 2,
+      "explanation": "A voltmeter measures the pressure across two points, so it goes across them.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q05",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "An ohmmeter should only be used on a circuit that is:",
+      "options": [
+        "Fully live",
+        "Running at full load",
+        "Connected to the generator",
+        "Isolated and de-energised"
+      ],
+      "correct_index": 3,
+      "explanation": "An ohmmeter supplies its own current, and a live circuit can damage it and give false readings.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q06",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the unit of electrical resistance?",
+      "options": [
+        "The ohm",
+        "The volt",
+        "The ampere",
+        "The watt"
+      ],
+      "correct_index": 0,
+      "explanation": "Volts measure pressure, amps measure flow, watts measure power.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q07",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The current in a circuit doubles when, with resistance unchanged, the voltage:",
+      "options": [
+        "Is reduced to zero",
+        "Doubles",
+        "Stays the same",
+        "Is halved"
+      ],
+      "correct_index": 1,
+      "explanation": "By Ohm's law I = V / R, so current is proportional to voltage.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.electrical.basics-and-meters.q08",
+      "lesson_id": "machinery.electrical.basics-and-meters",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Before working on electrical equipment you should isolate it, lock it out and then:",
+      "options": [
+        "Wet the floor",
+        "Assume it is dead",
+        "Switch on the lights",
+        "Prove it dead with a meter"
+      ],
+      "correct_index": 3,
+      "explanation": "Switches and labels can be wrong. Test it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

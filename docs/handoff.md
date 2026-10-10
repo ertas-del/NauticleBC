@@ -28,6 +28,15 @@ On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch 
 - Next Claude: check out each branch, add 6-10 original questions per lesson, finish the lesson list from docs/syllabus/master-limited-60gt.md, run `python3 tools/lint_content.py`, mark the PR ready and merge when CI is green.
 - The user has dyslexia and said the current swift, to-the-point lesson style works for them. Keep it. Reading mode and read-aloud are still to build in the app.
 
+## SVMO (Small Vessel Machinery Operator) track
+Uploaded from another Claude on 2026-10-10. Brief: `docs/syllabus/svmo.md`. Learner plan: `docs/svmo-study-plan.md`.
+- Module `machinery`, ticket `svmo`, sources in `content/sources/svmo.json`.
+- Written (9 lessons, 83 questions): diesel basics (100), start/run/faults (110), fuels (120), cooling (130), electricity basics/protection/batteries (200-220), pumps (300), piping (310).
+- Parked: `docs/svmo-pending/questions-svmo-pending.json` holds 54 questions for 13 lessons that do not exist yet (materials, fire hazards, fire/watertight equipment, safe working, pollution/bunkering, shafting/gearboxes, steering, underwater fittings, deck machinery, lubricants, hydraulics, pneumatics, watchkeeping). Move each group into `content/machinery/` when its lesson is written (ids must match the lesson id).
+- Still to write: about 22 lessons per the lesson map in the brief, then two 60-question SVMO mocks.
+- Expert review items are listed in the brief (MED course name, pass mark, oral vs practical, figures such as bilge blower time and battery electrolyte values).
+- `tp14814e` is a 2008 third-party copy; check for a newer TC edition.
+
 ## Remaining writer assignments (run 3-4 at a time; each follows docs/writer-guide.md)
 
 1. DONE (#24): seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
