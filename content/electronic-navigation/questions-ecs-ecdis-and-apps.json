@@ -1,0 +1,242 @@
+{
+  "module": "electronic-navigation",
+  "questions": [
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q01",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is an ENC?",
+      "options": [
+        "A vector electronic navigational chart database issued for use with an ECDIS by or under the authority of a hydrographic office",
+        "A scanned image of a paper chart",
+        "A phone app showing satellite photos",
+        "A printed Notices to Mariners correction"
+      ],
+      "correct_index": 0,
+      "explanation": "An ENC is a standardised vector database. A scanned image is a raster chart (RNC), and an ENC is not a printed notice or a satellite photo.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-bowditch-2017-ch5-ecdis"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q02",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the main limit of a raster navigational chart (RNC) compared with an ENC?",
+      "options": [
+        "It can be used only in daylight",
+        "It cannot be zoomed",
+        "It is always more accurate than a paper chart",
+        "It is a picture made of pixels with no underlying object data, so it cannot raise object-based alarms"
+      ],
+      "correct_index": 3,
+      "explanation": "A raster chart has no information behind the symbols, so the system cannot warn that you are heading for a rock the way it can with a vector ENC.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-bowditch-2017-ch5-ecdis"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q03",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under NSR s. 143, an electronic chart may take the place of a required chart only if it is displayed on what?",
+      "options": [
+        "Any chart plotter with a GPS input",
+        "A tablet with an up-to-date app",
+        "An ECDIS that uses the ENC where one is available and meets the IHO S-52 display standard",
+        "A radar with a chart overlay"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 143(1) requires an ECDIS that uses the ENC where available, uses a raster chart only where there is no ENC, meets S-52, and has a backup arrangement or printed charts. A plotter or tablet is not described in s. 143.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q04",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An ECDIS has to use a raster chart in an area with no ENC. What else does s. 143 require?",
+      "options": [
+        "Nothing, because raster mode is exempt",
+        "It must be used together with other printed charts that meet s. 142(1)(a)",
+        "A second ECDIS on the bridge wing",
+        "A second chart on the same screen"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 143(1)(c) says that when operating in raster chart display system mode, the ECDIS is used with other printed charts meeting the s. 142(1)(a) requirements.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q05",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An ECDIS backup arrangement under s. 143 must be connected to the main and emergency sources of power. What minimum emergency supply is required?",
+      "options": [
+        "An emergency source giving uninterrupted transitional power for at least 30 minutes",
+        "At least 5 minutes",
+        "At least 2 hours",
+        "No minimum is stated"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 143(1)(e)(i) requires the backup arrangement to have an emergency source providing uninterrupted transitional power for not less than 30 minutes.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q06",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A skipper says: 'My chart plotter has electronic charts, so I don't need CHS charts.' What is the best response?",
+      "options": [
+        "Correct, any electronic chart satisfies s. 142",
+        "Correct, but only if the plotter has a GPS",
+        "Incorrect, because paper charts must always be used even on an ECDIS",
+        "Section 143 names the ECDIS, not a plotter, as the electronic route to a required chart, so a plotter should be treated as an aid and cross-checked"
+      ],
+      "correct_index": 3,
+      "explanation": "An ECS lacks some of the input, display and function of an ECDIS, and s. 143 describes only ECDIS. That reading is the lesson's inference. A vessel under 100 GT may also rely on s. 142(3), if the person in charge has enough local knowledge.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-bowditch-2017-ch5-ecdis"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q07",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "NSR s. 117 requires an ECDIS on which vessels?",
+      "options": [
+        "Every vessel of 20 m or more",
+        "Every vessel carrying more than 12 passengers",
+        "New Canadian passenger vessels of 500 GT or more and other new vessels of 3 000 GT or more, excluding cable ferries and pleasure crafts",
+        "Every towboat of 5 GT or more"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 117 applies to vessels constructed after the section came into force: passenger vessels of 500 GT or more and others of 3 000 GT or more, except cable ferries and pleasure crafts.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q08",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 40 GT vessel does not carry the s. 142(1) charts. When can this be allowed?",
+      "options": [
+        "Whenever the vessel has an ECDIS",
+        "When the person in charge of navigation has sufficient knowledge of the area's routes, marks, hazards and conditions (s. 142(3))",
+        "Whenever the voyage is under 12 hours",
+        "Never, because every vessel must carry paper charts"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 142(3) exempts a vessel under 100 GT from s. 142(1) if the person in charge has enough knowledge of charted routes, lights, buoys, marks and hazards, and of the prevailing conditions such as tides, currents, ice and weather.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q09",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the Canadian Hydrographic Service doing with its digital raster charts (BSB)?",
+      "options": [
+        "Discontinuing them in stages, keeping S-57 ENCs and paper charts for navigation",
+        "Making them the only chart product for navigation",
+        "Converting them to PDFs for navigation",
+        "Keeping them unchanged for another decade"
+      ],
+      "correct_index": 0,
+      "explanation": "CHS is progressively cancelling RNCs in BSB format. S-57 ENCs and paper charts remain the navigation products. PDF charts are for non-navigation use only. The cancelled list appears in Notices to Mariners.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-chs-rnc-discontinuation"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q10",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A tug draws 3.2 m and the skipper wants a 1.0 m margin. Available contours are 3 m, 5 m and 10 m. Which safety contour should be set?",
+      "options": [
+        "3 m",
+        "10 m only, because 5 m is not a standard contour",
+        "No contour is needed if the draught is under 5 m",
+        "5 m"
+      ],
+      "correct_index": 3,
+      "explanation": "The tug needs at least 3.2 + 1.0 = 4.2 m of water, so choose the next deeper contour, 5 m. A 3 m contour would show 3.5 m of water as safe, which a 3.2 m draught with margin cannot enter. A 10 m contour would be safe but would show most of the route as unsafe.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nautinst-ecdis-grounding",
+        "renav-bowditch-2017-ch5-ecdis"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ecs-ecdis-and-apps.q11",
+      "lesson_id": "electronic-navigation.ecs-ecdis-and-apps",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under NSR s. 146, what must be done to required charts before they are used to plan and execute a voyage?",
+      "options": [
+        "They must be renewed every year",
+        "They must be signed by the pilot",
+        "They must be corrected and up to date from Notices to Mariners and navigational warnings",
+        "They must be printed on waterproof paper"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 146(1) requires required charts, documents and publications to be correct and up to date based on Notices to Mariners or a navigational warning, with an exception where it is impossible after reasonable efforts to receive them.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

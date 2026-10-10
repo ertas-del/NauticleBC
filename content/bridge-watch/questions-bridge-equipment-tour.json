@@ -1,0 +1,282 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q01",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which list matches the ten pieces of bridge equipment named in the Bridge Watch Rating standard?",
+      "options": [
+        "Gyro repeater, rate-of-turn indicator, radar, electronic chart, AIS, echo sounder, steering position, autopilot, GPS and VHF radio",
+        "Magnetic compass, barometer, radar, paper chart, AIS, log, steering position, sextant, GPS and VHF radio",
+        "Gyro repeater, radar, electronic chart, AIS, echo sounder, searchlight, whistle, autopilot, GPS and EPIRB",
+        "Rate-of-turn indicator, radar, anemometer, AIS, echo sounder, steering position, autopilot, GPS, NAVTEX and VHF radio"
+      ],
+      "correct_index": 0,
+      "explanation": "The standard names these ten items. A rating is not in charge of navigation but is expected to know what each is for and to report when one looks wrong.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q02",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the relationship between a gyro-compass and a gyro repeater?",
+      "options": [
+        "The repeater finds north by itself and the gyro-compass copies it",
+        "The repeater is a magnetic compass corrected for variation",
+        "The two are independent, so they can never disagree",
+        "The repeater is a dial that copies the heading of the gyro-compass elsewhere, so it can only be as right as the gyro behind it"
+      ],
+      "correct_index": 3,
+      "explanation": "The gyro-compass is the source and the repeater is a copy. If the repeater loses step with the gyro it will be wrong, which is why you compare it with the magnetic compass regularly.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q03",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under the Navigation Safety Regulations, 2020, which vessel must have a gyro-compass heading repeater at the emergency steering position?",
+      "options": [
+        "Any vessel of 150 GT or more on any voyage",
+        "A vessel of 300 GT or more, but only in restricted visibility",
+        "A vessel of 500 GT or more on a voyage other than sheltered waters",
+        "Only a vessel of 50 000 GT or more"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 111(c)(ii) sets 500 GT or more, other than on sheltered-waters voyages. The 150 GT figure belongs to GNSS and the 50 000 GT figure belongs to the rate-of-turn indicator.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q04",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rate-of-turn indicator reads 15 degrees per minute. How long does a turn of 90 degrees take at that rate?",
+      "options": [
+        "1.5 minutes",
+        "6 minutes",
+        "9 minutes",
+        "15 minutes"
+      ],
+      "correct_index": 1,
+      "explanation": "Time is angle divided by rate: 90 / 15 = 6 minutes. The instrument also tells you the turn has started, is steady and has stopped, before the compass shows it.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q05",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what size of vessel do the regulations require a rate-of-turn indicator?",
+      "options": [
+        "50 000 GT or more",
+        "300 GT or more",
+        "500 GT or more",
+        "10 000 GT or more"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 114(a) sets 50 000 GT. Radar and echo sounder start at 300 GT, and the heading repeater at the emergency steering position starts at 500 GT.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q06",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel of 300 GT or more must carry which pair of items under section 110?",
+      "options": [
+        "A 3-GHz radar and an ECDIS",
+        "A rate-of-turn indicator and a gyro repeater",
+        "An AIS Class B and a GNSS receiver only",
+        "A 9-GHz radar and an echo sounder"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 110 names the echo sounder and the 9-GHz radar at 300 GT. ECDIS and the rate-of-turn indicator come in under different sections and size limits.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q07",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship has an AIS Class A and a gyro-compass both fitted. What must be true about their connection?",
+      "options": [
+        "They must be kept separate so a fault in one cannot affect the other",
+        "The AIS must take heading from the GPS course over ground",
+        "They must be connected so that the AIS transmits heading",
+        "No connection is required, because AIS never sends heading"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 118(4) requires the connection. Course over ground from a GPS is not heading and should not be used as one.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q08",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what size of vessel must a GNSS receiver be carried, and where does an automatic distress alert get its position?",
+      "options": [
+        "300 GT or more, and the alert takes its position from the radar",
+        "150 GT or more, and the alert takes its position from the GNSS receiver",
+        "500 GT or more, and the alert takes its position from the gyro-compass",
+        "50 GT or more, and the alert carries no position"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 109(1)(a) sets 150 GT and section 221 puts the GNSS position into the distress alert. GPS is one GNSS.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q09",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What do the regulations require for a VHF radiotelephone on the bridge?",
+      "options": [
+        "It must be accessible from the conning position, with channel selection possible from there",
+        "It must be fitted in the radio room only",
+        "It must be able to transmit only on channel 16",
+        "It must be switched off while under way in fog"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 220 requires access from the conning position so the person conning can use the radio without leaving the watch position.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q10",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which reading must be displayed at the main steering position?",
+      "options": [
+        "The GPS course over ground only",
+        "The AIS target list",
+        "The echo sounder depth",
+        "The standard magnetic compass reading"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 106(1) requires the standard magnetic compass reading at the main steering position. Separately, on vessels 55 m or more built on or after 1 July 2002, section 140 sets a field of vision of at least 60 degrees each side of right ahead.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q11",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The ship is in restricted visibility with the autopilot on. What must the arrangements allow?",
+      "options": [
+        "Changeover only after the engine room has been told, with no helmsman needed",
+        "Changeover made by a rating on his own judgement, with the autopilot kept on for as long as possible",
+        "An immediate changeover to manual steering, with a qualified helmsman available, made by or under the supervision of the person in charge of the deck watch",
+        "No changeover, because the autopilot is safer than a helmsman in fog"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 133 requires immediate changeover to manual steering, a qualified helmsman available, and changeover by or under the supervision of the person in charge of the deck watch.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.bridge-equipment-tour.q12",
+      "lesson_id": "bridge-watch.bridge-equipment-tour",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The radar shows nothing ahead in fog, but you can hear a horn. What does Rule 5 expect you to do?",
+      "options": [
+        "Disregard the sound until the radar confirms it",
+        "Keep the look-out by sight and hearing as well as by all available means, and report the sound",
+        "Report only if the AIS shows a vessel",
+        "Let the autopilot decide whether to alter course"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 5 requires a proper look-out by sight and hearing and by all available means. Electronic aids support the look-out and never replace it.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-nsr-2020-xml",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

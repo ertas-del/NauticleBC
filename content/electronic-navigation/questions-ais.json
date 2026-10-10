@@ -1,0 +1,242 @@
+{
+  "module": "electronic-navigation",
+  "questions": [
+    {
+      "id": "electronic-navigation.ais.q01",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these must be fitted with an AIS Class A under NSR s. 118(1)?",
+      "options": [
+        "A 12 m towboat",
+        "A 12 m pleasure craft",
+        "A 15 m fishing vessel with no passengers that is not a towboat",
+        "A 9 m boat carrying one passenger on sheltered waters"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 118(1)(f) requires Class A on towboats of 8 m or more. The pleasure craft is excluded from the 20 m rule, the 15 m fishing vessel is not in the list, and the small passenger boat is covered by the Class A or B rule outside sheltered waters.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q02",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 9 m water taxi carrying 6 passengers is on a near coastal Class 2 voyage. What does s. 118 require?",
+      "options": [
+        "AIS Class A only",
+        "No AIS at all",
+        "AIS only if it carries more than 12 passengers",
+        "AIS Class A or Class B"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 118(2) requires Class A or B on a vessel not in s. 118(1), engaged on a voyage other than a sheltered waters voyage, if it is 8 m or more in length and carries a passenger.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q03",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In the NSR, what is a 'passenger vessel'?",
+      "options": [
+        "A vessel that carries any passenger",
+        "A vessel of 20 m or more",
+        "A vessel that carries more than 12 passengers",
+        "A vessel that carries more than 50 passengers"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 1 defines a passenger vessel as one that carries more than 12 passengers. Carrying more than 50 passengers is a separate Class A trigger in s. 118(1)(b).",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q04",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessels must have a means of displaying graphically the relative ranges and bearings received by the AIS?",
+      "options": [
+        "Only vessels of 300 GT or more",
+        "The vessels required to have Class A under s. 118(1)",
+        "Only passenger vessels",
+        "Only vessels on international voyages"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 118(3) applies to vessels referred to in s. 118(1), that is, the Class A list.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q05",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A Class A AIS and a gyro-compass are both fitted. What does s. 118(4) require?",
+      "options": [
+        "They must be connected so that heading information is transmitted to the AIS",
+        "The gyro must be switched off while AIS is on",
+        "The AIS must be disconnected from GNSS",
+        "Nothing, because heading is optional"
+      ],
+      "correct_index": 0,
+      "explanation": "If an AIS Class A is fitted and the vessel also has a transmitting heading device or gyro-compass, they must be connected for transmitting heading to the AIS.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q06",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How long before departure must a vessel's required AIS be in operation?",
+      "options": [
+        "Only once clear of the dock",
+        "At least 5 minutes",
+        "At least 2 hours",
+        "At least 30 minutes immediately before departure, and for the entire voyage"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 118(5) requires the AIS to be in operation for at least 30 minutes immediately before departure and for the entire duration of the voyage, subject to the exceptions in s. 118(6).",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q07",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which three kinds of information does an AIS unit broadcast?",
+      "options": [
+        "Weather, tide and current data",
+        "Radar, sonar and depth data",
+        "Static, dynamic and voyage data",
+        "Crew, cargo and insurance data"
+      ],
+      "correct_index": 2,
+      "explanation": "Static data is identity and dimensions, dynamic data is position, time, course over ground and speed, and voyage data is items like destination and ETA (Class A).",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nato-ais-overview",
+        "renav-digitalyacht-ais-guide"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q08",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On which VHF frequencies does AIS operate?",
+      "options": [
+        "156.800 MHz (channel 16) and 156.300 MHz (channel 6)",
+        "161.975 MHz (87B) and 162.025 MHz (88B)",
+        "121.500 MHz and 243.000 MHz",
+        "406 MHz and 1.6 GHz"
+      ],
+      "correct_index": 1,
+      "explanation": "AIS 1 is 161.975 MHz (channel 87B) and AIS 2 is 162.025 MHz (channel 88B). Channel 16 is the VHF distress channel, 121.5 and 243 MHz are old aeronautical distress frequencies, and 406 MHz is the EPIRB band.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nato-ais-overview"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q09",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement compares Class A and Class B AIS correctly?",
+      "options": [
+        "Class A transmits at higher power (about 12.5 W) and reports faster than Class B (about 2 W, roughly every 30 seconds)",
+        "Class B transmits at higher power than Class A",
+        "Both report at the same rate",
+        "Class B is the only class that sends voyage data"
+      ],
+      "correct_index": 0,
+      "explanation": "Class A is the more capable unit, with higher power, faster reporting and a guaranteed time slot, and it sends voyage data. Class B is lower power, reports about every 30 seconds and its slot is not guaranteed.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-digitalyacht-ais-guide"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q10",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A mate sees no AIS target in the direction of a fog signal and decides nothing is there. What is wrong with this?",
+      "options": [
+        "Nothing, because AIS shows every vessel",
+        "AIS cannot be used in fog",
+        "Only Class B vessels are invisible on AIS",
+        "Not every vessel carries AIS or has it switched on, and AIS supports but never replaces radar and the look-out"
+      ],
+      "correct_index": 3,
+      "explanation": "AIS shows only vessels that carry it, have it on and send correct data. Rule 5 still requires a proper look-out by all available means.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nato-ais-overview",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.ais.q11",
+      "lesson_id": "electronic-navigation.ais",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 22 m pleasure craft, privately owned, no passengers for hire, on a near coastal voyage. What does NSR s. 118 require?",
+      "options": [
+        "AIS Class A because it is over 20 m",
+        "AIS Class B because it is over 8 m",
+        "Nothing under s. 118(1)(a), because the 20 m rule excludes pleasure craft",
+        "AIS only if it carries more than 12 passengers"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 118(1)(a) covers vessels of 20 m or more other than pleasure crafts. Unless another paragraph applies (such as IMDG goods or bulk pollutants), a pleasure craft is outside s. 118.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "module": "radar",
+  "questions": [
+    {
+      "id": "radar.displays-and-errors.q01",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On a head-up radar display, what is at the top of the screen and what kind of bearing do you read off the scale?",
+      "options": [
+        "The ship's heading is at the top and the bearings read are relative bearings",
+        "North is at the top and the bearings are true",
+        "The next waypoint is at the top and the bearings are magnetic",
+        "The wind direction is at the top and the bearings are apparent"
+      ],
+      "correct_index": 0,
+      "explanation": "Head-up puts the ship's head at the top, so bearings from the scale are relative to the bow. The picture swings when the ship yaws because it is not stabilised.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q02",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A radar is set to north-up. What does it need to be stabilised?",
+      "options": [
+        "A speed log input only",
+        "An AIS transponder",
+        "A second radar on the other band",
+        "A heading input from a gyro or electronic compass"
+      ],
+      "correct_index": 3,
+      "explanation": "North-up and other stabilised modes need to know which way the ship is pointing, so they rely on a heading signal. A wrong or frozen heading input then turns every bearing by the same error without looking wrong.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q03",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In course-up mode, what is held at the top of the screen?",
+      "options": [
+        "Always true north",
+        "Always the ship's current heading",
+        "A chosen course or direction, such as the intended track",
+        "The strongest echo on the screen"
+      ],
+      "correct_index": 2,
+      "explanation": "Course-up holds the top of the screen on a selected course or direction and re-sets when a new one is chosen. It also depends on a heading input.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q04",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a relative motion display with own ship fixed at the centre, how does a stationary buoy abeam appear to move as you pass it?",
+      "options": [
+        "It stays still in the same place",
+        "It drifts steadily down the screen, at your own speed, along a line parallel to your course",
+        "It moves towards the centre",
+        "It circles the centre once per antenna rotation"
+      ],
+      "correct_index": 1,
+      "explanation": "On relative motion, everything moves relative to you. A fixed object moves in the opposite direction to your own movement, parallel to your course. On a true motion display the buoy would stay put.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q05",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is generally more accurate on a marine radar, a range or a bearing?",
+      "options": [
+        "A range, because it is a timing measurement while a bearing depends on a beam of finite width",
+        "A bearing, because the antenna points exactly at the target",
+        "They are equally accurate",
+        "Neither, because both depend on the gain setting"
+      ],
+      "correct_index": 0,
+      "explanation": "Ranges come from timing and are good. Bearings suffer from beam width, and a typical figure is within a few degrees. That is why radar fixes use ranges first.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q06",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A radar has a horizontal beam width of 2 degrees. About how much wider sideways does the beam make a target echo appear at 3.0 nm?",
+      "options": [
+        "About 0.01 nm",
+        "About 0.50 nm",
+        "About 3.0 nm",
+        "About 0.10 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "The spread is about range × tan(beam width) = 3.0 × tan 2° = 3.0 × 0.0349 = 0.105 nm, roughly 190 m. That is why targets look bigger than they are and nearby targets blur together.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q07",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Echoes appear on the bearing of a mast on your own ship, at the same range as a large target ahead, and they move in a way no real vessel would. What are they most likely?",
+      "options": [
+        "Second-trace echoes from beyond the range scale",
+        "Genuine small craft hidden by clutter",
+        "Indirect (ghost) echoes from reflections off the ship's own structure",
+        "Side-lobe echoes caused by too little gain"
+      ],
+      "correct_index": 2,
+      "explanation": "An indirect echo appears on the bearing of the reflecting surface, at the same range as the real target, often in a shadow sector. Second-trace echoes come from beyond the selected range scale, and side-lobe echoes form arcs either side of a large target.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-false-echoes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q08",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship is passing on a parallel course at 1.5 nm. Fainter echoes appear on the same bearing at 3.0 nm and 4.5 nm. What are they?",
+      "options": [
+        "Real ships following one another in line",
+        "Multiple echoes, which lie on the same bearing at multiples of the true range and get weaker each time",
+        "Side-lobe echoes",
+        "Racon replies"
+      ],
+      "correct_index": 1,
+      "explanation": "Multiple echoes appear on the bearing of the real target at two, three or more times its range, each weaker than the last, typically when another vessel passes close on a parallel course.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-false-echoes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q09",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is a typical sign of side-lobe echoes?",
+      "options": [
+        "A series or broken arc of echoes either side of a large, close target, at the same range",
+        "A single echo at half the true range",
+        "A row of echoes at exact multiples of range on one bearing",
+        "A radial line starting just beyond a buoy"
+      ],
+      "correct_index": 0,
+      "explanation": "Side-lobe echoes form arcs at the same range as a large target, mostly at short range. A row at multiples of range is a multiple echo, and a radial line beyond a mark is a racon.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4",
+        "renav-raymarine-false-echoes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q10",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A funnel and a crane block part of the radar beam. What risk does this create?",
+      "options": [
+        "Every echo is displayed at twice its range",
+        "Gain is automatically doubled",
+        "The heading marker stops working",
+        "A small, near target in the shadow sector may be missed while a larger distant one still shows"
+      ],
+      "correct_index": 3,
+      "explanation": "A shadow or blind sector reduces beam intensity behind the obstruction. Small close targets there can be missed, so know your ship's blind arcs and cover them with the look-out.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q11",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which target is likely to give the strongest radar echo?",
+      "options": [
+        "A fibreglass boat seen end-on",
+        "A wooden boat seen end-on",
+        "A steel vessel seen broadside",
+        "A smooth, low sand beach"
+      ],
+      "correct_index": 2,
+      "explanation": "Metal reflects better than wood or fibreglass, and a vessel broadside to the radar returns more than one end-on. Low smooth beaches may not show beyond a mile or two.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.displays-and-errors.q12",
+      "lesson_id": "radar.displays-and-errors",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A pulse of 0.5 microsecond is used, at about 164 yards of distortion per microsecond of pulse length. By about how much is a target stretched in range?",
+      "options": [
+        "About 8 yards",
+        "About 82 yards",
+        "About 328 yards",
+        "About 1 nautical mile"
+      ],
+      "correct_index": 1,
+      "explanation": "Half the pulse length is the minimum radial stretch: 0.5 × 164 = 82 yards, about 75 m. Doubling it to 328 yards would treat the pulse as a full round trip, and the other values are far off.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

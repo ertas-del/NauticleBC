@@ -1,0 +1,225 @@
+{
+  "module": "radar",
+  "questions": [
+    {
+      "id": "radar.position-fixing.q01",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is a position fixed from radar ranges to two or more objects preferred to a fix from radar bearings?",
+      "options": [
+        "Radar ranges are more accurate than radar bearings",
+        "Radar bearings cannot be read on the screen",
+        "Range arcs need no chart",
+        "Ranges are always read instantly"
+      ],
+      "correct_index": 0,
+      "explanation": "Ranges are timing measurements and are accurate, while bearings depend on beam width and are good to only a few degrees. A range fix is therefore more accurate than a bearing fix.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q02",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is a radar range plotted on the chart as a position line?",
+      "options": [
+        "Draw a straight line from the object at the radar's bearing and ignore the range",
+        "Draw a line parallel to the coast at the range",
+        "Plot the range along the ship's course line",
+        "Set dividers to the range and swing an arc from the charted object; the ship is somewhere on the arc"
+      ],
+      "correct_index": 3,
+      "explanation": "A range from an object puts the ship on a circle around it, so an arc is drawn from the object's charted position using the range. A second arc crosses the first at the fix.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q03",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "For a fix from two range arcs, what angle between the two objects (as seen from the ship) gives the best result?",
+      "options": [
+        "About 5 degrees",
+        "About 20 degrees",
+        "About 90 degrees",
+        "About 45 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "The best angle of cut is close to 90 degrees. When the objects are nearly in line the arcs cross at a shallow angle and a small range error moves the fix a long way. At 45 degrees the fix is still stretched.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q04",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two range arcs cross at two points, one on the water you expect and one on the far side of the coast. How do you pick the right one?",
+      "options": [
+        "Always take the point nearer the shore",
+        "Use the DR position, a bearing or the depth to decide, never just the one that looks safer",
+        "Always take the point nearer the larger object",
+        "Take the point nearer the bottom of the chart"
+      ],
+      "correct_index": 1,
+      "explanation": "Two circles meet at two points, so the extra information has to choose. Picking the 'safer-looking' point is a way to hide an error.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q05",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the main weakness of a quick fix from the range and bearing of one object?",
+      "options": [
+        "It relies on identifying the right object and on a bearing that is only good to a few degrees",
+        "It cannot be plotted on a paper chart",
+        "It needs a stabilised radar and a gyro-compass",
+        "It always puts the ship on the wrong side of the object"
+      ],
+      "correct_index": 0,
+      "explanation": "One echo gives both numbers, which is fast, but any wrong identification or bearing error goes straight into the position. Confirm with depth or DR when you can.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q06",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A radar bearing is 4 degrees in error on an object 5.0 nm away. About what position error results?",
+      "options": [
+        "About 0.04 nm",
+        "About 1.0 nm",
+        "About 5.0 nm",
+        "About 0.35 nm sideways"
+      ],
+      "correct_index": 3,
+      "explanation": "Sideways error is about range × tan(error) = 5.0 × tan 4° = 5.0 × 0.0699 = 0.35 nm, roughly 650 m. A small angle becomes a large distance at long range.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q07",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tangent bearing is taken to the edge of a steep-sided island. Which statement about it is correct?",
+      "options": [
+        "It is the most accurate, because tangents are exactly 90 degrees to the track",
+        "It needs no correction because radar bearings are always centre-of-target",
+        "It is among the least accurate radar fixes, because the beam width pushes the echo's edge out and must be allowed for",
+        "It is accurate only in rain"
+      ],
+      "correct_index": 2,
+      "explanation": "Because the beam has width, the echo's edge is pushed out by about half the beam width, so right-hand tangents are decreased and left-hand tangents increased. It is one of the least accurate radar fixes; confirm it with a range.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q08",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why must you identify an object positively before using its radar range in a fix?",
+      "options": [
+        "Because radar always paints the true coastline exactly",
+        "Radar may show a different part of the coast than the charted shoreline, and low flat land may not show at all",
+        "Because the object's range changes with the gain setting",
+        "Because identification affects the speed of light"
+      ],
+      "correct_index": 1,
+      "explanation": "A wooded hill behind the shore can paint as the coast, while a low spit may be missing. Matching shape and range patterns on chart and screen avoids a wrong fix.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q09",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At 10 knots you take the range to a headland dead ahead, and two minutes later the range to an island on the beam. What is the problem if both are plotted as one fix?",
+      "options": [
+        "The ship has moved about 0.33 nm between readings, so the headland range is stale by about that much",
+        "The island range is stale by 0.33 nm and the headland range is correct",
+        "There is no problem, because radar ranges update automatically",
+        "The ship has moved about 3.3 nm"
+      ],
+      "correct_index": 0,
+      "explanation": "10 knots for 2 minutes is 10 × 2 ÷ 60 = 0.33 nm. A range to an object ahead or astern changes at nearly your full speed, while a range to an object abeam hardly changes. Read the fast-changing range as close as possible to the plotting time.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.position-fixing.q10",
+      "lesson_id": "radar.position-fixing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is parallel indexing used for?",
+      "options": [
+        "Measuring the wind speed from the clutter pattern",
+        "Calibrating the heading marker",
+        "Finding the radar's transmitted power",
+        "Watching cross-track error with a line on the radar screen parallel to the planned track"
+      ],
+      "correct_index": 3,
+      "explanation": "A parallel index line is set parallel to the planned track at the distance a chosen object should pass. If the echo slides along the line, the ship is on track. It works best on a stabilised display.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
