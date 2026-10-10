@@ -1,0 +1,219 @@
+{
+  "module": "electronic-navigation",
+  "questions": [
+    {
+      "id": "electronic-navigation.plotters-and-integration.q01",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A navigation plotter shows the boat symbol on land but the radar and depth are normal. Which input should you suspect first?",
+      "options": [
+        "The GNSS position source or the chart datum",
+        "The echo sounder",
+        "The VHF",
+        "The autopilot"
+      ],
+      "correct_index": 0,
+      "explanation": "The boat symbol comes from the position source plotted on a chart. If radar and depth agree with each other and not with the plotter, suspect GNSS or the chart datum.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nautinst-jamming-spoofing"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q02",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "ARPA-type target tracking in chart software needs which connections?",
+      "options": [
+        "An EPIRB and a SART",
+        "A weather fax and a barometer",
+        "A printer and a camera",
+        "A radar and a heading sensor"
+      ],
+      "correct_index": 3,
+      "explanation": "The software documentation states that its ARPA target feature requires a heading sensor and a radar. Without a heading the true vectors and overlay cannot be oriented.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-timezero-arpa-target"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q03",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Alarm limits are CPA 0.5 nm and TCPA 10 minutes. A target closes at a relative speed of 12 knots. At about what range does a dangerous-target alarm sound for a target with a CPA of 0.3 nm?",
+      "options": [
+        "About 0.5 nm",
+        "About 10 nm",
+        "About 2.0 nm",
+        "About 5 nm"
+      ],
+      "correct_index": 2,
+      "explanation": "Both limits must be crossed. TCPA reaches 10 minutes when the distance to CPA is 12 knots × 10 ÷ 60 = 2.0 nm. So the alarm sounds at about 2 nm, which is only 10 minutes of warning.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-timezero-arpa-target"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q04",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A radar overlay shows the headland echo 6 degrees away from the charted point at a range of 3.0 nm. About how far is that sideways?",
+      "options": [
+        "About 0.03 nm",
+        "About 0.3 nm",
+        "About 1.0 nm",
+        "About 3.0 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Sideways offset = 3.0 × tan 6° = 3.0 × 0.105 = 0.32 nm, roughly 580 m. A heading-sensor or position problem of this size matters in a narrow channel.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nautinst-jamming-spoofing"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q05",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under NSR s. 129, what must be done when equipment fitted on or after 1 July 2002 offers alternative modes of operation?",
+      "options": [
+        "The mode of operation being used must be indicated",
+        "The equipment must always be used in its default mode",
+        "Only the master may change the mode",
+        "The mode must be logged every hour"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 129 requires the mode in use to be indicated, so the watchkeeper can see at a glance what the instrument is doing.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q06",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 130 require when a subsystem of an integrated bridge system fails?",
+      "options": [
+        "The whole system shuts down in a controlled way",
+        "A report to Transport Canada within 24 hours",
+        "The standby system takes over only after the master approves",
+        "Audible and visual alarms to the person in charge of the deck watch, without causing the failure of any other subsystem"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 130 requires failure of any subsystem to be brought to the immediate attention of the person in charge of the deck watch by audible and visual alarms, and not to cause failure of another subsystem.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q07",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "One part of an integrated navigation system has failed. What does s. 131 say must still be possible?",
+      "options": [
+        "Operating the system only in manual mode",
+        "Using only the radar",
+        "Operating every other individual piece of equipment or part of the system separately",
+        "Nothing, as long as the failure is logged"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 131 says that in the case of a failure in one part of an integrated navigation system, it must be possible to operate every other individual piece of equipment or part of the system separately.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q08",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what size does the NSR require an echo sounder, and on which smaller vessel is it also required?",
+      "options": [
+        "150 GT or more, and any passenger vessel",
+        "300 GT or more, and a towboat on a near coastal Class 1 voyage",
+        "500 GT or more, and any towboat",
+        "20 m or more, and any fishing vessel"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 110(a) requires echo-sounding equipment at 300 GT or more, and s. 125(1)(b)(i) requires it on a towboat engaged on a near coastal voyage, Class 1.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q09",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When a heading or track control system is used in a hazardous navigational situation, what must the person in charge of the deck watch ensure?",
+      "options": [
+        "That a qualified helmsman is available at all times to take over steering",
+        "That the autopilot has been reset to zero",
+        "That the master is on the bridge wing",
+        "That the autopilot is switched off"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 133(1) and (2) require immediate changeover to manual steering to be possible and the person in charge of the deck watch to ensure a qualified helmsman is available at all times. The autopilot is not forbidden.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.plotters-and-integration.q10",
+      "lesson_id": "electronic-navigation.plotters-and-integration",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How often must manual steering be tested while the heading or track control system is not in use?",
+      "options": [
+        "Only at the start of the voyage",
+        "Once a week",
+        "Once a month",
+        "Before entering any area where navigation demands special caution, and at least once a day"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 133(4) requires manual steering to be tested before entering any area where navigation demands special caution, and at least once a day, so it is in effective operating condition.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

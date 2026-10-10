@@ -1,0 +1,243 @@
+{
+  "module": "radar",
+  "questions": [
+    {
+      "id": "radar.arpa-sart-racon.q01",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what size must a vessel carry an automatic tracking aid (ATA) or an ARPA under the Navigation Safety Regulations, 2020?",
+      "options": [
+        "300 GT",
+        "150 GT",
+        "500 GT only",
+        "3 000 GT"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 110(d) requires an ATA or ARPA on vessels of 300 GT or more but under 500 GT, and s. 111(b) requires one at 500 GT or more.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q02",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does the NSR say an ARPA must do?",
+      "options": [
+        "Track exactly 5 targets and sound an alarm for each",
+        "Plot targets only within 3 nm",
+        "Replace the need for a radar reflector",
+        "Automatically plot the range and bearing of at least 20 targets, and be connected to a device showing speed and distance through the water"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 110(d)(i) describes an ARPA as plotting at least 20 targets and connected to a speed-and-distance device. An ATA plots targets to determine collision risk.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q03",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An ARPA is fed a heading that is 15° wrong. What is the main effect?",
+      "options": [
+        "Only the closest target is affected",
+        "The radar transmits on the wrong band",
+        "True vectors on every tracked target are wrong by the same error",
+        "The set switches itself to relative motion"
+      ],
+      "correct_index": 2,
+      "explanation": "ATA/ARPA need heading information from a transmitting heading device or gyro-compass (s. 110(d)(ii)). A wrong heading rotates every true vector at once, so the whole picture is wrong without looking wrong.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q04",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why can a tracked-target display miss a small boat that the radar itself cannot see?",
+      "options": [
+        "Trackers ignore every target smaller than 20 m by design",
+        "The tracker can only follow echoes the radar shows, so clutter settings or poor tuning that hide the boat hide it from the tracker too",
+        "Trackers reject targets that are moving",
+        "Trackers need AIS to see anything"
+      ],
+      "correct_index": 1,
+      "explanation": "Automatic tracking works on radar returns. Poor tuning gives false or missed targets, and over-used clutter controls remove small targets before the tracker sees them.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-timezero-arpa-target"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q05",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A plotter has a CPA limit of 0.5 nm and a TCPA limit of 10 minutes. A target has a CPA of 0.3 nm and a TCPA of 25 minutes. Will it be flagged as dangerous now?",
+      "options": [
+        "No, because both limits must be crossed and the TCPA limit has not been reached yet",
+        "Yes, because the CPA is inside the limit",
+        "Yes, because any target within 0.5 nm is dangerous",
+        "No, because dangerous targets are only flagged by AIS"
+      ],
+      "correct_index": 0,
+      "explanation": "In this software a target is classed as dangerous only when it breaks both the CPA and TCPA thresholds. The CPA is inside the limit but the TCPA is not, so it is not flagged until the TCPA falls to 10 minutes.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-timezero-arpa-target"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q06",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How does a radar SART appear on a rescuer's radar?",
+      "options": [
+        "As a single bright pulse that flashes in Morse code",
+        "As a continuous ring around own ship",
+        "As a pair of parallel lines",
+        "As a line of 12 dots that becomes arcs and then circles as the rescuer closes within about 1 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "A radar SART answers each pulse with a series of sweeps that give 12 dots about 0.64 nm apart. Within about 1 nm the dots become arcs and then circles. A Morse-coded signal is a racon.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-wiki-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q07",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which radar can trigger a radar SART?",
+      "options": [
+        "Any 3 GHz radar within 20 nm",
+        "Only a radar fitted with ARPA",
+        "An X-band (9 GHz) radar within about 8 nm",
+        "Only a radar on a vessel above 500 GT"
+      ],
+      "correct_index": 2,
+      "explanation": "A radar SART answers 9 GHz X-band radar only, with triggering range about 8 nm depending on antenna height. S-band radars do not trigger it.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-wiki-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q08",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is a racon?",
+      "options": [
+        "A device that suppresses sea clutter",
+        "A radar transponder fitted to a mark that sends back a characteristic signal, often a Morse letter, when triggered by a ship's radar",
+        "A type of radar reflector made of foil",
+        "A second radar that must be fitted at 3 000 GT"
+      ],
+      "correct_index": 1,
+      "explanation": "A racon responds to a ship's radar with a coded signal, shown as a Morse letter or radial line just beyond the mark, so the mark can be identified. A reflector is passive and has no signal.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-bowditch-2002-ch13-radar"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q09",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessel must, if practicable, carry a radar reflector under Rule 40 of the Collision Regulations?",
+      "options": [
+        "A vessel under 20 m in length, or one built primarily of non-metallic material",
+        "Only a vessel of 300 GT or more",
+        "Only a vessel carrying passengers",
+        "Only a vessel without radar"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 40(a) applies to a vessel less than 20 m in length or built primarily of non-metallic material. The reflector should work at 3 GHz or 9 GHz. There are exceptions in Rule 40(b) for limited traffic and small size.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q10",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A skipper wants to test a radar SART at sea to show a trainee the display. What does Rule 41 say?",
+      "options": [
+        "It is allowed if the radar is on the 6 nm range",
+        "It is allowed in daylight",
+        "It is allowed if the Coast Guard is told afterwards",
+        "No vessel except a vessel in distress may use a transponder that sends radar responder or beacon signals in the 3 cm or 10 cm bands"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 41(a) prohibits use of such transponders except by a vessel in distress. A SART is not a training toy. Follow the testing guidance in the SART lessons.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.arpa-sart-racon.q11",
+      "lesson_id": "radar.arpa-sart-racon",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 280 GT coastal freighter is not a towboat and not a passenger vessel. Which of these does s. 110 of the NSR require of it?",
+      "options": [
+        "A 9-GHz radar",
+        "An echo sounder",
+        "None of them, because s. 110 starts at 300 GT",
+        "An ATA or ARPA"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 110 applies to vessels of 300 GT or more. At 280 GT none of the radar, echo sounder or ATA/ARPA requirements in s. 110 applies, though a vessel may carry them voluntarily and other rules (such as the towboat rule) can apply.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

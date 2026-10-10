@@ -1,0 +1,242 @@
+{
+  "module": "radar",
+  "questions": [
+    {
+      "id": "radar.target-course-speed-and-action.q01",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In the R-T-M triangle, which side represents the target's own true movement over the plotting interval?",
+      "options": [
+        "TM",
+        "RM",
+        "RT",
+        "The line from the centre to R"
+      ],
+      "correct_index": 0,
+      "explanation": "RM is the target's movement relative to you, RT is your own run drawn from R, and TM is the target's true movement. Joining T to M removes your own motion from the relative plot.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q02",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Own speed is 15 knots. How long is the own-run line RT on a six-minute plot?",
+      "options": [
+        "0.15 nm",
+        "2.5 nm",
+        "15 nm",
+        "1.5 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "In six minutes, one tenth of an hour, you steam one tenth of your hourly speed: 15 ÷ 10 = 1.5 nm.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q03",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On a six-minute plot, the line TM measures 0.8 nm. What is the target's true speed?",
+      "options": [
+        "0.8 knots",
+        "4.8 knots",
+        "8 knots",
+        "80 knots"
+      ],
+      "correct_index": 2,
+      "explanation": "True speed is the length of TM for six minutes times 10: 0.8 × 10 = 8 knots.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q04",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a head-up plot, TM points 100° from your heading line, and your course is 280°T. What is the target's true course?",
+      "options": [
+        "100°T",
+        "020°T",
+        "180°T",
+        "380°T"
+      ],
+      "correct_index": 1,
+      "explanation": "Target true course is the direction of TM relative to your heading plus your own course: 100 + 280 = 380, minus 360 = 020°T. Writing 380 or stopping at 100 are the usual slips.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q05",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under Rule 19(d), what must a vessel that detects another by radar alone do?",
+      "options": [
+        "Determine whether a close-quarters situation is developing or risk of collision exists, and if so take avoiding action in ample time",
+        "Sound five short blasts and wait for a reply",
+        "Hold course and speed until the other vessel is in sight",
+        "Stop and wait for the other vessel to give way"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 19(d) requires the radar-only vessel to determine whether a close-quarters situation or risk of collision exists, and if so to take avoiding action in ample time. It does not tell you to hold on or to wait.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q06",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In restricted visibility, radar alone shows a target 30° on your starboard bow with risk of collision. Under Rule 19(d), which course alteration is to be avoided so far as possible?",
+      "options": [
+        "An alteration to starboard",
+        "Any alteration larger than 10 degrees",
+        "Any alteration at all, so you must reduce speed instead",
+        "An alteration to port"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 19(d)(i) says avoid an alteration to port for a vessel forward of the beam, other than one being overtaken. A target 30° on the bow is forward of the beam. A starboard alteration is not prohibited and a bold one is what Rule 8 asks for.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q07",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A mate proposes a series of 5° course changes to avoid a ship detected by radar. What does Rule 8(b) say?",
+      "options": [
+        "Several small alterations are preferred because they are easier to steer",
+        "Alterations should never exceed 10°",
+        "An alteration should be large enough to be readily apparent to another vessel observing visually or by radar, and a succession of small alterations should be avoided",
+        "The alteration must be exactly 90°"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 8(b) asks for a large, readily apparent alteration and warns against a succession of small ones, which another vessel cannot detect on radar.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q08",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under Rule 19(e), a vessel cannot avoid a close-quarters situation with a vessel forward of her beam. What must she do?",
+      "options": [
+        "Increase speed to clear the area",
+        "Reduce speed to the minimum at which she can be kept on her course, take all way off if necessary, and navigate with extreme caution until danger of collision is over",
+        "Alter course to port to pass astern",
+        "Stop only after the other vessel sounds a signal"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 19(e) requires speed reduced to the minimum at which the vessel can be kept on her course, all way taken off if necessary, and extreme caution until danger of collision is over.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q09",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "After altering course for a radar target, when can the vessel stop checking its effect?",
+      "options": [
+        "Only when the other vessel is finally past and clear",
+        "As soon as the alteration is completed",
+        "After one more radar sweep",
+        "When the target's range begins to increase for the first time"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 8(d) requires the effectiveness of the action to be carefully checked until the other vessel is finally past and clear.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q10",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A radar-only target is forward of your beam on the starboard bow. The plot shows CPA 0.8 nm. Using the worked example's figures, which choice best opens the CPA while following Rule 19(d)?",
+      "options": [
+        "An alteration of about 40° to port, which leaves the CPA about 0.8 nm",
+        "A 5° alteration to starboard, which cannot be seen by the target",
+        "No action, because 0.8 nm is a safe passing distance in fog",
+        "A bold alteration of about 40° to starboard, which opens the CPA to about 2.4 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "In the worked example a 40° starboard turn opens the CPA to about 2.4 nm, while a 40° port turn leaves it at about 0.8 nm and is the kind of move Rule 19(d)(i) warns against. A small turn is not readily apparent (Rule 8(b)). Whether 0.8 nm is acceptable is the master's judgement, and in fog it is usually too close.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.target-course-speed-and-action.q11",
+      "lesson_id": "radar.target-course-speed-and-action",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a plot, the point T lands exactly on M. What does that tell you about the target?",
+      "options": [
+        "It is on a collision course",
+        "It is moving at twice your speed",
+        "It is stationary, such as a buoy or a moored boat",
+        "It is a false echo"
+      ],
+      "correct_index": 2,
+      "explanation": "T is where a stationary object would have moved to because of your own motion. If T and M coincide, the target has no motion of its own.",
+      "source_ids": [
+        "renav-oceannavigator-rapid-plotting"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

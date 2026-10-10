@@ -1,0 +1,261 @@
+{
+  "module": "bridge-watch",
+  "questions": [
+    {
+      "id": "bridge-watch.radar-for-lookouts.q01",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On a standard radar display, where is own ship shown and how do you judge an echo's range?",
+      "options": [
+        "Own ship is at the centre, and range is the distance from the centre read against the range rings",
+        "Own ship is at the top, and range is read from the bearing scale",
+        "Own ship moves around the edge, and range is read from echo brightness",
+        "Own ship is not shown, and range is read from the heading line length"
+      ],
+      "correct_index": 0,
+      "explanation": "The display is a plan view with own ship at the centre, a heading line, equally spaced range rings and a bearing scale around the edge.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q02",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is an echo?",
+      "options": [
+        "A second copy of the heading line",
+        "A warning sound from the radar set",
+        "A ring drawn by the variable range marker",
+        "The radar's return from an object, shown as a bright patch on the screen"
+      ],
+      "correct_index": 3,
+      "explanation": "An echo is a return from an object. The Bridge Watch Rating course expects you to recognise one and to understand the information on the display.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q03",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description fits a dangerous echo?",
+      "options": [
+        "Its range rises while its bearing stays steady",
+        "Its range stays the same while its bearing swings fast",
+        "Its range falls while its bearing stays steady",
+        "It is the brightest echo on the screen"
+      ],
+      "correct_index": 2,
+      "explanation": "A dangerous echo closes on a steady bearing. That is the radar version of the look-out's steady bearing.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q04",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An approaching vessel's compass bearing does not appreciably change. What does Rule 7 say?",
+      "options": [
+        "Risk of collision exists only if the range is under 1 nm",
+        "Risk of collision is deemed to exist, and it may exist even when the bearing does change if the vessel is very large, towing or close",
+        "There is no risk until the bearing drifts forward",
+        "Risk exists only if the other vessel is a power-driven vessel"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 7 deems risk to exist on a steady compass bearing, and warns that risk can exist with a changing bearing, particularly with a very large vessel, a tow or a vessel at close range.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q05",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Own ship is on a steady course. An echo is 30 degrees on the starboard bow at 3.0 nm, and five minutes later it is still 30 degrees on the starboard bow at 2.5 nm. What are the closing speed and the time to meet if nothing changes?",
+      "options": [
+        "6 knots, and 25 minutes",
+        "3 knots, and 50 minutes",
+        "6 knots, and 5 minutes",
+        "0.5 knots, and 30 minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "The range fell 0.5 nm in 5 minutes, so the closing speed is 0.5 / (5/60) = 6 knots. Then 2.5 nm / 6 knots is 0.417 hours, or 25 minutes. The steady bearing marks it as a dangerous echo.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q06",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a head-up screen, own ship alters course 20 degrees to starboard and the relative bearing of an echo moves to about 010 from 030. What is the best way to think about it?",
+      "options": [
+        "The echo has altered away, so the risk has gone",
+        "The radar has failed, so ignore the display",
+        "The echo has stopped, so the range will not change",
+        "The relative bearing changed because own ship turned, so the compass bearing may still be steady"
+      ],
+      "correct_index": 3,
+      "explanation": "A relative bearing moves when own ship alters course. A look-out should say what changed and that the compass bearing may still be steady.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q07",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which target types might radar fail to show at an adequate range?",
+      "options": [
+        "Large steel ships only",
+        "Land with high cliffs only",
+        "Small vessels, ice and floating objects",
+        "Any vessel carrying AIS"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 6(b) lists small vessels, ice and other floating objects as targets that may not be detected at an adequate range. Wood and fibreglass boats return weak echoes.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q08",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why can turning the clutter controls up be a mistake?",
+      "options": [
+        "It makes the range rings disappear",
+        "Sea clutter and rain clutter can hide small targets, and the controls that remove clutter can erase real targets too",
+        "It switches the radar to a different band",
+        "It increases the pulse length so targets grow"
+      ],
+      "correct_index": 1,
+      "explanation": "Clutter controls trade a tidy screen against lost echoes. A look-out should not adjust them without the officer's instruction or training.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q09",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does a racon do on a radar screen?",
+      "options": [
+        "It is a transponder that makes a mark show as a Morse-coded signal or a short radial line",
+        "It blocks echoes from nearby ships",
+        "It converts the display to north-up",
+        "It sends a distress position to the coast guard"
+      ],
+      "correct_index": 0,
+      "explanation": "A racon answers the ship's radar and draws a coded signal just beyond the mark, helping identify it.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q10",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How does a radar SART appear on the screen of a ship that is approaching it?",
+      "options": [
+        "A single steady dot that does not change, answering any radar",
+        "A bright ring around own ship, answering 3 GHz only",
+        "A line of 6 dots that fades as the ship gets closer",
+        "A line of 12 dots, which becomes arcs and then circles as the ship gets closer, answering 9 GHz X-band radar only"
+      ],
+      "correct_index": 3,
+      "explanation": "The SART answers 9 GHz (X-band) radar only and shows 12 dots that turn into arcs then circles. Report it at once as a possible distress.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml",
+        "renav-wiki-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "bridge-watch.radar-for-lookouts.q11",
+      "lesson_id": "bridge-watch.radar-for-lookouts",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You can hear a fog signal that the radar does not show. What should you do?",
+      "options": [
+        "Say nothing, because the radar is more reliable than your ears",
+        "Wait to see if the radar picks it up first",
+        "Report it to the officer, because radar supports your look-out and never replaces sight and hearing",
+        "Switch the radar off and on again"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 5 keeps the look-out by sight and hearing as well as by all available means. A clear screen is not a clear sea.",
+      "source_ids": [
+        "renav-tp10936-html",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

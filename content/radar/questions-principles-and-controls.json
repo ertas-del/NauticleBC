@@ -1,0 +1,224 @@
+{
+  "module": "radar",
+  "questions": [
+    {
+      "id": "radar.principles-and-controls.q01",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How does a marine radar obtain the range and the bearing of a target?",
+      "options": [
+        "Range from the time the pulse takes to return, bearing from the direction the antenna is pointing when the echo arrives",
+        "Range from the strength of the echo, bearing from the shape of the echo",
+        "Range from the pulse frequency, bearing from the heading marker alone",
+        "Range from the antenna height, bearing from the gyro-compass reading"
+      ],
+      "correct_index": 0,
+      "explanation": "Radar is a timing instrument. The delay between the pulse leaving and the echo returning gives range, and the antenna direction at that instant gives bearing. Echo strength tells you about the target's reflectivity, not its distance.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q02",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An echo returns 49.4 microseconds after the pulse leaves. Using about 12.4 microseconds per nautical mile of range, how far away is the target?",
+      "options": [
+        "About 2.0 nm",
+        "About 6.0 nm",
+        "About 8.0 nm",
+        "About 4.0 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "The round trip costs about 12.4 microseconds for each nautical mile of range, so 49.4 ÷ 12.4 is about 4.0 nm. Dividing by about 24.7 (treating the figure as one way) would give 2.0 nm, and dividing by about 6.2 would give 8.0 nm.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q03",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which radar do the Navigation Safety Regulations, 2020 name for a vessel of 300 GT or more?",
+      "options": [
+        "A 3-GHz radar only",
+        "Any radar of at least 25 kW",
+        "A 9-GHz radar",
+        "A 24-GHz short-range radar"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 110(b) names a 9-GHz radar for vessels of 300 GT or more. A 3-GHz or 9-GHz radar is accepted as the second, independent radar at 3 000 GT (s. 112(a)). The other options are not in the regulation.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q04",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 6 GT towboat is engaged on a near coastal Class 2 voyage. What does the Navigation Safety Regulations, 2020 require about radar?",
+      "options": [
+        "Nothing, because radar is required only at 300 GT",
+        "It must carry a radar, because a towboat of 5 GT or more on an inland or near coastal Class 2 voyage must have one",
+        "Two independent radars, because it is a towboat",
+        "A radar only if it will operate at night or in fog"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 125(1)(a) requires a radar on a towboat of 5 GT or more on an inland or near coastal Class 2 voyage. The 300 GT rule is a different, general rule. Two radars are required for a towboat on a near coastal Class 1 voyage, and the rule does not depend on night or fog.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q05",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The radar screen is covered in random speckle and a small boat that was visible a moment ago is hard to pick out. The set is on a sensible range scale and the sea is calm. Which adjustment is most likely to help?",
+      "options": [
+        "Reduce the gain slightly",
+        "Raise the gain to maximum",
+        "Turn the rain clutter control to maximum",
+        "Switch the range scale to the smallest setting and leave it"
+      ],
+      "correct_index": 0,
+      "explanation": "Gain sets the strength a return needs to be shown. Too much gain floods the screen with noise. Maximum rain control would suppress real returns when there is no rain, and parking on the smallest scale gives up early warning.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-raymarine-radar-sensitivity",
+        "renav-timezero-radar-controls"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q06",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is it risky to leave the sea clutter and rain clutter controls turned up high?",
+      "options": [
+        "They shorten the maximum range of the transmitter permanently",
+        "They change the radar's frequency band",
+        "They make the heading marker point the wrong way",
+        "They remove returns from the screen and cannot tell waves or rain from a small boat, so real targets can vanish"
+      ],
+      "correct_index": 3,
+      "explanation": "Both controls work by suppressing returns. A small vessel can be erased along with the clutter. They do not change the transmitter, the band or the heading marker.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-timezero-radar-controls"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q07",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Two small boats lie almost on the same bearing, 40 m apart in range, and the screen shows a single echo. Which statement best explains why?",
+      "options": [
+        "Range resolution depends only on the gain setting",
+        "Bearing resolution is better at longer ranges, so close targets merge",
+        "Range resolution is about half the pulse length, so targets closer than that in range blur into one echo",
+        "The VRM always merges echoes within one cable"
+      ],
+      "correct_index": 2,
+      "explanation": "Range resolution is about half the pulse length. Two targets on the same bearing closer together in range than that appear as one. Bearing resolution actually improves when the beam is narrower and the range is shorter.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-nga-pub310-ch4"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q08",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these does Rule 7(b) of the Collision Regulations require of a vessel with working radar?",
+      "options": [
+        "Use of the radar only when visibility is under one mile",
+        "Proper use, including long-range scanning for early warning and radar plotting or equivalent systematic observation",
+        "Use of the 3 GHz band in rain and the 9 GHz band otherwise",
+        "A radar report to the Coast Guard every hour"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 7(b) calls for proper use of radar, with long-range scanning and plotting or equivalent systematic observation. It does not tie radar use to a visibility figure or require reports to the Coast Guard.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q09",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a radar-related factor that Rule 6(b) adds to the factors for determining a safe speed?",
+      "options": [
+        "The possibility that small vessels, ice and floating objects are not detected by radar at an adequate range",
+        "The number of crew available to plot targets",
+        "The age of the magnetron",
+        "Whether the radar is a 3 GHz or 9 GHz set"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 6(b) lists the radar's characteristics, efficiency and limitations, the range scale, sea state and weather effects, the possibility that small vessels, ice and floating objects are missed, the number and movement of vessels detected, and a better estimate of visibility. The other options are not in the rule.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radar.principles-and-controls.q10",
+      "lesson_id": "radar.principles-and-controls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On a radar screen, what are the EBL and the VRM for?",
+      "options": [
+        "The EBL reads the range and the VRM reads the bearing",
+        "Both are used to adjust gain and clutter",
+        "They set the transmit power and the pulse length",
+        "The EBL is swung onto an echo to read its bearing, and the VRM is expanded to touch an echo to read its range"
+      ],
+      "correct_index": 3,
+      "explanation": "The electronic bearing line measures bearing and the variable range marker measures range. They are measuring tools, not receiver controls.",
+      "source_ids": [
+        "renav-bowditch-2002-ch13-radar",
+        "renav-raymarine-radar-settings"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "module": "electronic-navigation",
+  "questions": [
+    {
+      "id": "electronic-navigation.gnss.q01",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these receiver types is listed in Schedule 1 to the Navigation Safety Regulations, 2020 alongside GPS and GLONASS?",
+      "options": [
+        "Galileo and BeiDou receivers",
+        "Loran-C receivers",
+        "Decca Navigator receivers",
+        "Omega receivers"
+      ],
+      "correct_index": 0,
+      "explanation": "The schedule lists GPS, GLONASS, DGPS/DGLONASS beacon, combined GPS/GLONASS, BeiDou, Galileo and multi-system radionavigation receivers. The older hyperbolic systems are not on the list.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q02",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "From what size must a vessel carry a GNSS receiver under NSR s. 109(1)(a)?",
+      "options": [
+        "Any vessel over 8 m",
+        "300 GT or more",
+        "500 GT or more, and only on international voyages",
+        "150 GT or more"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 109(1)(a) requires a GNSS receiver on every vessel of 150 GT or more, usable at all times throughout the voyage to establish and update position. Smaller vessels have no such legal duty, though most carry one.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q03",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Radio equipment can automatically send the vessel's position in a distress alert. Where must the position and time come from, under NSR s. 221?",
+      "options": [
+        "The last position typed in by the master",
+        "The vessel's log book",
+        "A GNSS receiver",
+        "The nearest coast radio station"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 221 requires the position, and the time at that position, to be made available from a GNSS receiver for transmission by the radio equipment.",
+      "source_ids": [
+        "renav-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q04",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The GPS commitment of 'a signal-in-space range error of 2.0 m or better, with 95% probability' describes what?",
+      "options": [
+        "The guaranteed position error of every phone",
+        "The performance of the satellite signals, which is not the same as the error of a receiver on your boat",
+        "The error of a chart plotter after datum correction",
+        "The maximum error allowed on a paper chart"
+      ],
+      "correct_index": 1,
+      "explanation": "The commitment covers signals in space, not user equipment. A receiver on a boat adds its own errors from blocked or reflected signals, atmosphere and hardware.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-gps-gov-accuracy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q05",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under open sky, a smartphone's GPS is typically accurate to about what?",
+      "options": [
+        "A 4.9 m radius, and worse near buildings, bridges and trees",
+        "A 0.1 m radius",
+        "A 50 m radius, whatever the surroundings",
+        "A 500 m radius, which is why phones are not used"
+      ],
+      "correct_index": 0,
+      "explanation": "The GPS.gov figure is about 4.9 m radius under open sky, getting worse near buildings, bridges and trees.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-gps-gov-accuracy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q06",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a typical cause of GNSS position error?",
+      "options": [
+        "Magnetic variation",
+        "The state of the tide",
+        "The rudder angle",
+        "Signals reflected off a hard surface before reaching the antenna (multipath)"
+      ],
+      "correct_index": 3,
+      "explanation": "Multipath, blocked signals and atmospheric delay all degrade GNSS. Variation, tide and rudder angle do not affect satellite positioning.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-gps-gov-accuracy"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q07",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What horizontal datum do Canadian Hydrographic Service charts normally use, as set out in the Notices to Mariners?",
+      "options": [
+        "A local datum for each chart, always",
+        "Chart datum only, which is the tidal datum",
+        "WGS84 (with NAD83 treated as equivalent)",
+        "The datum of the nearest lighthouse"
+      ],
+      "correct_index": 2,
+      "explanation": "CHS has adopted WGS84, compatible with GNSS, and treats NAD83 as equivalent. Chart datum for depths is a different thing (the tidal datum).",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-chs-notmar-g45"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q08",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A chart on an older datum has a note: move a satellite position 0.05 minute north and 0.10 minute west. The ship is at 50°N. About how big is the total shift? (cos 50° = 0.643)",
+      "options": [
+        "About 0.15 nm, roughly 280 m",
+        "About 0.08 nm, roughly 150 m",
+        "About 0.05 nm, roughly 90 m",
+        "About 1.5 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "North shift 0.05 nm. West shift 0.10 × cos 50° = 0.064 nm, because a minute of longitude is shorter than a nautical mile away from the equator. Total √(0.05² + 0.064²) = 0.081 nm, about 150 m. Adding 0.05 and 0.10 directly would overstate it.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-chs-notmar-g45"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q09",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the difference between GNSS jamming and spoofing?",
+      "options": [
+        "Jamming swamps the signals so the position degrades or is lost, while spoofing sends false signals that can push the position off slowly without any alarm",
+        "Jamming is accidental and spoofing is a satellite failure",
+        "Jamming affects only AIS and spoofing affects only radar",
+        "They are two names for multipath"
+      ],
+      "correct_index": 0,
+      "explanation": "Jamming degrades or denies the signal. Spoofing replaces genuine signals with counterfeit ones so the receiver's position is offset slowly and may look normal.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nautinst-jamming-spoofing"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "electronic-navigation.gnss.q10",
+      "lesson_id": "electronic-navigation.gnss",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The plotter says you are 0.8 nm off a headland and the radar range to it is 0.5 nm. No GNSS alarm is showing. What is the best action?",
+      "options": [
+        "Trust the plotter, because there is no alarm",
+        "Trust the radar on principle and stop cross-checking",
+        "Wait until the next scheduled position check in an hour",
+        "Treat it as a 0.3 nm disagreement: take care to stay clear of the shore, check the sources and trust the evidence nearest your hull until the cause is found"
+      ],
+      "correct_index": 3,
+      "explanation": "The absence of an alarm proves nothing, because a bad GNSS position can look normal. A 0.3 nm difference is about 556 m. Move to safer water, check the source status, and compare radar, bearings and depth.",
+      "source_ids": [
+        "renav-nsr-2020-xml",
+        "renav-nautinst-jamming-spoofing"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

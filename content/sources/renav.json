@@ -1,0 +1,235 @@
+{
+  "sources": [
+    {
+      "id": "renav-nsr-2020-xml",
+      "title": "Navigation Safety Regulations, 2020 (SOR/2020-216), Part 1 (equipment, charts) and Part 2 s. 200, 220, 221",
+      "publisher": "Department of Justice Canada",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2020-216.xml",
+      "edition": "Consolidation in the XML clone, current to 2025-07-24; registered 2020-10-06; accessed 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Justice Canada laws-lois XML clone (HEAD, updated 2026-09-28), converted to text and read. Supports: s. 1 (definitions: AIS, ECDIS, GNSS receiver, towboat, passenger vessel = more than 12 passengers, person in charge of the deck watch); s. 5 (equipment required must be fitted before a voyage and kept in effective operating condition, restored as soon as possible); s. 101 (type approval of Schedule 1 equipment on vessels of 150 GT or more, and of every AIS); s. 106 (magnetic compass, reading displayed at the main steering position); s. 107 (sound-reception system on a totally enclosed bridge); s. 108 (voice communication to the emergency steering position); s. 109(1)(a) (GNSS receiver, 150 GT or more, usable at all times throughout the voyage); s. 110 (300 GT or more: echo sounder, 9-GHz radar, speed-and-distance device unless sheltered waters, and under 500 GT an automatic tracking aid or ARPA of at least 20 targets plus a heading device or gyro-compass); s. 111 (500 GT or more: ATA/ARPA, gyro repeaters, rudder/propeller indicators); s. 112 and 113 (second radar and ARPA at 3 000 and 10 000 GT; heading or track control system at 10 000 GT); s. 114 (rate-of-turn indicator at 50 000 GT); s. 117 (ECDIS on new passenger vessels of 500 GT or more and other new vessels of 3 000 GT or more) with s. 429(2) (in force on the first anniversary of registration, with s. 118(3)); s. 118 (AIS Class A and Class A or B thresholds, graphic display, heading connection, on 30 minutes before departure and for the whole voyage); s. 125 (towboat radar at 5 GT on inland or near coastal Class 2 voyages; echo sounder and two radars for near coastal Class 1); ss. 129 to 131 (modes of operation shown; integrated bridge system alarms and independent operation); s. 133 (changeover to manual steering, qualified helmsman); s. 140 (bridge visibility: 55 m or more and built on or after 2002-07-01; main steering position 60 degrees each side); ss. 141 to 146 (reference catalogue and largest-scale CHS charts; exception under 100 GT with sufficient local knowledge in s. 142(3); electronic charts only on an ECDIS meeting s. 143; voyage planning and plotting s. 144; correcting charts from Notices to Mariners s. 146); s. 200 (SART definition: radar or AIS frequency); s. 220 (VHF accessible from the conning position); s. 221 (distress-alert position and time from a GNSS receiver); Schedule 1 (receiver types: GPS, GLONASS, DGPS/DGLONASS beacon, combined GPS/GLONASS, BeiDou, Galileo, multi-system; IEC 62287 for Class B AIS). Not the official version; check the live Justice Laws text before release."
+    },
+    {
+      "id": "renav-crc1416-xml",
+      "title": "Collision Regulations (C.R.C., c. 1416): Rules 5, 6, 7, 8, 19, 40 and 41",
+      "publisher": "Department of Justice Canada",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.%2C_c._1416.xml",
+      "edition": "Consolidation in the XML clone (HEAD, updated 2026-09-28); accessed 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada XML clone. Supports: Rule 5 (look-out by sight and hearing and by all available means); Rule 6(b) (extra factors for safe speed with operational radar, including characteristics and limitations, range scale, sea state, weather and interference, small vessels, ice and floating objects not detected at adequate range, number and movement of vessels detected, more exact visibility assessment); Rule 7(a) to (d) (all available means; proper use of radar including long-range scanning and radar plotting or equivalent systematic observation; no assumptions on scanty information, especially scanty radar information; bearing not appreciably changing means risk deemed to exist, and risk may exist even when bearing changes for a very large vessel, a tow or at close range); Rule 8(b) (alteration large enough to be readily apparent to another vessel observing visually or by radar; avoid a succession of small alterations); Rule 19(d) (vessel detecting another by radar alone determines whether a close-quarters situation is developing or risk of collision exists, takes avoiding action in ample time, and so far as possible avoids a port alteration for a vessel forward of the beam other than one being overtaken and an alteration towards a vessel abeam or abaft the beam); Rule 40 (radar reflector for a vessel under 20 m or built primarily of non-metallic material, if practicable, effective at 3 GHz or 9 GHz, with exceptions); Rule 41 (no use of a transponder in the 3 or 10 cm radar bands except a vessel in distress, subject to the exploration or exploitation exception). Not the official version; check live text before release."
+    },
+    {
+      "id": "renav-bowditch-2002-ch13-radar",
+      "title": "American Practical Navigator (Bowditch), 2002 edition, Chapter 13 Radar Navigation",
+      "publisher": "National Geospatial-Intelligence Agency (US government work); copy hosted by thenauticalalmanac.com",
+      "url": "https://thenauticalalmanac.com/2002_Bowditch-_American_Practical_Navigator/Chapt-13%20RADAR%20NAVIGATION.pdf",
+      "edition": "2002 edition; accessed 2026-10-10",
+      "kind": "textbook",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool asked for near-verbatim extracts; the PDF itself was not opened and direct download was blocked. US government publication (public domain in the US); no licence statement was seen for Canadian use, so paraphrase only. Supports: range found by timing the round trip of a pulse; pulse repetition rate perhaps 1 000 per second; PPI with range proportional to distance from the centre and a movable cursor for range and bearing; head-up (relative bearings, not stabilised) and north-up (stabilised, gyro north at top); range resolution about half the pulse length; narrower beam and shorter range improve bearing resolution; beam width measured between half-power (3 dB) points; ranges more accurate than bearings; radar bearing typically within about 5 degrees; false echo types (indirect, side-lobe, multiple, second-trace) and shadow or blind sectors; metal reflects better than wood and broadside better than end-on; radar horizon effects; fixes from ranges best, objects ahead or astern measured first and abeam last; corner reflectors; racon as a transponder shown as a radial line or Morse code; ramark gives bearing only. Old edition: check current Bowditch before relying on figures."
+    },
+    {
+      "id": "renav-nga-pub310-ch4",
+      "title": "Radar Navigation and Maneuvering Board Manual (Pub. 310), Chapter 4 Radarscope Interpretation",
+      "publisher": "National Geospatial-Intelligence Agency (US government work)",
+      "url": "https://msi.nga.mil/api/publications/download?key=16694476/SFH00000/310ch4.pdf",
+      "edition": "Edition not stated in the extract; accessed 2026-10-10",
+      "kind": "textbook",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool asked for near-verbatim extracts; the PDF was not opened. US government publication; paraphrase only. Supports: land appears as large steady returns; steel ship pip bright and steady; sandspits and smooth beaches seldom show beyond 1 or 2 miles; wooded islands give stronger echoes than low barren ones; beam width distorts targets angularly by the effective horizontal beam width and targets are distorted radially by at least half the pulse length (164 yards per microsecond of pulse length); indirect echoes at the bearing of the reflecting surface at the same range, usually in shadow sectors; side-lobe echoes at the same range on each side of the true echo, mainly at short range; multiple echoes at multiples of range from a strong nearby target; second-trace echoes from beyond the range setting; blind and shadow sectors can hide small near targets while larger distant ones show; growlers may be lost in sea clutter; radar ranges are more accurate than bearings and ranges give better fixes than bearings; best angle of cut near 90 degrees; parallel indexing defined as equidistant parallel lines on a rotatable transparent screen, best with stabilised radar; corner reflectors, racon (transponder giving bearing and range), ramark."
+    },
+    {
+      "id": "renav-oceannavigator-rapid-plotting",
+      "title": "Rapid radar plotting",
+      "publisher": "Ocean Navigator magazine, issue 118",
+      "url": "https://oceannavigator.com/rapid-radar-plotting/",
+      "edition": "November/December 2001; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool asked for near-verbatim steps. Magazine article: paraphrase only, no quotes. Supports the six-minute rapid plot on a maneuvering board: plot the first position R, plot M after six minutes, draw the direction of relative motion (DRM) line from R through M past the centre, read CPA from how near the line passes the centre (through the centre means collision), step off six-minute intervals along the line for time to CPA, drop a line from R equal to own six-minute run to T, join T to M to get the target's vector (length gives speed, direction gives course once own heading is added), and cautions to act early and clearly, to favour a starboard turn, to stop and hail on VHF when in doubt, and to consult Rules 7(b) and 8. The article itself says a full treatment of target analysis is beyond its scope."
+    },
+    {
+      "id": "renav-timezero-arpa-target",
+      "title": "TimeZero Navigator user guide: ARPA Target",
+      "publisher": "TIMEZERO (Nobeltec)",
+      "url": "https://userguide.mytimezero.com/tz-navigator/ARPA_Target.htm",
+      "edition": "Online guide; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Product documentation for one chart-plotter brand, used as an example of the type only; there is no sign Transport Canada examines any software brand. Supports: the ARPA feature needs a connected heading sensor and a radar; acquisition by double-click, right-click or tool; automatic acquisition inside guard zones needs an Ethernet radar; up to 200 targets when the software processes targets; icon states acquiring (dashed circle for a few revolutions), acquired (circle with speed vector above 1 knot), lost, dangerous (flashing); poor tuning causes false targets or too little gain missed targets. A related page (Graphic CPA and TCPA, https://userguide.mytimezero.com/tz-navigator/Graphic_CPA_TCPA.htm) was also read this way: CPA and TCPA computed for every target type, alarm thresholds set in Alarms options, a target counts as dangerous only when both thresholds are met."
+    },
+    {
+      "id": "renav-timezero-radar-controls",
+      "title": "TimeZero Navigator user guide: Radar Controls",
+      "publisher": "TIMEZERO (Nobeltec)",
+      "url": "https://userguide.mytimezero.com/tz-navigator/Radar_Controls.htm",
+      "edition": "Online guide; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: gain raised to show more echoes and lowered when random speckle clutters the screen; sea control suppresses wave clutter near own ship, increased until central clutter clears and decreased if echoes vanish; rain control used only when precipitation is present, kept at 0 otherwise, too much can erase real targets; standby stops rotation and transmission while the radar stays powered, and fully switching off is not usually recommended because warm-up takes 1 to 2 minutes. The page says a heading sensor is needed for Echo Trails and Echo Averaging (it does not mention radar overlay)."
+    },
+    {
+      "id": "renav-raymarine-radar-sensitivity",
+      "title": "Raymarine radar documentation: Radar sensitivity controls",
+      "publisher": "Raymarine (Teledyne FLIR)",
+      "url": "https://docs.raymarine.com/81406/en-US/latest/RadarSensitivityControls-B34D0BA4.html",
+      "edition": "Online manual; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: gain sets the signal strength at which returns appear, higher value shows more returns and more noise; rain control suppresses precipitation echoes, higher setting suppresses more; sea control suppresses wave echoes for up to 5 nm depending on conditions; Auto settings exist; default settings usually give optimum performance. The page has no tuning control and no warning text."
+    },
+    {
+      "id": "renav-raymarine-false-echoes",
+      "title": "Raymarine radar documentation: False echoes",
+      "publisher": "Raymarine (Teledyne FLIR)",
+      "url": "https://docs.raymarine.com/81406/en-US/latest/FalseEchoes-4A646026.html",
+      "edition": "Online manual; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: reflections from large structures appear on the bearing the antenna points at, at the range of the reflected path; multiple echoes lie on the same bearing as the real target at exact multiples of its range and get weaker, often when another vessel passes at short range on a parallel course; side-lobe echoes form arcs or a broken arc beside large short-range targets, normally inside 3 nm; ghost echoes from a ship between the antenna and a real target copy the real target's movement but are weaker; a virtual (mirror) image can appear near large metal structures such as a bridge; adjusting gain or sea clutter reduces some false echoes but may lower real detection."
+    },
+    {
+      "id": "renav-raymarine-radar-settings",
+      "title": "Raymarine radar documentation: Radar settings menu (orientation and motion modes)",
+      "publisher": "Raymarine (Teledyne FLIR)",
+      "url": "https://docs.raymarine.com/81388/en-US/latest/RadarSettingsMenu-4FC8856D.html",
+      "edition": "Online manual; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: head-up (top of screen is current heading; motion fixed to relative), north-up (top is north), course-up (top is the destination direction); relative motion (own ship fixed on screen, image moves) and true motion (stationary targets fixed, moving targets and own ship move, image redrawn at the screen edge); VRM/EBL reference choices true/magnetic or relative to the ship's heading marker; range rings can be switched on. The page does not state heading-input requirements explicitly."
+    },
+    {
+      "id": "renav-wiki-sart",
+      "title": "Search and rescue transponder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Search_and_rescue_transponder",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool (CC BY-SA). Supports: a radar SART answers only 9 GHz X-band (3 cm) radar; each interrogating pulse triggers 12 sweeps so a line of 12 dots about 0.64 nm apart appears; within about 1 nm the responses grow to arcs and then circles; triggered by X-band radar within about 8 nm. Secondary source: a reviewer should check against an IMO or Canadian Coast Guard document."
+    },
+    {
+      "id": "renav-tp10936-html",
+      "title": "TP 10936 Bridge Watch Rating Training Course (HTML version): competences 1 and 2",
+      "publisher": "Transport Canada, Marine Safety and Security",
+      "url": "https://tc.canada.ca/en/marine-transportation/tp-10936-bridge-watch-rating-training-course",
+      "edition": "Page as served on 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool asked for each mention of radar and bridge equipment; the raw page was not opened. Supports: competence 1 (30 hours) knowledge list of bridge equipment: gyro repeater, rate-of-turn indicator, radar, electronic chart, AIS, echo sounder, steering position, autopilot, GPS, VHF radio; changeover from automatic to manual steering and back; the need to check that automatic steering is holding course; competence 2 (40 hours) understand the display information of a marine radar and recognise an echo of an object, including a dangerous echo. Paraphrase only."
+    },
+    {
+      "id": "renav-chs-notmar-g45",
+      "title": "Notices to Mariners annual edition, Section G45: Horizontal Datum of Charts",
+      "publisher": "Canadian Coast Guard (Notices to Mariners)",
+      "url": "https://www.notmar.gc.ca/publications/annual/section-g/g45-en",
+      "edition": "Annual edition page as served on 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: CHS has adopted WGS84, which is compatible with GNSS; NAD83 is considered equivalent to WGS84; older horizontal datums are rare and GNSS positions must then be adjusted using the chart's Horizontal Datum note; mariners should always check the Horizontal Datum note on CHS charts. No offset values were given."
+    },
+    {
+      "id": "renav-gps-gov-accuracy",
+      "title": "GPS Accuracy",
+      "publisher": "GPS.gov (United States Space Force and US government)",
+      "url": "https://archive.gps.gov/systems/gps/performance/accuracy/",
+      "edition": "Page last modified 2022-03-03 (site notice: not updated since February 2025); accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: the SPS commitment of a global average user range error of 2.0 m or better with 95% probability (signal in space, not user equipment; actual performance on 2021-04-20 was 0.643 m or better); smartphones typically within a 4.9 m radius under open sky, worse near buildings, bridges and trees; multipath from reflected signals; dual-frequency receivers improve accuracy by correcting atmospheric distortion. The page does not define the 95% level."
+    },
+    {
+      "id": "renav-nato-ais-overview",
+      "title": "AIS: Automatic Identification System overview",
+      "publisher": "NATO Shipping Centre (MARCOM)",
+      "url": "https://shipping.nato.int/nsc/Operations/news/2021/ais-automatic-identification-system-overview",
+      "edition": "2021 news item; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: AIS is a digital VHF system for identification, tracking and situational awareness, originally developed as a collision-avoidance tool; static data (MMSI, IMO number, name, call sign, length and beam, ship type, antenna position) about every 6 minutes or on request; dynamic data (position with accuracy flag, UTC time, course over ground); AIS 1 161.975 MHz (channel 87B) and AIS 2 162.025 MHz (channel 88B); Class B is lower functionality and power, aimed at non-SOLAS vessels, range up to 10 nm; not all vessels carry AIS; reception range varies widely with propagation and antenna height. It describes the SOLAS rule (Class A for 300 GT and over on international voyages and all passenger ships), which differs from the Canadian thresholds in NSR s. 118."
+    },
+    {
+      "id": "renav-digitalyacht-ais-guide",
+      "title": "Non Idiots Guide to AIS for the BMEA",
+      "publisher": "Digital Yacht (marine electronics maker)",
+      "url": "https://digitalyacht.net/wp-content/uploads/2014/09/Non-Idiots-Guide-to-AIS-for-the-BMEA.pdf",
+      "edition": "2014 upload; accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Manufacturer guide, dated. Supports: Class A transmits at 12.5 W (typical range 20 to 25 nm) and Class B at 2 W (typical range 7 to 8 nm); Class A updates every few seconds and Class B about every 30 seconds; AIS uses VHF so is limited by line of sight; data classes dynamic, static and voyage (voyage data Class A only); a transponder needs a GPS position; AIS can detect vessels beyond radar's line of sight; AIS needs the other vessel to carry a transponder; combining AIS and radar gives the best picture; Class B transmissions are not guaranteed a time slot."
+    },
+    {
+      "id": "renav-chs-rnc-discontinuation",
+      "title": "CHS announcements: phasing out digital Raster Navigational Charts (RNC, BSB format)",
+      "publisher": "Canadian Hydrographic Service (Fisheries and Oceans Canada)",
+      "url": "https://cartes-charts.gc.ca/help-aide/announcements-annonces/2021/2021-07-19a-eng.html",
+      "edition": "Announcements of 2021-07-19, 2022-04-21 and 2023-08-31; accessed 2026-10-10",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Three pages seen through a fetch-and-summarise tool: the 2021 announcement above, https://shc-chs.gc.ca/help-aide/announcements-annonces/2022/2022-04-21-eng.html (phase 1, cancelled charts in Notices to Mariners notice 306/22) and https://charts-cartes.gc.ca/help-aide/announcements-annonces/2023/2023-08-31b-eng.html (phase 2, notice 311/23). Support: CHS is progressively cancelling digital RNC (BSB) charts in favour of S-57 ENCs; the product line that remains for navigation is S-57 ENC and paper charts, with PDF charts for non-navigation use only; no end date was given; the pages say ENCs are for GNSS users. Check the live CHS pages for the current list of cancelled charts."
+    },
+    {
+      "id": "renav-chs-enc-opendata",
+      "title": "Electronic Navigational Chart (ENC) Maritime Chart Service (open data record)",
+      "publisher": "Fisheries and Oceans Canada, Canadian Hydrographic Service (Open Government Portal)",
+      "url": "https://open.canada.ca/data/en/dataset/12b769c8-48b8-4562-80fb-4a2e5ee9b45b",
+      "edition": "Record last modified 2026-03-24 per the page; accessed 2026-10-10",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: CHS produces ENCs; an ENC contains the chart information useful for navigation; data conform to IHO S-57; listed update frequency weekly; Open Government Licence - Canada; the page states: this service is not for navigation. The open data service is a different thing from a navigation product bought through a CHS dealer."
+    },
+    {
+      "id": "renav-bowditch-2017-ch5-ecdis",
+      "title": "American Practical Navigator (Bowditch), 2017 edition, Volume 1 Chapter 5 ECDIS: Electronic Chart Display and Information Systems",
+      "publisher": "National Geospatial-Intelligence Agency (US government work); copy hosted by thenauticalalmanac.com",
+      "url": "https://thenauticalalmanac.com/2017_Bowditch-_American_Practical_Navigator/Volume-_1/03-%20Part%201-%20Fundamentals/Chapter%205-%20ECDIS%3A%20Electronic%20Chart%20Display%20and%20Information%20Systems.pdf",
+      "edition": "2017 edition; accessed 2026-10-10 (first 100 000 of about 115 000 characters reached)",
+      "kind": "textbook",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. US government publication; paraphrase only. Supports: ENC is a vector database to IHO S-57 issued by or for a hydrographic office; RNC is a raster image; an RNC used on an ECDIS runs in RCDS mode and needs a backup folio of corrected paper charts; ECDIS with adequate backup can be accepted as the up-to-date chart; an ECS lacks some of the input, display and function of an ECDIS; vector data are in layers the user can select, raster is one image layer; the mariner selects the safety contour and safety depth, and ECDIS alarms on crossing the safety contour, cross-track limits, position-system loss and a chart/position datum mismatch; accuracy of an electronic chart depends on the source survey, and a chart made from paper cannot match GPS accuracy; overscale and underscale indications; display settings and clutter can hide information; route monitoring enhances but does not replace situational awareness; ECDIS must accept official ENC updates; paper charts remain the primary means where ENC coverage is incomplete."
+    },
+    {
+      "id": "renav-nautinst-jamming-spoofing",
+      "title": "WAYPOINT: Staying alert to jamming and spoofing",
+      "publisher": "The Nautical Institute",
+      "url": "https://www.nautinst.org/resources-page/waypoint-staying-alert-to-jamming-and-spoofing.html",
+      "edition": "Page as served on 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. Supports: jamming overwhelms the receiver so position degrades or is lost, and low-power jamming can grow errors gradually without an alarm; spoofing replaces genuine signals with counterfeit ones so the position is offset slowly and may go unnoticed; a frozen or extrapolated position can appear when GNSS is denied; bad position data can spread to other systems and to AIS reports; in coastal waters, mismatches between the ECDIS position and radar overlay or visual bearings are a warning sign; response is frequent cross-checking, using all data sources and traditional skills, and not relying on silence from alarms."
+    },
+    {
+      "id": "renav-nautinst-ecdis-grounding",
+      "title": "Improper bridge procedures and ECDIS use caused grounding (case 201257)",
+      "publisher": "The Nautical Institute (Mariners' Alerting and Reporting Scheme)",
+      "url": "https://www.nautinst.org/resources-page/201257-improper-bridge-procedures-and-ecdis-use-caused-grounding.html",
+      "edition": "Page as served on 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Seen through a fetch-and-summarise tool. A case study from a bulk carrier, used only for general lessons: a safety contour set shallower than the ship's draught, an anti-grounding audible alarm found disconnected, the display placed where the watchkeeper had to turn to see it, no check of position for over 15 minutes, generic rather than equipment-specific training. Lessons: check safety settings against draught and route, test alarms, place displays so they can be seen while looking ahead, and do not let continuous electronic monitoring breed complacency."
+    }
+  ]
+}
