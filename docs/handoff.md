@@ -42,11 +42,11 @@ Uploaded from another Claude on 2026-10-10. Brief: `docs/syllabus/svmo.md`. Lear
 
 1. DONE (#24): seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
 2. seamanship 200+: the 16 master-level lessons in the 60 GT brief 'Module seamanship' (emergencies, fire, flooding, abandon ship, cold water, heavy weather, towing). sources sea-c.json.
-3. chartwork 5 + 60 GT chartwork 1-12 (charts, datums, lat/long, publications, compass error and TVMDC). sources chw-a.json.
-4. chartwork 60 GT 13-24 (DR, fixes, running fix, set and drift, course to steer, clearing bearings, passage planning, CP1 technique). sources chw-b.json.
+3. DONE (#33): chartwork 19 lessons, 209 questions (charts, datums, lat/long, compass, TVMDC, DR, fixes, running fix, set and drift, course to steer, passage planning, CP1 technique). sources chw-a.json, chw-b.json.
+4. chartwork still to write: distance off lights (16), leeway (19), course/speed made good, ETA, fuel (20), tides in chartwork (21), current tables and passes (22), publications and corrections (23).
 5. canadian-regulations 60 GT 1-7 + Bridge Watch safe working, enclosed spaces, pollution (orders 200-220). sources regs-a.json.
 6. canadian-regulations 60 GT 8-14 (Navigation Safety Regs 2020, VTS/MCTS BC (rules changed 2026-03-31), pollution, TSB reporting). sources regs-b.json.
-7. stability 5 + 60 GT stability 1-11 (full first-principles stability with worked calculations). sources stab.json.
+7. DONE (#34): stability 12 lessons, 110 questions. Gaps: following/quartering seas and towing stability are only touched on. IS Code numbers came from a secondary page; verify against TP 7301 / the code.
 8. radio 5 + 60 GT radio 1-7, meteorology 1-6. sources rmet.json.
 9. radar 1-6, electronic-navigation 1-5 + Bridge Watch bridge-equipment-tour (60) and radar-for-lookouts (70). sources renav.json.
 10. tides additions 7-8 (60 GT brief).
