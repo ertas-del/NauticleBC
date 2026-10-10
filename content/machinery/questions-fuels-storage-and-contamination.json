@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.fuels.storage-and-contamination.q01",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Water in diesel fuel will:",
+      "options": [
+        "Float on top",
+        "Turn the fuel clear",
+        "Settle to the bottom of the tank",
+        "Increase the energy of the fuel"
+      ],
+      "correct_index": 2,
+      "explanation": "Water is denser than diesel. Drain from the lowest point.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q02",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A day tank is:",
+      "options": [
+        "A bilge holding tank",
+        "A tank for drinking water",
+        "A tank for sewage",
+        "A small tank near the engine that supplies fuel by gravity"
+      ],
+      "correct_index": 3,
+      "explanation": "It is topped up from the main tanks.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q03",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Diesel fuel has a specific gravity of about:",
+      "options": [
+        "0.1",
+        "0.85, lighter than water",
+        "1.5, heavier than water",
+        "2.0"
+      ],
+      "correct_index": 1,
+      "explanation": "Diesel floats on water, which is why water collects under fuel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q04",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "'Fuel bugs' are:",
+      "options": [
+        "Microbial growth that forms sludge and can clog filters",
+        "Insects in the fuel hold",
+        "Corrosion on tank walls",
+        "A fuel additive"
+      ],
+      "correct_index": 0,
+      "explanation": "They grow at the fuel and water boundary. Keep tanks free of water.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q05",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is the best way to handle fuel-soaked rags?",
+      "options": [
+        "Throw them over the side",
+        "Pile them behind the engine",
+        "Leave them on the engine to dry",
+        "Store them in a closed metal container and dispose of them properly"
+      ],
+      "correct_index": 3,
+      "explanation": "Fuel-soaked rags are a fire hazard and a pollutant.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q06",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The best way to check fuel is not contaminated before a voyage is to:",
+      "options": [
+        "Check the paint",
+        "Look at the fuel gauge only",
+        "Smell the tank vent",
+        "Drain and inspect a sample from the lowest point of the tank or filter"
+      ],
+      "correct_index": 3,
+      "explanation": "Water and sediment collect at the bottom.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q07",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A tank holds 800 litres of fuel and the engine burns 20 litres an hour. At that rate the endurance is:",
+      "options": [
+        "4 hours",
+        "16 hours",
+        "160 hours",
+        "40 hours"
+      ],
+      "correct_index": 3,
+      "explanation": "800 / 20 = 40 hours. Always keep a reserve.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q08",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A sounding pipe that ends in a machinery space is normally fitted with:",
+      "options": [
+        "A fuel heater",
+        "A self-closing cock or cap",
+        "A pressure relief valve",
+        "A fire detector"
+      ],
+      "correct_index": 1,
+      "explanation": "An open sounding pipe in a machinery space is a fuel and fire hazard.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q09",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Before starting an inboard gasoline engine you should:",
+      "options": [
+        "Open the engine room hatches and start at once",
+        "Switch off the bilge pump",
+        "Fill the fuel tank to the top",
+        "Run the bilge blower and check the bilge for fuel vapour"
+      ],
+      "correct_index": 3,
+      "explanation": "Gasoline vapour sinks into the bilge and can explode. Ventilate before starting.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.fuels.storage-and-contamination.q10",
+      "lesson_id": "machinery.fuels.storage-and-contamination",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "When transferring fuel between tanks you should:",
+      "options": [
+        "Rely only on the gauge",
+        "Fill the tank to the brim",
+        "Leave the transfer unattended",
+        "Check space in the receiving tank, set the valves, keep vents clear and watch the level"
+      ],
+      "correct_index": 3,
+      "explanation": "Plan, check the line-up, and stay with the transfer until it is stopped.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

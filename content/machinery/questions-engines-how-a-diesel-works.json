@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.engines.how-a-diesel-works.q01",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The order of events in a four-stroke engine is:",
+      "options": [
+        "Power, intake, compression, exhaust",
+        "Intake, compression, power, exhaust",
+        "Exhaust, power, intake, compression",
+        "Compression, intake, exhaust, power"
+      ],
+      "correct_index": 1,
+      "explanation": "Memorise the cycle: suck, squeeze, bang, blow.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q02",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A diesel engine ignites its fuel by:",
+      "options": [
+        "A spark plug",
+        "A pilot flame",
+        "Heat of compression",
+        "A glow pipe in every cylinder"
+      ],
+      "correct_index": 2,
+      "explanation": "Air compressed hot enough ignites injected fuel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q03",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Valve lash is:",
+      "options": [
+        "The valve count",
+        "The clearance in the valve train",
+        "The valve spring strength",
+        "The valve material"
+      ],
+      "correct_index": 1,
+      "explanation": "Correct lash ensures valves open and close properly.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q04",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A carburettor is found on:",
+      "options": [
+        "Diesel engines with high-pressure injection",
+        "Gasoline engines, where it mixes air and fuel",
+        "Electric motors",
+        "Steam turbines"
+      ],
+      "correct_index": 1,
+      "explanation": "Diesel engines inject fuel directly, with no carburettor.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q05",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A diesel fuel injection pump:",
+      "options": [
+        "Cools the fuel",
+        "Filters sea water",
+        "Delivers metered high-pressure fuel to the injectors at the right time",
+        "Starts the engine electrically"
+      ],
+      "correct_index": 2,
+      "explanation": "Timing and quantity control engine power and efficiency.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q06",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A spark plug ignition system is used on:",
+      "options": [
+        "Air compressors",
+        "Hydraulic rams",
+        "Gasoline engines",
+        "Diesel engines"
+      ],
+      "correct_index": 2,
+      "explanation": "Diesel engines rely on heat of compression.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q07",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "In a two-stroke engine, scavenging means:",
+      "options": [
+        "Blowing fresh air through the cylinder to push out the burnt gas",
+        "Cleaning the fuel injectors",
+        "Draining oil from the crankcase",
+        "Cooling the pistons with sea water"
+      ],
+      "correct_index": 0,
+      "explanation": "Scavenging clears the exhaust and refills the cylinder with fresh air, usually with a blower or pump.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q08",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A turbocharger increases engine power by:",
+      "options": [
+        "Cooling the exhaust",
+        "Adding extra fuel tanks",
+        "Making the pistons larger",
+        "Using exhaust gas to drive a compressor that forces more air in"
+      ],
+      "correct_index": 3,
+      "explanation": "More air lets more fuel be burned, so the engine makes more power.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q09",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The scraper (oil control) ring on a piston:",
+      "options": [
+        "Seals combustion gas above the piston",
+        "Holds the piston pin in place",
+        "Wipes surplus oil off the cylinder liner back to the sump",
+        "Cools the exhaust valve"
+      ],
+      "correct_index": 2,
+      "explanation": "The compression rings seal gas. The scraper ring controls oil so it does not burn.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.engines.how-a-diesel-works.q10",
+      "lesson_id": "machinery.engines.how-a-diesel-works",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "In a diesel engine, the speed is kept steady as load changes by the:",
+      "options": [
+        "Raw water pump",
+        "Air filter",
+        "Governor, which adjusts the fuel delivered",
+        "Thermostat"
+      ],
+      "correct_index": 2,
+      "explanation": "A diesel has no air throttle. Output is controlled by how much fuel is injected.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
