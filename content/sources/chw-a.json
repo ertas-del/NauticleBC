@@ -1,0 +1,92 @@
+{
+  "sources": [
+    {
+      "id": "chw-a-nsr-2020-xml",
+      "title": "Navigation Safety Regulations, 2020, SOR/2020-216 (consolidated XML), ss. 106, 109, 132 and 141-146",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2020-216.xml",
+      "edition": "Repository commit b7292cf (2026-09-28); read 2026-10-07",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Text read directly from the XML. Supports: s. 106(1) standard magnetic compass independent of power, showing the heading at the main steering position, with exceptions for vessels 8 m or less within sight of navigation marks and cable ferries; s. 106(2)-(3) steering compass allowed below 150 GT (and in some cases up to 500 GT); s. 106(4) compensation and table or curve of residual deviations on board in the vicinity of the compass; s. 106(5) means of correcting headings and bearings to true (not pleasure craft under 150 GT); s. 106(6) communication between compass and navigating position; s. 109 spare compass at 150 GT; s. 132 deviation card signed and dated by the master and a deck officer; s. 142 most recent versions of the reference catalogue and applicable charts in their largest scale, annual Notices to Mariners, Sailing Directions, Tide and Current Tables, List of Lights, Buoys and Fog Signals, and Radio Aids to Marine Navigation; s. 142(3) exception below 100 GT with sufficient local knowledge; s. 143 electronic charts; s. 144 voyage planning; s. 145 navigation accessories to plot position and to determine compass accuracy, and binoculars; s. 146 charts and publications must be correct and up to date from Notices to Mariners or navigational warnings before use. Not the official version."
+    },
+    {
+      "id": "chw-a-chs-chart1-2022-pdf",
+      "title": "Canadian Chart 1: Symbols, Abbreviations and Terms (2022 edition PDF)",
+      "publisher": "Canadian Hydrographic Service",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-chart1-carte1-202211-41066261.pdf",
+      "edition": "2022-11 edition; accessed 2026-10-07",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the PDF was not opened directly). Supports: purpose of Chart 1; lettered sections A to X (A Chart Number, Title, Marginal Notes; B Positions, Distances, Directions, Compass; C Natural Features; D Cultural Features; E Landmarks; F Ports; H Tides, Currents; I Depths; J Nature of the Seabed; K Rocks, Wrecks, Obstructions; L Offshore Installations; M Tracks, Routes; N Areas, Limits; P Lights; Q Buoys, Beacons; R Fog Signals; S Radar, Radio, Satellite Navigation Systems; T Services; U Small Craft; V Index of Abbreviations; W International Abbreviations; X List of Descriptions); metric soundings in metres and decimetres to 21 m and whole metres beyond; drying heights underlined or bracketed; chart datum in tidal waters is lower low water, large tide (formerly lowest normal tide); elevations of lights, islands and vertical clearances normally above higher high water, large tide in tidal waters, with the datum stated in the chart title; variation given in degrees with W or E and annual change in minutes with W or E in brackets (example '4 deg 30 min W 2007 (8 min E)'); abbreviations Wk, R, Co, Br, S, M. Symbol drawings were not seen; this app describes symbols in words only."
+    },
+    {
+      "id": "chw-a-chs-chart1-index",
+      "title": "Canadian Chart 1: Symbols, Abbreviations and Terms (online edition, index page)",
+      "publisher": "Canadian Hydrographic Service",
+      "url": "https://shc-chs.gc.ca/publications/chart1-carte1/index-eng.html",
+      "edition": "Online edition; accessed 2026-10-07",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports only: Chart 1 is a publication explaining the symbols, abbreviations and terms needed to interpret nautical charts, in the common format used by International Hydrographic Organization member nations, with sections identified by letters and entries by reference numbers."
+    },
+    {
+      "id": "chw-a-bowditch-2019-ch4-charts",
+      "title": "The American Practical Navigator (Bowditch), 2019 edition, Volume 1, Chapter 4: Nautical Charts",
+      "publisher": "U.S. National Geospatial-Intelligence Agency (copy hosted by thenauticalalmanac.com)",
+      "url": "https://thenauticalalmanac.com/2019_Bowditch-_American_Practical_Navigator/Volume-_1/03-%20Part%201-%20Fundamentals/Chapter%204-%20Nautical%20Charts.pdf",
+      "edition": "2019 edition; accessed 2026-10-07",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (first 100000 of about 106000 characters). Supports: Mercator projection is conformal, rhumb lines are straight and directions can be measured directly, parallels and meridians expand by the same ratio so the poles cannot be shown and degrees of latitude grow longer away from the equator (s. 405-406); gnomonic projection shows great circles as straight lines, is neither conformal nor equal-area, is used to plan great-circle tracks that are transferred to a Mercator chart (s. 416); scale is the ratio of chart distance to earth distance, a large-area chart is small scale and a small-area chart large scale (s. 424-425); on a Mercator chart use the border scale nearest the latitude of interest, and one minute of latitude is very nearly one nautical mile (s. 424); depths are reckoned from a selected level of the water and charted depths are typically the least expected, so real depth may be less (s. 435); title, edition and correction notes: the user is responsible for corrections issued after the date the chart was printed or cleared through (s. 429-430, 451). U.S. Government work; foreign reuse terms not confirmed."
+    },
+    {
+      "id": "chw-a-bowditch-2019-ch9-dr",
+      "title": "The American Practical Navigator (Bowditch), 2019 edition, Volume 1, Chapter 9: Dead Reckoning",
+      "publisher": "U.S. National Geospatial-Intelligence Agency (copy hosted by thenauticalalmanac.com)",
+      "url": "https://thenauticalalmanac.com/2019_Bowditch-_American_Practical_Navigator/Volume-_1/04-%20Part%202-%20Piloting/Chapter%209-%20Dead%20Reckoning.pdf",
+      "edition": "2019 edition; accessed 2026-10-07",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: dead reckoning advances a known fix along the ordered course and speed and ignores steering error, compass error, current and wind (s. 900); a DR position uses only ordered course and speed, an estimated position (EP) is a DR corrected for leeway, steering error and current (s. 906-908); plotting conventions: course line labelled C (degrees true) above and S (knots) below, a fix is a small circle with the time horizontal, a DR position is a semicircle with the time written at an angle, an EP is a small square, times in four digits (s. 902); plot a DR position at least every hour on the hour, after every change of course or speed, after every fix or running fix, and after a single line of position, and restart from each fix (s. 903-904); set is the direction of the current and drift its speed (s. 906-908); a 15 knot vessel covers 15 nautical miles in an hour. The three-minute and six-minute rules were not in the text seen; the 6-minute rule in this app is presented as plain arithmetic from distance = speed x time."
+    },
+    {
+      "id": "chw-a-bowditch-2002-ch8-piloting",
+      "title": "The American Practical Navigator (Bowditch), 2002 edition, Chapter 8: Piloting",
+      "publisher": "U.S. National Geospatial-Intelligence Agency (copy hosted by thenauticalalmanac.com)",
+      "url": "https://thenauticalalmanac.com/2002_Bowditch-_American_Practical_Navigator/Chapt-08%20PILOTING.pdf",
+      "edition": "2002 edition; accessed 2026-10-07",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: a fix by cross bearings is the intersection of bearing lines to two or more charted objects; bearings to buoys give only an estimated position because buoys swing on their watch circles (s. 811); a fix error from a constant bearing error is smallest when the bearings cross at right angles and grows with the cosecant of the intersection angle, roughly doubling at about 30 degrees (s. 823); use at least three lines of position when available, and if they do not meet at a point the triangle (cocked hat) signals an error (s. 811); bearings should be taken quickly to limit time-delay error (s. 809); radar range is more accurate than radar bearing, so two ranges are preferred to range and bearing, though range and bearing of one object give a fix (s. 811); when two aids come into line on a charted range, the difference between the observed and charted bearing is the compass error (s. 807). The text seen gave an order of bearings ('beam first') that conflicts with common teaching (rapidly changing bearings last); the app therefore does not teach a single order as an exam fact."
+    },
+    {
+      "id": "chw-a-sailingissues-navcourse4",
+      "title": "Plotting and piloting (Sailing Issues navigation course, part 4)",
+      "publisher": "sailingissues.com",
+      "url": "https://sailingissues.com/navcourse4.html",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Secondary teaching page; use only to cross-check. Supports: optimum angular spread 90 degrees for two objects and 120 degrees for three; distant objects widen the error; when moving fast take bearings with no time between them; treat each line as the middle of a sector about 10 degrees wide; a three-bearing triangle shows an error in at least one bearing, and near hazards assume the worst corner, the one closest to the hazard; correct a compass bearing for deviation then variation (a hand-bearing compass needs only variation); DR is plotted from a fix at regular intervals and at each change of course or speed, using course and speed through the water."
+    },
+    {
+      "id": "chw-a-wikipedia-nautical-mile",
+      "title": "Nautical mile (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nautical_mile",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. General reference (CC BY-SA). Supports: the international nautical mile is exactly 1852 metres; it was originally one minute of latitude arc, and a real minute of latitude varies slightly with latitude (about 1843 m at the equator to 1862 m at the poles); a knot is one nautical mile per hour."
+    }
+  ]
+}
