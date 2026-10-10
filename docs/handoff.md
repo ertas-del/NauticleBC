@@ -31,7 +31,7 @@ On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch 
 ## SVMO (Small Vessel Machinery Operator) track
 Uploaded from another Claude on 2026-10-10. Brief: `docs/syllabus/svmo.md`. Learner plan: `docs/svmo-study-plan.md`.
 - Module `machinery`, ticket `svmo`, sources in `content/sources/svmo.json`.
-- Written (9 lessons, 83 questions): diesel basics (100, written by the main session from the question file), start/run/faults (110), fuels (120), cooling (130), electricity basics/protection/batteries (200-220), pumps (300), piping (310).
+- Written (9 lessons, 83 questions): diesel basics (100), start/run/faults (110), fuels (120), cooling (130), electricity basics/protection/batteries (200-220), pumps (300), piping (310).
 - Parked: `docs/svmo-pending/questions-svmo-pending.json` holds 54 questions for 13 lessons that do not exist yet (materials, fire hazards, fire/watertight equipment, safe working, pollution/bunkering, shafting/gearboxes, steering, underwater fittings, deck machinery, lubricants, hydraulics, pneumatics, watchkeeping). Move each group into `content/machinery/` when its lesson is written (ids must match the lesson id).
 - Still to write: about 22 lessons per the lesson map in the brief, then two 60-question SVMO mocks.
 - Expert review items are listed in the brief (MED course name, pass mark, oral vs practical, figures such as bilge blower time and battery electrolyte values).
