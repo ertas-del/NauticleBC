@@ -1,0 +1,247 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q01",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A new deckhand starts on a BC passenger boat today. When must they receive the on-board familiarization and safety training required by s. 205(1)?",
+      "options": [
+        "Before they complete 6 months of sea service",
+        "Before they start to perform any duty on board",
+        "Only when the boat next goes outside sheltered waters",
+        "Within 30 days of starting"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 205(1) requires familiarization before anyone assigned a function starts to perform any duty. The 6-month limit is the separate deadline for the MED certificate.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q02",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "By when must a crew member who is needed to meet safe manning requirements obtain an MED certificate listed for the vessel?",
+      "options": [
+        "Before their first voyage outside sheltered waters",
+        "On the first day of employment",
+        "Before acquiring a total of 6 months of sea service",
+        "Within 5 years of first starting work"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 205(3) sets the deadline at before acquiring a total of 6 months of sea service. The five-year figure applies to how recent a course must be when a certificate is issued.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q03",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A skipper keeps the familiarization record for a 12 m boat that never travels more than 5 nautical miles from its home port. Where may the record be kept?",
+      "options": [
+        "On board, or at the home port because the vessel does not travel more than 5 nautical miles from it",
+        "Only with the authorized representative's head office",
+        "Only on board",
+        "Only on the master's personal computer"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 206(2)(b) allows the record to be kept at the home port for a vessel that does not travel more than five nautical miles from it. Otherwise it is kept on board, and it must be available to a marine safety inspector.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q04",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which set lists everything the training record under s. 206 must show for each person trained?",
+      "options": [
+        "Name of the person, pay rate, certificate class, vessel gross tonnage",
+        "Name of the person, date of birth, certificate number, signature of the master",
+        "Name of the person, equipment trained on, subject-matter, and the days of training",
+        "Name of the person and the date only"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 206(2)(b) names exactly those four items. Pay rate, date of birth and the like are not required by that section.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q05",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel is on a near coastal voyage, Class 1. What first aid certificate must the person designated to provide first aid hold?",
+      "options": [
+        "Marine basic first aid or marine advanced first aid",
+        "Standard first aid from any provider",
+        "No certificate is required for first aid",
+        "Marine advanced first aid"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 205(9)(b) requires marine advanced first aid on an unlimited voyage or a near coastal voyage, Class 1. Basic first aid is acceptable only on sheltered waters and near coastal Class 2 voyages under paragraph (a).",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q06",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A passenger boat operates on a sheltered waters voyage. Which first aid certificate meets s. 205(9)?",
+      "options": [
+        "Marine advanced first aid only",
+        "No certificate; first aid is a voluntary role",
+        "A physician's certificate only",
+        "Marine basic first aid or marine advanced first aid"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 205(9)(a) accepts marine basic or marine advanced first aid on a sheltered waters or near coastal Class 2 voyage.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q07",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A crew member is assigned on the muster list to prepare and launch the vessel's davit-launched rescue boat. Which MED certificate does s. 205(6) require?",
+      "options": [
+        "MED with respect to basic safety only",
+        "MED with respect to small passenger vessel safety",
+        "A Pleasure Craft Operator Card",
+        "MED with respect to proficiency in survival craft and rescue boats other than fast rescue boats"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 205(6) requires that specific proficiency certificate for people assigned to the preparation or launching of survival craft other than a manually launched life raft or inflatable rescue platform. Basic safety alone does not cover it.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q08",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An applicant completed their MED basic safety course 6 years ago and now applies for a certificate that requires an MED course. Under s. 103, what normally happens?",
+      "options": [
+        "The certificate is issued if the applicant has any 12 months of service at any time",
+        "The certificate is issued because MED training is valid for life",
+        "The applicant must repeat the full MED course in every case",
+        "The certificate can be issued only if a refresher course within the 5 years or the stated recent sea service (with a testimonial of competent participation in drills) is shown"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 103(1) requires completion within the 5 years before the application date. Section 103(2) accepts a refresher within the 5 years, or at least 12 months of service within the 5 years, or at least 3 months in the preceding 12 months, supported for MED by a drills testimonial. A course taken for a certificate remains valid for life only if the course is not one of the exceptions, and MED is one of the exceptions.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q09",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Who must ensure that familiarization and safety training are given to anyone assigned a function on board before they start any duty?",
+      "options": [
+        "The master and the authorized representative",
+        "Only the new crew member",
+        "Only a marine safety inspector",
+        "Only the Minister of Transport"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 205(1) places the duty on the master and the authorized representative of the vessel.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q10",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What must the authorized representative give the master under s. 206(1) so that new crew become familiar with the vessel?",
+      "options": [
+        "A list of local tides and currents",
+        "An oral briefing at the start of each season",
+        "A copy of the vessel's registration certificate",
+        "Written instructions setting out the procedures for familiarization with the vessel's equipment, operational instructions and assigned duties"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 206(1) requires written instructions that set out the procedures by which each member of the complement, before being assigned any duty, becomes familiar with the equipment, the operating instructions and their assigned duties.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.crew-training-and-first-aid.q11",
+      "lesson_id": "canadian-regulations.crew-training-and-first-aid",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is one of the three MED certificate types that appear in the table to s. 205(3)?",
+      "options": [
+        "MED for senior officers",
+        "Proficiency in Fast Rescue Boats",
+        "MED in advanced fire fighting",
+        "MED with respect to small non-pleasure vessel basic safety"
+      ],
+      "correct_index": 3,
+      "explanation": "The table's columns are MED with respect to basic safety, small passenger vessel safety, and small non-pleasure vessel basic safety, plus the Pleasure Craft Operator Card in some rows. The other options are course or certificate names that appear elsewhere in the Marine Personnel Regulations but are not columns of that table.",
+      "source_ids": [
+        "regs-a-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

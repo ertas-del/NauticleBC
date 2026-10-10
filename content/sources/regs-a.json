@@ -1,0 +1,81 @@
+{
+  "sources": [
+    {
+      "id": "regs-a-csa-2001",
+      "title": "Canada Shipping Act, 2001, S.C. 2001, c. 26 (consolidated XML): ss. 2, 14, 105-118, 121-123, 125-133, 148-152, 166-167, 186-189",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/C-10.15.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the official consolidated XML. Supports: definitions of master, pleasure craft and qualified person (s. 2); authorized representative (s. 14); Part 4 Safety, ss. 105-118 (application, authorized representative duties s. 106, master and Canadian maritime documents s. 107, safety of persons s. 109, excess persons and load lines s. 110, Minister's directions s. 111, dangers to navigation s. 112, crew duties s. 113, passenger duties s. 115, boarding s. 116, tampering s. 117, jeopardizing safety s. 118); penalties s. 121-123; Part 5 VTS and navigation services ss. 125-133 (VTS clearances s. 126, reporting aids to navigation and hazards s. 129, SAR mission coordinators s. 130, answering distress s. 131, assistance s. 132); Part 6 collision duty s. 148 and penalties ss. 151-152; Part 8 and 9 pollution ss. 166-167 and 186-189 (discharge of a prescribed pollutant prohibited s. 187). Not a legal opinion; the live consolidation on Justice Laws governs."
+    },
+    {
+      "id": "regs-a-vscr-2021",
+      "title": "Vessel Safety Certificates Regulations, SOR/2021-135 (consolidated XML): s. 1 definitions of voyage classes; Schedules 1 and 2 (sheltered waters)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2021-135.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports the definitions of sheltered waters voyage (2.5 nm river or lake rule; Schedule 1 waters and periods; Schedule 2 ferry routes), near coastal voyage Class 2 (25 nm from shore and 100 nm from a place of refuge), near coastal voyage Class 1 (not NC2, listed regions, north of 6 N, 200 nm or continental shelf), unlimited voyage, inland voyage; s. 11 (inspection certificate regime: vessels of 15 GT or less carrying more than 12 passengers, and vessels over 15 GT); s. 14 (which certificate covers which lower voyage class); s. 16 (terms and conditions on certificates); Schedule 1 Part 6 British Columbia items 1-16 and Schedule 2 Part 4 British Columbia ferry routes."
+    },
+    {
+      "id": "regs-a-mpr-2007",
+      "title": "Marine Personnel Regulations, SOR/2007-115 (consolidated XML): ss. 130-131, 200-216, 300-301, 319-324",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2007-115.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 131 (Master, Limited under 60 GT requirements and the link to voyages the vessel may engage on); Part 2 crewing: s. 200-203 (application, safe manning document), s. 205 (familiarization and safety training, MED before 6 months of sea service with the table of vessel types, fire team and first aid certificates), s. 206 (written familiarization instructions and training records), s. 207 (minimum complement), s. 211-216 (master and deck officers, deck watch, additional person, radio operator certificate for VHF); Part 3 labour standards: s. 300-301 application, s. 319-324 hours of work and rest. The table in s. 205(3) was read from the structured XML rows, not from a page render."
+    },
+    {
+      "id": "regs-a-svr-2010",
+      "title": "Small Vessel Regulations, SOR/2010-91 (consolidated XML): ss. 1-3, 20-21, Part 4 (ss. 400-420), s. 1001",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-91.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: application (s. 2), prohibition on operating without required equipment (s. 3), pyrotechnic expiry four years (s. 20), Part 4 passenger-carrying vessels of not more than 15 GT with not more than 12 passengers: application (s. 400), safety briefing and lifejacket demonstration (s. 401), person-on-board report (s. 402), cold-water measures when no life raft (s. 403), operating limits and no passengers while towing (s. 404), notice to the Minister before first service (s. 405), first aid kit (s. 407), lifejackets, reboarding device, heaving line and lifebuoy table (s. 408-409), visual signals table (s. 410), life raft rule (s. 411), anchor and rode table (s. 412), navigation equipment (s. 413), fire extinguisher table (s. 414), engine-space discharge (s. 415-417), detectors (s. 418), stowage and emergency procedures (s. 419-420); engine space blower four minutes (s. 1001)."
+    },
+    {
+      "id": "regs-a-mohs-2010",
+      "title": "Maritime Occupational Health and Safety Regulations, SOR/2010-120 (consolidated XML): ss. 1, 3, 7, 138-150, 165-173, 174, 189-197, 203-207",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-120.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: confined space definition (s. 1), application to employees on Canadian-registered vessels (s. 3), employer duties and qualified person in charge (s. 7), protection equipment Part 10 (ss. 138-150: headwear, footwear, eye and face, respiratory, skin, fall protection at more than 2.4 m / 3 m with anchor 17.8 kN, 8 kN peak force and 1.2 m free fall, loose clothing, drowning protection s. 147, defective equipment s. 150), work permits Part 13 (ss. 165-168), confined spaces Part 14 (ss. 169-174: permit, marine chemist, oxygen 19.5 to 23 per cent, report kept two years, attendant, lifeline), hot work Part 16 (ss. 189-197: fire watch for the duration and if necessary 30 minutes after), tools and machinery Part 18 (ss. 203-207: defective tools removed from service, guards)."
+    },
+    {
+      "id": "regs-a-swpr-crc1467",
+      "title": "Safe Working Practices Regulations, C.R.C., c. 1467 (consolidated XML): ss. 2-14, 16-18, 22, 25, 30-35",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._1467.xml",
+      "edition": "Consolidated XML (current to 2025-07-24, last amended 2007), repository commit b7292cf; read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. This is an older instrument made under the Canada Shipping Act, 2001 as the consolidation lists it; the Maritime Occupational Health and Safety Regulations cover much of the same ground for employees. Supports: qualified person definition, employer and owner duties, persons' duty to use protective equipment (s. 7), reporting unsafe conditions to the person in charge (s. 11), no tampering with safeguards (s. 9), emergency exits (s. 10), impairment by alcohol or drugs (s. 14), safe working load notices (s. 17), covering of openings (s. 25), entry to pump rooms, cofferdams, ballast tanks and oil tanks needing breathing apparatus unless ventilated or gas-freed and tested (s. 30), attendant at the entrance (s. 31), check that no one is inside before sealing (s. 32), hot work fire watch of 30 minutes afterwards (s. 34), oxygen must never be used for ventilation (s. 35)."
+    },
+    {
+      "id": "regs-a-vpdcr-2012",
+      "title": "Vessel Pollution and Dangerous Chemicals Regulations, SOR/2012-69 (consolidated XML): ss. 1, 3-5, 12-13, 28-35, 38, 83-96, 98-107, 126, 131.1, 132; Schedule 2",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2012-69.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: prescribed pollutants (s. 4), exceptions for safety of life and accidents of navigation (s. 5), oil filtering equipment duty at 400 GT (s. 12), oily mixture discharge conditions in Section I waters (s. 30: en route, 15 ppm equipment, alarm at 5 ppm inland or 15 ppm) and Section II waters (s. 31), transfer operations (ss. 32-39: lighting 54 lx and 11 lx, conduits tested yearly to 1.5 times design pressure, leaks, which duties do not apply under 400 GT), holding tanks and marine sanitation devices (ss. 86-90), sewage discharge rules (s. 96: 250 and 14 fecal coliforms per 100 mL, 1 nm / 3 nm / 12 nm rules), garbage rules (s. 101: 25 / 12 / 3 nm, plastics never; s. 103 placards at 12 m; s. 104 plan at 400 GT or 15 persons), greywater (s. 131.1), and pollutant discharge reporting (s. 132: report to a marine safety inspector or MCTS officer). The Fishing Zones of Canada orders that define where Section I and Section II waters begin were NOT read."
+    }
+  ]
+}

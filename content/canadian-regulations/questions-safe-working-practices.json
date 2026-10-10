@@ -1,0 +1,291 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.safe-working-practices.q01",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "Which regulations apply to employees working on Canadian-registered vessels and are made under Part II of the Canada Labour Code?",
+      "options": [
+        "The Marine Personnel Regulations",
+        "The Collision Regulations",
+        "The Maritime Occupational Health and Safety Regulations",
+        "The Vessel Pollution and Dangerous Chemicals Regulations"
+      ],
+      "correct_index": 2,
+      "explanation": "The MOHS define 'Act' as Part II of the Canada Labour Code and apply to employees employed on vessels registered in Canada. The others are made under the Canada Shipping Act, 2001 and deal with other subjects.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q02",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "In what order must an employer address a hazard under MOHS s. 124(1)?",
+      "options": [
+        "Provide personal protective equipment first, then try to eliminate the hazard",
+        "Reduce it, provide a warning sign, then remove the worker",
+        "Administrative procedures, then protective equipment, then elimination",
+        "Eliminate it, reduce or isolate it, provide personal protective equipment, then use administrative procedures such as work permits"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 124(1) sets elimination first, reduction (including isolation) second, protective equipment third, administrative procedures fourth. PPE is not the first answer.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q03",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "When must protection equipment be used under MOHS s. 138?",
+      "options": [
+        "When it is not feasible to eliminate the hazard or control it within safe limits and the equipment may prevent or reduce injury",
+        "Only in port, never at sea",
+        "Only when a supervisor is watching",
+        "Whenever a worker is on deck"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 138(1) sets those two conditions. The equipment also must not in itself create a hazard.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q04",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A deckhand is to work on an unguarded platform 2.8 m above the nearest permanent safe level. What is required?",
+      "options": [
+        "Only a hard hat",
+        "The employer must provide a fall-protection system",
+        "A life jacket instead of fall protection",
+        "Nothing, because the threshold is 5 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 144(1)(a) requires fall protection for an unguarded work area more than 2.4 m above the nearest permanent safe level. 2.8 m is above that.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q05",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "A structure covered by Part 2 of the MOHS is 2.7 m above a permanent safe level and the person is not on a ladder. Is a fall-protection system required by s. 144(1)(b)?",
+      "options": [
+        "Yes; the threshold for every structure is 2.4 m",
+        "Yes; any height above 1.5 m requires it",
+        "No; fall protection is never required on a structure",
+        "No; the structure threshold is more than 3 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 144(1)(b) applies to a structure more than 3 m above a permanent safe level. The 2.4 m figure applies to unguarded work areas and to ladders where only one hand can be used. (Other duties, such as guardrails, may still apply to the structure.)",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q06",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which set gives the three fall-arrest figures in s. 144?",
+      "options": [
+        "Anchor 17.8 kN, peak arrest force 8 kN, free fall 1.2 m",
+        "Anchor 17.8 kN, peak arrest force 1.2 kN, free fall 8 m",
+        "Anchor 8 kN, peak arrest force 17.8 kN, free fall 1.2 m",
+        "Anchor 2.4 kN, peak arrest force 3 kN, free fall 1.5 m"
+      ],
+      "correct_index": 0,
+      "explanation": "The anchor must withstand 17.8 kN, a fall-arrest system must limit peak arrest force to 8 kN, and it must prevent free fall of more than 1.2 m.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q07",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "Two deckhands are to scrape a hull from a float alongside, with a drowning hazard. Which set best meets MOHS s. 147?",
+      "options": [
+        "A life jacket each and a verbal promise to watch",
+        "A life jacket or other flotation device each, emergency equipment held in readiness, a qualified person ready to intervene, and written emergency procedures",
+        "Emergency procedures in the captain's head and a lifebuoy kept in the wheelhouse",
+        "A life jacket each and nothing more"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 147(1) requires a life jacket (or net or fall-protection system), and s. 147(2) adds readiness of emergency equipment, a qualified person ready to intervene, a vessel in readiness if appropriate, and written emergency procedures.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q08",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "A crew member sees a spill on a stairway on deck. What does SWPR s. 11 require first?",
+      "options": [
+        "Leave it; only the master may know about hazards",
+        "Report the unsafe condition immediately to the person in charge of the working area",
+        "Wait until the end of the shift to mention it",
+        "Clean it up personally, whatever it is"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 11(1) requires immediate reporting to the person in charge, and s. 11(2) says correction is done only by a qualified person, with an emergency exception in s. 11(3).",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q09",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is something nobody may do under the SWPR?",
+      "options": [
+        "Tamper with a safeguard or safety device",
+        "Report a defective tool",
+        "Ask for a safety briefing",
+        "Wear gloves while using a hand tool"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 9 prohibits tampering with or making ineffective any safeguard or safety device. The other three are acceptable or required.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q10",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A worker's ability to work appears impaired by alcohol, in the opinion of the person in charge of the working area. What does s. 14 say?",
+      "options": [
+        "The rule applies only to drugs, not alcohol",
+        "The worker must not be permitted in the working area",
+        "The worker may stay if wearing a life jacket",
+        "The worker may stay if on light duties"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 14 says no one may be permitted in a working area whose ability to work is, in the opinion of the person in charge, impaired by alcohol or a drug.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q11",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "You find that a harness lanyard is frayed. What does MOHS s. 150 expect to happen to it?",
+      "options": [
+        "It is used for light work only",
+        "It is reported and the employer tags it unsafe and removes it from service",
+        "It is stowed with the good equipment",
+        "It is repaired on the spot with tape"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 150(1) requires the employee to report the defect as soon as feasible and s. 150(2) requires the employer to mark or tag it as unsafe and remove it from service.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q12",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "Which statement about lifting appliances is correct?",
+      "options": [
+        "The safe working load is posted only in the wheelhouse log",
+        "Anyone may operate a lifting appliance with supervision, and a load rating is optional",
+        "A load may be left suspended overnight without anyone present",
+        "The operator must be a qualified person and a notice of safe working load must be permanently affixed to the appliance"
+      ],
+      "correct_index": 3,
+      "explanation": "SWPR s. 16 requires a qualified operator, s. 17 requires a permanently affixed safe working load notice, and MOHS s. 213(3) bars leaving a load suspended unless a qualified person is present and in charge.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.safe-working-practices.q13",
+      "lesson_id": "canadian-regulations.safe-working-practices",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "An opening in the deck leads to a tank 2 m deep. It is not in use and has no coaming. What does SWPR s. 25(1) require?",
+      "options": [
+        "Nothing, because 2 m is too shallow to matter",
+        "It need only be marked with paint",
+        "It must be sealed with welded plate",
+        "It must be securely covered or fenced to a height of 900 mm"
+      ],
+      "correct_index": 3,
+      "explanation": "Compartments exceeding 1.5 m in depth must be securely covered or fenced to 900 mm unless the opening has a coaming of at least 760 mm. Marking alone is the option only for openings to compartments not exceeding 1.5 m (s. 25(2)).",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
