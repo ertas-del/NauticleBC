@@ -9,7 +9,7 @@
     <string name="module_tides_desc">Why tides happen and how to use them</string>
     <string name="module_bridge_watch">Bridge Watch Rating</string>
     <string name="module_bridge_watch_desc">Lookout, watchkeeping and bridge routine</string>
-    <string name="module_sixty_ton">Master Limited < 60 GT</string>
+    <string name="module_sixty_ton">Master Limited &lt; 60 GT</string>
     <string name="module_sixty_ton_desc">Pathway, requirements and exam guide</string>
     <string name="module_seamanship">Seamanship</string>
     <string name="module_seamanship_desc">Ropes, mooring, anchoring and deck work</string>
