@@ -31,7 +31,7 @@ review_status: needs_expert_review
 
 ## What you need to know
 
-Position on a chart is a pair of angles. ==Latitude== is how far you are north or south of the equator (0° to 90°). ==Longitude== is how far you are east or west of the Greenwich meridian (0° to 180°). Everywhere in BC is ==north latitude, west longitude==, roughly between 48° and 55° N and 123° and 133° W.
+Position on a chart is a pair of angles. ==Latitude== is how far you are north or south of the equator (0° to 90°). ==Longitude== is how far you are east or west of the Greenwich meridian (0° to 180°). Everywhere in BC is ==north latitude, west longitude==. The BC coast and its waters lie roughly between 48° and 55° N and between 122° and 134° W (Juan de Fuca Strait in the south, Dixon Entrance in the north, Haida Gwaii in the west).
 
 Each degree is divided into ==60 minutes==. Positions on Canadian coastal work are normally given in degrees and minutes with one decimal: **49° 10.0′ N, 123° 40.0′ W**. Always write latitude first.
 

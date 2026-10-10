@@ -36,7 +36,7 @@ The earth's magnetic north pole is not at the geographic North Pole, and it wand
 - ==Variation depends on place== (and drifts slowly with time).
 - ==Variation does not depend on the ship's heading.== That is deviation, in the next lesson.
 
-On the BC coast variation is easterly (magnetic north lies east of true north) and is in the teens of degrees. That is a ballpark for orientation only; read the real figure on your own chart.
+On the BC coast variation is easterly (magnetic north lies east of true north) and is well over 10°. That is a ballpark for orientation only; read the real figure on your own chart.
 
 ## Easterly means magnetic is lower
 

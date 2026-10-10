@@ -14,7 +14,7 @@ prerequisites: [bridge-watch.magnetic-and-gyro-compass]
 estimated_minutes: 14
 key_facts:
   - "A standard magnetic compass must be independent of any power supply and show the heading at the main steering position (NSR 2020 s. 106(1)); vessels of 8 m or less within sight of navigation marks, and cable ferries, are excepted."
-  - "A vessel under 150 gross tonnage may be fitted with a steering magnetic compass instead of a standard compass (s. 106(2))."
+  - "A vessel under 150 gross tonnage may be fitted with a steering magnetic compass instead of a standard compass (s. 106(2)); on an international voyage a gyro-compass is needed as well."
   - "The magnetic compass must be properly compensated and its table or curve of residual deviations kept on board near the compass (s. 106(4))."
   - "A vessel with a magnetic compass (except pleasure craft under 150 GT) needs a means of correcting headings and bearings to true at all times (s. 106(5))."
   - "A magnetic compass has variation and deviation; a gyro-compass has neither, but may have a gyro error named east or west."

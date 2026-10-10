@@ -1,0 +1,245 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.chart-symbols.q01",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is Canadian Chart 1?",
+      "options": [
+        "A catalogue listing every chart that Canada publishes",
+        "A chart of the approaches to the largest ports",
+        "The annual list of corrections to charts",
+        "The CHS publication that explains the symbols, abbreviations and terms used on nautical charts"
+      ],
+      "correct_index": 3,
+      "explanation": "Chart 1 is the key to the language of the chart. Its entries are grouped in lettered sections and each entry has a reference number. It is not a catalogue or a chart.",
+      "source_ids": [
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q02",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pairing of Chart 1 section letter and subject is correct?",
+      "options": [
+        "I lights, K depths, P buoys, Q rocks",
+        "I depths, K rocks wrecks and obstructions, P lights, Q buoys and beacons",
+        "H depths, K lights, P buoys, Q wrecks",
+        "B depths, I rocks, N lights, P buoys"
+      ],
+      "correct_index": 1,
+      "explanation": "The four to remember are I (depths), K (rocks, wrecks, obstructions), P (lights) and Q (buoys and beacons). Section H is tides and currents, B is positions, distances, directions and compass, and N is areas and limits.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q03",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In which Chart 1 section would you look up the symbol for a prohibited anchorage area?",
+      "options": [
+        "N, areas and limits",
+        "B, positions, distances, directions and compass",
+        "H, tides and currents",
+        "Q, buoys and beacons"
+      ],
+      "correct_index": 0,
+      "explanation": "Anchorages and prohibited areas belong with areas and limits (section N). Section B covers compass roses and variation, and Q covers buoys and beacons.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q04",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A figure on a drying area of the chart is underlined: 2.4. What does it tell you?",
+      "options": [
+        "There is 2.4 m of water at chart datum",
+        "A rock lies 2.4 m below the surface at high water",
+        "The seabed there stands 2.4 m above chart datum",
+        "The figure is a distance of 2.4 cables"
+      ],
+      "correct_index": 2,
+      "explanation": "An underlined figure on a drying area is a drying height, an elevation above chart datum. A plain figure would be a depth below chart datum.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q05",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Part of a chart has no soundings at all and is marked as unsurveyed. How should you treat the water?",
+      "options": [
+        "As deep water, because the surveyor found nothing to chart",
+        "As unknown, with possible dangers, and keep clear if you can",
+        "As shallow water, which is safe because you will feel the bottom",
+        "As open water that is safe at night but not by day"
+      ],
+      "correct_index": 1,
+      "explanation": "An empty space on the chart is not evidence of deep water. Unsurveyed and inadequately surveyed areas carry a special symbol, and you treat them as unknown.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q06",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a correct match of Chart 1 abbreviation and meaning?",
+      "options": [
+        "Br breakers, M mud, S sand",
+        "Br bridge, M mud, S sand",
+        "Br breakers, M mud, S shingle",
+        "Br bottom rock, M mooring, S sand"
+      ],
+      "correct_index": 0,
+      "explanation": "Br is breakers, M is mud and S is sand. Br is not a bridge and S is not shingle. Always look the less common letters up in Chart 1 instead of guessing.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q07",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A chart rose carries the note 2 degrees 45 minutes E 2008 (3 minutes W). What does the bracket tell you?",
+      "options": [
+        "The easterly variation is increasing by 3 minutes each year",
+        "The deviation for the ship is 3 minutes west",
+        "The total variation is 3 minutes west",
+        "The easterly variation is decreasing by 3 minutes each year"
+      ],
+      "correct_index": 3,
+      "explanation": "The bracket is the annual change, named by the direction it moves the variation. A westerly change makes easterly variation smaller. It says nothing about deviation, and it is a change per year, not the variation itself.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q08",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Draught 1.5 m, height of tide 0.3 m. Rock A covers and uncovers and is charted with (0.8) beside it. Rock B is an underwater rock of known depth, R 4.5. Rock C is awash at the level of chart datum. Which rocks have less than 1.5 m of water over them? (Invented figures.)",
+      "options": [
+        "A and C",
+        "B only",
+        "A only",
+        "A, B and C"
+      ],
+      "correct_index": 0,
+      "explanation": "Rock A's top is 0.8 m above chart datum and the tide is only 0.3 m, so the rock stands 0.5 m out of the water. Rock C is at datum, so it has 0.3 m over it. Rock B has 4.5 + 0.3 = 4.8 m over it, comfortably more than the draught. Rocks A and C are the ones that catch you at low tide.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q09",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A wreck is charted with an unknown least depth over it. How should it be treated?",
+      "options": [
+        "As harmless, because no depth means deep water",
+        "As harmless once the tide is above chart datum",
+        "As dangerous to surface navigation",
+        "As dangerous only to vessels over 150 GT"
+      ],
+      "correct_index": 2,
+      "explanation": "Without a known least depth you cannot say that your keel will clear it. Treat it as a danger. A wreck with a known safe depth is shown differently.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q10",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A sounding on a metric Canadian chart is printed as 9 with a small 4 beside it, lowered. What depth is it, and where is the position of the sounding?",
+      "options": [
+        "94 m, with the position at the foot of the figure",
+        "9.4 m, with the position at the centre of the figure",
+        "9.04 m, with the position at the centre of the figure",
+        "9 fathoms 4 feet, with the position at the left edge"
+      ],
+      "correct_index": 1,
+      "explanation": "The small lowered figure is the decimetre part, so 9 and 4 is 9.4 m. The geographical position of a sounding is the centre of its figure. Soundings are in metres and decimetres to 21 m and whole metres beyond.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.chart-symbols.q11",
+      "lesson_id": "chartwork.chart-symbols",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "You want to anchor and the chart shows an area where anchoring is prohibited. What is the correct view of that symbol?",
+      "options": [
+        "It is a restriction to comply with, not a suggestion",
+        "It is advice only and may be ignored in fine weather",
+        "It applies only to vessels over 15 GT",
+        "It applies only at night"
+      ],
+      "correct_index": 0,
+      "explanation": "Prohibited-area symbols show where entry, anchoring, fishing or diving is not permitted. Find another anchorage.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chw-a-chs-chart1-index"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

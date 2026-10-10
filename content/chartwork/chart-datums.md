@@ -71,7 +71,7 @@ Charted depth 3.2 m. Height of tide at the time 2.1 m. Draught 1.8 m.
 Underlined figure 1.2 on the chart (the rock dries 1.2 m above chart datum). Height of tide 2.6 m.
 
 1. Depth over the rock = 2.6 − 1.2 = ==1.4 m==.
-2. Draught 1.8 m, so the keel would hit. Even 1.4 m of water covers it, so ==do not pass over it== at this tide.
+2. Draught 1.8 m, so the keel would hit. The rock is covered by 1.4 m of water, but that is less than the draught, so ==do not pass over it== at this tide.
 
 ### Example 3: when is there enough water?
 

@@ -16,10 +16,10 @@ key_facts:
   - "Chart 1 is the CHS publication that explains the symbols, abbreviations and terms used on nautical charts; its sections are identified by letters and its entries by reference numbers."
   - "Chart 1 sections to know: A title and marginal notes, B positions, distances, directions and compass, H tides and currents, I depths, J nature of the seabed, K rocks, wrecks and obstructions, N areas and limits, P lights, Q buoys and beacons."
   - "An underlined figure on a drying area is a drying height above chart datum; a plain figure is a depth below chart datum."
-  - "Soundings are in metres and decimetres to 21 m and in whole metres beyond that; the sounding position is the centre of the figure."
+  - "Soundings are shown in metres and decimetres to 21 m and in whole metres beyond that; the position of a sounding is the centre of its figure."
   - "A special symbol marks areas that are unsurveyed or inadequately surveyed; do not assume deep water there."
-  - "Abbreviations: Wk wreck, R rock, Co coral, Br breakers, S sand, M mud."
-  - "A rock that covers and uncovers is shown differently from a rock that is only awash and from an always-submerged rock marked R; the awash and drying rocks are the ones that catch you at a tide near chart datum."
+  - "Abbreviations: Wk wreck, R underwater rock of known depth, Co submerged coral reef, Br breakers, S sand, M mud."
+  - "A rock that covers and uncovers (height above chart datum in brackets), a rock awash at the level of chart datum, and an underwater rock of known depth (R) have different symbols; the first two are the ones that catch you at a tide near chart datum."
   - "Variation is written with the year and the annual change, for example 4 degrees 30 minutes W 2007 (8 minutes E), meaning decreasing by 8 minutes a year."
   - "Prohibited-area symbols show entry, anchoring, fishing or diving prohibited; they are not suggestions."
 source_ids: [chw-a-chs-chart1-2022-pdf, chw-a-chs-chart1-index, sixty-chs-chart1, chs-vertical-datum-chart-references]
@@ -71,9 +71,9 @@ Heights of lights and clearances use the high-water datum (lesson 2).
 
 Section K is the section a skipper reads most carefully.
 
-- A ==rock that covers and uncovers== (it dries at low water) has its own symbol. A ==rock awash== is level with chart datum at low water, with a bracketed height. A ==submerged rock with known depth== is shown with the letter ==R== and the depth. These are ordered by how easy they are to hit: the first two are the traps at a low or middle tide.
+- A ==rock that covers and uncovers== (it dries at low water) has its own symbol, with its ==height above chart datum in brackets== when known. A ==rock awash== is awash at the level of chart datum itself. An ==underwater rock of known depth== is shown with the letter ==R== and the depth. The first two are the traps at a low or middle tide, because they are at or above the water near low water.
 - ==Wk== is a wreck. Symbols differ for a wreck whose hull is always dry, a wreck with a known least depth, a wreck with an unknown least depth that may be dangerous to surface navigation, and non-dangerous wreck remains. Treat any wreck with unknown depth as dangerous.
-- ==Br== is breakers. ==Co== is coral.
+- ==Br== is breakers. ==Co== is a submerged coral reef.
 - Obstructions, foul ground and fish havens have their own symbols. A foul area is dangerous to anchor in or to fish in.
 
 ## Bottom type
@@ -109,7 +109,7 @@ What do they tell you?
 
 1. The channel soundings are 12 m, 9.4 m and 6.1 m. The shoalest is 6.1 m.
 2. The underlined 1₂ is a **drying height** of 1.2 m: dry ground 1.2 m above datum.
-3. The rock with (0.3) is ==awash== or just above datum. At low water it is a hazard.
+3. The rock with (0.3) is a ==rock that covers and uncovers==: its top stands 0.3 m above chart datum, so it is under water at high tide and shows near low water. It is a hazard that you cannot see at high tide.
 4. The wreck has 5.8 m of water over it. At a low tide it could be a hazard to a deep-draught vessel.
 5. The anchor symbol with a line is probably an anchoring-prohibited area. Check Chart 1 section N for the exact symbol.
 
