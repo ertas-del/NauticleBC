@@ -1,0 +1,335 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q01",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "A deckhand is told to go into a ballast tank to inspect a weld. Under MOHS s. 169, what must exist before entry?",
+      "options": [
+        "A work permit issued to the person entering",
+        "Nothing, if the tank is empty",
+        "A verbal OK from the mate",
+        "A life jacket worn over the coveralls"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 169 prohibits entering a confined space without a work permit issued under s. 166. An empty tank can still have a bad atmosphere.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q02",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these jobs requires a written work permit under MOHS s. 166?",
+      "options": [
+        "Work that requires entry into a confined space",
+        "Reading the draft marks",
+        "Coiling a mooring line",
+        "Washing the wheelhouse windows"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 166(a) names confined space entry; paragraph (b) adds any work assessed as capable of causing death or serious injury, such as hot work.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q03",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which set correctly describes a confined space under the MOHS definition?",
+      "options": [
+        "Any compartment with a lockable door",
+        "Any space smaller than 10 cubic metres",
+        "Enclosed or partially enclosed, not meant for occupancy except to work, restricted access and egress, and potentially hazardous",
+        "Any room below the waterline"
+      ],
+      "correct_index": 2,
+      "explanation": "The three tests are enclosure and no intended occupancy, restricted access and egress, and the potential to become hazardous. Size and location are not the test.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q04",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "A marine chemist reads oxygen at 19.0 per cent in a void space. What is the correct decision?",
+      "options": [
+        "No entry yet; the level is below 19.5 per cent and must be corrected and held in range first",
+        "Entry is fine; 19 is close enough to 21",
+        "Entry is fine with a harness",
+        "Entry is fine for five minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 171(2)(c) requires 19.5 to 23 per cent by volume, with partial pressure of oxygen not below 148 mm Hg, and the value must be maintainable for the occupancy.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q05",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "A reading of 24 per cent oxygen is found in a tank that has been ventilated with pure oxygen by mistake. What does the MOHS limit say?",
+      "options": [
+        "It passes, because more oxygen is safer",
+        "It passes if a fire watch is posted",
+        "It passes if the entrant is trained",
+        "It is outside the 19.5 to 23 per cent range, so it does not pass; oxygen must also not be used for ventilation"
+      ],
+      "correct_index": 3,
+      "explanation": "The upper limit is 23 per cent (MOHS s. 171(2)(c)); excess oxygen is a fire hazard. SWPR s. 35(a) bars the use of oxygen for ventilation.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q06",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Who carries out the atmosphere assessment before confined space entry under MOHS s. 171?",
+      "options": [
+        "Any passenger",
+        "A marine chemist or other qualified person appointed by the employer",
+        "The ship's cook",
+        "The deckhand who will enter"
+      ],
+      "correct_index": 1,
+      "explanation": "The employer must appoint a marine chemist or other qualified person, who produces a signed written report.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q07",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "How long is the confined space assessment report kept on the vessel (MOHS s. 172) and how long is a work permit kept (s. 168(2))?",
+      "options": [
+        "The report for ten years and the permit for five years",
+        "Both for two years",
+        "The report for six months and the permit for one year",
+        "Both until the end of the voyage"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 172 requires the report to be kept on the vessel for two years from signing; s. 168(2) requires the permit to be kept for two years after the work is completed.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q08",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "Which item is NOT among the things the employer must ensure before a confined space permit is issued under MOHS s. 173(1)?",
+      "options": [
+        "That drowning liquid or entrapping solids are removed",
+        "That the space has been painted inside",
+        "That an entry control system is established",
+        "That inflow is prevented by disconnection or blank flanges"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 173(1) lists the written report, removal of liquids and solids, prevention of inflow, lockout, a big enough opening and an entry control system. Painting is not on the list.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q09",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "Conditions in a tank cannot meet all the usual entry requirements. Which is part of the minimum under MOHS s. 173(3)?",
+      "options": [
+        "A single deckhand who stands at the hatch with no means of calling for help",
+        "A life jacket only",
+        "A harness on a lifeline anchored outside, controlled by a qualified person who is in communication and has an alarm device",
+        "A sign reading Danger"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 173(3) requires an attendant who is in communication and has an alarm, a harness on a lifeline anchored outside, two or more employees nearby, and one with first aid and emergency training.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q10",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Under SWPR s. 31, when may the person attending at the entrance of a ballast tank leave?",
+      "options": [
+        "Only when the person inside has left, except in an emergency involving that person",
+        "When the tank is sealed",
+        "Whenever they need a break",
+        "After ten minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 31(2) requires the attendant to remain until the person inside leaves, apart from an emergency with the person inside.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q11",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Before a hold or tank is closed off, who must make sure nobody is inside?",
+      "options": [
+        "A qualified person (MOHS) or the person in charge of the working area (SWPR)",
+        "The next watch",
+        "The harbour master",
+        "Nobody; the cover is just replaced"
+      ],
+      "correct_index": 0,
+      "explanation": "MOHS s. 173(4) requires a qualified person to verify; SWPR s. 32 puts the same duty on the person in charge of the working area.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q12",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "easy",
+      "stem": "Which definition fits hot work in MOHS s. 189?",
+      "options": [
+        "Any work in the engine room",
+        "Work in a tropical port",
+        "Any work where flame is used or a source of ignition may be produced",
+        "Only welding with a torch"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 189 is broad: flame or a possible source of ignition, so grinding sparks can count. Location and temperature are not the test.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q13",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Welding in a dry-dock void has just finished. The qualified person judges the area needs watching. For how long after the work may the fire watch continue?",
+      "options": [
+        "5 minutes",
+        "30 minutes",
+        "Until the next port",
+        "24 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 190(a) requires a fire watch for the duration of the work and, if the qualified person thinks it necessary, for 30 minutes after. Section 190(b) adds enough extinguishers.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q14",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "hard",
+      "stem": "Hot work is planned in a compartment where flammable vapour may be present. What must happen first under MOHS s. 191(a)?",
+      "options": [
+        "A sign is posted and work starts",
+        "The workers wear respirators and proceed",
+        "The area must be freed of gas, tested by a marine chemist or other qualified person and found safe",
+        "A deckhand sniffs the air"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 191(a) requires gas-freeing, testing and a finding of safety by a marine chemist or other qualified person. Respirators do not remove an ignition risk.",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.enclosed-spaces-and-permits.q15",
+      "lesson_id": "canadian-regulations.enclosed-spaces-and-permits",
+      "tickets": [
+        "bridge-watch-rating"
+      ],
+      "difficulty": "medium",
+      "stem": "Which gas must never be used to ventilate a compartment under SWPR s. 35?",
+      "options": [
+        "Oxygen",
+        "Fresh air",
+        "Nitrogen only when told",
+        "Compressed air"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 35(a) says oxygen shall not be used for ventilation; it also bars use to blow out pipelines or clean (35(c) and (f)).",
+      "source_ids": [
+        "regs-a-mohs-2010",
+        "regs-a-swpr-crc1467"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
