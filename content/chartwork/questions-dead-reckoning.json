@@ -1,0 +1,246 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.dead-reckoning.q01",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is dead reckoning?",
+      "options": [
+        "Finding a position by bearings of two charted objects",
+        "Finding a position by advancing a known position along the course steered and the distance run through the water",
+        "Finding a position by radar ranges",
+        "Finding the current by comparing two fixes"
+      ],
+      "correct_index": 1,
+      "explanation": "A DR starts from a known position and advances it by course and distance from the log and the time. It uses no outside reference.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q02",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these does a DR position leave out?",
+      "options": [
+        "Current, wind and leeway, steering error and compass error",
+        "The course steered",
+        "The speed through the water",
+        "The time elapsed since the last fix"
+      ],
+      "correct_index": 0,
+      "explanation": "A DR uses only course, speed and time. Anything not contained in them, such as current and leeway, is missing.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q03",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is an estimated position (EP)?",
+      "options": [
+        "A position from two simultaneous bearings",
+        "A DR position with the compass error left out",
+        "A position taken from the GNSS receiver",
+        "A DR position corrected for leeway, steering error and current"
+      ],
+      "correct_index": 3,
+      "explanation": "An EP improves the DR by adding what the DR ignored. It remains an estimate until a fix confirms it.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q04",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list gives the times a DR position must be plotted?",
+      "options": [
+        "Only at each fix",
+        "Only at each change of course",
+        "At least every hour, after every change of course or speed, after every fix or running fix, and after a single line of position",
+        "Every 15 minutes and at each fix, but not after a single line of position"
+      ],
+      "correct_index": 2,
+      "explanation": "These four occasions give a plot that can be checked and updated. Omitting the change-of-course positions leaves you unable to restart the DR properly.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q05",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At 1000 a fix is obtained. The DR plotted from the 0900 fix is 1.5 nm away from it. From where is the next course line laid?",
+      "options": [
+        "From the 1000 DR position",
+        "From the midpoint between the DR and the fix",
+        "From the 0900 fix again",
+        "From the 1000 fix"
+      ],
+      "correct_index": 3,
+      "explanation": "Every fix restarts the DR. The offset between DR and fix is information about the current, not a reason to keep the old DR.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q06",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At 1430 a vessel is at a fix of 49 degrees 30.0 minutes N, 123 degrees 30.0 minutes W. She steers 200 degrees true at 9 knots. What is the latitude of the DR at 1500?",
+      "options": [
+        "49 degrees 25.8 minutes N",
+        "49 degrees 34.2 minutes N",
+        "49 degrees 24.0 minutes N",
+        "49 degrees 30.0 minutes N"
+      ],
+      "correct_index": 0,
+      "explanation": "Distance = 9 x 30 / 60 = 4.5 nm. Difference of latitude = 4.5 x cos 200 degrees = -4.2 minutes (south), so 49 degrees 30.0 minutes - 4.2 minutes = 49 degrees 25.8 minutes N. The first option goes north, and 24.0 is a miscalculation.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q07",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A helmsman steers 115 degrees by compass. The compass error is 13 degrees E. What true course is laid off in the DR?",
+      "options": [
+        "102 degrees",
+        "115 degrees",
+        "128 degrees",
+        "141 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Compass to true: add easterly error, 115 + 13 = 128. The DR is laid in true, not compass.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q08",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How should the DR plot be labelled?",
+      "options": [
+        "Each course line with its true course and speed, and each position with its time in four figures and its type",
+        "Each position with its compass course only",
+        "Only the fixes need times",
+        "The time in three figures on the course line"
+      ],
+      "correct_index": 0,
+      "explanation": "A DR position without a time cannot be updated, and the type (fix, DR, EP) tells the next reader how much to trust it. Symbols differ between courses, so follow yours consistently.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q09",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A fix at 0900 starts a DR. A current has set 090 degrees at 1.5 knots since then. At 1100 the DR has been plotted. Where does the EP for 1100 lie?",
+      "options": [
+        "1.5 nm east of the 1100 DR position",
+        "3.0 nm east of the 1100 DR position",
+        "3.0 nm west of the 1100 DR position",
+        "At the 1100 DR position"
+      ],
+      "correct_index": 1,
+      "explanation": "Drift = rate x time = 1.5 x 2 = 3.0 nm in the direction of the set, 090 degrees. The EP is found by drawing that line from the DR position.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q10",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which speed is used for a DR?",
+      "options": [
+        "Speed over the ground from GNSS",
+        "The speed of the current",
+        "The average of the log and GNSS speeds",
+        "Speed through the water"
+      ],
+      "correct_index": 3,
+      "explanation": "A DR assumes the water is still. Using the speed over the ground would count the current twice when the offset is later used to find it.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.dead-reckoning.q11",
+      "lesson_id": "chartwork.dead-reckoning",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "The Master Limited chartwork competence in the draft TP 2293 says position is determined by dead reckoning allowing for what?",
+      "options": [
+        "Only the compass error",
+        "Only the speed of the vessel",
+        "Wind, tides, currents and estimated speed",
+        "Radar ranges only"
+      ],
+      "correct_index": 2,
+      "explanation": "The competence is to determine position by landmarks, aids to navigation and dead reckoning allowing for these effects.",
+      "source_ids": [
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

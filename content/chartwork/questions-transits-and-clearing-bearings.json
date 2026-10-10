@@ -1,0 +1,225 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q01",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why is a transit a particularly good line of position?",
+      "options": [
+        "It needs no charted objects",
+        "It is always a fix on its own",
+        "It is independent of the compass and is exact if the objects are correctly charted",
+        "It is only useful at night"
+      ],
+      "correct_index": 2,
+      "explanation": "Two objects in line define a straight line on the chart, so no compass reading is involved. Crossed with another line, it gives a fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q02",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does a clearing bearing labelled NMT mean?",
+      "options": [
+        "The bearing of the mark from the ship must be not more than the stated value, and the danger side of the line is hatched",
+        "The ship must keep the bearing exactly at the stated value",
+        "The mark must bear at least the stated value",
+        "The hatched side is the safe side"
+      ],
+      "correct_index": 0,
+      "explanation": "NMT is 'not more than'. The danger side is hatched so that it is clear which side to avoid. NLT is 'not less than'.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q03",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When drawing a clearing line past a reef, where should the line be placed?",
+      "options": [
+        "Exactly through the edge of the reef",
+        "Through the middle of the reef",
+        "Clear of the reef, with a margin of safe water, not touching it",
+        "On the far side of the reef from the ship"
+      ],
+      "correct_index": 2,
+      "explanation": "A clearing line is a limit, so it should leave a margin between the line and the danger. A line touching the danger gives no allowance for error.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q04",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You steer on a leading line of two beacons. The front beacon appears to the left of the rear beacon. What does this tell you?",
+      "options": [
+        "The ship is exactly on the line",
+        "The beacons are misidentified on the chart",
+        "The compass error has changed",
+        "The ship is off the line to one side, and the alignment shows which way to correct"
+      ],
+      "correct_index": 3,
+      "explanation": "When the front mark opens from the rear mark the ship has left the line. The sense of the opening tells you which way to come back.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q05",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A true clearing bearing of the light is NLT 038 degrees. The ship's compass error on the present heading is 14 degrees E. What is the limit in compass terms?",
+      "options": [
+        "NLT 052 degrees by compass",
+        "NMT 024 degrees by compass",
+        "NLT 024 degrees by compass",
+        "NLT 038 degrees by compass"
+      ],
+      "correct_index": 2,
+      "explanation": "True to compass: subtract easterly error, 038 - 14 = 024. The sense NLT is unchanged. 052 uses the wrong sign, and 038 forgets to convert.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q06",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship approaches a light on a track of 045 degrees. A reef lies to starboard of the track. If she drifts toward the reef, the light moves toward her port bow. Which clearing bearing is correct?",
+      "options": [
+        "The bearing of the light must be not less than a stated value, an NLT bearing",
+        "The bearing of the light must be not more than a stated value, an NMT bearing",
+        "The bearing must be exactly 045 degrees",
+        "No clearing bearing is possible"
+      ],
+      "correct_index": 0,
+      "explanation": "Drifting to starboard makes the light bear less (it moves toward the port bow), so the safe condition stops the bearing from decreasing: NLT. Always ask which way the bearing changes as the ship moves toward the danger.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q07",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which object is the best mark for a clearing bearing or transit?",
+      "options": [
+        "A floating buoy near the danger",
+        "An unidentified rock",
+        "A moored vessel",
+        "A fixed, charted lighthouse or beacon"
+      ],
+      "correct_index": 3,
+      "explanation": "Fixed objects stay where the chart says. A buoy may be off station and cannot guarantee that you are clear of a danger.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q08",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "After an alteration of course, what should be done with a clearing bearing converted to compass?",
+      "options": [
+        "Keep using the old compass figure",
+        "Apply the old compass error to a hand compass",
+        "Recalculate it, because the compass error for the new heading is different",
+        "Cancel the clearing bearing"
+      ],
+      "correct_index": 2,
+      "explanation": "The true limit stays the same. The compass limit depends on the deviation for the heading, which changes when the heading changes.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q09",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which combination gives a fix?",
+      "options": [
+        "Two transits that cross",
+        "A single transit",
+        "A single clearing bearing",
+        "A depth contour alone"
+      ],
+      "correct_index": 0,
+      "explanation": "Each transit is a line of position. Two lines that cross, or a transit and a bearing or range, give a fix. A clearing bearing is a limit, not a fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.transits-and-clearing-bearings.q10",
+      "lesson_id": "chartwork.transits-and-clearing-bearings",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How do you hatch a clearing bearing on the chart?",
+      "options": [
+        "On the safe side",
+        "On both sides",
+        "Along the track",
+        "On the side of the line that is the danger"
+      ],
+      "correct_index": 3,
+      "explanation": "Hatching marks the side you must keep out of, so anyone reading the plot knows at a glance.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

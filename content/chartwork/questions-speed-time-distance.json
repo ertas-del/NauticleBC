@@ -1,0 +1,247 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.speed-time-distance.q01",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is a knot?",
+      "options": [
+        "One nautical mile per hour",
+        "One nautical mile",
+        "One kilometre per hour",
+        "One statute mile per hour"
+      ],
+      "correct_index": 0,
+      "explanation": "A knot is a unit of speed already containing the hour, so 'knots per hour' is wrong. A nautical mile is 1852 m and a statute mile 1609 m.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q02",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Using the six-minute rule, how far does a vessel run in 6 minutes at 10.5 knots?",
+      "options": [
+        "10.5 nm",
+        "0.105 nm",
+        "1.05 nm",
+        "2.1 nm"
+      ],
+      "correct_index": 2,
+      "explanation": "Six minutes is a tenth of an hour, so the distance is the speed divided by 10: 10.5 / 10 = 1.05 nm.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q03",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How far does a vessel run in 3 minutes at 14 knots?",
+      "options": [
+        "1.4 nm",
+        "4.7 nm",
+        "0.07 nm",
+        "0.7 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "Three minutes is a twentieth of an hour: 14 / 20 = 0.7 nm. 1.4 nm is the six-minute distance.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q04",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel steams at 7.5 knots for 44 minutes. How far does she go?",
+      "options": [
+        "330 nm",
+        "5.5 nm",
+        "7.5 nm",
+        "3.3 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Distance = speed x minutes / 60 = 7.5 x 44 / 60 = 5.5 nm. Multiplying without dividing by 60 gives 330, and 3.3 uses 26 minutes.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q05",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A passage of 11.5 nm is made at 8 knots. How long does it take?",
+      "options": [
+        "1 h 26 min",
+        "1 h 44 min",
+        "1 h 14 min",
+        "1 h 36 min"
+      ],
+      "correct_index": 0,
+      "explanation": "Time = 11.5 / 8 = 1.4375 h. The 0.4375 h is 0.4375 x 60 = 26 minutes. Reading 1.44 h as 1 h 44 min is the common slip.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q06",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel runs 10 nm at 10 knots and then 10 nm at 5 knots. What is her average speed for the 20 nm?",
+      "options": [
+        "7.5 knots",
+        "5.0 knots",
+        "8.0 knots",
+        "6.7 knots"
+      ],
+      "correct_index": 3,
+      "explanation": "The legs take 1 h and 2 h, so 20 nm takes 3 h and the average speed is 20 / 3 = 6.7 knots. Averaging the two speeds (7.5) ignores that more time is spent at the slow speed.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q07",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel leaves at 0945 and the passage takes 2 h 20 min. What is the ETA?",
+      "options": [
+        "1145",
+        "1205",
+        "1225",
+        "1215"
+      ],
+      "correct_index": 1,
+      "explanation": "0945 + 2 h = 1145; adding 20 minutes gives 1205. Adding 20 minutes to 1145 as if it were decimal gives 1225 or 1215.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q08",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A log shows 7.0 knots and GNSS shows 8.4 knots on the same track. Which statement is correct?",
+      "options": [
+        "A fair current of about 1.4 knots is helping, and the DR is made from the log speed",
+        "The log is wrong, because speeds should always agree",
+        "A foul current of about 1.4 knots is slowing her, and the DR uses the GNSS speed",
+        "There is no current, and the DR uses the average of the two"
+      ],
+      "correct_index": 0,
+      "explanation": "The log measures speed through the water, GNSS speed over the ground. The difference along the track is the current component. Dead reckoning uses the speed through the water; the difference between DR and fix then measures the current.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q09",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which statement uses the unit correctly?",
+      "options": [
+        "She made good 8 knots per hour",
+        "She made good 8 miles per knot",
+        "She made good 8 knots an hour per mile",
+        "She made good 8 knots"
+      ],
+      "correct_index": 3,
+      "explanation": "A knot already contains the hour. 'Knots per hour' would be an acceleration.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q10",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel runs for 22 minutes at 14 knots. How far does she go?",
+      "options": [
+        "308 nm",
+        "5.1 nm",
+        "3.1 nm",
+        "6.4 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Distance = 14 x 22 / 60 = 5.13 nm. Leaving out the division by 60 gives 308.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.speed-time-distance.q11",
+      "lesson_id": "chartwork.speed-time-distance",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "At 12 knots, how far does a vessel run in one minute?",
+      "options": [
+        "1.2 nm",
+        "0.12 nm",
+        "0.2 nm",
+        "2.0 nm"
+      ],
+      "correct_index": 2,
+      "explanation": "One minute is a sixtieth of an hour: 12 / 60 = 0.2 nm.",
+      "source_ids": [
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

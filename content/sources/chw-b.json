@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "id": "chw-b-imo-a893-21",
+      "title": "IMO Resolution A.893(21), Guidelines for Voyage Planning (adopted 25 November 1999)",
+      "publisher": "International Maritime Organization (copy hosted by Maritime Academy fms.maritime.edu)",
+      "url": "https://fms.maritime.edu:8452/assets/images/IMO_Resolution_A.893(21).pdf",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool, not word for word. Supports: the four parts appraisal, planning, execution and monitoring (para 1.3); appraisal gathers information on the vessel, cargo, crew, certificates, charts and notices, sailing directions, lists of lights and radio aids, tides and other data (2.1) and identifies danger and safe areas (2.2); the plan covers the voyage berth to berth including pilotage (3.1); safety elements include safe speed, under-keel clearance, course alteration points, position-fixing method and frequency with primary and secondary methods, use of routeing systems and VTS, environmental considerations and contingency plans (3.2.2); the master approves the plan (3.4); the plan is available at all times on the bridge and progress is monitored continuously (5.1-5.2). The summary did not report margins of safety, abort points or clearing bearings, so those are presented in the lesson only as common practice."
+    },
+    {
+      "id": "chw-b-wikipedia-passage-planning",
+      "title": "Passage planning (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Passage_planning",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Secondary overview used only to cross-check the stage names appraisal, planning, execution and monitoring and the idea of the plan as a living document that is revised if circumstances change. It does not mention clearing bearings or abort points."
+    }
+  ]
+}

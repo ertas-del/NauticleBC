@@ -1,0 +1,246 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.compass-error-tvmdc.q01",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the correct order of the chain used for compass conversions?",
+      "options": [
+        "True, Deviation, Magnetic, Variation, Compass",
+        "True, Variation, Magnetic, Deviation, Compass",
+        "True, Magnetic, Variation, Compass, Deviation",
+        "Magnetic, True, Variation, Deviation, Compass"
+      ],
+      "correct_index": 1,
+      "explanation": "The chain runs T V M D C. Variation links True and Magnetic; deviation links Magnetic and Compass. In the wrong orders the errors are applied to the wrong pair of directions.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q02",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Variation is 12 degrees E and deviation on the present heading is 5 degrees W. What is the compass error?",
+      "options": [
+        "17 degrees E",
+        "7 degrees W",
+        "17 degrees W",
+        "7 degrees E"
+      ],
+      "correct_index": 3,
+      "explanation": "Compass error is the algebraic sum, east positive and west negative: +12 + (-5) = +7, so 7 E. Adding the sizes (17) ignores that the names differ.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q03",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel is steering 318 degrees by compass. Variation is 16 degrees E and deviation 3 degrees E. What is the true course?",
+      "options": [
+        "299 degrees",
+        "337 degrees",
+        "321 degrees",
+        "334 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass error = 16 E + 3 E = 19 E. Compass to true: add easterly, so 318 + 19 = 337. Subtracting (299) is the true-to-compass direction, 321 uses only the deviation, and 334 uses only the variation.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q04",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A true course of 200 degrees is wanted. The compass error is 12 degrees W. What compass course is steered?",
+      "options": [
+        "188 degrees",
+        "200 degrees",
+        "212 degrees",
+        "224 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "True to compass: add westerly error, 200 + 12 = 212. Subtracting gives 188, which would be correct for an easterly error, and 224 doubles the correction.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q05",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about compass error is correct?",
+      "options": [
+        "With easterly error the compass reads higher than true; with westerly error it reads lower",
+        "Easterly error and westerly error both make the compass read higher than true",
+        "The compass always reads true if the deviation card is used",
+        "With easterly error the compass reads lower than true; with westerly error it reads higher"
+      ],
+      "correct_index": 3,
+      "explanation": "An easterly error swings the card clockwise, bringing a smaller number to the lubber line, so the compass reads low. That is why you add easterly error to go from compass to true. Westerly is the reverse.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q06",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The ship is heading 075 degrees C, where the card gives 2 degrees W. On a heading of 150 degrees C it would give 4 degrees E. Variation is 17 degrees E. A lighthouse bears 150 degrees by the ship's compass. What is the true bearing?",
+      "options": [
+        "165 degrees",
+        "171 degrees",
+        "167 degrees",
+        "133 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "The deviation belongs to the ship's heading (075 C), not to the direction of the bearing. Compass error = 17 E + 2 W = 15 E, and 150 + 15 = 165. Using the 150-degree deviation of 4 E gives 171, using variation alone gives 167, and subtracting the variation alone gives 133.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q07",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A gyro bearing of a beacon is 126 degrees and the gyro error is 2 degrees E. What is the true bearing?",
+      "options": [
+        "124 degrees",
+        "126 degrees",
+        "130 degrees",
+        "128 degrees"
+      ],
+      "correct_index": 3,
+      "explanation": "Gyro error is applied like compass error: easterly is added, 126 + 2 = 128. A gyro has no variation or deviation. Subtracting (124) is the westerly rule.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q08",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A compass bearing is 352 degrees and the compass error is 14 degrees E. What is the true bearing?",
+      "options": [
+        "338 degrees",
+        "006 degrees",
+        "366 degrees",
+        "014 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "352 + 14 = 366, which is more than 360, so subtract 360 to get 006. Directions are written in three figures between 000 and 360.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q09",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The true bearing of a beacon is 042 degrees and the ship's true heading is 300 degrees. What is the relative bearing?",
+      "options": [
+        "258 degrees",
+        "342 degrees",
+        "102 degrees",
+        "078 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Relative bearing = true bearing - true heading = 042 - 300 = -258; add 360 to get 102, which is on the starboard side abaft the beam. 258 is the same figure measured the other way round the circle.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q10",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "When converting a true course to a compass course using a card entered with compass heading, why must you estimate and then check?",
+      "options": [
+        "Because variation changes with the ship's heading",
+        "Because deviation is always larger than variation",
+        "Because the card is only valid at the cardinal headings",
+        "The deviation depends on the compass heading, which is the answer you are trying to find"
+      ],
+      "correct_index": 3,
+      "explanation": "True to magnetic needs only the variation. Magnetic to compass needs the deviation for the compass heading, which you do not know yet. Apply a first estimate, look the deviation up at the result, and correct once if it has moved.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass-error-tvmdc.q11",
+      "lesson_id": "chartwork.compass-error-tvmdc",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel must make good 245 degrees true. The variation is 16 degrees E and the deviation on that heading is 4 degrees W. What compass course is steered?",
+      "options": [
+        "257 degrees",
+        "225 degrees",
+        "233 degrees",
+        "265 degrees"
+      ],
+      "correct_index": 2,
+      "explanation": "Compass error = 16 E + 4 W = 12 E. True to compass: subtract easterly, 245 - 12 = 233. Adding the error (257) is the compass-to-true direction, and 225 and 265 mistake the sum of variation and deviation.",
+      "source_ids": [
+        "sixty-bowditch-2019-compass-conversions",
+        "bw-bowditch-compass-conversions"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

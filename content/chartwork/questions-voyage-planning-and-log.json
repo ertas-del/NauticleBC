@@ -1,0 +1,241 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.voyage-planning-and-log.q01",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does NSR 2020 s. 144(1) require of the master before the vessel embarks on a voyage?",
+      "options": [
+        "To obtain written approval of the route from Transport Canada",
+        "To plan the voyage only if it is international",
+        "To report the route to the nearest MCTS centre",
+        "To plan the voyage, taking into account the Annex to IMO Resolution A.893(21), using the required charts and publications"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 144(1) requires planning of the voyage before it begins, taking into account the guidelines in the Annex to A.893(21).",
+      "source_ids": [
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q02",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list gives matters that the route must take into account under s. 144(2)?",
+      "options": [
+        "Crew rosters, fuel prices and port fees",
+        "Insurance, cargo value and the owner's schedule",
+        "Relevant routing systems, sufficient sea room, known hazards and adverse weather, marine environmental protection measures, and actions that could damage the environment",
+        "Only the shortest distance and the cheapest route"
+      ],
+      "correct_index": 2,
+      "explanation": "These are the five factors in s. 144(2)(a) to (e). The others are commercial matters that may be part of a business plan but not of the navigation duty.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q03",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 144(3) require during the voyage?",
+      "options": [
+        "Display the route on a required chart, and plot and monitor the position throughout the voyage on that chart",
+        "Keep the plan in the company office",
+        "Send the position to the owner each hour",
+        "Switch off the chart plotter at sea"
+      ],
+      "correct_index": 0,
+      "explanation": "The master must display the route on the chart and plot and monitor the vessel's position on it throughout the voyage.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q04",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 146 require before charts and publications are used to plan and execute a voyage?",
+      "options": [
+        "That they be replaced every year",
+        "That they be approved by the pilotage authority",
+        "That they be correct and up to date from Notices to Mariners or a navigational warning",
+        "That they be stamped by the chart dealer"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 146(1) puts on the master the duty of correcting charts and publications from Notices to Mariners or a navigational warning.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q05",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What are the four stages of voyage planning in IMO Resolution A.893(21)?",
+      "options": [
+        "Departure, passage, arrival and review",
+        "Survey, design, build and test",
+        "Alert, decide, act and report",
+        "Appraisal, planning, execution and monitoring"
+      ],
+      "correct_index": 3,
+      "explanation": "The guidelines divide the work into appraisal (gathering and weighing information), planning (the track and plan), execution (carrying it out) and monitoring (checking progress against the plan).",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-b-imo-a893-21"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q06",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about the plan under A.893(21) is correct?",
+      "options": [
+        "It covers the whole voyage berth to berth, the master approves it before the voyage, and it is kept available on the bridge",
+        "It covers only open water, and the pilot approves it",
+        "It is drawn up after departure when weather is known",
+        "It is kept ashore and not revised"
+      ],
+      "correct_index": 0,
+      "explanation": "The plan covers the voyage berth to berth, including pilotage waters; the master approves it; and it must be available at all times on the bridge for the watchkeepers.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-b-imo-a893-21"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q07",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a matter that a passage plan should set out under A.893(21)?",
+      "options": [
+        "The crew's shore leave",
+        "The method and frequency of position fixing, with primary and secondary methods",
+        "The price of fuel at the destination",
+        "The name of the vessel's insurer"
+      ],
+      "correct_index": 1,
+      "explanation": "Position fixing methods and frequency (primary and secondary), safe speed, under-keel clearance, alteration points and contingency plans are among the safety elements named in the guidelines.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-b-imo-a893-21"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q08",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does MPR s. 213 require of the master?",
+      "options": [
+        "To pilot the vessel personally in restricted waters",
+        "To keep a radio watch on channel 16 only",
+        "To report every voyage plan to the TSB",
+        "To ensure that the intended voyage is planned and that a deck watch is maintained in accordance with the relevant Parts of STCW Code section A-VIII/2"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 213 links voyage planning and the keeping of a deck watch to Parts 2, 3 and 3-1 of section A-VIII/2 of the STCW Code (subject to s. 252).",
+      "source_ids": [
+        "sixty-mpr-sor-2007-115-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q09",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel draws 2.0 m. The master wants 0.6 m under the keel. A shoal is charted at 1.4 m. What height of tide above chart datum is needed to cross?",
+      "options": [
+        "0.8 m",
+        "4.0 m",
+        "1.2 m",
+        "2.6 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Tide needed = draught + clearance - charted depth = 2.0 + 0.6 - 1.4 = 1.2 m. 0.8 omits the clearance, 4.0 adds the charted depth, and 2.6 is the water needed, not the tide.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-b-imo-a893-21"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q10",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Low water at 0600 is 0.5 m and high water at 1200 is 3.5 m. A shoal needs at least 1.0 m of tide to cross. By the rule of twelfths, about when is the earliest time the tide reaches 1.0 m?",
+      "options": [
+        "About 0700",
+        "About 0800",
+        "About 0830",
+        "About 0730"
+      ],
+      "correct_index": 3,
+      "explanation": "One twelfth of the 3.0 m range is 0.25 m. At 0700 the tide is 0.5 + 0.25 = 0.75 m; at 0800 it is 0.5 + 3 x 0.25 = 1.25 m. It passes 1.0 m halfway between, about 0730. That is the earliest, with no margin, so a real plan would cross later.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-b-imo-a893-21"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.voyage-planning-and-log.q11",
+      "lesson_id": "chartwork.voyage-planning-and-log",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Besides the log book, what does the draft Master Limited chartwork competence require you to keep?",
+      "options": [
+        "A record of crew qualifications",
+        "A record of fuel purchases",
+        "A record of compass errors",
+        "A record of tide heights"
+      ],
+      "correct_index": 2,
+      "explanation": "The competence includes keeping a log book and a record of compass errors.",
+      "source_ids": [
+        "sixty-tp2293-2019-draft"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

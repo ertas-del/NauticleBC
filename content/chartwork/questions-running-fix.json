@@ -1,0 +1,247 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.running-fix.q01",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is advanced in a running fix?",
+      "options": [
+        "The earlier line of position, by the course and distance run to the time of the later one",
+        "The later line of position, by the compass error",
+        "The DR position, by the current",
+        "Both lines, by the variation"
+      ],
+      "correct_index": 0,
+      "explanation": "The first LOP is moved along the ship's track by the run. The second line is left where it is, and the intersection is the running fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q02",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel at 9 knots takes a bearing of a headland light 45 degrees on the bow at 0905 and again when it is abeam at 0930. How far off is the light when abeam?",
+      "options": [
+        "2.25 nm",
+        "3.75 nm",
+        "5.3 nm",
+        "9.0 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Run = 9 x 25 / 60 = 3.75 nm. In a 45-90 triangle the distance off when abeam equals the run. The 5.3 figure would be the distance at the first bearing (run x 1.41).",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q03",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At 6 knots a vessel takes an object 25 degrees on the bow, then 50 degrees on the bow 30 minutes later. What is the distance off at the second bearing?",
+      "options": [
+        "6.0 nm",
+        "1.5 nm",
+        "2.3 nm",
+        "3.0 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "The angle on the bow has doubled, so the distance off at the second bearing equals the distance run: 6 x 30 / 60 = 3.0 nm. 2.3 nm is the later distance abeam, 3.0 x sin 50 degrees.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q04",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In the same observation (25 and 50 degrees on the bow, 3.0 nm run), what will the distance be when the object is abeam, if the ship keeps her course and speed?",
+      "options": [
+        "About 2.3 nm",
+        "3.0 nm",
+        "About 1.5 nm",
+        "About 3.9 nm"
+      ],
+      "correct_index": 0,
+      "explanation": "Distance abeam = distance at the second bearing x sine of the second angle on the bow = 3.0 x sin 50 degrees = 2.3 nm. Quoting 3.0 treats the second bearing as if it were abeam.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q05",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "For the doubling-the-angle method, what is the condition on the first bearing?",
+      "options": [
+        "It must be exactly 45 degrees on the bow",
+        "It must be less than 45 degrees on the bow",
+        "It must be abaft the beam",
+        "It must be more than 90 degrees on the bow"
+      ],
+      "correct_index": 1,
+      "explanation": "If the first angle is 45 degrees or more the doubled angle reaches 90 degrees or more, so the object would be abeam or abaft the beam at the second bearing and the method gives no early warning.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q06",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship steers 270 degrees at 8 knots through the water. A known current sets 180 degrees at 1 knot. Between two bearings 30 minutes apart, what run should the first line be advanced by?",
+      "options": [
+        "4.03 nm toward about 263 degrees, the run over the ground",
+        "4.0 nm toward 270 degrees, the run through the water",
+        "0.5 nm toward 180 degrees only",
+        "4.5 nm toward 270 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "The advance should be the ground run: 4.0 nm west plus 0.5 nm south, which is 4.03 nm on about 263 degrees. Using the water run alone would put the fix about 0.3 nm out in the example in the lesson.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q07",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a running fix less reliable than a simultaneous fix?",
+      "options": [
+        "Because the bearings are always taken from a different object",
+        "Errors in the course, speed and current used to advance the first line are carried into the position",
+        "Because the compass error changes between bearings",
+        "Because a running fix uses only one line of position"
+      ],
+      "correct_index": 1,
+      "explanation": "The first line is moved by a run that depends on the log, steering and the current. Any error in the run moves the line, and so the fix.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q08",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How is a running fix labelled on the chart?",
+      "options": [
+        "Fix with the time of the earlier bearing",
+        "DR with the time of the later bearing",
+        "RFix with the time of the later bearing",
+        "EP with no time"
+      ],
+      "correct_index": 2,
+      "explanation": "A running fix is a different kind of position from a plain fix, so it is labelled RFix, with the time at which the second line was observed.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q09",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship steers 270 degrees. The first line of position is drawn through a tower. In which direction is the first line moved to be advanced to the time of the second bearing?",
+      "options": [
+        "Along the ship's track, toward 270 degrees (the direction of travel), by the distance run",
+        "Toward 090 degrees, the reciprocal",
+        "Toward the tower",
+        "Away from the tower"
+      ],
+      "correct_index": 0,
+      "explanation": "The ship has moved along her track, so the first line is carried the same way by the same distance, remaining parallel to its original direction.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q10",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A compass bearing is used in a running fix. What must be done before the first line is advanced?",
+      "options": [
+        "Nothing, because advancing removes the compass error",
+        "Convert the compass bearing to true using the compass error for the heading",
+        "Apply the current to the bearing",
+        "Convert it to a relative bearing"
+      ],
+      "correct_index": 1,
+      "explanation": "Lines of position are plotted in true. A compass bearing is converted with the compass error for the ship's heading (or variation only for a hand compass held clear of iron).",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.running-fix.q11",
+      "lesson_id": "chartwork.running-fix",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship is heading 090 degrees true. A light bears 060 degrees true. What is the angle on the bow, and does the doubling method need a steady course and speed?",
+      "options": [
+        "30 degrees on the port bow; yes, a steady course and speed are needed between the bearings",
+        "30 degrees on the starboard bow; no, the method corrects for changes",
+        "60 degrees on the port bow; yes",
+        "150 degrees on the port bow; no"
+      ],
+      "correct_index": 0,
+      "explanation": "The angle on the bow is the relative bearing from the ship's head: 060 is 30 degrees to the left of 090, so 30 degrees on the port bow. The doubling and four-point methods assume the ship keeps a steady course and speed between the bearings, because the run is taken as speed x time along a straight line.",
+      "source_ids": [
+        "chw-a-bowditch-2002-ch8-piloting",
+        "sixty-sailingissues-fixes"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
