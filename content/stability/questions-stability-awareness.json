@@ -1,0 +1,213 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.stability-awareness.q01",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When a stable vessel heels, why does she tend to come back upright?",
+      "options": [
+        "G moves toward the low side and pulls her back",
+        "The wind pushes her upright",
+        "B moves toward the low side, so the upward buoyancy and the downward weight form a turning pair that rolls her back",
+        "The keel is heavier than the rest of the hull"
+      ],
+      "correct_index": 2,
+      "explanation": "Weight acts down through G, which has not moved; buoyancy acts up through B, which has moved to the low side. The two forces make a turning effect, the righting moment. G does not move when she heels.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q02",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these makes a vessel more tender and less stable?",
+      "options": [
+        "Lowering G with heavy gear stowed low",
+        "Keeping a full tank of fuel in the double bottom",
+        "Closing the watertight doors",
+        "Raising G, for example with deck cargo stacked high or ice on the rigging"
+      ],
+      "correct_index": 3,
+      "explanation": "A higher G cuts GM and the righting lever, so the vessel leans further and returns more slowly. Stowing heavy things low helps.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q03",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a half-full tank of fuel or a pool of water on deck worse than the same weight bolted down?",
+      "options": [
+        "The liquid is lighter than a solid",
+        "The liquid runs to the low side as she leans, which acts like extra top weight and reduces stability",
+        "The liquid raises the waterline",
+        "The liquid evaporates, so the weight keeps changing"
+      ],
+      "correct_index": 1,
+      "explanation": "Free liquid moves with the lean and adds to the heeling effect, which acts as if G had risen. A fixed weight of the same size stays put.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q04",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a trip home a deckhand notices the vessel now has a slow, lazy roll that hangs at the end of each swing. What should they do?",
+      "options": [
+        "Nothing; a slow roll is more comfortable and safer",
+        "Wait to see whether it improves by the end of the watch",
+        "Tell the officer or master straight away, because it can warn of low stability",
+        "Open the deck hatches to let water drain"
+      ],
+      "correct_index": 2,
+      "explanation": "A slow roll that hangs warns of reduced GM, which may come from burned fuel, a slack tank, ice or top weight. The deck crew are often first to notice it, and the master needs to know at once. A comfortable-feeling roll is the opposite of safe here.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q05",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "At sea in rough weather, what should you do about doors, hatches and ports that open to the weather, and about freeing ports?",
+      "options": [
+        "Keep the doors, hatches and ports shut, and keep the freeing ports and scuppers clear",
+        "Keep everything open to drain water",
+        "Keep the doors shut and block the freeing ports so water cannot enter",
+        "Shut the freeing ports with covers and leave the doors open for air"
+      ],
+      "correct_index": 0,
+      "explanation": "Closed openings keep the sea out; clear freeing ports let water that does get on deck drain away. Blocking the freeing ports traps water on deck, which is a free surface and extra weight.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q06",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Ice is forming on the mast, rails and cabin top of a small vessel. Where should the crew start removing it?",
+      "options": [
+        "From the deck first, because it is easiest to reach",
+        "From the hull sides, to reduce windage",
+        "From the highest parts first",
+        "Leave it until the temperature rises"
+      ],
+      "correct_index": 2,
+      "explanation": "Ice raises G because it sits high, so taking away the highest ice lowers G fastest. Ice also adds weight and windage and cuts freeboard, so do not leave it.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q07",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under the Canada Shipping Act, 2001, what does a crew member have to do about a safety hazard they notice?",
+      "options": [
+        "Report it to the master",
+        "Fix it quietly without telling anyone",
+        "Report it to Transport Canada only after the voyage",
+        "Nothing; it is the master's duty alone to notice hazards"
+      ],
+      "correct_index": 0,
+      "explanation": "Every crew member must carry out their duties safely and report to the master any safety hazard they become aware of (s. 113). A blocked freeing port, a slack tank or a loose load is exactly that.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.stability-awareness.q08",
+      "lesson_id": "stability.stability-awareness",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which master's duty arises under s. 112 of the Canada Shipping Act, 2001 in relation to icing?",
+      "options": [
+        "To land at the nearest port whenever any ice forms",
+        "To inform the owner by the end of the voyage that ice has formed",
+        "To submit a stability calculation to the Minister each time ice forms",
+        "To give notice to vessels in the vicinity and the prescribed shore authorities when meeting severe ice accretion on the superstructure caused by subfreezing air with gale-force winds"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 112 is a duty to warn others and the authorities about severe ice accretion, in the same way as for other dangers. It is the master's duty, it is about severe ice with gale-force winds in subfreezing air, and it is done at the time, not after the voyage.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "sixty-csa-2001-xml",
+        "stab-wikipedia-metacentric-height",
+        "stab-wikipedia-free-surface-effect",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

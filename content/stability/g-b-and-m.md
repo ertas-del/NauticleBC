@@ -83,7 +83,7 @@ The same barge unloaded to a draught of 0.50 m.
 2. BM = 53.33 / 20.0 = **2.667 m**. KB = 0.25 m.
 3. KM = 0.25 + 2.667 = **2.917 m**.
 
-So KM is higher when the barge is lighter. In general, KM depends on the draught, and a vessel's hydrostatic table gives it for each draught. (On real hulls with flared or round sides, KM usually falls again at much deeper draughts.) Notice the effect of beam too: if the barge were 8.0 m wide (twice as wide) at the same draught, I would be eight times larger (8.0 cubed is eight times 4.0 cubed) and V only twice as large, so BM would be four times larger: 4 x 1.333 = 5.333 m.
+So KM is higher when the barge is lighter. In general, KM depends on the draught, and a vessel's hydrostatic table gives it for each draught. (For a box, KM falls as the draught increases from very light, reaches a lowest value, then slowly rises again as the draught gets larger. Real hulls follow the same pattern in a more complicated way, which is why you read KM from the hydrostatic table, not from a rule.) Notice the effect of beam too: if the barge were 8.0 m wide (twice as wide) at the same draught, I would be eight times larger (8.0 cubed is eight times 4.0 cubed) and V only twice as large, so BM would be four times larger: 4 x 1.333 = 5.333 m.
 
 ### Worked example 3: the same hull, three different KG values
 

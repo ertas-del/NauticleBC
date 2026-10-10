@@ -20,7 +20,7 @@ key_facts:
   - A large GM makes a stiff vessel with a short, sharp roll period; a small GM makes a tender vessel with a long, slow roll period.
   - A very large GM is not ideal; it gives violent snap rolling that strains the vessel, loads and people.
   - A vessel with a negative GM will not rest upright; it settles at an angle of loll, and may flop from side to side or capsize.
-  - Anything that raises KG (top weight, ice, burning low fuel, slack tanks) cuts GM one for one.
+  - Anything that raises KG (top weight, ice, burning low fuel, slack tanks) cuts GM by the amount of the rise, for the same KM.
 source_ids: [sixty-fao-ftp517-stability, stab-fao-ftp517-ch6-example, stab-mt4241-stability-trim, stab-wikipedia-metacentric-height, stab-wartsila-intact-criteria]
 review_status: needs_expert_review
 ---
@@ -99,11 +99,11 @@ Neither extreme is the goal: ==enough stability, but not too much==. A very stif
 
 ## Negative GM and the angle of loll
 
-If GM is negative, an upright vessel is like the marble on top of the dome. The slightest push starts it over, and the turning effect pushes it further. As it heels, the hull's shape gradually begins to help (the wedge of immersed hull on the low side grows and B moves outward), and at some angle the vessel finds a new balance. That is the ==angle of loll==. The vessel sits there, leaning, and may flop over to the other side when a sea hits it (it has two possible angles of loll, one on each side). A vessel that is lolling is on the edge. The fix is never obvious: moving weight toward the low side makes it worse; first lower G (empty top weight, press up slack tanks) and then bring it upright slowly, with the master's guidance.
+If GM is negative, an upright vessel is like the marble on top of the dome. The slightest push starts it over, and the turning effect pushes it further. As it heels, the hull's shape gradually begins to help (the wedge of immersed hull on the low side grows and B moves outward), and at some angle the vessel finds a new balance. That is the ==angle of loll==. The vessel sits there, leaning, and may flop over to the other side when a sea hits it (it has two possible angles of loll, one on each side). A vessel that is lolling is on the edge. The cure is to lower G: take off top weight, press up slack tanks, and add low weight such as filling low tanks. Textbooks advise doing it on the low side first, because a sudden change of weight on the high side can make the vessel flop over to the other side. Shifting weight about carelessly, or hauling the vessel upright with a heavy pull, is the wrong response. Treat it as an emergency and follow the master's orders. (An examiner or instructor may want the exact order of steps; this lesson gives the principle only.)
 
 ## What changes GM at sea
 
-KM changes little in service. KG changes a lot. Rise of KG cuts GM by the same amount, one for one:
+KM changes little in service. KG changes a lot. A rise of KG cuts GM by the same amount (for the same KM):
 
 - Taking on top weight (deck cargo, ice, water on deck) raises KG.
 - Using fuel and water from low tanks raises KG.

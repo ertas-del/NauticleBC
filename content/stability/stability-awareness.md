@@ -20,7 +20,7 @@ key_facts:
   - Ice on the upper structure raises G, adds weight and windage, and reduces freeboard; remove it from high up first.
   - A crew member must report to the master any safety hazard they become aware of (Canada Shipping Act, 2001, s. 113).
   - The master of a Canadian vessel must give notice of severe ice accretion caused by subfreezing air temperatures with gale-force winds (Canada Shipping Act, 2001, s. 112).
-source_ids: [sixty-fao-ftp517-stability, stab-wikipedia-metacentric-height, stab-wikipedia-free-surface-effect, stab-csa-2001-ss110-112, bw-bcit-mssm-1030]
+source_ids: [sixty-fao-ftp517-stability, sixty-csa-2001-xml, stab-wikipedia-metacentric-height, stab-wikipedia-free-surface-effect, stab-csa-2001-ss110-112, bw-bcit-mssm-1030]
 review_status: needs_expert_review
 ---
 

@@ -1,0 +1,221 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.terms.q01",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel is floating at rest. What is the relationship between her weight and the water she displaces?",
+      "options": [
+        "The weight of the water displaced is always greater than the vessel's weight.",
+        "The weight of the water displaced equals the weight of the cargo only.",
+        "There is no fixed relationship; it depends on the shape of the hull.",
+        "The weight of the water displaced equals the weight of the vessel."
+      ],
+      "correct_index": 3,
+      "explanation": "Archimedes' principle: a floating body settles until the water it pushes aside weighs exactly as much as the body, fuel, crew and cargo included. Displaced water heavier than the vessel would push her up; displaced water that equals only the cargo ignores the hull itself; and hull shape changes how deep she floats, not the balance of weights.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q02",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An invented box-shaped barge is 15.0 m long and 5.0 m wide and floats at a draught of 0.60 m in seawater (1.025 t/m3). What is her displacement?",
+      "options": [
+        "About 46.1 t",
+        "About 45.0 t",
+        "About 7.7 t",
+        "About 75.0 t"
+      ],
+      "correct_index": 0,
+      "explanation": "Underwater volume = 15.0 x 5.0 x 0.60 = 45.0 m3. Displacement = volume x density = 45.0 x 1.025 = 46.125 t, about 46.1 t. 45.0 is the volume (the density was forgotten). 7.7 and 75.0 come from adding or mixing up the dimensions instead of multiplying them.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q03",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel's lightship weight is 18.0 t and she is now floating with a displacement of 27.5 t. What is her deadweight, and what does it include?",
+      "options": [
+        "9.5 t: the hull, engine and fixed gear",
+        "45.5 t: lightship and displacement together",
+        "9.5 t: fuel, water, stores, crew and cargo aboard",
+        "27.5 t: it is the same as displacement"
+      ],
+      "correct_index": 2,
+      "explanation": "Deadweight = displacement - lightship = 27.5 - 18.0 = 9.5 t, and it is everything added to the empty vessel: fuel, fresh water, stores, crew, gear and cargo. The hull and engine are part of the lightship. Adding the two figures, or saying deadweight equals displacement, mixes up the terms.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q04",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel is 2.10 m deep from keel to deck edge and floats with a draught of 1.45 m. What is her freeboard?",
+      "options": [
+        "1.45 m",
+        "3.55 m",
+        "2.10 m",
+        "0.65 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Freeboard is the height from the waterline up to the deck edge: 2.10 - 1.45 = 0.65 m. 1.45 m is the draught, 3.55 m comes from adding the two, and 2.10 m is the total depth of the hull.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q05",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is reserve buoyancy?",
+      "options": [
+        "The extra fuel and water a vessel carries in tanks as a reserve",
+        "The volume of the hull above the waterline that is watertight or weathertight, which can supply extra buoyancy if the vessel is pushed down",
+        "The weight of water the vessel displaces when she is fully loaded",
+        "The buoyancy of the underwater part of the hull when she is upright"
+      ],
+      "correct_index": 1,
+      "explanation": "Reserve buoyancy is the safety margin above the waterline: the tight volume that can displace more water as the vessel sinks deeper or a wave rises. It has nothing to do with fuel reserves. The weight of water displaced is the displacement, and the underwater volume's buoyancy is what already supports the vessel.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q06",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel has a waterplane area of 30 m2 that is about constant over the range of loading. In seawater (1.025 t/m3), how far does she sink when 1.5 t is loaded?",
+      "options": [
+        "About 0.05 cm",
+        "About 20.5 cm",
+        "About 4.9 cm",
+        "About 1.5 cm"
+      ],
+      "correct_index": 2,
+      "explanation": "TPC = waterplane area x density / 100 = 30 x 1.025 / 100 = 0.3075 t per cm. Sinkage = 1.5 / 0.3075 = 4.88 cm, about 4.9 cm. 0.05 cm divides by the wrong number (30 x 1.025), 20.5 cm inverts the ratio, and 1.5 cm treats each tonne as a centimetre.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q07",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A loaded vessel in the sea motors up a freshwater river with nothing added or removed. What happens to her draught, and why?",
+      "options": [
+        "She floats deeper, because fresh water is less dense and she must displace more volume to get the same weight of water",
+        "She floats higher, because fresh water is less dense and so buoys her up more",
+        "Nothing changes, because her weight has not changed",
+        "She floats deeper, because fresh water is denser and pulls her down"
+      ],
+      "correct_index": 0,
+      "explanation": "The displaced water must still weigh the same. Fresh water (1.000 t/m3) is less dense than seawater (1.025 t/m3), so a larger volume is needed and she sinks a little deeper. Her weight is unchanged, which is why the draught, not the displacement, changes. Fresh water is not denser than seawater.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q08",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel leans 8 degrees to port when a steady wind blows from starboard. When the wind drops, the lean disappears. Which term describes this lean?",
+      "options": [
+        "List",
+        "Loll",
+        "Heel",
+        "Trim"
+      ],
+      "correct_index": 2,
+      "explanation": "Heel is a lean caused by an outside force such as wind or a turn, and it goes when the force goes. List is a lasting lean caused by weight with G off the centreline; loll is a lean from negative GM; trim is a fore-and-aft difference in draught.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.terms.q09",
+      "lesson_id": "stability.terms",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement correctly separates list, loll and trim?",
+      "options": [
+        "List is a sideways lean from G being off the centreline, loll is a sideways lean from negative GM, and trim is the difference between forward and aft draught",
+        "List is a lean from wind, loll is a lean from negative GM, and trim is the difference between freeboard and draught",
+        "List and loll are the same thing; trim is a sideways lean",
+        "Trim is a sideways lean, list is a lean forward, and loll is a lean aft"
+      ],
+      "correct_index": 0,
+      "explanation": "List comes from weight being off the centreline with a positive GM. Loll comes from negative GM, and the vessel may flop to either side. Trim is fore-and-aft, the forward draught compared with the aft draught. A lean from wind is a heel, and list and loll have different causes and different cures.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-csa-2001-ss110-112"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

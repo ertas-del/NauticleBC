@@ -1,0 +1,212 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.suspended-weights-and-lifting.q01",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A load is hanging freely from a boom. Where does its weight act on the vessel?",
+      "options": [
+        "At the load's own centre of gravity",
+        "At the deck beneath the load",
+        "At the keel",
+        "At the point of suspension (the boom head or block)"
+      ],
+      "correct_index": 3,
+      "explanation": "A freely hanging weight pulls down on the point it hangs from, whatever the length of the cable. The vessel's G therefore behaves as though the weight had moved up to the point of suspension.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q02",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 2 t crate with its centre 1.5 m above the keel is lifted from the deck by a boom whose head is 5.5 m above the keel. The vessel displaces 50 t. By how much does G rise?",
+      "options": [
+        "0.16 m",
+        "0.22 m",
+        "0.06 m",
+        "8.0 m"
+      ],
+      "correct_index": 0,
+      "explanation": "GG1 = w x (height of suspension - height of the stowed weight) / displacement = 2 x (5.5 - 1.5) / 50 = 0.16 m. 0.22 uses the boom head height alone (2 x 5.5 / 50); 0.06 uses the load's stowed height alone; 8.0 forgets to divide by the displacement.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q03",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the difference between lifting a load already aboard and lifting a load from the water?",
+      "options": [
+        "There is no difference, because both are just a lift",
+        "The load from the water is lower, so it lowers G",
+        "A load from the water is added to the vessel at the point of suspension, so displacement increases as well as G rising",
+        "A load from the water changes only the displacement, not G"
+      ],
+      "correct_index": 2,
+      "explanation": "A load already aboard is a weight moved up; a load coming out of the water or off the dock is a weight added at the boom head. Both raise G, but the second adds to the displacement and has the larger effect.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q04",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 36 t vessel with KG 1.80 m lifts 4 t from the sea at a boom head 6.0 m above the keel. The new displacement is 40 t. What is her new KG?",
+      "options": [
+        "1.80 m",
+        "1.82 m",
+        "3.90 m",
+        "2.22 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Moments: 36 x 1.80 = 64.8; the load acts at the boom head, 4 x 6.0 = 24.0; total 88.8. KG = 88.8 / 40 = 2.22 m. The shift formula agrees: 4 x (6.0 - 1.80) / 40 = 0.42, and 1.80 + 0.42 = 2.22. 1.80 ignores the lift; 1.82 treats the load as landed on deck at 2.0 m; 3.90 forgets to divide by the final displacement.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q05",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 30 t vessel with GM 0.50 m has a 1 t load hanging from a boom, 1.5 m off the centreline. What is the heel, using tan(heel) = w x offset / (displacement x GM)? (Ignore the other effects of the lift.)",
+      "options": [
+        "About 0.1 degrees",
+        "About 5.7 degrees",
+        "About 11.3 degrees",
+        "About 2.9 degrees"
+      ],
+      "correct_index": 1,
+      "explanation": "Sideways shift = 1 x 1.5 / 30 = 0.05 m. tan(heel) = 0.05 / 0.50 = 0.10 and the heel is 5.7 degrees. 0.1 is the tangent, not the angle; 2.9 degrees forgets to divide by GM (it is atan 0.05); 11.3 degrees would result from a 3.0 m offset.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q06",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What happens to the loss of GM if the same load is lifted by a taller boom with a higher block?",
+      "options": [
+        "The loss is smaller, because the load is further from the water",
+        "No change, because the weight is the same",
+        "The loss of GM is greater, because the point of suspension is higher",
+        "GM increases, because the load is higher"
+      ],
+      "correct_index": 2,
+      "explanation": "The rise of G depends on how high the point of suspension is above the load's stowed height or above G. Higher means a greater rise of G and a greater loss of GM.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q07",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is a sensible way to reduce the stability cost of a lift?",
+      "options": [
+        "Keep the lift low and close to the centreline, use tag lines, and land the load on deck at once",
+        "Lift as high as possible to clear the rail quickly",
+        "Swing the load well out beyond the side while checking the rigging",
+        "Leave the load hanging while you think about where to stow it"
+      ],
+      "correct_index": 0,
+      "explanation": "Each of the wrong choices raises the point of suspension, moves the load off the centreline, or keeps the weight suspended for longer. The aim is a low, short, central, quick lift.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q08",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel with slack fuel and water tanks is asked to lift a load that would be safe with the tanks full. Why is the lift now more dangerous?",
+      "options": [
+        "The slack tanks raise the boom head",
+        "The lift is safe if the load is lighter than the tanks' contents",
+        "The free surface effect has already cut her GM, so the loss of GM from the lift leaves much less margin",
+        "Slack tanks increase the vessel's GM"
+      ],
+      "correct_index": 2,
+      "explanation": "The tanks' free surface reduces the effective GM, and the lift reduces it further. Both effects add. The slack tanks do not change the boom's height or add GM.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.suspended-weights-and-lifting.q09",
+      "lesson_id": "stability.suspended-weights-and-lifting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A load hanging from a boom starts to heel the vessel more than expected. What is the right response?",
+      "options": [
+        "Land the load, or lower it, rather than hold it up, and think again",
+        "Lift it higher to clear the deck",
+        "Swing it further out to balance the heel",
+        "Ignore it until the load is stowed"
+      ],
+      "correct_index": 0,
+      "explanation": "Landing the load removes the high weight and the sideways lever together. Raising it, or swinging it out, makes both worse.",
+      "source_ids": [
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2",
+        "stab-fao-ftp517-ch6-example"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

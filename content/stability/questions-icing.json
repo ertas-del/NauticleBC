@@ -1,0 +1,221 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.icing.q01",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Why does ice on a vessel's rigging and upper structure reduce stability?",
+      "options": [
+        "It lowers G, which makes the vessel stiff",
+        "It makes the vessel float higher",
+        "It only affects the speed of the vessel",
+        "It adds weight high up, which raises G and cuts GM"
+      ],
+      "correct_index": 3,
+      "explanation": "Ice forms on masts, rails and the cabin top, well above G, so it raises KG. It also adds weight, so the vessel sinks, and windage, so the wind heels her more.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q02",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which list contains the main ways icing harms stability?",
+      "options": [
+        "It raises G, adds weight (cutting freeboard), adds windage, and can block freeing ports and closures",
+        "It lowers G, adds buoyancy, reduces windage and clears the deck",
+        "It adds free surface only",
+        "It reduces weight, since ice floats"
+      ],
+      "correct_index": 0,
+      "explanation": "Ice weight raises G and lowers freeboard; thicker rails and rigging increase the wind's push; and freeing ports, scuppers and hatches can freeze up.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q03",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crew has a limited time to remove ice. Where should they start?",
+      "options": [
+        "From the deck, which is the safest to reach",
+        "From the hull sides near the waterline",
+        "From the highest parts: mast, rigging and rails, then lower",
+        "Anywhere; it is the total mass of ice that matters"
+      ],
+      "correct_index": 2,
+      "explanation": "Removing a weight that is high above G lowers G the most for the weight removed. Removing ice from low down can even raise G.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q04",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 30 t vessel with KG 1.70 m collects 3 t of ice with its centre at 3.00 m above the keel. What is her new KG?",
+      "options": [
+        "About 1.70 m",
+        "About 2.00 m",
+        "About 1.55 m",
+        "About 1.82 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Moments: 30 x 1.70 = 51.0 and 3 x 3.00 = 9.0, a total of 60.0. Displacement is 33 t. KG = 60.0 / 33 = 1.818 m. 1.70 m ignores the ice, and 2.00 m divides by the old 30 t displacement.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q05",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel has 0.40 m of freeboard and a TPC of 0.30 t per cm. She collects 3 t of ice. About what is her freeboard now?",
+      "options": [
+        "About 0.37 m",
+        "About 0.30 m",
+        "About 0.10 m",
+        "About 0.40 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Sinkage = 3 / 0.30 = 10 cm = 0.10 m. Freeboard = 0.40 - 0.10 = 0.30 m. 0.37 treats 3 t as 3 cm, 0.10 is the sinkage alone, and 0.40 ignores the ice.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q06",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these correctly describes a master's duty under s. 112 of the Canada Shipping Act, 2001, on icing?",
+      "options": [
+        "Report icing to the owner at the end of the season",
+        "Report any ice at all to the Minister within one year",
+        "Give notice to vessels in the vicinity and the prescribed shore authorities when severe ice builds up on the superstructure in subfreezing air with gale-force winds",
+        "Return to port as soon as there is any ice on deck"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 112 requires notice to nearby vessels and the prescribed authorities in the case of severe ice accretion associated with subfreezing air and gale-force winds. The duty is about warning others, in time.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q07",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 3.05 of the Fishing Vessel Safety Regulations require about freezing spray?",
+      "options": [
+        "A fishing vessel must not operate in a freezing spray warning area unless its stability assessment shows it can operate safely in freezing spray, and it must carry a means to remove accumulated ice",
+        "A fishing vessel must always stay in port in winter",
+        "A fishing vessel must report icing to the Minister each hour",
+        "A fishing vessel must carry a heater on the mast"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3.05 links the freezing spray warning area to the stability assessment and requires a means of removing ice. It is a fishing vessel rule, used here for comparison.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q08",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel removes 1 t of ice that has formed low on the hull, below her G. What is the effect on G?",
+      "options": [
+        "G falls, because weight was removed",
+        "G does not move",
+        "G rises slightly, because a weight below G was removed",
+        "G moves sideways"
+      ],
+      "correct_index": 2,
+      "explanation": "Removing a weight below G moves G up, away from where the weight was. That is why ice should be cleared from high up first: the same effort removing high ice lowers G.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.icing.q09",
+      "lesson_id": "stability.icing",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In freezing spray, ice builds up around the freeing ports and scuppers of a small vessel. Why is that a stability problem?",
+      "options": [
+        "Water that comes aboard cannot drain, so it stays as extra weight and a free surface on deck",
+        "The ice makes the freeing ports bigger, so more water comes aboard",
+        "It lowers G because the ice is at deck level",
+        "It has no stability effect, because ice is lighter than water"
+      ],
+      "correct_index": 0,
+      "explanation": "Blocked freeing ports hold deck water, which adds weight and a wide, high free surface that cuts GM. Ice on and around openings can also stop doors and hatches closing. Ice does not enlarge the ports, and its effect on G depends on where it is, not on whether it floats.",
+      "source_ids": [
+        "stab-csa-2001-ss110-112",
+        "stab-fvsr-crc-1486-stability",
+        "stab-mt4241-stability-trim",
+        "stab-swos-dca-4-2"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

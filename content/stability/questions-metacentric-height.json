@@ -1,0 +1,221 @@
+{
+  "module": "stability",
+  "questions": [
+    {
+      "id": "stability.metacentric-height.q01",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel has KM = 2.80 m and KG = 2.35 m. What is her GM, and is she stable?",
+      "options": [
+        "0.45 m; stable",
+        "5.15 m; stable",
+        "0.45 m; unstable",
+        "-0.45 m; unstable"
+      ],
+      "correct_index": 0,
+      "explanation": "GM = KM - KG = 2.80 - 2.35 = +0.45 m. A positive GM means M is above G and the vessel is stable. Adding the two heights is wrong, and subtracting in the wrong order gives a false negative.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q02",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel has KM = 1.90 m and KG = 2.05 m. What does this tell you?",
+      "options": [
+        "GM is +0.15 m; she is stable but tender",
+        "GM is zero; she is neutral",
+        "GM is -0.15 m; she is unstable and will not stay upright",
+        "GM is -0.15 m; she is stable but stiff"
+      ],
+      "correct_index": 2,
+      "explanation": "GM = 1.90 - 2.05 = -0.15 m. A negative GM means M is below G, so she is unstable and will loll or capsize. A tender or stiff vessel is still stable; neither word applies to a negative GM.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q03",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which equation correctly finds the height of G above the keel from a table of weights and heights?",
+      "options": [
+        "KG = total weight / total of (weight x height)",
+        "KG = KM + GM",
+        "KG = total of heights / number of items",
+        "KG = total of (weight x height) / total weight"
+      ],
+      "correct_index": 3,
+      "explanation": "Each item's moment is its weight x the height of its centre above the keel; the total moment divided by the total weight is the weighted average height of G. The inverted fraction is wrong, KG = KM + GM has the wrong sign (KG = KM - GM), and a plain average of heights ignores the weights.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q04",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An invented vessel's loading table: lightship 20 t at KG 1.80 m; fuel 3 t at 0.50 m; crew and gear 2 t at 2.40 m; deck cargo 5 t at 2.20 m. What is her KG?",
+      "options": [
+        "About 1.72 m",
+        "About 1.78 m",
+        "About 1.92 m",
+        "About 5.33 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Moments: 20 x 1.80 = 36.0; 3 x 0.50 = 1.5; 2 x 2.40 = 4.8; 5 x 2.20 = 11.0. Total moment = 53.3 t.m; total weight = 30 t; KG = 53.3 / 30 = 1.777 m, about 1.78 m. 1.72 m is the plain average of the four heights, which ignores the weights; 1.92 m leaves the fuel out of the table; 5.33 m divides by the 10 t of deadweight instead of the whole 30 t.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q05",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these does NOT affect a vessel's KM at a given draught?",
+      "options": [
+        "The hull shape",
+        "The draught",
+        "How the cargo is stowed",
+        "The breadth of the waterplane"
+      ],
+      "correct_index": 2,
+      "explanation": "KM comes from the hull and the draught (KB and BM). Stowing the same cargo higher or lower changes KG and therefore GM, but not KM.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q06",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessel will have the long, slow, lazy roll?",
+      "options": [
+        "A tender vessel, with a small GM",
+        "A stiff vessel, with a large GM",
+        "Any vessel with a negative KM",
+        "A vessel with a high freeboard"
+      ],
+      "correct_index": 0,
+      "explanation": "A small GM gives little push back to upright, so she hangs at the end of each roll and takes a long time to return: tender, long period. A large GM snaps her back with a short, sharp roll.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q07",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a very large GM not the goal?",
+      "options": [
+        "A large GM makes the vessel unstable",
+        "A large GM raises the centre of gravity",
+        "The vessel becomes stiff, with a short, violent roll that strains the vessel and lashings and is hard on crew and cargo",
+        "A large GM makes the vessel roll very slowly"
+      ],
+      "correct_index": 2,
+      "explanation": "Too much GM makes a stiff vessel with a short, jerky, high-acceleration roll. It is safe against capsizing but uncomfortable and hard on gear. It does not make her unstable or slow.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q08",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel leaves harbour with GM 0.45 m. After a few days she has burned fuel and water from low tanks, while the deck load stays aboard. What has probably happened to her GM, and why?",
+      "options": [
+        "It has fallen, because removing low weight raises KG while the high deck load stays",
+        "It has risen, because she is lighter",
+        "It is unchanged, because KM is fixed",
+        "It has risen, because KG falls as fuel is burned"
+      ],
+      "correct_index": 0,
+      "explanation": "Burning low fuel and water removes weight from below G, so G (KG) rises. The high deck load is unchanged, so GM falls. Being lighter changes KM somewhat but the main effect is the rise of KG. Always check stability in the worst condition of the trip.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "stability.metacentric-height.q09",
+      "lesson_id": "stability.metacentric-height",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does a vessel with negative GM do, as she settles?",
+      "options": [
+        "She settles upright with a slow roll",
+        "She trims by the bow",
+        "She lists to one side only, and stays there",
+        "She rests at an angle of loll, and may flop from one side to the other"
+      ],
+      "correct_index": 3,
+      "explanation": "With negative GM she cannot stay upright; as she heels the hull shape begins to help and she finds a balance at the angle of loll, which can be on either side. A one-sided lean that stays put is a list from G being off the centreline.",
+      "source_ids": [
+        "sixty-fao-ftp517-stability",
+        "stab-fao-ftp517-ch6-example",
+        "stab-mt4241-stability-trim",
+        "stab-wikipedia-metacentric-height"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
