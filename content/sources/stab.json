@@ -1,0 +1,136 @@
+{
+  "sources": [
+    {
+      "id": "stab-mt4241-stability-trim",
+      "title": "MT-4241 Stability and Trim (STCW 2001 course notes)",
+      "publisher": "weh.maritime.edu (maritime training course notes; institution not named on the page)",
+      "url": "https://weh.maritime.edu/stcw/2001/MT-4241.html",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Supports: for small angles of heel GZ = GM x sin(angle); righting moment = displacement x GZ (GZ is the righting lever); large GM = stiff, small GM = tender; with negative GM the ship settles at the angle of loll; listing moment = displacement x transverse distance of G from the centreline; tan(list) = transverse shift of G divided by GM; a free liquid surface gives a virtual rise of KG and a matching fall in GM that depends mainly on the breadth of the surface, not on the amount of liquid; a suspended weight acts at the point of suspension, so raising or moving that point moves G the same way. The page does not give GM = KM - KG, the shift formula for added weights or the free-surface formula."
+    },
+    {
+      "id": "stab-fao-ftp517-ch6-example",
+      "title": "FAO Fisheries Technical Paper 517, stability calculation example (document i0625e06)",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://fao.org/docrep/pdf/011/i0625e/i0625e06.pdf",
+      "edition": "2009; accessed 2026-10-07",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Supports: KG = total vertical moment (VMOM) divided by total mass; KM is read from the hydrostatic curves at the draught; GM = KM - KG; GZ is found from cross curves; the GZ curve is built from GZ at each angle of heel and areas under it are found by the trapezoidal rule or Simpson's rules; stability criteria include maximum GZ, the angle of maximum GZ, the angle where GZ exceeds a set value, GM and the angle of vanishing stability; small vessels may carry a stability notice, larger ones hydrostatic and cross curves."
+    },
+    {
+      "id": "stab-swos-dca-4-2",
+      "title": "Damage Control Training: Stability and Buoyancy, Lesson 4.2 Solid Weight Shifts, Additions and Removals",
+      "publisher": "US Navy Surface Warfare Officers School (US government work), hosted by the Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/navy/docs/swos/dca/stg4-02.html",
+      "edition": "Undated; accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "permitted",
+      "read_directly": false,
+      "notes": "Read via automated summariser (the equations are images on the page). Supports: a vertical shift of weight moves G in the same direction (up raises G); adding or removing weight uses the same equations as shifting it, with the sign set by add or remove; a transverse shift of G off the centreline always reduces stability and causes a list; the shift of G is weight times distance divided by the final displacement. The lesson uses its own units (feet, long tons) and invented numbers only."
+    },
+    {
+      "id": "stab-swos-dca-4-3",
+      "title": "Damage Control Training: Stability and Buoyancy, Lesson 4.3 Loose Water (free surface effect)",
+      "publisher": "US Navy Surface Warfare Officers School (US government work), hosted by the Federation of American Scientists",
+      "url": "https://man.fas.org/dod-101/navy/docs/swos/dca/stg4-03.html",
+      "edition": "Undated; accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "permitted",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Supports: free surface effect grows with the length and width of the compartment; it acts as a virtual rise of G; swash bulkheads hinder but do not prevent the flow of liquid from side to side. The page does not give the formula or the breadth-cubed rule."
+    },
+    {
+      "id": "stab-wikipedia-metacentric-height",
+      "title": "Metacentric height (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Metacentric_height",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Supports: small GM = tender (long roll period, lower amplitude), large GM = stiff (short period, high acceleration, uncomfortable, risk to cargo); the righting couple is proportional to GM times the sine of the heel angle for small angles (about 0 to 15 degrees); the free surface effect is proportional to the cube of the tank width and two baffles that divide a tank into thirds cut the effect by a factor of 9; low or negative GM raises capsize risk. Secondary evidence only."
+    },
+    {
+      "id": "stab-wikipedia-free-surface-effect",
+      "title": "Free surface effect (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Free_surface_effect",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Supports (qualitative only): a part-full tank or compartment slows the vessel's return to upright; it can become a feedback loop in heavy seas; keep compartments either nearly empty or full, use several smaller tanks and baffles; narrow compartments aligned bow to stern are better than wide ones. No formula on the page."
+    },
+    {
+      "id": "stab-wartsila-intact-criteria",
+      "title": "Intact stability criteria (Wartsila Encyclopedia of Marine and Energy Technology)",
+      "publisher": "Wartsila",
+      "url": "https://wartsila.com/encyclopedia/term/intact-stability-criteria",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read via automated summariser. Lists the 2008 IS Code general GZ-curve criteria for passenger and cargo ships built on or after 1 January 2010: area under GZ 0 to 30 degrees at least 0.055 m-rad; 0 to 40 degrees (or to the downflooding angle if less) at least 0.09 m-rad; 30 to 40 degrees at least 0.03 m-rad; GZ at 30 degrees or more at least 0.20 m; angle of maximum GZ preferably above 30 and not below 25 degrees; initial GM at least 0.15 m; plus a weather criterion. The page does not cite section numbers or say whether other vessel types use the same numbers. Not read in the IS Code itself, so treat the numbers as unverified."
+    },
+    {
+      "id": "stab-ecfr-46cfr28-510",
+      "title": "46 CFR 28.510 Definition of stability terms (commercial fishing industry vessels)",
+      "publisher": "US Government (eCFR; Cornell Legal Information Institute copy)",
+      "url": "https://www.law.cornell.edu/cfr/text/46/28.510",
+      "edition": "Accessed 2026-10-07",
+      "kind": "other",
+      "reproduction": "permitted",
+      "read_directly": false,
+      "notes": "Read via automated summariser. US regulation used only as evidence for plain-words definitions: downflooding is the entry of seawater through any opening into the hull or superstructure of an undamaged vessel; the downflooding angle is the angle of heel at which the first opening that cannot be closed weathertight goes under. Not Canadian law."
+    },
+    {
+      "id": "stab-svr-sor-2010-91-stability",
+      "title": "Small Vessel Regulations, SOR/2010-91: stability provisions, read from the XML",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-91.xml",
+      "edition": "Repository clone (updated 2026-09-28); read 2026-10-07",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read in the XML: s. 2 application (pleasure craft; passenger-carrying vessels of not more than 15 GT with not more than 12 passengers; workboats of not more than 15 GT; human-powered vessels); s. 401(1)(e) the passenger safety briefing covers the effect of the movement and grouping of passengers on the stability of the vessel; s. 601(2) the owner and operator of a vessel other than a pleasure craft must ensure it has adequate stability and structural strength to safely carry out its intended operations (Part 6 applies to vessels to which Part 7 does not apply); s. 710(2) and (3) the owner of a vessel other than a pleasure craft must inform the Minister of a major modification, which includes a change that affects watertight integrity or stability; s. 714 design must maintain watertight integrity and prevent downflooding; s. 716 stability of a vessel other than a pleasure craft must be adequate for its intended operations and the owner must demonstrate this when the Minister asks; s. 717 vessels built, rebuilt, imported or changed in use on or after April 1, 2005 (or with a changed operation or area after that date): stability of vessels of 6 m or less must meet the construction standards, longer vessels the construction standards or the recommended practices and standards."
+    },
+    {
+      "id": "stab-vcer-sor-2023-257-stability",
+      "title": "Vessel Certificates and Equipment Regulations, SOR/2023-257: stability provisions, read from the XML",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2023-257.xml",
+      "edition": "Repository clone (updated 2026-09-28); read 2026-10-07",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read in the XML: definition of the 2008 IS Code (annex to IMO Resolution MSC.267(85)); s. 101 a vessel must comply with Part B of the 2008 IS Code as modified by Canadian Modifications to the International Code on Intact Stability, 2008, TP 7301 (December 2023), and the recommendations are read as obligations; s. 102 damage stability for passenger vessels (TP 10943). Only the stability headings and sections were read; the application of these regulations to a particular vessel was not worked through, so the lesson describes them as the standard for larger certificated vessels and tells the learner to confirm applicability."
+    },
+    {
+      "id": "stab-fvsr-crc-1486-stability",
+      "title": "Fishing Vessel Safety Regulations, C.R.C., c. 1486: stability provisions (Part 3 Division 3 and s. 3.05), read from the XML",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.%2C_c._1486.xml",
+      "edition": "Repository clone (updated 2026-09-28); read 2026-10-07",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read in the XML: s. 3.05 no operation in a freezing spray warning area unless the stability assessment shows the vessel can operate safely in freezing spray, and the vessel must carry a means to remove accumulated ice; ss. 3.44 to 3.47 application and standards for existing and new vessels (6 m or less: TP 1332 section 4); s. 3.48 assessment needed for new vessels over 9 m, after a major modification, with an anti-roll tank, and a full assessment where fish in bulk or large tanks show free surface effect; s. 3.5 full assessment to the IS Code; s. 3.57 a competent person supplies a stability booklet (full) or record of stability (simplified) and a stability notice; s. 3.58 a copy is kept on board; s. 3.59 operate within safe operating limits; s. 3.6 notice posted and crew familiar; s. 3.61 written procedures; s. 3.62 permanent draft marks after a full assessment. Master, Limited is not a fishing certificate; used for comparison and for the booklet vocabulary."
+    },
+    {
+      "id": "stab-csa-2001-ss110-112",
+      "title": "Canada Shipping Act, 2001, ss. 110, 112 and 122, read from the XML",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/C-10.15.xml",
+      "edition": "Repository clone (updated 2026-09-28); read 2026-10-07",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read in the XML: s. 110(2) the master shall ensure the applicable load lines are not submerged; s. 112 the master of a Canadian vessel that meets subfreezing air temperatures associated with gale-force winds and causing severe ice accretion on the superstructure must give notice to vessels in the vicinity and the prescribed shore authorities (the same section covers dangerous ice, derelicts, tropical storms and force 10 or more with no storm warning); s. 122 a fine of up to $500,000 for each centimetre or part of a centimetre that a load line is submerged, or imprisonment up to 18 months, or both. This is an Act (kind set to regulation because the schema has no statute kind)."
+    }
+  ]
+}
