@@ -1,0 +1,269 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.materials.common-ship-materials.q01",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Steel is mainly an alloy of which two elements?",
+      "options": [
+        "Aluminium and carbon",
+        "Iron and zinc",
+        "Iron and carbon",
+        "Copper and tin"
+      ],
+      "correct_index": 2,
+      "explanation": "Steel is iron with a small, controlled amount of carbon.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q02",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Increasing the carbon content of a plain steel generally makes it:",
+      "options": [
+        "Easier to weld",
+        "More resistant to rust",
+        "Harder and stronger but less ductile",
+        "Softer and more ductile"
+      ],
+      "correct_index": 2,
+      "explanation": "More carbon raises hardness and strength but reduces ductility and weldability.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q03",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Brass is an alloy made mainly of:",
+      "options": [
+        "Iron and nickel",
+        "Copper and tin",
+        "Copper and zinc",
+        "Aluminium and lead"
+      ],
+      "correct_index": 2,
+      "explanation": "Brass is copper and zinc. Bronze is copper and tin.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q04",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which choice best describes a non-ferrous metal?",
+      "options": [
+        "A metal that is always magnetic",
+        "A metal that cannot corrode",
+        "Any metal used below the waterline",
+        "A metal that contains no significant iron"
+      ],
+      "correct_index": 3,
+      "explanation": "Non-ferrous metals (copper, aluminium, zinc, brass, bronze) are not iron-based.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q05",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Cast iron is a poor choice for a part that must absorb sharp shocks mainly because it is:",
+      "options": [
+        "Too ductile",
+        "Too soft to hold a shape",
+        "Magnetic",
+        "Brittle, so it cracks rather than bends"
+      ],
+      "correct_index": 3,
+      "explanation": "Cast iron has a high carbon content, which makes it hard but brittle. It takes compression well but cracks under shock. Being magnetic is irrelevant, and it is not soft or ductile.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q06",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "What does adding chromium do to steel?",
+      "options": [
+        "It makes the steel resist rust, giving stainless steel",
+        "It turns it into bronze",
+        "It makes it lighter",
+        "It makes it softer for welding"
+      ],
+      "correct_index": 0,
+      "explanation": "Chromium forms a thin protective film. Stainless steel is still not immune in stagnant seawater, but it resists ordinary rusting.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q07",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A small aluminium bracket is bolted to a large bronze fitting in seawater. What is most likely to happen?",
+      "options": [
+        "The bronze corrodes quickly",
+        "The aluminium corrodes quickly",
+        "The bolt gets stronger",
+        "Neither metal is affected"
+      ],
+      "correct_index": 1,
+      "explanation": "Aluminium is less noble than bronze, so in seawater it is the metal that wastes away. The bigger the difference between the metals, the faster the attack.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q08",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which description fits galvanic corrosion?",
+      "options": [
+        "Cracking caused by overheating",
+        "Two different metals in contact in an electrolyte such as seawater, with the less noble one wasting away",
+        "Rusting caused only by oxygen in dry air",
+        "Wear caused by sand in the cooling water"
+      ],
+      "correct_index": 1,
+      "explanation": "Galvanic corrosion needs two different metals and an electrolyte, which together act like a weak battery. Dry rusting, abrasion and cracking are different problems.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q09",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A sacrificial zinc anode on a propeller shaft has mostly wasted away. You should:",
+      "options": [
+        "Paint over it to protect it",
+        "Replace it, because it has done its job and no longer protects the shaft",
+        "Leave it until the shaft corrodes",
+        "Remove it and fit a steel one"
+      ],
+      "correct_index": 1,
+      "explanation": "Anodes are meant to corrode instead of the metal they protect. When they are mostly gone, replace them. Painting an anode stops it working, and steel is more noble than zinc so it would not protect anything.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q10",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Dezincification is a fault of:",
+      "options": [
+        "Rubber hoses in sunlight",
+        "Brass in seawater, where zinc leaches out and leaves weak porous copper",
+        "Cast iron under compression",
+        "Steel in dry air"
+      ],
+      "correct_index": 1,
+      "explanation": "Brass is copper and zinc. In seawater the zinc can be dissolved out, leaving a brittle copper structure that looks sound but can fail suddenly. That is why seawater fittings should be bronze.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q11",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Compared with steel, aluminium alloy used for a small vessel's hull is:",
+      "options": [
+        "Twice as heavy but cheaper",
+        "The same weight and more brittle",
+        "Heavier but stronger",
+        "About one third of the weight and does not rust"
+      ],
+      "correct_index": 3,
+      "explanation": "Aluminium has roughly one third the density of steel, which is why small fast craft use it. It needs care where it touches other metals in seawater.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.materials.common-ship-materials.q12",
+      "lesson_id": "machinery.materials.common-ship-materials",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pair correctly names ferrous and non-ferrous metals?",
+      "options": [
+        "Copper is ferrous and cast iron is non-ferrous",
+        "Aluminium is ferrous and steel is non-ferrous",
+        "Cast iron is ferrous and copper is non-ferrous",
+        "Brass is ferrous and steel is non-ferrous"
+      ],
+      "correct_index": 2,
+      "explanation": "Ferrous metals contain iron: steel and cast iron. Copper, brass, bronze and aluminium contain no significant iron.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

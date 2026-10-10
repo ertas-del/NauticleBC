@@ -1,0 +1,236 @@
+{
+  "3.1 Construction materials": {
+    "mock1": [
+      "machinery.materials.common-ship-materials.q10",
+      "machinery.materials.common-ship-materials.q03"
+    ],
+    "mock2": [
+      "machinery.materials.common-ship-materials.q05",
+      "machinery.materials.common-ship-materials.q07"
+    ]
+  },
+  "3.2 Recognising fire hazards": {
+    "mock1": [
+      "machinery.safety.fire-hazards-and-storage.q09",
+      "machinery.safety.fire-hazards-and-storage.q10",
+      "machinery.safety.fire-hazards-and-storage.q08"
+    ],
+    "mock2": [
+      "machinery.safety.fire-hazards-and-storage.q01",
+      "machinery.safety.fire-hazards-and-storage.q06",
+      "machinery.safety.fire-hazards-and-storage.q05"
+    ]
+  },
+  "3.3 Safety and fire equipment": {
+    "mock1": [
+      "machinery.safety.fire-and-watertight-equipment.q12",
+      "machinery.safety.fire-and-watertight-equipment.q01",
+      "machinery.safety.fire-and-watertight-equipment.q06"
+    ],
+    "mock2": [
+      "machinery.safety.fire-and-watertight-equipment.q08",
+      "machinery.safety.fire-and-watertight-equipment.q11",
+      "machinery.safety.fire-and-watertight-equipment.q04"
+    ]
+  },
+  "3.4 Safe working practices": {
+    "mock1": [
+      "machinery.safety.safe-working-practices.q02",
+      "machinery.safety.safe-working-practices.q03",
+      "machinery.safety.safe-working-practices.q06"
+    ],
+    "mock2": [
+      "machinery.safety.safe-working-practices.q13",
+      "machinery.safety.safe-working-practices.q11",
+      "machinery.safety.safe-working-practices.q09"
+    ]
+  },
+  "3.5 Pollution prevention": {
+    "mock1": [
+      "machinery.pollution.prevention-and-bunkering.q04",
+      "machinery.pollution.prevention-and-bunkering.q02",
+      "machinery.pollution.prevention-and-bunkering.q09"
+    ],
+    "mock2": [
+      "machinery.pollution.prevention-and-bunkering.q07",
+      "machinery.pollution.prevention-and-bunkering.q10",
+      "machinery.pollution.prevention-and-bunkering.q01"
+    ]
+  },
+  "3.6 Pumps": {
+    "mock1": [
+      "machinery.pumps.types-and-faults.q05",
+      "machinery.pumps.types-and-faults.q02",
+      "machinery.pumps.types-and-faults.q09"
+    ],
+    "mock2": [
+      "machinery.pumps.types-and-faults.q04",
+      "machinery.pumps.types-and-faults.q03",
+      "machinery.pumps.types-and-faults.q01"
+    ]
+  },
+  "3.7 Piping": {
+    "mock1": [
+      "machinery.piping.systems-and-precautions.q02",
+      "machinery.piping.systems-and-precautions.q08",
+      "machinery.piping.systems-and-precautions.q05"
+    ],
+    "mock2": [
+      "machinery.piping.systems-and-precautions.q04",
+      "machinery.piping.systems-and-precautions.q09",
+      "machinery.piping.systems-and-precautions.q03"
+    ]
+  },
+  "3.8 Power transmission": {
+    "mock1": [
+      "machinery.transmission.shafting-and-gearboxes.q07",
+      "machinery.transmission.shafting-and-gearboxes.q05",
+      "machinery.transmission.shafting-and-gearboxes.q06"
+    ],
+    "mock2": [
+      "machinery.transmission.shafting-and-gearboxes.q01",
+      "machinery.transmission.shafting-and-gearboxes.q02",
+      "machinery.transmission.shafting-and-gearboxes.q04"
+    ]
+  },
+  "3.9 Steering gear": {
+    "mock1": [
+      "machinery.steering.gear-and-checks.q07",
+      "machinery.steering.gear-and-checks.q04",
+      "machinery.steering.gear-and-checks.q08"
+    ],
+    "mock2": [
+      "machinery.steering.gear-and-checks.q05",
+      "machinery.steering.gear-and-checks.q03",
+      "machinery.steering.gear-and-checks.q06"
+    ]
+  },
+  "3.10 Underwater fittings": {
+    "mock1": [
+      "machinery.underwater.fittings.q01",
+      "machinery.underwater.fittings.q07",
+      "machinery.underwater.fittings.q03"
+    ],
+    "mock2": [
+      "machinery.underwater.fittings.q08",
+      "machinery.underwater.fittings.q09",
+      "machinery.underwater.fittings.q02"
+    ]
+  },
+  "3.11 Deck machinery": {
+    "mock1": [
+      "machinery.deck.deck-machinery.q08",
+      "machinery.deck.deck-machinery.q03",
+      "machinery.deck.deck-machinery.q09"
+    ],
+    "mock2": [
+      "machinery.deck.deck-machinery.q05",
+      "machinery.deck.deck-machinery.q01",
+      "machinery.deck.deck-machinery.q06"
+    ]
+  },
+  "3.12 Fuels": {
+    "mock1": [
+      "machinery.fuels.storage-and-contamination.q06",
+      "machinery.fuels.storage-and-contamination.q07",
+      "machinery.fuels.storage-and-contamination.q05"
+    ],
+    "mock2": [
+      "machinery.fuels.storage-and-contamination.q01",
+      "machinery.fuels.storage-and-contamination.q10",
+      "machinery.fuels.storage-and-contamination.q03"
+    ]
+  },
+  "3.13 Lubricants": {
+    "mock1": [
+      "machinery.lubricants.oils-and-handling.q04",
+      "machinery.lubricants.oils-and-handling.q10",
+      "machinery.lubricants.oils-and-handling.q01"
+    ],
+    "mock2": [
+      "machinery.lubricants.oils-and-handling.q09",
+      "machinery.lubricants.oils-and-handling.q05",
+      "machinery.lubricants.oils-and-handling.q02"
+    ]
+  },
+  "3.14 Cooling systems": {
+    "mock1": [
+      "machinery.cooling.fresh-and-raw-water.q02",
+      "machinery.cooling.fresh-and-raw-water.q01",
+      "machinery.cooling.fresh-and-raw-water.q07"
+    ],
+    "mock2": [
+      "machinery.cooling.fresh-and-raw-water.q06",
+      "machinery.cooling.fresh-and-raw-water.q05",
+      "machinery.cooling.fresh-and-raw-water.q08"
+    ]
+  },
+  "3.15 Electricity": {
+    "mock1": [
+      "machinery.electrical.basics-and-meters.q01",
+      "machinery.electrical.protection-and-distribution.q11",
+      "machinery.electrical.batteries.q03",
+      "machinery.electrical.basics-and-meters.q03",
+      "machinery.electrical.protection-and-distribution.q02"
+    ],
+    "mock2": [
+      "machinery.electrical.batteries.q08",
+      "machinery.electrical.basics-and-meters.q08",
+      "machinery.electrical.protection-and-distribution.q05",
+      "machinery.electrical.batteries.q06",
+      "machinery.electrical.basics-and-meters.q04"
+    ]
+  },
+  "3.16 Hydraulic systems": {
+    "mock1": [
+      "machinery.hydraulics.systems.q03",
+      "machinery.hydraulics.systems.q09",
+      "machinery.hydraulics.systems.q05"
+    ],
+    "mock2": [
+      "machinery.hydraulics.systems.q06",
+      "machinery.hydraulics.systems.q04",
+      "machinery.hydraulics.systems.q02"
+    ]
+  },
+  "3.17 Pneumatic systems": {
+    "mock1": [
+      "machinery.pneumatics.compressors-and-receivers.q06",
+      "machinery.pneumatics.compressors-and-receivers.q07",
+      "machinery.pneumatics.compressors-and-receivers.q03"
+    ],
+    "mock2": [
+      "machinery.pneumatics.compressors-and-receivers.q01",
+      "machinery.pneumatics.compressors-and-receivers.q08",
+      "machinery.pneumatics.compressors-and-receivers.q10"
+    ]
+  },
+  "3.18 Internal combustion engines": {
+    "mock1": [
+      "machinery.engines.how-a-diesel-works.q01",
+      "machinery.engines.how-a-diesel-works.q06",
+      "machinery.engines.how-a-diesel-works.q08",
+      "machinery.engines.how-a-diesel-works.q05",
+      "machinery.engines.how-a-diesel-works.q02"
+    ],
+    "mock2": [
+      "machinery.engines.start-run-and-faults.q06",
+      "machinery.engines.start-run-and-faults.q08",
+      "machinery.engines.start-run-and-faults.q01",
+      "machinery.engines.start-run-and-faults.q02",
+      "machinery.engines.start-run-and-faults.q04"
+    ]
+  },
+  "3.19 Watchkeeping procedures": {
+    "mock1": [
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q02",
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q10",
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q08"
+    ],
+    "mock2": [
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q13",
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q06",
+      "machinery.watchkeeping.rounds-logs-and-emergencies.q11"
+    ]
+  }
+}

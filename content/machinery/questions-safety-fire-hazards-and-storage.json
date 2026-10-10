@@ -1,0 +1,247 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q01",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The flash point of a fuel is the:",
+      "options": [
+        "Temperature at which it boils",
+        "Temperature at which it freezes",
+        "Lowest temperature at which it gives off enough vapour to ignite briefly when a flame is present",
+        "Temperature at which it burns without any ignition source"
+      ],
+      "correct_index": 2,
+      "explanation": "A low flash point means vapour can ignite at ordinary temperatures.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q02",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Diesel is preferred to gasoline aboard vessels mainly because diesel:",
+      "options": [
+        "Burns without needing air",
+        "Costs less in every region",
+        "Has a higher flash point and gives off less explosive vapour",
+        "Never needs filtering"
+      ],
+      "correct_index": 2,
+      "explanation": "Higher flash point makes diesel much safer to store and handle on a vessel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q03",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Oily rags left in a pile in a warm space are dangerous because they can:",
+      "options": [
+        "Heat up and ignite on their own",
+        "Block bilge suction",
+        "Attract rodents",
+        "Corrode the deck plating"
+      ],
+      "correct_index": 0,
+      "explanation": "Oxidising oil generates heat that can lead to spontaneous combustion. Store rags in a closed metal container.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q04",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which fire class involves flammable liquids such as fuel and oil?",
+      "options": [
+        "Class C",
+        "Class B",
+        "Class D",
+        "Class A"
+      ],
+      "correct_index": 1,
+      "explanation": "A is ordinary combustibles, B is flammable liquids and gases such as fuel and oil, C is live electrical equipment and D is combustible metals. Fuel and oil are Class B.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q05",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Fuel tank vent outlets are fitted with fine wire mesh mainly to:",
+      "options": [
+        "Stop fuel overflowing",
+        "Keep dirt out of the fuel",
+        "Stop flame from entering the tank",
+        "Reduce fuel evaporation"
+      ],
+      "correct_index": 2,
+      "explanation": "The mesh acts as a flame arrester.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q06",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The three sides of the fire triangle are:",
+      "options": [
+        "Fuel, heat and oxygen",
+        "Heat, spark and gas",
+        "Oil, air and electricity",
+        "Fuel, smoke and water"
+      ],
+      "correct_index": 0,
+      "explanation": "Remove any one side and the fire goes out. Cooling removes heat, smothering removes oxygen, and shutting a fuel valve removes fuel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q07",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A fire in a live switchboard is classed as:",
+      "options": [
+        "Class D",
+        "Class C",
+        "Class A",
+        "Class B"
+      ],
+      "correct_index": 1,
+      "explanation": "Class C is live electrical equipment. Class A is ordinary combustibles, B is flammable liquids and gases, and D is combustible metals.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q08",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Why must you run the bilge blower before starting an inboard gasoline engine?",
+      "options": [
+        "It dries the bilge",
+        "It warms the fuel for easy starting",
+        "Gasoline vapour is lighter than air and floats to the deckhead",
+        "Gasoline vapour is heavier than air and collects in the bilge, where a spark could ignite it"
+      ],
+      "correct_index": 3,
+      "explanation": "Gasoline and LPG vapour sink and pool low. Ventilating and checking by smell removes the explosive mixture before the starter sparks.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q09",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "You find fuel dripping from a hose onto a hot exhaust manifold. The most appropriate first action is to:",
+      "options": [
+        "Leave it until the end of the watch",
+        "Stop the engine and fix the leak after it cools",
+        "Wipe it with a rag and carry on",
+        "Spray water on the manifold"
+      ],
+      "correct_index": 1,
+      "explanation": "Fuel on a hot surface is one of the commonest causes of engine-room fires. Stop the source, let the engine cool, repair, clean up, and log it. Water on a hot manifold can crack it.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q10",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Why must a space where batteries are charging be ventilated?",
+      "options": [
+        "Charging gives off carbon monoxide only",
+        "The acid evaporates and clogs the vents",
+        "Charging gives off hydrogen, which is explosive",
+        "Batteries need cool air to hold their charge"
+      ],
+      "correct_index": 2,
+      "explanation": "Hydrogen is released during charging and can form an explosive mixture in a closed space. Keep sparks and flames away.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.fire-hazards-and-storage.q11",
+      "lesson_id": "machinery.safety.fire-hazards-and-storage",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "How should a propane or welding gas cylinder be stored aboard?",
+      "options": [
+        "Wedged in a closed locker with the valve open",
+        "Secured upright with the valve closed, in a ventilated place away from heat",
+        "Next to the engine for warmth",
+        "Lying loose in the bilge"
+      ],
+      "correct_index": 1,
+      "explanation": "Cylinders are secured against movement, kept upright and shut off, with ventilation so leaked gas cannot pool. Keep oil and grease off oxygen fittings.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

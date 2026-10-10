@@ -1,0 +1,20 @@
+{
+  "id": "mock.svmo-practice-1",
+  "title": "SVMO practice exam 1",
+  "ticket": "svmo",
+  "question_count": 60,
+  "time_limit_minutes": 120,
+  "pass_mark_percent": 70,
+  "blueprint": [
+    {
+      "module": "machinery",
+      "count": 60
+    }
+  ],
+  "notes": "Practice format, not the official exam. Shape: 60 multiple-choice questions with four options and a 2 hour limit, from TP 2293 Chapter 33.3 (2016 edition). The pass mark is NOT stated in TP 14814E or TP 2293 Chapter 33; 70 per cent is our own placeholder (most Transport Canada written exams pass at 70 per cent) and must be confirmed with Transport Canada. The mock-exam schema can only name modules, so the blueprint is a single machinery entry. The intended topic weighting follows the 19 TP 14814E topics, about 3 questions each, with 2 for materials and 5 each for electricity and internal combustion engines (which span several lessons). The exact question ids planned for each topic are in docs/svmo-mock-draw.json, split so that practice 1 and practice 2 share no question. Until the schema or app can pin question ids, a random draw from the machinery bank will not guarantee that split or the weighting. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
+  "source_ids": [
+    "tp14814e",
+    "tp2293-2016"
+  ],
+  "review_status": "needs_expert_review"
+}
