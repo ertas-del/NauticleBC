@@ -1,0 +1,257 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.navigation-safety-calls.q01",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long may a navigation safety call last?",
+      "options": [
+        "No more than one minute",
+        "30 seconds",
+        "Two minutes",
+        "As long as needed"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 253(3) limits the call to one minute and to essential information.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q02",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In what order must the content of the call be given?",
+      "options": [
+        "Location, identity, speed, status, action",
+        "Status, identity, destination, cargo, crew",
+        "Intended action, identity, status, location, speed",
+        "Identity, location, intended action, present course and speed, status"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 253(3)(a) to (e) sets the sequence: identity, location, intended course of action, present course and speed, then status where applicable.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q03",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel departs from a berth. When must the navigation safety call(s) be made?",
+      "options": [
+        "Only after leaving",
+        "Once, 5 minutes before",
+        "15 minutes before and again immediately before departure",
+        "Only when leaving a booming ground"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 253(2) requires two calls for departure.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q04",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a circumstance requiring a call?",
+      "options": [
+        "Starting the engine",
+        "Nearing a bend where an approaching vessel cannot be seen",
+        "Taking on fuel",
+        "Changing watch"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 253(1)(e) lists nearing a bend or obstruction around which an approaching vessel cannot be seen.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q05",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel in a narrow channel is about to overtake another. What does NSR 2020 require?",
+      "options": [
+        "A navigation safety call",
+        "Nothing, only whistle signals apply",
+        "A DSC distress alert",
+        "A call only after the overtaking"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 253(1)(c). The call does not replace the whistle signals.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q06",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which of these is a status that the call may include?",
+      "options": [
+        "Taking on fuel",
+        "Bunkering at a wharf",
+        "Under sail with no engine",
+        "At anchor"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 253(3)(e) lists towing, not under command, restricted in ability to manoeuvre, fishing other than trolling, constrained by draft, pilotage, at anchor and aground.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q07",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A towboat manoeuvres around a booming ground, will not impede others, and calls 15 minutes before its final departure. What does s. 253(4) say about the other two calls?",
+      "options": [
+        "It must also call immediately before each manoeuvre",
+        "It must make three calls",
+        "It need not make the dredge-approach or departure calls",
+        "The exemption does not exist"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 253(4)(a) exempts such a towboat from the calls under (1)(i) and (j).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q08",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two vessels agree by radio on a passing arrangement that breaks a steering and sailing rule. What governs?",
+      "options": [
+        "The radio agreement",
+        "The Collision Regulations still apply and whistle signals are still sounded",
+        "The faster vessel's choice",
+        "The Coast Guard centre"
+      ],
+      "correct_index": 1,
+      "explanation": "NSR 2020 s. 251: the radio rules do not relieve a vessel of its obligation to sound whistle signals or allow a breach of the steering and sailing rules.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q09",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In restricted visibility a vessel approaches a ferry route. Is a call required?",
+      "options": [
+        "Yes, approaching a charted route (including a ferry route) in restricted visibility",
+        "No, only in clear weather",
+        "Only for a vessel over 20 m",
+        "Only if a ferry is seen"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 253(1)(f).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q10",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Who makes the call if the person making it is not in charge of the deck watch?",
+      "options": [
+        "No one needs to be told",
+        "Only the master is told at handover",
+        "They must repeat the call twice",
+        "They must tell the person in charge without delay"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 250(2).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q11",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On which channel is the navigation safety call made by a vessel outside a BC traffic zone?",
+      "options": [
+        "Channel 70",
+        "Channel 21B",
+        "Channel 16",
+        "Channel 6"
+      ],
+      "correct_index": 2,
+      "explanation": "Schedule 4 item 2(a) names Channel 16 outside a traffic zone; inside a zone it is the appropriate VHF channel.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.navigation-safety-calls.q12",
+      "lesson_id": "radio.navigation-safety-calls",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You make a call but you are not the person in charge of the deck watch. What does s. 250(2) require?",
+      "options": [
+        "Nothing",
+        "You tell the person in charge of the deck watch without delay",
+        "You repeat it on Channel 70",
+        "You tell the master at handover"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 250(2). Also, a vessel in doubt about another vessel's actions or intentions must call (s. 253(1)(d)).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

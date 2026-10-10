@@ -1,0 +1,283 @@
+{
+  "module": "radio",
+  "questions": [
+    {
+      "id": "radio.epirb-sart-plb.q01",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What frequency band do EPIRBs and PLBs use?",
+      "options": [
+        "406 MHz",
+        "156.8 MHz",
+        "518 kHz",
+        "9 GHz"
+      ],
+      "correct_index": 0,
+      "explanation": "NSR 2020 s. 200 defines both as operating in the 406 MHz band.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q02",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does a radar SART do?",
+      "options": [
+        "Sends a satellite alert",
+        "Broadcasts on Channel 16",
+        "Records the voyage",
+        "Responds to a rescuer's 9 GHz X-band radar so survivors can be pinpointed"
+      ],
+      "correct_index": 3,
+      "explanation": "A SART is a locating device, a secondary device; the EPIRB is the primary alert.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-wiki-sart",
+        "rmet-jotron-epirb-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q03",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "How does a radar SART appear on a rescuer's radar within about 8 nautical miles?",
+      "options": [
+        "As a single steady echo",
+        "As a flashing red spot",
+        "As a line of 12 dots, becoming arcs then circles within about 1 nm",
+        "As a circle that grows"
+      ],
+      "correct_index": 2,
+      "explanation": "Wikipedia describes 12 dots about 0.64 nm apart, with arcs and circles close in.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-wiki-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q04",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A float-free EPIRB is required on:",
+      "options": [
+        "any pleasure craft",
+        "a vessel on a near coastal voyage Class 1 or an unlimited voyage",
+        "any vessel under 8 m",
+        "a vessel in sheltered waters only"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 209(1)(a); also a vessel over 12 m on an inland or Class 2 voyage.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q05",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 10 m vessel on a near coastal Class 2 voyage may carry which of these instead of a float-free EPIRB?",
+      "options": [
+        "A manual EPIRB or a PLB",
+        "A SART only",
+        "A flashlight",
+        "A handheld GPS"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 209(3) lets a vessel of 12 m or less on Class 2 or inland carry a float-free EPIRB, manual EPIRB, PLB, or (under 8 m, A1 only) a waterproof DSC handheld.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q06",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Where must a manual EPIRB, PLB or DSC handheld used under s. 209(3) be kept?",
+      "options": [
+        "Locked in the engine room",
+        "In the chart table",
+        "With the passengers",
+        "Worn by the person in charge of the navigational watch, or stowed ready for abandonment"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 209(4).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q07",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How soon must a change be entered in the Canadian Beacon Registry?",
+      "options": [
+        "Within 24 hours",
+        "Within a year",
+        "Within 30 days",
+        "Before the next test"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 228(2).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q08",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How often must an EPIRB, PLB or SART be inspected and tested by a radio operator?",
+      "options": [
+        "Once a year",
+        "On installation and at least every six months",
+        "Every month",
+        "Only after use"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 239 (except beacons stowed in an inflatable life raft).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q09",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which beacon is the primary alert device and which is secondary?",
+      "options": [
+        "EPIRB is primary; SART is secondary",
+        "SART is primary; EPIRB is secondary",
+        "Both are primary",
+        "Both are secondary"
+      ],
+      "correct_index": 0,
+      "explanation": "The EPIRB alerts the rescue system; the SART helps rescuers locate survivors.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-jotron-epirb-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q10",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 208 require for one of the SARTs on board?",
+      "options": [
+        "It must be sealed in the raft",
+        "It must be tested daily",
+        "It must be kept ashore",
+        "It must be stowed so it is readily accessible for immediate use on board"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 208.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q11",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An EPIRB battery must be replaced when:",
+      "options": [
+        "only at the six-month test",
+        "only after a sale",
+        "after use in an emergency, after inadvertent activation, as a test requires, or by its expiry date",
+        "never, if it works"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 230(2).",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q12",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "An EPIRB sends a 406 MHz signal to satellites. What is its 121.5 MHz signal for?",
+      "options": [
+        "Voice calls to MCTS",
+        "A homing signal for the final approach",
+        "DSC calls",
+        "Charging the battery"
+      ],
+      "correct_index": 1,
+      "explanation": "Jotron describes 406 MHz for the distress signal and 121.5 MHz for homing.",
+      "source_ids": [
+        "rmet-nsr-2020-xml",
+        "rmet-jotron-epirb-sart"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "radio.epirb-sart-plb.q13",
+      "lesson_id": "radio.epirb-sart-plb",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which is a requirement for a float-free EPIRB under s. 209(2)?",
+      "options": [
+        "It must float free if the vessel sinks and be able to be released by hand and carried into a survival craft",
+        "It must be bolted to the mast",
+        "It must be switched off at sea",
+        "It must be stowed in the engine room"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 209(2)(a) to (c) also requires it to be readily accessible near the navigating position unless it can be activated remotely from there.",
+      "source_ids": [
+        "rmet-nsr-2020-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

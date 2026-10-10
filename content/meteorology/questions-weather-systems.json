@@ -1,0 +1,275 @@
+{
+  "module": "meteorology",
+  "questions": [
+    {
+      "id": "meteorology.weather-systems.q01",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In the Northern Hemisphere, which way does the wind circulate around a low-pressure centre?",
+      "options": [
+        "Counterclockwise and inward",
+        "Clockwise and inward",
+        "Clockwise and outward",
+        "Counterclockwise and outward"
+      ],
+      "correct_index": 0,
+      "explanation": "Air converges and rises around a low, turning counterclockwise. Highs are clockwise and outward.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q02",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which weather goes with a high-pressure centre?",
+      "options": [
+        "Strong wind and heavy rain",
+        "Fronts and squall lines",
+        "Gale warnings",
+        "Light wind, clear skies and fair weather"
+      ],
+      "correct_index": 3,
+      "explanation": "Lows bring cloud, precipitation, fronts and strong wind. Highs bring light wind and clear skies.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q03",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "On a weather map in the Northern Hemisphere, where is the low relative to the wind direction?",
+      "options": [
+        "On the right of the wind",
+        "Directly ahead of the wind",
+        "On the left of the wind",
+        "Directly behind the wind"
+      ],
+      "correct_index": 2,
+      "explanation": "Wind blows nearly parallel to the isobars with low pressure on its left; surface friction turns it slightly toward the low.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q04",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Isobars are close together on a chart. What does that mean?",
+      "options": [
+        "Light wind",
+        "Strong wind",
+        "A stationary front",
+        "No pressure gradient"
+      ],
+      "correct_index": 1,
+      "explanation": "A larger pressure gradient (isobars closer) gives stronger wind.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q05",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You stand with your back to the wind off BC. By Buys Ballot's law, where is the low?",
+      "options": [
+        "On your left",
+        "On your right",
+        "Ahead of you",
+        "Directly behind you"
+      ],
+      "correct_index": 0,
+      "explanation": "In the Northern Hemisphere with your back to the wind, low pressure is on your left. It is an approximation near the surface.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams",
+        "rmet-skybrary-buys-ballot"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q06",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which statement about Buys Ballot's law is correct?",
+      "options": [
+        "It gives an exact bearing to the low",
+        "It works best at the equator",
+        "It applies only to cold fronts",
+        "It is only approximate near the surface because friction turns the wind toward low pressure"
+      ],
+      "correct_index": 3,
+      "explanation": "Friction makes the angle less than 90 degrees at the surface and the law fails near the equator.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams",
+        "rmet-skybrary-buys-ballot"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q07",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is average sea level pressure in kPa, and how many hPa is 1 kPa?",
+      "options": [
+        "About 90 kPa; 1 kPa is 1 hPa",
+        "About 130 kPa; 1 kPa is 100 hPa",
+        "About 101.3 kPa; 1 kPa is 10 hPa (10 mb)",
+        "About 101.3 hPa; 1 kPa is 1 mb"
+      ],
+      "correct_index": 2,
+      "explanation": "Average pressure is about 101.3 kPa (1013 hPa). Highs are near 103 kPa and lows near 100 kPa.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q08",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The barometer has been falling steadily. What does this suggest?",
+      "options": [
+        "A high is approaching with fair weather",
+        "A low or front is approaching with worsening weather",
+        "Nothing; it is normal",
+        "The wind will fall to calm"
+      ],
+      "correct_index": 1,
+      "explanation": "A falling barometer signals an approaching low or front.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q09",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which weather is typical of a cold front?",
+      "options": [
+        "Showers, squalls or thunderstorms along or ahead of it, with colder air behind",
+        "Steady drizzle for a day ahead of it, warmer air behind",
+        "Clear skies and no wind",
+        "Fog only"
+      ],
+      "correct_index": 0,
+      "explanation": "Cold fronts can bring thunderstorms and squall lines. Warm fronts bring broad cloud and drizzle ahead of them.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q10",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "As a cold front passes in the Northern Hemisphere, the wind typically:",
+      "options": [
+        "backs, shifting counterclockwise",
+        "stays the same",
+        "drops to zero for a day",
+        "veers, shifting clockwise from southwest toward northwest"
+      ],
+      "correct_index": 3,
+      "explanation": "Wikipedia gives a veer from southwest to northwest, with pressure rising sharply and temperature dropping.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams",
+        "rmet-wiki-cold-front"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q11",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How often do winter lows arrive on the BC coast, and what state are they in?",
+      "options": [
+        "Once a month, rapidly developing",
+        "Daily, always stationary",
+        "Every 1 to 4 days, mostly occluded and weakening",
+        "Only in summer, as thunderstorms"
+      ],
+      "correct_index": 2,
+      "explanation": "UBC ATSC 113 says lows come every 1 to 4 days; many form far out in the Pacific and occlude before reaching the Gulf of Alaska and BC.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams",
+        "rmet-ubc-9f-anomalies"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.weather-systems.q12",
+      "lesson_id": "meteorology.weather-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does the technical marine synopsis give?",
+      "options": [
+        "Wave heights only",
+        "The position and movement of the main lows, highs and fronts",
+        "Tide tables",
+        "A list of buoys"
+      ],
+      "correct_index": 1,
+      "explanation": "It opens with 'Systems position' and describes significant weather systems and their movement.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting",
+        "rmet-ubc-9b-jetstreams",
+        "rmet-eccc-guide-forecasts",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

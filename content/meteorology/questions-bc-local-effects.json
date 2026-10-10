@@ -1,0 +1,296 @@
+{
+  "module": "meteorology",
+  "questions": [
+    {
+      "id": "meteorology.bc-local-effects.q01",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is an outflow wind in a BC inlet?",
+      "options": [
+        "Air flowing out of the mountains down the inlet toward the water",
+        "Air flowing from the water into the inlet",
+        "A wind blowing from the south only",
+        "A wind caused by fog"
+      ],
+      "correct_index": 0,
+      "explanation": "An inflow is air from the water into inlets; an outflow is air from the mountains toward the water.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q02",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which outflow is typically very strong?",
+      "options": [
+        "Summer inflow",
+        "Spring land breeze only",
+        "Fog-driven wind",
+        "Winter outflow from cold interior air"
+      ],
+      "correct_index": 3,
+      "explanation": "Winter outflows are very strong; summer outflows at night can be strong and hazardous; summer inflows are usually not strong.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q03",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Outflows can make strong wind and rough water where?",
+      "options": [
+        "Only far offshore",
+        "At the head of every bay",
+        "At the inlet mouth, while nearby coastal water stays calm",
+        "Nowhere"
+      ],
+      "correct_index": 2,
+      "explanation": "UBC notes outflows can create strong winds and rough seas at the mouth while nearby coastal waters remain calm.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q04",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In Howe Sound in summer, the Squamish wind outflow occurs overnight and early morning. What happens around noon?",
+      "options": [
+        "It becomes a gale",
+        "It switches to an afternoon inflow",
+        "It stops forever",
+        "It reverses to a land breeze"
+      ],
+      "correct_index": 1,
+      "explanation": "The switch from morning outflow to afternoon inflow is described by UBC.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q05",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "The Qualicum wind outflow into the Strait of Georgia runs about:",
+      "options": [
+        "16 to 20 knots, against 2 to 8 knots elsewhere in the strait",
+        "2 to 8 knots everywhere",
+        "40 to 50 knots",
+        "1 to 3 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "UBC gives those figures.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q06",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which conditions make a sea breeze?",
+      "options": [
+        "A deep low and a gale",
+        "Cold land and warm water in winter",
+        "Heavy fog",
+        "Sun-heated land at least about 5 C warmer than the water, high pressure and weak regional wind"
+      ],
+      "correct_index": 3,
+      "explanation": "A sea breeze is strongest from midday to mid-afternoon.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog",
+        "rmet-ubc-10a-local-winds"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q07",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What forms advection (sea) fog?",
+      "options": [
+        "Cold air over warm water",
+        "Rain evaporating on land at night",
+        "Warm humid air moving over cooler water and cooling past its dew point",
+        "Smoke from fires"
+      ],
+      "correct_index": 2,
+      "explanation": "Cold air over warm water makes sea smoke, which is short-lived and not a navigation hazard.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q08",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which pair of statements about fog is correct?",
+      "options": [
+        "Radiation fog forms at sea at noon; sea smoke is the main hazard",
+        "Radiation fog forms over land at night and can drain onto the water; sea smoke is not a navigation hazard",
+        "Frontal fog is the same as sea smoke",
+        "Advection fog forms only in winter"
+      ],
+      "correct_index": 1,
+      "explanation": "Advection fog is the main sea fog and can occur at any time of year.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q09",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What helps fog clear?",
+      "options": [
+        "Daytime warming or stronger wind that mixes it with drier air",
+        "Falling pressure",
+        "Lower temperature",
+        "Calm wind"
+      ],
+      "correct_index": 0,
+      "explanation": "UBC lists sunlight warming the air and stronger wind mixing in drier air.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q10",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Swell is best described as:",
+      "options": [
+        "waves made by the local wind",
+        "waves made only by tidal races",
+        "waves caused by fog",
+        "waves made by distant storms that travel long distances"
+      ],
+      "correct_index": 3,
+      "explanation": "Local wind on swell makes a confused sea; a longer period means more energy.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog",
+        "rmet-ubc-8d-swell"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q11",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Why does wind against a tidal current give worse seas?",
+      "options": [
+        "It lowers the waves",
+        "It calms the surface",
+        "The moving water shortens and steepens the wind waves into choppy confused seas",
+        "It raises the water temperature"
+      ],
+      "correct_index": 2,
+      "explanation": "The seas feel worse than the wind alone suggests.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog",
+        "rmet-predictwind-wind-against-current"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q12",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A tide turns in a pass and the wind stays the same. What can happen?",
+      "options": [
+        "Nothing changes",
+        "Waves can build quickly with no change in wind",
+        "Seas always flatten",
+        "The wind drops to calm"
+      ],
+      "correct_index": 1,
+      "explanation": "A turning tide can build a flat windy channel into rolling waves.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.bc-local-effects.q13",
+      "lesson_id": "meteorology.bc-local-effects",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is true of Sechelt (Skookumchuk) Rapids?",
+      "options": [
+        "Flows can reach up to 17.6 knots",
+        "Flows never exceed 2 knots",
+        "They are always safe",
+        "They are in Haro Strait"
+      ],
+      "correct_index": 0,
+      "explanation": "UBC gives up to 17.6 knots; some passes are navigable at slack but not at peak flow.",
+      "source_ids": [
+        "rmet-ubc-10b-inflows-outflows",
+        "rmet-ubc-10e-upwelling-fog",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

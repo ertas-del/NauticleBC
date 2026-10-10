@@ -1,0 +1,274 @@
+{
+  "module": "meteorology",
+  "questions": [
+    {
+      "id": "meteorology.wind-and-beaufort.q01",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A wind of 30 knots is which Beaufort force?",
+      "options": [
+        "Force 7 (near gale)",
+        "Force 6",
+        "Force 8",
+        "Force 5"
+      ],
+      "correct_index": 0,
+      "explanation": "Force 7 is 28 to 33 knots. Force 6 is 22 to 27 and force 8 is 34 to 40.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q02",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which force and name correspond to 11 to 16 knots?",
+      "options": [
+        "Force 3, gentle breeze",
+        "Force 5, fresh breeze",
+        "Force 6, strong breeze",
+        "Force 4, moderate breeze"
+      ],
+      "correct_index": 3,
+      "explanation": "Force 3 is 7 to 10, force 4 is 11 to 16, force 5 is 17 to 21.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q03",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 52-knot wind is which force?",
+      "options": [
+        "Force 9",
+        "Force 11",
+        "Force 10 (storm)",
+        "Force 12"
+      ],
+      "correct_index": 2,
+      "explanation": "Force 10 is 48 to 55 knots. Force 11 starts at 56 and force 12 at 64.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q04",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which Beaufort forces fall inside an Environment Canada gale warning?",
+      "options": [
+        "Forces 6 and 7",
+        "Forces 8 and 9",
+        "Forces 10 and 11",
+        "Force 12"
+      ],
+      "correct_index": 1,
+      "explanation": "A gale warning is 34 to 47 knots: force 8 (34 to 40) and force 9 (41 to 47).",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q05",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A forecast says 'southeast 25 knots'. What is the force and what is the speed in km/h to the nearest whole number?",
+      "options": [
+        "Force 6; about 46 km/h",
+        "Force 5; about 40 km/h",
+        "Force 7; about 60 km/h",
+        "Force 6; about 25 km/h"
+      ],
+      "correct_index": 0,
+      "explanation": "25 is in 22 to 27, so force 6. 25 x 1.85 = 46.25 km/h.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q06",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A forecast wind direction of 'northwest' means:",
+      "options": [
+        "the wind blows toward the northwest",
+        "from the northwest, relative to magnetic north",
+        "northwest of the vessel's heading",
+        "the wind blows from the northwest, relative to true north"
+      ],
+      "correct_index": 3,
+      "explanation": "ECCC states direction is where the wind blows from, relative to true north.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q07",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "When does a marine forecast state gusts?",
+      "options": [
+        "Whenever the wind exceeds force 6",
+        "Only in gale warnings",
+        "When the mean wind is expected to rise by 10 knots or more for short periods",
+        "Never, they are left out"
+      ],
+      "correct_index": 2,
+      "explanation": "The guide states gusts for 10 knots or more above the mean, and warning categories use the mean wind only.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q08",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which three factors together make big waves?",
+      "options": [
+        "Tide, depth and moon phase",
+        "Wind speed, fetch and duration",
+        "Temperature, humidity and cloud",
+        "Swell, current and fog"
+      ],
+      "correct_index": 1,
+      "explanation": "UBC: it takes all three together; slow wind makes small waves however long the fetch.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts",
+        "rmet-ubc-8a-wave-formation"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q09",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Approximately what wave height does the UBC table give for force 8?",
+      "options": [
+        "About 18 to 25 ft (5.5 to 7.6 m)",
+        "About 1 to 4 ft",
+        "About 8 to 13 ft",
+        "About 29 to 41 ft"
+      ],
+      "correct_index": 0,
+      "explanation": "Force 6 is 8 to 13 ft, force 8 is 18 to 25 ft and force 10 is 29 to 41 ft.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts",
+        "rmet-ubc-8e-beaufort"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q10",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is significant wave height?",
+      "options": [
+        "The height of the single largest wave",
+        "The average of all waves",
+        "The height of the swell only",
+        "The average of the highest one-third of the waves, in metres; the maximum may be up to twice that"
+      ],
+      "correct_index": 3,
+      "explanation": "ECCC defines it this way; largest waves may reach about twice the value.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q11",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Under CSA 2001 s. 112 a master meets force 10 wind with no storm warning received. The master must:",
+      "options": [
+        "do nothing",
+        "return to port only",
+        "give notice to nearby vessels and the prescribed authorities ashore",
+        "log it at the end of the voyage only"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 112 covers winds of force 10 or more for which no storm warning has been received.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts",
+        "rmet-csa-2001-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "meteorology.wind-and-beaufort.q12",
+      "lesson_id": "meteorology.wind-and-beaufort",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A hurricane force wind warning (64 knots or more) corresponds to Beaufort:",
+      "options": [
+        "Force 10",
+        "Force 12",
+        "Force 9",
+        "Force 11"
+      ],
+      "correct_index": 1,
+      "explanation": "Force 12 starts at 64 knots.",
+      "source_ids": [
+        "rmet-eccc-beaufort",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
