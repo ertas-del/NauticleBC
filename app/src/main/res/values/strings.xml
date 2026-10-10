@@ -25,6 +25,10 @@
     <string name="module_meteorology_desc">BC weather, forecasts and go/no-go decisions</string>
     <string name="module_canadian_regulations">Canadian Regulations</string>
     <string name="module_canadian_regulations_desc">Shipping Act, crewing, safety and pollution rules</string>
+    <string name="module_radar">Radar</string>
+    <string name="module_radar_desc">Reading the display, plotting and collision avoidance</string>
+    <string name="module_electronic_navigation">Electronic Navigation</string>
+    <string name="module_electronic_navigation_desc">GPS, chart plotters, ECDIS and AIS</string>
     <string name="module_coming_soon">Coming soon</string>
     <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>
