@@ -14,6 +14,11 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.setValue
+import androidx.compose.runtime.saveable.rememberSaveable
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
@@ -111,25 +116,34 @@ fun LessonScreen(
     }
 }
 
+/** Sources stay out of the reading flow: one link-style button opens and closes the list. */
 @Composable
 private fun SourcesSection(sources: List<SourceRef>) {
+    if (sources.isEmpty()) return
+    var open by rememberSaveable { mutableStateOf(false) }
     Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
-        Text(
-            text = stringResource(R.string.lesson_sources),
-            style = MaterialTheme.typography.titleMedium,
-            modifier = Modifier.semantics { heading() },
-        )
-        for (source in sources) {
-            val text = when {
-                !source.known -> stringResource(R.string.lesson_source_unknown, source.title)
-                else -> {
-                    val detail = listOfNotNull(source.publisher, source.edition).joinToString(", ")
-                    if (detail.isEmpty()) source.title else stringResource(R.string.lesson_source_detail, source.title, detail)
+        TextButton(onClick = { open = !open }) {
+            Text(
+                text = stringResource(
+                    if (open) R.string.lesson_sources_hide else R.string.lesson_sources_show,
+                    sources.size,
+                ),
+                style = MaterialTheme.typography.labelLarge,
+            )
+        }
+        if (open) {
+            for (source in sources) {
+                val text = when {
+                    !source.known -> stringResource(R.string.lesson_source_unknown, source.title)
+                    else -> {
+                        val detail = listOfNotNull(source.publisher, source.edition).joinToString(", ")
+                        if (detail.isEmpty()) source.title else stringResource(R.string.lesson_source_detail, source.title, detail)
+                    }
                 }
-            }
-            Row {
-                Text("•", style = MaterialTheme.typography.bodyMedium, modifier = Modifier.padding(end = 8.dp))
-                Text(text, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f))
+                Row {
+                    Text("•", style = MaterialTheme.typography.bodyMedium, modifier = Modifier.padding(end = 8.dp))
+                    Text(text, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f))
+                }
             }
         }
     }
