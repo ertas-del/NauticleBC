@@ -73,6 +73,8 @@
     <string name="lesson_screen_title">Lesson</string>
     <string name="lesson_objectives">What you will learn</string>
     <string name="lesson_sources">Sources</string>
+    <string name="lesson_sources_show">Sources (%1$d)</string>
+    <string name="lesson_sources_hide">Hide sources</string>
     <string name="lesson_source_unknown">%1$s (not listed in the source registry)</string>
     <string name="lesson_source_detail">%1$s, %2$s</string>
     <string name="lesson_mark_complete">Mark lesson as complete</string>
