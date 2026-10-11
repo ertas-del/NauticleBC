@@ -1,0 +1,258 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.course-speed-made-good.q01",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "How is the course made good found?",
+      "options": [
+        "It is the direction of the current",
+        "It is the average of the compass courses steered",
+        "It is the true direction of the line from the departure fix to a later fix (or EP)",
+        "It is the course steered, converted to true"
+      ],
+      "correct_index": 2,
+      "explanation": "The course made good is what the ship actually achieved over the ground, so it comes from two positions, not from the helm.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q02",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Two fixes are 15.0 nm apart and were taken 2 hours 30 minutes apart. What is the speed made good?",
+      "options": [
+        "6.5 knots",
+        "6.0 knots",
+        "7.5 knots",
+        "37.5 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "Speed = distance / time = 15.0 / 2.5 = 6.0 knots. 2 hours 30 minutes is 2.5 hours, not 2.3.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q03",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why can the course made good differ from the course steered, and speed made good from log speed?",
+      "options": [
+        "Because of current, leeway and steering error",
+        "Because the chart scale changes with latitude",
+        "Because the course made good is measured in magnetic",
+        "Because the log always reads high"
+      ],
+      "correct_index": 0,
+      "explanation": "Anything that moves the ship other than her own course and speed through the water shows up as a difference: current, leeway, steering error.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q04",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At 0915 a vessel has 24 nm to go. Her speed made good is 6 knots; the log reads 8 knots. What is the ETA, using the right speed?",
+      "options": [
+        "1230",
+        "1345",
+        "1315",
+        "1215"
+      ],
+      "correct_index": 2,
+      "explanation": "Time = 24 / 6 = 4 hours, so 0915 + 4 h = 1315. 1215 uses the log speed of 8 knots (3 hours), which ignores the current.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q05",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A destination is 27 nm away and you must arrive within 3 hours. What speed over the ground is needed?",
+      "options": [
+        "9.0 knots",
+        "30 knots",
+        "81 knots",
+        "7.0 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "Speed needed = distance to go / time available = 27 / 3 = 9.0 knots. Compare it with what the vessel can actually do before accepting the plan.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q06",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Fuel consumption is 18 litres per hour. The passage will take 4 hours 20 minutes at that rate. How much fuel is burned, before any reserve?",
+      "options": [
+        "78 L",
+        "72 L",
+        "81 L",
+        "86 L"
+      ],
+      "correct_index": 0,
+      "explanation": "4 h 20 min = 4.333 h; 18 x 4.333 = 78 L. 72 L uses 4 hours and ignores the 20 minutes; 86 L treats 4.20 as the number of hours.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q07",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 20 nm passage burns 15 litres per hour. Planned speed made good is 8 knots, but a foul current cuts it to 5 knots. How much extra fuel does the foul current cost?",
+      "options": [
+        "7.5 L",
+        "22.5 L",
+        "15 L",
+        "None, because the engine rpm is unchanged"
+      ],
+      "correct_index": 1,
+      "explanation": "At 8 knots the time is 2.5 h and the fuel 37.5 L. At 5 knots the time is 4.0 h and the fuel 60 L. The difference is 22.5 L. Fuel depends on time, so a foul current costs fuel at the same rpm.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q08",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which consumption figure should be used when planning the fuel for a passage?",
+      "options": [
+        "The figure for full throttle, whatever speed you plan to run",
+        "The figure for the rpm and speed you will actually run, from the engine data or your own log",
+        "The lowest figure the engine maker quotes at any speed",
+        "The idle consumption"
+      ],
+      "correct_index": 1,
+      "explanation": "Consumption varies with rpm, load and sea state. Using a figure for a different speed gives a plan that is wrong in one direction or the other.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q09",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How big a fuel reserve must be carried according to the sources used for this course?",
+      "options": [
+        "No reserve is needed on a coastal passage",
+        "Exactly 10 percent of the passage fuel",
+        "No fixed percentage is given; the skipper chooses a reserve, states it and records the reasons in the passage plan",
+        "Exactly one third of the tank"
+      ],
+      "correct_index": 2,
+      "explanation": "The lesson sources give no required percentage for a small vessel. Some courses teach a rule of thirds, but what an examiner wants is a reserve that is stated and justified, covering weather, diversion and foul current.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q10",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A tank holds 500 L, of which 90 percent is usable. The engine burns 25 L/h and the speed made good is 8 knots. What is the range?",
+      "options": [
+        "18 nm",
+        "144 nm",
+        "200 nm",
+        "160 nm"
+      ],
+      "correct_index": 1,
+      "explanation": "Usable fuel = 450 L; endurance = 450 / 25 = 18 h; range = 18 x 8 = 144 nm. 160 nm uses the whole tank. 18 is the endurance in hours, not a range.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.course-speed-made-good.q11",
+      "lesson_id": "chartwork.course-speed-made-good",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When should the ETA and the fuel remaining be recalculated?",
+      "options": [
+        "Only at departure",
+        "Only if the engine alarm sounds",
+        "At each fix, using the new speed made good",
+        "Once a day at noon"
+      ],
+      "correct_index": 2,
+      "explanation": "Current, wind and speed change as the passage goes on, so the ETA and the fuel check are updated each time a fix shows what the ship is really doing.",
+      "source_ids": [
+        "sixty-bcit-naut-1475",
+        "chw-a-bowditch-2019-ch9-dr",
+        "chw-a-wikipedia-nautical-mile"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

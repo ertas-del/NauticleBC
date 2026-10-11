@@ -1,0 +1,235 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.leeway.q01",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is leeway?",
+      "options": [
+        "The movement of the water itself caused by tide",
+        "The error of the steering compass",
+        "The sideways movement of a vessel through the water, away from the wind, caused by the wind on the hull and superstructure",
+        "The distance a vessel runs while the helm is put over"
+      ],
+      "correct_index": 2,
+      "explanation": "Leeway is the vessel's slip through the water downwind. The movement of the water is set and drift; compass error and turning distance are different things.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q02",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel steers 090 degrees true and her track through the water is 097 degrees true. Which statement is correct?",
+      "options": [
+        "The leeway is 97 degrees",
+        "The leeway is 7 degrees and the wind is on the port side, pushing her to starboard",
+        "The current is setting 097 degrees",
+        "The leeway is 7 degrees and the wind is on the starboard side"
+      ],
+      "correct_index": 1,
+      "explanation": "The track lies to starboard of the heading, so the wind pushes from port. The track lies on the downwind side. A current cannot be deduced from this alone.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q03",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "With the wind in which direction relative to the ship's head is the leeway nil?",
+      "options": [
+        "Dead ahead or dead astern, where the wind pushes along the keel line",
+        "Broad on the bow only",
+        "Leeway is never nil",
+        "Abeam, where the wind is square on"
+      ],
+      "correct_index": 0,
+      "explanation": "Leeway comes from the sideways part of the wind. Abeam it is greatest. Dead ahead or astern there is no sideways part, so the leeway is nil.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q04",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Wind from port, leeway 6 degrees, course steered 120 degrees true. What is the course through the water?",
+      "options": [
+        "186 degrees true",
+        "120 degrees true",
+        "126 degrees true",
+        "114 degrees true"
+      ],
+      "correct_index": 2,
+      "explanation": "Wind from port pushes the ship to starboard, so the course through the water is the course steered plus the leeway: 120 + 6 = 126. Subtracting gives 114, which is the rule for wind from starboard.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q05",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You want to make good 200 degrees true through the water. The wind is from starboard and the leeway is 4 degrees. What course do you steer?",
+      "options": [
+        "204 degrees true",
+        "200 degrees true",
+        "184 degrees true",
+        "196 degrees true"
+      ],
+      "correct_index": 0,
+      "explanation": "Wind from starboard pushes the ship to port, so you steer up into the wind: to starboard of the wanted course, 200 + 4 = 204. 196 steers away from the wind and doubles the error.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q06",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Heading 180 degrees true, the wake is seen bearing 004 degrees true. What is the leeway and which side is the wind?",
+      "options": [
+        "4 degrees of leeway to starboard, with the wind from starboard",
+        "4 degrees of leeway to starboard, with the wind from port",
+        "184 degrees of leeway",
+        "4 degrees of leeway to port, with the wind from port"
+      ],
+      "correct_index": 1,
+      "explanation": "The track through the water is the wake bearing reversed: 004 + 180 = 184. That is 4 degrees to starboard of the 180 heading (facing south, starboard is west). The ship goes to starboard, so the wind is from port.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q07",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel runs 10 nm with a leeway of 6 degrees that is not allowed for. About how far off the intended water track is she at the end?",
+      "options": [
+        "About 0.1 nm",
+        "About 10 nm",
+        "About 6 nm",
+        "About 1.0 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "Cross-track error is about the distance times the sine of the angle: 10 x sin 6 = 1.05 nm. Small angles over long runs build up to a mile or more.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q08",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How is leeway entered in a plot, compared with a current?",
+      "options": [
+        "It is entered only after the fix, as part of the compass error",
+        "As a vector with a rate, like a current",
+        "As a speed correction to the log",
+        "As an angle applied to the course steered; a current is a vector with set and rate applied afterwards"
+      ],
+      "correct_index": 3,
+      "explanation": "Leeway is estimated as an angle between the heading and the track through the water. It changes the course used for the DR, and the current vector is then added to the result.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q09",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Working forward from the course steered to the track over the ground, what is the correct order of corrections?",
+      "options": [
+        "Add the current vector first, then apply leeway to the result",
+        "Apply the current and leeway together as one vector",
+        "Apply leeway to get the course through the water, then add the current vector",
+        "Apply variation, then leeway, then the current"
+      ],
+      "correct_index": 2,
+      "explanation": "Leeway acts on the path through the water; the current then moves the whole water. Going backward for a course to steer, reverse the order: current triangle first, then leeway.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.leeway.q10",
+      "lesson_id": "chartwork.leeway",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A course-to-steer triangle gives a course through the water of 101 degrees true. The wind is from the south and the leeway is 5 degrees to port. Variation is 16 degrees E and deviation 2 degrees W. What compass course is given to the helm?",
+      "options": [
+        "092 degrees compass",
+        "087 degrees compass",
+        "096 degrees compass",
+        "106 degrees compass"
+      ],
+      "correct_index": 0,
+      "explanation": "Leeway to port means steering to starboard: 101 + 5 = 106 true. The compass error is 16 E - 2 W = 14 E, so compass = 106 - 14 = 092. 087 forgets the leeway (101 - 14). 106 is still true.",
+      "source_ids": [
+        "chw-c-wikipedia-leeway",
+        "chw-a-bowditch-2019-ch9-dr",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

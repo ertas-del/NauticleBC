@@ -1,0 +1,275 @@
+{
+  "module": "tides",
+  "questions": [
+    {
+      "id": "tides.current-stations-and-slack.q01",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does a current table give for each day at a station?",
+      "options": [
+        "The depth of water at slack",
+        "The times and heights of high and low water",
+        "The direction of the wind at each slack",
+        "The times of slack water and the times and speeds, in knots, of maximum flood and ebb"
+      ],
+      "correct_index": 3,
+      "explanation": "A tide table gives heights. A current table gives times and speeds of the stream.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q02",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In the CHS current tables, what does a minus sign in front of a speed mean?",
+      "options": [
+        "A stream below the minimum",
+        "Flow toward the south",
+        "Ebb, the flow back toward the ocean",
+        "Flood, the flow inland"
+      ],
+      "correct_index": 2,
+      "explanation": "A plus marks flood and a minus marks ebb. Neither sign gives a compass direction.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q03",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement defines flood and ebb correctly?",
+      "options": [
+        "Flood is a stream faster than 3 knots and ebb one slower",
+        "Flood is the vertical rise of the tide and ebb its fall",
+        "Flood is the horizontal movement of water linked with the rising tide and ebb is the horizontal movement linked with the falling tide",
+        "Flood is any stream toward the north and ebb any stream toward the south"
+      ],
+      "correct_index": 2,
+      "explanation": "Flood and ebb describe the stream and are tied to the tide's rise and fall, but the compass direction differs from place to place.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q04",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Is slack water always at the time of high or low water?",
+      "options": [
+        "Yes, always",
+        "Slack is always three hours after high water",
+        "No, slack and high or low water do not necessarily coincide, and the relationship differs from place to place",
+        "Yes in BC, no elsewhere"
+      ],
+      "correct_index": 2,
+      "explanation": "NOAA and the CHS tables both say they need not coincide. That is why separate current tables exist.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q05",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At a reference station, slack is at 1145 and maximum ebb is 4.0 knots. A secondary station has a slack time difference of -0 h 20 min and a speed of 75 percent. In standard time, what are the secondary slack time and maximum ebb speed?",
+      "options": [
+        "Slack 1125; maximum ebb 3.0 knots",
+        "Slack 1205; maximum ebb 3.0 knots",
+        "Slack 1125; maximum ebb 4.0 knots",
+        "Slack 1145; maximum ebb 5.3 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "Apply the difference: 1145 - 0:20 = 1125. Apply the percentage: 4.0 x 0.75 = 3.0 knots. Adding the difference gives 1205, and a percentage under 100 reduces the speed.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q06",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why are the times for a secondary current station less certain than those for a reference station?",
+      "options": [
+        "They are calculated from the tide table",
+        "They often rest on a month or less of observations",
+        "They are given in a different time standard",
+        "They ignore the moon"
+      ],
+      "correct_index": 1,
+      "explanation": "A secondary station rests on short observation records, so its turn and maximum times are less precise.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q07",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A current table for BC shows a slack at 1415 and daylight saving time is in effect. What is the clock time?",
+      "options": [
+        "1615",
+        "1315",
+        "1415",
+        "1515"
+      ],
+      "correct_index": 3,
+      "explanation": "The tables use standard time; add one hour in daylight saving time.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q08",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A current prediction for a narrow pass applies to which position?",
+      "options": [
+        "The edge of the channel nearest the shore",
+        "Every point in the channel equally",
+        "The stated station position, or the middle of the channel in a narrow pass, because the stream can differ strongly within a few metres",
+        "The nearest port's tide gauge"
+      ],
+      "correct_index": 2,
+      "explanation": "Currents vary strongly with position. The prediction applies at the listed coordinates or the channel middle.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q09",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What can strong, prolonged wind do to the times in a current table?",
+      "options": [
+        "Nothing, because the table already includes wind",
+        "Change the speed units",
+        "Advance or delay slack water considerably, and a weak following flood may not reverse the stream so there is no slack",
+        "Make high water and slack the same time"
+      ],
+      "correct_index": 2,
+      "explanation": "Predictions are for the sun and moon. Wind can move slack, and a weak following flood may leave the direction unchanged.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "tides.current-stations-and-slack.q10",
+      "lesson_id": "tides.current-stations-and-slack",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which book do you use to time a passage through a narrows or rapid?",
+      "options": [
+        "The tide table for the nearest port",
+        "The Notices to Mariners",
+        "The current table for that place, not the tide table",
+        "The List of Lights"
+      ],
+      "correct_index": 2,
+      "explanation": "Tide and current predictions are produced separately. Only the current table says when the stream slackens.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "noaa-tides-currents-faq",
+        "noaa-tides-currents-glossary",
+        "dfo-tides-and-tidal-streams-chapter",
+        "ubc-atsc113-tide-current-tables",
+        "chs-tide-current-tables-vol5",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

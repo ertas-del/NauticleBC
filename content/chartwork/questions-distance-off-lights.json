@@ -1,0 +1,245 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.distance-off-lights.q01",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What does the geographic range of a light depend on?",
+      "options": [
+        "The depth of water under the observer",
+        "The height of the light and the height of the observer's eye, because the curve of the Earth hides the light beyond the horizon",
+        "The colour of the light and its flash period",
+        "The brightness of the lamp and the clarity of the air"
+      ],
+      "correct_index": 1,
+      "explanation": "Geographic range is about the curve of the Earth. Brightness and air clarity belong to the nominal and luminous ranges; the characteristic and the depth of water have nothing to do with it.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q02",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A light is charted at 36 m. Your eye is 4 m above the water. Using distance = 2.08 x (square root of H + square root of h), how far off is the light when it first appears on the horizon?",
+      "options": [
+        "16.6 nm",
+        "13.2 nm",
+        "83.2 nm",
+        "12.5 nm"
+      ],
+      "correct_index": 0,
+      "explanation": "The square roots are 6 and 2, which sum to 8; 2.08 x 8 = 16.6 nm. 12.5 nm uses the light alone (2.08 x 6). 13.2 nm takes the square root of the sum of the heights. 83.2 nm multiplies by the heights instead of their roots.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q03",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A text gives the horizon distance as 1.17 x the square root of the height in feet, while another gives 2.08 x the square root of the height in metres. What is the right way to treat the two constants?",
+      "options": [
+        "Either constant may be used with either unit",
+        "They apply to different kinds of light, 1.17 to fixed lights and 2.08 to flashing lights",
+        "They are the same idea in different units and differ by about 2 percent, so use the constant and units the question gives",
+        "The metric constant is always correct and the feet constant is wrong"
+      ],
+      "correct_index": 2,
+      "explanation": "1.17 per square-root foot is about 2.12 per square-root metre, so the two sets differ slightly. Mixing units and constants gives a badly wrong answer, and the constants have nothing to do with the light's characteristic.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q04",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the nominal range of a light?",
+      "options": [
+        "The distance the light can be seen in today's haze or rain",
+        "The range inside which the light's sectors are visible",
+        "The distance to the horizon from the top of the tower",
+        "How far the light can be seen in standard clear conditions, a rating of the light itself, as printed on the chart"
+      ],
+      "correct_index": 3,
+      "explanation": "Nominal range is a rating under standard clear conditions. The horizon distance is the geographic range, and the distance in prevailing weather is the luminous range.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q05",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the luminous range of a light?",
+      "options": [
+        "The distance printed on the chart",
+        "The distance at which it can be seen in the visibility that actually prevails",
+        "The distance at which it can first be seen over the horizon",
+        "The distance at which its colour can be identified"
+      ],
+      "correct_index": 1,
+      "explanation": "Luminous range allows for the real visibility. It is shortened by haze, rain, snow and fog. The charted figure is the nominal range.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q06",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A light has a nominal range of 20 nm and a geographic range for your eye of 15 nm. Visibility is poor and the luminous range is 8 nm. At what distance do you expect to see the light?",
+      "options": [
+        "About 23 nm, the sum of 15 and 8",
+        "15 nm",
+        "20 nm",
+        "About 8 nm"
+      ],
+      "correct_index": 3,
+      "explanation": "You see the light at the smaller of the geographic range and the luminous range. Here that is 8 nm. 15 nm would apply in clear weather, and 20 nm is a rating that is never more than the geographic limit allows.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q07",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "On Canadian charts in tidal waters, the heights of lights are normally measured above which level?",
+      "options": [
+        "Chart datum, the low-water level",
+        "Higher high water, large tide (a high-water datum)",
+        "The level of the water at the time of the survey",
+        "Mean sea level"
+      ],
+      "correct_index": 1,
+      "explanation": "Heights of lights, islands and vertical clearances use a high-water datum, higher high water, large tide, and the chart title states it. Depths use the low-water chart datum.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q08",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "At low tide the actual water level is several metres below the high-water datum used for a charted light height. Compared with the figure from the chart, what does this do to the distance at which you first see the light?",
+      "options": [
+        "The light is seen at the same distance but looks dimmer",
+        "The light stands lower above the water, so you see it later",
+        "There is no effect, because the formula uses chart datum",
+        "The light stands higher above the water than charted, so you see it slightly sooner"
+      ],
+      "correct_index": 3,
+      "explanation": "Below the high-water datum the light is higher above the actual water than the chart says, so its horizon is further away. For example 25 m charted becomes 28 m with 3 m of tide below the datum, adding about half a mile.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q09",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 40 m light is first sighted from two decks, one with the eye at 2 m and one at 10 m. About how much sooner does the higher eye see it?",
+      "options": [
+        "About 8 nm sooner",
+        "About 3.6 nm sooner",
+        "They see it at the same moment, because the light is the same height",
+        "About 0.5 nm sooner"
+      ],
+      "correct_index": 1,
+      "explanation": "From 2 m the distance is 2.08 x (6.32 + 1.41) = 16.1 nm and from 10 m it is 2.08 x (6.32 + 3.16) = 19.7 nm, a difference of about 3.6 nm. Both heights count, so eye height matters.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.distance-off-lights.q10",
+      "lesson_id": "chartwork.distance-off-lights",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A light is first sighted bearing 262 degrees true from the ship, and the calculated distance off is 14.0 nm. Where does the first sighting put the ship?",
+      "options": [
+        "Anywhere inside a circle of 14.0 nm around the light",
+        "At the light, since the light has just been seen",
+        "14.0 nm from the light on the 262 degree bearing from the light",
+        "14.0 nm from the light, on the 082 degree true bearing from the light, where the arc of radius 14.0 nm meets the reciprocal of the observed bearing"
+      ],
+      "correct_index": 3,
+      "explanation": "The first sighting gives a position circle: an arc of 14.0 nm radius centred on the light. The ship's bearing from the light is the reciprocal of the bearing of the light from the ship, 262 - 180 = 082. Plotting 262 from the light is the classic reversal error.",
+      "source_ids": [
+        "chw-c-oceannavigator-lights",
+        "sixty-sailingissues-fixes",
+        "chw-a-chs-chart1-2022-pdf",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
