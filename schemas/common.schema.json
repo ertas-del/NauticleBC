@@ -16,7 +16,7 @@
       "description": "IDs from content/sources.json. Required for every factual claim."
     },
     "module": {
-      "enum": ["colregs", "tides", "bridge-watch", "sixty-ton", "chartwork", "seamanship", "stability", "radar", "electronic-navigation", "meteorology", "radio", "canadian-regulations", "machinery"],
+      "enum": ["colregs", "tides", "bridge-watch", "sixty-ton", "chartwork", "seamanship", "stability", "radar", "electronic-navigation", "meteorology", "radio", "canadian-regulations", "machinery", "fishing"],
       "description": "Content module. Extend this list in its own schema PR when a new module starts."
     },
     "ticket": {
