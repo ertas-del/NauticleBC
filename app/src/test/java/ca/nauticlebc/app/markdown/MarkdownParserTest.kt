@@ -238,4 +238,23 @@ class MarkdownParserTest {
             blocks,
         )
     }
+
+    @Test
+    fun parsesPipeTablesAndSkipsTheSeparatorRow() {
+        val blocks = MarkdownParser.parse("Before\n\n| Stroke | Piston |\n|---|:---:|\n| **Intake** | Down |\n| Power | Down |\n\nAfter")
+        assertEquals(3, blocks.size)
+        val table = blocks[1] as MdBlock.Table
+        assertEquals(listOf(plain("Stroke"), plain("Piston")), table.header)
+        assertEquals(2, table.rows.size)
+        assertEquals(listOf(MdSpan("Intake", bold = true)), table.rows[0][0])
+        assertEquals(plain("Down"), table.rows[1][1])
+        assertEquals(MdBlock.Paragraph(plain("After")), blocks[2])
+    }
+
+    @Test
+    fun shortRowsArePaddedToTheHeaderWidth() {
+        val table = MarkdownParser.parse("| A | B | C |\n|---|---|---|\n| 1 | 2 |").single() as MdBlock.Table
+        assertEquals(3, table.rows[0].size)
+        assertTrue(table.rows[0][2].isEmpty())
+    }
 }

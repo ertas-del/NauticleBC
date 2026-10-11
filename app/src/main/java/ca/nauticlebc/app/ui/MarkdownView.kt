@@ -91,7 +91,52 @@ private fun MarkdownBlockView(block: MdBlock) {
             }
         }
 
+        is MdBlock.Table -> TableView(block)
+
         MdBlock.Rule -> HorizontalDivider()
+    }
+}
+
+/**
+ * A table shown as one card per row, so it reads top to bottom on a narrow screen with no sideways scrolling.
+ * The first cell is the row's title; the other cells follow with their column name in front.
+ */
+@Composable
+private fun TableView(table: MdBlock.Table) {
+    Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+        for (row in table.rows) {
+            Surface(
+                color = MaterialTheme.colorScheme.surfaceVariant,
+                shape = MaterialTheme.shapes.small,
+                modifier = Modifier.fillMaxWidth().semantics(mergeDescendants = true) {},
+            ) {
+                Column(modifier = Modifier.padding(12.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                    InlineText(
+                        spans = row.first().map { it.copy(bold = true) },
+                        style = MaterialTheme.typography.bodyLarge,
+                        modifier = Modifier.fillMaxWidth(),
+                    )
+                    row.drop(1).forEachIndexed { i, cell ->
+                        if (cell.isEmpty() || cell.all { it.text.isBlank() }) return@forEachIndexed
+                        val label = table.header.getOrNull(i + 1)?.joinToString("") { it.text }.orEmpty()
+                        Row(modifier = Modifier.fillMaxWidth()) {
+                            if (label.isNotBlank()) {
+                                Text(
+                                    text = "$label: ",
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    fontWeight = FontWeight.SemiBold,
+                                )
+                            }
+                            InlineText(
+                                spans = cell,
+                                style = MaterialTheme.typography.bodyLarge,
+                                modifier = Modifier.weight(1f),
+                            )
+                        }
+                    }
+                }
+            }
+        }
     }
 }
 
