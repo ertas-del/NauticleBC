@@ -1,0 +1,268 @@
+{
+  "sources": [
+    {
+      "id": "sea-c-svr-xml",
+      "title": "Small Vessel Regulations, SOR/2010-91 (consolidated XML): Part 4, Part 5, Part 6, ss. 740-742",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-91.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Sections read: 400-420 (passenger-carrying vessels of not more than 15 GT with not more than 12 passengers: briefing 401, persons on board reported ashore 402, cold water 403, no passengers while towing 404(3), inherently buoyant lifejackets under 16 408, heaving line, lifebuoy and reboarding device 409, visual signals 410, life rafts 411, anchor and bailer or pump 412, extinguishers by length 414, direct engine-space discharge 415-417, detectors 418, stowage 419, emergency procedures 420); 500-521 (workboats, including the tug life raft rule 509 and towing requirements 521); 600-609 (critical safety: stability and strength 601, shut-offs 602, powered ventilation 603, fuel appliances and tanks 604-607, ignition protection 608, pumping and bailing 609); 740-742 (detectors, fixed systems or direct discharge, means of escape for non-pleasure vessels over 6 m)."
+    },
+    {
+      "id": "sea-c-csa-xml",
+      "title": "Canada Shipping Act, 2001, S.C. 2001, c. 26 (consolidated XML): ss. 105-118, 121-123, 129-132, 137, 148",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/C-10.15.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Sections read: 105 (Part 4 applies to Canadian vessels other than pleasure craft), 106 (authorized representative: meet the regulations, develop procedures for safe operation and emergencies, ensure safety training), 107, 109 (master: reasonable steps for safety, protection from hazards), 110 (persons carried, load lines; shipwrecked and distressed persons excepted), 112 (master gives notice of dangerous ice, derelicts, tropical storms, Beaufort 10 or more with no storm warning, severe ice accretion), 113 (crew duties), 115 (passenger compliance), 116 (boarding and leaving), 117-118, 121-123 (offences), 129 (report damage to aids to navigation and uncharted hazards), 130-132 (SAR coordinator directions, answering distress signals, assisting persons at sea), 137, 148 (duty of masters after a collision)."
+    },
+    {
+      "id": "sea-c-tsb-regs-xml",
+      "title": "Transportation Safety Board Regulations, SOR/2014-37 (consolidated XML): ss. 1 and 3",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2014-37.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Read: definition of serious injury (s. 1) and s. 3 (marine occurrences that the operator of a ship other than a pleasure craft, the master, pilot, crew member or harbour master with direct knowledge must report: death or serious injury, person falls overboard, incapacitated crew member, sinks, founders or capsizes, collision or risk of collision, fire or explosion, aground, unforeseen contact with the bottom, damage affecting seaworthiness, anchored or grounded or beached to avoid an occurrence, missing or abandoned, total failure of main or auxiliary machinery or of propulsion, steering or deck machinery or navigation equipment where it threatens safety, cargo shifts; contents of the report; all available information as soon as possible by the quickest means, the rest within 30 days)."
+    },
+    {
+      "id": "sea-c-fbdr-xml",
+      "title": "Fire and Boat Drills Regulations, SOR/2010-83 (consolidated XML), whole text",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-83.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Read the whole instrument: definitions, application and exclusions (s. 2(2): fishing vessels of 150 GT or less, cable ferries, and vessels of 15 GT or less carrying 12 or fewer passengers are outside), muster lists (ss. 3-9), passenger count and details (ss. 10-12), practice muster and safety briefing (s. 13), drills (ss. 16-36 including notification, realism, restoring equipment, the 25 per cent rule, monthly participation and the schedule of intervals), and records (s. 37, kept five years when not in the official log book)."
+    },
+    {
+      "id": "sea-c-nsr-xml",
+      "title": "Navigation Safety Regulations, 2020, SOR/2020-216 (consolidated XML): ss. 1, 121, 209, 228, 243, 244",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2020-216.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Read: definitions of towboat and towing operation (s. 1); s. 121 (two searchlights on vessels designed and constructed for towing and of more than 5 GT, except log salvage; beams cover 360 degrees); s. 209 (float-free EPIRB by voyage class and size; EPIRB, PLB or DSC handheld alternatives for small vessels; worn by the person in charge of the navigational watch or stowed ready); s. 228 (register EPIRBs and PLBs with the Canadian Beacon Registry; update within 30 days of a change); ss. 243-244 (distress, urgency and safety communications under the ITU Radio Regulations; cancel an inadvertent alert immediately)."
+    },
+    {
+      "id": "sea-c-mpr-xml",
+      "title": "Marine Personnel Regulations, SOR/2007-115 (consolidated XML): ss. 205-206",
+      "publisher": "Government of Canada (Justice Laws)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2007-115.xml",
+      "edition": "consolidation current to 2026-09-28",
+      "kind": "regulation",
+      "reproduction": "unclear",
+      "read_directly": true,
+      "notes": "Read as text from the Justice Canada laws-lois-xml clone (updated 2026-09-28) by the author of this lane on 2026-10-10. Read: s. 205(1) (master and authorized representative ensure each person assigned a function receives the on-board familiarization and safety training in TP 4957 before starting any duty), s. 206(1) (written instructions from the authorized representative) and s. 206(2) (master trains the crew and keeps a training record with name, equipment, subject-matter and dates, on board or at the home port if the vessel stays within five nautical miles of it)."
+    },
+    {
+      "id": "sea-c-tc-ssb-16-2020",
+      "title": "Ship Safety Bulletin No. 16/2020: Hazards and risks of girding during towing operations",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/marine-safety/ship-safety-bulletins/hazards-risks-girding-during-towing-operations-ssb-no-16-2020",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports: girding is a tug being pulled broadside by the towline and unable to recover, leading quickly to capsize or sinking; risk factors (broadside force with current, work near the barge bow, tug close to the tow, shortened towline and steeper towline angle, speed or course changes, winch clutch engaged, tow size and pivot point, tow overtaking the tug, environment, open penetrations, excessive heel); the master's tow plan items; testing the emergency release regularly at every location, checking the winch brake and clutch release and that the system resets; never tow with the winch clutch engaged except when adjusting length; pay out wire to freshen the nip; post release procedures near the towing equipment; the bulletin gives no numeric limits on towline length or angle. Dated 2020-06-09; replaces SSB 13/1994."
+    },
+    {
+      "id": "sea-c-tc-tp15491",
+      "title": "TP 15491 Small Vessel Compliance Program: Tug Guidance Notes (06/2024)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/publications/tp-15491-small-vessel-compliance-program-tug-guidance-notes-06-2024",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Read the first 100 000 of about 109 000 characters. Supports: a winch control at each steering position that immediately reduces tension, no ratchet that prevents paying out, a hook release control, a means to sever or release the line at the bollard or a marked axe, test of the release system before the tow, tow plan suggestions, stability assessment for tugs over 5 GT including towing loads, freeing ports and scuppers kept clear, towing lights (three masthead lights and a diamond for a tow over 200 m), two searchlights for towing vessels over 5 GT (NSR s. 121), crew training and records. States that it does not replace the regulations. The bollard-pull formula on the page was garbled and is not used."
+    },
+    {
+      "id": "sea-c-tc-tp14070",
+      "title": "TP 14070 Small Commercial Vessel Safety Guide (2010 web edition)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/publications/tp-14070-small-commercial-vessel-safety-guide-2010",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Read about the first 100 000 of 141 000 characters over several fetches; chapters 5 and 6 (emergencies) came through only in part. Supports: run the blower at least four minutes (more if the manufacturer says so) before starting an enclosed gasoline engine; a fire-at-sea response (extinguishers or buckets, distress signal, position the boat so the fire is downwind, lifejackets for those not fighting it, stop the engine and shut off fuel for an engine-space fire, consider evacuation if the fire spreads quickly); pumps of at least 0.91 L/s (3,275 L/h) and high bilge alarms of 84 dB in some arrangements (which vessels this applies to was not confirmed); a life raft is preferred where water is under 15 C; a hydrostatic release operates at about 4 m depth; using distress signals when help is not needed is against the law; the owner must develop emergency procedures and keep training records; voyage planning with places of refuge and a sail plan. A 2010 edition: check the current Transport Canada edition."
+    },
+    {
+      "id": "sea-c-tc-template-fire",
+      "title": "Template: Fire fighting (written safety procedure for small fishing vessels)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2023-11/template-fire-fighting.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports a 15-step fire procedure: call out the location, crew not at the helm go with an extinguisher or hose, the master informs shore authorities of position and situation once the fire is assessed, the extent of the fire is assessed (electrical or other special handling), other crew close windows and vents and ready equipment and lifesaving gear, fight only a small fire where escape is not at risk, do not fight a fire with heavy smoke, near other flammables, too big for one extinguisher or blocking the exit, keep at least six feet away with the exit behind you, PASS, hose except on electrical, grease or oil fires, watch for reignition, get out and close the door then use the fixed system, the master manoeuvres to keep the fire downwind and decides whether to abandon, keep authorities and the company informed, incident report. A template for small fishing vessels, used here as an example of the format Transport Canada expects."
+    },
+    {
+      "id": "sea-c-tc-template-water",
+      "title": "Template: Taking on water (written safety procedure for small fishing vessels)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2023-11/template-taking-on-water.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports an 8-step procedure: call out 'Water in or on the [location]', start pumps or bail, find where water is entering, notify authorities and nearby vessels if at risk, stop or slow the leak or consider grounding the vessel, prepare to abandon if stability is threatened, keep authorities informed, incident report."
+    },
+    {
+      "id": "sea-c-tc-template-pob",
+      "title": "Template: Person overboard (written safety procedure for small fishing vessels)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2023-11/template-person-overboard.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports a 10-step procedure: loud alarm and point, keep pointing without looking away, throw buoyant objects, the skipper turns the wheel toward the side the person fell from so the propeller moves away and steers where the spotter indicates, alert nearby vessels, approach slowly under power heading into the wind, stop the engine with the kill cords once the person is within reach, heaving line or lifebuoy if swells are significant, bring the person aboard, incident report."
+    },
+    {
+      "id": "sea-c-tc-template-abandon",
+      "title": "Template: Abandon ship (written safety procedure for small fishing vessels)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2023-11/template-abandon-ship.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports a 12-step procedure: tell the crew to get ready, notify the authorities, passengers gather on the main deck warmly dressed with lifejackets on (not put on indoors), account for everyone, prepare the life raft and gather medical kit, blankets, food and EPIRB, review the plan and assign helpers for the elderly and children, review cold shock symptoms, call the abandon-ship order if conditions worsen, throw the raft over and inflate it with the painter attached, help passengers in, keep the raft tied to the vessel while safe, cast off if the vessel is likely to sink or capsize."
+    },
+    {
+      "id": "sea-c-tc-templates-page",
+      "title": "Templates for small commercial vessel procedures and records; Templates for small fishing vessel procedures (web pages)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/marine-safety/templates-small-fishing-vessel-procedures",
+      "edition": "accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports: the pages list templates for pre-departure checks, refuelling, person overboard, fire fighting, taking on water, pollution response, abandon ship, personnel record, crew certification, number of persons onboard, emergency drills and maintenance schedule (the small commercial page also lists a safety policy, an incident report form TSB 1808 and a self-inspection form); the fishing-vessel page says the authorized representative of a vessel no longer than 24.4 m and not more than 150 GT must create and keep written safety procedures, that Transport Canada does not approve them, and that an inspector may ask to see that they exist and are used."
+    },
+    {
+      "id": "sea-c-csbc-1-10-1",
+      "title": "The 1-10-1 principle (Canadian Safe Boating Council)",
+      "publisher": "Canadian Safe Boating Council",
+      "url": "https://csbc.ca/1-10-1-principle/",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports: cold shock lasts about 1 minute (gasp, then hyperventilation; keep the airway clear; a lifejacket matters); cold incapacitation and swim failure in about 10 minutes (loss of effective use of fingers, arms and legs); hypothermia taking about 1 hour before unconsciousness even in ice water. The page gives no water temperature thresholds."
+    },
+    {
+      "id": "sea-c-ccg-tp11637",
+      "title": "Operational Guidelines for Search and Rescue Units (Type 100 and 300), TP 11637, December 1993",
+      "publisher": "Canadian Coast Guard (Department of Fisheries and Oceans)",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/Library/195974eng.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). The text came through truncated (towing, grounding and damage control chapters appear only as titles). A 1993 manual for Coast Guard search and rescue boats, so use for concepts and priorities, not as current rules. Supports: man overboard steps (call and point, mark the position, danger signal and lifebuoy, recovery crew, slow approach, stop propeller rotation during recovery, tell the Coast Guard radio station when practical, rescue swimmer on a tended line, recover persons without flotation or hypothermia protection first, lift suspected hypothermia victims gently and horizontally); priorities at a burning vessel (save lives, stop the fire endangering others, reduce property damage), rescue in order of greatest peril, do not enter a burning vessel with no one to rescue; a towing watch with a means to cut the towline; a heavy weather preparation checklist; large steep following waves can cause broaching, capsize or pitchpoling; reduce speed sharply and point the bow into an overtaking wave; capsize risk rises in shallow water, a falling tide, an opposing current, towing, darkness, low fuel and water on deck; immersion suit practice."
+    },
+    {
+      "id": "sea-c-fao-ftp517",
+      "title": "Safety practices related to small fishing vessel stability (FAO Fisheries Technical Paper 517), precautions chapter",
+      "publisher": "Food and Agriculture Organization of the United Nations",
+      "url": "https://www.fao.org/docrep/pdf/011/i0625e/i0625e03b.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports: in following and quartering seas stability can be considerably reduced when the vessel travels at about the speed and direction of the waves; if heeling or yawing becomes excessive, slow down or change course; when running in, match the wave speed, do not overtake it and do not let a breaker overtake the vessel; slowing or a sea-anchor helps avoid broaching; water trapped on deck must drain quickly, locking freeing port covers is dangerous, clear ice from freeing ports and scuppers; keep slack tanks to a minimum; confirm hatches are closed and scuppers clear before crossing a bar; if ice causes a list, remove ice from the lower side first. Written for small fishing vessels in general; not Canadian regulation."
+    },
+    {
+      "id": "sea-c-sail-walking-prop",
+      "title": "Walking the prop (Sail Magazine)",
+      "publisher": "Sail Magazine",
+      "url": "https://sailmagazine.com/cruising/walking-the-prop/",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Supports: prop walk is a sideways push on the stern from a turning propeller; with a right-hand propeller the stern walks to port when going astern; it is much stronger astern than ahead, at slow speed and high revolutions, with larger or higher-pitch propellers; a boat pivots about one-third of its length aft of the bow; wind can cancel or add to prop walk; a docking approach example for a sailboat. Recreational source."
+    },
+    {
+      "id": "sea-c-openexam-boat-handling",
+      "title": "2.5 Boat Handling, Prop Walk and Pivot Point (open-exam-prep.com, USCG Master study guide)",
+      "publisher": "open-exam-prep.com",
+      "url": "https://open-exam-prep.com/study-guides/uscg-master-100/deck-maneuvering/boat-handling",
+      "edition": "accessed 2026-10-10",
+      "kind": "provider-page",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Low-trust study site. Supports: pivot point about one-third of the length from the bow when going ahead, aft of midships when going astern, near midships when dead in the water; approach a dock at a shallow angle with minimum headway; plan reverse early; a flood current can set a vessel down the pier face; allow for passenger load. CONFLICT: this page says a right-hand single screw in reverse walks the stern to starboard, which disagrees with the Sail Magazine page and with the usual teaching (stern to port); it was not used for the direction of prop walk and the conflict is flagged for the reviewer."
+    },
+    {
+      "id": "sea-c-navedtra-14067-rudder",
+      "title": "Seaman, NAVEDTRA 14067 (chapters 1-2: rudder and helm notes)",
+      "publisher": "United States Navy, Naval Education and Training Command",
+      "url": "https://static1.squarespace.com/static/652724c8cf1b3f0f8252cdf0/t/6528b49534feb52d7934bd6b/1697166486290/Seaman.pdf",
+      "edition": "accessed 2026-10-10",
+      "kind": "textbook",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Only chapter 1 and part of chapter 2 came through (chapters 3-6 were cut off). US Navy practice for large ships, so concepts only. Supports: a rudder set at an angle creates a pressure difference that pushes the stern the opposite way; ships turn faster and respond sooner at higher speed and need more rudder angle at low speed; rudders usually stop at about 35 degrees and full rudder is normally 30 degrees; rudder hard over without orders can jam against the stops."
+    },
+    {
+      "id": "sea-c-boatus-aground",
+      "title": "Aground (BoatUS Foundation study guide)",
+      "publisher": "BoatUS Foundation",
+      "url": "https://boatus.org/study-guide/prep/aground",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Recreational, US source. Supports: assess what was hit and whether the hull is compromised, check for leaks, damage and injuries, distinguish a soft from a hard grounding, if hard aground stay with the boat, wear lifejackets and call for help (VHF channel 16), set an anchor out as far as possible to stop being driven further aground, check the tide tables for the next high tide, kedge off, back off carefully after checking the bottom because prop wash can push sand toward the bow, shut down if temperatures rise, call for professional help if still stuck."
+    },
+    {
+      "id": "sea-c-boatingmag-sinking",
+      "title": "What to do when your boat is sinking (Boating Magazine)",
+      "publisher": "Boating Magazine",
+      "url": "https://boatingmag.com/how-to/what-to-do-when-your-boat-sinking/",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Recreational, US source. Supports: lifejackets first, then a MAYDAY on channel 16 giving position, persons on board and the nature of the distress; close a burst hose's seacock; shift weight to the side opposite the leak to raise the hole; intentionally grounding on a bar or beach may beat sinking; stay with a capsized boat if possible. The engine-as-bilge-pump trick it also describes is not used."
+    },
+    {
+      "id": "sea-c-boatsmart-swamping",
+      "title": "Swamping or sinking (BOATsmart! knowledge base)",
+      "publisher": "OUTDOORsmart / BOATsmart!",
+      "url": "https://www.boatsmartexam.com/knowledge-base/article/swamping-or-sinking/",
+      "edition": "accessed 2026-10-10",
+      "kind": "provider-page",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). Canadian boating-course site (it also references the Small Vessel Regulations). Supports: if water accumulates, decide whether people are in danger, stop the craft so water pressure on the hull falls, run the bilge pump and find the source, plug with tapered plugs, a patch kit or rags, bail or pump, signal for help; if it is sinking, make sure everyone wears a lifejacket, account for everyone and look for nearby vessels."
+    },
+    {
+      "id": "sea-c-profmariner-girding",
+      "title": "Capsizing of tug leads to TSB warning on girding risks (Professional Mariner)",
+      "publisher": "Professional Mariner",
+      "url": "https://professionalmariner.com/capsizing-of-tug-leads-to-tsb-warning-on-girding-risks/",
+      "edition": "accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (the raw page was not opened by the author). News report of Transportation Safety Board investigation M18P0230. Supports: on 13 August 2018 the tug George H. Ledcor, towing the gravel barge Evco 55 on the north arm of the Fraser River, girded and capsized after the barge overtook it; all four crew were rescued from the overturned hull; the master applied full starboard rudder and full throttle and the attempt to abort the tow failed; the TSB received reports of 26 girding situations resulting in 21 capsizings between 2005 and 2018 and cited gaps in awareness, informal practices and training."
+    }
+  ]
+}

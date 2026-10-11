@@ -1,0 +1,241 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.flooding-and-damage-control.q01",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Water is found entering a small vessel. What does the Transport Canada procedure say to do first?",
+      "options": [
+        "Abandon ship at once",
+        "Find the leak before doing anything else, even if the water is rising",
+        "Call out where the water is, then start the pumps or bail",
+        "Fill out the incident report"
+      ],
+      "correct_index": 2,
+      "explanation": "The procedure starts with calling out the location of the water ('Water in or on the ...') and starting the pumps or bailing, then finding where the water enters. Abandoning at once is for when stability is threatened, and the incident report comes last.",
+      "source_ids": [
+        "sea-c-tc-template-water"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q02",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which sequence matches the Transport Canada taking-on-water procedure?",
+      "options": [
+        "Notify authorities, abandon ship, find the entry, then pump",
+        "Call out location, pump or bail, find the entry, notify if at risk, stop or slow the leak, prepare to abandon if stability is threatened",
+        "Prepare to abandon, call out location, stop the leak, then start pumping",
+        "Find the entry, file the incident report, then call out the location"
+      ],
+      "correct_index": 1,
+      "explanation": "The order is call out, pump or bail, find the entry, notify if the vessel is at risk, stop or slow the leak (or consider grounding), prepare to abandon if stability is threatened, keep authorities informed, then complete the incident report.",
+      "source_ids": [
+        "sea-c-tc-template-water"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q03",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A moving vessel has a leak below the waterline. Why does the BOATsmart! guidance say to stop her completely?",
+      "options": [
+        "It reduces the water pressure on the hull and slows the inflow",
+        "It lets the propeller cool down",
+        "It makes the hole larger so it can be found",
+        "It stops water entering through the seacocks"
+      ],
+      "correct_index": 0,
+      "explanation": "The guidance says stopping a moving craft reduces the water pressure on the hull and slows the inflow. It has nothing to do with the propeller or with enlarging the hole.",
+      "source_ids": [
+        "sea-c-boatsmart-swamping"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q04",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A raw-water hose has burst in the engine space. What is the quickest way to stop the flow?",
+      "options": [
+        "Open all the hatches",
+        "Increase engine speed",
+        "Switch off the compass light",
+        "Close its seacock"
+      ],
+      "correct_index": 3,
+      "explanation": "Closing the seacock of the burst hose stops the sea from coming in. The other actions do nothing to the leak, which is why seacocks must be accessible and work by hand.",
+      "source_ids": [
+        "sea-c-boatingmag-sinking",
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q05",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these are suitable ways to stop a small leak in a hull according to the BOATsmart! guidance?",
+      "options": [
+        "Water-soluble glue",
+        "A tow line wrapped round the hull amidships",
+        "Tapered wooden plugs, a hull patch kit, or towels and rags pressed into the hole",
+        "Ice packed into the hole"
+      ],
+      "correct_index": 2,
+      "explanation": "The guidance lists tapered wooden plugs, a patch kit, and towels, rags or other malleable material, and says to carry them as a standing kit. The other options do not make a watertight seal.",
+      "source_ids": [
+        "sea-c-boatsmart-swamping"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q06",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why does water sloshing about inside a flooded compartment endanger the vessel beyond its weight?",
+      "options": [
+        "It raises the centre of buoyancy above the deck",
+        "It is a free surface that moves to the low side and reduces stability",
+        "It increases the vessel's metacentric height",
+        "It changes the magnetic compass reading"
+      ],
+      "correct_index": 1,
+      "explanation": "Water moving inside the hull is a free surface: it flows to the low side as the vessel heels and cuts the righting effect. It reduces, not increases, GM, and does not affect the compass.",
+      "source_ids": [
+        "sea-c-tc-template-water",
+        "sea-c-boatsmart-swamping"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q07",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Flooding cannot be controlled and the nearest shoreline is a gravel beach with a light swell on one side and a rocky headland with heavy surf on the other. What does the guidance support?",
+      "options": [
+        "Deliberately beaching her on the gravel beach, avoiding the rocks and surf",
+        "Running onto the rocky headland where she will be easiest to find",
+        "Staying in deep water to avoid damage to the hull",
+        "Anchoring in mid-channel and waiting"
+      ],
+      "correct_index": 0,
+      "explanation": "The template says to consider grounding the vessel if the flooding cannot be controlled, and Boating Magazine says grounding on a bar or beach may beat sinking as long as you avoid jagged rocks and high surf.",
+      "source_ids": [
+        "sea-c-tc-template-water",
+        "sea-c-boatingmag-sinking"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q08",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The master decides the vessel may sink. Which set of actions matches the guidance?",
+      "options": [
+        "Lifejackets stowed to avoid snagging, a PAN PAN, and wait for the water to stop",
+        "Only the crew put on lifejackets, then a MAYDAY without a position",
+        "All passengers go below to stay dry while the crew bail",
+        "Lifejackets on and everyone accounted for, a MAYDAY with position, persons on board and nature of distress, and preparation to abandon"
+      ],
+      "correct_index": 3,
+      "explanation": "BOATsmart! and Boating Magazine advise lifejackets for everyone and a check that everyone is present, and a MAYDAY on channel 16 with location, number of people and nature of the distress. The template adds preparing to abandon if stability is threatened.",
+      "source_ids": [
+        "sea-c-boatsmart-swamping",
+        "sea-c-boatingmag-sinking",
+        "sea-c-tc-template-water"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q09",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about SVR s. 602 is correct?",
+      "options": [
+        "Only passenger vessels need seacocks",
+        "Wet exhausts must have a seacock like everything else",
+        "Every vessel must be able to positively shut off underwater penetrations, with wet exhaust systems excepted",
+        "Seacocks are required only on vessels over 12 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 602(1) requires the means for positively shutting off underwater penetrations on every vessel, except wet exhaust systems. It is not limited to passenger vessels or to length.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q10",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What pumping equipment must a 7 m passenger-carrying vessel under SVR Part 4 carry?",
+      "options": [
+        "A manual bilge pump only",
+        "A bailer or a manual bilge pump",
+        "A powered bilge pump with an alarm",
+        "None, since she is under 9 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 412 requires a bailer or manual bilge pump for vessels up to 9 m (and a manual bilge pump over 9 m). The bailer or pump can be omitted only if the vessel cannot retain enough water to capsize or its compartments are sealed.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.flooding-and-damage-control.q11",
+      "lesson_id": "seamanship.flooding-and-damage-control",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A tug strikes a log and sustains damage that affects her seaworthiness. She does not sink, no one is hurt, and she returns to port. Is there a TSB reporting duty?",
+      "options": [
+        "Yes: damage that affects seaworthiness or renders the ship unfit for its purpose is reportable, with the available facts as soon as possible and the rest within 30 days",
+        "No, because she did not sink",
+        "No, because no one was injured",
+        "Yes, but only if the damage costs more than a set amount"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(1)(d)(vi) lists damage that affects seaworthiness or renders the ship unfit for its purpose, whether or not she sinks and whether or not anyone is hurt. There is no cost threshold in that paragraph.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

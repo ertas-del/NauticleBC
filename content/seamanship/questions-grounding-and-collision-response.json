@@ -1,0 +1,257 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.grounding-and-collision-response.q01",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Two vessels collide. What does section 148 of the Canada Shipping Act, 2001 require of each master, so far as it can be done without endangering their own vessel, crew or passengers?",
+      "options": [
+        "Leave the area at once so as to avoid further risk of collision",
+        "Report to the owner and take no action until the owner replies",
+        "Tow the other vessel to the nearest port, whatever the circumstances",
+        "Render assistance to the other vessel and stay by it until satisfied it needs no more help, and give the vessel's name and the authorized representative's name and address"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 148 requires assistance and standing by until the other vessel needs no more help, and giving the name of the vessel, the name and address of its authorized representative and other prescribed information. It is conditional on not endangering your own vessel, but does not allow leaving the scene.",
+      "source_ids": [
+        "sea-c-csa-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q02",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master who has just collided with another vessel finds their own vessel is taking on water. How does s. 148 apply?",
+      "options": [
+        "The duty to stand by is absolute and overrides the safety of the master's own vessel",
+        "Section 148 does not apply if either vessel is damaged",
+        "The duty to assist is limited by the words 'if and in so far as they can do so without endangering their vessel, crew or passengers', so the master's own safety comes first",
+        "The master need only give their name, not stand by"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 148 applies only so far as assistance can be given without endangering the master's own vessel, crew or passengers. The exchange of names and details is a separate requirement.",
+      "source_ids": [
+        "sea-c-csa-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q03",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A small vessel runs aground. Which are the first things the master should do?",
+      "options": [
+        "Put the engine full astern at once",
+        "Check for injuries, leaks and damage and decide whether it is a soft or hard grounding",
+        "Raise the anchor and head for the nearest dock",
+        "Call the owner and wait for instructions"
+      ],
+      "correct_index": 1,
+      "explanation": "The first steps are to assess what was hit and how deeply the vessel is bedded, check for injuries, leaks and damage, and decide whether the grounding is soft or hard. Going full astern at once can bed her more firmly or damage the propeller and engine.",
+      "source_ids": [
+        "sea-c-boatus-aground"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q04",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel is hard aground on rock and may be holed. What does the guidance say?",
+      "options": [
+        "Stay with the vessel, put lifejackets on and call for help; call the Coast Guard on channel 16 if she may sink or lives are at risk",
+        "Abandon her at once and swim ashore",
+        "Wait for the next low tide before calling anyone",
+        "Run the engine astern to free her before calling"
+      ],
+      "correct_index": 0,
+      "explanation": "If hard aground, stay with the vessel, wear lifejackets and call for help, using VHF channel 16 if she may sink or lives are at risk. Delay or forcing her off rock can make things worse.",
+      "source_ids": [
+        "sea-c-boatus-aground"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q05",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which sequence of refloating actions follows the BoatUS guidance?",
+      "options": [
+        "Set the anchor close to the bow, check the tide tables for low tide, then use full power astern",
+        "Pump out the fuel, wait for a wake from a passing vessel, then use full power ahead",
+        "Cut the anchor free and use the tender to push her off",
+        "Set an anchor out as far as possible, check the tide tables for the next high tide, then kedge off"
+      ],
+      "correct_index": 3,
+      "explanation": "The guidance is to set an anchor out as far as possible so she is not driven further aground, check the tide tables for the next high tide, and kedge off. Power astern is a later, careful step.",
+      "source_ids": [
+        "sea-c-boatus-aground"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q06",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Why should a master be careful about backing off a sandy bottom with the engine?",
+      "options": [
+        "Backing off always floats the vessel because the propeller lifts the stern",
+        "The propeller cannot work astern on sand",
+        "Prop wash astern can push sand or mud toward the bow and bed her more firmly, and the engine can overheat",
+        "Backing off is illegal while aground"
+      ],
+      "correct_index": 2,
+      "explanation": "The guidance says prop wash can push sand toward the bow and ground her more firmly, to check the bottom first and to shut the engine down if the temperature rises quickly.",
+      "source_ids": [
+        "sea-c-boatus-aground"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q07",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 14 m tug bumps a submerged rock, stops for a moment and then continues without apparent damage. Is it reportable to the TSB?",
+      "options": [
+        "No, because she did not go aground",
+        "Yes: unforeseen contact with the bottom without going aground is a reportable marine occurrence",
+        "Only if the hull is holed",
+        "Only if she is a passenger vessel"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 3(1)(d)(v) of the Transportation Safety Board Regulations lists unforeseen contact with the bottom without going aground. Damage is a separate item.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q08",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which list contains only events reportable to the TSB under s. 3(1)(d)?",
+      "options": [
+        "A risk of a collision, going aground, being beached to avoid an occurrence, and damage affecting seaworthiness",
+        "Passing close to another vessel at a safe distance, going aground, and a scheduled haul-out",
+        "A fouled propeller cleared at the dock, going aground, and a delayed departure",
+        "A low-fuel alarm, a risk of a collision, and a change of crew"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(1)(d) lists a collision or a risk of a collision, going aground, unforeseen contact with the bottom, being anchored, grounded or beached to avoid an occurrence, and damage affecting seaworthiness. A safe passing, a haul-out or a delayed departure are not occurrences.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q09",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How soon must the report to the TSB be made after a grounding?",
+      "options": [
+        "Within 24 hours of the grounding",
+        "Within 7 days, by post",
+        "Only when the vessel returns to her home port",
+        "The available facts as soon as possible by the quickest means, and the rest within 30 days"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 3(3) of the TSB Regulations requires the information available at the time as soon as possible by the quickest means, and the remainder as it becomes available within 30 days.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q10",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel's tow drags a lit buoy off its position. Who must the person in charge tell, and when?",
+      "options": [
+        "The port authority within 30 days",
+        "The authorized representative at the end of the voyage",
+        "A marine communications and traffic services officer, without delay (or a Canadian Coast Guard officer if that is not feasible)",
+        "No one, because a buoy is not a hazard"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 129(1) of the Canada Shipping Act, 2001 requires the person in charge to report damage to an aid to navigation without delay to an MCTS officer or, if not feasible, to a Coast Guard officer. The rule covers anything the vessel tows.",
+      "source_ids": [
+        "sea-c-csa-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q11",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master notices an uncharted shoal while entering an anchorage and sees that a lateral buoy is out of position. What does s. 129(2) require?",
+      "options": [
+        "A note in the log is enough",
+        "A report without delay to an MCTS officer (or a Coast Guard officer if that is not feasible)",
+        "A report at the end of the season to the harbour authority",
+        "No report unless the vessel is damaged"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 129(2) requires a person in charge in Canadian waters who discovers an uncharted hazard, or an aid to navigation that is missing, out of position or malfunctioning, to report without delay to an MCTS officer or, if not feasible, to a Coast Guard officer.",
+      "source_ids": [
+        "sea-c-csa-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.grounding-and-collision-response.q12",
+      "lesson_id": "seamanship.grounding-and-collision-response",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Rescuers have a damaged vessel stuck on a rock and want to pull her off on the next tide. What must they confirm first?",
+      "options": [
+        "That she will not sink once she is free",
+        "That the tide table shows low water",
+        "That her anchor is stowed",
+        "That the pump is switched off"
+      ],
+      "correct_index": 0,
+      "explanation": "The Coast Guard guidance says that if refloating, ensure the vessel will not sink once free. The rock may be holding her up or plugging damage.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

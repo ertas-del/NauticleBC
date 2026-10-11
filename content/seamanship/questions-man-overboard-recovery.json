@@ -1,0 +1,269 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.man-overboard-recovery.q01",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Someone falls overboard from a small vessel. What are the first two jobs of the person who sees it?",
+      "options": [
+        "Run to the wheelhouse and take the helm",
+        "Raise a loud alarm and point at the person in the water, and keep pointing without looking away",
+        "Jump in after the person with a lifebuoy",
+        "Stop the engine and call the owner ashore"
+      ],
+      "correct_index": 1,
+      "explanation": "The Transport Canada procedure has the spotter raise the alarm, point at the person and keep pointing until the vessel reaches them, because losing sight of the person is the danger. Jumping in or leaving the post defeats that.",
+      "source_ids": [
+        "sea-c-tc-template-pob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q02",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why does the skipper turn the wheel toward the side the person fell from?",
+      "options": [
+        "To move the propeller away from the person",
+        "To bring the stern close to the person for a quick pick-up",
+        "To make the vessel heel toward the person",
+        "To switch the rudder to autopilot"
+      ],
+      "correct_index": 0,
+      "explanation": "The template has the skipper turn the wheel toward the side the person fell from, which swings the stern and propeller away from them. Bringing the stern close would put the propeller beside the person.",
+      "source_ids": [
+        "sea-c-tc-template-pob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q03",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which approach matches the Transport Canada procedure?",
+      "options": [
+        "Approach fast with the wind astern to save time, and leave the engine running",
+        "Approach under power across the wind and leave the engine running at idle",
+        "Stop the engine well away and drift down on the person",
+        "Approach slowly under power heading into the wind, and stop the engine when the person is within reach"
+      ],
+      "correct_index": 3,
+      "explanation": "The procedure is a slow approach into the wind, going to the lowest speed near the person, then stopping the engine (for example with the kill cord) once the person is within reach. Fast or beam-on approaches give less control, and drifting down gives none.",
+      "source_ids": [
+        "sea-c-tc-template-pob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q04",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Swells are running and the vessel is being set down toward a person in the water. What does the procedure suggest?",
+      "options": [
+        "Reverse the propeller at full power",
+        "Turn the stern toward the person",
+        "Throw a heaving line or lifebuoy so the vessel does not drift down onto the person",
+        "Throw an anchor to the person"
+      ],
+      "correct_index": 2,
+      "explanation": "If the swells are significant, the template says to throw a heaving line or lifebuoy to the person rather than let the vessel drift onto them. Reversing at full power puts the propeller near the person.",
+      "source_ids": [
+        "sea-c-tc-template-pob"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q05",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which Coast Guard guidance point applies during the pick-up itself?",
+      "options": [
+        "Keep the propeller turning ahead to hold position",
+        "Stop propeller rotation during recovery, especially on the retrieving side",
+        "Put the engine hard astern to hold the person alongside",
+        "Switch off the VHF to concentrate"
+      ],
+      "correct_index": 1,
+      "explanation": "TP 11637 says to approach slowly and as close as is safe without striking the person, and to stop propeller rotation during recovery, especially on the retrieving side. A turning propeller beside a person in the water is the main hazard.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q06",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Two people are in the water after a capsize; one wears a lifejacket and an immersion suit, the other has no flotation or protection. Which is recovered first, and how is a suspected hypothermia victim lifted?",
+      "options": [
+        "The person without flotation or protection is recovered first, and a suspected hypothermia victim is lifted gently and horizontally",
+        "The person in the suit first, and a hypothermia victim is lifted upright to drain water",
+        "Whoever is closest, and a hypothermia victim is lifted fast and upright",
+        "The person without flotation last, so the rescuers are safe"
+      ],
+      "correct_index": 0,
+      "explanation": "The Coast Guard guidance recovers persons without flotation or hypothermia protection first and lifts suspected hypothermia victims gently and horizontally.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q07",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A crew member is to enter the water to help a casualty. What does the Coast Guard guidance say about the rescuer?",
+      "options": [
+        "The swimmer goes in without a line so as to move freely",
+        "The swimmer wears only a wetsuit",
+        "The swimmer is accompanied by a second swimmer on a free line",
+        "The rescue swimmer wears flotation and a harness with a safety line tended by a crew member"
+      ],
+      "correct_index": 3,
+      "explanation": "TP 11637 says the rescue swimmer wears appropriate flotation and a harness with a safety line tended by a crew member, so the rescuer does not become a second casualty.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q08",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 7 m passenger-carrying vessel has a vertical climb of 0.8 m to reboard from the water. Which does SVR s. 409 require?",
+      "options": [
+        "No reboarding device, because 0.8 m is not more than 0.5 m",
+        "A reboarding device but no throwing gear",
+        "A reboarding device and a buoyant heaving line of at least 15 m (or a lifebuoy on a 15 m line)",
+        "A self-igniting lifebuoy and nothing else"
+      ],
+      "correct_index": 2,
+      "explanation": "The reboarding device is required unless the vertical climb is not more than 0.5 m; at 0.8 m it is needed. For over 6 m up to 9 m, throwing gear is a 15 m buoyant heaving line or a lifebuoy on a 15 m buoyant line. A self-igniting light is mentioned only over 12 m.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q09",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under SVR s. 409, what throwing gear must an 11 m passenger-carrying vessel carry?",
+      "options": [
+        "A buoyant heaving line of at least 15 m only",
+        "A buoyant heaving line of at least 15 m and a lifebuoy attached to a 15 m buoyant line",
+        "A lifebuoy with a self-igniting light only",
+        "A heaving line of 5 m and a lifebuoy"
+      ],
+      "correct_index": 1,
+      "explanation": "Over 9 m up to 12 m both items are required: the heaving line of at least 15 m (with a buoyant mass at one end) and a lifebuoy attached to a buoyant line of at least 15 m. The self-igniting light option is for vessels over 12 m.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q10",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A deckhand on a commercial tug falls overboard and is recovered unhurt within two minutes. Is this reportable to the TSB?",
+      "options": [
+        "Yes, a person falling overboard is a reportable marine occurrence even if no one is injured",
+        "No, because the person was recovered unhurt",
+        "Only if the person is taken to hospital",
+        "Only if the person was not wearing a lifejacket"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(1)(b) of the TSB Regulations lists a person falling overboard from a ship other than a pleasure craft, without any condition about injury. Death or serious injury is a separate item in s. 3(1)(a).",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q11",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "According to the 1-10-1 principle, roughly how long does cold shock last?",
+      "options": [
+        "About 10 minutes",
+        "About 1 hour",
+        "About 10 seconds",
+        "About 1 minute"
+      ],
+      "correct_index": 3,
+      "explanation": "The Canadian Safe Boating Council gives cold shock as about 1 minute, cold incapacitation and swim failure over about 10 minutes, and about 1 hour before hypothermia leads to unconsciousness.",
+      "source_ids": [
+        "sea-c-csbc-1-10-1"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.man-overboard-recovery.q12",
+      "lesson_id": "seamanship.man-overboard-recovery",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Why is it important to recover a person from cold BC water within minutes?",
+      "options": [
+        "The lifejacket loses its buoyancy after 10 minutes",
+        "Cold shock lasts about an hour",
+        "After about 10 minutes the person loses effective use of fingers, arms and legs, so they cannot help themselves",
+        "Hypothermia always causes unconsciousness within two minutes"
+      ],
+      "correct_index": 2,
+      "explanation": "Per the 1-10-1 principle, swim failure and loss of effective use of the limbs come in about 10 minutes, and hypothermia takes about an hour to cause unconsciousness. Lifejackets keep their buoyancy.",
+      "source_ids": [
+        "sea-c-csbc-1-10-1"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

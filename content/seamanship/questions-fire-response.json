@@ -1,0 +1,271 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.fire-response.q01",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What are the priorities at a fire on a vessel, in order?",
+      "options": [
+        "Save lives, stop the fire endangering others, then reduce property damage",
+        "Save the vessel, save the cargo, then save lives",
+        "Reduce property damage, save lives, then stop the fire spreading",
+        "Report the fire, save the vessel, then save lives"
+      ],
+      "correct_index": 0,
+      "explanation": "The Canadian Coast Guard guidance puts saving lives first, preventing the fire endangering other people or vessels second and reducing property damage third. Putting the vessel first reverses the order.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q02",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Underway, someone sights a fire. Which action matches the Transport Canada procedure for the rest of the crew?",
+      "options": [
+        "Open all windows and vents to clear the smoke",
+        "Wait for the master to assess before touching any equipment",
+        "Pump the bilges and start the generator",
+        "Close windows and vents to cut off air, ready extinguishers and lifesaving gear"
+      ],
+      "correct_index": 3,
+      "explanation": "While the fire is being assessed, other crew close windows and vents to cut off air, ready extinguishers, hoses and first aid, and prepare lifesaving equipment. Opening vents feeds the fire with air.",
+      "source_ids": [
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q03",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is a reason NOT to fight a fire with portable extinguishers?",
+      "options": [
+        "The fire is small and in an open cockpit",
+        "The fire has just started and is in a waste bin",
+        "The fire is giving off heavy smoke and could block the crew's way out",
+        "An extinguisher is within reach"
+      ],
+      "correct_index": 2,
+      "explanation": "Crew should fight only a small fire where escape is not at risk. They should not fight one that makes heavy smoke, is near other flammable material, is too big for one extinguisher or blocks the way out.",
+      "source_ids": [
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q04",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does PASS stand for when using a portable extinguisher?",
+      "options": [
+        "Point, aim, shoot, stop",
+        "Pull the pin, aim at the base of the fire, squeeze the handle, sweep side to side",
+        "Pull, aim at the top of the flames, squeeze, stop when the smoke clears",
+        "Prepare, activate, spray, secure"
+      ],
+      "correct_index": 1,
+      "explanation": "PASS is pull the pin, aim at the base, squeeze the handle, sweep side to side. The base of the fire is the target, not the top of the flames.",
+      "source_ids": [
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q05",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A crew member has put out the flames on a cabin electrical fire with an extinguisher and wants to follow up with the hose to cool the wiring. What is the right call?",
+      "options": [
+        "Do not use the hose on an electrical fire, keep a watch for reignition and report to the master",
+        "Use the hose, because water cools every kind of fire",
+        "Leave the area and do not watch for reignition",
+        "Use the hose only if the extinguisher is empty"
+      ],
+      "correct_index": 0,
+      "explanation": "The procedure says to use a hose if one is available, except on electrical, grease or oil fires. Water on electrics is dangerous. After the fire is out someone keeps watch for reignition and updates the master.",
+      "source_ids": [
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q06",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A fire starts in the engine space of a vessel underway. Which pair of actions does TP 14070 give for the master and crew?",
+      "options": [
+        "Position the boat so the fire is upwind and run the engine faster",
+        "Open the engine-space hatch wide and shut off the lifejackets",
+        "Anchor at once and switch off the VHF",
+        "Position the boat so the fire is downwind and stop the engine and shut off the fuel"
+      ],
+      "correct_index": 3,
+      "explanation": "TP 14070 says to put the fire downwind and, for an engine-space fire, to stop the engine and shut off fuel. It also says to send a distress signal and put lifejackets on those not fighting the fire.",
+      "source_ids": [
+        "sea-c-tc-tp14070",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q07",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which set of portable extinguishers is required for a passenger-carrying vessel that is 14 m long, under SVR s. 414?",
+      "options": [
+        "One 1A:5B:C extinguisher and a fire axe",
+        "A 2A:10B:C extinguisher and one bucket only",
+        "A 2A:20B:C extinguisher, a 20B:C at the engine space entrance, a fire pump outside the engine space with hose and nozzle, a fire axe and two buckets",
+        "A 10B:C extinguisher and a CO2 flooding system"
+      ],
+      "correct_index": 2,
+      "explanation": "Over 12 m s. 414 requires a 2A:20B:C extinguisher (with more at each appliance-space access and accommodation entrance), a 20B:C at the engine space entrance, a manual or powered pump outside the engine space, a hose and nozzle, an axe and two buckets.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q08",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An engine space has a gross enclosed volume of 8 cubic metres. A CO2 extinguisher is to be used for direct discharge. What is the minimum CO2, and how quickly must it discharge?",
+      "options": [
+        "9.6 kg of CO2, discharging in not more than 10 seconds",
+        "9.6 kg of CO2, discharging completely in not more than 60 seconds",
+        "1.2 kg of CO2, discharging in not more than 60 seconds",
+        "6.6 kg of CO2, discharging in not more than 60 seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "SVR s. 416 requires 1.2 kg of CO2 per cubic metre of gross enclosed engine space volume: 1.2 x 8 = 9.6 kg. A CO2 extinguisher must discharge completely in not more than 60 seconds; 10 seconds is the limit for a clean agent. The extinguisher is in addition to those required by s. 414.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q09",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 5 m passenger-carrying vessel has an enclosed engine space and no fixed fire system. What does s. 415 require?",
+      "options": [
+        "Provision to discharge a portable extinguisher into the engine space without opening the primary access, clearly marked",
+        "No provision, because fixed systems are optional up to 6 m",
+        "A fixed CO2 flooding system with a 10 second delay",
+        "A fire pump outside the engine space"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 415 requires a vessel of not more than 6 m with an enclosed engine space to have provision for direct discharge, marked to show its purpose, unless it has a fixed system as in s. 741.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q10",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 9 m non-pleasure vessel has an enclosed engine space. Which statement matches SVR ss. 740 and 741?",
+      "options": [
+        "It needs only a portable extinguisher, because fixed systems start at 12 m",
+        "It needs a fixed system only if it carries passengers",
+        "It needs a heat detector hard-wired to a siren only on the weather deck",
+        "It needs a fixed fire extinguishing system or a direct-discharge provision, plus a fire alarm panel and detectors"
+      ],
+      "correct_index": 3,
+      "explanation": "Sections 740 and 741 apply to non-pleasure vessels over 6 m with an enclosed engine space: a fixed system or a direct-discharge provision, a fire alarm panel, a dual action rate-of-rise and fixed temperature detector in each engine space and detectors in accommodation and service spaces.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q11",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A fire occurs on a commercial tug. Which statement about reporting is correct?",
+      "options": [
+        "Only a fire that destroys the vessel is reportable",
+        "Reporting is needed only when the fire department attends",
+        "A fire or explosion is a reportable marine occurrence: send the available facts as soon as possible by the quickest means and the remainder within 30 days",
+        "The full report is due within 24 hours"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 3 of the Transportation Safety Board Regulations lists a fire or explosion among reportable marine occurrences, with the information sent as soon as possible by the quickest means and the remainder within 30 days.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.fire-response.q12",
+      "lesson_id": "seamanship.fire-response",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A skipper has two crew trapped forward behind a fire, and the engine-space fire is spreading. Which decision best matches the priorities and the master's role?",
+      "options": [
+        "Keep fighting to save the vessel and decide about the crew afterwards",
+        "Order everyone else out, account for the crew, and decide on abandonment if the risk of spread or explosion is too high, putting lives ahead of the vessel",
+        "Send the rest of the crew into the smoke to save the engine",
+        "Leave the master's decision to the first person to find a life raft"
+      ],
+      "correct_index": 1,
+      "explanation": "Lives come first, then stopping the spread, then property. The master manoeuvres to keep the fire downwind and decides whether the risk of spread or explosion requires abandoning ship.",
+      "source_ids": [
+        "sea-c-ccg-tp11637",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

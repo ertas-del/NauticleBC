@@ -1,0 +1,278 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.towing-and-girding.q01",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What is girding?",
+      "options": [
+        "The tow overtakes the tug and passes it safely on one side",
+        "The towline pulls the tug broadside and the tug cannot get out of that position, which can quickly lead to capsize",
+        "The towline parts and the tow drifts free",
+        "A tug turns in a small circle while towing astern"
+      ],
+      "correct_index": 1,
+      "explanation": "Transport Canada's Ship Safety Bulletin 16/2020 describes girding as a towline pulling the tug broadside with the tug unable to recover, which can quickly capsize it. A parted line or a tight turn is not girding.",
+      "source_ids": [
+        "sea-c-tc-ssb-16-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q02",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which combination makes girding MORE likely?",
+      "options": [
+        "A shortened towline, the tug close to the tow, a speed or course change, and the tow catching up with the tug",
+        "A long towline, the tug well clear of the tow, steady speed and a tow falling astern",
+        "A long towline, steady course and speed, and the winch clutch released",
+        "Calm weather, no current, and all hull openings closed"
+      ],
+      "correct_index": 0,
+      "explanation": "The bulletin lists a shortened towline (a steeper angle), a close tug, speed or course changes and a tow overtaking the tug among the risk factors. The other options describe the opposite conditions.",
+      "source_ids": [
+        "sea-c-tc-ssb-16-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q03",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "When may a tug tow with the winch clutch engaged, according to the bulletin?",
+      "options": [
+        "Whenever the line is under load",
+        "Only in calm weather",
+        "Always, to prevent the line paying out",
+        "Only while adjusting the towline length"
+      ],
+      "correct_index": 3,
+      "explanation": "Transport Canada's bulletin says never tow with the winch clutch engaged except while adjusting the towline length. Letting the line pay out is part of avoiding girding; paying out more wire to freshen the nip on a long tow is a related precaution.",
+      "source_ids": [
+        "sea-c-tc-ssb-16-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q04",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is part of the regular test of a tug's emergency release system?",
+      "options": [
+        "Test it once at the wheelhouse only",
+        "Test it only when the tow is first connected and never again",
+        "Test every location where the release can be operated, check that the winch brake and clutch release, and confirm the system resets",
+        "Test it by cutting the towline with the tow connected"
+      ],
+      "correct_index": 2,
+      "explanation": "The bulletin asks for regular tests that include every location of the abort system, that the winch brake and clutch release and that the system fully resets. Testing at one place or once only misses faults, and cutting a live tow is an emergency action, not a test.",
+      "source_ids": [
+        "sea-c-tc-ssb-16-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q05",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which item belongs in a master's tow plan?",
+      "options": [
+        "The tug's colour scheme and radio call sign only",
+        "The tug's power and bollard pull compared with the size of the tow, and the connection and disconnection arrangements",
+        "The tow's cargo manifest and nothing about the tug",
+        "The passenger lists of both the tug and the tow"
+      ],
+      "correct_index": 1,
+      "explanation": "The bulletin's tow plan covers the tow's size and limits, tug power and bollard pull, the towing point and towline length, stability, connection and disconnection, the route and weather, and consumables. Passengers should not be aboard at all (s. 404(3)).",
+      "source_ids": [
+        "sea-c-tc-ssb-16-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q06",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A passenger-carrying vessel under Part 4 of the Small Vessel Regulations is about to take a barge in tow. What must be true, except in an emergency?",
+      "options": [
+        "There are no passengers on board the vessel or the tow, and the vessel meets s. 521",
+        "Passengers may be on the tow but not on the vessel",
+        "Passengers may stay on board if they wear lifejackets",
+        "There is no restriction as long as the barge is under 15 GT"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 404(3) says that except in an emergency the operator must ensure there are no passengers on the vessel or the tow and that the vessel meets s. 521. Lifejackets and tow size do not remove the restriction.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q07",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which list matches the requirements of SVR s. 521 for a workboat that tows?",
+      "options": [
+        "One lifejacket in the wheelhouse, a hand axe in the cabin, one escape, and a bulwark aft of the towing point",
+        "Two lifejackets for every person on board, a fire pump, and a gob wire at the stern",
+        "Two lifejackets in the wheelhouse only, a tow plan, and a radar reflector",
+        "Two lifejackets in the wheelhouse and two in an occupied engine space, an immediate release or cutting means, two means of escape from the wheelhouse, and a clear deck aft of the towing point"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 521 lists the two lifejackets in the wheelhouse and two in the engine space if normally occupied, a means to release or cut the tow line immediately, two means of escape from the wheelhouse located so one is usable if heeled, and a clear deck aft so the line can swing freely.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q08",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An open (not decked) workboat is used for towing. Which SVR s. 521 requirement applies to her hull?",
+      "options": [
+        "She must be watertight forward of the towing point",
+        "She must have a collision bulkhead and a double bottom",
+        "She must have positive buoyancy when swamped, or a gunwale high enough to resist swamping from an emergency with the tow",
+        "She must have no freeing ports"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 521(f) says an open workboat must have positive buoyancy when swamped or a gunwale of adequate height. The watertight-aft-of-the-towing-point and rapid-drainage requirement is for decked vessels (s. 521(e)).",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q09",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "According to Transport Canada's tug guidance, how can the towline of a tug on a winch be dealt with in an emergency?",
+      "options": [
+        "Only the deck crew at the stern can release it, using a ratchet",
+        "A control at each steering position immediately reduces tension (or releases a hook), and the line can be cut or released at the bollard, or a marked axe is stowed there",
+        "The towline must be unshackled at the barge before any release",
+        "No release is needed if the winch is hydraulic"
+      ],
+      "correct_index": 1,
+      "explanation": "TP 15491 describes controls at each steering position to reduce tension or release a hook and a means to sever or release the line at the bollard, or a clearly marked axe. It also says a winch must not have a ratchet that prevents paying out.",
+      "source_ids": [
+        "sea-c-tc-tp15491"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q10",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 9 GT tug designed and built for towing is fitted out for general towing work (not log salvage). What do the Navigation Safety Regulations, 2020 require under s. 121?",
+      "options": [
+        "Two searchlights mounted to sweep 360 degrees together",
+        "One searchlight on the mast",
+        "No searchlights; they apply only to vessels over 150 GT",
+        "Two searchlights, but only if the tow exceeds 200 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 121 requires two searchlights on vessels designed and constructed to tow that are over 5 GT, unless they tow only to salvage logs, mounted to sweep 360 degrees together. The 200 m figure applies to the towing lights, not to searchlights.",
+      "source_ids": [
+        "sea-c-nsr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q11",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A tug is towing a barge and the tow is more than 200 m long (measured as in the Rules). How is this shown?",
+      "options": [
+        "Two masthead lights in a vertical line, and a ball by day",
+        "A single masthead light and a cone by day",
+        "Three red lights in a vertical line",
+        "Three masthead lights in a vertical line, and a diamond by day"
+      ],
+      "correct_index": 3,
+      "explanation": "TP 15491 gives three masthead lights for a tow longer than 200 m, with a diamond by day (Rule 24). Two masthead lights is the arrangement for a shorter tow.",
+      "source_ids": [
+        "sea-c-tc-tp15491"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q12",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about girding in Canadian waters is supported by the TSB figures reported?",
+      "options": [
+        "Girding has never led to a capsizing in Canada",
+        "There were 26 capsizings and 21 girding situations between 2005 and 2018",
+        "Between 2005 and 2018 the TSB received reports of 26 girding situations that resulted in 21 capsizings",
+        "All girdings between 2005 and 2018 occurred in the Strait of Georgia"
+      ],
+      "correct_index": 2,
+      "explanation": "The TSB, in the report of the 2018 George H. Ledcor capsizing on the Fraser River, recorded 26 girding situations leading to 21 capsizings in 2005-2018. The other options reverse or invent figures.",
+      "source_ids": [
+        "sea-c-profmariner-girding"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.towing-and-girding.q13",
+      "lesson_id": "seamanship.towing-and-girding",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A towing watch is posted on a tow. What does the Canadian Coast Guard's 1993 SAR guidance say about the watch?",
+      "options": [
+        "The watch stays in the engine room and does not look at the tow",
+        "The watch constantly observes the tow and equipment, with a way of cutting the towline close by",
+        "The watch is needed only at night",
+        "The watch releases the tow whenever the speed changes"
+      ],
+      "correct_index": 1,
+      "explanation": "TP 11637 designates a towing watch who constantly observes the tow and equipment and has a way of cutting the towline nearby, and reports how the tow rides and any failure. It is not limited to night or to the engine room.",
+      "source_ids": [
+        "sea-c-ccg-tp11637"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

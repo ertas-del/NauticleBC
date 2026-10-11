@@ -1,0 +1,220 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.shiphandling.q01",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "In which conditions is propeller walk (transverse thrust) strongest on a single-screw vessel?",
+      "options": [
+        "Going ahead at full speed",
+        "Going ahead with the rudder amidships at slow speed",
+        "Stopped, with the engine in neutral",
+        "Going astern at slow speed and high revolutions"
+      ],
+      "correct_index": 3,
+      "explanation": "Propeller walk is a sideways push on the stern from the turning propeller. It is much stronger astern than ahead, and strongest at slow speed and high revolutions. Going ahead the rudder easily compensates, and with the engine in neutral the propeller is not pushing at all.",
+      "source_ids": [
+        "sea-c-sail-walking-prop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q02",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel has a right-hand propeller. Which way does the stern tend to walk when she goes astern?",
+      "options": [
+        "To starboard, so the bow swings to port",
+        "Straight astern with no sideways push",
+        "To port, so the bow swings to starboard",
+        "Toward whichever side the wind is blowing from"
+      ],
+      "correct_index": 2,
+      "explanation": "A right-hand propeller walks the stern to port when the vessel goes astern (a left-hand propeller does the opposite). It does not go straight, and the wind can add to or cancel the walk but does not decide its direction.",
+      "source_ids": [
+        "sea-c-sail-walking-prop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q03",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A skipper with a right-hand single screw wants to berth so that backing will swing the stern toward the float. Which side should he put to the float?",
+      "options": [
+        "Starboard side, because the stern walks to starboard when going astern",
+        "Port side, because the stern walks to port when going astern",
+        "Either side, because the rudder decides the direction of walk",
+        "Stern first, because propeller walk does not act going ahead"
+      ],
+      "correct_index": 1,
+      "explanation": "With a right-hand propeller the stern walks to port astern, so a short burst astern swings the stern toward a float on the port side. The rudder does not set the direction of walk, and the stern-first idea ignores that reverse steers poorly until the walk takes effect.",
+      "source_ids": [
+        "sea-c-sail-walking-prop",
+        "sea-c-openexam-boat-handling"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q04",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Where is the pivot point of a small vessel that is making headway?",
+      "options": [
+        "About one-third of her length aft of the bow",
+        "At the bow",
+        "At the stern",
+        "About two-thirds of her length aft of the bow"
+      ],
+      "correct_index": 0,
+      "explanation": "A vessel making headway pivots about a point roughly one-third of her length from the bow. A pivot at the bow or the stern would make the vessel swing very differently, and two-thirds aft of the bow is too far aft for a vessel making headway.",
+      "source_ids": [
+        "sea-c-sail-walking-prop",
+        "sea-c-openexam-boat-handling"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q05",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What happens to the pivot point when the vessel stops and then goes astern?",
+      "options": [
+        "It stays one-third from the bow in every case",
+        "It moves to the bow when going astern",
+        "It disappears when the engine is in neutral",
+        "It sits near midships when stopped and moves aft of midships when she goes astern"
+      ],
+      "correct_index": 3,
+      "explanation": "The pivot point is about one-third from the bow with headway, near midships when dead in the water, and aft of midships with sternway. It does not stay fixed or jump to the bow.",
+      "source_ids": [
+        "sea-c-openexam-boat-handling"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q06",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why does a small vessel creeping toward a berth at very low speed steer sluggishly?",
+      "options": [
+        "The rudder is more effective at low speed, so it over-steers",
+        "Propeller walk disappears at low speed and removes steering",
+        "Little water is flowing past the rudder, so more rudder angle is needed and the response is slow",
+        "The pivot point moves to the bow at low speed"
+      ],
+      "correct_index": 2,
+      "explanation": "A rudder steers by the flow of water over it. Vessels respond sooner at higher speed and need more rudder angle at low speed. Prop walk is actually stronger at slow speed, and the pivot point does not move to the bow.",
+      "source_ids": [
+        "sea-c-navedtra-14067-rudder"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q07",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which approach to a berth best matches the lesson's advice?",
+      "options": [
+        "A steep angle at moderate speed, correcting with a late burst astern",
+        "A shallow angle with the least headway that still gives steerage, with the astern move planned early",
+        "Full speed to keep steerage, then a hard burst astern near the dock",
+        "Parallel to the dock at speed, relying on fenders to stop her"
+      ],
+      "correct_index": 1,
+      "explanation": "The advice is to approach at a shallow angle with minimum headway and plan reverse early, because reverse steers poorly until prop walk takes effect. A steep angle or high speed leaves no room to correct.",
+      "source_ids": [
+        "sea-c-openexam-boat-handling",
+        "sea-c-sail-walking-prop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q08",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel approaches a pier on a flood current that sets along the pier face. What is the lesson's warning?",
+      "options": [
+        "The current can set her down the face of the pier, so do not rely on reverse alone to stop her",
+        "The current always pins the vessel against the pier, so reverse is not needed",
+        "Current has no effect on a vessel making headway, only wind does",
+        "The current cancels propeller walk completely"
+      ],
+      "correct_index": 0,
+      "explanation": "A flood current can set a vessel down the pier face, so reverse alone may not hold her. The lesson says wind (not current) can cancel or add to prop walk, and that current does affect a vessel making headway.",
+      "source_ids": [
+        "sea-c-openexam-boat-handling",
+        "sea-c-sail-walking-prop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q09",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about wind, current and load is supported by the sources used for this lesson?",
+      "options": [
+        "Wind never affects propeller walk, and passenger load never changes how the vessel responds",
+        "A passenger load makes a vessel steer better at low speed, and wind pushes only on the hull below the waterline",
+        "Current is the only outside force that must be considered at a berth",
+        "Wind can cancel or add to propeller walk, and a passenger load can change how the vessel responds"
+      ],
+      "correct_index": 3,
+      "explanation": "Sail Magazine says the wind, depending on direction and strength, can cancel or add to prop walk; the boat-handling page says to allow for how a passenger load changes the response. Wind acts on the part above the water and current on the part below, so both matter.",
+      "source_ids": [
+        "sea-c-sail-walking-prop",
+        "sea-c-openexam-boat-handling"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.shiphandling.q10",
+      "lesson_id": "seamanship.shiphandling",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Someone falls from the port side of a single-screw vessel. Which wheel action does the Transport Canada template give for the skipper?",
+      "options": [
+        "Turn the wheel to starboard so the stern swings toward the person",
+        "Keep the wheel amidships and stop the engine at once",
+        "Turn the wheel toward the port side so the propeller swings away from the person",
+        "Put the engine astern and reverse toward the person at full speed"
+      ],
+      "correct_index": 2,
+      "explanation": "The template has the skipper turn the wheel toward the side the person fell from, which moves the propeller away from them, then approach slowly into the wind and stop the engine when the person is within reach. Stopping at once leaves the vessel drifting away, and reversing at full speed endangers the person.",
+      "source_ids": [
+        "sea-c-tc-template-pob"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
