@@ -5,7 +5,8 @@
       "id": "stability.righting-lever-gz-curve.q01",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the righting lever GZ?",
@@ -29,7 +30,8 @@
       "id": "stability.righting-lever-gz-curve.q02",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel displaces 30 t and has a righting lever GZ of 0.15 m. What is her righting moment?",
@@ -53,7 +55,8 @@
       "id": "stability.righting-lever-gz-curve.q03",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel has GM 0.60 m. Using the small-angle formula, what is GZ at 12 degrees of heel?",
@@ -77,7 +80,8 @@
       "id": "stability.righting-lever-gz-curve.q04",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 50 t vessel has GM 0.40 m. What is her righting moment at 6 degrees of heel, by the small-angle formula?",
@@ -101,7 +105,8 @@
       "id": "stability.righting-lever-gz-curve.q05",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does the starting slope of a GZ curve (at small angles of heel) tell you?",
@@ -125,7 +130,8 @@
       "id": "stability.righting-lever-gz-curve.q06",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "On a GZ curve, what is the range of stability?",
@@ -149,7 +155,8 @@
       "id": "stability.righting-lever-gz-curve.q07",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A GZ curve has the values 0 m at 0 degrees, 0.10 m at 10 degrees and 0.18 m at 20 degrees. Using the trapezoidal rule, what is the area under the curve from 0 to 20 degrees?",
@@ -173,7 +180,8 @@
       "id": "stability.righting-lever-gz-curve.q08",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is dynamic stability?",
@@ -197,7 +205,8 @@
       "id": "stability.righting-lever-gz-curve.q09",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel's GZ curve is calculated assuming the hull stays closed. An engine-room door is left open and goes under at 24 degrees of heel. What does this mean for the curve?",
@@ -221,7 +230,8 @@
       "id": "stability.righting-lever-gz-curve.q10",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A steady wind makes a heeling lever of 0.06 m on a vessel with GM 0.40 m. At about what angle of heel (small-angle formula) will she settle?",
@@ -245,7 +255,8 @@
       "id": "stability.righting-lever-gz-curve.q11",
       "lesson_id": "stability.righting-lever-gz-curve",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How does losing freeboard (by loading deeper) affect the GZ curve?",

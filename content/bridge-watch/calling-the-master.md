@@ -2,7 +2,7 @@
 id: bridge-watch.calling-the-master
 title: "When to call the master"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 75
 summary: "The situations in which the officer of the watch must notify the master immediately under the STCW watchkeeping principles, why 'if in any doubt, call' is the rule, and how a rating helps by passing on warning signs early."
 objectives:

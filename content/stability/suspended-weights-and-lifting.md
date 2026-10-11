@@ -2,7 +2,7 @@
 id: stability.suspended-weights-and-lifting
 title: "Lifting and suspended weights"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 60
 summary: A weight hanging from a boom acts at the point of suspension, not where it was stowed. This lesson shows how lifting raises G, how swinging a load out causes heel, why lifting from the water is the worst case, and the rules for safe lifting.
 objectives:

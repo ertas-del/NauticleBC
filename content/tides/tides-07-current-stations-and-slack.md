@@ -2,7 +2,7 @@
 id: tides.current-stations-and-slack
 title: "Current stations, slack water and turn times"
 module: tides
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 7
 summary: How a CHS current table is laid out (reference and secondary stations, slack, maximum flood and ebb, signs, time standard), with an invented secondary-station example and the limits of the predictions.
 objectives:

@@ -2,7 +2,7 @@
 id: chartwork.distance-off-lights
 title: "Lights: ranges and distance off"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 160
 summary: The three ranges of a light (nominal, luminous, geographic), the dipping-distance formula for how far off a light is when it first rises on the horizon, the effect of eye height and tide, and how to turn a first sighting into a position circle or a fix.
 objectives:

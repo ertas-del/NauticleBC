@@ -2,7 +2,7 @@
 id: seamanship.abandon-ship-cold-water
 title: "Abandon ship and cold-water survival"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 280
 summary: "The master's order to abandon, the Transport Canada sequence, launching a life raft with the painter attached, beacons, cold shock and the 1-10-1 principle, and the life raft and cold-water rules in the Small Vessel and Navigation Safety Regulations."
 objectives:

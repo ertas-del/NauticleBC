@@ -2,7 +2,7 @@
 id: bridge-watch.pyrotechnics-epirb-sart
 title: "Flares, EPIRBs and SARTs"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 200
 summary: The pyrotechnic distress signals, how long they last, how many small passenger vessels carry, what an EPIRB, PLB and SART are, how they are registered, tested and maintained under the Navigation Safety Regulations, and what to do after a false alert.
 objectives:

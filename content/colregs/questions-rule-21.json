@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-21.q01",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is the arc of visibility of a masthead light, and where does it shine?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-21.q02",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which statement about sidelights is correct?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-21.q03",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A sternlight is a white light placed as near the stern as practicable. What is its arc?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-21.q04",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "How does a towing light differ from a sternlight?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-21.q05",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Under Rule 21, what flash rate defines a \"flashing light\", and what arc does an \"all-round light\" show?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-21.q06",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Your 15 m workboat has one lantern on the bow centreline showing red to port and green to starboard. Is that allowed?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.rule-21.q07",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "At night you are coming up on a vessel from 30 degrees abaft her starboard beam. Which of her ordinary navigation lights should you see?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.rule-21.q08",
       "lesson_id": "colregs.rule-21.light-definitions",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which pair of lights is defined only in the Canadian modifications to Rule 21?",
       "options": [

@@ -2,7 +2,7 @@
 id: colregs.rule-30.anchored-aground
 title: "Rule 30: Anchored vessels and vessels aground"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 300
 summary: Anchor lights and the anchor ball, the single-light option under 50 m, deck lights on big ships, the aground signals, the small-vessel exemptions, and the Canadian provisions for barges and booms at anchor in inland waters.
 objectives:

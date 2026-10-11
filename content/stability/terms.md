@@ -2,7 +2,7 @@
 id: stability.terms
 title: "Displacement, draught, freeboard and deadweight"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 10
 summary: The basic words of stability - weight and buoyancy, displacement, lightship, deadweight, draught, freeboard, reserve buoyancy, trim, list, heel and loll - with worked examples of displacement from draught and sinkage from loading.
 objectives:

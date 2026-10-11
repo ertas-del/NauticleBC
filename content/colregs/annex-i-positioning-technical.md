@@ -2,7 +2,7 @@
 id: colregs.annex-i.positioning-technical
 title: "Annex I: Positioning and technical details of lights and shapes"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 410
 summary: Where navigation lights must sit (masthead heights, vertical and horizontal spacing, sidelights and screens), the size and spacing of day shapes, how light intensity relates to range, the sector rules, and the Canadian modifications that matter on small vessels.
 objectives:

@@ -5,7 +5,8 @@
       "id": "stability.icing.q01",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Why does ice on a vessel's rigging and upper structure reduce stability?",
@@ -29,7 +30,8 @@
       "id": "stability.icing.q02",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which list contains the main ways icing harms stability?",
@@ -53,7 +55,8 @@
       "id": "stability.icing.q03",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A crew has a limited time to remove ice. Where should they start?",
@@ -77,7 +80,8 @@
       "id": "stability.icing.q04",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 30 t vessel with KG 1.70 m collects 3 t of ice with its centre at 3.00 m above the keel. What is her new KG?",
@@ -101,7 +105,8 @@
       "id": "stability.icing.q05",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel has 0.40 m of freeboard and a TPC of 0.30 t per cm. She collects 3 t of ice. About what is her freeboard now?",
@@ -125,7 +130,8 @@
       "id": "stability.icing.q06",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these correctly describes a master's duty under s. 112 of the Canada Shipping Act, 2001, on icing?",
@@ -149,7 +155,8 @@
       "id": "stability.icing.q07",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does s. 3.05 of the Fishing Vessel Safety Regulations require about freezing spray?",
@@ -173,7 +180,8 @@
       "id": "stability.icing.q08",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel removes 1 t of ice that has formed low on the hull, below her G. What is the effect on G?",
@@ -197,7 +205,8 @@
       "id": "stability.icing.q09",
       "lesson_id": "stability.icing",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "In freezing spray, ice builds up around the freeing ports and scuppers of a small vessel. Why is that a stability problem?",

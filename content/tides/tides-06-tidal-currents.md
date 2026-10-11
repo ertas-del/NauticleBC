@@ -2,7 +2,7 @@
 id: tides.tidal-currents
 title: "Tidal currents"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 6
 summary: Why the tidal stream and the height of the tide are out of step, why slack water is often not at high or low water, and why BC narrows and rapids need the CHS current tables.
 objectives:

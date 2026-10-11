@@ -5,7 +5,8 @@
       "id": "machinery.materials.common-ship-materials.q01",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Steel is mainly an alloy of which two elements?",
@@ -27,7 +28,8 @@
       "id": "machinery.materials.common-ship-materials.q02",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Increasing the carbon content of a plain steel generally makes it:",
@@ -49,7 +51,8 @@
       "id": "machinery.materials.common-ship-materials.q03",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Brass is an alloy made mainly of:",
@@ -71,7 +74,8 @@
       "id": "machinery.materials.common-ship-materials.q04",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which choice best describes a non-ferrous metal?",
@@ -93,7 +97,8 @@
       "id": "machinery.materials.common-ship-materials.q05",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Cast iron is a poor choice for a part that must absorb sharp shocks mainly because it is:",
@@ -115,7 +120,8 @@
       "id": "machinery.materials.common-ship-materials.q06",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does adding chromium do to steel?",
@@ -137,7 +143,8 @@
       "id": "machinery.materials.common-ship-materials.q07",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A small aluminium bracket is bolted to a large bronze fitting in seawater. What is most likely to happen?",
@@ -159,7 +166,8 @@
       "id": "machinery.materials.common-ship-materials.q08",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which description fits galvanic corrosion?",
@@ -181,7 +189,8 @@
       "id": "machinery.materials.common-ship-materials.q09",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A sacrificial zinc anode on a propeller shaft has mostly wasted away. You should:",
@@ -203,7 +212,8 @@
       "id": "machinery.materials.common-ship-materials.q10",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Dezincification is a fault of:",
@@ -225,7 +235,8 @@
       "id": "machinery.materials.common-ship-materials.q11",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Compared with steel, aluminium alloy used for a small vessel's hull is:",
@@ -247,7 +258,8 @@
       "id": "machinery.materials.common-ship-materials.q12",
       "lesson_id": "machinery.materials.common-ship-materials",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which pair correctly names ferrous and non-ferrous metals?",

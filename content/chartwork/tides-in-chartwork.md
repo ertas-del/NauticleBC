@@ -2,7 +2,7 @@
 id: chartwork.tides-in-chartwork
 title: "Using tide heights in pilotage"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 210
 summary: How to turn the tide table into decisions on the chart - the height of tide at your ETA, windows to cross a shoal or a bridge, leaving a drying berth, and anchoring - with timed worked examples and the checks that go with them.
 objectives:

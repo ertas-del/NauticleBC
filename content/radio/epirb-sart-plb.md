@@ -2,7 +2,7 @@
 id: radio.epirb-sart-plb
 title: "EPIRB, PLB and SART in the radio system"
 module: radio
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 80
 summary: How EPIRB, PLB and SART fit into the GMDSS, which one alerts and which one helps rescuers find you, carriage by voyage and size, registration, six-month tests and fitting rules. Complements the Bridge Watch flares lesson.
 objectives:

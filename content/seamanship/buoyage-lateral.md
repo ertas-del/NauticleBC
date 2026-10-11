@@ -2,7 +2,7 @@
 id: seamanship.buoyage-lateral
 title: "Lateral buoyage (IALA B) and direction of buoyage"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 10
 summary: How Canada's red and green lateral marks work. Shapes, colours, numbers and lights of port and starboard hand aids, the upstream direction, and the bifurcation and fairway marks.
 objectives:

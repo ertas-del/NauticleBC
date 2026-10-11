@@ -2,7 +2,7 @@
 id: stability.stability-awareness
 title: "Stability awareness for deck crew"
 module: stability
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 5
 summary: What keeps a vessel upright, in plain words, and the everyday habits that protect it - free surface, top weight, closed doors, clear freeing ports, ice and slow, heavy rolls - plus when to tell the officer.
 objectives:

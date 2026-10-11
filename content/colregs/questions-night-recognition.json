@@ -4,7 +4,7 @@
     {
       "id": "colregs.lights.night-recognition.q01",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "At night you see two all-round lights in a vertical line, red over white, and a green sidelight below them. What is she?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.lights.night-recognition.q02",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "You see two all-round lights in a vertical line at a masthead, white over red, with both a red and a green sidelight below. What is she and where is she heading?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.lights.night-recognition.q03",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "At night you see two all-round lights in a vertical line, green over white, a white masthead light higher and further aft, and a red sidelight. What is she?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.lights.night-recognition.q04",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You see three all-round lights in a vertical line: red, white, red. There are no other lights. What is she?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.lights.night-recognition.q05",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You see two all-round red lights in a vertical line, an all-round white light forward and a lower all-round white light aft. What is she?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.lights.night-recognition.q06",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you see two white lights in a vertical line, a green sidelight below them, and nothing else. Later, from astern of her, you see a yellow light above a white light. What is she?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.lights.night-recognition.q07",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You see a red sidelight and a green sidelight close together, and a white light from the same vessel only when she passes and you are astern of her. You never see a masthead light, and no tug is in sight. What is she most likely to be?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.lights.night-recognition.q08",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Ahead of you at night are two white masthead lights, one above the other and in line, with both a red and a green sidelight below them. What does this tell you?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "colregs.lights.night-recognition.q09",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "By day you see a vessel with two black balls in a vertical line. What is she?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "colregs.lights.night-recognition.q10",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "By day, which shape signal is matched correctly to its meaning?",
       "options": [
@@ -174,7 +174,7 @@
     {
       "id": "colregs.lights.night-recognition.q11",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "By day a vessel shows two cones with their points together, one above the other, and a single cone, point upwards, off to her port side. What is she and where is her gear?",
       "options": [
@@ -191,7 +191,7 @@
     {
       "id": "colregs.lights.night-recognition.q12",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "By day a sailing yacht with her sails set shows a single black cone, point downwards, forward. How should you treat her?",
       "options": [
@@ -208,7 +208,7 @@
     {
       "id": "colregs.lights.night-recognition.q13",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "At night a warship shows her masthead lights and sidelights plus three all-round green lights: one near the top of her foremast and one at each end of her fore yard. What does this mean for you?",
       "options": [
@@ -225,7 +225,7 @@
     {
       "id": "colregs.lights.night-recognition.q14",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "By day you see a vessel showing ball, diamond, ball in a vertical line. On her starboard side she has two balls in a vertical line and on her port side two diamonds. Which side should you pass?",
       "options": [
@@ -242,7 +242,7 @@
     {
       "id": "colregs.lights.night-recognition.q15",
       "lesson_id": "colregs.lights.night-recognition",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Outside Canadian inland waters you see a large ship showing her masthead lights and sidelights plus three all-round red lights in a vertical line. What is she, and why would you not expect this signal inside a Canadian harbour?",
       "options": [

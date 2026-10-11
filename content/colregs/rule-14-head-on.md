@@ -2,7 +2,7 @@
 id: colregs.rule-14.head-on
 title: "Rule 14: Head-on situation"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 140
 summary: When two power-driven vessels meet on reciprocal or nearly reciprocal courses with risk of collision, both alter course to starboard and pass port to port. Know the night picture (masthead lights in line, both sidelights) and assume head-on if in doubt.
 objectives:

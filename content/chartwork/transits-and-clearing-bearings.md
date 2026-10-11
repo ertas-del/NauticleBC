@@ -2,7 +2,7 @@
 id: chartwork.transits-and-clearing-bearings
 title: "Transits, leading lines and clearing bearings"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 150
 summary: How two objects in line give an exact line of position, how leading lines keep a vessel on a safe track, and how a clearing bearing (not more than, not less than) keeps you off a danger. Includes a worked clearing bearing with a compass conversion.
 objectives:

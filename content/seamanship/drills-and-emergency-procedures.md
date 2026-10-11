@@ -2,7 +2,7 @@
 id: seamanship.drills-and-emergency-procedures
 title: "Emergency procedures, drills and records"
 module: seamanship
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 300
 summary: "Who must write emergency procedures and who must practise them - the Canada Shipping Act, Small Vessel Regulations, Marine Personnel Regulations and the Fire and Boat Drills Regulations (and who is outside them) - plus drill realism, the 25 per cent rule, intervals and records."
 objectives:

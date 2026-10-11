@@ -2,7 +2,7 @@
 id: seamanship.buoyage-cardinal-and-other-marks
 title: "Cardinal and isolated danger marks"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 20
 summary: The four cardinal marks (colours, topmarks, light groups on the clock face) and the isolated danger mark, and how to pass each one safely.
 objectives:

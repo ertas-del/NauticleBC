@@ -5,7 +5,8 @@
       "id": "chartwork.tides-in-chartwork.q01",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A shoal is charted at 3.1 m (not underlined). The height of tide is 2.0 m. What is the depth of water?",
@@ -31,7 +32,8 @@
       "id": "chartwork.tides-in-chartwork.q02",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A rock is charted with an underlined 0.9, a drying height. The height of tide is 2.4 m. What is the depth of water over it?",
@@ -57,7 +59,8 @@
       "id": "chartwork.tides-in-chartwork.q03",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Charted depth is 1.5 m, draught 1.8 m, and you want 0.5 m under the keel. What height of tide is needed?",
@@ -83,7 +86,8 @@
       "id": "chartwork.tides-in-chartwork.q04",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You are planning at 0800 to cross a shoal at 1030. At which time do you read the height of tide?",
@@ -109,7 +113,8 @@
       "id": "chartwork.tides-in-chartwork.q05",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Low water 0600 (0.4 m), high water 1200 (3.4 m). Using the rule of twelfths, at what time does the tide reach 1.9 m?",
@@ -135,7 +140,8 @@
       "id": "chartwork.tides-in-chartwork.q06",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why is a falling tide the dangerous one when crossing a shoal?",
@@ -161,7 +167,8 @@
       "id": "chartwork.tides-in-chartwork.q07",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A bridge has a charted clearance of 10.0 m above higher high water, large tide. The tables give that level as 4.0 m above chart datum. The present height of tide is 1.0 m. What is the clearance now?",
@@ -187,7 +194,8 @@
       "id": "chartwork.tides-in-chartwork.q08",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The tide table for a port in BC gives high water at 1140 in standard time and daylight saving time is in effect. At what clock time is high water?",
@@ -213,7 +221,8 @@
       "id": "chartwork.tides-in-chartwork.q09",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why should you allow a margin on a tide height from the table?",
@@ -239,7 +248,8 @@
       "id": "chartwork.tides-in-chartwork.q10",
       "lesson_id": "chartwork.tides-in-chartwork",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "When anchoring in a tidal bay, which tide heights do you check, and for what?",

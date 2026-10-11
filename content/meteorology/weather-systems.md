@@ -2,7 +2,7 @@
 id: meteorology.weather-systems
 title: "Highs, lows and fronts"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 10
 summary: How highs, lows and fronts shape the wind and weather on the BC coast, how wind goes around them, Buys Ballot's law, what a falling or rising barometer means, and what to expect when a cold, warm or occluded front passes.
 objectives:

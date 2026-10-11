@@ -5,7 +5,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q01",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You are running a charter boat in Canadian waters when the Coast Guard relays a signal that a person is in distress nearby. What does the Canada Shipping Act, 2001 require of you?",
@@ -26,7 +27,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q02",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A master decides, in the special circumstances, that it is unreasonable to go to a distress call. What must the master do?",
@@ -47,7 +49,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q03",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is a requisition under s. 131?",
@@ -68,7 +71,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q04",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these releases a master from the duty to proceed to a vessel in distress?",
@@ -89,7 +93,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q05",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Under s. 131(4), when is a master released from the duty to proceed?",
@@ -110,7 +115,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q06",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You find a person in the water at sea who seems in danger of being lost, with no distress call made. Does the Act require you to help?",
@@ -131,7 +137,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q07",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Two vessels collide in fog. Each master is unhurt and neither vessel is sinking. Which statement about the Act's duties is correct?",
@@ -152,7 +159,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q08",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "After a collision, what limits a master's duty to render assistance to the other vessel?",
@@ -173,7 +181,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q09",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A search and rescue mission coordinator directs you by radio, while you are in Canadian waters, to join a search for an overdue kayaker. What is your position?",
@@ -194,7 +203,8 @@
       "id": "canadian-regulations.distress-assistance-collision.q10",
       "lesson_id": "canadian-regulations.distress-assistance-collision",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which duty has the higher maximum fine under the Act?",

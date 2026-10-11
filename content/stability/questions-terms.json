@@ -5,7 +5,8 @@
       "id": "stability.terms.q01",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel is floating at rest. What is the relationship between her weight and the water she displaces?",
@@ -29,7 +30,8 @@
       "id": "stability.terms.q02",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "An invented box-shaped barge is 15.0 m long and 5.0 m wide and floats at a draught of 0.60 m in seawater (1.025 t/m3). What is her displacement?",
@@ -53,7 +55,8 @@
       "id": "stability.terms.q03",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel's lightship weight is 18.0 t and she is now floating with a displacement of 27.5 t. What is her deadweight, and what does it include?",
@@ -77,7 +80,8 @@
       "id": "stability.terms.q04",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel is 2.10 m deep from keel to deck edge and floats with a draught of 1.45 m. What is her freeboard?",
@@ -101,7 +105,8 @@
       "id": "stability.terms.q05",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is reserve buoyancy?",
@@ -125,7 +130,8 @@
       "id": "stability.terms.q06",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel has a waterplane area of 30 m2 that is about constant over the range of loading. In seawater (1.025 t/m3), how far does she sink when 1.5 t is loaded?",
@@ -149,7 +155,8 @@
       "id": "stability.terms.q07",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A loaded vessel in the sea motors up a freshwater river with nothing added or removed. What happens to her draught, and why?",
@@ -173,7 +180,8 @@
       "id": "stability.terms.q08",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel leans 8 degrees to port when a steady wind blows from starboard. When the wind drops, the lean disappears. Which term describes this lean?",
@@ -197,7 +205,8 @@
       "id": "stability.terms.q09",
       "lesson_id": "stability.terms",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement correctly separates list, loll and trim?",

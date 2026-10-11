@@ -5,7 +5,8 @@
       "id": "chartwork.course-to-steer.q01",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which description of the plot for the course to steer is correct?",
@@ -27,7 +28,8 @@
       "id": "chartwork.course-to-steer.q02",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Track 090 degrees, speed 8 knots, current setting 040 degrees at 2 knots. What is the course to steer?",
@@ -49,7 +51,8 @@
       "id": "chartwork.course-to-steer.q03",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "For the same problem (track 090, 8 knots, current 040 at 2 knots), what is the speed made good?",
@@ -71,7 +74,8 @@
       "id": "chartwork.course-to-steer.q04",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The course to steer is 342 degrees true. The compass error is 14 degrees E. What compass course is given to the helm?",
@@ -93,7 +97,8 @@
       "id": "chartwork.course-to-steer.q05",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The wanted track is 095 degrees true, the ship's speed is 12 knots, and the current sets 170 degrees at 2.5 knots. What is the course to steer?",
@@ -115,7 +120,8 @@
       "id": "chartwork.course-to-steer.q06",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Track 000 degrees, speed 8 knots, current setting 180 degrees at 2 knots. What are the course to steer and the speed made good?",
@@ -137,7 +143,8 @@
       "id": "chartwork.course-to-steer.q07",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A ship steers 270 degrees at 6 knots. The current sets 180 degrees at 1.5 knots. What are the track and speed made good?",
@@ -159,7 +166,8 @@
       "id": "chartwork.course-to-steer.q08",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A track is 18.3 nm long and the speed made good is 9.14 knots. What is the time on passage?",
@@ -181,7 +189,8 @@
       "id": "chartwork.course-to-steer.q09",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A boat doing 4 knots must cross a current whose cross-track part is 5 knots. What is the result?",
@@ -203,7 +212,8 @@
       "id": "chartwork.course-to-steer.q10",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "To which side of the track does the bow point to counter a current?",
@@ -225,7 +235,8 @@
       "id": "chartwork.course-to-steer.q11",
       "lesson_id": "chartwork.course-to-steer",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which formula checks the correction angle for a course to steer?",

@@ -5,7 +5,8 @@
       "id": "meteorology.wind-and-beaufort.q01",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A wind of 30 knots is which Beaufort force?",
@@ -27,7 +28,8 @@
       "id": "meteorology.wind-and-beaufort.q02",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which force and name correspond to 11 to 16 knots?",
@@ -49,7 +51,8 @@
       "id": "meteorology.wind-and-beaufort.q03",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 52-knot wind is which force?",
@@ -71,7 +74,8 @@
       "id": "meteorology.wind-and-beaufort.q04",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which Beaufort forces fall inside an Environment Canada gale warning?",
@@ -93,7 +97,8 @@
       "id": "meteorology.wind-and-beaufort.q05",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A forecast says 'southeast 25 knots'. What is the force and what is the speed in km/h to the nearest whole number?",
@@ -115,7 +120,8 @@
       "id": "meteorology.wind-and-beaufort.q06",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A forecast wind direction of 'northwest' means:",
@@ -138,7 +144,8 @@
       "id": "meteorology.wind-and-beaufort.q07",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "When does a marine forecast state gusts?",
@@ -160,7 +167,8 @@
       "id": "meteorology.wind-and-beaufort.q08",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which three factors together make big waves?",
@@ -183,7 +191,8 @@
       "id": "meteorology.wind-and-beaufort.q09",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Approximately what wave height does the UBC table give for force 8?",
@@ -206,7 +215,8 @@
       "id": "meteorology.wind-and-beaufort.q10",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is significant wave height?",
@@ -229,7 +239,8 @@
       "id": "meteorology.wind-and-beaufort.q11",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Under CSA 2001 s. 112 a master meets force 10 wind with no storm warning received. The master must:",
@@ -252,7 +263,8 @@
       "id": "meteorology.wind-and-beaufort.q12",
       "lesson_id": "meteorology.wind-and-beaufort",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A hurricane force wind warning (64 knots or more) corresponds to Beaufort:",

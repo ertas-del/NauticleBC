@@ -4,7 +4,7 @@
     {
       "id": "seamanship.buoyage-lateral.q01",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which side do you keep a red conical buoy on when proceeding in the upstream direction in Canadian waters?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "seamanship.buoyage-lateral.q02",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "How does the Canadian Coast Guard define the upstream direction?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "seamanship.buoyage-lateral.q03",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A buoy is green, flat-topped, shows the number 7 and has a green light flashing every 4 seconds. What is it?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "seamanship.buoyage-lateral.q04",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Entering an inlet from the sea you pass starboard hand buoys numbered 2, 4 and 6 in that order. What do you expect the next red buoy to be numbered, and what does this tell you?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "seamanship.buoyage-lateral.q05",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A buoy is red with one broad green band, conical, and shows a red light flashing Fl(2+1) 10s. What does it mark, and which side do you keep it on to take the preferred channel?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "seamanship.buoyage-lateral.q06",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You approach a spherical buoy with red and white vertical stripes, a red sphere topmark and a white light showing Morse A. How should you treat it?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "seamanship.buoyage-lateral.q07",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Leaving harbour on a fishing trip you are going out to sea past a red buoy and a green buoy. Where are they relative to you if the channel is marked in the normal Canadian way?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "seamanship.buoyage-lateral.q08",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are coasting at night and the chart shows a lit buoy marking the corner of a shoal, but you cannot see its light. What is the best interpretation?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "seamanship.buoyage-lateral.q09",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which statement about direction of buoyage on the BC coast is best supported by the Coast Guard's published system?",
       "options": [

@@ -5,7 +5,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q01",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Why is a transit a particularly good line of position?",
@@ -27,7 +28,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q02",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does a clearing bearing labelled NMT mean?",
@@ -49,7 +51,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q03",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "When drawing a clearing line past a reef, where should the line be placed?",
@@ -71,7 +74,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q04",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You steer on a leading line of two beacons. The front beacon appears to the left of the rear beacon. What does this tell you?",
@@ -93,7 +97,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q05",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A true clearing bearing of the light is NLT 038 degrees. The ship's compass error on the present heading is 14 degrees E. What is the limit in compass terms?",
@@ -115,7 +120,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q06",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A ship approaches a light on a track of 045 degrees. A reef lies to starboard of the track. If she drifts toward the reef, the light moves toward her port bow. Which clearing bearing is correct?",
@@ -137,7 +143,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q07",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which object is the best mark for a clearing bearing or transit?",
@@ -159,7 +166,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q08",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "After an alteration of course, what should be done with a clearing bearing converted to compass?",
@@ -181,7 +189,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q09",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which combination gives a fix?",
@@ -203,7 +212,8 @@
       "id": "chartwork.transits-and-clearing-bearings.q10",
       "lesson_id": "chartwork.transits-and-clearing-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How do you hatch a clearing bearing on the chart?",

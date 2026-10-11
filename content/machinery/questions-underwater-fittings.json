@@ -5,7 +5,8 @@
       "id": "machinery.underwater.fittings.q01",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A Kort nozzle is:",
@@ -27,7 +28,8 @@
       "id": "machinery.underwater.fittings.q02",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A sea chest is:",
@@ -49,7 +51,8 @@
       "id": "machinery.underwater.fittings.q03",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A keel cooler:",
@@ -71,7 +74,8 @@
       "id": "machinery.underwater.fittings.q04",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A fixed-pitch propeller:",
@@ -93,7 +97,8 @@
       "id": "machinery.underwater.fittings.q05",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Seacocks should be operated regularly because:",
@@ -115,7 +120,8 @@
       "id": "machinery.underwater.fittings.q06",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "The engine overheats and the raw-water pump is turning normally. A likely cause is:",
@@ -137,7 +143,8 @@
       "id": "machinery.underwater.fittings.q07",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Before opening a sea strainer that sits below the waterline you must:",
@@ -159,7 +166,8 @@
       "id": "machinery.underwater.fittings.q08",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A sacrificial anode protects a propeller by:",
@@ -181,7 +189,8 @@
       "id": "machinery.underwater.fittings.q09",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You should not paint a sacrificial anode because:",
@@ -203,7 +212,8 @@
       "id": "machinery.underwater.fittings.q10",
       "lesson_id": "machinery.underwater.fittings",
       "tickets": [
-        "svmo"
+        "svmo",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A rubber hose on an overboard fitting bursts and water floods in. A prompt action is to:",

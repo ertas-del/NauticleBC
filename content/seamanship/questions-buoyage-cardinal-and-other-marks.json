@@ -4,7 +4,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q01",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "You see a buoy painted black on top and yellow below, with two black cones pointing up. Where is the safe water?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q02",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which topmark belongs to an East cardinal mark?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q03",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you see a white light making a group of six quick flashes followed by one long flash, repeating every 15 seconds. Which mark is it?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q04",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A buoy is yellow with a broad black band and its topmark is two black cones point to point. Which mark is it and which way do you pass?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q05",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which description fits an isolated danger mark?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q06",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "What does an isolated danger mark tell you about the water around it?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q07",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You are heading due south along a shore and sight a very quick white light making nine flashes then dark (VQ(9) 10s). You want to stay in safe water. What do you do?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q08",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What colour is a cardinal mark's light?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q09",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "The Coast Guard gives a memory aid for the number of flashes in the East, South and West cardinal groups. What is it?",
       "options": [

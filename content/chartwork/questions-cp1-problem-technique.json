@@ -5,7 +5,8 @@
       "id": "chartwork.cp1-problem-technique.q01",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In the reported format of the CP1 exam, how many marks does each multiple-choice question carry?",
@@ -27,7 +28,8 @@
       "id": "chartwork.cp1-problem-technique.q02",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which tools does the reported CP1 format expect, and what pass mark does the draft TP 2293 give?",
@@ -50,7 +52,8 @@
       "id": "chartwork.cp1-problem-technique.q03",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the first step in working a multi-part chartwork problem?",
@@ -72,7 +75,8 @@
       "id": "chartwork.cp1-problem-technique.q04",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which correction goes with which instrument?",
@@ -94,7 +98,8 @@
       "id": "chartwork.cp1-problem-technique.q05",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "In the plot for the course to steer in a current, where do the track and the current vector start?",
@@ -116,7 +121,8 @@
       "id": "chartwork.cp1-problem-technique.q06",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which labelling of the plot is expected?",
@@ -138,7 +144,8 @@
       "id": "chartwork.cp1-problem-technique.q07",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The rose reads 17 degrees 10 minutes E 2014 (6 minutes W). What is the variation in 2026?",
@@ -160,7 +167,8 @@
       "id": "chartwork.cp1-problem-technique.q08",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A hand-bearing compass, held clear of iron, gives 333 degrees on a tower. The corrected variation is 17 degrees E. What true bearing is plotted?",
@@ -182,7 +190,8 @@
       "id": "chartwork.cp1-problem-technique.q09",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "At the same time as a fix, the DR position lies 1.0 nm north and 1.0 nm west of the fix, one hour after the DR was started. What are the set and rate?",
@@ -204,7 +213,8 @@
       "id": "chartwork.cp1-problem-technique.q10",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Your course to steer comes out on the opposite side of the track from the one the current comes from. What do you do?",
@@ -226,7 +236,8 @@
       "id": "chartwork.cp1-problem-technique.q11",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which check should you apply to a computed answer?",
@@ -248,7 +259,8 @@
       "id": "chartwork.cp1-problem-technique.q12",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "In which form are courses and bearings plotted on the chart?",
@@ -270,7 +282,8 @@
       "id": "chartwork.cp1-problem-technique.q13",
       "lesson_id": "chartwork.cp1-problem-technique",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which is the correct way to measure a distance and to write a direction?",

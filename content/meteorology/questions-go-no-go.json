@@ -5,7 +5,8 @@
       "id": "meteorology.go-no-go.q01",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "SVR s. 404 says no person shall operate a passenger-carrying vessel of the Part 4 class:",
@@ -27,7 +28,8 @@
       "id": "meteorology.go-no-go.q02",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which regulation extends the same two duties to workboats?",
@@ -49,7 +51,8 @@
       "id": "meteorology.go-no-go.q03",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Who must provide a document setting out a vessel's design limitations to the end user?",
@@ -71,7 +74,8 @@
       "id": "meteorology.go-no-go.q04",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "There is no weather warning in effect. A 9 m passenger boat has a design limit of 1.5 m seas, and the forecast is 2 m seas by afternoon. What is the right conclusion?",
@@ -93,7 +97,8 @@
       "id": "meteorology.go-no-go.q05",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A master meets force 10 with no storm warning received. Under CSA 2001 s. 112 the master must:",
@@ -115,7 +120,8 @@
       "id": "meteorology.go-no-go.q06",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why plan to arrive at a pass at slack water when strong wind is forecast against the flow?",
@@ -139,7 +145,8 @@
       "id": "meteorology.go-no-go.q07",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At what local times should the latest forecast be checked for a day plan?",
@@ -162,7 +169,8 @@
       "id": "meteorology.go-no-go.q08",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which sequence is the best order for a weather go/no-go?",
@@ -184,7 +192,8 @@
       "id": "meteorology.go-no-go.q09",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A forecast says 'wind light' for the area but the route passes an inlet mouth on a summer morning. What should you consider?",
@@ -207,7 +216,8 @@
       "id": "meteorology.go-no-go.q10",
       "lesson_id": "meteorology.go-no-go",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which warning category and range is correct for gale and storm?",

@@ -5,7 +5,8 @@
       "id": "chartwork.variation.q01",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is variation?",
@@ -26,7 +27,8 @@
       "id": "chartwork.variation.q02",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does variation depend on?",
@@ -47,7 +49,8 @@
       "id": "chartwork.variation.q03",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A true course is 220 degrees and the variation is 17 degrees E. What is the magnetic course?",
@@ -68,7 +71,8 @@
       "id": "chartwork.variation.q04",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A magnetic bearing of 005 degrees is taken where the variation is 17 degrees E. What is the true bearing?",
@@ -89,7 +93,8 @@
       "id": "chartwork.variation.q05",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A magnetic bearing of 355 degrees is taken where the variation is 16 degrees E. What is the true bearing?",
@@ -110,7 +115,8 @@
       "id": "chartwork.variation.q06",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A chart rose gives 17 degrees 30 minutes E 2015 (8 minutes W). What does the bracket mean?",
@@ -131,7 +137,8 @@
       "id": "chartwork.variation.q07",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A chart rose reads 15 degrees 10 minutes W 2014 (4 minutes E). What is the variation in 2026?",
@@ -152,7 +159,8 @@
       "id": "chartwork.variation.q08",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A chart rose reads 0 degrees 50 minutes W 2008 (6 minutes E). What is the variation in 2026?",
@@ -173,7 +181,8 @@
       "id": "chartwork.variation.q09",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The variation is 10 degrees W and a true bearing is 090 degrees. What is the magnetic bearing?",
@@ -194,7 +203,8 @@
       "id": "chartwork.variation.q10",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A chart rose printed 12 years ago has an annual change of 6 minutes. If you ignore the change, by roughly how much are your bearings out?",
@@ -215,7 +225,8 @@
       "id": "chartwork.variation.q11",
       "lesson_id": "chartwork.variation",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Where a chart marks a local magnetic anomaly, what should you do about compass bearings taken there?",

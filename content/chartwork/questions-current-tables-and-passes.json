@@ -5,7 +5,8 @@
       "id": "chartwork.current-tables-and-passes.q01",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does a current table give for a station?",
@@ -32,7 +33,8 @@
       "id": "chartwork.current-tables-and-passes.q02",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Where do you take the compass direction of a stream for a plot?",
@@ -59,7 +61,8 @@
       "id": "chartwork.current-tables-and-passes.q03",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why is a pass timed from the current table and not from the tide table?",
@@ -86,7 +89,8 @@
       "id": "chartwork.current-tables-and-passes.q04",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel makes 6.5 knots through the water along a channel against a foul stream of 1.8 knots. What is the speed made good along the track?",
@@ -113,7 +117,8 @@
       "id": "chartwork.current-tables-and-passes.q05",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel makes 8.0 knots through the water. The mean stream, foul, over three successive hours is 1.0, 2.0 and 1.0 knots. How far does she go in the three hours?",
@@ -140,7 +145,8 @@
       "id": "chartwork.current-tables-and-passes.q06",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A stream sets across the track as well as along it. How is it used in the plot?",
@@ -167,7 +173,8 @@
       "id": "chartwork.current-tables-and-passes.q07",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "The table gives slack at 0930 in standard time and daylight saving time is in effect. What is slack on the clock?",
@@ -194,7 +201,8 @@
       "id": "chartwork.current-tables-and-passes.q08",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A DFO source reports that the stream at Seymour Narrows can exceed what speed?",
@@ -221,7 +229,8 @@
       "id": "chartwork.current-tables-and-passes.q09",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which approach is correct for a narrow BC pass with a strong stream?",
@@ -248,7 +257,8 @@
       "id": "chartwork.current-tables-and-passes.q10",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does wind blowing against the stream do to the sea?",
@@ -275,7 +285,8 @@
       "id": "chartwork.current-tables-and-passes.q11",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What effect can strong, prolonged wind have on the predicted time of slack water?",
@@ -302,7 +313,8 @@
       "id": "chartwork.current-tables-and-passes.q12",
       "lesson_id": "chartwork.current-tables-and-passes",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Under the Navigation Safety Regulations, 2020, s. 142, which of these is among the publications to be kept on board for a Canadian vessel in Canadian waters?",

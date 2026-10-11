@@ -2,7 +2,7 @@
 id: colregs.rule-35.restricted-visibility-signals
 title: "Rule 35: Sound signals in restricted visibility"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 350
 summary: The fog signals. Who sounds one prolonged, two prolonged, one prolonged two short, or one prolonged three short every 2 minutes; the anchored bell every minute; aground and pilot signals; small-vessel options; and the Canadian rule for small pushing vessels.
 objectives:

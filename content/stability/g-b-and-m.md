@@ -2,7 +2,7 @@
 id: stability.g-b-and-m
 title: "Centre of gravity, buoyancy and the metacentre"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 20
 summary: What G, B and M are, why B moves when a vessel heels and G does not, how M is found for a box-shaped hull, and how the position of M relative to G decides stable, neutral or unstable equilibrium.
 objectives:

@@ -2,7 +2,7 @@
 id: colregs.rule-28.constrained-by-draught
 title: "Rule 28: Vessels constrained by their draught"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 280
 summary: The optional three red lights or cylinder for a deep-draught vessel, and the Canadian modification that bans these signals in Canadian harbours, rivers, lakes and other inland waters.
 objectives:

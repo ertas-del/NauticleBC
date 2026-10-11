@@ -2,7 +2,7 @@
 id: meteorology.wind-and-beaufort
 title: "Wind and the Beaufort scale"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 20
 summary: The Beaufort scale from force 0 to 12 with the knot ranges you must know, how wind speed links to wave height, how forecasts state wind (mean, direction it blows from, gusts), and the master's duty to report force 10 or more with no storm warning.
 objectives:

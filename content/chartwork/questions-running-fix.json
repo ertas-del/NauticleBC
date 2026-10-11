@@ -5,7 +5,8 @@
       "id": "chartwork.running-fix.q01",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is advanced in a running fix?",
@@ -27,7 +28,8 @@
       "id": "chartwork.running-fix.q02",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel at 9 knots takes a bearing of a headland light 45 degrees on the bow at 0905 and again when it is abeam at 0930. How far off is the light when abeam?",
@@ -49,7 +51,8 @@
       "id": "chartwork.running-fix.q03",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At 6 knots a vessel takes an object 25 degrees on the bow, then 50 degrees on the bow 30 minutes later. What is the distance off at the second bearing?",
@@ -71,7 +74,8 @@
       "id": "chartwork.running-fix.q04",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "In the same observation (25 and 50 degrees on the bow, 3.0 nm run), what will the distance be when the object is abeam, if the ship keeps her course and speed?",
@@ -93,7 +97,8 @@
       "id": "chartwork.running-fix.q05",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "For the doubling-the-angle method, what is the condition on the first bearing?",
@@ -115,7 +120,8 @@
       "id": "chartwork.running-fix.q06",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A ship steers 270 degrees at 8 knots through the water. A known current sets 180 degrees at 1 knot. Between two bearings 30 minutes apart, what run should the first line be advanced by?",
@@ -137,7 +143,8 @@
       "id": "chartwork.running-fix.q07",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why is a running fix less reliable than a simultaneous fix?",
@@ -159,7 +166,8 @@
       "id": "chartwork.running-fix.q08",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How is a running fix labelled on the chart?",
@@ -181,7 +189,8 @@
       "id": "chartwork.running-fix.q09",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A ship steers 270 degrees. The first line of position is drawn through a tower. In which direction is the first line moved to be advanced to the time of the second bearing?",
@@ -203,7 +212,8 @@
       "id": "chartwork.running-fix.q10",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A compass bearing is used in a running fix. What must be done before the first line is advanced?",
@@ -225,7 +235,8 @@
       "id": "chartwork.running-fix.q11",
       "lesson_id": "chartwork.running-fix",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A ship is heading 090 degrees true. A light bears 060 degrees true. What is the angle on the bow, and does the doubling method need a steady course and speed?",

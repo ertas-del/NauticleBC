@@ -6,7 +6,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Fog. Fine on your starboard bow you hear one prolonged blast, repeated about every 2 minutes. What is it, and what do you do?",
@@ -29,7 +30,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Fog. Ahead you hear two prolonged blasts about 2 seconds apart, repeated about every 2 minutes. What is it?",
@@ -52,7 +54,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog. Off your port bow you hear one prolonged followed by two short blasts, about every 2 minutes. What can you conclude?",
@@ -75,7 +78,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog. You hear one prolonged, two short, and straight after it, from a slightly different direction, one prolonged, three short. What is it, and what is the main hazard?",
@@ -98,7 +102,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Fog in an anchorage. You hear a bell rung rapidly for about 5 seconds, then again about a minute later. What is it?",
@@ -121,7 +126,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog near a deep-sea anchorage. You hear a bell rung rapidly for about 5 seconds, followed immediately by a gong for about 5 seconds from a point some distance away. What is it?",
@@ -144,7 +150,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog. You hear three separate, distinct bell strokes, then rapid ringing for about 5 seconds, then three more separate strokes. What is it, and what does it suggest about your surroundings?",
@@ -167,7 +174,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Fog. You have been hearing an anchor bell ahead. Now, from the same direction, you hear one short, one prolonged, one short on a whistle. What is happening?",
@@ -191,7 +199,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog off a pilot boarding station. You hear two prolonged blasts, then four short blasts. What is it?",
@@ -214,7 +223,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Clear day, narrow channel. A vessel close astern sounds two prolonged, two short. What does she want, and how do you answer if it is safe?",
@@ -237,7 +247,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Clear day. A vessel approaching you, in sight, sounds six short and rapid blasts. What is she telling you, and what should you do?",
@@ -260,7 +271,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You are approaching a blind bend in a narrow BC pass. From beyond the point you hear one prolonged blast. What do you do?",
@@ -283,7 +295,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Clear weather in a BC harbour. A power-driven vessel at a wharf ahead of you sounds one prolonged blast. What is the most likely meaning?",
@@ -306,7 +319,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A ferry in sight, about to manoeuvre near you, sounds one short blast. What does it mean?",
@@ -329,7 +343,8 @@
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fog. From a small boat somewhere ahead you hear a horn sounding three short, three prolonged, three short, over and over. What is it?",
@@ -351,7 +366,8 @@
       "id": "colregs.signals.sound-drill.q16",
       "lesson_id": "colregs.signals.sound-drill",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A power-driven vessel stopped in fog sounds two prolonged blasts with about 2 seconds between them. About how long does the whole signal take, from the start of the first blast to the end of the second?",

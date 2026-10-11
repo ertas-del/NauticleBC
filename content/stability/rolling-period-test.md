@@ -2,7 +2,7 @@
 id: stability.rolling-period-test
 title: "The rolling period check"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 100
 summary: You can judge stability by timing the roll. A tender vessel rolls slowly, a stiff one quickly. This lesson covers how to time rolls correctly, the rule of thumb that compares the period with the beam, a rough GM estimate, and the mistakes that give false comfort.
 objectives:

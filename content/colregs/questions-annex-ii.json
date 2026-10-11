@@ -4,7 +4,7 @@
     {
       "id": "colregs.annex-ii.q01",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "At night a 25 m trawler working near other trawlers shows green over white, and below them two white lights in a vertical line. What is she doing?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.annex-ii.q02",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are skipper of a 16 m trawler fishing close to several other trawlers. What does Annex II say about the shooting, hauling and fast-gear lights for your vessel?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.annex-ii.q03",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about the placement and range of the Annex II lights is correct?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.annex-ii.q04",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you see a vessel showing red over white all-round lights with two yellow lights in a vertical line below, flashing alternately about once a second. What is the most likely meaning?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.annex-ii.q05",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Two 30 m trawlers are pair trawling in Canadian waters. Which combination of signals is correct?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.annex-ii.q06",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "In clear weather on a Canadian fishing ground, a trawler sounds one short, two prolonged and one short blast. What does the Canadian modification to Annex II say she is telling you?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.annex-ii.q07",
       "lesson_id": "colregs.annex-ii.fishing-close-proximity",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "In fog in Canadian waters you hear one prolonged and two short blasts from a vessel ahead, and about five seconds later two prolonged and one short. What is the best reading?",
       "options": [

@@ -5,7 +5,8 @@
       "id": "radio.epirb-sart-plb.q01",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What frequency band do EPIRBs and PLBs use?",
@@ -26,7 +27,8 @@
       "id": "radio.epirb-sart-plb.q02",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does a radar SART do?",
@@ -49,7 +51,8 @@
       "id": "radio.epirb-sart-plb.q03",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "How does a radar SART appear on a rescuer's radar within about 8 nautical miles?",
@@ -71,7 +74,8 @@
       "id": "radio.epirb-sart-plb.q04",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A float-free EPIRB is required on:",
@@ -92,7 +96,8 @@
       "id": "radio.epirb-sart-plb.q05",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 10 m vessel on a near coastal Class 2 voyage may carry which of these instead of a float-free EPIRB?",
@@ -113,7 +118,8 @@
       "id": "radio.epirb-sart-plb.q06",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Where must a manual EPIRB, PLB or DSC handheld used under s. 209(3) be kept?",
@@ -134,7 +140,8 @@
       "id": "radio.epirb-sart-plb.q07",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How soon must a change be entered in the Canadian Beacon Registry?",
@@ -155,7 +162,8 @@
       "id": "radio.epirb-sart-plb.q08",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How often must an EPIRB, PLB or SART be inspected and tested by a radio operator?",
@@ -176,7 +184,8 @@
       "id": "radio.epirb-sart-plb.q09",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which beacon is the primary alert device and which is secondary?",
@@ -198,7 +207,8 @@
       "id": "radio.epirb-sart-plb.q10",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does s. 208 require for one of the SARTs on board?",
@@ -219,7 +229,8 @@
       "id": "radio.epirb-sart-plb.q11",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "An EPIRB battery must be replaced when:",
@@ -240,7 +251,8 @@
       "id": "radio.epirb-sart-plb.q12",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "An EPIRB sends a 406 MHz signal to satellites. What is its 121.5 MHz signal for?",
@@ -262,7 +274,8 @@
       "id": "radio.epirb-sart-plb.q13",
       "lesson_id": "radio.epirb-sart-plb",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which is a requirement for a float-free EPIRB under s. 209(2)?",

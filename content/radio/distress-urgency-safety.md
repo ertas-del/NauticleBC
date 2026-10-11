@@ -2,7 +2,7 @@
 id: radio.distress-urgency-safety
 title: "Mayday, Pan-Pan and Sécurité"
 module: radio
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 60
 summary: The voice formats for distress, urgency and safety calls as the Coast Guard RAMN gives them, the legal basis in the Navigation Safety Regulations and the Canada Shipping Act, how a mayday relay works, and the master's duty to go to a vessel in distress.
 objectives:

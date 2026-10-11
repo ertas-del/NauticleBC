@@ -2,7 +2,7 @@
 id: bridge-watch.lookout-reports
 title: "Look-out reports and steady bearings"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 50
 summary: "What a look-out reports and how to word it, why reports must be prompt and acknowledged, how to spot a steady bearing that means risk of collision, and what a vessel's sidelights tell you about the way she is heading."
 objectives:

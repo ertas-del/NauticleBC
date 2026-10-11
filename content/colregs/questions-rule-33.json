@@ -6,7 +6,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "From what length must a vessel be provided with a whistle?",
@@ -29,7 +30,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You are joining a 24 metre power-driven vessel. Which sound signal appliances must she be provided with under Rule 33?",
@@ -52,7 +54,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 110 metre ship carries a gong as well as a whistle and bell. What does Rule 33 say about the gong's sound?",
@@ -75,7 +78,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does Rule 33 require of a 7 metre open boat?",
@@ -98,7 +102,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel's bell has been replaced by an automatic electronic system that gives the same sound. Which condition must still be met?",
@@ -121,7 +126,8 @@
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "In a BC river, a 10 metre boat was built to push log booms and is not used only for yarding or warping. What does the Canadian paragraph of Rule 33 require?",
@@ -143,7 +149,8 @@
       "id": "colregs.rule-33.q07",
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "In fog you hear two whistles, one high-pitched and one deep and low. Using Annex III, which is the more likely reading?",
@@ -165,7 +172,8 @@
       "id": "colregs.rule-33.q08",
       "lesson_id": "colregs.rule-33.sound-equipment",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Annex III gives a typical audibility range for the whistle of a vessel under 20 metres. What is it, and how should you treat it?",

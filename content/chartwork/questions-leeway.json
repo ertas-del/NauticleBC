@@ -5,7 +5,8 @@
       "id": "chartwork.leeway.q01",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is leeway?",
@@ -28,7 +29,8 @@
       "id": "chartwork.leeway.q02",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel steers 090 degrees true and her track through the water is 097 degrees true. Which statement is correct?",
@@ -51,7 +53,8 @@
       "id": "chartwork.leeway.q03",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "With the wind in which direction relative to the ship's head is the leeway nil?",
@@ -74,7 +77,8 @@
       "id": "chartwork.leeway.q04",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Wind from port, leeway 6 degrees, course steered 120 degrees true. What is the course through the water?",
@@ -97,7 +101,8 @@
       "id": "chartwork.leeway.q05",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You want to make good 200 degrees true through the water. The wind is from starboard and the leeway is 4 degrees. What course do you steer?",
@@ -120,7 +125,8 @@
       "id": "chartwork.leeway.q06",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Heading 180 degrees true, the wake is seen bearing 004 degrees true. What is the leeway and which side is the wind?",
@@ -143,7 +149,8 @@
       "id": "chartwork.leeway.q07",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel runs 10 nm with a leeway of 6 degrees that is not allowed for. About how far off the intended water track is she at the end?",
@@ -166,7 +173,8 @@
       "id": "chartwork.leeway.q08",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How is leeway entered in a plot, compared with a current?",
@@ -189,7 +197,8 @@
       "id": "chartwork.leeway.q09",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Working forward from the course steered to the track over the ground, what is the correct order of corrections?",
@@ -212,7 +221,8 @@
       "id": "chartwork.leeway.q10",
       "lesson_id": "chartwork.leeway",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A course-to-steer triangle gives a course through the water of 101 degrees true. The wind is from the south and the leeway is 5 degrees to port. Variation is 16 degrees E and deviation 2 degrees W. What compass course is given to the helm?",

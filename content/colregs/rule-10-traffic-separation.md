@@ -2,7 +2,7 @@
 id: colregs.rule-10.traffic-separation
 title: "Rule 10: Traffic separation schemes"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 100
 summary: How to use, cross or stay clear of a traffic separation scheme, what small vessels and fishing vessels may and may not do, and how the Canadian Regulations extend the rule to routing systems in Canadian waters.
 objectives:

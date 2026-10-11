@@ -5,7 +5,8 @@
       "id": "seamanship.flooding-and-damage-control.q01",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Water is found entering a small vessel. What does the Transport Canada procedure say to do first?",
@@ -26,7 +27,8 @@
       "id": "seamanship.flooding-and-damage-control.q02",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which sequence matches the Transport Canada taking-on-water procedure?",
@@ -47,7 +49,8 @@
       "id": "seamanship.flooding-and-damage-control.q03",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A moving vessel has a leak below the waterline. Why does the BOATsmart! guidance say to stop her completely?",
@@ -68,7 +71,8 @@
       "id": "seamanship.flooding-and-damage-control.q04",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A raw-water hose has burst in the engine space. What is the quickest way to stop the flow?",
@@ -90,7 +94,8 @@
       "id": "seamanship.flooding-and-damage-control.q05",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these are suitable ways to stop a small leak in a hull according to the BOATsmart! guidance?",
@@ -111,7 +116,8 @@
       "id": "seamanship.flooding-and-damage-control.q06",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why does water sloshing about inside a flooded compartment endanger the vessel beyond its weight?",
@@ -133,7 +139,8 @@
       "id": "seamanship.flooding-and-damage-control.q07",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Flooding cannot be controlled and the nearest shoreline is a gravel beach with a light swell on one side and a rocky headland with heavy surf on the other. What does the guidance support?",
@@ -155,7 +162,8 @@
       "id": "seamanship.flooding-and-damage-control.q08",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The master decides the vessel may sink. Which set of actions matches the guidance?",
@@ -178,7 +186,8 @@
       "id": "seamanship.flooding-and-damage-control.q09",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement about SVR s. 602 is correct?",
@@ -199,7 +208,8 @@
       "id": "seamanship.flooding-and-damage-control.q10",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What pumping equipment must a 7 m passenger-carrying vessel under SVR Part 4 carry?",
@@ -220,7 +230,8 @@
       "id": "seamanship.flooding-and-damage-control.q11",
       "lesson_id": "seamanship.flooding-and-damage-control",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A tug strikes a log and sustains damage that affects her seaworthiness. She does not sink, no one is hurt, and she returns to port. Is there a TSB reporting duty?",

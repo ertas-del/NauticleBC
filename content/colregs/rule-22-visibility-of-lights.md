@@ -2,7 +2,7 @@
 id: colregs.rule-22.visibility-of-lights
 title: "Rule 22: Visibility of lights"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 220
 summary: The minimum ranges at which navigation lights must be visible, in three length classes (50 m and over, 12 to 50 m, under 12 m), plus the Canadian 2 mile range for the special and blue flashing lights.
 objectives:

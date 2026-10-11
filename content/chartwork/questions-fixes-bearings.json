@@ -5,7 +5,8 @@
       "id": "chartwork.fixes-bearings.q01",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How is a fix by cross bearings obtained?",
@@ -27,7 +28,8 @@
       "id": "chartwork.fixes-bearings.q02",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A lighthouse bears 072 degrees true from the ship. How is the line of position plotted?",
@@ -49,7 +51,8 @@
       "id": "chartwork.fixes-bearings.q03",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The ship is heading 100 degrees C with a compass error of 14 degrees E. A lighthouse bears 316 degrees C. What true bearing is plotted?",
@@ -71,7 +74,8 @@
       "id": "chartwork.fixes-bearings.q04",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which choice of objects for two bearings gives the best fix?",
@@ -93,7 +97,8 @@
       "id": "chartwork.fixes-bearings.q05",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "For the same bearing errors, how does a fix with a 30 degree angle of cut compare with one at 90 degrees?",
@@ -115,7 +120,8 @@
       "id": "chartwork.fixes-bearings.q06",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Three bearings give a cocked hat about 0.3 nm across. A dangerous rock lies 0.4 nm from one corner on the seaward side. Which position should be used for safety?",
@@ -137,7 +143,8 @@
       "id": "chartwork.fixes-bearings.q07",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does a large cocked hat tell you?",
@@ -159,7 +166,8 @@
       "id": "chartwork.fixes-bearings.q08",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why does a bearing of a floating buoy give only an estimated position?",
@@ -181,7 +189,8 @@
       "id": "chartwork.fixes-bearings.q09",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why should the bearings be taken quickly and the time of each noted?",
@@ -203,7 +212,8 @@
       "id": "chartwork.fixes-bearings.q10",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A hand-bearing compass, held clear of iron, reads 080 degrees on a beacon. Variation is 16 degrees E. What true bearing is plotted?",
@@ -225,7 +235,8 @@
       "id": "chartwork.fixes-bearings.q11",
       "lesson_id": "chartwork.fixes-bearings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which set of objects would you choose for a three-bearing fix?",

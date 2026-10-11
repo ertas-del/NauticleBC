@@ -2,7 +2,7 @@
 id: bridge-watch.anchor-and-port-watch
 title: "Watch at anchor and in port"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 80
 summary: "How the watch changes at anchor and alongside: the anchor watch duties, signs of a dragging anchor, anchor lights, mooring safety including snap-back, parted moorings and the rules for bulk oil transfers."
 objectives:

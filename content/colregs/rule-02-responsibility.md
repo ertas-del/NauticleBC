@@ -2,7 +2,7 @@
 id: colregs.rule-02.responsibility
 title: "Rule 2: Responsibility"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 20
 summary: Following the Rules does not end your duty. Rule 2 keeps owners, masters and crew answerable for neglect, requires the ordinary practice of seamen, and allows departure from the Rules only to avoid immediate danger.
 objectives:

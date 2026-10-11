@@ -2,7 +2,7 @@
 id: tides.spring-and-neap
 title: "Spring and neap tides"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 2
 summary: How the sun and moon line up to make big tides and small tides, how the moon's distance and angle add to it, and what tidal range means.
 objectives:

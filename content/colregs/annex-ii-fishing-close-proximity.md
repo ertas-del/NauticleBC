@@ -2,7 +2,7 @@
 id: colregs.annex-ii.fishing-close-proximity
 title: "Annex II: Additional signals for fishing vessels fishing in close proximity"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 420
 summary: The extra lights trawlers and purse seiners may show when fishing close to each other, where those lights go and how far they show, and the Canadian additions (flag T for pair trawlers and whistle signals for shooting, hauling and fast gear).
 objectives:

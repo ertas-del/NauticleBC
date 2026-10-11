@@ -2,7 +2,7 @@
 id: seamanship.grounding-and-collision-response
 title: "Grounding and collision: what the master does"
 module: seamanship
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 270
 summary: "The master's response to a grounding or a collision - first checks, soft and hard grounding, refloating with tide, anchor and engine, the legal duties to stand by, exchange details and report to the TSB and to Coast Guard communications, and what makes each reportable."
 objectives:

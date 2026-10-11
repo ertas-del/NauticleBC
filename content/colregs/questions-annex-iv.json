@@ -6,7 +6,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In fog you hear a vessel's horn sounding continuously, with no pattern and no breaks. What is the most likely meaning?",
@@ -29,7 +30,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which of these is a distress signal under Annex IV?",
@@ -52,7 +54,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which sound signal is listed in Annex IV as a distress signal?",
@@ -75,7 +78,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A drifting fishing boat is flying a square flag with a round fender hung just above it. What should you take this to mean?",
@@ -98,7 +102,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which group lists only Annex IV radio or electronic distress signals?",
@@ -121,7 +126,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which flag signal from the International Code means distress?",
@@ -143,7 +149,8 @@
       "id": "colregs.annex-iv.q07",
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Annex IV mentions two aids that help aircraft identify a vessel in distress. What are they?",
@@ -166,7 +173,8 @@
       "lesson_id": "colregs.annex-iv.distress-signals",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "At night in Canadian waters you see a high-intensity white light flashing steadily at about one flash per second from a low position on the water. How should you treat it?",

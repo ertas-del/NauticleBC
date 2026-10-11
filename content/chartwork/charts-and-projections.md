@@ -2,7 +2,7 @@
 id: chartwork.charts-and-projections
 title: "Charts, projections and scale"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 10
 summary: Why a flat chart distorts the round earth, what makes the Mercator chart the working chart, what a gnomonic chart is for, how scale is stated and compared, and what the title block, edition and correction notes tell you. Includes the Canadian carriage rules.
 objectives:

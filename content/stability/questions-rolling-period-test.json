@@ -5,7 +5,8 @@
       "id": "stability.rolling-period-test.q01",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What counts as one complete roll when you time the rolling period?",
@@ -28,7 +29,8 @@
       "id": "stability.rolling-period-test.q02",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "8 complete rolls take 44 seconds. What is the rolling period?",
@@ -51,7 +53,8 @@
       "id": "stability.rolling-period-test.q03",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "For the same vessel, what does a longer rolling period tell you?",
@@ -74,7 +77,8 @@
       "id": "stability.rolling-period-test.q04",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A small vessel has a beam of 4.5 m and her rolling period is measured at 5.1 seconds. Using the rule of thumb that the period in seconds should be less than the beam in metres, what is the conclusion?",
@@ -97,7 +101,8 @@
       "id": "stability.rolling-period-test.q05",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Using GM = (0.8 x beam / T) squared, what is the rough GM of a vessel with beam 5.0 m and a rolling period of 6.0 seconds?",
@@ -120,7 +125,8 @@
       "id": "stability.rolling-period-test.q06",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Where and how should a rolling period test be done?",
@@ -143,7 +149,8 @@
       "id": "stability.rolling-period-test.q07",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A crew times 6 complete rolls (12 swings) in 48 seconds but counts each swing as a roll. What is the correct period, and what did the mistake give?",
@@ -166,7 +173,8 @@
       "id": "stability.rolling-period-test.q08",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel's rolling period is getting longer during a trip while the weather is steady. What should the crew suspect, and what should they do?",
@@ -189,7 +197,8 @@
       "id": "stability.rolling-period-test.q09",
       "lesson_id": "stability.rolling-period-test",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A small vessel passes the rolling-period rule of thumb. Which is the correct statement?",

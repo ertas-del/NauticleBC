@@ -2,7 +2,7 @@
 id: meteorology.marine-warnings
 title: "Marine warnings"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 30
 summary: The Environment Canada wind warning categories and thresholds, the seasonal strong wind warning on the BC inner waters, freezing spray, squall and other localized warnings and watches, and how warnings appear in a forecast.
 objectives:

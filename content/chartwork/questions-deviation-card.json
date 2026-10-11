@@ -5,7 +5,8 @@
       "id": "chartwork.deviation-card.q01",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is deviation?",
@@ -26,7 +27,8 @@
       "id": "chartwork.deviation-card.q02",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which of these changes with the ship's heading?",
@@ -47,7 +49,8 @@
       "id": "chartwork.deviation-card.q03",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Invented card, entered with compass heading: Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E. Interpolating, what is the deviation on a compass heading of 110 degrees?",
@@ -69,7 +72,8 @@
       "id": "chartwork.deviation-card.q04",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E). What is the deviation on a compass heading of 070 degrees?",
@@ -91,7 +95,8 @@
       "id": "chartwork.deviation-card.q05",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E). What is the deviation on a compass heading of 250 degrees?",
@@ -112,7 +117,8 @@
       "id": "chartwork.deviation-card.q06",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Same card (Compass heading 000: 3 E; 045: 1 E; 090: 2 W; 135: 4 W; 180: 2 W; 225: 0; 270: 3 E; 315: 4 E), entered with compass heading. You want to make good 120 degrees true. Corrected variation is 15 degrees E. About what compass course do you steer?",
@@ -134,7 +140,8 @@
       "id": "chartwork.deviation-card.q07",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The compass error found on a charted transit is 12 degrees E. The variation is 15 degrees E. What is the deviation on that heading?",
@@ -155,7 +162,8 @@
       "id": "chartwork.deviation-card.q08",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Variation is 15 degrees E and deviation on the present heading is 4 degrees W. What is the compass error?",
@@ -176,7 +184,8 @@
       "id": "chartwork.deviation-card.q09",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A deviation card has a heading column. What must you check before you enter it?",
@@ -197,7 +206,8 @@
       "id": "chartwork.deviation-card.q10",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You fit a steel toolbox and a loudspeaker beside the binnacle. What is the correct response?",
@@ -218,7 +228,8 @@
       "id": "chartwork.deviation-card.q11",
       "lesson_id": "chartwork.deviation-card",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Where must the table or curve of residual deviations be kept, according to NSR 2020 s. 106(4)?",

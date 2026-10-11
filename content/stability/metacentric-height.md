@@ -2,7 +2,7 @@
 id: stability.metacentric-height
 title: "Metacentric height (GM)"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 30
 summary: GM is the gap between G and M. This lesson shows how to find KG from a table of weights and moments, how to get GM = KM - KG, what negative GM means, and how GM makes a vessel stiff or tender.
 objectives:

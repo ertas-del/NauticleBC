@@ -5,7 +5,8 @@
       "id": "meteorology.marine-warnings.q01",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the wind range for a gale warning?",
@@ -27,7 +28,8 @@
       "id": "meteorology.marine-warnings.q02",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A forecast says 'wind northwest 25, gusts to 40'. Is a gale warning needed for that wind?",
@@ -49,7 +51,8 @@
       "id": "meteorology.marine-warnings.q03",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A hurricane force wind warning means:",
@@ -71,7 +74,8 @@
       "id": "meteorology.marine-warnings.q04",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "When and where are strong wind warnings issued on the Pacific coast?",
@@ -93,7 +97,8 @@
       "id": "meteorology.marine-warnings.q05",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which warnings can cover offshore marine areas?",
@@ -115,7 +120,8 @@
       "id": "meteorology.marine-warnings.q06",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At what ice build-up rate does ECCC warn of freezing spray?",
@@ -137,7 +143,8 @@
       "id": "meteorology.marine-warnings.q07",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "About how cold must the air be for sea spray to freeze?",
@@ -160,7 +167,8 @@
       "id": "meteorology.marine-warnings.q08",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the difference between a squall watch and a squall warning?",
@@ -183,7 +191,8 @@
       "id": "meteorology.marine-warnings.q09",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Where does a warning appear in a regular forecast?",
@@ -206,7 +215,8 @@
       "id": "meteorology.marine-warnings.q10",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What map colour is used for a warning, a watch and an advisory?",
@@ -229,7 +239,8 @@
       "id": "meteorology.marine-warnings.q11",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What extra information do BC wind warnings give about the wind?",
@@ -252,7 +263,8 @@
       "id": "meteorology.marine-warnings.q12",
       "lesson_id": "meteorology.marine-warnings",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Who issues ice warnings?",

@@ -4,7 +4,7 @@
     {
       "id": "tides.vocabulary.q01",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is the \"height of tide\" at a given moment?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.vocabulary.q02",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A chart sounding shows 3.1 m. The height of tide is 1.2 m. About how deep is the water there?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.vocabulary.q03",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In an invented example, high water is 3.9 m and the next low water is 0.7 m. What is the range?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.vocabulary.q04",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about chart datum on Canadian charts is correct?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.vocabulary.q05",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is slack water?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.vocabulary.q06",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "The water level beside a dock barely changes for a while near high water before it begins to fall. What is this called?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.vocabulary.q07",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which sentence uses tide terms correctly, keeping the height of the water and the stream separate?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.vocabulary.q08",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "What level do Canadian charts use as chart datum?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "tides.vocabulary.q09",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "In the terms used in this module, what is the ebb?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "tides.vocabulary.q10",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You are checking whether your mast will clear a bridge in tidal waters. The chart shows a vertical clearance. Which statement is correct?",
       "options": [

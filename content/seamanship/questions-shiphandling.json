@@ -5,7 +5,8 @@
       "id": "seamanship.shiphandling.q01",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In which conditions is propeller walk (transverse thrust) strongest on a single-screw vessel?",
@@ -26,7 +27,8 @@
       "id": "seamanship.shiphandling.q02",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel has a right-hand propeller. Which way does the stern tend to walk when she goes astern?",
@@ -47,7 +49,8 @@
       "id": "seamanship.shiphandling.q03",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A skipper with a right-hand single screw wants to berth so that backing will swing the stern toward the float. Which side should he put to the float?",
@@ -69,7 +72,8 @@
       "id": "seamanship.shiphandling.q04",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Where is the pivot point of a small vessel that is making headway?",
@@ -91,7 +95,8 @@
       "id": "seamanship.shiphandling.q05",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What happens to the pivot point when the vessel stops and then goes astern?",
@@ -112,7 +117,8 @@
       "id": "seamanship.shiphandling.q06",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why does a small vessel creeping toward a berth at very low speed steer sluggishly?",
@@ -133,7 +139,8 @@
       "id": "seamanship.shiphandling.q07",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which approach to a berth best matches the lesson's advice?",
@@ -155,7 +162,8 @@
       "id": "seamanship.shiphandling.q08",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel approaches a pier on a flood current that sets along the pier face. What is the lesson's warning?",
@@ -177,7 +185,8 @@
       "id": "seamanship.shiphandling.q09",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement about wind, current and load is supported by the sources used for this lesson?",
@@ -199,7 +208,8 @@
       "id": "seamanship.shiphandling.q10",
       "lesson_id": "seamanship.shiphandling",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Someone falls from the port side of a single-screw vessel. Which wheel action does the Transport Canada template give for the skipper?",

@@ -4,7 +4,7 @@
     {
       "id": "tides.what-causes-tides.q01",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "The sun's gravitational pull on the Earth is much stronger than the moon's. Why is the moon still the main driver of ocean tides?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.what-causes-tides.q02",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "In the simple model of tides on a water-covered Earth, how many tidal bulges are there, and where are they?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.what-causes-tides.q03",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "About how long is a lunar day, the time for a place on Earth to come back to the same position relative to the moon?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.what-causes-tides.q04",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At a place with two high waters a day, one high water occurs at 0930. About when is the next high water that same evening?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.what-causes-tides.q05",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A high water occurs at 0930 today. Roughly when would you expect the morning high water tomorrow, at the same place?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.what-causes-tides.q06",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which statement correctly explains why tides arrive about 50 minutes later each day?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.what-causes-tides.q07",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Why do mariners use tide tables for their own area, instead of working out the tide from the moon's position alone?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.what-causes-tides.q08",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At a place with a regular semidiurnal tide, high water is at 1000. About when would you expect the following low water?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "tides.what-causes-tides.q09",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which description of a tide is best?",
       "options": [

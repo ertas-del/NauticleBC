@@ -2,7 +2,7 @@
 id: bridge-watch.lookout-duties
 title: "Look-out duties"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 30
 summary: "What a look-out is for, how to keep one by sight and hearing day and night, why the helmsman is not the look-out, and when the officer alone may be the look-out. Rule 5 itself is taught in the COLREGs module."
 objectives:

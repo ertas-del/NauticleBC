@@ -2,7 +2,7 @@
 id: seamanship.mooring-operations
 title: "Mooring lines and berthing operations"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 110
 summary: The six mooring lines and what each holds, how bitts and bollards work, the commands used when handling lines, snap-back danger and safe practice, stoppers, and the call and listening watch that bracket leaving a berth.
 objectives:

@@ -2,7 +2,7 @@
 id: bridge-watch.restricted-visibility-watch
 title: "Keeping watch in restricted visibility"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 85
 summary: "What the watch does when fog, rain or smoke cuts visibility: inform the master, post a look-out, show lights, use radar, sound fog signals, slow down, and what a look-out must listen for."
 objectives:

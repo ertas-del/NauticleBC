@@ -2,7 +2,7 @@
 id: seamanship.fire-response
 title: "Fire on board: the master's response"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 240
 summary: "The master's fire response on a small vessel - priorities, when to fight and when to leave, PASS, keeping the fire downwind, engine-space fires, and what the Small Vessel Regulations require in extinguishers, direct-discharge CO2 and detectors."
 objectives:

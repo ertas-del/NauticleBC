@@ -2,7 +2,7 @@
 id: meteorology.bc-local-effects
 title: "Local winds, fog and seas on the BC coast"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 50
 summary: Inflow and outflow winds in BC inlets, sea breezes, the types of fog and why sea fog forms on this coast, how swell differs from wind waves, and why wind against a tidal current builds steep, confused seas in passes.
 objectives:

@@ -5,7 +5,8 @@
       "id": "tides.current-stations-and-slack.q01",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does a current table give for each day at a station?",
@@ -32,7 +33,8 @@
       "id": "tides.current-stations-and-slack.q02",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In the CHS current tables, what does a minus sign in front of a speed mean?",
@@ -59,7 +61,8 @@
       "id": "tides.current-stations-and-slack.q03",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement defines flood and ebb correctly?",
@@ -86,7 +89,8 @@
       "id": "tides.current-stations-and-slack.q04",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Is slack water always at the time of high or low water?",
@@ -113,7 +117,8 @@
       "id": "tides.current-stations-and-slack.q05",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "At a reference station, slack is at 1145 and maximum ebb is 4.0 knots. A secondary station has a slack time difference of -0 h 20 min and a speed of 75 percent. In standard time, what are the secondary slack time and maximum ebb speed?",
@@ -140,7 +145,8 @@
       "id": "tides.current-stations-and-slack.q06",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why are the times for a secondary current station less certain than those for a reference station?",
@@ -167,7 +173,8 @@
       "id": "tides.current-stations-and-slack.q07",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A current table for BC shows a slack at 1415 and daylight saving time is in effect. What is the clock time?",
@@ -194,7 +201,8 @@
       "id": "tides.current-stations-and-slack.q08",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A current prediction for a narrow pass applies to which position?",
@@ -221,7 +229,8 @@
       "id": "tides.current-stations-and-slack.q09",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What can strong, prolonged wind do to the times in a current table?",
@@ -248,7 +257,8 @@
       "id": "tides.current-stations-and-slack.q10",
       "lesson_id": "tides.current-stations-and-slack",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which book do you use to time a passage through a narrows or rapid?",

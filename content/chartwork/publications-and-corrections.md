@@ -2,7 +2,7 @@
 id: chartwork.publications-and-corrections
 title: "Canadian publications and keeping them current"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 230
 summary: Which charts and publications the Navigation Safety Regulations, 2020 require on board, the under-100 GT local-knowledge exception, what electronic charts count, the duty to correct from Notices to Mariners and warnings, and how a monthly Notices to Mariners edition is laid out.
 objectives:

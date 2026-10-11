@@ -5,7 +5,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q01",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement best separates watertight from weathertight?",
@@ -29,7 +30,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q02",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is downflooding?",
@@ -53,7 +55,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q03",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the downflooding angle?",
@@ -77,7 +80,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q04",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A box-shaped hull has a beam of 5.0 m and a freeboard of 0.50 m. At about what angle of heel does the low-side deck edge go under?",
@@ -101,7 +105,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q05",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel is loaded deeper. What happens to her freeboard and to the angle at which the deck edge goes under?",
@@ -125,7 +130,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q06",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "An engine-room door sill is 0.40 m above the deck and 1.2 m from the centreline of a box hull with 0.30 m of freeboard. If the door were left open, at about what angle would water start to enter?",
@@ -149,7 +155,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q07",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Under the Canada Shipping Act, 2001, who must ensure the applicable load lines are not submerged, and what is the maximum fine?",
@@ -173,7 +180,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q08",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Under the Small Vessel Regulations, what must the owner of a vessel other than a pleasure craft do when making a change that affects watertight integrity or stability?",
@@ -197,7 +205,8 @@
       "id": "stability.watertight-integrity-and-freeboard.q09",
       "lesson_id": "stability.watertight-integrity-and-freeboard",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At sea in a seaway, which practice best protects watertight integrity?",

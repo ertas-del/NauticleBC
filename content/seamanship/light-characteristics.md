@@ -2,7 +2,7 @@
 id: seamanship.light-characteristics
 title: "Light characteristics and reading a light entry"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 40
 summary: The abbreviations for how a light behaves (F, Fl, LFl, Q, VQ, Iso, Oc, Mo), what groups and periods mean, sector lights, and how to read an entry such as Fl(2) W 10s 25m 15M.
 objectives:

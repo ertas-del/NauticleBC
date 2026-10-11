@@ -2,7 +2,7 @@
 id: seamanship.calling-for-help
 title: "Calling for help: the master's alerting plan"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 290
 summary: "When and how a master alerts others - early notification, which beacon a vessel must carry by voyage class, flares by length, registration, the persons-on-board report ashore, cancelling a false alert, and the legal duties on a vessel that hears a call."
 objectives:

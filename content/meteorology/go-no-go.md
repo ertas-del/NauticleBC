@@ -2,7 +2,7 @@
 id: meteorology.go-no-go
 title: "Go or no-go decisions"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 60
 summary: A scenario lesson that pulls the forecast, warnings, vessel design limits, tide and current timing and shelter into one go or no-go decision, with the legal limits in the Small Vessel Regulations and the duty to report dangerous weather.
 objectives:

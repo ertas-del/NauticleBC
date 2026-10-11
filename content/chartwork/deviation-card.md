@@ -2,7 +2,7 @@
 id: chartwork.deviation-card
 title: "Deviation and the deviation card"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 70
 summary: What deviation is and what causes it, how a deviation card or table is made by comparing the compass on different headings, how to read it and interpolate between its entries (including across zero), and what upsets it.
 objectives:

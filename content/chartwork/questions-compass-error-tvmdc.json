@@ -5,7 +5,8 @@
       "id": "chartwork.compass-error-tvmdc.q01",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the correct order of the chain used for compass conversions?",
@@ -27,7 +28,8 @@
       "id": "chartwork.compass-error-tvmdc.q02",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Variation is 12 degrees E and deviation on the present heading is 5 degrees W. What is the compass error?",
@@ -49,7 +51,8 @@
       "id": "chartwork.compass-error-tvmdc.q03",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel is steering 318 degrees by compass. Variation is 16 degrees E and deviation 3 degrees E. What is the true course?",
@@ -71,7 +74,8 @@
       "id": "chartwork.compass-error-tvmdc.q04",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A true course of 200 degrees is wanted. The compass error is 12 degrees W. What compass course is steered?",
@@ -93,7 +97,8 @@
       "id": "chartwork.compass-error-tvmdc.q05",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement about compass error is correct?",
@@ -115,7 +120,8 @@
       "id": "chartwork.compass-error-tvmdc.q06",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The ship is heading 075 degrees C, where the card gives 2 degrees W. On a heading of 150 degrees C it would give 4 degrees E. Variation is 17 degrees E. A lighthouse bears 150 degrees by the ship's compass. What is the true bearing?",
@@ -137,7 +143,8 @@
       "id": "chartwork.compass-error-tvmdc.q07",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A gyro bearing of a beacon is 126 degrees and the gyro error is 2 degrees E. What is the true bearing?",
@@ -158,7 +165,8 @@
       "id": "chartwork.compass-error-tvmdc.q08",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A compass bearing is 352 degrees and the compass error is 14 degrees E. What is the true bearing?",
@@ -180,7 +188,8 @@
       "id": "chartwork.compass-error-tvmdc.q09",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The true bearing of a beacon is 042 degrees and the ship's true heading is 300 degrees. What is the relative bearing?",
@@ -202,7 +211,8 @@
       "id": "chartwork.compass-error-tvmdc.q10",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "When converting a true course to a compass course using a card entered with compass heading, why must you estimate and then check?",
@@ -224,7 +234,8 @@
       "id": "chartwork.compass-error-tvmdc.q11",
       "lesson_id": "chartwork.compass-error-tvmdc",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel must make good 245 degrees true. The variation is 16 degrees E and the deviation on that heading is 4 degrees W. What compass course is steered?",

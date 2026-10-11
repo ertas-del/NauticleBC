@@ -2,7 +2,7 @@
 id: chartwork.compass-error-by-transit
 title: "Finding compass error by a transit"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 90
 summary: How two charted objects in line give a true bearing you can compare with the compass, how to turn the difference into compass error and deviation with the right signs, how to check the answer is believable, and how to record it.
 objectives:

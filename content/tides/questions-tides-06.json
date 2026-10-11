@@ -4,7 +4,7 @@
     {
       "id": "tides.tidal-currents.q01",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is the difference between the tide and the tidal stream?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.tidal-currents.q02",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A tide table shows high water at the nearest port at 1400. What can you safely conclude about slack water in a nearby narrow channel?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.tidal-currents.q03",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "What does wind blowing against the tidal stream typically do to the waves?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.tidal-currents.q04",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which pair of factors helps explain very strong tidal streams in narrow BC channels such as those around Johnstone Strait?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.tidal-currents.q05",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "You plan to take a vessel through a tidal rapid on the BC coast. What should you use to time the passage?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.tidal-currents.q06",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "In a channel where the stream is driven by a difference in water level between its two ends, when might slack water occur?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.tidal-currents.q07",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which of these BC passages is named in DFO sources as having very strong tidal streams, reported at over 7 m/s (more than 13 knots)?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.tidal-currents.q08",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What does a current table give you that a tide table does not?",
       "options": [

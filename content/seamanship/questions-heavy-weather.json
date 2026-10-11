@@ -5,7 +5,8 @@
       "id": "seamanship.heavy-weather.q01",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A master meets winds of Beaufort force 10 and no storm warning had been received. What does the Canada Shipping Act, 2001 (s. 112) require?",
@@ -26,7 +27,8 @@
       "id": "seamanship.heavy-weather.q02",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these is NOT listed in s. 112 of the Canada Shipping Act, 2001 as a danger the master must warn others about?",
@@ -47,7 +49,8 @@
       "id": "seamanship.heavy-weather.q03",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Why are following and quartering seas a particular danger to a small vessel?",
@@ -68,7 +71,8 @@
       "id": "seamanship.heavy-weather.q04",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Running before a sea, the vessel begins to heel and yaw excessively. What does the guidance suggest first?",
@@ -89,7 +93,8 @@
       "id": "seamanship.heavy-weather.q05",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You are running a vessel into a harbour with a following sea. Which approach matches the FAO advice?",
@@ -110,7 +115,8 @@
       "id": "seamanship.heavy-weather.q06",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A large steep wave is about to overtake a small Coast Guard-type boat from astern. What does the Coast Guard guidance (TP 11637) advise?",
@@ -131,7 +137,8 @@
       "id": "seamanship.heavy-weather.q07",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is pitchpoling?",
@@ -152,7 +159,8 @@
       "id": "seamanship.heavy-weather.q08",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which set of conditions all raise capsize risk for a small vessel?",
@@ -173,7 +181,8 @@
       "id": "seamanship.heavy-weather.q09",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A deckhand suggests locking the freeing port covers shut to stop water coming aboard in heavy weather. What is the right response?",
@@ -194,7 +203,8 @@
       "id": "seamanship.heavy-weather.q10",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Ice has built up and the vessel has a list to starboard. Where do you start removing ice, and what else is advised?",
@@ -215,7 +225,8 @@
       "id": "seamanship.heavy-weather.q11",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which item is part of the heavy-weather checklist in the Coast Guard guidance?",
@@ -236,7 +247,8 @@
       "id": "seamanship.heavy-weather.q12",
       "lesson_id": "seamanship.heavy-weather",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The vessel's documented design limitation is wave heights up to 1 m. The forecast gives 2 m seas and a passenger trip is booked. Which rule applies?",

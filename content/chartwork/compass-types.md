@@ -2,7 +2,7 @@
 id: chartwork.compass-types
 title: "Magnetic and gyro compasses"
 module: chartwork
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 50
 summary: Which compass is which (standard, steering, gyro, hand-bearing, pelorus), what each reads, which errors each has, and the carriage and record rules in the Navigation Safety Regulations. Builds on the Bridge Watch compass lesson with the chartwork view.
 objectives:

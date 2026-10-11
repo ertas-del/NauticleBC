@@ -2,7 +2,7 @@
 id: tides.planning-a-pass
 title: "Planning a tidal pass"
 module: tides
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 8
 summary: A step-by-step plan for going through a narrow pass at slack water, worked on an invented scenario - table, daylight saving, stream limit, window, arrival and departure times, a go or no-go check at a fix, wind against the stream and what to do if you miss the window.
 objectives:

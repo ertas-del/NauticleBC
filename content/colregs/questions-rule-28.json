@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-28.q01",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Under the international Rule 28, what may a vessel constrained by her draught show in addition to her power-driven lights?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-28.q02",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What day shape may a vessel constrained by her draught show?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-28.q03",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A loaded bulk carrier is berthing in a Canadian harbour on the BC coast. Under the Canadian modification, may she show three all-round red lights in a vertical line to indicate that she is constrained by her draught?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-28.q04",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which kind of vessel can be a \"vessel constrained by her draught\" under the Rules?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-28.q05",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Outside Canadian waters, your power-driven vessel meets a ship showing three all-round red lights in a vertical line with her masthead lights and sidelights. What do the Rules ask of you?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-28.q06",
       "lesson_id": "colregs.rule-28.constrained-by-draught",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which word in the international Rule 28 tells you that showing the constrained-by-draught signal is the vessel's choice?",
       "options": [

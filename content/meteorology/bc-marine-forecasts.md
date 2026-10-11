@@ -2,7 +2,7 @@
 id: meteorology.bc-marine-forecasts
 title: "Reading a BC marine forecast"
 module: meteorology
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 40
 summary: The Environment Canada Pacific marine products, when they are issued, the forecast areas, how a regular forecast is laid out and worded, how to get it on the water (VHF broadcast, NAVTEX, web, phone), and a practice forecast with invented text.
 objectives:
