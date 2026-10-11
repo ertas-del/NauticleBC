@@ -1,0 +1,350 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.occurrence-reporting.q01",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these people is NOT listed in the Transportation Safety Board Regulations as someone who must report a marine occurrence they know about directly?",
+      "options": [
+        "A passenger who is not a crew member",
+        "A crew member",
+        "The ship's pilot",
+        "The master"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(1) lists the operator (owner or not), the master, the ship's pilot, any crew member and the harbour master. A passenger is not on the list, although any person may report voluntarily under s. 6.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q02",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A deckhand falls off a work barge into harbour water, is pulled out within two minutes and is uninjured. Is this reportable to the TSB?",
+      "options": [
+        "No, because nobody was hurt",
+        "Only if the barge is over 15 GT",
+        "Only if the deckhand needs hospital treatment",
+        "Yes, because any person falling overboard from the ship is a reportable occurrence"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 3(1)(b) lists \"a person falls overboard from the ship\" on its own, whether or not there is an injury. Serious injury is a separate item under (a).",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q03",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug passes through a narrow channel at low tide and touches the bottom for a moment, then carries on with no damage and no grounding. What is the correct reporting position?",
+      "options": [
+        "Not reportable, because she did not go aground",
+        "Reportable only if the hull is breached",
+        "Reportable, as unforeseen contact with the bottom without going aground",
+        "Reportable only to the Canadian Hydrographic Service"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 3(1)(d)(v) lists unforeseen contact with the bottom as its own item, separate from going aground (iv). Damage is not a condition for this item.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q04",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of the following is a reportable failure under s. 3(1)(d)(x)?",
+      "options": [
+        "A failure of the galley refrigeration",
+        "A total failure of the steering that poses a threat to the safety of any person, property or the environment",
+        "A single failed navigation light that was replaced in minutes",
+        "A short stall of the engine in harbour with no threat to anyone"
+      ],
+      "correct_index": 1,
+      "explanation": "The list covers total failure of navigation equipment, main or auxiliary machinery, and propulsion, steering or deck machinery, with the safety-threat qualifier applying to the navigation equipment, propulsion, steering and deck machinery items. The other items are not on the list.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q05",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A crew member slashes a forearm on a winch drum. The cut bleeds heavily and the tendon is damaged. Under the TSB Regulations, how should the injury be classified?",
+      "options": [
+        "A serious injury, because a laceration that causes severe hemorrhage or nerve, muscle or tendon damage is included",
+        "Not a serious injury unless a bone is broken",
+        "A serious injury only if the person is hospitalized overnight",
+        "Not reportable, because it happened during normal work"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 1 defines serious injury to include lacerations causing severe hemorrhage or nerve, muscle or tendon damage. A person killed or seriously injured by contact with any part of the ship or its contents is reportable under s. 3(1)(a)(ii). Hospitalization is one of several routes into the definition, not the only one.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q06",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Another crew member suffers burns on a hot exhaust. Which burn is a serious injury under the definition?",
+      "options": [
+        "A first-degree burn on one fingertip",
+        "Only a third-degree burn",
+        "A first-degree burn covering 3 percent of the body",
+        "Any burn affecting more than 5 percent of the body surface"
+      ],
+      "correct_index": 3,
+      "explanation": "Second or third degree burns, or any burns affecting more than 5 percent of the body surface, are serious injuries. A minor first-degree burn under 5 percent does not meet the definition, and second-degree burns also count, so \"only third degree\" is too narrow.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q07",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Shortly after a collision, a master has some of the details of the TSB report but not all. What is the correct timing for the report?",
+      "options": [
+        "Wait until all the information is available and then report within 30 days",
+        "Report only after the company has completed its own investigation",
+        "Report as soon as possible by the quickest means with what is known, and send the rest as it becomes available, within 30 days after the occurrence",
+        "Report within 24 hours in all cases"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 3(3) has two parts: the available information as soon as possible by the quickest means, and the remainder as soon as it becomes available within 30 days after the occurrence. Waiting to report is the common error.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q08",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug master reports a reportable occurrence by VHF to a Marine Communications and Traffic Services centre. What is the legal effect?",
+      "options": [
+        "None; the report must go to the Board in writing",
+        "A report to a radio ship reporting station, which includes an MCTS centre, is considered made to the Board",
+        "It satisfies only the duty to report aids to navigation",
+        "It satisfies the duty only if a harbour master is also present"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 3(6) treats a report to a radio ship reporting station as made to the Board, and s. 3(8) defines that term to include a Canadian Coast Guard radio station and an MCTS centre. This is the quickest means for a vessel on the BC coast.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q09",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A ship being towed is involved in a reportable occurrence. According to s. 3(7), a reference to the operator or master of that ship includes whom?",
+      "options": [
+        "The operator and master of the towing ship",
+        "Only the owner of the cargo",
+        "The harbour master of the nearest port only",
+        "Nobody additional; only the towed ship's own people"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(7) says that for a ship being towed by another ship, a reference to the operator or master includes the operator and master of the towing ship. This keeps the duty from falling between the two vessels.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q10",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 6.5 m pleasure craft used only for recreation hits a log and takes on water. Does s. 3 of the TSB Regulations require its operator to report?",
+      "options": [
+        "Yes, because any collision must be reported",
+        "Only if she has an engine",
+        "Yes, but only within 30 days",
+        "No, because s. 3 covers ships other than pleasure craft; a pleasure craft is a ship used for pleasure and not for a commercial purpose"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 3(1) is for the operator of a ship \"other than a pleasure craft\", and s. 3(8) defines pleasure craft as a ship used for pleasure and not for a commercial purpose. Pleasure craft may still report voluntarily, and other duties may apply to them elsewhere.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q11",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "After a serious incident the master needs to cut away fouled gear to secure the vessel. What do the evidence rules say?",
+      "options": [
+        "Preserve nothing; safety overrides everything",
+        "Do nothing until a TSB investigator arrives, even if people are at risk",
+        "Take the necessary safety measures, but before doing so record the evidence by the best means available where possible and advise the Board of the action",
+        "Hand the evidence to the company"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 8(1) requires evidence to be kept and preserved unless the Board says otherwise. Section 8(2) allows safety measures, and s. 8(3) requires the person, so far as possible and beforehand, to record the evidence by the best means available and tell the Board.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q12",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A master meets winds of force 10 on the Beaufort scale, and no storm warning had been received for the area. Which duty applies, and to whom is notice given?",
+      "options": [
+        "No duty: weather is not reportable",
+        "CSA s. 112: notice to all vessels in the vicinity and to the shore station for the area, following the danger-message procedure in Section A5 of Notices to Mariners",
+        "CSA s. 129: a report to the Coast Guard officer in charge of aids to navigation",
+        "TSB Regulations s. 3: a report to the Board within 30 days"
+      ],
+      "correct_index": 1,
+      "explanation": "Winds of force 10 or more with no storm warning received are one of the danger types in s. 112. NSR s. 6 says the shore authority is the shore station for the area and that the message follows Section A5 of the annual Notices to Mariners. Section 129 is for aids to navigation and uncharted hazards.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q13",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug's tow drags a lit buoy off station while turning near a log dump. Under CSA s. 129, what does the person in charge of the tug do?",
+      "options": [
+        "Report without delay to an MCTS officer or, if that is not feasible, to a Canadian Coast Guard officer",
+        "Nothing, because the tow struck it rather than the tug",
+        "Wait for the next Notice to Mariners",
+        "Report to the TSB only"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 129(1) covers a vessel \"or anything towed by a vessel\" that runs down, moves, damages or destroys an aid to navigation. The report goes without delay to an MCTS officer, or to a Coast Guard officer if an MCTS report is not feasible.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q14",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "During passage, the mate sees an aid to navigation that is malfunctioning but which nobody has touched. What does s. 129 require?",
+      "options": [
+        "Nothing, unless a vessel strikes it",
+        "A danger message to vessels in the vicinity only",
+        "A TSB report within 30 days",
+        "The person in charge makes a report without delay to an MCTS officer or, failing that, a Coast Guard officer"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 129(2) separately requires a report where the person in charge of a vessel in Canadian waters discovers an uncharted hazard or that an aid is missing, out of position or malfunctioning. Striking it is not necessary.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.occurrence-reporting.q15",
+      "lesson_id": "canadian-regulations.occurrence-reporting",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A deckhand on a vessel run by another company sees a reportable incident but is not one of the people required to report. What does the TSB Regulations provide?",
+      "options": [
+        "Nothing; only the listed persons may contact the Board",
+        "The deckhand must report within 30 days or face a penalty under s. 3",
+        "The deckhand may report voluntarily, and if they ask, the Board must protect their identity",
+        "The Board may disclose the identity of the deckhand to the operator on request"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 6 allows any person with knowledge of a transportation occurrence, other than those required to report, to report voluntarily. Section 7 requires the Board to protect their identity if they request it.",
+      "source_ids": [
+        "regs-b-tsb-regs-2014",
+        "regs-b-csa-2001",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

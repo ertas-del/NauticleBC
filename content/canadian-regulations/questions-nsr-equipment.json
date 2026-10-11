@@ -1,0 +1,299 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.nsr-equipment.q01",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A tug's radar fails in port the evening before a planned departure, and no repair shop in the port can fix it. Under s. 5 of the Navigation Safety Regulations, 2020, what must the master do?",
+      "options": [
+        "Restore the equipment as soon as possible and, if repairs are not readily available there, plan and carry out a safe voyage to a port where they are, allowing for the missing equipment",
+        "Wait in port for as long as it takes, whatever the circumstances",
+        "Sail anyway, because radar is not a safety item",
+        "Report the failure and sail only if the owner agrees"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 5(3) and (4) require the master to restore equipment to effective operating condition as soon as possible and, where repair facilities are not readily available, to plan a safe voyage to a port that has them. Section 5(1) bars starting a voyage without required equipment except under force majeure or to save life or property. The owner's agreement is not the legal test.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q02",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A 7.5 m open boat works only within sight of navigation marks in sheltered water. What does s. 106 require about a standard magnetic compass?",
+      "options": [
+        "A compass is required only if the boat is a towboat",
+        "A power-independent standard compass, because every vessel needs one",
+        "A gyro-compass, because the boat is under 150 GT",
+        "Nothing: a vessel of 8 m or less that navigates within sight of navigation marks is excepted"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 106(1)(a) excepts a vessel of 8 m or less that navigates within sight of navigation marks (and cable ferries). Under-150 GT vessels may carry a steering compass instead of a standard one, but the gyro-compass applies only on international voyages.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q03",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which statement about compass records is correct for a non-pleasure vessel being inspected?",
+      "options": [
+        "No card is needed if the compass was compensated once, at installation",
+        "Only the owner may sign the deviation card",
+        "The master shows the latest deviation card, signed and dated by the master and a deck officer, or a signed statement that the compasses are satisfactory",
+        "The inspector is given a copy of the card only if asked in writing"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 132(1) sets this duty for non-pleasure vessels. Separately, s. 106(4) requires the compass to be properly compensated and the table or curve of residual deviations to be available near it, so a one-time compensation is not enough.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q04",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 220 GT Canadian vessel on a Near Coastal Class 2 voyage that is not an international voyage is not subject to Division 2. Which item is it required to carry because it is 150 GT or more?",
+      "options": [
+        "A 9-GHz radar",
+        "A GNSS receiver and a spare magnetic compass interchangeable with the main one",
+        "An echo sounder and a speed-and-distance device",
+        "A gyro-compass and a daylight signalling lamp"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 109 gives the 150 GT list: GNSS receiver, spare magnetic compass, a pelorus on NC1, unlimited or international voyages, and a daylight lamp on international voyages only. Radar, echo sounder and the speed-and-distance device are the 300 GT list in s. 110. A gyro-compass at 150 GT is only needed for NC1, unlimited or international voyages.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q05",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 350 GT vessel on a Near Coastal Class 2 voyage is under 500 GT. Besides echo-sounding equipment, which items does s. 110 require?",
+      "options": [
+        "A 9-GHz radar, a speed-and-distance device unless on sheltered waters, and an automatic tracking aid or radar plotting aid with a heading device",
+        "Only a 9-GHz radar",
+        "Two radars and a rate-of-turn indicator",
+        "Radar, but only if she tows"
+      ],
+      "correct_index": 0,
+      "explanation": "The 300 GT list includes the radar, the speed-and-distance device (not needed on sheltered waters) and, under 500 GT, an automatic tracking aid or ARPA connected to a transmitting heading device or gyro-compass. Two radars are a 3,000 GT and a towboat NC1 requirement, and the rate-of-turn indicator is a 50,000 GT item.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q06",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these vessels must carry AIS Class A under s. 118(1)?",
+      "options": [
+        "A 12 m non-pleasure vessel carrying 8 passengers",
+        "A 24 m pleasure craft",
+        "A 19 m non-pleasure vessel carrying 10 passengers",
+        "A 9.5 m towboat"
+      ],
+      "correct_index": 3,
+      "explanation": "A towboat of 8 m or more needs Class A (s. 118(1)(f)). The 12 m and 19 m vessels are below the 20 m trigger and carry fewer than 50 passengers, so any AIS duty for them would arise under s. 118(2) (Class A or B, on non-sheltered voyages), not (1). A pleasure craft is excluded from the 20 m rule.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q07",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An 11 m non-pleasure vessel carries three passengers on a Near Coastal Class 2 voyage. A crew member says AIS is unnecessary because she is under 20 m. What does s. 118 say?",
+      "options": [
+        "The crew member is right, because passenger numbers do not matter below 12 passengers",
+        "She needs AIS Class A only",
+        "She needs AIS Class A or Class B, because she is 8 m or more, carries a passenger and is not on a sheltered waters voyage",
+        "She needs AIS only if she is a towboat"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 118(2) catches vessels on a voyage other than a sheltered waters voyage that are passenger vessels (more than 12 passengers) or that are 8 m or more and carry a passenger. Class A or B satisfies it. The 20 m threshold belongs to s. 118(1) only.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q08",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When must the AIS be switched on before departure, and for how long must it stay on?",
+      "options": [
+        "5 minutes before departure and while under way only",
+        "30 minutes before departure and for the entire duration of the voyage",
+        "1 hour before departure and until the first position report",
+        "At departure and until the vessel leaves a VTS zone"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 118(5): at least 30 minutes immediately before departure and for the entire voyage. The exceptions in subsection (6) cover protection of navigational information under international agreements and certain government vessels.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q09",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 14 m, 22 GT towboat is on a Near Coastal Class 1 voyage. Which towboat radar and echo sounder fit-out does s. 125 require, and is anything extra needed for an unlimited voyage?",
+      "options": [
+        "An echo sounder and two functionally independent radars on NC1; on an unlimited voyage the same plus a gyro-compass",
+        "One radar only on NC1; a gyro-compass on unlimited",
+        "Two radars on NC2 and one on NC1",
+        "No radar, because the towboat is under 300 GT"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 125(1): radar at 5 GT or more on inland or NC2; on NC1 an echo sounder and two independent radars; on an unlimited voyage that fit-out plus a gyro-compass. The 300 GT limit is the general rule for other vessels. An emergency tow on an exceptional basis is exempt (s. 125(2)).",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q10",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessel must carry two searchlights under s. 121(1)?",
+      "options": [
+        "A 9 m pleasure craft that sometimes tows a skiff",
+        "A 12 GT vessel designed and built only for towing logs to be salvaged",
+        "A 4 GT tug designed and built for towing",
+        "A 12 GT tug designed and built for towing operations that tows barges"
+      ],
+      "correct_index": 3,
+      "explanation": "The rule is for a vessel designed and constructed to tow and of more than 5 GT. A 4 GT tug is under the trigger, and a vessel that tows only to salvage logs is excepted. The two beams together must sweep 360 degrees, each on an exclusive circuit.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q11",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A 19 m coastal workboat on a Near Coastal Class 2 voyage and a 21 m workboat on the same route are inspected for hand lead lines. Which needs one?",
+      "options": [
+        "Both, because both are on a voyage other than sheltered waters",
+        "Neither, because a lead line is replaced by an echo sounder",
+        "Only the 21 m vessel, because the rule is for vessels of 20 m or more on a voyage other than sheltered waters",
+        "Only the 19 m vessel, since smaller vessels need it more"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 123(1) is a length trigger: 20 m or more, on a voyage other than a sheltered waters voyage. The line must be at least 46 m long, marked for depth, with a lead of at least 3.2 kg that can be armed.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q12",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 70 GT passenger-carrying vessel leaves Victoria on a Near Coastal Class 2 voyage and is under 100 GT. Under s. 142, which of these is true about charts and publications?",
+      "options": [
+        "She must carry the same chart and publication set as every other vessel, with no exceptions",
+        "The chart set is not required if the person in charge knows the charted routes, marks and hazards and the tides, currents, ice and weather well enough that safety is not compromised",
+        "She is excused only if a pilot is on board",
+        "She never needs to correct charts from Notices to Mariners"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 142(3) provides this exception for vessels of less than 100 GT. It does not remove the s. 146 duty to correct whichever charts and publications are used, and nothing in it removes the master's voyage-planning duty in s. 144(1). A pilot is not part of the exception.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q13",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which sequence is the master's duty before embarking, under ss. 144 to 146?",
+      "options": [
+        "Plan the voyage, identify a route allowing for routing systems, sea room, hazards and environmental protection, display it on a chart, and monitor position throughout; and make sure charts are corrected from Notices to Mariners or navigational warnings before use",
+        "Start the voyage, then plan the route when radar shows hazards",
+        "Plan the voyage only if the vessel is over 300 GT",
+        "Correct the charts only at the end of the voyage"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 144 puts the planning, routing and plotting duties on the master, and s. 146(1) requires charts and publications to be correct and up to date before they are used to plan and execute a voyage. Subsection 146(2) excuses the correction only where Notices to Mariners or warnings cannot be received after reasonable efforts.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.nsr-equipment.q14",
+      "lesson_id": "canadian-regulations.nsr-equipment",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Section 106(5) requires a vessel with a magnetic compass to have a means of correcting headings and bearings to true at all times. Which vessel is excepted?",
+      "options": [
+        "A 12 m workboat of 8 GT",
+        "A 40 GT passenger vessel",
+        "A 160 GT pleasure craft",
+        "A 90 GT pleasure craft"
+      ],
+      "correct_index": 3,
+      "explanation": "The exception is for pleasure craft of less than 150 GT. The 160 GT pleasure craft is over the line, and the workboat and passenger vessel are not pleasure craft.",
+      "source_ids": [
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
