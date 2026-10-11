@@ -29,6 +29,15 @@
     <string name="module_radar_desc">Reading the display, plotting and collision avoidance</string>
     <string name="module_electronic_navigation">Electronic Navigation</string>
     <string name="module_electronic_navigation_desc">GPS, chart plotters, ECDIS and AIS</string>
+    <string name="mock_card_title">Mock exams</string>
+    <string name="mock_card_desc">Practice exams in the shape of the written tests</string>
+    <string name="mock_list_title">Mock exams</string>
+    <string name="mock_list_intro">Practice exams drawn from the question banks. They copy the shape of the written exams (number of questions, time and pass mark) but are not the official exams, and the pass marks are not confirmed.</string>
+    <string name="mock_list_empty">No mock exams yet.</string>
+    <string name="mock_start_action">Start mock exam</string>
+    <string name="mock_summary">%1$d questions, %2$d minutes suggested, %3$d%% pass mark</string>
+    <string name="mock_not_found">That mock exam was not found.</string>
+    <string name="mock_back">Back to mock exams</string>
     <string name="module_coming_soon">Coming soon</string>
     <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>
