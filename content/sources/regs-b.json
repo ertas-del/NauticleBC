@@ -1,0 +1,103 @@
+{
+  "sources": [
+    {
+      "id": "regs-b-nsr-2020",
+      "title": "Navigation Safety Regulations, 2020, SOR/2020-216 (consolidated XML): ss. 1, 4-6, 100-146, 200, 204, 212, 240, 248-253 and Schedule 4",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2020-216.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 1 definitions (towboat, passenger vessel, person in charge of the deck watch, traffic zone, traffic centre); s. 5 compliance and effective operating condition; s. 6 shore station for dangers to navigation; Part 1 Division 3 (ss. 105-114: non-application, standard magnetic compass s. 106, 150 GT items s. 109, 300 GT items s. 110), Division 4 (AIS s. 118, pilot transfer s. 119, searchlights s. 121, signal flags s. 122, hand lead line s. 123, towboat radar s. 125), Division 6 (charts and publications ss. 141-146 including the under-100 GT exception in s. 142(3)); Part 2 s. 204 VHF installation, s. 212 documents, s. 240 radio inspection certificate, ss. 248-253 watch and navigation safety call, Schedule 4 channels; Part 3 ss. 300-302 (anchoring prohibition in the Schedule 5 waters, which include Parry Bay, British Columbia as item 5) with the other Part 3 divisions skimmed (all for other regions). The VDR, ECDIS, manoeuvring information, bridge visibility, Schedule 1 and Schedule 3 detail were not studied."
+    },
+    {
+      "id": "regs-b-svr-2010",
+      "title": "Small Vessel Regulations, SOR/2010-91 (consolidated XML): ss. 1-4, Part 5 (workboats), Part 6 (critical safety), Part 7 (construction), Part 8 (compliance notices), Part 10 (ss. 1000-1007)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-91.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 2 application and exclusions (fishing vessels, 15 GT workboat); s. 1 definitions of tug, workboat, towing; Part 5 ss. 500-521 (owner's notice to the Minister s. 502, lifejackets and throwing gear s. 506, visual signals s. 507, life rafts ss. 508-509, anchor and bilge s. 510, navigation equipment s. 511, firefighting ss. 512-516, emergency procedures s. 520, towing requirements s. 521); Part 6 ss. 600-609 (adequate stability and strength s. 601(2), underwater penetrations, ventilation, fuel systems); Part 7 ss. 700-717 (application and tug exclusion, owner obligations ss. 706-708, critical safety elements s. 708(8), major modification s. 710, stability ss. 716-717); Part 8 ss. 800-812 (compliance notice duties and contents, exceptions, prohibitions); Part 10 ss. 1000-1007. Part 7 ss. 718-742 and the Schedule were not studied in detail."
+    },
+    {
+      "id": "regs-b-tsb-regs-2014",
+      "title": "Transportation Safety Board Regulations, SOR/2014-37 (consolidated XML): ss. 1, 3, 6-8",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2014-37.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 1 definition of serious injury; s. 3 marine occurrences (who must report, the list of reportable occurrences in s. 3(1), content of the report s. 3(2), the quickest-means and 30-day time limits s. 3(3), agreements s. 3(4), report to a radio ship reporting station s. 3(6), towing ship s. 3(7), definitions of pleasure craft, collision, risk of collision and radio ship reporting station s. 3(8)); s. 6 voluntary reporting; s. 7 protection of identity; s. 8 keeping and preserving evidence. The aviation, pipeline and railway reporting sections and Part 2 (investigations) were skimmed only."
+    },
+    {
+      "id": "regs-b-vts-zones-2025",
+      "title": "Vessel Traffic Services Zones Regulations, SOR/2025-275 (consolidated XML, point in time 2026-03-31)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2025-275.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28; consolidation point in time 2026-03-31); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read in full from the XML. Supports: s. 3 vessels covered everywhere (300 GT, 500 GT combined tow, pollutants or dangerous goods); s. 4 prescribed classes; ss. 5-6 communication and report content by reference to RAMN Part 3; s. 7 the four zone groups; Part 2 Western VTS Zones (ss. 8-15: 20 m class, tow classes, 24-hour sailing plan, 15-minute sailing plan, position, final, other and deviation reports); Parts 3-5 (Eastern, Local Eastern, Northern) only skimmed for comparison; s. 39 repeal of SOR/89-98, SOR/89-99 and SOR/2010-127; s. 40 coming into force formula; Schedule 1 items 1 (Victoria) and 2 (Prince Rupert). The XML marks the provisions with an in-force date of 2026-03-31."
+    },
+    {
+      "id": "regs-b-csa-2001",
+      "title": "Canada Shipping Act, 2001, S.C. 2001, c. 26 (consolidated XML): ss. 17, 105-107, 112, 125-130, 136",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/C-10.15.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 17 period of validity of a Canadian maritime document; s. 105 application of Part 4; s. 106 authorized representative duties including inspection for documents and meeting terms and conditions; s. 107 master obtains Canadian maritime documents before a voyage from a Canadian port; s. 112 notice of dangers to navigation; s. 125 definitions (aid to navigation, VTS Zone); s. 126 VTS clearance, MCTS officer powers, loss of communication, equipment failure; s. 127 variations; s. 129 reports on aids to navigation and uncharted hazards; s. 130 SAR mission coordinators; s. 136 regulation-making power for VTS Zones."
+    },
+    {
+      "id": "regs-b-vscr-2021",
+      "title": "Vessel Safety Certificates Regulations, SOR/2021-135 (consolidated XML): ss. 1-17",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2021-135.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 1 voyage class definitions; s. 3 application; Division 1 Safety Convention vessels (ss. 5-10: certificate, continuous synopsis record, documents kept on board); Division 2 (ss. 11-16: vessels of 15 GT or less with more than 12 passengers and vessels over 15 GT, certificate to engage on a voyage, issuance matters, inspection and endorsement, which certificate covers lower voyage classes, documents on board, terms and conditions and the criteria the Minister weighs); Division 3 s. 17 reports after inspection findings, modification or damage. Schedules 1 and 2 not re-read for this batch."
+    },
+    {
+      "id": "regs-b-pilotage-act",
+      "title": "Pilotage Act, R.S.C. 1985, c. P-14 (consolidated XML): ss. 2 (definitions), 38.01, 38.02, 44, 52",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/P-14.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: definitions of compulsory pilotage, compulsory pilotage area and pilotage certificate holder; s. 38.01 who may have the conduct of a ship in a compulsory pilotage area, exceptions, pilot responsible to the master; s. 38.02 master may take the conduct and must report within three days; s. 44 pilotage charges when a ship proceeds without a pilot; s. 52 regulation-making power over compulsory areas, ships subject and waivers. The licensing sections 38.1 to 38.9 were skimmed only."
+    },
+    {
+      "id": "regs-b-general-pilotage-regs",
+      "title": "General Pilotage Regulations, SOR/2000-132 (consolidated XML): Part 2 Division 4 (Pacific Pilotage Authority region), ss. 25 to 25.15, and Schedule 5",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2000-132.xml",
+      "edition": "Consolidated XML, repository commit b7292cf (updated 2026-09-28); read 2026-10-10",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML. Supports: s. 1 definitions (arrangement of ships, gross tonnage by reference to the Canada Shipping Act, 2001); s. 25.1 definitions (ferry, tug, warping, Second Narrows Traffic Control Zone); s. 25.2 and Schedule 5 the five Pacific compulsory pilotage areas; s. 25.9 ships subject to compulsory pilotage (more than 350 GT, pleasure craft more than 500 GT, arrangement of ships, three exceptions); s. 25.10 waivers; s. 25.11 pilot boarding stations; ss. 25.12-25.14 notice and information; s. 25.15 minimum number of pilots and the tug rule. The Pacific Pilotage Regulations, C.R.C., c. 1270, now show as repealed (SOR/2022-114), which is why this source is used instead. Licensing, examinations and apprenticeship sections not studied."
+    },
+    {
+      "id": "regs-b-ramn-2026-part3",
+      "title": "Radio Aids to Marine Navigation 2026, Part 3: Vessel Traffic Services (Pacific content)",
+      "publisher": "Canadian Coast Guard, Government of Canada",
+      "url": "https://www.canada.ca/en/canadian-coast-guard/corporate/publications/radio-aids-marine-navigation/vessel-traffic-services.html",
+      "edition": "2026 edition, web page issued 2026-03-19, last modified 2026-09-25 as shown on the page; accessed 2026-10-10",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Only a tool-generated extract of the page was seen, not the page or the PDF itself. Used for background on the report types, the sector and channel tables (for example Victoria Traffic sector 1 on Channel 11, Prince Rupert Traffic north sector 1 on Channel 11 and south sector on Channel 74) and the statement that the 24-hour sailing plan does not apply to the 20 m class. The channels and calling-in points are for the current RAMN table, not for memorising from this lesson. Verify against the published RAMN before use."
+    }
+  ]
+}

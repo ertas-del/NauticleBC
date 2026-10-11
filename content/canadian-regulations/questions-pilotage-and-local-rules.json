@@ -1,0 +1,396 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q01",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Who may have the conduct of a ship in a Pacific compulsory pilotage area, assuming no waiver and the master has not taken the conduct?",
+      "options": [
+        "A licensed pilot for that area, or a regular member of the ship's complement who holds a pilotage certificate for that area",
+        "Any master with a valid certificate",
+        "Any person on board who has been in the area before",
+        "Only the owner of the ship"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 38.01(1) of the Pilotage Act allows only those two. The exceptions are the master taking the conduct under s. 38.02, a waiver by the Authority, and certain waters contiguous with US waters.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q02",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "While a licensed pilot has the conduct of a ship, who is the pilot responsible to for the safe navigation of the ship?",
+      "options": [
+        "The Pilotage Authority only",
+        "The Minister only",
+        "The pilot is responsible to nobody",
+        "The master"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 38.01(3) says a licensed pilot or pilotage certificate holder who has the conduct is responsible to the master for the safe navigation of the ship. The master remains in command and may take the conduct back under s. 38.02.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q03",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master believes on reasonable grounds that a pilot's actions are endangering the ship, and takes the conduct. What must the master do afterwards?",
+      "options": [
+        "Nothing, because the ship was in danger",
+        "Report to the pilot's employer within 30 days",
+        "File a written report with the Minister within three days setting out the reasons",
+        "Send a verbal report to the next MCTS centre at the end of the voyage"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 38.02(2) requires a written report to the Minister within three days of taking the conduct. The power itself is in s. 38.02(1) and exists in the interest of the ship's safety.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q04",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship that is subject to compulsory pilotage goes through the area without a pilot or certificate holder and has no waiver. What follows under s. 44?",
+      "options": [
+        "Nothing, because the area is advisory",
+        "The ship is liable to the Authority for all the pilotage charges as if a pilot had been used",
+        "The ship is detained",
+        "The master loses the certificate automatically"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 44 makes the ship liable for all pilotage charges as if it had been under the conduct of a licensed pilot, unless the Authority waives compulsory pilotage.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q05",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A 90 GT cargo-carrying vessel, not a pleasure craft, enters Area 2 alone. Is she subject to compulsory pilotage under the General Pilotage Regulations s. 25.9?",
+      "options": [
+        "No, because the thresholds are more than 350 GT for ships that are not pleasure craft and more than 500 GT for pleasure craft",
+        "Yes, because every commercial ship is",
+        "Yes, if she carries dangerous goods only",
+        "No, because Area 2 is exempt"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 25.9(1) applies to a ship of more than 350 GT that is not a pleasure craft and to a pleasure craft of more than 500 GT. At 90 GT she is below the threshold. Dangerous goods matter for the Second Narrows waiver test and for VTS, not for this threshold.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q06",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 24 GT tug pushes a 600 GT barge across the Strait of Georgia, so the two are joined together. Is the tug and barge combination subject to compulsory pilotage under s. 25.9?",
+      "options": [
+        "No, because the tug is under 350 GT",
+        "Only if the barge carries dangerous goods",
+        "No, because barges are not ships",
+        "Yes: the pair is an arrangement of ships and their combined tonnage of 624 GT is considered"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 25.9(2) counts the combined tonnage of all the ships in an arrangement of ships (ships travelling together joined by lines or other means). The Pilotage Act defines a ship to include any vessel or boat used or designed for use in navigation, without regard to propulsion, so a barge counts.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q07",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is excepted from compulsory pilotage under s. 25.9(3)?",
+      "options": [
+        "A 400 GT cargo barge",
+        "A 450 GT commercial tug",
+        "A ferry running on a fixed schedule between terminals",
+        "A 600 GT pleasure craft"
+      ],
+      "correct_index": 2,
+      "explanation": "The three exceptions are a government vessel, a ferry (a ship or arrangement of ships carrying passengers or goods on a fixed schedule between terminals) and a US government ship of less than 10,000 GT. The other three vessels are over their thresholds and not excepted.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q08",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these pairs of Schedule 5 areas and descriptions is correct?",
+      "options": [
+        "Area 3: the Fraser River",
+        "Area 1: the Fraser River and its tributaries including the North Arm, with the seaward waters off Point Grey and Boundary Bay north of latitude 49°00′07″ N",
+        "Area 4: Juan de Fuca Strait",
+        "Area 5: the Strait of Georgia"
+      ],
+      "correct_index": 1,
+      "explanation": "Area 1 is the Fraser River and tributaries (with the Point Grey and Boundary Bay seaward waters). Area 2 is the south coast inside waters, Area 3 the outer west coast of Vancouver Island, Area 4 the central and north coast, and Area 5 the Haida Gwaii region.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q09",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Where is the pilot boarding station for Area 1 pilot transfers?",
+      "options": [
+        "Off Sand Heads, at the mouth of the Fraser River",
+        "Fairway Buoy off Brotchie Ledge",
+        "Off Triple Island",
+        "Off Pine Island"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 25.11(e) puts the Area 1 boarding station off Sand Heads. Fairway Buoy is near Victoria, Triple Island near Prince Rupert, Pine Island near Port Hardy, and Cape Beale at the entrance to Trevor Channel in Barkley Sound.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q10",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship needing a pilot will arrive at Triple Island. When must the Authority be given the ETA, and when must it be confirmed or corrected?",
+      "options": [
+        "At least 12 hours before arrival, confirmed 4 hours before",
+        "On arrival at the station",
+        "At least 24 hours before arrival, confirmed 2 hours before",
+        "At least 48 hours before arrival, confirmed or corrected at least 12 hours before"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 25.12(b): the stations other than Fairway Buoy off Victoria use 48 hours with confirmation at least 12 hours before. The 12 hour and 4 hour figures belong to the Victoria station, and the notice is in UTC.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q11",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A tug is pushing a barge that is subject to compulsory pilotage, and the ship concerned needs a licensed pilot. Where may the pilot ride?",
+      "options": [
+        "The pilot must always be on the barge",
+        "Neither vessel; the pilot follows in a launch",
+        "A pilot who has the conduct of the towed ship may be on board the tug that tows it",
+        "Only on the barge, and only in daylight"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 25.15(2) allows a licensed pilot or pilotage certificate holder who has the conduct of a towed ship to be on the tug towing it. Section 25.15(1) sets the usual minimum of one pilot, with two in the listed cases.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q12",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "When must two pilots be on board a ship rather than one?",
+      "options": [
+        "Whenever the ship is over 350 GT",
+        "Where the pilot's bridge watch would exceed 8 consecutive hours or 105 consecutive nautical miles, where one pilot cannot safely navigate the ship, or if the ship asks for two",
+        "Only at night",
+        "Only in Area 1"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 25.15(1) sets one as the minimum and two for those four cases: more than eight consecutive hours, more than 105 consecutive nautical miles, a ship that one pilot cannot safely navigate, or a request by the ship.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q13",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "An Area 2 waiver is sought for a 5,000 GT ship. Which set of experience conditions applies to every person in charge of the deck watch?",
+      "options": [
+        "Required certificates; 150 days of service in the previous 18 months, or 365 days in the previous 60 months including 60 in the last 24; and at least one occasion of service in that area in the previous 24 months",
+        "Any certificate and a one-time visit in the last 10 years",
+        "Only a letter from the owner",
+        "1,000 days of service in the last year"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 25.10(3) applies to a ship of less than 10,000 GT and sets these three tests for every person in charge of the deck watch. Subsections (4) to (6) add return-voyage requirements for Area 1 and the Second Narrows dangerous goods case, and subsection (9) makes a ship subject to pilotage if there is a navigational safety risk.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q14",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "In Area 1 west of the New Westminster railway bridge, how many return voyages with a licensed pilot (or with a watchkeeper who had done them) must each person in charge of the deck watch have made in the previous 24 months to qualify for a waiver of a ship under 10,000 GT?",
+      "options": [
+        "Two",
+        "Six, only for dangerous goods",
+        "Ten",
+        "Five"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 25.10(4) says five west of the bridge, and (5) says ten east of it. Six return voyages is the Second Narrows Traffic Control Zone figure for ships carrying dangerous goods (subsection (6)).",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q15",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A waiver would normally be available, but there is extreme freshet in the river. What is the effect under s. 25.10(9)?",
+      "options": [
+        "The waiver still applies",
+        "The Authority must grant the waiver",
+        "Despite the waiver conditions the ship is subject to compulsory pilotage if there is a risk to navigational safety because of extreme weather, tide, current or freshet conditions",
+        "The ship may proceed with two pilots"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 25.10(9) says that despite the waiver conditions in subsections (3) to (6), a ship is subject to compulsory pilotage if navigational safety is at risk because of environmental-risk safety orders, exceptional circumstances on board or extreme weather, tide, current or freshet conditions.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q16",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A master plans to anchor a tug and barge overnight in Parry Bay by Albert Head. Which rule is most directly relevant?",
+      "options": [
+        "Pilotage Act s. 44",
+        "NSR s. 301, which prohibits anchoring within the Schedule 5 waters, which include Parry Bay",
+        "General Pilotage Regulations s. 25.11",
+        "CSA s. 129"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 301 prohibits anchoring in the Schedule 5 waters, and item 5 is Parry Bay, British Columbia. Section 302 adds a duty to comply with instructions or directions in Notices to Mariners or a navigational warning.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.pilotage-and-local-rules.q17",
+      "lesson_id": "canadian-regulations.pilotage-and-local-rules",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is the NSR s. 119 duty for a vessel on a voyage that will likely need a licensed pilot?",
+      "options": [
+        "Meet the pilot transfer equipment and arrangement requirements in Section B (Pilotage Services in Canadian Waters) of the annual Notices to Mariners",
+        "Carry a pilot's licence on board",
+        "Fly a special pilot flag at all times",
+        "Anchor until the pilot arrives"
+      ],
+      "correct_index": 0,
+      "explanation": "NSR s. 119 requires the vessel to meet the pilot transfer equipment and arrangement requirements in Section B of the annual edition of Notices to Mariners.",
+      "source_ids": [
+        "regs-b-pilotage-act",
+        "regs-b-general-pilotage-regs",
+        "regs-b-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
