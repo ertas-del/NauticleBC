@@ -1,0 +1,217 @@
+{
+  "module": "seamanship",
+  "questions": [
+    {
+      "id": "seamanship.machinery-and-systems.q01",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Before starting an enclosed gasoline inboard engine, what should the master make sure has happened?",
+      "options": [
+        "The engine-space blower has run for at least four minutes (longer if the manufacturer says so)",
+        "The bilge pump has run for four minutes",
+        "The engine has been turned over once without fuel",
+        "The hatch has been closed for four minutes to let vapour settle"
+      ],
+      "correct_index": 0,
+      "explanation": "Gasoline vapour collects in the engine space and a spark can ignite it. The Small Vessel Regulations require powered ventilation (s. 603) and Transport Canada's TP 14070 says to run the blower at least four minutes before starting. Closing the hatch keeps the vapour in, and the bilge pump moves water, not vapour.",
+      "source_ids": [
+        "sea-c-svr-xml",
+        "sea-c-tc-tp14070"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q02",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which engine space is covered by the Small Vessel Regulations rule that powered ventilation must supplement natural ventilation (s. 603)?",
+      "options": [
+        "Any engine space on a vessel over 6 m",
+        "An enclosed diesel engine space only",
+        "Any space containing a battery",
+        "An enclosed gasoline engine space"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 603 is about removing combustible vapours from an enclosed gasoline engine space on a vessel other than a personal watercraft. Diesel does not give off the same explosive vapour, and the rule is not tied to length or to batteries.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q03",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A 9 m passenger-carrying vessel is being fitted out. Which of these appliances may NOT be installed on it?",
+      "options": [
+        "A diesel-fired heater",
+        "An electric kettle on a certified circuit",
+        "A propane (LPG) cooking stove",
+        "A fixed fuel tank with an overboard vent"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 604(2) of the Small Vessel Regulations bans gaseous fuel, LPG, compressed natural gas and naphtha appliances on a passenger-carrying vessel. A diesel heater, an electrical appliance and a vented tank are not caught by that ban (they must meet other rules).",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q04",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Under SVR s. 602 every vessel must have a way to positively shut off underwater penetrations. Which penetration is excepted?",
+      "options": [
+        "A raw-water cooling intake",
+        "A wet exhaust system",
+        "A sink drain below the waterline",
+        "A cockpit scupper hose below the waterline"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 602(1) excepts wet exhaust systems. Cooling intakes, sink drains and hoses below the waterline all need seacocks or equivalent shut-offs, because a burst hose there is a way for the sea to come in.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q05",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A seacock sits low in an engine space where a fire would be a risk. Which statement about it matches SVR s. 602(1)?",
+      "options": [
+        "If the means of shut-off is in an area where there is a risk of fire, it must be made of material not susceptible to fire damage",
+        "It may be made of any material because the engine has its own fire extinguisher",
+        "It must be a plastic valve so that it does not corrode",
+        "It is not needed if the vessel carries a bailer"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 602(1) requires a shut-off in a fire-risk area to be made of material that fire does not damage. A valve that melts in a fire cannot be closed when you need it. Carrying a bailer does not replace the shut-off, and plastic is the wrong direction.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q06",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which pair of requirements comes from SVR Part 6 for fuel installations?",
+      "options": [
+        "A fuel tank must be placed within 1 m of the engine, and a diesel needs a flame arrestor",
+        "A fuel tank must be vented into the engine space, and a gasoline inboard needs a CO2 system",
+        "Fuel tanks must be made of steel, and a flame arrestor is needed on the exhaust",
+        "A fixed fuel tank must have a means of venting vapours overboard, and a below-deck gasoline inboard needs a flame arrestor on its carburetor or throttle-body injector"
+      ],
+      "correct_index": 3,
+      "explanation": "Section 606 requires overboard venting of combustible vapours from a fixed tank and s. 607 requires a flame arrestor on the carburetor or throttle-body injector of a below-deck or boxed gasoline inboard. Venting into the engine space would defeat the purpose, and the other pairs are not in Part 6.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q07",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A master asks whether a battery charger fitted in a gasoline engine bilge needs to be ignition-protected. Which answer best matches SVR s. 608?",
+      "options": [
+        "No, ignition protection applies only to engines",
+        "Yes, always, with no exceptions for any vessel",
+        "Yes, unless the vessel uses only diesel, the charger is isolated from fuel sources, or the compartment's only vapour source is gas fittings and it is open to the atmosphere or is an accommodation space",
+        "No, because chargers are low voltage"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 608 requires components to be certified as ignition-protected (SAE J1171 or UL 1500) but lists three exceptions: diesel-only vessels, components isolated from fuel sources, and gas-only compartments open to the atmosphere (or accommodation spaces). Low voltage does not remove the spark risk, and the rule is not limited to engines.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q08",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What is the minimum pumping or bailing equipment for a 10 m passenger-carrying vessel under SVR Part 4 (s. 412)?",
+      "options": [
+        "A bailer only",
+        "A manual bilge pump",
+        "Only a powered bilge pump with a float switch",
+        "No pumping equipment if it has a life raft"
+      ],
+      "correct_index": 1,
+      "explanation": "For vessels over 9 m, s. 412 requires a manual bilge pump (up to 9 m a bailer or manual pump will do). The section does not ask for a powered pump or exempt a vessel because it carries a life raft; a bailer or pump is excused only if the vessel cannot hold enough water to capsize or the compartments are sealed.",
+      "source_ids": [
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q09",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug's steering system fails completely while crossing a busy channel, putting the tug at risk. What is the master's reporting duty?",
+      "options": [
+        "It is a marine occurrence that must be reported to the TSB: the available facts as soon as possible by the quickest means and the rest within 30 days",
+        "No report is needed if the steering is repaired the same day",
+        "A report to the TSB is needed only if someone is injured",
+        "The report goes to the authorized representative only, within 30 days"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 3(1)(d)(x) of the Transportation Safety Board Regulations lists total failure of propulsion, steering or deck machinery if it poses a threat to safety. The report is made to the Board with what is known as soon as possible and the remainder within 30 days. Injury is a separate trigger, not a condition, and a same-day repair does not cancel the duty.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "seamanship.machinery-and-systems.q10",
+      "lesson_id": "seamanship.machinery-and-systems",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which sequence best describes the order of thought for a master after a total engine failure in a tidal channel?",
+      "options": [
+        "Work the fault first, report to the TSB, then think about drift",
+        "Anchor at once whatever the depth, then call the Coast Guard, then show signals",
+        "Wait for the engineer's report, then decide whether to warn others",
+        "Protect people, show the right signals and check drift toward danger, then work the fault, and later report the occurrence"
+      ],
+      "correct_index": 3,
+      "explanation": "The lesson's order is people first, then the vessel's position and signals (Rule 27, and an urgency or distress call if drifting to danger), then the repair, and afterwards the TSB report required for total machinery failure. Starting with the repair leaves the vessel to drift unwarned.",
+      "source_ids": [
+        "sea-c-tsb-regs-xml",
+        "sea-c-svr-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
