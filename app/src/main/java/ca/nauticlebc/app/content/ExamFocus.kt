@@ -43,4 +43,26 @@ object ExamFocus {
     /** Number of questions [moduleQuiz] would contain; cheap way to decide whether to offer the quiz. */
     fun moduleQuestionCount(questions: List<Question>, lessons: List<Lesson>, module: String): Int =
         moduleQuiz(questions, lessons, module, Random(0)).size
+
+    /**
+     * Questions for a mock exam: for each blueprint entry, up to `count` questions from that module (shuffled with
+     * [random]), without repeats across entries, then shuffled together. Stops at the exam's question count and
+     * uses fewer if the banks are short. The same seed always gives the same exam.
+     */
+    fun mockExam(
+        exam: MockExam,
+        questions: List<Question>,
+        lessons: List<Lesson>,
+        random: Random,
+    ): List<Question> {
+        val used = mutableSetOf<String>()
+        val picked = mutableListOf<Question>()
+        for (item in exam.blueprint) {
+            val pool = moduleQuiz(questions, lessons, item.module, random).filter { it.id !in used }
+            val take = pool.take(item.count)
+            take.forEach { used += it.id }
+            picked += take
+        }
+        return picked.shuffled(random).take(exam.questionCount)
+    }
 }

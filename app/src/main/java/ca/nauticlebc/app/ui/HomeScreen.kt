@@ -68,6 +68,7 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
 fun HomeScreen(
     bundle: Result<ContentBundle>?,
     onOpenModule: (String) -> Unit,
+    onOpenMocks: () -> Unit = {},
 ) {
     Scaffold(
         topBar = { TopAppBar(title = { Text(stringResource(R.string.home_title)) }) },
@@ -108,6 +109,24 @@ fun HomeScreen(
                                 stringResource(R.string.module_coming_soon),
                                 style = MaterialTheme.typography.labelMedium,
                             )
+                        }
+                    }
+                }
+            }
+
+            if (bundle?.getOrNull()?.mockExams?.isNotEmpty() == true) {
+                item(key = "mock-exams") {
+                    Card(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clickable(
+                                onClickLabel = stringResource(R.string.module_open_action),
+                                onClick = onOpenMocks,
+                            ),
+                    ) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Text(stringResource(R.string.mock_card_title), style = MaterialTheme.typography.titleMedium)
+                            Text(stringResource(R.string.mock_card_desc), style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }

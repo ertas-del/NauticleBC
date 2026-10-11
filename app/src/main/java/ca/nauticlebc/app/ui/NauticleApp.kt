@@ -32,12 +32,16 @@ object Routes {
     const val QUIZ_PATTERN = "quiz/{$ARG_LESSON}"
     const val EXAM_FOCUS_PATTERN = "examfocus/{$ARG_MODULE}"
     const val MODULE_QUIZ_PATTERN = "modulequiz/{$ARG_MODULE}"
+    const val ARG_EXAM = "examId"
+    const val MOCKS = "mocks"
+    const val MOCK_PATTERN = "mock/{$ARG_EXAM}"
 
     fun module(moduleId: String) = "module/$moduleId"
     fun lesson(lessonId: String) = "lesson/$lessonId"
     fun quiz(lessonId: String) = "quiz/$lessonId"
     fun examFocus(moduleId: String) = "examfocus/$moduleId"
     fun moduleQuiz(moduleId: String) = "modulequiz/$moduleId"
+    fun mock(examId: String) = "mock/$examId"
 }
 
 @Composable
@@ -55,7 +59,36 @@ fun NauticleApp() {
             HomeScreen(
                 bundle = bundleResult,
                 onOpenModule = { navController.navigate(Routes.module(it)) },
+                onOpenMocks = { navController.navigate(Routes.MOCKS) },
             )
+        }
+
+        composable(Routes.MOCKS) {
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.mock_list_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                MockExamListScreen(
+                    bundle = bundle,
+                    onOpen = { navController.navigate(Routes.mock(it)) },
+                    onBack = { navController.popBackStack() },
+                )
+            }
+        }
+
+        composable(
+            route = Routes.MOCK_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_EXAM) { type = NavType.StringType }),
+        ) { entry ->
+            val examId = entry.arguments?.getString(Routes.ARG_EXAM).orEmpty()
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.mock_list_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                MockExamScreen(examId = examId, bundle = bundle, onBack = { navController.popBackStack() })
+            }
         }
 
         composable(
