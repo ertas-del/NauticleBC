@@ -1,0 +1,265 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.tides-in-chartwork.q01",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A shoal is charted at 3.1 m (not underlined). The height of tide is 2.0 m. What is the depth of water?",
+      "options": [
+        "5.1 m",
+        "1.1 m",
+        "6.2 m",
+        "3.1 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Depth of water = charted depth + height of tide = 3.1 + 2.0 = 5.1 m. Subtracting is the rule for a drying height, not for a plain sounding.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q02",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rock is charted with an underlined 0.9, a drying height. The height of tide is 2.4 m. What is the depth of water over it?",
+      "options": [
+        "0.9 m",
+        "1.5 m",
+        "2.4 m",
+        "3.3 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Over a drying spot, depth = height of tide - drying height = 2.4 - 0.9 = 1.5 m. Adding gives 3.3 m, which is the common mistake.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q03",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Charted depth is 1.5 m, draught 1.8 m, and you want 0.5 m under the keel. What height of tide is needed?",
+      "options": [
+        "1.8 m",
+        "0.8 m",
+        "3.8 m",
+        "0.3 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Tide needed = draught + wanted clearance - charted depth = 1.8 + 0.5 - 1.5 = 0.8 m.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q04",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "You are planning at 0800 to cross a shoal at 1030. At which time do you read the height of tide?",
+      "options": [
+        "The time of the nearest high water",
+        "0800, when you make the plan",
+        "1030, the time you will be at the shoal, based on your ETA from speed made good",
+        "The time of the nearest low water, to be safe"
+      ],
+      "correct_index": 2,
+      "explanation": "Tide changes through the day. What matters is the tide when you are over the shoal, so the ETA, worked from speed made good, decides the time.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q05",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Low water 0600 (0.4 m), high water 1200 (3.4 m). Using the rule of twelfths, at what time does the tide reach 1.9 m?",
+      "options": [
+        "1000",
+        "0730",
+        "0900",
+        "0800"
+      ],
+      "correct_index": 2,
+      "explanation": "The range is 3.0 m, one twelfth is 0.25 m. Rise needed = 1.9 - 0.4 = 1.5 m = 6 twelfths, which is reached after 3 hours (1 + 2 + 3 twelfths). 0600 + 3 h = 0900.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q06",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a falling tide the dangerous one when crossing a shoal?",
+      "options": [
+        "The tide table is less accurate on a falling tide",
+        "The charted depths are lower on a falling tide",
+        "The tidal stream always increases on a falling tide",
+        "A vessel that touches has less water every hour and may be held until the tide rises again"
+      ],
+      "correct_index": 3,
+      "explanation": "On a rising tide, water is coming to a vessel that touches. On a falling tide it is leaving, so the same mistake can leave her aground for hours.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q07",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A bridge has a charted clearance of 10.0 m above higher high water, large tide. The tables give that level as 4.0 m above chart datum. The present height of tide is 1.0 m. What is the clearance now?",
+      "options": [
+        "13.0 m",
+        "15.0 m",
+        "9.0 m",
+        "10.0 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Clearance now = charted clearance + (HHWLT level - present tide) = 10.0 + (4.0 - 1.0) = 13.0 m. The water is lower than the datum from which the clearance is measured, so the gap is larger.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q08",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "The tide table for a port in BC gives high water at 1140 in standard time and daylight saving time is in effect. At what clock time is high water?",
+      "options": [
+        "1340",
+        "1140",
+        "1040",
+        "1240"
+      ],
+      "correct_index": 3,
+      "explanation": "Add one hour in daylight saving time: 1140 + 1 h = 1240. Subtracting gives 1040 and adding two hours gives 1340.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q09",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Why should you allow a margin on a tide height from the table?",
+      "options": [
+        "The table is a prediction from the sun and moon; wind, air pressure and river flow can change the actual height",
+        "The table is measured at the wrong datum",
+        "The margin is only needed on neap tides",
+        "The table is always 0.5 m too high"
+      ],
+      "correct_index": 0,
+      "explanation": "Predictions leave out weather. An onshore wind can raise the water and an offshore wind can lower it; pressure and river flow also matter.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.tides-in-chartwork.q10",
+      "lesson_id": "chartwork.tides-in-chartwork",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When anchoring in a tidal bay, which tide heights do you check, and for what?",
+      "options": [
+        "Only low water, because scope does not depend on depth",
+        "The lowest expected water for swinging room and grounding, and the highest expected water for scope",
+        "Only the height at the time of anchoring",
+        "Only high water, because the anchor holds best then"
+      ],
+      "correct_index": 1,
+      "explanation": "At low water the boat may swing into shallows. At high water the depth is greatest, so the scope must be enough for that depth. Using the depth at the time of anchoring alone can leave too little cable at high water.",
+      "source_ids": [
+        "chs-tide-current-tables-vol5",
+        "ubc-atsc113-tide-current-tables",
+        "chs-vertical-datum-chart-references",
+        "chw-a-chs-chart1-2022-pdf",
+        "noaa-tides-tutorial-othereffects",
+        "wikipedia-rule-of-twelfths"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

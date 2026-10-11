@@ -1,0 +1,305 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.publications-and-corrections.q01",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under s. 142(1) of the Navigation Safety Regulations, 2020, what must be kept on board for each area where the vessel is scheduled to be navigated?",
+      "options": [
+        "Any chart of the area, whatever its edition",
+        "The most recent versions of the reference catalogue and the applicable charts in their largest scale",
+        "Charts at the smallest scale to give an overview",
+        "Only the chart of the departure port"
+      ],
+      "correct_index": 1,
+      "explanation": "The wording is the most recent versions, in their largest scale. The largest scale gives the most detail and is the one used to navigate.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q02",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Which edition of Notices to Mariners must be kept on board under s. 142(1)?",
+      "options": [
+        "The annual edition",
+        "None, they are optional",
+        "The most recent weekly edition",
+        "The edition for the year of the vessel's build"
+      ],
+      "correct_index": 0,
+      "explanation": "The annual edition is required on board. The monthly editions are used to bring charts and publications up to date.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q03",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which publishers produce the Canadian Tide and Current Tables and the List of Lights, Buoys and Fog Signals?",
+      "options": [
+        "Transport Canada publishes both",
+        "CHS publishes both",
+        "CHS publishes the Tide and Current Tables and the Canadian Coast Guard publishes the List of Lights",
+        "The Canadian Coast Guard publishes both"
+      ],
+      "correct_index": 2,
+      "explanation": "The Canadian Hydrographic Service publishes the Sailing Directions and the Tide and Current Tables. The Canadian Coast Guard publishes the List of Lights, Buoys and Fog Signals and Radio Aids to Marine Navigation.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q04",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When is Radio Aids to Marine Navigation required?",
+      "options": [
+        "When the vessel is required to be fitted with radio equipment under the regulations (or any foreign law)",
+        "Only on vessels over 500 GT",
+        "On every vessel regardless of equipment",
+        "Only on vessels carrying passengers"
+      ],
+      "correct_index": 0,
+      "explanation": "It is required only where the vessel must carry radio equipment, which is a condition in s. 142(1)(c).",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q05",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which vessel must carry an illustrated table of life-saving signals under s. 142(1)?",
+      "options": [
+        "Only vessels of 500 GT or more",
+        "A vessel other than a pleasure craft of less than 150 GT, on a voyage other than a sheltered waters voyage",
+        "Only pleasure craft",
+        "Every vessel on every voyage, including sheltered waters"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 142(1)(e) ties the requirement to the vessel type and the voyage: not a small pleasure craft, and not a sheltered waters voyage. It must also be readily available to the person in charge of navigation.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q06",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What publication is required on a voyage during which ice may be encountered?",
+      "options": [
+        "Ice Navigation in Canadian Waters",
+        "The Tide and Current Tables, Volume 1",
+        "The International Code of Signals only",
+        "Nothing extra"
+      ],
+      "correct_index": 0,
+      "explanation": "Section 142(1)(h) names Ice Navigation in Canadian Waters, published by the Canadian Coast Guard, for voyages where ice may be met.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q07",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "A 12 m vessel of 25 GT stays in waters whose routes, lights, buoys, hazards, tides, currents, ice and weather the person in charge knows thoroughly. What does s. 142(3) allow?",
+      "options": [
+        "It allows the vessel to use charts of any age",
+        "The carriage list in s. 142(1) does not apply if that knowledge is sufficient that safety and efficiency of navigation will not be compromised",
+        "Nothing; every vessel must carry every item in all circumstances",
+        "It allows the vessel to go without a compass"
+      ],
+      "correct_index": 1,
+      "explanation": "For vessels under 100 GT, s. 142(3) removes the list requirement where the person in charge of navigation has sufficient knowledge of the area. It is not a licence to go unprepared into unfamiliar waters.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q08",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does s. 146 require of the master before charts and publications are used to plan and execute a voyage?",
+      "options": [
+        "That they be correct and up to date, based on Notices to Mariners or a navigational warning",
+        "That they be checked once a year",
+        "That they be replaced with new editions",
+        "That they be signed by the previous master"
+      ],
+      "correct_index": 0,
+      "explanation": "Correction from Notices to Mariners or navigational warnings is the duty. The exception is when it is impossible after reasonable efforts to receive them.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q09",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "When does an electronic chart count as the required chart under s. 143?",
+      "options": [
+        "When it was downloaded within the last year",
+        "When it is shown on any chart plotter or tablet with an up-to-date chart",
+        "When it is displayed on an ECDIS using ENCs where available, meeting S-52, with a back-up arrangement or printed charts being plotted on",
+        "Whenever the paper chart is also on board but unmarked"
+      ],
+      "correct_index": 2,
+      "explanation": "Section 143 sets conditions: ENC where available, an S-52 display and a back-up. A plain plotter or phone app does not meet them as written, and what a small vessel needs in practice is a question for an expert.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q10",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What navigation accessories does s. 145 require alongside the charts?",
+      "options": [
+        "An echo sounder and radar",
+        "Accessories to plot the position precisely, to determine compass accuracy, and binoculars",
+        "A sextant and chronometer",
+        "A barometer and anemometer"
+      ],
+      "correct_index": 1,
+      "explanation": "Section 145 lists accessories to use the charts for precise position, to determine compass accuracy, and binoculars.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q11",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In a monthly Notices to Mariners edition, how are the chart corrections arranged, and how should a temporary (T) notice be shown on the chart?",
+      "options": [
+        "By publisher; with a stick-on label permanently fixed",
+        "By chart number; in pencil, since temporary and preliminary notices are not charted by CHS",
+        "By date of notice; in ink, to make sure it is seen",
+        "By area name; not shown at all"
+      ],
+      "correct_index": 1,
+      "explanation": "Chart corrections appear in a section ordered by chart number. Temporary and preliminary notices are not charted by CHS, so the edition advises marking them in pencil to be rubbed out when they lapse.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.publications-and-corrections.q12",
+      "lesson_id": "chartwork.publications-and-corrections",
+      "tickets": [
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long are navigational warnings kept?",
+      "options": [
+        "Until superseded by Notices to Mariners or a revised chart",
+        "For 24 hours only",
+        "Only until the vessel leaves the area",
+        "Until the end of the calendar month"
+      ],
+      "correct_index": 0,
+      "explanation": "Warnings give urgent information between monthly editions and remain in force on your charts until Notices to Mariners or a new chart takes their place.",
+      "source_ids": [
+        "chw-a-nsr-2020-xml",
+        "chw-c-notmar-west-2019-01",
+        "chw-a-bowditch-2019-ch4-charts",
+        "sixty-nsr-2020-xml",
+        "sixty-bcit-naut-1475"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

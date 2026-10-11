@@ -1,0 +1,59 @@
+{
+  "sources": [
+    {
+      "id": "chw-c-oceannavigator-lights",
+      "title": "Navigational lights (Ocean Navigator)",
+      "publisher": "Ocean Navigator magazine",
+      "url": "https://oceannavigator.com/?p=64580",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool, not word for word. Secondary teaching article. Supports: nominal range is a rating of a light's power giving the distance it can be seen in standard clear conditions and is printed on charts; luminous range is the distance the light can be seen in the visibility that actually prevails and is reduced by haze, rain or fog; geographic range is the distance at which the light is seen before the curve of the Earth blocks it; distance to the horizon = 1.17 x square root of height in feet, with worked figures (eye 9 ft gives 3.5 miles, light 100 ft gives 11.7 miles, total 15.2 miles, less than an 18 mile nominal range). It does not name the tidal datum of charted light heights. The metric constant 2.08 used in the lesson comes from the Sailing Issues entry sixty-sailingissues-fixes (also summariser only); the two constants differ by about 2 percent."
+    },
+    {
+      "id": "chw-c-wikipedia-leeway",
+      "title": "Leeway (Wikipedia)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leeway",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. General reference (CC BY-SA). Supports: leeway is the drift of an object to leeward caused by the part of the wind perpendicular to its forward motion; objects with more exposure (windage) drift more; a navigator must adjust the ordered course for leeway as well as for set and drift. The article does not say which way to steer relative to the wind, nor discuss keels or the vessel's own speed; the steering rule in the lesson is worked out from geometry and is a point for an instructor to confirm."
+    },
+    {
+      "id": "chw-c-chs-tct-vol6-2026",
+      "title": "Canadian Tide and Current Tables, Volume 6 (2026), front matter and Campbell River tide pages",
+      "publisher": "Canadian Hydrographic Service (Fisheries and Oceans Canada)",
+      "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-tct-tmc-vol6-2026-41311267.pdf",
+      "edition": "2026 edition; accessed 2026-10-10",
+      "kind": "chs-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool, in three passes; the tool saw about 47 000 characters, which were the front matter and the Campbell River tide pages. The current tables themselves, the secondary-station calculation section (listed at p. 103) and the Seymour Narrows pages (listed at p. 68) were not seen. Supports: current tables give predicted slack water times and the times and speeds of maximum current; reference stations have daily tables; secondary stations give time differences from a reference station and maximum speeds as a percentage of the reference or as a fixed maximum; plus sign means flow from the ocean inland (flood), minus means ebb; times are standard time on a 24-hour clock, PST for the tables seen, with one hour added when daylight saving time is in effect; slack water and high or low water do not necessarily coincide; secondary current stations often rest on a month or less of observations so their times are less precise; predictions refer to the Table 4 coordinates, or the middle of the channel in narrow passes, and currents vary strongly with position; strong winds can advance or delay slack water considerably; a weak following flood may leave the direction unchanged; a 30 mb pressure change can shift sea level by about 0.3 m. The layout of the current pages and the secondary-station method were NOT seen."
+    },
+    {
+      "id": "chw-c-notmar-west-2019-01",
+      "title": "Notices to Mariners, Western Edition, Monthly Edition No. 01/2019 (archived)",
+      "publisher": "Canadian Coast Guard (Fisheries and Oceans Canada)",
+      "url": "https://www.notmar.gc.ca/publications/monthly-mensuel/west-ouest-01-19-en.php",
+      "edition": "Monthly edition 01/2019 (archived page); accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. An archived 2019 edition, so the current layout may differ. Supports: the monthly Western edition has five numbered sections (1 General and Safety Information; 2 Chart Corrections, ordered by chart number; 3 Radio Aids to Marine Navigation Corrections; 4 Sailing Directions and Small Craft Guide Corrections; 5 List of Lights, Buoys and Fog Signals Corrections); chart correction lines give an action (Add, Delete, Amend, Reposition), the item and position, and the Last Notice to Mariners number and date (LNM/D); temporary (T) and preliminary (P) notices are not charted by CHS and the edition advises marking them on the chart in pencil; only critical changes appear in Section 2 and the edition says the List of Lights is the most current source if it conflicts with a chart; navigational warnings are kept until superseded by Notices to Mariners or revised charts; mariners are asked to report dangers and needed corrections; Western navigational warnings are issued from a desk at Prince Rupert. Current procedures should be checked on the live site."
+    },
+    {
+      "id": "chw-c-vimarina-seymour-narrows",
+      "title": "Transiting Seymour Narrows and Desolation Sound (marina news page)",
+      "publisher": "Vancouver Island marina (vimarina.ca)",
+      "url": "https://vimarina.ca/latest-news/transiting-seymour-narrows-desolation-sound/",
+      "edition": "Accessed 2026-10-10",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. A local-knowledge page by a marina, not an official source. It claims streams up to about 16 knots on the flood and 14 on the ebb and advises arriving within about 15 minutes of slack in the strongest cycle and within half an hour on larger tides, naming waiting bays on each side. These figures are NOT used as exam facts; the lesson mentions only the general idea of waiting nearby and arriving early, and the invented examples use invented limits. Verify any real transit advice in the Sailing Directions and current tables."
+    }
+  ]
+}
