@@ -21,16 +21,27 @@ class ReadingPrefsTest {
     }
 
     @Test
-    fun speechReadsTablesRowByRowAndSplitsLongText() {
+    fun voiceSpeedCyclesAndDefaultsToSlow() {
+        var p = ReadingPrefs()
+        assertEquals(0.85f, p.speechRate, 0.0f)
+        repeat(ReadingPrefs.SPEECH_RATES.size) { p = p.nextSpeed() }
+        assertEquals(1, p.speechStep)
+    }
+
+    @Test
+    fun teacherSpeechHasKeyFactsPausesAndSpellsOutSymbols() {
         val blocks = MarkdownParser.parse(
-            "# Cycle\n\nFirst paragraph.\n\n| Stroke | Piston |\n|---|---|\n| Intake | Down |\n\n- one\n- two"
+            "## Cycle\n\nAir is squeezed to ==14:1== at 12 kn, about 50%.\n\n| Stroke | Piston |\n|---|---|\n| Intake | Down |\n\n## Check yourself\n\n1. What ignites the fuel"
         )
-        val chunks = MdText.speechChunks("Diesel", blocks)
-        assertEquals(1, chunks.size)
-        assertTrue(chunks[0].contains("Intake. Piston: Down."))
-        assertTrue(chunks[0].startsWith("Diesel."))
-        val long = MdText.speechChunks("T", MarkdownParser.parse("a ".repeat(500) + "\n\n" + "b ".repeat(500)), maxLength = 600)
-        assertTrue(long.size >= 2)
-        assertTrue(long.all { it.length <= 600 })
+        val items = MdText.speechItems("Diesel", listOf("Four strokes"), blocks)
+        assertEquals("Lesson: Diesel.", items[0].text)
+        assertTrue(items.any { it.text == "Four strokes." })
+        assertTrue(items.any { it.text.contains("12 knots") && it.text.contains("50 percent") && it.text.contains(", 14:1,") })
+        assertTrue(items.any { it.text.contains("Intake. Piston: Down.") })
+        val question = items.first { it.text.startsWith("1. What ignites") }
+        assertEquals(6000, question.pauseMs)
+        assertTrue(items.last().text.contains("try the quiz"))
+        val long = MdText.speechItems("T", emptyList(), MarkdownParser.parse(("Sentence number one. ").repeat(100)), maxLength = 200)
+        assertTrue(long.all { it.text.length <= 200 })
     }
 }

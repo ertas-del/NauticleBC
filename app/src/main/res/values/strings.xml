@@ -57,6 +57,10 @@
     <string name="read_aloud_start">Read aloud</string>
     <string name="read_aloud_stop">Stop reading</string>
     <string name="read_aloud_unavailable">Read aloud needs a text-to-speech engine on this phone.</string>
+    <string name="read_speed_very_slow">Voice: very slow</string>
+    <string name="read_speed_slow">Voice: slow</string>
+    <string name="read_speed_normal">Voice: normal</string>
+    <string name="read_speed_quick">Voice: quick</string>
     <string name="module_coming_soon">Coming soon</string>
     <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>

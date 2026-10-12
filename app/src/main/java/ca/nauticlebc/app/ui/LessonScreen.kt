@@ -106,7 +106,7 @@ fun LessonScreen(
                 onChange = { reading = it; store.save(it) },
                 onToggleSpeech = {
                     if (readAloud.speaking) readAloud.stop()
-                    else readAloud.speak(MdText.speechChunks(lesson.title, blocks))
+                    else readAloud.speak(MdText.speechItems(lesson.title, lesson.keyFacts, blocks), reading.speechRate)
                 },
             )
             Text(
@@ -185,8 +185,22 @@ private fun ReadingControls(
                 Text(stringResource(if (prefs.relaxed) R.string.reading_spacing_on else R.string.reading_spacing_off))
             }
         }
-        Button(onClick = onToggleSpeech, enabled = !speechUnavailable, modifier = Modifier.fillMaxWidth()) {
-            Text(stringResource(if (speaking) R.string.read_aloud_stop else R.string.read_aloud_start))
+        Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
+            Button(onClick = onToggleSpeech, enabled = !speechUnavailable, modifier = Modifier.weight(1f)) {
+                Text(stringResource(if (speaking) R.string.read_aloud_stop else R.string.read_aloud_start))
+            }
+            OutlinedButton(onClick = { onChange(prefs.nextSpeed()) }, contentPadding = PaddingValues(horizontal = 12.dp)) {
+                Text(
+                    stringResource(
+                        when (prefs.speechStep) {
+                            0 -> R.string.read_speed_very_slow
+                            1 -> R.string.read_speed_slow
+                            2 -> R.string.read_speed_normal
+                            else -> R.string.read_speed_quick
+                        },
+                    ),
+                )
+            }
         }
         if (speechUnavailable) {
             Text(stringResource(R.string.read_aloud_unavailable), style = MaterialTheme.typography.bodySmall)
