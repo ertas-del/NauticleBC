@@ -3,7 +3,7 @@ id: bridge-watch.bridge-equipment-tour
 title: "Bridge equipment a rating uses"
 module: bridge-watch
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 60
+order: 65
 summary: "A tour of the ten instruments a Bridge Watch Rating must know: gyro repeater, rate-of-turn indicator, radar, electronic chart, AIS, echo sounder, steering position, autopilot, GPS and VHF, with what each does, what the regulations say, and what to report."
 objectives:
   - Name the ten pieces of bridge equipment in the Bridge Watch Rating standard and say what each is for.

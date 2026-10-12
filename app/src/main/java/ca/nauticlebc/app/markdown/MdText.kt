@@ -139,6 +139,7 @@ object MdText {
                     }.filter { it.isNotBlank() }.joinToString(". ")
                     add(text.trimEnd('.') + ".", 1000)
                 }
+                is MdBlock.Code -> add("There is a small diagram here. Look at it on the screen.", 1500)
                 MdBlock.Rule -> {}
             }
         }

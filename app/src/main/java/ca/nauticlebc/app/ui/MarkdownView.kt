@@ -1,5 +1,8 @@
 package ca.nauticlebc.app.ui
 
+import androidx.compose.foundation.horizontalScroll
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -92,6 +95,19 @@ private fun MarkdownBlockView(block: MdBlock) {
         }
 
         is MdBlock.Table -> TableView(block)
+
+        is MdBlock.Code -> Surface(
+            color = MaterialTheme.colorScheme.surfaceVariant,
+            shape = MaterialTheme.shapes.small,
+            modifier = Modifier.fillMaxWidth(),
+        ) {
+            Text(
+                text = block.text,
+                style = MaterialTheme.typography.bodySmall.copy(fontFamily = FontFamily.Monospace),
+                softWrap = false,
+                modifier = Modifier.horizontalScroll(rememberScrollState()).padding(12.dp),
+            )
+        }
 
         MdBlock.Rule -> HorizontalDivider()
     }

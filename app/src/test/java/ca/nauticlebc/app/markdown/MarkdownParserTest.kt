@@ -257,4 +257,12 @@ class MarkdownParserTest {
         assertEquals(3, table.rows[0].size)
         assertTrue(table.rows[0][2].isEmpty())
     }
+
+    @Test
+    fun fencedBlocksKeepLineBreaksAndSpacing() {
+        val blocks = MarkdownParser.parse("Before\n\n```\nTrue --(var)--> Magnetic\n   |\n  deviation\n```\n\nAfter")
+        assertEquals(3, blocks.size)
+        assertEquals(MdBlock.Code("True --(var)--> Magnetic\n   |\n  deviation"), blocks[1])
+        assertEquals(MdBlock.Paragraph(plain("After")), blocks[2])
+    }
 }
