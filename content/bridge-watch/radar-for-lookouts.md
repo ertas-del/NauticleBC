@@ -3,7 +3,7 @@ id: bridge-watch.radar-for-lookouts
 title: "Radar for look-outs: echoes and dangerous echoes"
 module: bridge-watch
 tickets: [bridge-watch-rating, master-limited-60gt]
-order: 75
+order: 72
 summary: "How to read a radar screen as a look-out: own ship at the centre, heading line, range rings and bearing scale, what an echo and a dangerous echo are, what radar can miss, what racons, reflectors and SARTs look like, and how to report what you see."
 objectives:
   - Describe the main parts of a radar display and read an echo's range and bearing.
