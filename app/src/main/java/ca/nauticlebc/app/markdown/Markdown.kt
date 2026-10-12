@@ -17,6 +17,8 @@ sealed interface MdBlock {
     data class NumberedList(val start: Int, val items: List<List<MdSpan>>) : MdBlock
     /** A pipe table: the header cells and the body rows, each row with one cell per column. */
     data class Table(val header: List<List<MdSpan>>, val rows: List<List<List<MdSpan>>>) : MdBlock
+    /** A fenced block (```), shown in a fixed-width font with line breaks kept, for small diagrams. */
+    data class Code(val text: String) : MdBlock
     data object Rule : MdBlock
 }
 
@@ -110,7 +112,24 @@ object MarkdownParser {
             flushTable()
         }
 
+        var inCode = false
+        val codeLines = mutableListOf<String>()
         for (rawLine in markdown.replace("\r\n", "\n").replace('\r', '\n').split('\n')) {
+            if (rawLine.trimStart().startsWith("```")) {
+                if (inCode) {
+                    blocks += MdBlock.Code(codeLines.joinToString("\n").trimEnd())
+                    codeLines.clear()
+                    inCode = false
+                } else {
+                    flushAll()
+                    inCode = true
+                }
+                continue
+            }
+            if (inCode) {
+                codeLines += rawLine.trimEnd()
+                continue
+            }
             val line = rawLine.trimEnd()
             if (line.isBlank()) {
                 flushAll()
@@ -170,6 +189,7 @@ object MarkdownParser {
             if (quote.isNotEmpty()) flushText()
             paragraph += line.trim()
         }
+        if (inCode && codeLines.isNotEmpty()) blocks += MdBlock.Code(codeLines.joinToString("\n").trimEnd())
         flushAll()
         return blocks
     }
