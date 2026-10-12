@@ -6,6 +6,7 @@ import android.speech.tts.UtteranceProgressListener
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
+import ca.nauticlebc.app.markdown.MdText
 import java.util.Locale
 
 /** Reads text aloud with the phone's own text-to-speech engine. Nothing is sent anywhere. */
@@ -16,7 +17,7 @@ class ReadAloud(context: Context) {
         private set
 
     private var ready = false
-    private var pending: List<String>? = null
+    private var pending: Pair<List<MdText.SpeechItem>, Float>? = null
     private var remaining = 0
     private var tts: TextToSpeech? = null
 
@@ -33,7 +34,7 @@ class ReadAloud(context: Context) {
                         override fun onError(utteranceId: String?) = finishOne()
                     })
                     ready = true
-                    pending?.let { speak(it) }
+                    pending?.let { (items, rate) -> speak(items, rate) }
                     pending = null
                 }
             } else {
@@ -48,19 +49,25 @@ class ReadAloud(context: Context) {
         if (remaining <= 0) speaking = false
     }
 
-    fun speak(chunks: List<String>) {
-        if (chunks.isEmpty()) return
+    fun speak(items: List<MdText.SpeechItem>, rate: Float) {
+        if (items.isEmpty()) return
         if (!ready) {
-            pending = chunks
+            pending = items to rate
             speaking = true
             return
         }
         val engine = tts ?: return
         engine.stop()
-        remaining = chunks.size
+        engine.setSpeechRate(rate)
+        remaining = 0
         speaking = true
-        chunks.forEachIndexed { i, text ->
-            engine.speak(text, TextToSpeech.QUEUE_ADD, null, "chunk-$i")
+        items.forEachIndexed { i, item ->
+            engine.speak(item.text, TextToSpeech.QUEUE_ADD, null, "item-$i")
+            remaining += 1
+            if (item.pauseMs > 0) {
+                engine.playSilentUtterance(item.pauseMs.toLong(), TextToSpeech.QUEUE_ADD, "pause-$i")
+                remaining += 1
+            }
         }
     }
 
