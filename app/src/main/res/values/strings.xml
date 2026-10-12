@@ -50,6 +50,13 @@
     <string name="ticket_empty">No lessons for this ticket yet.</string>
     <string name="module_fishing">Fishing Vessel Operations</string>
     <string name="module_fishing_desc">Fishing master subjects</string>
+    <string name="reading_smaller">A\u2212</string>
+    <string name="reading_bigger">A+</string>
+    <string name="reading_spacing_off">Spacing</string>
+    <string name="reading_spacing_on">Spacing on</string>
+    <string name="read_aloud_start">Read aloud</string>
+    <string name="read_aloud_stop">Stop reading</string>
+    <string name="read_aloud_unavailable">Read aloud needs a text-to-speech engine on this phone.</string>
     <string name="module_coming_soon">Coming soon</string>
     <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>

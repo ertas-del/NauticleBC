@@ -1,5 +1,19 @@
 package ca.nauticlebc.app.ui
 
+import androidx.compose.foundation.layout.PaddingValues
+import androidx.compose.material3.Typography
+import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.DisposableEffect
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.unit.Density
+import androidx.compose.ui.unit.sp
+import ca.nauticlebc.app.markdown.MdText
+import ca.nauticlebc.app.reading.ReadAloud
+import ca.nauticlebc.app.reading.ReadingPrefs
+import ca.nauticlebc.app.reading.ReadingPrefsStore
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -51,7 +65,22 @@ fun LessonScreen(
     val reviewLabel = ReviewStatus.labelFor(lesson)
     val reviewText = reviewLabelText(reviewLabel, lesson.reviewedBy, lesson.reviewedOn)
 
+    val context = LocalContext.current
+    val store = remember { ReadingPrefsStore(context) }
+    var reading by remember { mutableStateOf(store.load()) }
+    val readAloud = remember { ReadAloud(context) }
+    DisposableEffect(Unit) { onDispose { readAloud.shutdown() } }
+    val density = LocalDensity.current
+    val baseTypography = MaterialTheme.typography
+    val typography = remember(baseTypography, reading.relaxed) {
+        if (reading.relaxed) baseTypography.relaxed() else baseTypography
+    }
+
     NauticleScaffold(title = stringResource(R.string.lesson_screen_title), onBack = onBack) { padding ->
+      CompositionLocalProvider(
+        LocalDensity provides Density(density.density, density.fontScale * reading.scale),
+      ) {
+        MaterialTheme(colorScheme = MaterialTheme.colorScheme, shapes = MaterialTheme.shapes, typography = typography) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -69,6 +98,17 @@ fun LessonScreen(
             Row(horizontalArrangement = Arrangement.spacedBy(12.dp)) {
                 ReviewBadge(text = reviewText, label = reviewLabel)
             }
+
+            ReadingControls(
+                prefs = reading,
+                speaking = readAloud.speaking,
+                speechUnavailable = readAloud.unavailable,
+                onChange = { reading = it; store.save(it) },
+                onToggleSpeech = {
+                    if (readAloud.speaking) readAloud.stop()
+                    else readAloud.speak(MdText.speechChunks(lesson.title, blocks))
+                },
+            )
             Text(
                 stringResource(R.string.minutes_short, lesson.estimatedMinutes),
                 style = MaterialTheme.typography.labelLarge,
@@ -113,7 +153,59 @@ fun LessonScreen(
                 onStartQuiz = onStartQuiz,
             )
         }
+        }
+      }
     }
+}
+
+@Composable
+private fun ReadingControls(
+    prefs: ReadingPrefs,
+    speaking: Boolean,
+    speechUnavailable: Boolean,
+    onChange: (ReadingPrefs) -> Unit,
+    onToggleSpeech: () -> Unit,
+) {
+    Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+        Row(horizontalArrangement = Arrangement.spacedBy(8.dp), verticalAlignment = Alignment.CenterVertically) {
+            OutlinedButton(
+                onClick = { onChange(prefs.smaller()) },
+                enabled = prefs.canShrink,
+                contentPadding = PaddingValues(horizontal = 12.dp),
+            ) { Text(stringResource(R.string.reading_smaller)) }
+            OutlinedButton(
+                onClick = { onChange(prefs.bigger()) },
+                enabled = prefs.canGrow,
+                contentPadding = PaddingValues(horizontal = 12.dp),
+            ) { Text(stringResource(R.string.reading_bigger)) }
+            OutlinedButton(
+                onClick = { onChange(prefs.toggleRelaxed()) },
+                contentPadding = PaddingValues(horizontal = 12.dp),
+            ) {
+                Text(stringResource(if (prefs.relaxed) R.string.reading_spacing_on else R.string.reading_spacing_off))
+            }
+        }
+        Button(onClick = onToggleSpeech, enabled = !speechUnavailable, modifier = Modifier.fillMaxWidth()) {
+            Text(stringResource(if (speaking) R.string.read_aloud_stop else R.string.read_aloud_start))
+        }
+        if (speechUnavailable) {
+            Text(stringResource(R.string.read_aloud_unavailable), style = MaterialTheme.typography.bodySmall)
+        }
+    }
+}
+
+private fun Typography.relaxed(): Typography {
+    fun TextStyle.loose() = copy(lineHeight = fontSize * 1.75f, letterSpacing = 0.3.sp)
+    return copy(
+        bodyLarge = bodyLarge.loose(),
+        bodyMedium = bodyMedium.loose(),
+        bodySmall = bodySmall.loose(),
+        titleMedium = titleMedium.loose(),
+        titleLarge = titleLarge.loose(),
+        headlineSmall = headlineSmall.loose(),
+        headlineMedium = headlineMedium.loose(),
+        labelLarge = labelLarge.loose(),
+    )
 }
 
 /** Sources stay out of the reading flow: one link-style button opens and closes the list. */
