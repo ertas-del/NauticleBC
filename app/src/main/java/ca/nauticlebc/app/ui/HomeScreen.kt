@@ -22,30 +22,23 @@ import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
 import ca.nauticlebc.app.content.ContentBundle
 
-private data class ModuleCard(
+private data class TicketCard(
     val id: String,
     @StringRes val titleRes: Int,
     @StringRes val descRes: Int,
-    val available: Boolean,
 )
 
-private val modules = listOf(
-    ModuleCard("colregs", R.string.module_colregs, R.string.module_colregs_desc, available = true),
-    ModuleCard("tides", R.string.module_tides, R.string.module_tides_desc, available = true),
-    ModuleCard("bridge-watch", R.string.module_bridge_watch, R.string.module_bridge_watch_desc, available = true),
-    ModuleCard("sixty-ton", R.string.module_sixty_ton, R.string.module_sixty_ton_desc, available = true),
-    ModuleCard("seamanship", R.string.module_seamanship, R.string.module_seamanship_desc, available = true),
-    ModuleCard("chartwork", R.string.module_chartwork, R.string.module_chartwork_desc, available = true),
-    ModuleCard("stability", R.string.module_stability, R.string.module_stability_desc, available = true),
-    ModuleCard("radio", R.string.module_radio, R.string.module_radio_desc, available = true),
-    ModuleCard("meteorology", R.string.module_meteorology, R.string.module_meteorology_desc, available = true),
-    ModuleCard("canadian-regulations", R.string.module_canadian_regulations, R.string.module_canadian_regulations_desc, available = true),
-    ModuleCard("radar", R.string.module_radar, R.string.module_radar_desc, available = true),
-    ModuleCard("electronic-navigation", R.string.module_electronic_navigation, R.string.module_electronic_navigation_desc, available = true),
-    ModuleCard("machinery", R.string.module_machinery, R.string.module_machinery_desc, available = true),
+private val tickets = listOf(
+    TicketCard("bridge-watch-rating", R.string.ticket_bridge_watch, R.string.ticket_bridge_watch_desc),
+    TicketCard("master-limited-60gt", R.string.ticket_master_limited, R.string.ticket_master_limited_desc),
+    TicketCard("svmo", R.string.ticket_svmo, R.string.ticket_svmo_desc),
+    TicketCard("fishing-master-4", R.string.ticket_fishing_master, R.string.ticket_fishing_master_desc),
 )
 
-/** Title string for a module id, falling back to the raw id for modules without a home card. */
+/** Title string for a ticket id, or null when unknown. */
+fun ticketTitleRes(ticketId: String): Int? = tickets.firstOrNull { it.id == ticketId }?.titleRes
+
+/** Title string for a module id, falling back to the raw id for modules without a title. */
 fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     "colregs" -> R.string.module_colregs
     "tides" -> R.string.module_tides
@@ -60,6 +53,7 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     "radar" -> R.string.module_radar
     "electronic-navigation" -> R.string.module_electronic_navigation
     "machinery" -> R.string.module_machinery
+    "fishing" -> R.string.module_fishing
     else -> null
 }
 
@@ -67,8 +61,7 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
 @Composable
 fun HomeScreen(
     bundle: Result<ContentBundle>?,
-    onOpenModule: (String) -> Unit,
-    onOpenMocks: () -> Unit = {},
+    onOpenTicket: (String) -> Unit,
 ) {
     Scaffold(
         topBar = { TopAppBar(title = { Text(stringResource(R.string.home_title)) }) },
@@ -87,46 +80,25 @@ fun HomeScreen(
                 )
             }
 
-            val loaded = bundle?.getOrNull()?.lessons?.map { it.module }?.toSet()
-            val shown = modules.filter { loaded == null || it.id in loaded || it.id == "colregs" || it.id == "tides" }
-            items(shown) { module ->
-                val cardModifier = if (module.available) {
-                    Modifier
+            items(tickets) { ticket ->
+                val count = bundle?.getOrNull()?.lessons?.count { ticket.id in it.tickets }
+                Card(
+                    modifier = Modifier
                         .fillMaxWidth()
                         .clickable(
                             onClickLabel = stringResource(R.string.module_open_action),
-                            onClick = { onOpenModule(module.id) },
-                        )
-                } else {
-                    Modifier.fillMaxWidth()
-                }
-                Card(modifier = cardModifier) {
+                            onClick = { onOpenTicket(ticket.id) },
+                        ),
+                ) {
                     Column(modifier = Modifier.padding(16.dp)) {
-                        Text(stringResource(module.titleRes), style = MaterialTheme.typography.titleMedium)
-                        Text(stringResource(module.descRes), style = MaterialTheme.typography.bodyMedium)
-                        if (!module.available) {
+                        Text(stringResource(ticket.titleRes), style = MaterialTheme.typography.titleMedium)
+                        Text(stringResource(ticket.descRes), style = MaterialTheme.typography.bodyMedium)
+                        if (count != null) {
                             Text(
-                                stringResource(R.string.module_coming_soon),
+                                if (count == 0) stringResource(R.string.module_coming_soon)
+                                else stringResource(R.string.ticket_lesson_count, count),
                                 style = MaterialTheme.typography.labelMedium,
                             )
-                        }
-                    }
-                }
-            }
-
-            if (bundle?.getOrNull()?.mockExams?.isNotEmpty() == true) {
-                item(key = "mock-exams") {
-                    Card(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .clickable(
-                                onClickLabel = stringResource(R.string.module_open_action),
-                                onClick = onOpenMocks,
-                            ),
-                    ) {
-                        Column(modifier = Modifier.padding(16.dp)) {
-                            Text(stringResource(R.string.mock_card_title), style = MaterialTheme.typography.titleMedium)
-                            Text(stringResource(R.string.mock_card_desc), style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }

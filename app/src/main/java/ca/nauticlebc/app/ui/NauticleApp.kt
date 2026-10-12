@@ -27,20 +27,24 @@ object Routes {
     const val HOME = "home"
     const val ARG_MODULE = "module"
     const val ARG_LESSON = "lessonId"
-    const val MODULE_PATTERN = "module/{$ARG_MODULE}"
+    const val ARG_TICKET = "ticket"
+    const val TICKET_PATTERN = "ticket/{$ARG_TICKET}"
+    const val MODULE_PATTERN = "module/{$ARG_MODULE}?ticket={$ARG_TICKET}"
     const val LESSON_PATTERN = "lesson/{$ARG_LESSON}"
     const val QUIZ_PATTERN = "quiz/{$ARG_LESSON}"
-    const val EXAM_FOCUS_PATTERN = "examfocus/{$ARG_MODULE}"
-    const val MODULE_QUIZ_PATTERN = "modulequiz/{$ARG_MODULE}"
+    const val EXAM_FOCUS_PATTERN = "examfocus/{$ARG_MODULE}?ticket={$ARG_TICKET}"
+    const val MODULE_QUIZ_PATTERN = "modulequiz/{$ARG_MODULE}?ticket={$ARG_TICKET}"
     const val ARG_EXAM = "examId"
-    const val MOCKS = "mocks"
+    const val MOCKS_PATTERN = "mocks?ticket={$ARG_TICKET}"
     const val MOCK_PATTERN = "mock/{$ARG_EXAM}"
 
-    fun module(moduleId: String) = "module/$moduleId"
+    fun ticket(ticketId: String) = "ticket/$ticketId"
+    fun mocks(ticketId: String) = "mocks?ticket=$ticketId"
+    fun module(moduleId: String, ticketId: String = "") = "module/$moduleId?ticket=$ticketId"
     fun lesson(lessonId: String) = "lesson/$lessonId"
     fun quiz(lessonId: String) = "quiz/$lessonId"
-    fun examFocus(moduleId: String) = "examfocus/$moduleId"
-    fun moduleQuiz(moduleId: String) = "modulequiz/$moduleId"
+    fun examFocus(moduleId: String, ticketId: String = "") = "examfocus/$moduleId?ticket=$ticketId"
+    fun moduleQuiz(moduleId: String, ticketId: String = "") = "modulequiz/$moduleId?ticket=$ticketId"
     fun mock(examId: String) = "mock/$examId"
 }
 
@@ -58,19 +62,42 @@ fun NauticleApp() {
         composable(Routes.HOME) {
             HomeScreen(
                 bundle = bundleResult,
-                onOpenModule = { navController.navigate(Routes.module(it)) },
-                onOpenMocks = { navController.navigate(Routes.MOCKS) },
+                onOpenTicket = { navController.navigate(Routes.ticket(it)) },
             )
         }
 
-        composable(Routes.MOCKS) {
+        composable(
+            route = Routes.TICKET_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_TICKET) { type = NavType.StringType }),
+        ) { entry ->
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
+            BundleGate(
+                result = bundleResult,
+                title = ticketId,
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                TicketScreen(
+                    ticketId = ticketId,
+                    bundle = bundle,
+                    onOpenModule = { navController.navigate(Routes.module(it, ticketId)) },
+                    onOpenMocks = { navController.navigate(Routes.mocks(ticketId)) },
+                    onBack = { navController.popBackStack() },
+                )
+            }
+        }
+
+        composable(
+            route = Routes.MOCKS_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_TICKET) { type = NavType.StringType; defaultValue = "" }),
+        ) { entry ->
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
             BundleGate(
                 result = bundleResult,
                 title = stringResource(R.string.mock_list_title),
                 onBack = { navController.popBackStack() },
             ) { bundle ->
                 MockExamListScreen(
-                    bundle = bundle,
+                    bundle = bundle.forTicket(ticketId),
                     onOpen = { navController.navigate(Routes.mock(it)) },
                     onBack = { navController.popBackStack() },
                 )
@@ -93,9 +120,13 @@ fun NauticleApp() {
 
         composable(
             route = Routes.MODULE_PATTERN,
-            arguments = listOf(navArgument(Routes.ARG_MODULE) { type = NavType.StringType }),
+            arguments = listOf(
+                navArgument(Routes.ARG_MODULE) { type = NavType.StringType },
+                navArgument(Routes.ARG_TICKET) { type = NavType.StringType; defaultValue = "" },
+            ),
         ) { entry ->
             val moduleId = entry.arguments?.getString(Routes.ARG_MODULE).orEmpty()
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
             BundleGate(
                 result = bundleResult,
                 title = moduleId,
@@ -103,10 +134,10 @@ fun NauticleApp() {
             ) { bundle ->
                 ModuleScreen(
                     moduleId = moduleId,
-                    bundle = bundle,
+                    bundle = bundle.forTicket(ticketId),
                     progress = progress,
                     onOpenLesson = { navController.navigate(Routes.lesson(it)) },
-                    onOpenExamFocus = { navController.navigate(Routes.examFocus(moduleId)) },
+                    onOpenExamFocus = { navController.navigate(Routes.examFocus(moduleId, ticketId)) },
                     onBack = { navController.popBackStack() },
                 )
             }
@@ -114,9 +145,13 @@ fun NauticleApp() {
 
         composable(
             route = Routes.EXAM_FOCUS_PATTERN,
-            arguments = listOf(navArgument(Routes.ARG_MODULE) { type = NavType.StringType }),
+            arguments = listOf(
+                navArgument(Routes.ARG_MODULE) { type = NavType.StringType },
+                navArgument(Routes.ARG_TICKET) { type = NavType.StringType; defaultValue = "" },
+            ),
         ) { entry ->
             val moduleId = entry.arguments?.getString(Routes.ARG_MODULE).orEmpty()
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
             BundleGate(
                 result = bundleResult,
                 title = stringResource(R.string.exam_focus_title),
@@ -124,8 +159,8 @@ fun NauticleApp() {
             ) { bundle ->
                 ExamFocusScreen(
                     moduleId = moduleId,
-                    bundle = bundle,
-                    onQuizModule = { navController.navigate(Routes.moduleQuiz(moduleId)) },
+                    bundle = bundle.forTicket(ticketId),
+                    onQuizModule = { navController.navigate(Routes.moduleQuiz(moduleId, ticketId)) },
                     onBack = { navController.popBackStack() },
                 )
             }
@@ -133,9 +168,13 @@ fun NauticleApp() {
 
         composable(
             route = Routes.MODULE_QUIZ_PATTERN,
-            arguments = listOf(navArgument(Routes.ARG_MODULE) { type = NavType.StringType }),
+            arguments = listOf(
+                navArgument(Routes.ARG_MODULE) { type = NavType.StringType },
+                navArgument(Routes.ARG_TICKET) { type = NavType.StringType; defaultValue = "" },
+            ),
         ) { entry ->
             val moduleId = entry.arguments?.getString(Routes.ARG_MODULE).orEmpty()
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
             BundleGate(
                 result = bundleResult,
                 title = stringResource(R.string.quiz_screen_title),
@@ -143,7 +182,7 @@ fun NauticleApp() {
             ) { bundle ->
                 ModuleQuizScreen(
                     moduleId = moduleId,
-                    bundle = bundle,
+                    bundle = bundle.forTicket(ticketId),
                     onBack = { navController.popBackStack() },
                 )
             }

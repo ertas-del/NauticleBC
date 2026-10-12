@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">NauticleBc</string>
     <string name="home_title">Marine ticket prep</string>
-    <string name="home_subtitle">British Columbia: Bridge Watch Rating and Master Limited under 60 GT</string>
+    <string name="home_subtitle">British Columbia marine tickets: choose your ticket</string>
     <string name="module_colregs">Collision Regulations</string>
     <string name="module_colregs_desc">Rules of the road, lessons and drills</string>
     <string name="module_tides">Tides</string>
@@ -38,6 +38,18 @@
     <string name="mock_summary">%1$d questions, %2$d minutes suggested, %3$d%% pass mark</string>
     <string name="mock_not_found">That mock exam was not found.</string>
     <string name="mock_back">Back to mock exams</string>
+    <string name="ticket_bridge_watch">Bridge Watch Rating</string>
+    <string name="ticket_bridge_watch_desc">Everything for the Bridge Watch Rating ticket</string>
+    <string name="ticket_master_limited">Master Limited &lt; 60 GT</string>
+    <string name="ticket_master_limited_desc">Everything for the 60 ton ticket</string>
+    <string name="ticket_svmo">Small Vessel Machinery Operator</string>
+    <string name="ticket_svmo_desc">Everything for the SVMO ticket</string>
+    <string name="ticket_fishing_master">Fishing Master 4</string>
+    <string name="ticket_fishing_master_desc">Everything for the Fishing Master, Fourth Class ticket</string>
+    <string name="ticket_lesson_count">%1$d lessons</string>
+    <string name="ticket_empty">No lessons for this ticket yet.</string>
+    <string name="module_fishing">Fishing Vessel Operations</string>
+    <string name="module_fishing_desc">Fishing master subjects</string>
     <string name="module_coming_soon">Coming soon</string>
     <string name="module_open_action">Open module</string>
     <string name="study_aid_notice">Study aid only. Not official training, not an approved course, and not for navigation. Always use current official publications at sea.</string>

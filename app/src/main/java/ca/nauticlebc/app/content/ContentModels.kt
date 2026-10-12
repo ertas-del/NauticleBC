@@ -13,6 +13,14 @@ data class ContentBundle(
     val questions: List<Question> = emptyList(),
     @SerialName("mock_exams") val mockExams: List<MockExam> = emptyList(),
 ) {
+    /** Only the lessons and questions that count towards [ticket]; an empty id keeps everything. */
+    fun forTicket(ticket: String): ContentBundle =
+        if (ticket.isEmpty()) this else copy(
+            lessons = lessons.filter { ticket in it.tickets },
+            questions = questions.filter { ticket in it.tickets },
+            mockExams = mockExams.filter { it.ticket == ticket },
+        )
+
     companion object {
         const val SUPPORTED_FORMAT_VERSION = 1
 
