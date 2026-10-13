@@ -22,6 +22,7 @@ import ca.nauticlebc.app.content.ContentBundle
 private val MODULE_ORDER = listOf(
     "bridge-watch", "sixty-ton", "colregs", "seamanship", "chartwork", "tides", "stability", "meteorology",
     "radio", "radar", "electronic-navigation", "canadian-regulations", "machinery", "fishing",
+    "svop", "fm4-overview", "fm4-chartwork", "fm4-navigation-safety", "fm4-stability-construction", "fm4-oral",
 )
 
 /** Everything for one ticket: its subjects (modules) with lesson counts, then its mock exams. */
