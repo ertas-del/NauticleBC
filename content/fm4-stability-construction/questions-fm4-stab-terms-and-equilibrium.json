@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q01",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Displacement is:",
+      "options": [
+        "The volume of the hold",
+        "The weight of the vessel, equal to the weight of water displaced",
+        "The depth of the keel",
+        "The length of the vessel"
+      ],
+      "correct_index": 1,
+      "explanation": "Displacement = lightship + deadweight.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q02",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Lightship weight is:",
+      "options": [
+        "The vessel fully loaded",
+        "The empty vessel with no fuel, stores, crew or catch",
+        "The weight of the catch",
+        "The weight of the fuel"
+      ],
+      "correct_index": 1,
+      "explanation": "Deadweight is added to it.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q03",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "GM equals:",
+      "options": [
+        "KM plus KG",
+        "KG minus KM",
+        "KB minus KG",
+        "KM minus KG"
+      ],
+      "correct_index": 3,
+      "explanation": "M above G.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q04",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel with a positive GM is:",
+      "options": [
+        "Stable",
+        "Lolling",
+        "Unstable",
+        "Neutral"
+      ],
+      "correct_index": 0,
+      "explanation": "M is above G.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q05",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel with a negative GM may take:",
+      "options": [
+        "No heel",
+        "An angle of loll",
+        "A trim",
+        "A list only"
+      ],
+      "correct_index": 1,
+      "explanation": "G is above M.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q06",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A list is caused by:",
+      "options": [
+        "An uneven distribution of weight with positive GM",
+        "Negative GM",
+        "A fast turn only",
+        "Wind only"
+      ],
+      "correct_index": 0,
+      "explanation": "Loll is caused by negative GM.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q07",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A short, quick roll indicates:",
+      "options": [
+        "A large GM (a stiff vessel)",
+        "No stability",
+        "A negative GM",
+        "A small GM"
+      ],
+      "correct_index": 0,
+      "explanation": "A long slow roll indicates a small GM.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q08",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The righting lever GZ is:",
+      "options": [
+        "The horizontal distance between the lines of gravity and buoyancy when heeled",
+        "The draught",
+        "The freeboard",
+        "The depth of the hull"
+      ],
+      "correct_index": 0,
+      "explanation": "GZ = GM × sin θ for small angles.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.terms-and-equilibrium.q09",
+      "lesson_id": "fm4.stab.terms-and-equilibrium",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Downflooding means:",
+      "options": [
+        "Water entering through openings that cannot be made weathertight",
+        "Pumping the bilge",
+        "Draining the deck",
+        "Making a turn"
+      ],
+      "correct_index": 0,
+      "explanation": "A limit on the range of stability.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "module": "fm4-chartwork",
+  "questions": [
+    {
+      "id": "fm4.chart.publications-and-aids.q01",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Fl(2) W 10s means:",
+      "options": [
+        "Two white lights fixed",
+        "Two white flashes every 10 seconds",
+        "A white fixed light",
+        "Ten flashes every two seconds"
+      ],
+      "correct_index": 1,
+      "explanation": "Group flashing: two flashes each cycle.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q02",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The abbreviation Oc means:",
+      "options": [
+        "Oceanographic chart",
+        "Odd count",
+        "Occulting",
+        "Ocean current"
+      ],
+      "correct_index": 2,
+      "explanation": "Light longer than dark.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q03",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A light's height in the List of Lights is measured:",
+      "options": [
+        "From the keel",
+        "Above the horizon",
+        "Below chart datum",
+        "Above high water"
+      ],
+      "correct_index": 3,
+      "explanation": "It helps calculate range.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q04",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Urgent navigational warnings are carried in:",
+      "options": [
+        "Notices to Shipping",
+        "Tide tables",
+        "Sailing Directions",
+        "Chart No. 1"
+      ],
+      "correct_index": 0,
+      "explanation": "They are broadcast and published.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q05",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Chart corrections are found in:",
+      "options": [
+        "Radar manuals",
+        "Notices to Mariners",
+        "Sailing Directions",
+        "Tide tables"
+      ],
+      "correct_index": 1,
+      "explanation": "Apply them to the chart.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q06",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Written descriptions of coasts and hazards are in:",
+      "options": [
+        "The chart title",
+        "The tide tables",
+        "The logbook",
+        "Sailing Directions"
+      ],
+      "correct_index": 3,
+      "explanation": "They add local detail.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q07",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Under red right returning, returning from sea you keep red:",
+      "options": [
+        "Astern",
+        "On your starboard side",
+        "On your port side",
+        "Ahead"
+      ],
+      "correct_index": 1,
+      "explanation": "Green is on port.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q08",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Red buoys in Canadian waters carry:",
+      "options": [
+        "Even numbers",
+        "No numbers",
+        "Letters only",
+        "Odd numbers"
+      ],
+      "correct_index": 0,
+      "explanation": "Green buoys have odd numbers.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.publications-and-aids.q09",
+      "lesson_id": "fm4.chart.publications-and-aids",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A fog signal listed for a light:",
+      "options": [
+        "Is always loud",
+        "Is always working",
+        "May not be heard, so do not rely on it",
+        "Is a radio call"
+      ],
+      "correct_index": 2,
+      "explanation": "Sound is unreliable in fog and wind.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

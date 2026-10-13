@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q01",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The Canada Shipping Act, 2001 is:",
+      "options": [
+        "The main federal law for shipping in Canada",
+        "A boat catalogue",
+        "A tide table",
+        "A local bylaw"
+      ],
+      "correct_index": 0,
+      "explanation": "Regulations under it give the detail.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q02",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The engineer's duty includes:",
+      "options": [
+        "Piloting the vessel",
+        "Setting the sails",
+        "Keeping the machinery in safe working order and reporting defects",
+        "Writing the weather forecast"
+      ],
+      "correct_index": 2,
+      "explanation": "Report defects to the master.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q03",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Fire and boat drills must be:",
+      "options": [
+        "Held at required intervals and recorded",
+        "Held never",
+        "Hidden",
+        "Held once a decade"
+      ],
+      "correct_index": 0,
+      "explanation": "Check the interval for your vessel.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q04",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Plastic may be discharged overboard:",
+      "options": [
+        "At night",
+        "In harbour",
+        "Never",
+        "In deep water"
+      ],
+      "correct_index": 2,
+      "explanation": "Keep it for shore disposal.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q05",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Oily bilge water should normally be:",
+      "options": [
+        "Poured into the harbour",
+        "Mixed with sea water first",
+        "Pumped over the side",
+        "Kept on board and disposed of ashore"
+      ],
+      "correct_index": 3,
+      "explanation": "Unless the legal conditions are met.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q06",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Casualties and pollution incidents must be:",
+      "options": [
+        "Hidden",
+        "Ignored",
+        "Forgotten",
+        "Reported"
+      ],
+      "correct_index": 3,
+      "explanation": "The master reports, with the engineer's help.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q07",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "The engine room log is kept to:",
+      "options": [
+        "Record the tides",
+        "Keep chart corrections",
+        "Hold the crew list",
+        "Record machinery readings, events and maintenance"
+      ],
+      "correct_index": 3,
+      "explanation": "It supports compliance.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q08",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Emergency steering should be:",
+      "options": [
+        "Locked away",
+        "Never tested",
+        "Removed",
+        "Available and tested before departure"
+      ],
+      "correct_index": 3,
+      "explanation": "Know where it is.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q09",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "An engineer must be able to communicate in:",
+      "options": [
+        "Latin",
+        "Any language except English",
+        "English or French",
+        "Morse code only"
+      ],
+      "correct_index": 2,
+      "explanation": "Clear communication is essential.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.law.csa-2001-and-engineer-duties.q10",
+      "lesson_id": "machinery.law.csa-2001-and-engineer-duties",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Which regulations set crew certificates and training?",
+      "options": [
+        "The Marine Personnel Regulations",
+        "The Tide Tables",
+        "The Highway Act",
+        "The Radio Act"
+      ],
+      "correct_index": 0,
+      "explanation": "They set certification requirements.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.vessel.terms-and-hull-types.q01",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Starboard is the:",
+      "options": [
+        "Back of the vessel",
+        "Front of the vessel",
+        "Right side looking forward",
+        "Left side looking forward"
+      ],
+      "correct_index": 2,
+      "explanation": "Port is left and starboard is right when looking toward the bow.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q02",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The front of a vessel is the:",
+      "options": [
+        "Beam",
+        "Transom",
+        "Stern",
+        "Bow"
+      ],
+      "correct_index": 3,
+      "explanation": "The stern is the back.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q03",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Freeboard is the:",
+      "options": [
+        "Length of the hull",
+        "Height from the waterline to the deck edge",
+        "Weight of the vessel",
+        "Depth of the keel"
+      ],
+      "correct_index": 1,
+      "explanation": "It is a basic measure of reserve buoyancy.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q04",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The lowest part inside the hull, where water collects, is the:",
+      "options": [
+        "Transom",
+        "Bulkhead",
+        "Gunwale",
+        "Bilge"
+      ],
+      "correct_index": 3,
+      "explanation": "The bilge is where water gathers and pumps take suction.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q05",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A hull that rises and skims across the water at speed is a:",
+      "options": [
+        "Planing hull",
+        "Sailing hull",
+        "Keel hull",
+        "Displacement hull"
+      ],
+      "correct_index": 0,
+      "explanation": "A planing hull lifts as speed increases.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q06",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A displacement hull:",
+      "options": [
+        "Cannot float at rest",
+        "Pushes water aside and is limited in speed",
+        "Always planes",
+        "Has no keel"
+      ],
+      "correct_index": 1,
+      "explanation": "Its speed is limited by its waterline length.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q07",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A catamaran is characterised by:",
+      "options": [
+        "A flat bottom only",
+        "Two hulls joined by a bridge deck",
+        "A single deep keel",
+        "Inflatable tubes only"
+      ],
+      "correct_index": 1,
+      "explanation": "Catamarans are wide and stable.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q08",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "The side of a vessel the wind is blowing from is the:",
+      "options": [
+        "Leeward side",
+        "Port side",
+        "Aft side",
+        "Windward side"
+      ],
+      "correct_index": 3,
+      "explanation": "The lee side is the sheltered side.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.vessel.terms-and-hull-types.q09",
+      "lesson_id": "svop.vessel.terms-and-hull-types",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "An open vessel compared with an enclosed one is generally:",
+      "options": [
+        "Better in rough weather",
+        "Heavier",
+        "More exposed to weather and water coming aboard",
+        "Always safer"
+      ],
+      "correct_index": 2,
+      "explanation": "An enclosed hull gives more shelter and reserve buoyancy.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.collision.sound-and-distress-signals.q01",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "One short blast means:",
+      "options": [
+        "I am going astern",
+        "I am altering course to starboard",
+        "I am altering course to port",
+        "I am in danger"
+      ],
+      "correct_index": 1,
+      "explanation": "Two short means port.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q02",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Two short blasts means:",
+      "options": [
+        "I am altering course to starboard",
+        "I am stopping",
+        "I am anchored",
+        "I am altering course to port"
+      ],
+      "correct_index": 3,
+      "explanation": "One short is starboard.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q03",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Three short blasts means:",
+      "options": [
+        "I am operating astern propulsion",
+        "I am altering to port",
+        "I am at anchor",
+        "I need help"
+      ],
+      "correct_index": 0,
+      "explanation": "Engines going astern.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q04",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Five or more short rapid blasts means:",
+      "options": [
+        "I am at anchor",
+        "Pass on my port side",
+        "I am overtaking",
+        "Danger or doubt about the other vessel's intentions"
+      ],
+      "correct_index": 3,
+      "explanation": "The danger or doubt signal.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q05",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A short blast lasts about:",
+      "options": [
+        "One second",
+        "Half a second",
+        "Four seconds",
+        "Ten seconds"
+      ],
+      "correct_index": 0,
+      "explanation": "A prolonged blast lasts 4 to 6 seconds.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q06",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A power vessel making way in fog sounds:",
+      "options": [
+        "No signal",
+        "Two prolonged blasts",
+        "One prolonged blast at intervals of no more than 2 minutes",
+        "Rapid bell ringing"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged is for a vessel stopped.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q07",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel at anchor in fog:",
+      "options": [
+        "Sounds one prolonged blast",
+        "Rings a bell rapidly for about 5 seconds at intervals of no more than a minute",
+        "Sounds three short blasts",
+        "Shows no signal"
+      ],
+      "correct_index": 1,
+      "explanation": "Use a bell.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q08",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is a distress signal?",
+      "options": [
+        "Whistle blast of one second",
+        "Red parachute rocket",
+        "Green flare",
+        "Flag with a fish"
+      ],
+      "correct_index": 1,
+      "explanation": "Red flares signal distress.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q09",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Distress signals should be used:",
+      "options": [
+        "To get attention for a drink",
+        "Whenever convenient",
+        "Only when in grave and imminent danger",
+        "To mark a race"
+      ],
+      "correct_index": 2,
+      "explanation": "Misuse is an offence.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.sound-and-distress-signals.q10",
+      "lesson_id": "svop.collision.sound-and-distress-signals",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A day distress signal is:",
+      "options": [
+        "Green smoke",
+        "Orange smoke",
+        "White smoke",
+        "Black smoke"
+      ],
+      "correct_index": 1,
+      "explanation": "Orange smoke is visible by day.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

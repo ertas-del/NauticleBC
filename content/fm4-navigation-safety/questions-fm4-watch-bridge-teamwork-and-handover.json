@@ -1,0 +1,225 @@
+{
+  "module": "fm4-navigation-safety",
+  "questions": [
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q01",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Responsibility for the safety of navigation must be:",
+      "options": [
+        "Clearly defined at all times",
+        "Changed silently",
+        "Shared by nobody",
+        "Left vague"
+      ],
+      "correct_index": 0,
+      "explanation": "Even with the master or a pilot aboard.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q02",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Before taking over a watch you should know:",
+      "options": [
+        "Nothing",
+        "The position, course, speed, hazards and traffic",
+        "Only the weather",
+        "Only the time"
+      ],
+      "correct_index": 1,
+      "explanation": "And standing orders.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q03",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "If a manoeuvre is in progress at handover time:",
+      "options": [
+        "The handover goes ahead",
+        "Ignore it",
+        "The outgoing person leaves",
+        "The handover is delayed until it is complete"
+      ],
+      "correct_index": 3,
+      "explanation": "Don't hand over during an action.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q04",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Repeating back an order is useful because it:",
+      "options": [
+        "Wastes time",
+        "Confirms the message was understood",
+        "Annoys the helm",
+        "Replaces the log"
+      ],
+      "correct_index": 1,
+      "explanation": "Closed-loop communication.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q05",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "When a pilot is aboard, the master:",
+      "options": [
+        "Leaves the bridge",
+        "Transfers all legal duty",
+        "Remains responsible for the vessel",
+        "Has no responsibility"
+      ],
+      "correct_index": 2,
+      "explanation": "The pilot advises.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q06",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Mistakes and unclear situations should be:",
+      "options": [
+        "Blamed on others",
+        "Reported promptly",
+        "Hidden",
+        "Ignored"
+      ],
+      "correct_index": 1,
+      "explanation": "A reporting culture reduces repeats.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q07",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Decisions should be verified using:",
+      "options": [
+        "A guess",
+        "One source only",
+        "Hearsay",
+        "More than one source"
+      ],
+      "correct_index": 3,
+      "explanation": "GPS, radar, chart and depth.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q08",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A relieving officer must be:",
+      "options": [
+        "Tired",
+        "Fit and alert, with eyes adjusted to the dark at night",
+        "Unfamiliar with the vessel",
+        "Distracted"
+      ],
+      "correct_index": 1,
+      "explanation": "Not impaired by fatigue.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q09",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Tasks on a small crew should be:",
+      "options": [
+        "Ignored",
+        "Allocated so nobody is overloaded",
+        "Given to one person",
+        "Left to chance"
+      ],
+      "correct_index": 1,
+      "explanation": "Look-out, steering and plotting need owners.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.watch.bridge-teamwork-and-handover.q10",
+      "lesson_id": "fm4.watch.bridge-teamwork-and-handover",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Radio calls or paperwork should not:",
+      "options": [
+        "Be accurate",
+        "Be recorded",
+        "Be used",
+        "Replace the look-out"
+      ],
+      "correct_index": 3,
+      "explanation": "The look-out is paramount.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

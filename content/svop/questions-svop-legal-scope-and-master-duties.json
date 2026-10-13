@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.legal.scope-and-master-duties.q01",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the gross tonnage limit for a commercial vessel operated under an SVOP?",
+      "options": [
+        "15 GT",
+        "60 GT",
+        "150 GT",
+        "5 GT"
+      ],
+      "correct_index": 3,
+      "explanation": "The SVOP covers commercial vessels up to 5 GT, except tugs.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q02",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "An SVOP also allows you to be master of a fishing vessel of up to:",
+      "options": [
+        "15 GT or 12 m in length",
+        "Any size",
+        "60 GT",
+        "5 GT only"
+      ],
+      "correct_index": 0,
+      "explanation": "The fishing vessel allowance is larger than the commercial one.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q03",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A boat used to carry paying passengers is:",
+      "options": [
+        "A pleasure craft",
+        "Exempt from all rules",
+        "Not a pleasure craft",
+        "Always a tug"
+      ],
+      "correct_index": 2,
+      "explanation": "Using a boat for hire makes it commercial.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q04",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Which is NOT a type of voyage covered by the SVOP?",
+      "options": [
+        "Voyages in normal conditions including darkness",
+        "Unlimited ocean voyages",
+        "Sheltered waters",
+        "Near coastal Class 2"
+      ],
+      "correct_index": 1,
+      "explanation": "The SVOP covers sheltered waters and near coastal Class 2 only.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q05",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A passenger is generally:",
+      "options": [
+        "Only people who pay",
+        "Anyone aboard other than the master, crew and people employed on the vessel's business",
+        "Only people with lifejackets",
+        "Only children"
+      ],
+      "correct_index": 1,
+      "explanation": "Passengers are those who are not crew or working on the vessel's business.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q06",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The master of a small commercial vessel is responsible for:",
+      "options": [
+        "Safety of life, the vessel and the environment",
+        "Only the engine",
+        "Only the paperwork",
+        "Only the fuel"
+      ],
+      "correct_index": 0,
+      "explanation": "The master carries overall responsibility.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q07",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "To use an SVOP certificate as operator, a person must be at least:",
+      "options": [
+        "18 years old",
+        "12 years old",
+        "21 years old",
+        "16 years old"
+      ],
+      "correct_index": 0,
+      "explanation": "Some courses accept 16-year-olds, but the certificate is used from 18.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q08",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Transport Canada's small vessel inspection and monitoring program means operators should:",
+      "options": [
+        "Avoid inspections",
+        "Keep certificates and safety equipment in order and on board",
+        "Disable the radio",
+        "Hide their records"
+      ],
+      "correct_index": 1,
+      "explanation": "Officers can check papers and equipment.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.legal.scope-and-master-duties.q09",
+      "lesson_id": "svop.legal.scope-and-master-duties",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "A water taxi under 5 GT with an SVOP-certified operator is on a voyage outside near coastal Class 2. The operator:",
+      "options": [
+        "Is fully covered",
+        "Is covered if it is daytime",
+        "Needs no certificate",
+        "Is outside the certificate's scope"
+      ],
+      "correct_index": 3,
+      "explanation": "The SVOP applies only to sheltered waters and near coastal Class 2.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

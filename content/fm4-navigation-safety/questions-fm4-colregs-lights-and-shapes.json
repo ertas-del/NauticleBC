@@ -1,0 +1,225 @@
+{
+  "module": "fm4-navigation-safety",
+  "questions": [
+    {
+      "id": "fm4.colregs.lights-and-shapes.q01",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A masthead light shows over an arc of:",
+      "options": [
+        "225 degrees",
+        "360 degrees",
+        "112.5 degrees",
+        "135 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "From dead ahead to 22.5° abaft the beam each side.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q02",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Each sidelight shows over:",
+      "options": [
+        "112.5 degrees",
+        "135 degrees",
+        "225 degrees",
+        "360 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "Green on starboard and red on port.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q03",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The sternlight is:",
+      "options": [
+        "White, over 135 degrees aft",
+        "Yellow, 112.5 degrees",
+        "Red, 360 degrees",
+        "Green, 225 degrees"
+      ],
+      "correct_index": 0,
+      "explanation": "The towing light is yellow.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q04",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel trawling shows:",
+      "options": [
+        "Three red lights",
+        "Red over white",
+        "Green over white all-round lights",
+        "Two white lights"
+      ],
+      "correct_index": 2,
+      "explanation": "Plus sidelights and sternlight when making way.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q05",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel fishing other than trawling shows:",
+      "options": [
+        "Red over white all-round lights",
+        "Green over white",
+        "Two red lights",
+        "Blue light"
+      ],
+      "correct_index": 0,
+      "explanation": "Or a two-cone shape by day.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q06",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Outlying gear extending more than 150 m horizontally is shown by:",
+      "options": [
+        "Nothing",
+        "An all-round white light or a cone apex up toward the gear",
+        "A red flag",
+        "A green light"
+      ],
+      "correct_index": 1,
+      "explanation": "It warns others of the gear.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q07",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel not under command shows:",
+      "options": [
+        "Red, white, red",
+        "Three white lights",
+        "Green over white",
+        "Two all-round red lights in a vertical line"
+      ],
+      "correct_index": 3,
+      "explanation": "By day, two black balls.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q08",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Red, white, red all-round lights show a vessel:",
+      "options": [
+        "Not under command",
+        "Trawling",
+        "At anchor",
+        "Restricted in her ability to manoeuvre"
+      ],
+      "correct_index": 3,
+      "explanation": "By day ball, diamond, ball.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q09",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel aground shows by day:",
+      "options": [
+        "Three black balls",
+        "A diamond",
+        "One ball",
+        "Two balls"
+      ],
+      "correct_index": 0,
+      "explanation": "At night, anchor lights plus two red lights.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.lights-and-shapes.q10",
+      "lesson_id": "fm4.colregs.lights-and-shapes",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "The masthead light visibility for a vessel of 50 m or more is:",
+      "options": [
+        "3 nautical miles",
+        "6 nautical miles",
+        "1 nautical mile",
+        "2 nautical miles"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 22.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q01",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "The most important safety measure against drowning on deck is:",
+      "options": [
+        "Wearing a lifejacket or PFD",
+        "Working alone",
+        "Leaving rails off",
+        "Wearing heavy boots"
+      ],
+      "correct_index": 0,
+      "explanation": "Many fishing deaths are from falls overboard.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q02",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Standing in the bight of a line is dangerous because:",
+      "options": [
+        "It is wet",
+        "The line can tighten and trap or drag you",
+        "It is lonely",
+        "It is cold"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep clear of lines under load.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q03",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Guards on rotating machinery should:",
+      "options": [
+        "Be painted",
+        "Be removed",
+        "Be kept in place",
+        "Be ignored"
+      ],
+      "correct_index": 2,
+      "explanation": "They prevent entanglement.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q04",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "TP 10038 is the:",
+      "options": [
+        "Radar manual",
+        "Small Fishing Vessel Safety Manual",
+        "Tide table",
+        "Chart"
+      ],
+      "correct_index": 1,
+      "explanation": "A Transport Canada guide.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q05",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A briefing for new crew should cover:",
+      "options": [
+        "Nothing",
+        "Only wages",
+        "Only fuel prices",
+        "Hazards and emergency drills"
+      ],
+      "correct_index": 3,
+      "explanation": "Do it before they start work.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q06",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Fatigue should be managed because it:",
+      "options": [
+        "Lowers fuel use",
+        "Causes mistakes and accidents",
+        "Has no effect",
+        "Improves performance"
+      ],
+      "correct_index": 1,
+      "explanation": "Plan rest.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q07",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A winch emergency stop should be:",
+      "options": [
+        "Hidden",
+        "Disabled",
+        "Painted over",
+        "Known to all crew"
+      ],
+      "correct_index": 3,
+      "explanation": "Test it.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.safe-working-and-safety-manual.q08",
+      "lesson_id": "fm4.oral.safe-working-and-safety-manual",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A person working alone on deck should:",
+      "options": [
+        "Hide",
+        "Tell someone and wear a lifejacket",
+        "Work without a PFD",
+        "Work at night without light"
+      ],
+      "correct_index": 1,
+      "explanation": "Reduce the risk.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

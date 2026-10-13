@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.stability.loading-and-freeboard.q01",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Heavy weight placed high on a boat will:",
+      "options": [
+        "Reduce freeboard only",
+        "Make it more stable",
+        "Make it more tender",
+        "Have no effect"
+      ],
+      "correct_index": 2,
+      "explanation": "It raises the centre of gravity.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q02",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Free surface effect is caused by:",
+      "options": [
+        "Liquid free to move in a part-full tank or on deck",
+        "A full tank",
+        "A closed hatch",
+        "A dry bilge"
+      ],
+      "correct_index": 0,
+      "explanation": "The liquid shifts and reduces stability.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q03",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "To reduce free surface effect, tanks should be kept:",
+      "options": [
+        "Half full",
+        "Two-thirds full",
+        "Full or empty",
+        "One-third full"
+      ],
+      "correct_index": 2,
+      "explanation": "Part-full tanks are the problem.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q04",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Ice on a vessel:",
+      "options": [
+        "Adds weight high up and reduces stability",
+        "Lowers the centre of gravity",
+        "Improves stability",
+        "Has no effect"
+      ],
+      "correct_index": 0,
+      "explanation": "Remove ice carefully and avoid icing conditions.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q05",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Reserve buoyancy is:",
+      "options": [
+        "The depth of the keel",
+        "The fuel in the tank",
+        "The weight of the cargo",
+        "The watertight volume above the waterline"
+      ],
+      "correct_index": 3,
+      "explanation": "It helps the boat recover when pushed down.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q06",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Overloading a vessel:",
+      "options": [
+        "Makes the boat faster",
+        "Has no effect",
+        "Reduces freeboard and reserve buoyancy",
+        "Increases freeboard"
+      ],
+      "correct_index": 2,
+      "explanation": "Water comes aboard more easily.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q07",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel floats lower in fresh water because:",
+      "options": [
+        "Fresh water is less dense than salt water",
+        "The tide is lower",
+        "Fresh water is warmer",
+        "Fresh water is dirtier"
+      ],
+      "correct_index": 0,
+      "explanation": "The Fresh Water Allowance allows for this.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q08",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Hatches and doors at sea should be:",
+      "options": [
+        "Left open for air",
+        "Opened in heavy seas",
+        "Removed",
+        "Closed and secured"
+      ],
+      "correct_index": 3,
+      "explanation": "Watertight integrity prevents flooding.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.stability.loading-and-freeboard.q09",
+      "lesson_id": "svop.stability.loading-and-freeboard",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Cargo and gear that is not secured:",
+      "options": [
+        "Can shift and cause a list or capsize",
+        "Cannot move in calm water",
+        "Increases stability",
+        "Is always safe"
+      ],
+      "correct_index": 0,
+      "explanation": "Secure everything.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

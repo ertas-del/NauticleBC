@@ -1,0 +1,33 @@
+{
+  "ticket": "svop",
+  "question_count": 50,
+  "quota_by_lesson": {
+    "svop.legal.scope-and-master-duties": 2,
+    "svop.vessel.terms-and-hull-types": 2,
+    "svop.propulsion.systems-and-startup": 2,
+    "svop.seamanship.ropes-knots-and-mooring": 1,
+    "svop.manoeuvring.handling-and-anchoring": 2,
+    "svop.collision.rules-of-the-road": 3,
+    "svop.collision.lights-and-shapes": 2,
+    "svop.collision.sound-and-distress-signals": 2,
+    "svop.stability.loading-and-freeboard": 2,
+    "svop.safety.working-practices-and-refuelling": 1,
+    "svop.safety.lifesaving-fire-and-flares": 1,
+    "svop.weather.forecasts-and-warnings": 3,
+    "svop.weather.sea-state-squalls-and-icing": 3,
+    "svop.radar.controls-and-use": 4,
+    "svop.navigation.gps-and-errors": 2,
+    "svop.charts.reading-and-plotting": 2,
+    "svop.charts.publications-and-tides": 2,
+    "svop.compass.bearings-and-deviation": 2,
+    "svop.buoyage.lateral-and-day-beacons": 1,
+    "svop.buoyage.cardinal-isolated-and-special": 1,
+    "svop.emergencies.on-board": 2,
+    "svop.emergencies.mob-and-reporting": 1,
+    "svop.sar.resources-and-vhf-calls": 2,
+    "svop.pollution.fuelling-and-reporting": 1,
+    "svop.law.csa-2001-and-regulations": 2,
+    "svop.operations.departure-planning": 1,
+    "svop.operations.checklists": 1
+  }
+}

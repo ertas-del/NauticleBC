@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q01",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "VHF channel 16 is used for:",
+      "options": [
+        "Weather only",
+        "Chat",
+        "Fishing reports",
+        "Distress, safety and calling"
+      ],
+      "correct_index": 3,
+      "explanation": "Keep a watch on it.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q02",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Mayday means:",
+      "options": [
+        "A weather warning",
+        "Grave and imminent danger",
+        "A routine call",
+        "A request for a tow in calm weather"
+      ],
+      "correct_index": 1,
+      "explanation": "Say it three times.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q03",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Pan-Pan means:",
+      "options": [
+        "A routine call",
+        "A weather report",
+        "A navigational warning",
+        "An urgent message that is not distress"
+      ],
+      "correct_index": 3,
+      "explanation": "Say it three times.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q04",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Sécurité is used for:",
+      "options": [
+        "Safety messages such as navigation or weather warnings",
+        "Urgency",
+        "Distress",
+        "Chat"
+      ],
+      "correct_index": 0,
+      "explanation": "It is the safety prefix.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q05",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A Mayday call should include:",
+      "options": [
+        "Only the time",
+        "Vessel name, position, nature of distress and persons on board",
+        "Only the vessel colour",
+        "Only the weather"
+      ],
+      "correct_index": 1,
+      "explanation": "Be clear and give a position.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q06",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Channel 70 is used for:",
+      "options": [
+        "Digital selective calling (DSC)",
+        "Weather",
+        "Pilotage",
+        "Voice chat"
+      ],
+      "correct_index": 0,
+      "explanation": "A DSC distress alert goes out on 70.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q07",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "If you hear a Mayday and no one answers you should:",
+      "options": [
+        "Talk over it",
+        "Acknowledge it if you can and help",
+        "Ignore it",
+        "Switch off the radio"
+      ],
+      "correct_index": 1,
+      "explanation": "Write down the details.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q08",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "JRCC Victoria is:",
+      "options": [
+        "A weather office",
+        "The Pacific search and rescue coordination centre",
+        "A school",
+        "A fuel dock"
+      ],
+      "correct_index": 1,
+      "explanation": "It tasks SAR assets.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.sar.resources-and-vhf-calls.q09",
+      "lesson_id": "svop.sar.resources-and-vhf-calls",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "The call Seelonce Mayday means:",
+      "options": [
+        "Ignore the call",
+        "Radio silence on the distress channel",
+        "Change channel",
+        "Send help"
+      ],
+      "correct_index": 1,
+      "explanation": "Used by the station controlling the distress.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

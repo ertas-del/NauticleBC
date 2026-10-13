@@ -1,0 +1,203 @@
+{
+  "module": "fm4-chartwork",
+  "questions": [
+    {
+      "id": "fm4.chart.position-fixing.q01",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "The best fix from two bearings comes when the angle between them is close to:",
+      "options": [
+        "0 degrees",
+        "10 degrees",
+        "180 degrees",
+        "90 degrees"
+      ],
+      "correct_index": 3,
+      "explanation": "A small angle makes a poor fix.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q02",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Before plotting a compass bearing you must:",
+      "options": [
+        "Add 100",
+        "Leave it as it is",
+        "Convert it to true",
+        "Convert to latitude"
+      ],
+      "correct_index": 2,
+      "explanation": "Apply deviation and variation.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q03",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A bearing line is drawn from:",
+      "options": [
+        "The compass rose",
+        "The centre of the chart",
+        "The boat in the same direction",
+        "The mark, in the reciprocal direction"
+      ],
+      "correct_index": 3,
+      "explanation": "The line runs from the mark toward you.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q04",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A cocked hat is:",
+      "options": [
+        "A depth contour",
+        "A type of hat",
+        "A plotter",
+        "A small triangle formed by three bearings"
+      ],
+      "correct_index": 3,
+      "explanation": "Its size shows the error.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q05",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Radar is generally more accurate for:",
+      "options": [
+        "Bearing",
+        "Tide",
+        "Colour",
+        "Range"
+      ],
+      "correct_index": 3,
+      "explanation": "Use ranges where possible.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q06",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A position from two distances is found by:",
+      "options": [
+        "Using the logbook",
+        "Drawing a straight line",
+        "Using the tide",
+        "Drawing arcs where they cross"
+      ],
+      "correct_index": 3,
+      "explanation": "Use the radius on the latitude scale.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q07",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Latitude is read from the:",
+      "options": [
+        "Top scale",
+        "Bottom scale",
+        "Side scale",
+        "Title"
+      ],
+      "correct_index": 2,
+      "explanation": "Longitude is top or bottom.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q08",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A course between two positions is measured against:",
+      "options": [
+        "The title",
+        "The tide table",
+        "The nearest compass rose or meridian",
+        "The depth contours"
+      ],
+      "correct_index": 2,
+      "explanation": "It gives a true direction.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.position-fixing.q09",
+      "lesson_id": "fm4.chart.position-fixing",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "If three bearings form a large cocked hat you should:",
+      "options": [
+        "Accept it as precise",
+        "Move the marks",
+        "Ignore it",
+        "Treat the fix as poor and assume the nearest danger"
+      ],
+      "correct_index": 3,
+      "explanation": "Larger triangle means larger error.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

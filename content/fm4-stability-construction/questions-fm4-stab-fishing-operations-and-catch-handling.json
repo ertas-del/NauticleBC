@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q01",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Active fishing gear is gear that:",
+      "options": [
+        "Is left set",
+        "Is towed or moved through the water",
+        "Is always a trap",
+        "Is stored ashore"
+      ],
+      "correct_index": 1,
+      "explanation": "Passive gear is set and left.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q02",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Gear hung up on the sea bed is dangerous because:",
+      "options": [
+        "It cools the engine",
+        "It lightens the vessel",
+        "It improves stability",
+        "It can heel the vessel, especially with a high lead"
+      ],
+      "correct_index": 3,
+      "explanation": "A high lead gives a larger heeling arm.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q03",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "To limit the danger of hung-up gear you should:",
+      "options": [
+        "Know how to release the warps quickly",
+        "Ignore it",
+        "Tie it off harder",
+        "Increase speed"
+      ],
+      "correct_index": 0,
+      "explanation": "Rehearse the release.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q04",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Division bulkheads in fish holds:",
+      "options": [
+        "Reduce displacement",
+        "Increase free surface",
+        "Raise G",
+        "Keep fish from shifting"
+      ],
+      "correct_index": 3,
+      "explanation": "They must be kept in place.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q05",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Carrying fish on deck is dangerous because it:",
+      "options": [
+        "Reduces displacement",
+        "Raises G and can trap water",
+        "Improves stability",
+        "Lowers G"
+      ],
+      "correct_index": 1,
+      "explanation": "It also blocks freeing ports.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q06",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Excessive trim by the stern can:",
+      "options": [
+        "Improve stability",
+        "Have no effect",
+        "Prevent freeing ports from working and affect steering",
+        "Reduce draft"
+      ],
+      "correct_index": 2,
+      "explanation": "It also raises the risk of flooding aft.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q07",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Paravane stabilisers:",
+      "options": [
+        "Add buoyancy",
+        "Increase rolling",
+        "Have no risks",
+        "Reduce rolling but have risks such as fouling or loss"
+      ],
+      "correct_index": 3,
+      "explanation": "Understand their risks.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q08",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Anti-rolling tanks:",
+      "options": [
+        "Create free surface effect if used wrongly",
+        "Reduce displacement",
+        "Raise KM",
+        "Have no effect"
+      ],
+      "correct_index": 0,
+      "explanation": "They need correct operation.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.fishing-operations-and-catch-handling.q09",
+      "lesson_id": "fm4.stab.fishing-operations-and-catch-handling",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "During a voyage, using fuel from low tanks tends to:",
+      "options": [
+        "Lower G",
+        "Have no effect",
+        "Increase GM",
+        "Raise G"
+      ],
+      "correct_index": 3,
+      "explanation": "Remaining weight is higher.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

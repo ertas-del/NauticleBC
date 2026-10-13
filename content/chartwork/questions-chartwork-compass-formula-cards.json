@@ -1,0 +1,245 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.compass.formula-cards.q01",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What do the letters TVMDC stand for?",
+      "options": [
+        "True, Variation, Magnetic, Deviation, Compass",
+        "Time, Velocity, Magnetic, Distance, Course",
+        "True, Vector, Mark, Deviation, Chart",
+        "Tide, Variation, Mark, Depth, Course"
+      ],
+      "correct_index": 0,
+      "explanation": "Say them in order, from True down to Compass.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q02",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Going from True to Compass, East variation is:",
+      "options": [
+        "Ignored",
+        "Subtracted",
+        "Added",
+        "Doubled"
+      ],
+      "correct_index": 1,
+      "explanation": "East is least, West is best.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q03",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Going from Compass to True, East error is:",
+      "options": [
+        "Squared",
+        "Added",
+        "Ignored",
+        "Subtracted"
+      ],
+      "correct_index": 1,
+      "explanation": "Compass Add East gives True.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q04",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "True 090°, variation 17°E, deviation 2°W. The compass course is:",
+      "options": [
+        "075°",
+        "105°",
+        "111°",
+        "069°"
+      ],
+      "correct_index": 0,
+      "explanation": "090 − 17 = 073, then + 2 = 075.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q05",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Compass 350°, deviation 3°E, variation 17°E. The true bearing is:",
+      "options": [
+        "010°",
+        "330°",
+        "370°",
+        "356°"
+      ],
+      "correct_index": 0,
+      "explanation": "350 + 3 + 17 = 370. Subtract 360 to get 010.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q06",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "True 270°, variation 17°E, deviation 4°E. The compass course is:",
+      "options": [
+        "291°",
+        "249°",
+        "287°",
+        "253°"
+      ],
+      "correct_index": 1,
+      "explanation": "270 − 17 = 253, then − 4 = 249.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q07",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A compass reads 062° on a mark whose true bearing is 071°. The compass error is:",
+      "options": [
+        "9° East",
+        "None",
+        "9° West",
+        "133° East"
+      ],
+      "correct_index": 0,
+      "explanation": "True minus Compass = +9, so East.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q08",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Compass error 9°E and variation 16°E give a deviation of:",
+      "options": [
+        "25° East",
+        "7° West",
+        "25° West",
+        "7° East"
+      ],
+      "correct_index": 1,
+      "explanation": "9 − 16 = −7, which is West.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q09",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Variation is shown on the chart:",
+      "options": [
+        "On the title",
+        "On the depth contours",
+        "On the tide table",
+        "On the compass rose"
+      ],
+      "correct_index": 3,
+      "explanation": "The rose gives variation and its yearly change.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.compass.formula-cards.q10",
+      "lesson_id": "chartwork.compass.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Deviation comes from:",
+      "options": [
+        "The barometer",
+        "Your deviation card",
+        "The tide table",
+        "The chart"
+      ],
+      "correct_index": 1,
+      "explanation": "It depends on the boat's own magnetism.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

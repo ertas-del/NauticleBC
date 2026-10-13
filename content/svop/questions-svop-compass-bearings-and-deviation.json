@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.compass.bearings-and-deviation.q01",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Variation is the angle between:",
+      "options": [
+        "True north and magnetic north",
+        "Magnetic north and the compass",
+        "The boat and the wind",
+        "The chart and the GPS"
+      ],
+      "correct_index": 0,
+      "explanation": "It is shown on the chart.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q02",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Deviation is caused by:",
+      "options": [
+        "The boat's own iron, engines and electronics",
+        "The chart",
+        "The tide",
+        "The moon"
+      ],
+      "correct_index": 0,
+      "explanation": "It changes with heading.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q03",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "When converting True to Compass, east variation is:",
+      "options": [
+        "Ignored",
+        "Doubled",
+        "Added",
+        "Subtracted"
+      ],
+      "correct_index": 3,
+      "explanation": "West is added, East is subtracted going True to Compass.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q04",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "The memory phrase CADET means:",
+      "options": [
+        "Chart and depth to tide",
+        "Correct and deviate",
+        "Course and direction",
+        "Compass, Add East, to get True"
+      ],
+      "correct_index": 3,
+      "explanation": "From compass to true, add east.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q05",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "True course 180°, variation 16° East, deviation 0°. The compass course is:",
+      "options": [
+        "164°",
+        "016°",
+        "196°",
+        "180°"
+      ],
+      "correct_index": 0,
+      "explanation": "Subtract East going from True to Magnetic.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q06",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "True course 090°, variation 17° East, deviation 2° West. The compass course is:",
+      "options": [
+        "111°",
+        "069°",
+        "075°",
+        "105°"
+      ],
+      "correct_index": 2,
+      "explanation": "090 − 17 = 073, then + 2 = 075.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q07",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A deviation card lists:",
+      "options": [
+        "Wind speeds",
+        "Tide times",
+        "Fuel use",
+        "The compass error on different headings"
+      ],
+      "correct_index": 3,
+      "explanation": "Check it regularly.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q08",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A phone or speaker next to a magnetic compass will:",
+      "options": [
+        "Cause errors in the compass",
+        "Make it brighter",
+        "Improve accuracy",
+        "Have no effect"
+      ],
+      "correct_index": 0,
+      "explanation": "Keep magnetic items away.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.compass.bearings-and-deviation.q09",
+      "lesson_id": "svop.compass.bearings-and-deviation",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A transit is:",
+      "options": [
+        "Two marks in line, giving a known bearing",
+        "A compass type",
+        "A tide table",
+        "A type of buoy"
+      ],
+      "correct_index": 0,
+      "explanation": "Use it to check the compass.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

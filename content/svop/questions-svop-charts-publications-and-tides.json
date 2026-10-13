@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.charts.publications-and-tides.q01",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The List of Lights, Buoys and Fog Signals describes:",
+      "options": [
+        "Crew lists",
+        "Aids to navigation such as lights, buoys and fog signals",
+        "Weather",
+        "Tides"
+      ],
+      "correct_index": 1,
+      "explanation": "It gives characteristics and positions.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q02",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Canadian Tide and Current Tables give:",
+      "options": [
+        "Wind forecasts",
+        "Times and heights of tides and information on tidal currents",
+        "Fuel prices",
+        "Chart symbols"
+      ],
+      "correct_index": 1,
+      "explanation": "Use them for planning.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q03",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Notices to Mariners provide:",
+      "options": [
+        "Fuel advice",
+        "Tide times",
+        "Corrections and warnings about charts and hazards",
+        "Boat registrations"
+      ],
+      "correct_index": 2,
+      "explanation": "Check them before a trip.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q04",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Charted depth 3.0 m with a tide of 2.0 m above chart datum gives a depth of:",
+      "options": [
+        "1.0 m",
+        "6.0 m",
+        "3.0 m",
+        "5.0 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Add the tide height to the charted depth.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q05",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Depth 5.0 m and draught 1.2 m give an under-keel clearance of:",
+      "options": [
+        "1.2 m",
+        "6.2 m",
+        "5.0 m",
+        "3.8 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Depth minus draught.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q06",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A narrow pass with a strong tidal current is best taken near:",
+      "options": [
+        "Slack water",
+        "Midnight",
+        "Maximum ebb",
+        "Maximum flood"
+      ],
+      "correct_index": 0,
+      "explanation": "Currents are weakest around slack.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q07",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Wind blowing against a strong tidal current causes:",
+      "options": [
+        "Smaller waves",
+        "Calm water",
+        "Slack water",
+        "Steep, dangerous seas"
+      ],
+      "correct_index": 3,
+      "explanation": "Avoid timing a passage like this.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q08",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Sailing Directions contain:",
+      "options": [
+        "Tide heights",
+        "Lights only",
+        "Flag signals",
+        "Written descriptions of coasts, harbours and hazards"
+      ],
+      "correct_index": 3,
+      "explanation": "They supplement the chart.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.publications-and-tides.q09",
+      "lesson_id": "svop.charts.publications-and-tides",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A rock that uncovers at low tide is shown on a chart by:",
+      "options": [
+        "A buoy",
+        "A sounding",
+        "A drying height",
+        "A contour"
+      ],
+      "correct_index": 2,
+      "explanation": "It dries above chart datum.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

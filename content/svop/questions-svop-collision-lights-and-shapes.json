@@ -1,0 +1,247 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.collision.lights-and-shapes.q01",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The port sidelight is:",
+      "options": [
+        "Yellow",
+        "White",
+        "Red",
+        "Green"
+      ],
+      "correct_index": 2,
+      "explanation": "Port is red and starboard is green.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q02",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The stern light is:",
+      "options": [
+        "Yellow",
+        "White",
+        "Green",
+        "Red"
+      ],
+      "correct_index": 1,
+      "explanation": "It shows aft.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q03",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a green light and a red light together, ahead. This is:",
+      "options": [
+        "A tug",
+        "A vessel overtaking",
+        "A vessel meeting you head-on",
+        "A vessel at anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "Both alter to starboard.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q04",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel at anchor shows:",
+      "options": [
+        "No lights ever",
+        "An all-round white light",
+        "A red light",
+        "A green light"
+      ],
+      "correct_index": 1,
+      "explanation": "By day, a black ball.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q05",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Flag Alpha means:",
+      "options": [
+        "Vessel on fire",
+        "Man overboard",
+        "Pilot on board",
+        "Diver down, keep well clear"
+      ],
+      "correct_index": 3,
+      "explanation": "Blue and white swallowtail flag.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q06",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel not under command shows:",
+      "options": [
+        "Two white lights",
+        "Red over white",
+        "Green over white",
+        "Two red all-round lights in a vertical line"
+      ],
+      "correct_index": 3,
+      "explanation": "By day, two black balls.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q07",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "You see only a vessel's red sidelight. You are looking at her:",
+      "options": [
+        "Port side",
+        "Stern",
+        "Starboard side",
+        "Bow"
+      ],
+      "correct_index": 0,
+      "explanation": "Red is the port side.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q08",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A sailing vessel using her engine is:",
+      "options": [
+        "A sailing vessel with priority",
+        "A vessel at anchor",
+        "Not required to show lights",
+        "A power-driven vessel"
+      ],
+      "correct_index": 3,
+      "explanation": "Show a black cone point down by day.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q09",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A radar reflector is used to:",
+      "options": [
+        "Steer the boat",
+        "Make your boat show up better on others' radar",
+        "Reflect the sun",
+        "Cool the engine"
+      ],
+      "correct_index": 1,
+      "explanation": "Small boats are poor radar targets.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q10",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A white light seen only, from behind a vessel, means you are looking at her:",
+      "options": [
+        "Bow",
+        "Stern",
+        "Starboard side",
+        "Port side"
+      ],
+      "correct_index": 1,
+      "explanation": "The stern light is white.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.lights-and-shapes.q11",
+      "lesson_id": "svop.collision.lights-and-shapes",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel trawling shows:",
+      "options": [
+        "Blue light",
+        "Red over green",
+        "Two white lights",
+        "Green over white all-round lights"
+      ],
+      "correct_index": 3,
+      "explanation": "Other fishing shows red over white.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

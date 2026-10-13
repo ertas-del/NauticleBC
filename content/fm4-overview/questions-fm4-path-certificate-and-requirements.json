@@ -1,0 +1,181 @@
+{
+  "module": "fm4-overview",
+  "questions": [
+    {
+      "id": "fm4.path.certificate-and-requirements.q01",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "The Fishing Master, Fourth Class holder may be master of a fishing vessel of up to:",
+      "options": [
+        "100 gross tonnage",
+        "15 gross tonnage",
+        "60 gross tonnage",
+        "Any size"
+      ],
+      "correct_index": 0,
+      "explanation": "On near coastal or sheltered waters voyages.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q02",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "The voyages covered are:",
+      "options": [
+        "Near coastal and sheltered waters",
+        "Only rivers",
+        "Only offshore",
+        "Unlimited"
+      ],
+      "correct_index": 0,
+      "explanation": "Check the certificate's validity.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q03",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The required sea service is at least:",
+      "options": [
+        "24 months",
+        "1 month",
+        "2 months",
+        "12 months of deck duties on fishing vessels of 6 m or more"
+      ],
+      "correct_index": 3,
+      "explanation": "Up to 6 months may come from approved training.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q04",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Which certificate must you show the examiner?",
+      "options": [
+        "A boating licence only",
+        "ROC-MC",
+        "A driver's licence",
+        "A pilot licence"
+      ],
+      "correct_index": 1,
+      "explanation": "The commercial marine radio certificate.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q05",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is one of the four exams?",
+      "options": [
+        "Engineering knowledge",
+        "Ship management",
+        "Celestial navigation",
+        "Ship Construction and Stability level 1"
+      ],
+      "correct_index": 3,
+      "explanation": "The others are C/P 1, NS 1 and the oral.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q06",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The oral exam is taken:",
+      "options": [
+        "After meeting the other requirements",
+        "Before sea service",
+        "Instead of the written exams",
+        "First"
+      ],
+      "correct_index": 0,
+      "explanation": "The regulations place it last.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q07",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "An officer in charge of the watch on a fishing vessel under this certificate may be on a vessel of:",
+      "options": [
+        "Up to 5 GT only",
+        "Any tonnage on near coastal or sheltered voyages",
+        "Up to 60 GT only",
+        "Up to 15 GT only"
+      ],
+      "correct_index": 1,
+      "explanation": "The OOW allowance is wider than the master's.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.path.certificate-and-requirements.q08",
+      "lesson_id": "fm4.path.certificate-and-requirements",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Marine advanced first aid is:",
+      "options": [
+        "Required only for passenger boats",
+        "Required for the certificate",
+        "Replaced by a driver's licence",
+        "Never required"
+      ],
+      "correct_index": 1,
+      "explanation": "It is on the list of certificates to show.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

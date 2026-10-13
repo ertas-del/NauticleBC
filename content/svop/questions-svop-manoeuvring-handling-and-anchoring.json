@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q01",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A jet drive vessel at idle has:",
+      "options": [
+        "Reverse steering only",
+        "Faster steering",
+        "Little or no steering",
+        "Excellent steering"
+      ],
+      "correct_index": 2,
+      "explanation": "Steering depends on thrust.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q02",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "When approaching a dock you should usually:",
+      "options": [
+        "Go fast and brake late",
+        "Approach beam-on at speed",
+        "Use no lines",
+        "Go slowly, into the wind or current if possible"
+      ],
+      "correct_index": 3,
+      "explanation": "Low speed and a heading into the wind or current give control.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q03",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A typical anchor scope is:",
+      "options": [
+        "10 times the draught",
+        "1 to 2 times the depth",
+        "The same as the depth",
+        "5 to 7 times the depth"
+      ],
+      "correct_index": 3,
+      "explanation": "Short scope drags easily.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q04",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is a feature of a good anchorage?",
+      "options": [
+        "Rocky bottom",
+        "No swinging room",
+        "Good holding ground and shelter",
+        "A shipping channel"
+      ],
+      "correct_index": 2,
+      "explanation": "You also need depth and room to swing.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q05",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "To check an anchor is holding you should:",
+      "options": [
+        "Add more fenders",
+        "Shut off the engine",
+        "Take bearings or marks ashore and watch for movement",
+        "Look at the compass only"
+      ],
+      "correct_index": 2,
+      "explanation": "If the marks move, the anchor is dragging.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q06",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "A right-hand propeller going astern usually walks the stern to:",
+      "options": [
+        "Starboard",
+        "Port",
+        "Neither",
+        "Up"
+      ],
+      "correct_index": 1,
+      "explanation": "Learn the walk of your own boat.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q07",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "When working out anchor scope you must allow for:",
+      "options": [
+        "The rise of the tide",
+        "The moon colour",
+        "The compass deviation",
+        "Fuel in the tank"
+      ],
+      "correct_index": 0,
+      "explanation": "Depth changes with the tide.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q08",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A fluke (Danforth) anchor holds best in:",
+      "options": [
+        "Solid rock",
+        "Sand or mud",
+        "Weed",
+        "Ice"
+      ],
+      "correct_index": 1,
+      "explanation": "It digs in to soft bottoms.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.manoeuvring.handling-and-anchoring.q09",
+      "lesson_id": "svop.manoeuvring.handling-and-anchoring",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A boat's turning circle should be:",
+      "options": [
+        "Ignored",
+        "Always the same for all boats",
+        "Known for your vessel at different speeds",
+        "Irrelevant at slow speed"
+      ],
+      "correct_index": 2,
+      "explanation": "Different boats and speeds turn differently.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

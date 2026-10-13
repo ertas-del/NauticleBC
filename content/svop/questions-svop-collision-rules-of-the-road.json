@@ -1,0 +1,247 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.collision.rules-of-the-road.q01",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "In a head-on meeting of two power-driven vessels:",
+      "options": [
+        "Both alter course to starboard",
+        "The smaller one stops",
+        "Both alter to port",
+        "The larger one stands on"
+      ],
+      "correct_index": 0,
+      "explanation": "They pass port to port.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q02",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "In a crossing situation, the give-way vessel is the one that has the other:",
+      "options": [
+        "On her starboard side",
+        "On her port side",
+        "Astern",
+        "Anchored"
+      ],
+      "correct_index": 0,
+      "explanation": "The vessel on the right has right of way.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q03",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "An overtaking vessel must:",
+      "options": [
+        "Sound five short blasts and stop",
+        "Keep clear until finally past",
+        "Stand on",
+        "Assume it has right of way"
+      ],
+      "correct_index": 1,
+      "explanation": "The vessel being overtaken keeps course and speed.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q04",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Risk of collision is assumed when:",
+      "options": [
+        "The radio is silent",
+        "The other boat is red",
+        "The other boat is big",
+        "The compass bearing of an approaching vessel does not change and the range decreases"
+      ],
+      "correct_index": 3,
+      "explanation": "Constant bearing with decreasing range means collision course.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q05",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The stand-on vessel should normally:",
+      "options": [
+        "Slow down and stop",
+        "Alter to port",
+        "Turn away at once",
+        "Keep her course and speed"
+      ],
+      "correct_index": 3,
+      "explanation": "The give-way vessel must act.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q06",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A proper lookout is kept by:",
+      "options": [
+        "Sight, hearing and all available means",
+        "Only radar",
+        "Only at night",
+        "Only the master"
+      ],
+      "correct_index": 0,
+      "explanation": "A lookout is required at all times.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q07",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Which sailing vessel gives way when each has the wind on a different side?",
+      "options": [
+        "The faster",
+        "The one with the wind on her port side",
+        "The larger",
+        "The one with the wind on her starboard side"
+      ],
+      "correct_index": 1,
+      "explanation": "Port tack gives way to starboard tack.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q08",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "In a narrow channel a vessel should keep:",
+      "options": [
+        "To the middle",
+        "Near the shore of her choice",
+        "To the port side",
+        "To the starboard side of the channel"
+      ],
+      "correct_index": 3,
+      "explanation": "Keep to the right, as on a road.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q09",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel must generally keep out of the way of a:",
+      "options": [
+        "Larger power vessel",
+        "Vessel anchored in a channel",
+        "Faster power vessel",
+        "Sailing vessel"
+      ],
+      "correct_index": 3,
+      "explanation": "Sailing vessels and vessels fishing are given priority.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q10",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "The best action to avoid collision is to act:",
+      "options": [
+        "At the last moment",
+        "With only a sound signal",
+        "Early and with a large enough change to be seen",
+        "With small alterations"
+      ],
+      "correct_index": 2,
+      "explanation": "Others must be able to see what you are doing.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.collision.rules-of-the-road.q11",
+      "lesson_id": "svop.collision.rules-of-the-road",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "In restricted visibility you should proceed at:",
+      "options": [
+        "Whatever speed you like",
+        "Anchor speed only",
+        "Full speed",
+        "A safe speed with engines ready for immediate manoeuvre"
+      ],
+      "correct_index": 3,
+      "explanation": "Reduce speed and be ready to stop.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

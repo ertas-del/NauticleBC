@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q01",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "GM = KM − KG. KM is 4.10 m and KG is 3.50 m. GM is:",
+      "options": [
+        "−0.60 m",
+        "7.60 m",
+        "0.60 m",
+        "0.06 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Positive means stable.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q02",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "GZ = GM × sin θ. GM 0.60 m, θ 8° (sin 0.139). GZ is:",
+      "options": [
+        "0.60 m",
+        "0.083 m",
+        "0.139 m",
+        "4.3 m"
+      ],
+      "correct_index": 1,
+      "explanation": "0.60 × 0.139 = 0.083.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q03",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Righting moment equals:",
+      "options": [
+        "Displacement × GZ",
+        "Freeboard × draft",
+        "GM × KG",
+        "KM − KG"
+      ],
+      "correct_index": 0,
+      "explanation": "In tonne-metres.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q04",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Δ = 80 t and GZ = 0.0835 m. The righting moment is:",
+      "options": [
+        "6.7 t·m",
+        "0.001 t·m",
+        "80 t·m",
+        "668 t·m"
+      ],
+      "correct_index": 0,
+      "explanation": "80 × 0.0835 = 6.68.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q05",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The GZ formula GM × sin θ is valid for:",
+      "options": [
+        "Any angle",
+        "Only upright",
+        "Small angles of heel",
+        "Only above 45°"
+      ],
+      "correct_index": 2,
+      "explanation": "Use the GZ curve for large angles.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q06",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Raising G on a vessel normally:",
+      "options": [
+        "Has no effect",
+        "Increases KM only",
+        "Reduces GM",
+        "Increases GM"
+      ],
+      "correct_index": 2,
+      "explanation": "Weights high make a vessel tender.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q07",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Lowering G normally:",
+      "options": [
+        "Reduces displacement",
+        "Has no effect",
+        "Increases GM",
+        "Reduces GM"
+      ],
+      "correct_index": 2,
+      "explanation": "Weights low improve stability.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q08",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "In a sketch of a heeled vessel, the righting lever GZ is the:",
+      "options": [
+        "Vertical distance from B to M",
+        "Vertical distance from keel to G",
+        "Depth of the keel",
+        "Horizontal distance between the lines of weight and buoyancy"
+      ],
+      "correct_index": 3,
+      "explanation": "Z is the foot of the perpendicular from G.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.gm-gz-and-righting-levers.q09",
+      "lesson_id": "fm4.stab.gm-gz-and-righting-levers",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "KM comes from:",
+      "options": [
+        "The chart",
+        "The log",
+        "The stability booklet for the displacement",
+        "The tide table"
+      ],
+      "correct_index": 2,
+      "explanation": "It depends on displacement.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

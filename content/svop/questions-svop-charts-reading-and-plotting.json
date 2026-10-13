@@ -1,0 +1,225 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.charts.reading-and-plotting.q01",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Distance on a chart is measured using:",
+      "options": [
+        "The depth contours",
+        "The longitude scale",
+        "The latitude scale",
+        "The compass rose"
+      ],
+      "correct_index": 2,
+      "explanation": "One minute of latitude is one nautical mile.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q02",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "One minute of latitude equals:",
+      "options": [
+        "One statute mile",
+        "One nautical mile",
+        "One fathom",
+        "One kilometre"
+      ],
+      "correct_index": 1,
+      "explanation": "About 1852 metres.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q03",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Charted depths are measured from:",
+      "options": [
+        "Chart datum",
+        "The keel",
+        "The bottom",
+        "Mean sea level"
+      ],
+      "correct_index": 0,
+      "explanation": "Add the tide height to find real depth.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q04",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Latitude is read from the:",
+      "options": [
+        "Top scale",
+        "Side scale",
+        "Depth contours",
+        "Compass rose"
+      ],
+      "correct_index": 1,
+      "explanation": "Longitude uses the top or bottom.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q05",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "How long does 15 NM take at 5 knots?",
+      "options": [
+        "2 hours",
+        "3 hours",
+        "75 minutes",
+        "5 hours"
+      ],
+      "correct_index": 1,
+      "explanation": "Time = distance ÷ speed.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q06",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Chart No. 1 is used to:",
+      "options": [
+        "Plot a position",
+        "Explain chart symbols and abbreviations",
+        "Show the weather",
+        "Give tide times"
+      ],
+      "correct_index": 1,
+      "explanation": "It is a reference booklet.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q07",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Chart notes and cautions should:",
+      "options": [
+        "Be ignored",
+        "Be erased",
+        "Be covered",
+        "Be read before using the chart"
+      ],
+      "correct_index": 3,
+      "explanation": "They contain warnings about hazards.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q08",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A drying height shows:",
+      "options": [
+        "A rock that uncovers at low tide",
+        "A harbour",
+        "A buoy",
+        "A deep trench"
+      ],
+      "correct_index": 0,
+      "explanation": "Watch for them near shore.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q09",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "An old, uncorrected chart:",
+      "options": [
+        "Needs no corrections",
+        "Is better than a new one",
+        "Is always fine",
+        "Can be dangerous and should be updated"
+      ],
+      "correct_index": 3,
+      "explanation": "Use the latest edition and corrections.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.charts.reading-and-plotting.q10",
+      "lesson_id": "svop.charts.reading-and-plotting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Two bearings plotted from known objects:",
+      "options": [
+        "Give your speed",
+        "Cross at your position",
+        "Find the wind",
+        "Show the tide"
+      ],
+      "correct_index": 1,
+      "explanation": "This is a position fix.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

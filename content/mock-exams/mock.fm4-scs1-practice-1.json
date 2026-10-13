@@ -1,0 +1,20 @@
+{
+  "id": "mock.fm4-scs1-practice-1",
+  "title": "FM4 Ship Construction and Stability (SCS 1) practice exam 1",
+  "ticket": "fishing-master-4",
+  "question_count": 30,
+  "time_limit_minutes": 90,
+  "pass_mark_percent": 70,
+  "blueprint": [
+    {
+      "module": "fm4-stability-construction",
+      "count": 30
+    }
+  ],
+  "notes": "Practice format, not the official exam. Question count and pass mark are not stated in TP 2293 (2016) for this exam; 70 per cent is our own placeholder and must be confirmed with Transport Canada. The time limit is scaled from the stated exam duration and is our own assumption. The mock-exam schema only names modules, so the blueprint is a single module entry. The exact question ids planned for each exam are in docs/fm4-mock-draw.json, split so that exams of the same subject share no question. Until the app can pin question ids, a random draw from the module bank will not guarantee that split. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
+  "source_ids": [
+    "tp2293-2016",
+    "mpr-sor-2007-115"
+  ],
+  "review_status": "needs_expert_review"
+}

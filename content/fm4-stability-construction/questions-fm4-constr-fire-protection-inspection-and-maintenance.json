@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q01",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A quick-closing valve on a fuel tank is used to:",
+      "options": [
+        "Heat the fuel",
+        "Sample fuel",
+        "Fill the tank",
+        "Shut off fuel in a fire, often from outside the machinery space"
+      ],
+      "correct_index": 3,
+      "explanation": "It stops fuel feeding the fire.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q02",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A fire damper:",
+      "options": [
+        "Closes ventilation to cut off air to a space",
+        "Opens the hatch",
+        "Pumps water",
+        "Cools the engine"
+      ],
+      "correct_index": 0,
+      "explanation": "Part of fire protection.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q03",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Before a fixed gas extinguishing system is released:",
+      "options": [
+        "Add oxygen",
+        "Open all hatches",
+        "People must leave and the space must be closed",
+        "Start the engine"
+      ],
+      "correct_index": 2,
+      "explanation": "The gas is dangerous.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q04",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Sacrificial anodes protect a metal hull by:",
+      "options": [
+        "Painting it",
+        "Stretching it",
+        "Heating it",
+        "Corroding instead of the hull"
+      ],
+      "correct_index": 3,
+      "explanation": "Replace them when wasted.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q05",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Anodes should:",
+      "options": [
+        "Be painted over",
+        "Be hidden",
+        "Not be painted over",
+        "Be removed"
+      ],
+      "correct_index": 2,
+      "explanation": "Painting stops them working.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q06",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "An annual self-inspection is done by:",
+      "options": [
+        "The supplier",
+        "Only Transport Canada",
+        "The owner or master",
+        "A stranger"
+      ],
+      "correct_index": 2,
+      "explanation": "One of the types of inspection.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q07",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Which is a type of Transport Canada inspection?",
+      "options": [
+        "Fuel price inspection",
+        "Weekly tide inspection",
+        "Lunar inspection",
+        "Random inspection"
+      ],
+      "correct_index": 3,
+      "explanation": "Others include periodic and targeted.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q08",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Normal maintenance should include:",
+      "options": [
+        "Testing pumps, valves and alarms regularly",
+        "Ignoring alarms",
+        "Only painting",
+        "Only cleaning the galley"
+      ],
+      "correct_index": 0,
+      "explanation": "Keep records.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.fire-protection-inspection-and-maintenance.q09",
+      "lesson_id": "fm4.constr.fire-protection-inspection-and-maintenance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Keeping dissimilar metals electrically isolated helps:",
+      "options": [
+        "Lower fuel use",
+        "Increase speed",
+        "Improve stability",
+        "Prevent galvanic corrosion"
+      ],
+      "correct_index": 3,
+      "explanation": "Particularly aluminium and steel.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

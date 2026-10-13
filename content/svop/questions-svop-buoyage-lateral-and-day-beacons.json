@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q01",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Returning from sea, you should keep red buoys:",
+      "options": [
+        "On your right (starboard)",
+        "On your left (port)",
+        "Dead ahead",
+        "Astern"
+      ],
+      "correct_index": 0,
+      "explanation": "Red, right, returning.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q02",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Returning from sea, you keep green buoys:",
+      "options": [
+        "On your right (starboard)",
+        "Astern",
+        "On your left (port)",
+        "In front"
+      ],
+      "correct_index": 2,
+      "explanation": "Green to port.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q03",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A green lateral buoy is normally:",
+      "options": [
+        "Spherical",
+        "Conical with an even number",
+        "Striped",
+        "Flat-topped (can) with an odd number"
+      ],
+      "correct_index": 3,
+      "explanation": "Red buoys are conical.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q04",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A red lateral buoy normally has:",
+      "options": [
+        "An even number and a red light",
+        "No light",
+        "A green light",
+        "An odd number"
+      ],
+      "correct_index": 0,
+      "explanation": "Red is even.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q05",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A red and white vertically striped buoy marks:",
+      "options": [
+        "A restricted area",
+        "Mid-channel or safe water",
+        "A rock",
+        "A cable"
+      ],
+      "correct_index": 1,
+      "explanation": "You can pass either side.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q06",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A day beacon with a red triangle:",
+      "options": [
+        "Marks a wreck",
+        "Marks the starboard side going upstream",
+        "Marks a diver",
+        "Marks the port side"
+      ],
+      "correct_index": 1,
+      "explanation": "Green squares mark the port side.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q07",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "Going out to sea, red buoys are kept:",
+      "options": [
+        "Behind you",
+        "On your right (starboard)",
+        "On your bow",
+        "On your left (port)"
+      ],
+      "correct_index": 3,
+      "explanation": "The rule reverses.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q08",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Buoys can be:",
+      "options": [
+        "Never off station",
+        "Off station due to drift or damage",
+        "Always perfect",
+        "Immovable"
+      ],
+      "correct_index": 1,
+      "explanation": "Don't rely on a buoy alone.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.lateral-and-day-beacons.q09",
+      "lesson_id": "svop.buoyage.lateral-and-day-beacons",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Numbers on lateral buoys:",
+      "options": [
+        "Are random",
+        "Are always zero",
+        "Increase as you go upstream",
+        "Decrease upstream"
+      ],
+      "correct_index": 2,
+      "explanation": "They help you match the chart.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
