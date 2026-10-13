@@ -36,6 +36,20 @@
       "description": "Short, self-contained facts a candidate could be asked on a written exam or oral: numbers, definitions, rule requirements, sequences. Shown to the learner as an 'Exam focus' card. Each fact must be supported by the lesson's source_ids."
     },
     "source_ids": { "$ref": "common.schema.json#/$defs/sourceIds" },
+    "figures": {
+      "type": "array",
+      "description": "Pictures the learner can open from inside the lesson. Each one has a source drawing content/figures/<id>.svg and a rendered content/figures/<id>.png, and is placed in the body with a line {{figure:<id>}}.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "File name stem, unique across all lessons." },
+          "caption": { "type": "string", "minLength": 3, "maxLength": 80, "description": "Short label shown on the Show picture button." },
+          "alt": { "type": "string", "minLength": 20, "maxLength": 500, "description": "What the picture shows, in plain sentences. Read by TalkBack and read aloud, so it must carry the point of the picture." }
+        },
+        "required": ["id", "caption", "alt"],
+        "additionalProperties": false
+      }
+    },
     "audio": {
       "type": "object",
       "description": "Reserved for the text-to-speech lane. Not used in the first release.",
