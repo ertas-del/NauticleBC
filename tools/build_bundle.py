@@ -8,10 +8,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import shutil
 import sys
 from pathlib import Path
 
-from nbc_content import ROOT, load_content
+from nbc_content import FIGURE_DIR, ROOT, load_content
 
 DEFAULT_OUT = ROOT / "app" / "src" / "main" / "assets" / "content" / "bundle.json"
 
@@ -41,6 +42,14 @@ def main() -> int:
         "mock_exams": [strip_path(x) for x in sorted(content.mock_exams, key=lambda x: x["id"])],
     }
     args.out.parent.mkdir(parents=True, exist_ok=True)
+    # Figures: the app shows the rendered PNGs; the SVG sources stay in the repo.
+    fig_out = args.out.parent / "figures"
+    shutil.rmtree(fig_out, ignore_errors=True)
+    used = [f["id"] for les in bundle["lessons"] for f in les.get("figures", [])]
+    if used:
+        fig_out.mkdir(parents=True, exist_ok=True)
+        for fid in used:
+            shutil.copyfile(FIGURE_DIR / f"{fid}.png", fig_out / f"{fid}.png")
     args.out.write_text(json.dumps(bundle, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"wrote {args.out}: {len(bundle['lessons'])} lessons, {len(bundle['questions'])} questions")
     return 0

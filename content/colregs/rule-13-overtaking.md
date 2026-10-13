@@ -21,6 +21,10 @@ key_facts:
   - A later change of bearing does not turn the overtaking vessel into a crossing vessel; her duty lasts until she is finally past and clear.
   - Rule 13 applies to all vessels, so a sailing vessel or a fishing vessel that is overtaking must keep clear of a power-driven vessel.
   - Canada adds Rule 13(e) for the Great Lakes Basin only; it does not apply on the BC coast.
+figures:
+  - id: overtaking-situation
+    caption: "Overtaking sector"
+    alt: "A shaded sector behind a vessel, starting more than 22.5 degrees abaft her beam on either side. A vessel coming up from inside this sector is overtaking and keeps clear, passing on either side of the vessel ahead."
 source_ids: [colregs-canada, colregs-steering-crc1416-pdf-2026, colregs-steering-crc1416-2008-copy]
 review_status: needs_expert_review
 ---
@@ -52,6 +56,8 @@ her sidelights. The arcs line up:
 
 112.5 + 112.5 + 135 = 360, so every direction sees either a sidelight or the sternlight. The boundary between
 "crossing" and "overtaking" is the same line where her sidelight disappears and her sternlight appears.
+
+{{figure:overtaking-situation}}
 
 ## Doubt, and a changing bearing
 

@@ -20,6 +20,10 @@ key_facts:
   - Usual give-way actions are a substantial alteration to starboard to pass astern, or slowing or stopping.
   - Canadian Rule 15(b) - in Canadian waters a vessel crossing a river keeps out of the way of a power-driven vessel ascending or descending the river.
   - Rule 15(b) does not apply on the St. Lawrence River seaward of Ile Rouge.
+figures:
+  - id: crossing-situation
+    caption: "Crossing: who gives way"
+    alt: "One vessel heads north and sees another vessel crossing from her starboard side, heading west. The give-way vessel turns to starboard and passes astern of the other. The stand-on vessel keeps her course and speed."
 source_ids: [colregs-canada, colregs-steering-crc1416-pdf-2026, colregs-steering-crc1416-2008-copy]
 review_status: needs_expert_review
 ---
@@ -55,6 +59,8 @@ plan.
 **At night.** If you see the other vessel's ==red sidelight== on your starboard side, she has you on her port side:
 you are the give-way vessel. If you see her green sidelight on your port side, she has you on her starboard side:
 you are normally the stand-on vessel. Old memory aid: "if to starboard red appear, 'tis your duty to keep clear."
+
+{{figure:crossing-situation}}
 
 ## Canadian modification: crossing a river
 

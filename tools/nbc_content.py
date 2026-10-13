@@ -86,7 +86,31 @@ def _check_quotes(body: str, where: str, report: Report) -> None:
         quote_lines = []
 
 
+FIGURE_DIR = CONTENT_DIR / "figures"
+FIGURE_REF_RE = re.compile(r"^\{\{figure:([a-z0-9-]+)\}\}$", re.MULTILINE)
+_seen_figures: dict[str, str] = {}
+
+
+def _check_figures(meta: dict, body: str, where: str, report: Report) -> None:
+    """Each declared figure needs an .svg and .png, a unique id and exactly one {{figure:id}} line in the body."""
+    declared = [f["id"] for f in meta.get("figures", [])]
+    used = FIGURE_REF_RE.findall(body)
+    for fid in declared:
+        if fid in _seen_figures:
+            report.error(where, f"figure id {fid} also used in {_seen_figures[fid]}")
+        _seen_figures[fid] = where
+        for ext in ("svg", "png"):
+            if not (FIGURE_DIR / f"{fid}.{ext}").is_file():
+                report.error(where, f"figure {fid}: missing content/figures/{fid}.{ext}")
+        if used.count(fid) != 1:
+            report.error(where, f"figure {fid}: needs exactly one {{{{figure:{fid}}}}} line in the body (found {used.count(fid)})")
+    for fid in used:
+        if fid not in declared:
+            report.error(where, f"body places figure {fid} that is not listed in frontmatter figures")
+
+
 def load_content() -> Content:
+    _seen_figures.clear()
     c = Content()
     r = c.report
     registry = _registry()
@@ -133,6 +157,7 @@ def load_content() -> Content:
         if "key_facts" not in meta:
             r.warn(where, f"{meta['id']}: no key_facts (list the facts a candidate could be tested on)")
         _check_quotes(body, where, r)
+        _check_figures(meta, body, where, r)
         folder = path.relative_to(CONTENT_DIR).parts[0]
         if folder in modules and meta["module"] != folder:
             r.error(where, f"module '{meta['module']}' does not match folder '{folder}'")

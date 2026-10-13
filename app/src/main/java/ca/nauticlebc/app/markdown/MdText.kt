@@ -100,6 +100,7 @@ object MdText {
         title: String,
         keyFacts: List<String>,
         blocks: List<MdBlock>,
+        figures: List<ca.nauticlebc.app.content.Figure> = emptyList(),
         maxLength: Int = 3500,
     ): List<SpeechItem> {
         val items = mutableListOf<SpeechItem>()
@@ -140,6 +141,9 @@ object MdText {
                     add(text.trimEnd('.') + ".", 1000)
                 }
                 is MdBlock.Code -> add("There is a small diagram here. Look at it on the screen.", 1500)
+                is MdBlock.Figure -> figures.firstOrNull { it.id == block.id }?.let {
+                    add("Picture: " + speakable(it.caption).trimEnd('.') + ". " + speakable(it.alt).trimEnd('.') + ".", 1500)
+                }
                 MdBlock.Rule -> {}
             }
         }

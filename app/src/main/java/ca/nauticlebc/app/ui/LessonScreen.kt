@@ -106,7 +106,7 @@ fun LessonScreen(
                 onChange = { reading = it; store.save(it) },
                 onToggleSpeech = {
                     if (readAloud.speaking) readAloud.stop()
-                    else readAloud.speak(MdText.speechItems(lesson.title, lesson.keyFacts, blocks), reading.speechRate)
+                    else readAloud.speak(MdText.speechItems(lesson.title, lesson.keyFacts, blocks, lesson.figures), reading.speechRate)
                 },
             )
             Text(
@@ -140,7 +140,7 @@ fun LessonScreen(
 
             HorizontalDivider()
 
-            MarkdownView(blocks)
+            MarkdownView(blocks, figures = lesson.figures)
 
             HorizontalDivider()
 
