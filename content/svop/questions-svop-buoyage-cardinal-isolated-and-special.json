@@ -1,0 +1,225 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q01",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Cardinal marks are coloured:",
+      "options": [
+        "Red and green",
+        "Black and yellow",
+        "Red and white",
+        "Blue and white"
+      ],
+      "correct_index": 1,
+      "explanation": "Their topmarks are black cones.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q02",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "You should pass a north cardinal mark on its:",
+      "options": [
+        "North side",
+        "South side",
+        "East side",
+        "West side"
+      ],
+      "correct_index": 0,
+      "explanation": "Safe water lies to the north.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q03",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "You should pass a south cardinal mark on its:",
+      "options": [
+        "South side",
+        "North side",
+        "West side",
+        "East side"
+      ],
+      "correct_index": 0,
+      "explanation": "Safe water lies to the south.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q04",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "An isolated danger mark is:",
+      "options": [
+        "Yellow",
+        "Black with a red band and two black balls",
+        "Green",
+        "Red and white"
+      ],
+      "correct_index": 1,
+      "explanation": "Pass well clear.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q05",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A red and white vertically striped buoy means:",
+      "options": [
+        "Safe water all around",
+        "A diver",
+        "A rock",
+        "A cable"
+      ],
+      "correct_index": 0,
+      "explanation": "Often a fairway mark.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q06",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Yellow buoys generally mark:",
+      "options": [
+        "Rocks only",
+        "Special areas such as cables or anchorages",
+        "Fishing nets only",
+        "Channels"
+      ],
+      "correct_index": 1,
+      "explanation": "Check the chart.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q07",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A boat with divers in the water displays:",
+      "options": [
+        "A cone",
+        "Flag Alpha",
+        "A red light",
+        "Flag Bravo"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep well clear.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q08",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A float marking divers shows:",
+      "options": [
+        "A green flag",
+        "A black ball",
+        "A red flag with a white diagonal stripe",
+        "Yellow smoke"
+      ],
+      "correct_index": 2,
+      "explanation": "Slow down and keep clear.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q09",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A mark with two cones pointing down is the:",
+      "options": [
+        "North cardinal mark",
+        "West cardinal mark",
+        "South cardinal mark",
+        "East cardinal mark"
+      ],
+      "correct_index": 2,
+      "explanation": "North is pointing up.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.buoyage.cardinal-isolated-and-special.q10",
+      "lesson_id": "svop.buoyage.cardinal-isolated-and-special",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "A mark with horizontal red and green bands marks:",
+      "options": [
+        "A safe-water mark",
+        "A diver",
+        "A wreck",
+        "A channel junction (bifurcation)"
+      ],
+      "correct_index": 3,
+      "explanation": "Check the chart for the preferred channel.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

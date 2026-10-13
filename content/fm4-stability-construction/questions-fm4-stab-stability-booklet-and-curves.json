@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q01",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "TPC stands for:",
+      "options": [
+        "Tide per current",
+        "Tonnes per crew",
+        "Trim per cargo",
+        "Tonnes per centimetre immersion"
+      ],
+      "correct_index": 3,
+      "explanation": "The weight needed to sink the vessel 1 cm.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q02",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "TPC 0.95 t/cm and a load of 10 t gives sinkage of about:",
+      "options": [
+        "95 cm",
+        "10.5 cm",
+        "0.095 cm",
+        "9.5 cm"
+      ],
+      "correct_index": 1,
+      "explanation": "10 ÷ 0.95.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q03",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Maximum fish load is found by subtracting from load displacement:",
+      "options": [
+        "Nothing",
+        "Lightship, fuel, water, crew and stores",
+        "Only fuel",
+        "Only the crew"
+      ],
+      "correct_index": 1,
+      "explanation": "Then check stability.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q04",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Load displacement 120 t, lightship 70 t, fuel 15 t, water 3 t, crew and stores 6 t. Maximum fish is:",
+      "options": [
+        "50 t",
+        "26 t",
+        "24 t",
+        "46 t"
+      ],
+      "correct_index": 1,
+      "explanation": "120 − 70 − 15 − 3 − 6.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q05",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The initial slope of the GZ curve shows:",
+      "options": [
+        "TPC",
+        "Draft",
+        "GM",
+        "Freeboard"
+      ],
+      "correct_index": 2,
+      "explanation": "Steeper slope means larger GM.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q06",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The range of stability is:",
+      "options": [
+        "The draft",
+        "The tide range",
+        "The length",
+        "From upright to the angle where GZ becomes zero"
+      ],
+      "correct_index": 3,
+      "explanation": "Also called the angle of vanishing stability.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q07",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "The area under the GZ curve represents:",
+      "options": [
+        "The tide",
+        "The draft",
+        "The energy needed to heel the vessel",
+        "Fuel use"
+      ],
+      "correct_index": 2,
+      "explanation": "Booklets set minimum areas.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q08",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "If your loading is not covered by a pre-calculated condition you should:",
+      "options": [
+        "Sail and see",
+        "Recalculate or change the loading before sailing",
+        "Ignore the booklet",
+        "Add deck cargo"
+      ],
+      "correct_index": 1,
+      "explanation": "Don't sail to find out.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.stab.stability-booklet-and-curves.q09",
+      "lesson_id": "fm4.stab.stability-booklet-and-curves",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Righting moment at 30° with GZ 0.25 m and Δ 80 t is:",
+      "options": [
+        "320 t·m",
+        "0.003 t·m",
+        "20 t·m",
+        "80 t·m"
+      ],
+      "correct_index": 2,
+      "explanation": "80 × 0.25.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

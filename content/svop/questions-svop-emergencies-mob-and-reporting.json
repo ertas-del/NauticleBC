@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.emergencies.mob-and-reporting.q01",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The first action when someone falls overboard is:",
+      "options": [
+        "Switch off the radio",
+        "Shout, point and throw a flotation device",
+        "Anchor",
+        "Go full speed ahead"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep eyes on the person.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q02",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A person assigned to point at someone in the water should:",
+      "options": [
+        "Fetch coffee",
+        "Help drive the boat",
+        "Do nothing else but keep watching them",
+        "Look away"
+      ],
+      "correct_index": 2,
+      "explanation": "Don't lose sight.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q03",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "When approaching a person in the water, you should arrange to have them:",
+      "options": [
+        "On the leeward side",
+        "On the windward side",
+        "Behind the propeller",
+        "In the wake"
+      ],
+      "correct_index": 1,
+      "explanation": "The boat then drifts toward them.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q04",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "When close to a person in the water, the engine should be:",
+      "options": [
+        "In full ahead",
+        "In neutral or off",
+        "In full astern",
+        "Racing"
+      ],
+      "correct_index": 1,
+      "explanation": "Protect them from the propeller.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q05",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The GPS man-overboard button:",
+      "options": [
+        "Starts the engine",
+        "Anchors the boat",
+        "Sends a text",
+        "Marks the position"
+      ],
+      "correct_index": 3,
+      "explanation": "Mark it immediately.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q06",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "The danger of cold water in the first minutes is:",
+      "options": [
+        "Cold shock",
+        "Seasickness",
+        "Dehydration",
+        "Sunburn"
+      ],
+      "correct_index": 0,
+      "explanation": "Gasping and panic.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q07",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "You should enter the water to rescue someone:",
+      "options": [
+        "Without telling anyone",
+        "Only as a last resort and in a lifejacket",
+        "Without any gear",
+        "As a first choice"
+      ],
+      "correct_index": 1,
+      "explanation": "Don't create a second casualty.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q08",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "The master's report of a serious marine occurrence normally includes:",
+      "options": [
+        "Only a bill",
+        "No report",
+        "Only a text message",
+        "An initial report then a follow-up"
+      ],
+      "correct_index": 3,
+      "explanation": "Check the rules for your vessel.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.mob-and-reporting.q09",
+      "lesson_id": "svop.emergencies.mob-and-reporting",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "To help prevent falls overboard you should:",
+      "options": [
+        "Wear a lifejacket and keep decks clear and non-slip",
+        "Stand on the bow in waves",
+        "Run on deck",
+        "Walk on the gunwale"
+      ],
+      "correct_index": 0,
+      "explanation": "Prevention is better than recovery.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "module": "fm4-navigation-safety",
+  "questions": [
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q01",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel engaged in fishing means a vessel using:",
+      "options": [
+        "Only trolling lines",
+        "Gear that restricts manoeuvrability",
+        "Any fishing gear",
+        "Only nets"
+      ],
+      "correct_index": 1,
+      "explanation": "Trolling lines that do not restrict are excluded.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q02",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel trolling with lines that do not restrict manoeuvrability is:",
+      "options": [
+        "Not engaged in fishing under the rules",
+        "Not under command",
+        "Restricted in ability to manoeuvre",
+        "Engaged in fishing"
+      ],
+      "correct_index": 0,
+      "explanation": "It is a power-driven vessel.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q03",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel must keep out of the way of:",
+      "options": [
+        "A tug only",
+        "A vessel at anchor in a channel only",
+        "A vessel engaged in fishing",
+        "A larger power vessel"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 18.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q04",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel engaged in fishing must keep out of the way of:",
+      "options": [
+        "A power-driven vessel",
+        "A pleasure boat",
+        "A sailing vessel",
+        "A vessel not under command"
+      ],
+      "correct_index": 3,
+      "explanation": "As far as possible.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q05",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "In a narrow channel, a fishing vessel must:",
+      "options": [
+        "Anchor in the fairway",
+        "Always have priority",
+        "Stop all vessels",
+        "Not impede the passage of other vessels using the channel"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 9.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q06",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "In a traffic separation scheme a fishing vessel:",
+      "options": [
+        "May stop in a lane at will",
+        "Must always leave the scheme",
+        "Must not impede vessels following a lane",
+        "Has absolute priority"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 10.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q07",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Two vessels engaged in fishing meeting head-on:",
+      "options": [
+        "Both reverse",
+        "Neither moves",
+        "The larger has priority",
+        "Each alters to starboard"
+      ],
+      "correct_index": 3,
+      "explanation": "Neither has priority under Rule 18.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q08",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "The fog signal for a vessel engaged in fishing underway is:",
+      "options": [
+        "Continuous bell",
+        "One short blast",
+        "Two prolonged blasts",
+        "One prolonged and two short blasts"
+      ],
+      "correct_index": 3,
+      "explanation": "At intervals of not more than two minutes.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q09",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A fishing vessel working gear must still:",
+      "options": [
+        "Sound five short blasts constantly",
+        "Switch off radar",
+        "Keep a proper look-out",
+        "Ignore other vessels"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 5 applies.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.fishing-vessels-and-priorities.q10",
+      "lesson_id": "fm4.colregs.fishing-vessels-and-priorities",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Gear on the sea bed or outlying gear:",
+      "options": [
+        "Is always lit",
+        "Gives automatic right of way",
+        "Never matters",
+        "Can restrict manoeuvring and must be considered"
+      ],
+      "correct_index": 3,
+      "explanation": "It affects both safety and signals.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

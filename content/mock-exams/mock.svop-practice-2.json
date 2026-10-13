@@ -1,0 +1,20 @@
+{
+  "id": "mock.svop-practice-2",
+  "title": "SVOP practice exam 2",
+  "ticket": "svop",
+  "question_count": 50,
+  "time_limit_minutes": 60,
+  "pass_mark_percent": 70,
+  "blueprint": [
+    {
+      "module": "svop",
+      "count": 50
+    }
+  ],
+  "notes": "Practice format, not the official exam. Shape: 50 multiple-choice questions with a 70 per cent pass mark follows TP 14692 (2007, TC web version) as read directly. TP 14692 does not state the written exam's time limit, so the 60 minute limit is our own assumption. Course content is a 26 hour approved course, so this study aid does not replace it. The mock-exam schema only names modules, so the blueprint is a single svop entry. The planned question ids per exam, weighted by course hours and split so that practice 1 and practice 2 share no question, are in docs/svop-mock-draw.json. Until the app can pin question ids, a random draw from the svop bank will not guarantee that weighting or split. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
+  "source_ids": [
+    "tp14692",
+    "tc-svop"
+  ],
+  "review_status": "needs_expert_review"
+}

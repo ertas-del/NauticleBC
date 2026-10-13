@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.pollution-and-compliance.q01",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "When fuelling you should:",
+      "options": [
+        "Use drip trays and fill slowly",
+        "Overfill",
+        "Leave the nozzle unattended",
+        "Smoke"
+      ],
+      "correct_index": 0,
+      "explanation": "Stop before full.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q02",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A pollution incident must be reported:",
+      "options": [
+        "Next week",
+        "Never",
+        "Only if large",
+        "Immediately to the Coast Guard"
+      ],
+      "correct_index": 3,
+      "explanation": "Give position, type and amount.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q03",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Plastic should:",
+      "options": [
+        "Be burned at sea",
+        "Never be thrown overboard",
+        "Be thrown overboard at night",
+        "Be left on deck"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep it for shore disposal.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q04",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Oily bilge water should normally be:",
+      "options": [
+        "Mixed with seawater",
+        "Pumped over the side",
+        "Poured in the harbour",
+        "Kept on board and disposed of ashore"
+      ],
+      "correct_index": 3,
+      "explanation": "Unless the legal conditions are met.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q05",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "If you find a slick at sea you should:",
+      "options": [
+        "Note the position and report it",
+        "Add detergent",
+        "Ignore it",
+        "Drive through it"
+      ],
+      "correct_index": 0,
+      "explanation": "The Coast Guard coordinates the response.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q06",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A spill kit is used to:",
+      "options": [
+        "Contain and clean up small spills",
+        "Cool the engine",
+        "Light the way",
+        "Fix the engine"
+      ],
+      "correct_index": 0,
+      "explanation": "Keep it handy.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q07",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Dispersants should be used:",
+      "options": [
+        "Only when authorised",
+        "On every spill",
+        "Never ever",
+        "Always"
+      ],
+      "correct_index": 0,
+      "explanation": "They can add harm.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.pollution-and-compliance.q08",
+      "lesson_id": "fm4.oral.pollution-and-compliance",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Lost fishing gear is:",
+      "options": [
+        "Always legal",
+        "Harmless",
+        "A form of pollution to be prevented and reported where required",
+        "Good for the sea"
+      ],
+      "correct_index": 2,
+      "explanation": "Take care of gear.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

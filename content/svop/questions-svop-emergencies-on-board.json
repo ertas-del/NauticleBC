@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.emergencies.on-board.q01",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "In any emergency your first priority is:",
+      "options": [
+        "Saving the boat",
+        "Finding the cause",
+        "Protecting life",
+        "Saving cargo"
+      ],
+      "correct_index": 2,
+      "explanation": "Lifejackets on, count heads.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q02",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "After a grounding on a falling tide you should:",
+      "options": [
+        "Ignore the tide",
+        "Be aware you may be stuck until the tide rises",
+        "Open the sea valves",
+        "Speed off"
+      ],
+      "correct_index": 1,
+      "explanation": "Check the tide before acting.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q03",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "After a grounding, before trying to refloat you should:",
+      "options": [
+        "Switch off the radio",
+        "Check for damage and flooding",
+        "Immediately go full astern",
+        "Fill the tanks"
+      ],
+      "correct_index": 1,
+      "explanation": "Power can pull out a plug.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q04",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "hard",
+      "stem": "If the other vessel's bow is plugging a hole in your hull after a collision, you should:",
+      "options": [
+        "Open the throttle",
+        "Push it away at once",
+        "Keep it there until you can assess the damage",
+        "Abandon ship"
+      ],
+      "correct_index": 2,
+      "explanation": "It may be keeping you afloat.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q05",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "In a boat fire you should if possible:",
+      "options": [
+        "Add fuel",
+        "Turn so the fire is downwind and shut off fuel",
+        "Turn so the fire is upwind",
+        "Open the windows"
+      ],
+      "correct_index": 1,
+      "explanation": "Smoke and flames then blow away from you.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q06",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "An extinguisher is aimed at:",
+      "options": [
+        "The top of the flames",
+        "The smoke",
+        "The ceiling",
+        "The base of the flames"
+      ],
+      "correct_index": 3,
+      "explanation": "PASS: pull, aim at base, squeeze, sweep.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q07",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A Mayday is sent when:",
+      "options": [
+        "You want a tow in good weather",
+        "There is grave and imminent danger",
+        "You are late",
+        "You are lost"
+      ],
+      "correct_index": 1,
+      "explanation": "Use Pan-Pan for urgent but not life-threatening.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q08",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "To control flooding you should first:",
+      "options": [
+        "Find and stop the source and start pumps",
+        "Open more valves",
+        "Keep going at full speed",
+        "Ignore it"
+      ],
+      "correct_index": 0,
+      "explanation": "Plug, patch, pump.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.emergencies.on-board.q09",
+      "lesson_id": "svop.emergencies.on-board",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Which should be done early in an emergency?",
+      "options": [
+        "Remove lifejackets",
+        "Put lifejackets on everyone",
+        "Hide the flares",
+        "Wait for the situation to worsen"
+      ],
+      "correct_index": 1,
+      "explanation": "Do it before you need it.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

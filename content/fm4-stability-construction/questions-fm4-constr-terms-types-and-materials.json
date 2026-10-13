@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.constr.terms-types-and-materials.q01",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Gross tonnage is a measure of:",
+      "options": [
+        "Its draft",
+        "Its speed",
+        "The vessel's internal volume",
+        "Its weight"
+      ],
+      "correct_index": 2,
+      "explanation": "It is not weight.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q02",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Net tonnage measures:",
+      "options": [
+        "The hull weight",
+        "The crew",
+        "The engine size",
+        "The cargo-carrying spaces"
+      ],
+      "correct_index": 3,
+      "explanation": "Such as fish holds.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q03",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Weathertight means:",
+      "options": [
+        "Water will not penetrate in any sea conditions",
+        "The vessel is soundproof",
+        "The vessel is airtight",
+        "Water can enter freely"
+      ],
+      "correct_index": 0,
+      "explanation": "Watertight resists water under a head.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q04",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Watertight means:",
+      "options": [
+        "Able to float",
+        "Able to prevent water passing in any direction under the head of water likely to occur",
+        "Able to keep out rain only",
+        "Able to withstand fire"
+      ],
+      "correct_index": 1,
+      "explanation": "As with a watertight bulkhead.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q05",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Length overall is measured:",
+      "options": [
+        "From mast to mast",
+        "From the forward end to the aft end",
+        "Only at the waterline",
+        "Along the keel only"
+      ],
+      "correct_index": 1,
+      "explanation": "The extreme length.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q06",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "The baseline from which heights are measured is usually:",
+      "options": [
+        "The deck",
+        "The keel line",
+        "The waterline",
+        "The mast"
+      ],
+      "correct_index": 1,
+      "explanation": "KG and KM are measured from it.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q07",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A steel hull needs protection against corrosion by:",
+      "options": [
+        "More paint on the deck only",
+        "Coatings and anodes",
+        "Removing the keel",
+        "Open hatches"
+      ],
+      "correct_index": 1,
+      "explanation": "Cathodic protection.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q08",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Aluminium joined to steel in sea water risks:",
+      "options": [
+        "Galvanic corrosion",
+        "Fire",
+        "Better stability",
+        "Higher speed"
+      ],
+      "correct_index": 0,
+      "explanation": "Isolate the metals.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.terms-types-and-materials.q09",
+      "lesson_id": "fm4.constr.terms-types-and-materials",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A seine vessel is one that:",
+      "options": [
+        "Uses only lines",
+        "Uses a net set around fish",
+        "Uses only traps",
+        "Uses no gear"
+      ],
+      "correct_index": 1,
+      "explanation": "A purse seiner is a type.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

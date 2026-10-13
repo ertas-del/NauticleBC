@@ -1,0 +1,203 @@
+{
+  "module": "fm4-stability-construction",
+  "questions": [
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q01",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Freeing ports are used to:",
+      "options": [
+        "Cool the engine",
+        "Let water escape from the deck",
+        "Ventilate the hold",
+        "Let water in"
+      ],
+      "correct_index": 1,
+      "explanation": "They must be kept clear.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q02",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Freeing ports should be:",
+      "options": [
+        "Kept clear and not blocked or locked shut",
+        "Welded shut",
+        "Closed in rough seas",
+        "Covered in fish"
+      ],
+      "correct_index": 0,
+      "explanation": "Outward-opening flaps only.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q03",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The collision bulkhead is:",
+      "options": [
+        "The engine room floor",
+        "The aft bulkhead",
+        "The forward watertight bulkhead",
+        "The deck beam"
+      ],
+      "correct_index": 2,
+      "explanation": "It limits flooding after a bow collision.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q04",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A bilge water level alarm gives:",
+      "options": [
+        "Fish counts",
+        "Engine speed",
+        "Weather forecasts",
+        "Early warning of flooding"
+      ],
+      "correct_index": 3,
+      "explanation": "Test regularly.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q05",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A damaged through-hull fitting should be treated by:",
+      "options": [
+        "Ignoring it",
+        "Closing the seacock or plugging it",
+        "Adding weight",
+        "Opening more valves"
+      ],
+      "correct_index": 1,
+      "explanation": "Stop the inflow.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q06",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A chafed hose should be:",
+      "options": [
+        "Painted",
+        "Taped only",
+        "Left alone",
+        "Replaced or clamped, with the seacock closed"
+      ],
+      "correct_index": 3,
+      "explanation": "Then restore.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q07",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A leaking stern gland should be:",
+      "options": [
+        "Removed",
+        "Painted",
+        "Tightened or repacked",
+        "Left"
+      ],
+      "correct_index": 2,
+      "explanation": "A slight drip may be normal on packing.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q08",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A large breach is best helped by:",
+      "options": [
+        "Anchoring in a channel",
+        "Opening hatches",
+        "A collision mat, slowing the vessel, and pumping",
+        "Speeding up"
+      ],
+      "correct_index": 2,
+      "explanation": "Call for help early.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.constr.hull-integrity-and-damage-control.q09",
+      "lesson_id": "fm4.constr.hull-integrity-and-damage-control",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Ventilators and air pipes are fitted with:",
+      "options": [
+        "Fish nets",
+        "Closing appliances to keep water out",
+        "Paint only",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "explanation": "They are possible downflooding points.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

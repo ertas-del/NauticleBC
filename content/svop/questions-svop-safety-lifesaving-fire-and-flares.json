@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q01",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A lifejacket is designed to:",
+      "options": [
+        "Keep you warm",
+        "Turn an unconscious person face up",
+        "Protect you from fire",
+        "Make you sink"
+      ],
+      "correct_index": 1,
+      "explanation": "A PFD does not necessarily turn you over.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q02",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Lifejackets and PFDs should be:",
+      "options": [
+        "Never checked",
+        "Checked regularly and replaced if damaged",
+        "Stored wet",
+        "Hidden at the bottom of a locker"
+      ],
+      "correct_index": 1,
+      "explanation": "Check fabric, buckles and fit.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q03",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Flares should be stored:",
+      "options": [
+        "In the bilge",
+        "Locked ashore",
+        "Dry and within easy reach",
+        "In the engine room"
+      ],
+      "correct_index": 2,
+      "explanation": "You need them quickly in an emergency.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q04",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Out-of-date flares should:",
+      "options": [
+        "Be thrown overboard",
+        "Be burned on the dock",
+        "Be disposed of properly, not fired off for fun",
+        "Be fired in a harbour"
+      ],
+      "correct_index": 2,
+      "explanation": "Use a marine supplier or approved collection point.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q05",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Flares should only be used:",
+      "options": [
+        "In distress or approved practice",
+        "For fun",
+        "To race",
+        "To attract a bar tab"
+      ],
+      "correct_index": 0,
+      "explanation": "Misuse is an offence.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q06",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A day signal that shows your position is:",
+      "options": [
+        "A green flare",
+        "Red parachute rocket",
+        "A white flag",
+        "Orange smoke"
+      ],
+      "correct_index": 3,
+      "explanation": "Orange smoke is visible in daylight.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q07",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Fire extinguishers should be checked:",
+      "options": [
+        "Once a decade",
+        "Regularly, for pin, seal, pressure and nozzle",
+        "Never",
+        "Only after a fire"
+      ],
+      "correct_index": 1,
+      "explanation": "Monthly checks are normal.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q08",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "When towing, the tow line should be attached to:",
+      "options": [
+        "A light cleat",
+        "A strong point",
+        "A railing",
+        "A fender"
+      ],
+      "correct_index": 1,
+      "explanation": "A weak point can pull out.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.safety.lifesaving-fire-and-flares.q09",
+      "lesson_id": "svop.safety.lifesaving-fire-and-flares",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "When towing, people should keep:",
+      "options": [
+        "Near the line",
+        "Clear of the line and the bight",
+        "Next to the line",
+        "Across the line"
+      ],
+      "correct_index": 1,
+      "explanation": "A parting line can kill.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

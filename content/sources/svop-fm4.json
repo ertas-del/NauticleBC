@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "id": "mpr-sor-2007-115",
+      "title": "Marine Personnel Regulations, SOR/2007-115",
+      "publisher": "Justice Canada",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2007-115/",
+      "edition": "consolidation current to 2024-10-30 (s. 142 read directly)",
+      "notes": "Same regulation as bw-mpr-sor-2007-115; kept as its own id because the FM4 and SVOP packs cite it."
+    },
+    {
+      "id": "tp14692",
+      "title": "TP 14692 SVOP syllabus and training standard",
+      "publisher": "Transport Canada",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "url": "https://tc.canada.ca/en/marine-transportation",
+      "notes": "Cited by the SVOP and chartwork card lessons as the syllabus basis. Added from the course packs: confirm title, edition and how much of it the authors read directly before expert review."
+    },
+    {
+      "id": "tc-svop",
+      "title": "Transport Canada Small Vessel Operator Proficiency (SVOP) page",
+      "publisher": "Transport Canada",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "url": "https://tc.canada.ca/en/marine-transportation",
+      "notes": "Cited by the SVOP lessons. Added from the course packs: confirm the exact page and date."
+    }
+  ]
+}

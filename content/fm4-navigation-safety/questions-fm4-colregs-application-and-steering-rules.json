@@ -1,0 +1,225 @@
+{
+  "module": "fm4-navigation-safety",
+  "questions": [
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q01",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Rule 5 requires a look-out by:",
+      "options": [
+        "Sight only",
+        "Sight, hearing and all available means",
+        "Radar only",
+        "The master only"
+      ],
+      "correct_index": 1,
+      "explanation": "A look-out is required at all times.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q02",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Risk of collision is deemed to exist if:",
+      "options": [
+        "The compass bearing of an approaching vessel does not appreciably change",
+        "The other vessel is larger",
+        "The radio is silent",
+        "The other vessel is slower"
+      ],
+      "correct_index": 0,
+      "explanation": "If in doubt, assume it exists.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q03",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Action to avoid collision should be:",
+      "options": [
+        "Small and late",
+        "Silent",
+        "Made only by the stand-on vessel",
+        "Positive, in ample time, and large enough to be readily apparent"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 8.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q04",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Two power-driven vessels meeting head-on should each:",
+      "options": [
+        "Alter to port",
+        "Sound five short blasts only",
+        "Stop",
+        "Alter course to starboard"
+      ],
+      "correct_index": 3,
+      "explanation": "They pass port to port.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q05",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "In a crossing situation the give-way vessel is the one that has the other:",
+      "options": [
+        "Dead astern",
+        "On her port side",
+        "At anchor",
+        "On her starboard side"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 15.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q06",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A vessel overtaking another is:",
+      "options": [
+        "The stand-on vessel",
+        "Required to stop",
+        "Always the larger one",
+        "The give-way vessel until finally past"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 13.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q07",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "In a narrow channel, which vessels must not impede one that can navigate only inside the channel?",
+      "options": [
+        "Vessels under 20 m, sailing vessels and fishing vessels",
+        "Only tugs",
+        "Only sailing vessels",
+        "Only vessels over 100 m"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 9.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q08",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "In a traffic separation scheme, crossing vessels should cross:",
+      "options": [
+        "Anywhere",
+        "As nearly as practicable at right angles to the general direction of traffic",
+        "At a shallow angle",
+        "Along the lane"
+      ],
+      "correct_index": 1,
+      "explanation": "Rule 10.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q09",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel keeps out of the way of, among others, a:",
+      "options": [
+        "Vessel engaged in fishing",
+        "Larger power vessel",
+        "Pilot boat only",
+        "Vessel going faster"
+      ],
+      "correct_index": 0,
+      "explanation": "Rule 18.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.application-and-steering-rules.q10",
+      "lesson_id": "fm4.colregs.application-and-steering-rules",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "In restricted visibility, when a target is detected by radar alone you should avoid:",
+      "options": [
+        "Slowing down",
+        "Altering to starboard",
+        "Altering to port for a vessel forward of the beam",
+        "Using a look-out"
+      ],
+      "correct_index": 2,
+      "explanation": "Rule 19, with the exception of overtaking.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

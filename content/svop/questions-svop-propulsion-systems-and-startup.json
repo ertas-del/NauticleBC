@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.propulsion.systems-and-startup.q01",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "An outboard motor is:",
+      "options": [
+        "A sail drive",
+        "A type of jet drive",
+        "An engine and propeller unit hung on the transom",
+        "An engine fixed inside the hull driving a shaft"
+      ],
+      "correct_index": 2,
+      "explanation": "It steers by turning the whole unit.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q02",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A jet drive vessel has:",
+      "options": [
+        "Steering that works best when stopped",
+        "A very long shaft",
+        "No propeller, and steering only works when water is flowing out",
+        "Two rudders"
+      ],
+      "correct_index": 2,
+      "explanation": "Without thrust there is no steering.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q03",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Before starting an inboard gasoline engine you should:",
+      "options": [
+        "Switch off the battery",
+        "Fill the bilge with water",
+        "Open the fuel valve fully",
+        "Run the bilge blower and check for fuel vapour"
+      ],
+      "correct_index": 3,
+      "explanation": "Vapour in the bilge can explode.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q04",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The kill-switch lanyard is attached to:",
+      "options": [
+        "The dock",
+        "The operator",
+        "The anchor",
+        "The fuel tank"
+      ],
+      "correct_index": 1,
+      "explanation": "If the operator falls away, the engine stops.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q05",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Low oil pressure on a running engine means you should:",
+      "options": [
+        "Reduce power and stop the engine promptly",
+        "Ignore it",
+        "Add coolant",
+        "Increase speed"
+      ],
+      "correct_index": 0,
+      "explanation": "An engine can be ruined in seconds without oil.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q06",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "After starting an outboard you should check that:",
+      "options": [
+        "The tide is rising",
+        "The radio is on",
+        "Cooling water is coming out",
+        "The anchor is down"
+      ],
+      "correct_index": 2,
+      "explanation": "No cooling water quickly overheats the engine.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q07",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Before applying the gear lever at start-up you should make sure it is in:",
+      "options": [
+        "Full ahead",
+        "Any position",
+        "Neutral",
+        "Full astern"
+      ],
+      "correct_index": 2,
+      "explanation": "The engine should start in neutral.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q08",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A stern drive is:",
+      "options": [
+        "An inboard engine connected to a drive leg outside the transom",
+        "A sail rig",
+        "A jet pump",
+        "An outboard"
+      ],
+      "correct_index": 0,
+      "explanation": "It combines an inboard engine with an outdrive.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.propulsion.systems-and-startup.q09",
+      "lesson_id": "svop.propulsion.systems-and-startup",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "If the engine temperature alarm sounds you should first:",
+      "options": [
+        "Open the radiator cap on a hot engine",
+        "Switch off the bilge pump",
+        "Reduce power and check the cooling water flow",
+        "Increase speed"
+      ],
+      "correct_index": 2,
+      "explanation": "Overheating can be caused by blocked intakes or low coolant.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

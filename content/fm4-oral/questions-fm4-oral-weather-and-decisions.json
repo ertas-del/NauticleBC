@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.weather-and-decisions.q01",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A gale in Canadian marine forecasts is:",
+      "options": [
+        "48 to 63 knots",
+        "34 to 47 knots",
+        "20 to 33 knots",
+        "1 to 12 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "Storm is 48 to 63.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q02",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Marine weather warnings are transmitted on:",
+      "options": [
+        "None",
+        "Only newspapers",
+        "VHF weather channels and Coast Guard broadcasts",
+        "Only email"
+      ],
+      "correct_index": 2,
+      "explanation": "Listen regularly.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q03",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Before a trip you should check the forecast for:",
+      "options": [
+        "Nothing",
+        "Only the first hour",
+        "The whole trip and the return",
+        "Only tomorrow"
+      ],
+      "correct_index": 2,
+      "explanation": "Weather can change.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q04",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Interrupting fishing and heading for shelter should happen:",
+      "options": [
+        "Never",
+        "After the storm",
+        "When the sea is rough",
+        "Early, while it is still safe"
+      ],
+      "correct_index": 3,
+      "explanation": "Don't wait.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q05",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A good voyage plan includes:",
+      "options": [
+        "Nothing",
+        "Shelter options, tides and loading",
+        "Only the radio",
+        "Only fuel"
+      ],
+      "correct_index": 1,
+      "explanation": "And tell someone ashore.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q06",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The most useful information in deciding to continue is:",
+      "options": [
+        "The day of the week",
+        "A guess",
+        "The forecast alone",
+        "Actual weather and the forecast together"
+      ],
+      "correct_index": 3,
+      "explanation": "Combine them.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q07",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Wind against tide leads to:",
+      "options": [
+        "Smaller waves",
+        "Slack water",
+        "Steep dangerous seas",
+        "Calm water"
+      ],
+      "correct_index": 2,
+      "explanation": "Check the tide tables.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.weather-and-decisions.q08",
+      "lesson_id": "fm4.oral.weather-and-decisions",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A strong wind warning applies to winds of about:",
+      "options": [
+        "1 to 12 knots",
+        "20 to 33 knots",
+        "Over 64 knots",
+        "48 to 63 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "Dangerous for small vessels.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

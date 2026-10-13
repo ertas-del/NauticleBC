@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q01",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "In any emergency the first priority is:",
+      "options": [
+        "Protecting life",
+        "Saving the catch",
+        "Finding who is to blame",
+        "Saving the paint"
+      ],
+      "correct_index": 0,
+      "explanation": "Count heads and lifejackets.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q02",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "In an engine room fire you should shut off:",
+      "options": [
+        "The anchor",
+        "Radio",
+        "Fuel and ventilation",
+        "Lights"
+      ],
+      "correct_index": 2,
+      "explanation": "Close doors and hatches.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q03",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "If the other vessel's bow plugs a hole in your hull after collision you should:",
+      "options": [
+        "Abandon ship",
+        "Pull away at once",
+        "Keep it there until you can assess",
+        "Add speed"
+      ],
+      "correct_index": 2,
+      "explanation": "It may be keeping you afloat.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q04",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "After a grounding you should first:",
+      "options": [
+        "Ignore it",
+        "Check people and damage and sound the bilges",
+        "Fill the tanks",
+        "Go full astern"
+      ],
+      "correct_index": 1,
+      "explanation": "Also check the tide.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q05",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "When you abandon the vessel you should if possible:",
+      "options": [
+        "Remove lifejackets",
+        "Board the liferaft dry and stay with it",
+        "Scatter",
+        "Swim to shore"
+      ],
+      "correct_index": 1,
+      "explanation": "Stay together.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q06",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A master who hears a Mayday must:",
+      "options": [
+        "Switch off the radio",
+        "Render assistance so far as it is safe",
+        "Ignore it",
+        "Call a friend"
+      ],
+      "correct_index": 1,
+      "explanation": "The duty to assist.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q07",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Under the Canada Shipping Act, the master is responsible for:",
+      "options": [
+        "Only the engine",
+        "Only the paperwork",
+        "Safety of life, the vessel and the environment",
+        "Only the catch"
+      ],
+      "correct_index": 2,
+      "explanation": "Plus compliance and reporting.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.emergencies-and-master-duties.q08",
+      "lesson_id": "fm4.oral.emergencies-and-master-duties",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A man overboard is best approached with the person:",
+      "options": [
+        "On the leeward side",
+        "Behind the propeller",
+        "On the windward side",
+        "In the wake"
+      ],
+      "correct_index": 2,
+      "explanation": "The vessel drifts toward them.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

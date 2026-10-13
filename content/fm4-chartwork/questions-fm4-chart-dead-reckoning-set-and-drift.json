@@ -1,0 +1,203 @@
+{
+  "module": "fm4-chartwork",
+  "questions": [
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q01",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A DR position is plotted from:",
+      "options": [
+        "The barometer",
+        "The last fix using the true course steered, speed and time",
+        "The radar",
+        "The tide table"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep the plot going.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q02",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Set is:",
+      "options": [
+        "The direction it comes from",
+        "Its speed",
+        "The direction the current flows toward",
+        "The wind's push"
+      ],
+      "correct_index": 2,
+      "explanation": "Drift is the speed.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q03",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Drift is:",
+      "options": [
+        "The wind speed",
+        "The direction of the current",
+        "The speed of the current",
+        "The tide height"
+      ],
+      "correct_index": 2,
+      "explanation": "Measured in knots.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q04",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Leeway is:",
+      "options": [
+        "Sideways slip caused by wind",
+        "Current speed",
+        "Engine speed",
+        "Tide range"
+      ],
+      "correct_index": 0,
+      "explanation": "It pushes you off the track.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q05",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A 2-knot current acting for 3 hours moves a boat:",
+      "options": [
+        "3 NM",
+        "12 NM",
+        "6 NM",
+        "2 NM"
+      ],
+      "correct_index": 2,
+      "explanation": "Drift × time.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q06",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "An estimated position is the DR position corrected for:",
+      "options": [
+        "The title",
+        "Current and leeway",
+        "The compass rose",
+        "The tide table"
+      ],
+      "correct_index": 1,
+      "explanation": "It is a better guess than DR alone.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q07",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Speed over ground between two fixes equals:",
+      "options": [
+        "The wind speed",
+        "Distance between fixes divided by time",
+        "Speed through the water",
+        "The log reading"
+      ],
+      "correct_index": 1,
+      "explanation": "It includes the current.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q08",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "To make good an easterly track against a current setting south, you should steer:",
+      "options": [
+        "West",
+        "Somewhat north of the track",
+        "Exactly east",
+        "Somewhat south of the track"
+      ],
+      "correct_index": 1,
+      "explanation": "Steer into the current.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.dead-reckoning-set-and-drift.q09",
+      "lesson_id": "fm4.chart.dead-reckoning-set-and-drift",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Course made good is:",
+      "options": [
+        "The course steered",
+        "The wind direction",
+        "The direction of the line between fixes",
+        "The compass course"
+      ],
+      "correct_index": 2,
+      "explanation": "It includes the effect of current.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

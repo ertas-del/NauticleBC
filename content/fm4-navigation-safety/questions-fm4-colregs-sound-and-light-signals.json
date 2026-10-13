@@ -1,0 +1,225 @@
+{
+  "module": "fm4-navigation-safety",
+  "questions": [
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q01",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "One short blast means:",
+      "options": [
+        "Danger",
+        "I am altering course to starboard",
+        "I am going astern",
+        "I am altering to port"
+      ],
+      "correct_index": 1,
+      "explanation": "Two short is port.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q02",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Three short blasts means:",
+      "options": [
+        "I am operating astern propulsion",
+        "I am overtaking",
+        "I am altering to port",
+        "I am at anchor"
+      ],
+      "correct_index": 0,
+      "explanation": "Engines going astern.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q03",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Five or more short and rapid blasts means:",
+      "options": [
+        "I am overtaking",
+        "I am turning",
+        "I am anchored",
+        "Danger or doubt"
+      ],
+      "correct_index": 3,
+      "explanation": "Rule 34(d).",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q04",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Two prolonged and one short blast, in a narrow channel, means:",
+      "options": [
+        "I intend to overtake on your port side",
+        "I am stopped",
+        "I intend to overtake you on your starboard side",
+        "I am at anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged and two short is port.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q05",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel making way in fog sounds:",
+      "options": [
+        "Two prolonged blasts",
+        "A bell",
+        "One prolonged blast at intervals of not more than 2 minutes",
+        "One short blast"
+      ],
+      "correct_index": 2,
+      "explanation": "Two prolonged is for stopped.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q06",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven vessel underway but stopped in fog sounds:",
+      "options": [
+        "Three short",
+        "One short",
+        "One prolonged",
+        "Two prolonged blasts at intervals of not more than 2 minutes"
+      ],
+      "correct_index": 3,
+      "explanation": "Making way is one prolonged.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q07",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel engaged in fishing in fog sounds:",
+      "options": [
+        "A bell only",
+        "One prolonged and two short blasts",
+        "Two prolonged",
+        "Five short"
+      ],
+      "correct_index": 1,
+      "explanation": "At intervals of not more than 2 minutes.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q08",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A vessel at anchor in fog rings a bell rapidly for about:",
+      "options": [
+        "5 seconds at intervals of not more than 1 minute",
+        "10 seconds every 10 minutes",
+        "1 second",
+        "30 seconds every hour"
+      ],
+      "correct_index": 0,
+      "explanation": "A vessel at anchor fishing uses the fishing signal.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q09",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "A towed vessel, if manned, sounds in fog:",
+      "options": [
+        "One short",
+        "One prolonged",
+        "Two prolonged",
+        "One prolonged and three short"
+      ],
+      "correct_index": 3,
+      "explanation": "After the towing vessel's signal.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.colregs.sound-and-light-signals.q10",
+      "lesson_id": "fm4.colregs.sound-and-light-signals",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A vessel approaching a bend where others may be hidden sounds:",
+      "options": [
+        "One prolonged blast",
+        "Two short blasts",
+        "Five short blasts",
+        "Three short blasts"
+      ],
+      "correct_index": 0,
+      "explanation": "The reply is one prolonged.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.weather.forecasts-and-warnings.q01",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "In Canadian marine forecasts a gale is a wind of:",
+      "options": [
+        "34 to 47 knots",
+        "48 to 63 knots",
+        "1 to 12 knots",
+        "20 to 33 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "Strong is 20 to 33 and storm is 48 to 63.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q02",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A storm warning means winds of:",
+      "options": [
+        "Below 20 knots",
+        "34 to 47 knots",
+        "20 to 33 knots",
+        "48 to 63 knots"
+      ],
+      "correct_index": 3,
+      "explanation": "Hurricane force is 64 and over.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q03",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A strong wind (small craft) warning applies to winds of about:",
+      "options": [
+        "1 to 12 knots",
+        "50 to 60 knots",
+        "20 to 33 knots",
+        "Over 64 knots"
+      ],
+      "correct_index": 2,
+      "explanation": "Dangerous to small craft.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q04",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A rapidly falling barometer means:",
+      "options": [
+        "A calm",
+        "No change",
+        "Better weather",
+        "Strong winds and worse weather are likely"
+      ],
+      "correct_index": 3,
+      "explanation": "Watch the trend.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q05",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A rising barometer generally means:",
+      "options": [
+        "Fog is certain",
+        "A storm is coming",
+        "Nothing",
+        "The weather is improving"
+      ],
+      "correct_index": 3,
+      "explanation": "A rapid rise can still bring gusty wind.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q06",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "Wind that backs and a falling barometer usually mean:",
+      "options": [
+        "Clearing",
+        "No change",
+        "Fog only",
+        "Worsening weather"
+      ],
+      "correct_index": 3,
+      "explanation": "A low is approaching.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q07",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Marine forecasts are:",
+      "options": [
+        "Perfect",
+        "Valid for weeks",
+        "Unrelated to local conditions",
+        "Predictions that become less reliable the further ahead they look"
+      ],
+      "correct_index": 3,
+      "explanation": "Update before leaving and while at sea.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q08",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "You should get a marine forecast:",
+      "options": [
+        "Only after returning",
+        "Before leaving and listen again while underway",
+        "Never",
+        "Only for long trips"
+      ],
+      "correct_index": 1,
+      "explanation": "Weather can change.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.weather.forecasts-and-warnings.q09",
+      "lesson_id": "svop.weather.forecasts-and-warnings",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "If a gale warning is out for your area and you have a small boat you should:",
+      "options": [
+        "Ignore it",
+        "Delay or cancel the trip",
+        "Go faster",
+        "Fill the tanks only"
+      ],
+      "correct_index": 1,
+      "explanation": "Don't gamble.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

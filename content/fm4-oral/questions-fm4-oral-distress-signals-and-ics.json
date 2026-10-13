@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q01",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Flag Oscar means:",
+      "options": [
+        "Diver down",
+        "Man overboard",
+        "I require a tug",
+        "Dragging anchor"
+      ],
+      "correct_index": 1,
+      "explanation": "A key lifesaving flag.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q02",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Flag Alpha means:",
+      "options": [
+        "I require a pilot",
+        "Engines astern",
+        "I have a diver down, keep well clear",
+        "Man overboard"
+      ],
+      "correct_index": 2,
+      "explanation": "Slow down and keep clear.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q03",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Flag Victor means:",
+      "options": [
+        "I require assistance",
+        "I have a diver down",
+        "I am altering to port",
+        "I am stopped"
+      ],
+      "correct_index": 0,
+      "explanation": "Not as serious as distress.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q04",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Flag Yankee means:",
+      "options": [
+        "I need a pilot",
+        "I am on fire",
+        "I am stopped",
+        "I am dragging my anchor"
+      ],
+      "correct_index": 3,
+      "explanation": "Warn others.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q05",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Flag Golf for a fishing vessel near fishing grounds means:",
+      "options": [
+        "I am stopped",
+        "I require a tug",
+        "I am shooting nets",
+        "I am hauling nets"
+      ],
+      "correct_index": 3,
+      "explanation": "G normally means I require a pilot.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q06",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Flag Zulu for a fishing vessel near fishing grounds means:",
+      "options": [
+        "I require a pilot",
+        "Man overboard",
+        "I am hauling nets",
+        "I am shooting nets"
+      ],
+      "correct_index": 3,
+      "explanation": "Z normally means I require a tug.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q07",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Flag Papa (Blue Peter) at sea on a fishing vessel means:",
+      "options": [
+        "My nets have come fast upon an obstruction",
+        "I am shooting nets",
+        "I am stopped",
+        "I am about to sail"
+      ],
+      "correct_index": 0,
+      "explanation": "A warning of danger.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.distress-signals-and-ics.q08",
+      "lesson_id": "fm4.oral.distress-signals-and-ics",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Distress signals may be used only:",
+      "options": [
+        "To attract a friend",
+        "In grave and imminent danger",
+        "For fun",
+        "When late"
+      ],
+      "correct_index": 1,
+      "explanation": "Misuse is prohibited.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

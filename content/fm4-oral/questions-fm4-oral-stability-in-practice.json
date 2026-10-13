@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.stability-in-practice.q01",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Adding a weight high up on a vessel:",
+      "options": [
+        "Has no effect",
+        "Raises G and reduces stability",
+        "Lowers G",
+        "Raises GM"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep weights low.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q02",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A weight hanging from a boom acts as if it were:",
+      "options": [
+        "In the hold",
+        "On the deck",
+        "At the point of suspension",
+        "At the keel"
+      ],
+      "correct_index": 2,
+      "explanation": "G rises.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q03",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Free surface effect from a slack tank:",
+      "options": [
+        "Has no effect",
+        "Increases GM",
+        "Raises KM",
+        "Reduces GM"
+      ],
+      "correct_index": 3,
+      "explanation": "Keep tanks full or empty.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q04",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Before sailing you should compare your loading with:",
+      "options": [
+        "The tide table",
+        "The booklet's pre-calculated conditions",
+        "The log",
+        "Nothing"
+      ],
+      "correct_index": 1,
+      "explanation": "Recalculate if not covered.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q05",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A tender vessel:",
+      "options": [
+        "Rolls quickly",
+        "Is always safe",
+        "Rolls slowly and leans a long way",
+        "Never leans"
+      ],
+      "correct_index": 2,
+      "explanation": "GM is small.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q06",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Reducing freeboard:",
+      "options": [
+        "Improves stability",
+        "Lowers G",
+        "Has no effect",
+        "Reduces reserve buoyancy and range of stability"
+      ],
+      "correct_index": 3,
+      "explanation": "Don't overload.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q07",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Stability tends to be worst on the return trip because:",
+      "options": [
+        "The tide is high",
+        "The catch is lighter",
+        "Fuel is used and G has risen",
+        "The weather is calm"
+      ],
+      "correct_index": 2,
+      "explanation": "Low weights are gone.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.stability-in-practice.q08",
+      "lesson_id": "fm4.oral.stability-in-practice",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Fish carried on deck:",
+      "options": [
+        "Is always safe",
+        "Increases freeboard",
+        "Raises G and can shift",
+        "Lowers G"
+      ],
+      "correct_index": 2,
+      "explanation": "Keep fish below in pens.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

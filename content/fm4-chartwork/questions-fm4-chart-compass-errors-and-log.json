@@ -1,0 +1,203 @@
+{
+  "module": "fm4-chartwork",
+  "questions": [
+    {
+      "id": "fm4.chart.compass-errors-and-log.q01",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Compass error equals:",
+      "options": [
+        "Variation only",
+        "True minus Compass",
+        "Compass minus True",
+        "Deviation only"
+      ],
+      "correct_index": 1,
+      "explanation": "Positive means East.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q02",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A compass reads 113° and the true bearing is 120°. The error is:",
+      "options": [
+        "7° East",
+        "233° East",
+        "None",
+        "7° West"
+      ],
+      "correct_index": 0,
+      "explanation": "120 − 113 = +7.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q03",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Variation 16°E and error 9°E give a deviation of:",
+      "options": [
+        "25° East",
+        "25° West",
+        "7° West",
+        "7° East"
+      ],
+      "correct_index": 2,
+      "explanation": "9 − 16 = −7.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q04",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Going from True to Compass, East is:",
+      "options": [
+        "Ignored",
+        "Doubled",
+        "Subtracted",
+        "Added"
+      ],
+      "correct_index": 2,
+      "explanation": "West is added.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q05",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Going from Compass to True, East is:",
+      "options": [
+        "Squared",
+        "Ignored",
+        "Added",
+        "Subtracted"
+      ],
+      "correct_index": 2,
+      "explanation": "Compass Add East.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q06",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A table of deviations lists:",
+      "options": [
+        "Tide times",
+        "Deviation on different headings",
+        "Fuel use",
+        "Weather"
+      ],
+      "correct_index": 1,
+      "explanation": "Check it regularly.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q07",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A log book should be kept to:",
+      "options": [
+        "Avoid inspections",
+        "Record the vessel's progress and events accurately",
+        "Replace the chart",
+        "Waste time"
+      ],
+      "correct_index": 1,
+      "explanation": "It supports safe practice.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q08",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Parallel rules and dividers should be:",
+      "options": [
+        "Ignored",
+        "Stored loose",
+        "Used as hammers",
+        "Kept clean and undamaged"
+      ],
+      "correct_index": 3,
+      "explanation": "Damaged instruments give wrong positions.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.compass-errors-and-log.q09",
+      "lesson_id": "fm4.chart.compass-errors-and-log",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A gyro compass error is found by comparing it with:",
+      "options": [
+        "The barometer",
+        "The tide table",
+        "The fuel gauge",
+        "A true bearing"
+      ],
+      "correct_index": 3,
+      "explanation": "Error = True − Gyro.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

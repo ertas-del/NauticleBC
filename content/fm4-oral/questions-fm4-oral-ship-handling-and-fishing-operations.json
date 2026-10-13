@@ -1,0 +1,181 @@
+{
+  "module": "fm4-oral",
+  "questions": [
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q01",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "When berthing, you should approach:",
+      "options": [
+        "Fast",
+        "Slowly, into the stronger of wind or current",
+        "With the wind behind",
+        "Without lines"
+      ],
+      "correct_index": 1,
+      "explanation": "Slow speed gives control.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q02",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A spring line is used to:",
+      "options": [
+        "Steer the radar",
+        "Control the vessel and swing the stern",
+        "Hoist the anchor",
+        "Fill the tank"
+      ],
+      "correct_index": 1,
+      "explanation": "Use it with the engine and rudder.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q03",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "During fishing operations you should keep the propeller:",
+      "options": [
+        "Clear of lines and net",
+        "Running at full speed near gear",
+        "Tied to the winch",
+        "In reverse"
+      ],
+      "correct_index": 0,
+      "explanation": "Fouling is dangerous.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q04",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A high wheelhouse affects handling because it:",
+      "options": [
+        "Slows the current",
+        "Lowers G",
+        "Catches the wind",
+        "Cools the engine"
+      ],
+      "correct_index": 2,
+      "explanation": "Windage.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q05",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "Current acting on a berth approach is best handled by:",
+      "options": [
+        "Approaching against it",
+        "Ignoring it",
+        "Approaching beam-on at speed",
+        "Approaching with it"
+      ],
+      "correct_index": 0,
+      "explanation": "Stopping is easier.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q06",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Before unberthing you should:",
+      "options": [
+        "Plan how to leave clear of other vessels and gear",
+        "Cast off all lines at once",
+        "Leave without looking",
+        "Start the winch"
+      ],
+      "correct_index": 0,
+      "explanation": "Use springs.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q07",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Working near other fishing vessels you should use:",
+      "options": [
+        "Full speed",
+        "The horn constantly",
+        "No look-out",
+        "Slow speed"
+      ],
+      "correct_index": 3,
+      "explanation": "Allow room and watch gear.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.oral.ship-handling-and-fishing-operations.q08",
+      "lesson_id": "fm4.oral.ship-handling-and-fishing-operations",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A turning circle should be:",
+      "options": [
+        "Known for your vessel at different speeds",
+        "Ignored",
+        "The same for all boats",
+        "Irrelevant"
+      ],
+      "correct_index": 0,
+      "explanation": "Practise.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

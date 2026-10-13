@@ -1,0 +1,225 @@
+{
+  "module": "machinery",
+  "questions": [
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q01",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "The painter of a liferaft should be secured to:",
+      "options": [
+        "Nothing",
+        "The vessel",
+        "The raft's canopy",
+        "The cradle only"
+      ],
+      "correct_index": 1,
+      "explanation": "Pulling the painter inflates the raft.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q02",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "A hydrostatic release on a liferaft:",
+      "options": [
+        "Stops the pump",
+        "Frees the raft if the vessel sinks",
+        "Cools the engine",
+        "Inflates the lifejacket"
+      ],
+      "correct_index": 1,
+      "explanation": "It has an expiry date.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q03",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "On the abandon-ship alarm, the engineer normally:",
+      "options": [
+        "Stops machinery and shuts off fuel if it is safe, then goes to the muster station",
+        "Starts all engines",
+        "Stays in the engine room",
+        "Opens the hatches"
+      ],
+      "correct_index": 0,
+      "explanation": "Follow the station bill.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q04",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "When abandoning the vessel you should:",
+      "options": [
+        "Remove your lifejacket",
+        "Not go back for belongings",
+        "Go back for your bag",
+        "Swim to shore"
+      ],
+      "correct_index": 1,
+      "explanation": "Time is critical.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q05",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "To board a liferaft, the best way is:",
+      "options": [
+        "Dry, stepping from the vessel",
+        "Being thrown in",
+        "Swimming around it",
+        "Jumping on the canopy"
+      ],
+      "correct_index": 0,
+      "explanation": "Staying dry reduces cold stress.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q06",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "In cold water in a lifejacket, the HELP position is used to:",
+      "options": [
+        "Signal ships",
+        "Swim faster",
+        "Reduce heat loss",
+        "Dive"
+      ],
+      "correct_index": 2,
+      "explanation": "Arms in, knees up.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q07",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "Survivors in a liferaft should:",
+      "options": [
+        "Drink sea water",
+        "Stay with the raft and keep together and warm",
+        "Separate",
+        "Swim away"
+      ],
+      "correct_index": 1,
+      "explanation": "Rescuers find rafts more easily.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q08",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "medium",
+      "stem": "Expired flares should:",
+      "options": [
+        "Be fired for fun",
+        "Be kept forever",
+        "Be thrown overboard",
+        "Be replaced and old ones disposed of properly"
+      ],
+      "correct_index": 3,
+      "explanation": "Use a marine supplier or approved collection point.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q09",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "An EPIRB is used to:",
+      "options": [
+        "Steer the boat",
+        "Tune the radio",
+        "Send a distress signal with the vessel's position",
+        "Cool the engine"
+      ],
+      "correct_index": 2,
+      "explanation": "Check its battery date.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "machinery.safety.lifesaving-and-abandoning-vessel.q10",
+      "lesson_id": "machinery.safety.lifesaving-and-abandoning-vessel",
+      "tickets": [
+        "svmo"
+      ],
+      "difficulty": "easy",
+      "stem": "A station bill is:",
+      "options": [
+        "A bill of sale",
+        "A fuel bill",
+        "A list of each person's duties and muster station",
+        "A tide table"
+      ],
+      "correct_index": 2,
+      "explanation": "It sets who does what in an emergency.",
+      "source_ids": [
+        "tp14814e",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

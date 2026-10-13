@@ -1,0 +1,203 @@
+{
+  "module": "fm4-chartwork",
+  "questions": [
+    {
+      "id": "fm4.chart.types-and-reliability.q01",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "On a Mercator chart a rhumb line is:",
+      "options": [
+        "A curve",
+        "Always north",
+        "A circle",
+        "A straight line"
+      ],
+      "correct_index": 3,
+      "explanation": "It is a line of constant course.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q02",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Distance on a Mercator chart is measured on:",
+      "options": [
+        "The title block",
+        "The latitude scale at the level of the track",
+        "The tide table",
+        "The longitude scale"
+      ],
+      "correct_index": 1,
+      "explanation": "A minute of latitude is a nautical mile.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q03",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "hard",
+      "stem": "Compared with the equator, the scale on a Mercator chart at higher latitude is:",
+      "options": [
+        "Smaller",
+        "Zero",
+        "Larger",
+        "Identical"
+      ],
+      "correct_index": 2,
+      "explanation": "Features are stretched.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q04",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "A polyconic chart is often used for:",
+      "options": [
+        "The whole world",
+        "Air navigation only",
+        "Large-scale areas",
+        "Tide tables"
+      ],
+      "correct_index": 2,
+      "explanation": "Distortion is small in a small area.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q05",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "To read a true direction on a polyconic chart use:",
+      "options": [
+        "The compass rose nearest the track",
+        "Any compass rose",
+        "The depth contours",
+        "The title"
+      ],
+      "correct_index": 0,
+      "explanation": "Meridians curve slightly.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q06",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A large-scale chart:",
+      "options": [
+        "Shows more detail of a smaller area",
+        "Shows a bigger area",
+        "Shows less detail",
+        "Is always older"
+      ],
+      "correct_index": 0,
+      "explanation": "Use the largest scale available.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q07",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "medium",
+      "stem": "The source diagram shows:",
+      "options": [
+        "Tide times",
+        "The survey sources and their dates",
+        "The weather",
+        "The fuel docks"
+      ],
+      "correct_index": 1,
+      "explanation": "It helps judge reliability.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q08",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "Chart No. 1 is used to:",
+      "options": [
+        "Predict tides",
+        "Plot a course",
+        "Set the radar",
+        "Explain chart symbols and abbreviations"
+      ],
+      "correct_index": 3,
+      "explanation": "It is a reference.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "fm4.chart.types-and-reliability.q09",
+      "lesson_id": "fm4.chart.types-and-reliability",
+      "tickets": [
+        "fishing-master-4"
+      ],
+      "difficulty": "easy",
+      "stem": "A chart is less reliable if:",
+      "options": [
+        "It has a clear title",
+        "It is large scale",
+        "It has a compass rose",
+        "The survey is old and the soundings are sparse"
+      ],
+      "correct_index": 3,
+      "explanation": "Check age and coverage.",
+      "source_ids": [
+        "tp2293-2016",
+        "mpr-sor-2007-115"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

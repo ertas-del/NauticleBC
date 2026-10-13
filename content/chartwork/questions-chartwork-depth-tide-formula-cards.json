@@ -1,0 +1,245 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.depth.tide-formula-cards.q01",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Depth of water equals:",
+      "options": [
+        "Charted depth minus height of tide",
+        "Height of tide only",
+        "Draught plus tide",
+        "Charted depth plus height of tide"
+      ],
+      "correct_index": 3,
+      "explanation": "Tide height is above chart datum, so you add it.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q02",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Charted depth 3.0 m with a tide of 2.0 m gives a depth of:",
+      "options": [
+        "3.0 m",
+        "6.0 m",
+        "5.0 m",
+        "1.0 m"
+      ],
+      "correct_index": 2,
+      "explanation": "3.0 + 2.0 = 5.0.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q03",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under-keel clearance equals:",
+      "options": [
+        "Draught minus depth",
+        "Depth plus draught",
+        "Depth minus draught",
+        "Tide minus depth"
+      ],
+      "correct_index": 2,
+      "explanation": "Always keep a margin.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q04",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Depth 5.0 m and draught 1.2 m give a clearance of:",
+      "options": [
+        "5.0 m",
+        "3.8 m",
+        "6.2 m",
+        "1.2 m"
+      ],
+      "correct_index": 1,
+      "explanation": "5.0 − 1.2 = 3.8.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q05",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "In the rule of twelfths, the water moves each hour by:",
+      "options": [
+        "1, 2, 3, 3, 2, 1 twelfths of the range",
+        "3, 3, 3, 3 twelfths",
+        "Equal amounts each hour",
+        "1, 1, 1, 1, 1, 1 twelfths"
+      ],
+      "correct_index": 0,
+      "explanation": "It moves fastest in the middle of the tide.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q06",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Low water 0.5 m at 10:00, high water 4.7 m at 16:00. At 12:00 the tide is:",
+      "options": [
+        "2.6 m",
+        "3.65 m",
+        "1.55 m",
+        "1.05 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Range 4.2 m × 3/12 = 1.05, plus 0.5.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q07",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Same tide. At 14:00 the tide is:",
+      "options": [
+        "3.65 m",
+        "2.6 m",
+        "4.2 m",
+        "3.15 m"
+      ],
+      "correct_index": 0,
+      "explanation": "4.2 × 9/12 = 3.15, plus 0.5.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q08",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A rock dries 1.2 m. The tide is 2.0 m. The water over the rock is:",
+      "options": [
+        "0.8 m",
+        "2.0 m",
+        "1.2 m",
+        "3.2 m"
+      ],
+      "correct_index": 0,
+      "explanation": "2.0 − 1.2 = 0.8.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q09",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "If the tide equals the drying height, the rock is:",
+      "options": [
+        "Deep under water",
+        "Just awash, with no water over it",
+        "Not charted",
+        "Higher than the tide"
+      ],
+      "correct_index": 1,
+      "explanation": "Water over the rock is zero.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.depth.tide-formula-cards.q10",
+      "lesson_id": "chartwork.depth.tide-formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Narrow tidal passes are best taken near:",
+      "options": [
+        "Maximum flood",
+        "Slack water",
+        "Maximum ebb",
+        "Any time"
+      ],
+      "correct_index": 1,
+      "explanation": "The current is weakest then.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

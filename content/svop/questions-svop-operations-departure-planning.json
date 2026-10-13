@@ -1,0 +1,181 @@
+{
+  "module": "svop",
+  "questions": [
+    {
+      "id": "svop.operations.departure-planning.q01",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Before starting an inboard gasoline engine you should run the bilge blower for at least:",
+      "options": [
+        "One hour",
+        "No time",
+        "Four minutes",
+        "10 seconds"
+      ],
+      "correct_index": 2,
+      "explanation": "Then check for vapour.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q02",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "The fuel rule of thirds means:",
+      "options": [
+        "One third out, one third back, one third reserve",
+        "Buy only a third",
+        "Use all the fuel",
+        "All fuel for the outward trip"
+      ],
+      "correct_index": 0,
+      "explanation": "Plan reserve.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q03",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A trip plan should be left with:",
+      "options": [
+        "A responsible person ashore",
+        "A passing boat",
+        "No one",
+        "The fuel dock"
+      ],
+      "correct_index": 0,
+      "explanation": "Tell them when you return.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q04",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "A departure checklist helps you:",
+      "options": [
+        "Not forget important items",
+        "Go faster",
+        "Skip the weather",
+        "Use more fuel"
+      ],
+      "correct_index": 0,
+      "explanation": "Use it every trip.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q05",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "medium",
+      "stem": "A reason to run the blower is that gasoline vapour:",
+      "options": [
+        "Is lighter than air",
+        "Is harmless",
+        "Cools the engine",
+        "Is heavier than air and collects in the bilge"
+      ],
+      "correct_index": 3,
+      "explanation": "It can explode.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q06",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Before a trip you should check:",
+      "options": [
+        "Only the paint",
+        "Nothing",
+        "Only the radio",
+        "Weather, tides, fuel and safety gear"
+      ],
+      "correct_index": 3,
+      "explanation": "Plan ahead.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q07",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "Local hazards include:",
+      "options": [
+        "Rocks, tide rips and traffic",
+        "Only wind",
+        "Only sunshine",
+        "None"
+      ],
+      "correct_index": 0,
+      "explanation": "Check the area before you go.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "svop.operations.departure-planning.q08",
+      "lesson_id": "svop.operations.departure-planning",
+      "tickets": [
+        "svop"
+      ],
+      "difficulty": "easy",
+      "stem": "When you return, you should:",
+      "options": [
+        "Switch off the radio",
+        "Tell the contact you are back",
+        "Say nothing",
+        "Leave the dock"
+      ],
+      "correct_index": 1,
+      "explanation": "Prevent a false alarm.",
+      "source_ids": [
+        "tp14692",
+        "tc-svop"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

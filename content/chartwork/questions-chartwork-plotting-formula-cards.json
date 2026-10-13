@@ -1,0 +1,245 @@
+{
+  "module": "chartwork",
+  "questions": [
+    {
+      "id": "chartwork.plotting.formula-cards.q01",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Distance on a chart is measured on the:",
+      "options": [
+        "Longitude (bottom) scale",
+        "Latitude (side) scale",
+        "Title block",
+        "Compass rose"
+      ],
+      "correct_index": 1,
+      "explanation": "One minute of latitude is one nautical mile.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q02",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Latitude is read from the:",
+      "options": [
+        "Depth contours",
+        "Bottom scale",
+        "Side scale",
+        "Compass rose"
+      ],
+      "correct_index": 2,
+      "explanation": "Longitude is read from the top or bottom.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q03",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "1 minute of latitude equals:",
+      "options": [
+        "1 kilometre",
+        "1 nautical mile",
+        "1 statute mile",
+        "1 fathom"
+      ],
+      "correct_index": 1,
+      "explanation": "About 1852 m.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q04",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Time for 18 NM at 7.2 knots is:",
+      "options": [
+        "3 hours",
+        "1 hour 30 minutes",
+        "2 hours",
+        "2 hours 30 minutes"
+      ],
+      "correct_index": 3,
+      "explanation": "18 ÷ 7.2 = 2.5 hours.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q05",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Distance in 2.5 hours at 6 knots is:",
+      "options": [
+        "12 NM",
+        "8.4 NM",
+        "15 NM",
+        "3.6 NM"
+      ],
+      "correct_index": 2,
+      "explanation": "6 × 2.5 = 15.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q06",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Speed for 12 NM in 90 minutes is:",
+      "options": [
+        "10 knots",
+        "8 knots",
+        "18 knots",
+        "6 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "12 ÷ 1.5 = 8.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q07",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "At 10 knots you go 1 NM every:",
+      "options": [
+        "3 minutes",
+        "1 minute",
+        "6 minutes",
+        "10 minutes"
+      ],
+      "correct_index": 2,
+      "explanation": "60 ÷ 10 = 6.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q08",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Depart 08:15 and take 2 h 30 min. The ETA is:",
+      "options": [
+        "10:45",
+        "10:15",
+        "10:30",
+        "11:15"
+      ],
+      "correct_index": 0,
+      "explanation": "08:15 + 2:30 = 10:45.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q09",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A DR position is worked out from:",
+      "options": [
+        "The compass rose only",
+        "The weather only",
+        "Your last fix, course, speed and time",
+        "The tide table only"
+      ],
+      "correct_index": 2,
+      "explanation": "Plot it from the last known position.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "chartwork.plotting.formula-cards.q10",
+      "lesson_id": "chartwork.plotting.formula-cards",
+      "tickets": [
+        "svop",
+        "fishing-master-4",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "When plotting a bearing fix you draw the reciprocal line:",
+      "options": [
+        "From the mark",
+        "From the boat",
+        "From the title",
+        "From the compass rose"
+      ],
+      "correct_index": 0,
+      "explanation": "The line runs from the mark back toward you.",
+      "source_ids": [
+        "tp14692",
+        "tp2293-2016"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
