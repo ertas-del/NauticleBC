@@ -50,6 +50,13 @@ data class Source(
 )
 
 @Serializable
+data class Figure(
+    val id: String,
+    val caption: String,
+    val alt: String,
+)
+
+@Serializable
 data class Lesson(
     val id: String,
     val title: String,
@@ -65,6 +72,7 @@ data class Lesson(
     @SerialName("review_status") val reviewStatus: String,
     @SerialName("reviewed_by") val reviewedBy: String? = null,
     @SerialName("reviewed_on") val reviewedOn: String? = null,
+    val figures: List<Figure> = emptyList(),
     val body: String,
 )
 

@@ -20,6 +20,10 @@ key_facts:
   - If in any doubt whether a head-on situation exists, assume it does and act accordingly.
   - Rule 14 does not apply to two sailing vessels (Rule 12) or to a power-driven vessel meeting a sailing vessel (Rule 18).
   - In Canadian waters of a narrow channel with a current or tidal stream, Rule 9 makes the power-driven vessel going with the stream the stand-on vessel, overriding Rule 14(a).
+figures:
+  - id: head-on-situation
+    caption: "Head-on: both turn to starboard"
+    alt: "Two power-driven vessels meet on opposite courses. Each alters course to starboard, so they pass port side to port side. Neither is the stand-on vessel; both give way."
 source_ids: [colregs-canada, colregs-steering-crc1416-pdf-2026, colregs-steering-crc1416-2008-copy]
 review_status: needs_expert_review
 ---
@@ -34,6 +38,8 @@ Port to port.
 
 Unlike the crossing and overtaking rules, Rule 14 gives **both** vessels the same duty. There is no stand-on
 vessel. Each turns to starboard, and the two turns add together.
+
+{{figure:head-on-situation}}
 
 ## How to recognise it
 

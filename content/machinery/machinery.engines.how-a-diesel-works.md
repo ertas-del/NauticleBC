@@ -22,6 +22,10 @@ key_facts:
   - "Compression rings seal the combustion gases. The scraper (oil control) ring wipes surplus oil from the liner back to the sump."
   - "A diesel's power is set by how much fuel is injected. A governor adjusts the fuel delivered to hold the chosen speed as load changes."
   - "A turbocharger uses exhaust gas to drive a compressor that forces extra air in, so more fuel can be burned for more power."
+figures:
+  - id: four-stroke-diesel-cycle
+    caption: "Four strokes of a diesel"
+    alt: "Four small drawings of one cylinder in order. Intake: piston moves down, inlet valve open, air drawn in. Compression: piston moves up, both valves closed, air squeezed and hot. Power: fuel is injected and burns, pushing the piston down. Exhaust: piston moves up, exhaust valve open, burnt gas pushed out. One cycle is four strokes and two turns of the crankshaft."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -48,6 +52,8 @@ takes four strokes, which is ==two turns of the crankshaft==.
 A handy memory phrase is ==suck, squeeze, bang, blow==. The valves are opened by a ==camshaft== (through pushrods and
 rockers, or directly on an overhead-cam engine). The camshaft turns at ==half the speed of the crankshaft==, which is
 why each valve opens once every two turns.
+
+{{figure:four-stroke-diesel-cycle}}
 
 ## The two-stroke cycle
 

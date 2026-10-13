@@ -19,6 +19,8 @@ sealed interface MdBlock {
     data class Table(val header: List<List<MdSpan>>, val rows: List<List<List<MdSpan>>>) : MdBlock
     /** A fenced block (```), shown in a fixed-width font with line breaks kept, for small diagrams. */
     data class Code(val text: String) : MdBlock
+    /** A picture the learner opens on demand; written `{{figure:id}}` on its own line in the lesson. */
+    data class Figure(val id: String) : MdBlock
     data object Rule : MdBlock
 }
 
@@ -33,6 +35,7 @@ object MarkdownParser {
     private val numberedRe = Regex("^\\s*(\\d{1,9})[.)]\\s+(.*)$")
     private val ruleRe = Regex("^\\s*([-*_])(\\s*\\1){2,}\\s*$")
     private val quoteRe = Regex("^\\s*>\\s?(.*)$")
+    private val figureRe = Regex("^\\{\\{figure:([a-z0-9-]+)\\}\\}$")
     private val separatorCellRe = Regex("^:?-{1,}:?$")
 
     private fun splitTableRow(line: String): List<String> {
@@ -139,6 +142,12 @@ object MarkdownParser {
             if (heading != null && !rawLine.startsWith("    ")) {
                 flushAll()
                 blocks += MdBlock.Heading(heading.groupValues[1].length, parseInline(heading.groupValues[2].trim()))
+                continue
+            }
+            val figure = figureRe.matchEntire(line.trim())
+            if (figure != null) {
+                flushAll()
+                blocks += MdBlock.Figure(figure.groupValues[1])
                 continue
             }
             if (ruleRe.matches(line)) {

@@ -31,22 +31,23 @@ import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
+import ca.nauticlebc.app.content.Figure
 import ca.nauticlebc.app.markdown.MdBlock
 import ca.nauticlebc.app.markdown.MdSpan
 import ca.nauticlebc.app.markdown.MdText
 
 /** Renders parsed Markdown blocks as a column. Text sizes come from the theme so large fonts scale. */
 @Composable
-fun MarkdownView(blocks: List<MdBlock>, modifier: Modifier = Modifier) {
+fun MarkdownView(blocks: List<MdBlock>, modifier: Modifier = Modifier, figures: List<Figure> = emptyList()) {
     Column(modifier = modifier, verticalArrangement = Arrangement.spacedBy(12.dp)) {
         for (block in blocks) {
-            MarkdownBlockView(block)
+            MarkdownBlockView(block, figures)
         }
     }
 }
 
 @Composable
-private fun MarkdownBlockView(block: MdBlock) {
+private fun MarkdownBlockView(block: MdBlock, figures: List<Figure>) {
     when (block) {
         is MdBlock.Heading -> {
             val style = when (block.level) {
@@ -108,6 +109,8 @@ private fun MarkdownBlockView(block: MdBlock) {
                 modifier = Modifier.horizontalScroll(rememberScrollState()).padding(12.dp),
             )
         }
+
+        is MdBlock.Figure -> figures.firstOrNull { it.id == block.id }?.let { FigureCard(it) }
 
         MdBlock.Rule -> HorizontalDivider()
     }
