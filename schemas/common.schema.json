@@ -16,11 +16,11 @@
       "description": "IDs from content/sources.json. Required for every factual claim."
     },
     "module": {
-      "enum": ["colregs", "tides", "bridge-watch", "sixty-ton", "chartwork", "seamanship", "stability", "radar", "electronic-navigation", "meteorology", "radio", "canadian-regulations", "machinery", "fishing"],
+      "enum": ["colregs", "tides", "bridge-watch", "sixty-ton", "chartwork", "seamanship", "stability", "radar", "electronic-navigation", "meteorology", "radio", "canadian-regulations", "machinery", "fishing", "svop", "fm4-overview", "fm4-chartwork", "fm4-navigation-safety", "fm4-stability-construction", "fm4-oral"],
       "description": "Content module. Extend this list in its own schema PR when a new module starts."
     },
     "ticket": {
-      "enum": ["bridge-watch-rating", "master-limited-60gt", "svmo", "fishing-master-4"]
+      "enum": ["bridge-watch-rating", "master-limited-60gt", "svmo", "fishing-master-4", "svop"]
     },
     "reviewStatus": {
       "enum": ["draft", "needs_expert_review", "expert_reviewed"],
