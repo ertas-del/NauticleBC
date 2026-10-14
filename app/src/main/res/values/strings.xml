@@ -156,4 +156,62 @@
     <string name="quiz_retry">Try again</string>
     <string name="quiz_back_to_lessons">Back to lessons</string>
     <string name="quiz_back_to_lesson">Back to the lesson</string>
+
+    <!-- Practice sums -->
+    <string name="drill_card_title">Practice sums</string>
+    <string name="drill_card_desc">Random compass, tide, depth and speed sums with the working shown. No chart needed.</string>
+    <string name="drill_screen_title">Practice sums</string>
+    <string name="drill_kind_mixed">Mixed</string>
+    <string name="drill_kind_true_to_compass">True to compass</string>
+    <string name="drill_kind_compass_to_true">Compass to true</string>
+    <string name="drill_kind_depth">Depth and clearance</string>
+    <string name="drill_kind_rock">Drying rock</string>
+    <string name="drill_kind_twelfths">Rule of twelfths</string>
+    <string name="drill_kind_sdt">Speed, distance, time</string>
+    <string name="drill_east">East</string>
+    <string name="drill_west">West</string>
+    <string name="drill_op_add">add</string>
+    <string name="drill_op_subtract">subtract</string>
+    <string name="drill_unit_degrees">degrees</string>
+    <string name="drill_unit_metres">metres</string>
+    <string name="drill_unit_knots">knots</string>
+    <string name="drill_unit_nm">nautical miles</string>
+    <string name="drill_unit_minutes">minutes</string>
+    <string name="drill_answer_label">Your answer</string>
+    <string name="drill_check">Check</string>
+    <string name="drill_next">Next sum</string>
+    <string name="drill_correct">Correct.</string>
+    <string name="drill_incorrect">Not quite. The answer is %1$s %2$s.</string>
+    <string name="drill_not_a_number">Type a number first.</string>
+    <string name="drill_score">Score: %1$d of %2$d</string>
+    <string name="drill_working">Working</string>
+    <string name="drill_numbers_invented">All numbers are invented for practice.</string>
+    <string name="drill_prompt_true_to_compass">A vessel needs to steer a true course of %1$d°. Variation is %2$d° %3$s and deviation is %4$d° %5$s. What course is steered by compass? Answer in whole degrees.</string>
+    <string name="drill_prompt_compass_to_true">A vessel takes a compass bearing of %1$d°. Deviation is %2$d° %3$s and variation is %4$d° %5$s. What is the true bearing? Answer in whole degrees.</string>
+    <string name="drill_step_down_memory">Going down from True to Compass: East is least, West is best.</string>
+    <string name="drill_step_up_memory">Going up from Compass to True, do the opposite: Compass Add East (CADET).</string>
+    <string name="drill_step_true_to_magnetic">True to Magnetic: variation %1$d° %2$s, so %3$s it. Magnetic is %4$d°.</string>
+    <string name="drill_step_magnetic_to_compass">Magnetic to Compass: deviation %1$d° %2$s, so %3$s it. Compass is %4$d°.</string>
+    <string name="drill_step_compass_to_magnetic">Compass to Magnetic: deviation %1$d° %2$s, so %3$s it. Magnetic is %4$d°.</string>
+    <string name="drill_step_magnetic_to_true">Magnetic to True: variation %1$d° %2$s, so %3$s it. True is %4$d°.</string>
+    <string name="drill_step_wrap">A result below 0 or above 359 wraps round the compass: add or subtract 360.</string>
+    <string name="drill_prompt_depth">Charted depth is %1$.1f m. The height of tide is %2$.1f m. The vessel draws %3$.1f m. How much water is under her keel, in metres?</string>
+    <string name="drill_step_depth">Depth of water = charted depth + height of tide = %1$.1f + %2$.1f = %3$.1f m.</string>
+    <string name="drill_step_clearance">Clearance = depth − draught = %1$.1f − %2$.1f = %3$.1f m.</string>
+    <string name="drill_prompt_rock">A rock dries %1$.1f m. The height of tide is %2$.1f m. How much water is over the rock, in metres?</string>
+    <string name="drill_step_rock">Water over a drying rock = height of tide − drying height = %1$.1f − %2$.1f = %3$.1f m.</string>
+    <string name="drill_step_rock_showing">If the answer is zero or less, the rock is showing.</string>
+    <string name="drill_prompt_twelfths">Low water is at %1$s, height %2$.1f m. High water is at %3$s, height %4$.1f m. Use the rule of twelfths. What is the height of tide at %5$s, in metres?</string>
+    <string name="drill_step_range">Range = %1$.1f − %2$.1f = %3$.1f m.</string>
+    <string name="drill_step_twelfths">The tide rises 1, 2, 3, 3, 2, 1 twelfths in each hour. After %1$d hours, %2$d twelfths of the range have risen.</string>
+    <string name="drill_step_rise">Rise = %1$.1f × %2$d/12 = %3$.2f m.</string>
+    <string name="drill_step_height">Height = %1$.1f + %2$.2f = %3$.2f m.</string>
+    <string name="drill_prompt_sdt_distance">A vessel steams at %1$s knots for %2$s minutes. How far does she go, in nautical miles?</string>
+    <string name="drill_prompt_sdt_time">A vessel steams %1$s nautical miles at %2$s knots. How long does it take, in minutes?</string>
+    <string name="drill_prompt_sdt_speed">A vessel goes %1$s nautical miles in %2$s minutes. What is her speed, in knots?</string>
+    <string name="drill_step_sdt_time">Time in hours = %1$s minutes ÷ 60 = %2$s hours.</string>
+    <string name="drill_step_sdt_distance">Distance = speed × time = %1$s × %2$s = %3$s nautical miles.</string>
+    <string name="drill_step_sdt_hours">Time = distance ÷ speed = %1$s ÷ %2$s = %3$s hours.</string>
+    <string name="drill_step_sdt_minutes">%1$s hours × 60 = %2$s minutes.</string>
+    <string name="drill_step_sdt_speed">Speed = distance ÷ time = %1$s ÷ %2$s = %3$s knots.</string>
 </resources>
