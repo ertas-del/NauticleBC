@@ -1,0 +1,921 @@
+{
+  "id": "training-harbour",
+  "title": "Training Harbour",
+  "fictional": true,
+  "area_note": "Training Harbour is an invented place in open ocean, made only for chartwork practice. It is not a real harbour and must never be used for navigation.",
+  "module": "chartwork",
+  "datum": {
+    "description": "Soundings are in metres below chart datum, the lowest normal tide level in this fictional area. Drying heights are above chart datum.",
+    "depth_unit": "metres"
+  },
+  "extent": {
+    "south": 33.0,
+    "west": -150.08333,
+    "north": 33.08333,
+    "east": -149.96404
+  },
+  "scale_ratio": 20000,
+  "variation": {
+    "degrees": 15,
+    "minutes": 0,
+    "direction": "E",
+    "year": 2020,
+    "annual_change_minutes": -5.0
+  },
+  "compass_roses": [
+    {
+      "id": "rose-west",
+      "position": {
+        "lat": 33.04917,
+        "lon": -150.07041
+      }
+    },
+    {
+      "id": "rose-east",
+      "position": {
+        "lat": 33.05167,
+        "lon": -149.97497
+      }
+    }
+  ],
+  "land": [
+    {
+      "name": "West Head",
+      "kind": "mainland",
+      "ring": [
+        {
+          "lat": 33.06167,
+          "lon": -150.08333
+        },
+        {
+          "lat": 33.065,
+          "lon": -150.06742
+        },
+        {
+          "lat": 33.06167,
+          "lon": -150.05152
+        },
+        {
+          "lat": 33.065,
+          "lon": -150.03959
+        },
+        {
+          "lat": 33.07167,
+          "lon": -150.03362
+        },
+        {
+          "lat": 33.08333,
+          "lon": -150.03462
+        },
+        {
+          "lat": 33.08333,
+          "lon": -150.08333
+        }
+      ]
+    },
+    {
+      "name": "East Shore",
+      "kind": "mainland",
+      "ring": [
+        {
+          "lat": 33.08333,
+          "lon": -150.01971
+        },
+        {
+          "lat": 33.07333,
+          "lon": -150.0207
+        },
+        {
+          "lat": 33.06583,
+          "lon": -150.01474
+        },
+        {
+          "lat": 33.06333,
+          "lon": -149.99784
+        },
+        {
+          "lat": 33.06833,
+          "lon": -149.98392
+        },
+        {
+          "lat": 33.065,
+          "lon": -149.96404
+        },
+        {
+          "lat": 33.08333,
+          "lon": -149.96404
+        }
+      ]
+    },
+    {
+      "name": "Pine Island",
+      "kind": "island",
+      "ring": [
+        {
+          "lat": 33.03333,
+          "lon": -150.0048
+        },
+        {
+          "lat": 33.02917,
+          "lon": -150.00181
+        },
+        {
+          "lat": 33.02833,
+          "lon": -149.99585
+        },
+        {
+          "lat": 33.03167,
+          "lon": -149.99088
+        },
+        {
+          "lat": 33.03667,
+          "lon": -149.98988
+        },
+        {
+          "lat": 33.04,
+          "lon": -149.99386
+        },
+        {
+          "lat": 33.04083,
+          "lon": -149.99983
+        },
+        {
+          "lat": 33.03833,
+          "lon": -150.0042
+        }
+      ]
+    },
+    {
+      "name": "Gull Rock",
+      "kind": "island",
+      "ring": [
+        {
+          "lat": 33.04083,
+          "lon": -150.05649
+        },
+        {
+          "lat": 33.04033,
+          "lon": -150.0541
+        },
+        {
+          "lat": 33.0425,
+          "lon": -150.0545
+        },
+        {
+          "lat": 33.0425,
+          "lon": -150.05629
+        }
+      ]
+    }
+  ],
+  "soundings": [
+    {
+      "position": {
+        "lat": 33.00632,
+        "lon": -150.07687
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00408,
+        "lon": -150.06792
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00625,
+        "lon": -150.06146
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00607,
+        "lon": -150.05428
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00489,
+        "lon": -150.04278
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00426,
+        "lon": -150.0364
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.00482,
+        "lon": -150.02824
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.00518,
+        "lon": -150.01889
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.00598,
+        "lon": -150.00859
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.00663,
+        "lon": -150.00173
+      },
+      "depth_m": 26.0
+    },
+    {
+      "position": {
+        "lat": 33.00387,
+        "lon": -149.99499
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.00348,
+        "lon": -149.98506
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.00505,
+        "lon": -149.97901
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.00639,
+        "lon": -149.96894
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.01205,
+        "lon": -150.07685
+      },
+      "depth_m": 30.0
+    },
+    {
+      "position": {
+        "lat": 33.01116,
+        "lon": -150.06903
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.01097,
+        "lon": -150.06261
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.011,
+        "lon": -150.05155
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.01035,
+        "lon": -150.04448
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.01085,
+        "lon": -150.0343
+      },
+      "depth_m": 29.0
+    },
+    {
+      "position": {
+        "lat": 33.01327,
+        "lon": -150.02819
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.01316,
+        "lon": -150.01887
+      },
+      "depth_m": 26.0
+    },
+    {
+      "position": {
+        "lat": 33.01281,
+        "lon": -150.01001
+      },
+      "depth_m": 24.0
+    },
+    {
+      "position": {
+        "lat": 33.01214,
+        "lon": -150.00384
+      },
+      "depth_m": 23.0
+    },
+    {
+      "position": {
+        "lat": 33.01083,
+        "lon": -149.96951
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.0186,
+        "lon": -150.07611
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.0193,
+        "lon": -150.06711
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.01946,
+        "lon": -150.06025
+      },
+      "depth_m": 26.0
+    },
+    {
+      "position": {
+        "lat": 33.01784,
+        "lon": -150.05161
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.01813,
+        "lon": -150.0442
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.01766,
+        "lon": -150.036
+      },
+      "depth_m": 28.0
+    },
+    {
+      "position": {
+        "lat": 33.01805,
+        "lon": -150.0254
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.01833,
+        "lon": -150.01823
+      },
+      "depth_m": 24.0
+    },
+    {
+      "position": {
+        "lat": 33.01954,
+        "lon": -150.00907
+      },
+      "depth_m": 19.4
+    },
+    {
+      "position": {
+        "lat": 33.02015,
+        "lon": -150.00368
+      },
+      "depth_m": 17.1
+    },
+    {
+      "position": {
+        "lat": 33.01794,
+        "lon": -149.9686
+      },
+      "depth_m": 27.0
+    },
+    {
+      "position": {
+        "lat": 33.02647,
+        "lon": -150.07584
+      },
+      "depth_m": 26.0
+    },
+    {
+      "position": {
+        "lat": 33.02559,
+        "lon": -150.06874
+      },
+      "depth_m": 24.0
+    },
+    {
+      "position": {
+        "lat": 33.02513,
+        "lon": -150.06102
+      },
+      "depth_m": 23.0
+    },
+    {
+      "position": {
+        "lat": 33.02725,
+        "lon": -150.05415
+      },
+      "depth_m": 20.5
+    },
+    {
+      "position": {
+        "lat": 33.02557,
+        "lon": -150.02915
+      },
+      "depth_m": 26.0
+    },
+    {
+      "position": {
+        "lat": 33.02474,
+        "lon": -150.02078
+      },
+      "depth_m": 23.0
+    },
+    {
+      "position": {
+        "lat": 33.02653,
+        "lon": -150.0087
+      },
+      "depth_m": 13.3
+    },
+    {
+      "position": {
+        "lat": 33.02608,
+        "lon": -150.0025
+      },
+      "depth_m": 8.8
+    },
+    {
+      "position": {
+        "lat": 33.02548,
+        "lon": -149.99238
+      },
+      "depth_m": 8.9
+    },
+    {
+      "position": {
+        "lat": 33.02661,
+        "lon": -149.98515
+      },
+      "depth_m": 14.2
+    },
+    {
+      "position": {
+        "lat": 33.02606,
+        "lon": -149.97773
+      },
+      "depth_m": 20.0
+    },
+    {
+      "position": {
+        "lat": 33.02736,
+        "lon": -149.96775
+      },
+      "depth_m": 25.0
+    },
+    {
+      "position": {
+        "lat": 33.03444,
+        "lon": -150.07875
+      },
+      "depth_m": 25.0
+    },
+    {
+      "position": {
+        "lat": 33.03384,
+        "lon": -150.07098
+      },
+      "depth_m": 22.0
+    },
+    {
+      "position": {
+        "lat": 33.03179,
+        "lon": -150.05943
+      },
+      "depth_m": 17.3
+    },
+    {
+      "position": {
+        "lat": 33.03405,
+        "lon": -150.05264
+      },
+      "depth_m": 13.3
+    },
+    {
+      "position": {
+        "lat": 33.03343,
+        "lon": -150.04589
+      },
+      "depth_m": 17.8
+    },
+    {
+      "position": {
+        "lat": 33.03209,
+        "lon": -150.02636
+      },
+      "depth_m": 24.0
+    },
+    {
+      "position": {
+        "lat": 33.03254,
+        "lon": -150.02011
+      },
+      "depth_m": 20.3
+    },
+    {
+      "position": {
+        "lat": 33.03249,
+        "lon": -150.01184
+      },
+      "depth_m": 12.7
+    },
+    {
+      "position": {
+        "lat": 33.03281,
+        "lon": -149.98371
+      },
+      "depth_m": 12.3
+    },
+    {
+      "position": {
+        "lat": 33.03305,
+        "lon": -149.97525
+      },
+      "depth_m": 20.6
+    },
+    {
+      "position": {
+        "lat": 33.03432,
+        "lon": -149.96872
+      },
+      "depth_m": 24.0
+    },
+    {
+      "position": {
+        "lat": 33.04141,
+        "lon": -150.06102
+      },
+      "depth_m": 10.2
+    },
+    {
+      "position": {
+        "lat": 33.04157,
+        "lon": -150.0184
+      },
+      "depth_m": 20.4
+    },
+    {
+      "position": {
+        "lat": 33.03966,
+        "lon": -150.01123
+      },
+      "depth_m": 12.5
+    },
+    {
+      "position": {
+        "lat": 33.04053,
+        "lon": -149.96843
+      },
+      "depth_m": 25.0
+    },
+    {
+      "position": {
+        "lat": 33.04671,
+        "lon": -150.05406
+      },
+      "depth_m": 10.1
+    },
+    {
+      "position": {
+        "lat": 33.04805,
+        "lon": -150.04291
+      },
+      "depth_m": 19.4
+    },
+    {
+      "position": {
+        "lat": 33.04801,
+        "lon": -150.02562
+      },
+      "depth_m": 25.0
+    },
+    {
+      "position": {
+        "lat": 33.04708,
+        "lon": -150.01741
+      },
+      "depth_m": 22.0
+    },
+    {
+      "position": {
+        "lat": 33.04549,
+        "lon": -150.00891
+      },
+      "depth_m": 16.0
+    },
+    {
+      "position": {
+        "lat": 33.0454,
+        "lon": -150.00408
+      },
+      "depth_m": 11.9
+    },
+    {
+      "position": {
+        "lat": 33.04616,
+        "lon": -149.99484
+      },
+      "depth_m": 12.3
+    },
+    {
+      "position": {
+        "lat": 33.04722,
+        "lon": -149.98675
+      },
+      "depth_m": 17.3
+    },
+    {
+      "position": {
+        "lat": 33.05453,
+        "lon": -150.05943
+      },
+      "depth_m": 16.6
+    },
+    {
+      "position": {
+        "lat": 33.05297,
+        "lon": -150.05187
+      },
+      "depth_m": 15.9
+    },
+    {
+      "position": {
+        "lat": 33.05247,
+        "lon": -150.04367
+      },
+      "depth_m": 18.7
+    },
+    {
+      "position": {
+        "lat": 33.05553,
+        "lon": -150.03441
+      },
+      "depth_m": 17.9
+    },
+    {
+      "position": {
+        "lat": 33.05499,
+        "lon": -149.99242
+      },
+      "depth_m": 17.1
+    },
+    {
+      "position": {
+        "lat": 33.05489,
+        "lon": -149.98698
+      },
+      "depth_m": 19.1
+    },
+    {
+      "position": {
+        "lat": 33.05965,
+        "lon": -150.07693
+      },
+      "depth_m": 7.7
+    },
+    {
+      "position": {
+        "lat": 33.06144,
+        "lon": -150.06837
+      },
+      "depth_m": 8.1
+    },
+    {
+      "position": {
+        "lat": 33.06201,
+        "lon": -150.05938
+      },
+      "depth_m": 5.4
+    },
+    {
+      "position": {
+        "lat": 33.06174,
+        "lon": -150.053
+      },
+      "depth_m": 2.5
+    },
+    {
+      "position": {
+        "lat": 33.06231,
+        "lon": -150.0425
+      },
+      "depth_m": 5.4
+    },
+    {
+      "position": {
+        "lat": 33.05942,
+        "lon": -150.03696
+      },
+      "depth_m": 13.4
+    },
+    {
+      "position": {
+        "lat": 33.06005,
+        "lon": -150.02666
+      },
+      "depth_m": 19.4
+    },
+    {
+      "position": {
+        "lat": 33.06248,
+        "lon": -150.01866
+      },
+      "depth_m": 10.9
+    },
+    {
+      "position": {
+        "lat": 33.06018,
+        "lon": -150.01104
+      },
+      "depth_m": 11.6
+    },
+    {
+      "position": {
+        "lat": 33.06152,
+        "lon": -150.00238
+      },
+      "depth_m": 6.9
+    },
+    {
+      "position": {
+        "lat": 33.0606,
+        "lon": -149.99545
+      },
+      "depth_m": 8.0
+    },
+    {
+      "position": {
+        "lat": 33.06154,
+        "lon": -149.98697
+      },
+      "depth_m": 11.6
+    },
+    {
+      "position": {
+        "lat": 33.06113,
+        "lon": -149.96932
+      },
+      "depth_m": 11.2
+    },
+    {
+      "position": {
+        "lat": 33.06678,
+        "lon": -150.03708
+      },
+      "depth_m": 4.2
+    },
+    {
+      "position": {
+        "lat": 33.07548,
+        "lon": -150.02607
+      },
+      "depth_m": 10.4
+    }
+  ],
+  "hazards": [
+    {
+      "id": "sentinel-rock",
+      "kind": "drying-rock",
+      "name": "Sentinel Rock",
+      "position": {
+        "lat": 33.02667,
+        "lon": -150.03959
+      },
+      "drying_height_m": 1.2
+    },
+    {
+      "id": "mercy-shoal",
+      "kind": "shoal",
+      "name": "Mercy Shoal",
+      "position": {
+        "lat": 33.015,
+        "lon": -149.98591
+      },
+      "depth_m": 2.8
+    }
+  ],
+  "aids": [
+    {
+      "id": "harbour-point-light",
+      "name": "Harbour Point Light",
+      "kind": "light",
+      "position": {
+        "lat": 33.07,
+        "lon": -150.03362
+      },
+      "colour": "white",
+      "characteristic": "Fl W 4s",
+      "height_m": 14,
+      "range_nm": 10
+    },
+    {
+      "id": "pine-island-light",
+      "name": "Pine Island Light",
+      "kind": "light",
+      "position": {
+        "lat": 33.03833,
+        "lon": -149.99784
+      },
+      "colour": "white",
+      "characteristic": "Fl(2) W 8s",
+      "height_m": 22,
+      "range_nm": 12
+    },
+    {
+      "id": "gull-rock-beacon",
+      "name": "Gull Rock Beacon",
+      "kind": "beacon",
+      "position": {
+        "lat": 33.04167,
+        "lon": -150.0553
+      },
+      "colour": "black",
+      "notes": "Unlit beacon on a small rock."
+    },
+    {
+      "id": "fairway-buoy",
+      "name": "Fairway Buoy",
+      "kind": "buoy",
+      "position": {
+        "lat": 33.05333,
+        "lon": -150.02667
+      },
+      "colour": "red and white vertical stripes",
+      "characteristic": "Mo(A) W 6s",
+      "notes": "Safe-water mark for the harbour entrance."
+    }
+  ],
+  "legend": [
+    {
+      "symbol": "light",
+      "meaning": "Light. Fl = flashing, the number is the period in seconds, then height in metres and range in nautical miles."
+    },
+    {
+      "symbol": "buoy",
+      "meaning": "Buoy. Red and white vertical stripes mark safe water."
+    },
+    {
+      "symbol": "beacon",
+      "meaning": "Beacon, a fixed unlit mark."
+    },
+    {
+      "symbol": "cross with underlined number",
+      "meaning": "Rock that dries. The underlined number is its height above chart datum, in metres."
+    },
+    {
+      "symbol": "dotted ring",
+      "meaning": "Shoal. The number is the least depth over it, in metres."
+    },
+    {
+      "symbol": "small numbers",
+      "meaning": "Soundings in metres below chart datum."
+    },
+    {
+      "symbol": "compass rose",
+      "meaning": "Outer ring is true north. Inner ring is magnetic, with the variation and its yearly change printed in the centre."
+    }
+  ],
+  "review_status": "draft"
+}
