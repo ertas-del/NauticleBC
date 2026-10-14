@@ -25,6 +25,9 @@ private val MODULE_ORDER = listOf(
     "svop", "fm4-overview", "fm4-chartwork", "fm4-navigation-safety", "fm4-stability-construction", "fm4-oral",
 )
 
+/** Tickets with these subjects get the practice sums card. */
+private val DRILL_MODULES = setOf("chartwork", "fm4-chartwork", "svop")
+
 /** Everything for one ticket: its subjects (modules) with lesson counts, then its mock exams. */
 @Composable
 fun TicketScreen(
@@ -32,6 +35,7 @@ fun TicketScreen(
     bundle: ContentBundle,
     onOpenModule: (String) -> Unit,
     onOpenMocks: () -> Unit,
+    onOpenDrills: () -> Unit,
     onBack: () -> Unit,
 ) {
     val ticketBundle = remember(bundle, ticketId) { bundle.forTicket(ticketId) }
@@ -72,6 +76,16 @@ fun TicketScreen(
                             stringResource(R.string.ticket_lesson_count, count),
                             style = MaterialTheme.typography.bodyMedium,
                         )
+                    }
+                }
+            }
+            if (modules.any { (module, _) -> module in DRILL_MODULES }) {
+                item(key = "drills") {
+                    Card(modifier = Modifier.fillMaxWidth().clickable(onClick = onOpenDrills)) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Text(stringResource(R.string.drill_card_title), style = MaterialTheme.typography.titleMedium)
+                            Text(stringResource(R.string.drill_card_desc), style = MaterialTheme.typography.bodyMedium)
+                        }
                     }
                 }
             }
