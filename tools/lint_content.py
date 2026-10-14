@@ -19,7 +19,8 @@ def main() -> int:
         print(f"error: {e}")
     print(
         f"{len(content.sources)} sources, {len(content.lessons)} lessons, "
-        f"{len(content.questions)} questions, {len(content.mock_exams)} mock exams; "
+        f"{len(content.questions)} questions, {len(content.mock_exams)} mock exams, "
+        f"{len(content.charts)} charts, {len(content.chart_exercises)} chart exercises; "
         f"{len(rep.errors)} errors, {len(rep.warnings)} warnings"
     )
     return 1 if rep.errors else 0

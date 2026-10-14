@@ -1,0 +1,106 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://nauticlebc.local/schemas/chart-exercise.schema.json",
+  "title": "Synthetic chartwork exercises",
+  "description": "Graded exercises that use one synthetic chart. Files: content/charts/<chart-id>.exercises.json. Every given and every answer is computed from the chart data, so chart, question and answer key agree.",
+  "type": "object",
+  "properties": {
+    "chart_id": { "$ref": "common.schema.json#/$defs/id" },
+    "exercises": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "allOf": [{ "$ref": "common.schema.json#/$defs/review" }],
+        "properties": {
+          "id": { "$ref": "common.schema.json#/$defs/id" },
+          "tickets": {
+            "type": "array",
+            "items": { "$ref": "common.schema.json#/$defs/ticket" },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "kind": {
+            "enum": ["read-position", "plot-position", "course-distance", "dr-position", "cross-bearing-fix", "compass-conversion", "tide-height", "under-keel-clearance", "current-effect", "passage-window"]
+          },
+          "difficulty": { "enum": ["easy", "medium", "hard"] },
+          "prompt": { "type": "string", "minLength": 1, "description": "What the learner is asked to do, in plain words." },
+          "givens": {
+            "type": "object",
+            "description": "Everything the learner is told. Units are fixed: degrees true unless named otherwise, knots, nautical miles, metres, 24-hour local time.",
+            "properties": {
+              "start_position": { "$ref": "chart.schema.json#/$defs/position" },
+              "start_time": { "type": "string", "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$" },
+              "course_true": { "type": "number", "minimum": 0, "maximum": 360 },
+              "course_compass": { "type": "number", "minimum": 0, "maximum": 360 },
+              "speed_kn": { "type": "number", "exclusiveMinimum": 0 },
+              "duration_min": { "type": "number", "exclusiveMinimum": 0 },
+              "deviation": {
+                "type": "object",
+                "properties": { "degrees": { "type": "number", "minimum": 0 }, "direction": { "enum": ["E", "W"] } },
+                "required": ["degrees", "direction"],
+                "additionalProperties": false
+              },
+              "bearings": {
+                "type": "array",
+                "minItems": 2,
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "mark_id": { "$ref": "common.schema.json#/$defs/id" },
+                    "bearing_compass": { "type": "number", "minimum": 0, "maximum": 360 },
+                    "bearing_true": { "type": "number", "minimum": 0, "maximum": 360 }
+                  },
+                  "required": ["mark_id"],
+                  "additionalProperties": false
+                }
+              },
+              "current": {
+                "type": "object",
+                "properties": { "set_true": { "type": "number", "minimum": 0, "maximum": 360 }, "rate_kn": { "type": "number", "minimum": 0 } },
+                "required": ["set_true", "rate_kn"],
+                "additionalProperties": false
+              },
+              "draught_m": { "type": "number", "exclusiveMinimum": 0 },
+              "height_of_tide_m": { "type": "number" },
+              "low_water": { "type": "object", "properties": { "time": { "type": "string" }, "height_m": { "type": "number" } }, "required": ["time", "height_m"], "additionalProperties": false },
+              "high_water": { "type": "object", "properties": { "time": { "type": "string" }, "height_m": { "type": "number" } }, "required": ["time", "height_m"], "additionalProperties": false },
+              "query_time": { "type": "string", "pattern": "^([01][0-9]|2[0-3]):[0-5][0-9]$" },
+              "margin_m": { "type": "number", "minimum": 0 }
+            },
+            "additionalProperties": false
+          },
+          "answers": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": { "type": "string", "minLength": 1 },
+                "kind": { "enum": ["position", "bearing", "distance", "time", "height", "number", "text"] },
+                "value": {
+                  "oneOf": [
+                    { "$ref": "chart.schema.json#/$defs/position" },
+                    { "type": "number" },
+                    { "type": "string" }
+                  ]
+                },
+                "tolerance": { "type": "number", "minimum": 0, "description": "Accepted error in the answer's own unit: nautical miles for a position or distance, degrees for a bearing, minutes for a time, metres for a height." },
+                "unit": { "type": "string" }
+              },
+              "required": ["label", "kind", "value"],
+              "additionalProperties": false
+            }
+          },
+          "method": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 2, "description": "The working, one step per line. Shown in the debrief." },
+          "assumptions": { "type": "array", "items": { "type": "string", "minLength": 1 } },
+          "source_ids": { "type": "array", "items": { "$ref": "common.schema.json#/$defs/id" }, "uniqueItems": true }
+        },
+        "required": ["id", "tickets", "kind", "difficulty", "prompt", "givens", "answers", "method", "review_status"],
+        "unevaluatedProperties": false
+      }
+    }
+  },
+  "required": ["chart_id", "exercises"],
+  "additionalProperties": false
+}
