@@ -40,6 +40,8 @@ def main() -> int:
         "lessons": [strip_path(x) for x in sorted(content.lessons, key=lambda x: (x["module"], x["order"], x["id"]))],
         "questions": [strip_path(x) for x in sorted(content.questions, key=lambda x: x["id"])],
         "mock_exams": [strip_path(x) for x in sorted(content.mock_exams, key=lambda x: x["id"])],
+        "charts": [strip_path(x) for x in sorted(content.charts, key=lambda x: x["id"])],
+        "chart_exercises": [strip_path(x) for x in sorted(content.chart_exercises, key=lambda x: x["id"])],
     }
     args.out.parent.mkdir(parents=True, exist_ok=True)
     # Figures: the app shows the rendered PNGs; the SVG sources stay in the repo.
@@ -51,7 +53,7 @@ def main() -> int:
         for fid in used:
             shutil.copyfile(FIGURE_DIR / f"{fid}.png", fig_out / f"{fid}.png")
     args.out.write_text(json.dumps(bundle, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"wrote {args.out}: {len(bundle['lessons'])} lessons, {len(bundle['questions'])} questions")
+    print(f"wrote {args.out}: {len(bundle['lessons'])} lessons, {len(bundle['questions'])} questions, {len(bundle['charts'])} charts")
     return 0
 
 

@@ -37,6 +37,8 @@ class Content:
     lessons: list[dict] = field(default_factory=list)  # frontmatter + "body" + "path"
     questions: list[dict] = field(default_factory=list)  # question + "module" + "path"
     mock_exams: list[dict] = field(default_factory=list)
+    charts: list[dict] = field(default_factory=list)  # synthetic charts + "path"
+    chart_exercises: list[dict] = field(default_factory=list)  # exercise + "chart_id" + "path"
     report: Report = field(default_factory=Report)
 
 
@@ -118,6 +120,8 @@ def load_content() -> Content:
     v_lesson = _validator("lesson", registry)
     v_question = _validator("question", registry)
     v_mock = _validator("mock-exam", registry)
+    v_chart = _validator("chart", registry)
+    v_chart_ex = _validator("chart-exercise", registry)
     modules = set(json.loads((SCHEMA_DIR / "common.schema.json").read_text())["$defs"]["module"]["enum"])
 
     # Sources: content/sources.json plus any content/sources/*.json (one file per lane avoids merge conflicts)
@@ -189,8 +193,90 @@ def load_content() -> Content:
             r.error(where, "blueprint counts do not add up to question_count")
         c.mock_exams.append({**data, "path": where})
 
+    # Synthetic charts and their exercises
+    for path in sorted((CONTENT_DIR / "charts").glob("*.chart.json")):
+        where = _rel(path)
+        data = _load_json(path, r)
+        if data is not None and _validate(v_chart, data, where, r):
+            c.charts.append({**data, "path": where})
+    for path in sorted((CONTENT_DIR / "charts").glob("*.exercises.json")):
+        where = _rel(path)
+        data = _load_json(path, r)
+        if data is None or not _validate(v_chart_ex, data, where, r):
+            continue
+        for ex in data["exercises"]:
+            c.chart_exercises.append({**ex, "chart_id": data["chart_id"], "path": where})
+
     _cross_check(c)
+    _check_charts(c)
     return c
+
+
+def _in_extent(pos: dict, ext: dict) -> bool:
+    return ext["south"] <= pos["lat"] <= ext["north"] and ext["west"] <= pos["lon"] <= ext["east"]
+
+
+def _check_charts(c: Content) -> None:
+    """Charts: unique ids, everything inside the extent. Exercises: known chart and marks, givens inside the extent."""
+    r = c.report
+    charts: dict[str, dict] = {}
+    for ch in c.charts:
+        if ch["id"] in charts:
+            r.error(ch["path"], f"duplicate chart id {ch['id']}")
+        charts[ch["id"]] = ch
+        ext = ch["extent"]
+        if ext["south"] >= ext["north"] or ext["west"] >= ext["east"]:
+            r.error(ch["path"], "extent must have south < north and west < east")
+        ids: set[str] = set()
+        for group in ("compass_roses", "hazards", "aids"):
+            for item in ch[group]:
+                if item["id"] in ids:
+                    r.error(ch["path"], f"duplicate id {item['id']} on chart {ch['id']}")
+                ids.add(item["id"])
+                if not _in_extent(item["position"], ext):
+                    r.error(ch["path"], f"{item['id']}: position outside the chart extent")
+        for s in ch["soundings"]:
+            if not _in_extent(s["position"], ext):
+                r.error(ch["path"], f"sounding at {s['position']} is outside the chart extent")
+        for land in ch["land"]:
+            for p in land["ring"]:
+                if not _in_extent(p, ext):
+                    r.warn(ch["path"], f"land '{land.get('name', land['kind'])}' has a point outside the extent (allowed, runs off the chart)")
+                    break
+        for src in ch.get("source_ids", []):
+            if src not in c.sources:
+                r.error(ch["path"], f"chart {ch['id']}: unknown source id '{src}'")
+    seen: dict[str, str] = {}
+    for ex in c.chart_exercises:
+        label = ex["id"]
+        if label in seen:
+            r.error(ex["path"], f"duplicate chart exercise id {label} (also in {seen[label]})")
+        seen[label] = ex["path"]
+        chart = charts.get(ex["chart_id"])
+        if chart is None:
+            r.error(ex["path"], f"{label}: unknown chart_id {ex['chart_id']}")
+            continue
+        marks = {a["id"] for a in chart["aids"]} | {h["id"] for h in chart["hazards"]}
+        g = ex["givens"]
+        if "start_position" in g and not _in_extent(g["start_position"], chart["extent"]):
+            r.error(ex["path"], f"{label}: start_position is outside the chart extent")
+        for b in g.get("bearings", []):
+            if b["mark_id"] not in marks:
+                r.error(ex["path"], f"{label}: bearing to unknown mark {b['mark_id']}")
+            if "bearing_compass" not in b and "bearing_true" not in b:
+                r.error(ex["path"], f"{label}: bearing to {b['mark_id']} needs bearing_compass or bearing_true")
+        for a in ex["answers"]:
+            if a["kind"] == "position" and not (isinstance(a["value"], dict) and "lat" in a["value"]):
+                r.error(ex["path"], f"{label}: answer '{a['label']}' is kind position but value is not a position")
+            if a["kind"] == "position" and isinstance(a["value"], dict) and not _in_extent(a["value"], chart["extent"]):
+                r.error(ex["path"], f"{label}: answer '{a['label']}' lies outside the chart extent")
+            if a["kind"] in ("bearing", "distance", "time", "height", "number") and not isinstance(a["value"], (int, float)):
+                r.error(ex["path"], f"{label}: answer '{a['label']}' needs a numeric value")
+            if a["kind"] != "text" and "tolerance" not in a:
+                r.error(ex["path"], f"{label}: answer '{a['label']}' needs a tolerance")
+        for sid in ex.get("source_ids", []):
+            if sid not in c.sources:
+                r.error(ex["path"], f"{label}: unknown source id '{sid}'")
 
 
 def _cross_check(c: Content) -> None:
