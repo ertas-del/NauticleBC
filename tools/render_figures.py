@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render content/figures/*.svg to PNG (same name, 2x scale) with headless Chromium via Playwright.
+"""Render content/figures/*.svg and content/charts/*.svg to PNG (same name, 2x scale) with headless Chromium via Playwright.
 
 The app shows the PNGs; the SVGs stay the editable source. Run after drawing or changing a figure:
     python3 tools/render_figures.py
@@ -12,11 +12,13 @@ from pathlib import Path
 
 from playwright.sync_api import sync_playwright
 
-FIGURES = Path(__file__).resolve().parent.parent / "content" / "figures"
+CONTENT = Path(__file__).resolve().parent.parent / "content"
+FIGURES = CONTENT / "figures"
+CHARTS = CONTENT / "charts"
 
 
 def main() -> int:
-    svgs = sorted(FIGURES.glob("*.svg"))
+    svgs = sorted([*FIGURES.glob("*.svg"), *CHARTS.glob("*.svg")])
     with sync_playwright() as p:
         browser = p.chromium.launch()
         for svg in svgs:

@@ -227,6 +227,9 @@ def _check_charts(c: Content) -> None:
         ext = ch["extent"]
         if ext["south"] >= ext["north"] or ext["west"] >= ext["east"]:
             r.error(ch["path"], "extent must have south < north and west < east")
+        for ext_ in ("svg", "png"):
+            if not (CONTENT_DIR / "charts" / f"{ch['id']}.{ext_}").is_file():
+                r.error(ch["path"], f"chart {ch['id']}: missing content/charts/{ch['id']}.{ext_} (run the chart generator, then tools/render_figures.py)")
         ids: set[str] = set()
         for group in ("compass_roses", "hazards", "aids"):
             for item in ch[group]:
