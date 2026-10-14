@@ -120,9 +120,10 @@ object Drills {
     }
 
     private fun depthAndClearance(random: Random): Drill {
-        val charted = random.nextInt(5, 121)   // tenths of a metre
+        val charted = random.nextInt(20, 121)  // tenths of a metre
         val tide = random.nextInt(2, 51)
-        val draught = random.nextInt(8, 31)
+        // Keep at least half a metre under the keel so the answer is never negative.
+        val draught = random.nextInt(8, minOf(30, charted + tide - 5) + 1)
         val depth = charted + tide
         val clearance = depth - draught
         return Drill(
