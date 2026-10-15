@@ -38,6 +38,7 @@ object Routes {
     const val MOCKS_PATTERN = "mocks?ticket={$ARG_TICKET}"
     const val MOCK_PATTERN = "mock/{$ARG_EXAM}"
     const val DRILLS = "drills"
+    const val CHARTS = "charts"
 
     fun ticket(ticketId: String) = "ticket/$ticketId"
     fun mocks(ticketId: String) = "mocks?ticket=$ticketId"
@@ -83,8 +84,19 @@ fun NauticleApp() {
                     onOpenModule = { navController.navigate(Routes.module(it, ticketId)) },
                     onOpenMocks = { navController.navigate(Routes.mocks(ticketId)) },
                     onOpenDrills = { navController.navigate(Routes.DRILLS) },
+                    onOpenCharts = { navController.navigate(Routes.CHARTS) },
                     onBack = { navController.popBackStack() },
                 )
+            }
+        }
+
+        composable(Routes.CHARTS) {
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.chart_screen_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                ChartScreen(bundle = bundle, onBack = { navController.popBackStack() })
             }
         }
 

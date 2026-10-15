@@ -214,4 +214,20 @@
     <string name="drill_step_sdt_hours">Time = distance ÷ speed = %1$s ÷ %2$s = %3$s hours.</string>
     <string name="drill_step_sdt_minutes">%1$s hours × 60 = %2$s minutes.</string>
     <string name="drill_step_sdt_speed">Speed = distance ÷ time = %1$s ÷ %2$s = %3$s knots.</string>
+    <string name="chart_card_title">Practice charts</string>
+    <string name="chart_card_desc">Fictional charts for plotting and measuring. Pan, zoom and tap to read a position.</string>
+    <string name="chart_screen_title">Practice charts</string>
+    <string name="chart_none">No practice charts are in this build.</string>
+    <string name="chart_fictional_banner">Fictional training chart. Not for navigation.</string>
+    <string name="chart_tap_hint">Tap the chart to read a position.</string>
+    <string name="chart_cursor">%1$s  %2$s</string>
+    <string name="chart_reset">Reset view</string>
+    <string name="chart_content_description">%1$s, a fictional training chart. Pinch to zoom, drag to move, tap to read a position.</string>
+    <string name="chart_no_exercises">No exercises for this chart yet.</string>
+    <string name="chart_exercise_n">Exercise %1$d</string>
+    <string name="chart_show_method">Show method</string>
+    <string name="chart_hide_method">Hide method</string>
+    <string name="chart_show_answer">Show answer</string>
+    <string name="chart_hide_answer">Hide answer</string>
+    <string name="chart_tolerance">(within %1$s)</string>
 </resources>

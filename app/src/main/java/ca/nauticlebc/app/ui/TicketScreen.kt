@@ -36,6 +36,7 @@ fun TicketScreen(
     onOpenModule: (String) -> Unit,
     onOpenMocks: () -> Unit,
     onOpenDrills: () -> Unit,
+    onOpenCharts: () -> Unit,
     onBack: () -> Unit,
 ) {
     val ticketBundle = remember(bundle, ticketId) { bundle.forTicket(ticketId) }
@@ -85,6 +86,16 @@ fun TicketScreen(
                         Column(modifier = Modifier.padding(16.dp)) {
                             Text(stringResource(R.string.drill_card_title), style = MaterialTheme.typography.titleMedium)
                             Text(stringResource(R.string.drill_card_desc), style = MaterialTheme.typography.bodyMedium)
+                        }
+                    }
+                }
+            }
+            if (bundle.charts.isNotEmpty() && modules.any { (module, _) -> module in DRILL_MODULES }) {
+                item(key = "charts") {
+                    Card(modifier = Modifier.fillMaxWidth().clickable(onClick = onOpenCharts)) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Text(stringResource(R.string.chart_card_title), style = MaterialTheme.typography.titleMedium)
+                            Text(stringResource(R.string.chart_card_desc), style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }
