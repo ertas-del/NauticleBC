@@ -241,8 +241,8 @@ private fun ChartCanvas(
                     val k = baseScale(geo, size.width.toFloat(), size.height.toFloat()) * zoom
                     val ox = fitOffsetX(geo, size.width.toFloat(), k) + pan.x
                     val oy = fitOffsetY(geo, size.height.toFloat(), k) + pan.y
-                    val xNm = (tap.x - ox) / k
-                    val yNm = geo.heightNm - (tap.y - oy) / k
+                    val xNm = ((tap.x - ox) / k).toDouble()
+                    val yNm = geo.heightNm - ((tap.y - oy) / k).toDouble()
                     onTap(geo.position(xNm, yNm))
                 }
             },
@@ -254,7 +254,6 @@ private fun ChartCanvas(
         val oy = fitOffsetY(geo, h, k) + pan.y
         fun sx(p: ChartPos) = (ox + geo.x(p) * k).toFloat()
         fun sy(p: ChartPos) = (oy + (geo.heightNm - geo.y(p)) * k).toFloat()
-        val density = density
         textPaint.textSize = 11f * density
         namePaint.textSize = 12f * density
         aidPaint.textSize = 11f * density
@@ -394,7 +393,7 @@ private fun DrawScope.drawGraticule(
 private fun DrawScope.drawRose(
     position: ChartPos,
     chart: Chart,
-    k: Double,
+    k: Float,
     sx: (ChartPos) -> Float,
     sy: (ChartPos) -> Float,
     paint: Paint,
