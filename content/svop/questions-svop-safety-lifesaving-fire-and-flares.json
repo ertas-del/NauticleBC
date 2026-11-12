@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "A lifejacket is designed to:",
       "options": [
-        "Keep you warm",
+        "Keep you warm in cold water",
         "Turn an unconscious person face up",
-        "Protect you from fire",
-        "Make you sink"
+        "Protect you from fire and heat on deck",
+        "Let you swim faster to safety"
       ],
       "correct_index": 1,
       "explanation": "A PFD does not necessarily turn you over.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Lifejackets and PFDs should be:",
       "options": [
-        "Never checked",
+        "Checked only when bought",
         "Checked regularly and replaced if damaged",
-        "Stored wet",
-        "Hidden at the bottom of a locker"
+        "Stored wet so they are ready",
+        "Kept at the bottom of a locker, out of the sun"
       ],
       "correct_index": 1,
       "explanation": "Check fabric, buckles and fit.",
@@ -54,8 +54,8 @@
       "difficulty": "easy",
       "stem": "Flares should be stored:",
       "options": [
-        "In the bilge",
-        "Locked ashore",
+        "In the bilge, out of the way",
+        "Locked away ashore",
         "Dry and within easy reach",
         "In the engine room"
       ],
@@ -78,8 +78,8 @@
       "options": [
         "Be thrown overboard",
         "Be burned on the dock",
-        "Be disposed of properly, not fired off for fun",
-        "Be fired in a harbour"
+        "Be disposed of properly, not fired off",
+        "Be fired off in harbour to use them up"
       ],
       "correct_index": 2,
       "explanation": "Use a marine supplier or approved collection point.",
@@ -99,9 +99,9 @@
       "stem": "Flares should only be used:",
       "options": [
         "In distress or approved practice",
-        "For fun",
-        "To race",
-        "To attract a bar tab"
+        "To greet other boats at night in harbour",
+        "To start a race or event",
+        "To light up the deck at night"
       ],
       "correct_index": 0,
       "explanation": "Misuse is an offence.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Fire extinguishers should be checked:",
       "options": [
-        "Once a decade",
-        "Regularly, for pin, seal, pressure and nozzle",
-        "Never",
-        "Only after a fire"
+        "Once every ten years",
+        "Regularly: pin, seal, pressure and nozzle",
+        "Only when the vessel is sold",
+        "Only after they have been used"
       ],
       "correct_index": 1,
       "explanation": "Monthly checks are normal.",
@@ -166,8 +166,8 @@
       "options": [
         "A light cleat",
         "A strong point",
-        "A railing",
-        "A fender"
+        "A stern railing",
+        "A fender eye"
       ],
       "correct_index": 1,
       "explanation": "A weak point can pull out.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "When towing, people should keep:",
       "options": [
-        "Near the line",
+        "Near the line to watch it",
         "Clear of the line and the bight",
-        "Next to the line",
-        "Across the line"
+        "Next to the line to guide it",
+        "Across the line to hold it down"
       ],
       "correct_index": 1,
       "explanation": "A parting line can kill.",

@@ -13,7 +13,7 @@
         "Back of the vessel",
         "Front of the vessel",
         "Right side looking forward",
-        "Left side looking forward"
+        "Left side looking forward, toward the bow"
       ],
       "correct_index": 2,
       "explanation": "Port is left and starboard is right when looking toward the bow.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "Freeboard is the:",
       "options": [
-        "Length of the hull",
+        "Length of the hull at the waterline",
         "Height from the waterline to the deck edge",
-        "Weight of the vessel",
-        "Depth of the keel"
+        "Weight of the vessel when loaded",
+        "Depth of the keel below the waterline when loaded"
       ],
       "correct_index": 1,
       "explanation": "It is a basic measure of reserve buoyancy.",
@@ -122,8 +122,8 @@
       "options": [
         "Cannot float at rest",
         "Pushes water aside and is limited in speed",
-        "Always planes",
-        "Has no keel"
+        "Always planes at speed",
+        "Has no keel at all"
       ],
       "correct_index": 1,
       "explanation": "Its speed is limited by its waterline length.",
@@ -166,7 +166,7 @@
       "options": [
         "Leeward side",
         "Port side",
-        "Aft side",
+        "Quarter side",
         "Windward side"
       ],
       "correct_index": 3,
@@ -187,9 +187,9 @@
       "stem": "An open vessel compared with an enclosed one is generally:",
       "options": [
         "Better in rough weather",
-        "Heavier",
+        "Heavier for its size",
         "More exposed to weather and water coming aboard",
-        "Always safer"
+        "Always safer to operate"
       ],
       "correct_index": 2,
       "explanation": "An enclosed hull gives more shelter and reserve buoyancy.",

@@ -11,9 +11,9 @@
       "stem": "Before starting an inboard gasoline engine you should run the bilge blower for at least:",
       "options": [
         "One hour",
-        "No time",
+        "Thirty seconds",
         "Four minutes",
-        "10 seconds"
+        "Ten seconds"
       ],
       "correct_index": 2,
       "explanation": "Then check for vapour.",
@@ -33,9 +33,9 @@
       "stem": "The fuel rule of thirds means:",
       "options": [
         "One third out, one third back, one third reserve",
-        "Buy only a third",
-        "Use all the fuel",
-        "All fuel for the outward trip"
+        "Buy only a third of a tank at a time",
+        "Use two thirds out and one third back",
+        "All fuel for the outward trip, then refuel at the far end"
       ],
       "correct_index": 0,
       "explanation": "Plan reserve.",
@@ -55,9 +55,9 @@
       "stem": "A trip plan should be left with:",
       "options": [
         "A responsible person ashore",
-        "A passing boat",
-        "No one",
-        "The fuel dock"
+        "A passing boat on the way out",
+        "Nobody, if the trip is short",
+        "The fuel dock attendant"
       ],
       "correct_index": 0,
       "explanation": "Tell them when you return.",
@@ -77,9 +77,9 @@
       "stem": "A departure checklist helps you:",
       "options": [
         "Not forget important items",
-        "Go faster",
-        "Skip the weather",
-        "Use more fuel"
+        "Leave the dock faster",
+        "Skip the weather check",
+        "Save fuel on the trip"
       ],
       "correct_index": 0,
       "explanation": "Use it every trip.",
@@ -98,9 +98,9 @@
       "difficulty": "medium",
       "stem": "A reason to run the blower is that gasoline vapour:",
       "options": [
-        "Is lighter than air",
-        "Is harmless",
-        "Cools the engine",
+        "Is lighter than air and rises out",
+        "Is harmless once the engine is warm",
+        "Cools the engine if it is left sitting in the bilge",
         "Is heavier than air and collects in the bilge"
       ],
       "correct_index": 3,
@@ -120,9 +120,9 @@
       "difficulty": "easy",
       "stem": "Before a trip you should check:",
       "options": [
-        "Only the paint",
-        "Nothing",
-        "Only the radio",
+        "Only the paint and the hull",
+        "Only the fishing reports",
+        "Only the radio and the battery",
         "Weather, tides, fuel and safety gear"
       ],
       "correct_index": 3,
@@ -143,9 +143,9 @@
       "stem": "Local hazards include:",
       "options": [
         "Rocks, tide rips and traffic",
-        "Only wind",
-        "Only sunshine",
-        "None"
+        "Only the wind direction",
+        "Only the sunshine and glare",
+        "Only other boats at the dock"
       ],
       "correct_index": 0,
       "explanation": "Check the area before you go.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "When you return, you should:",
       "options": [
-        "Switch off the radio",
+        "Switch off the radio and go home",
         "Tell the contact you are back",
-        "Say nothing",
-        "Leave the dock"
+        "Say nothing unless you were late",
+        "Leave the dock and tie up later"
       ],
       "correct_index": 1,
       "explanation": "Prevent a false alarm.",

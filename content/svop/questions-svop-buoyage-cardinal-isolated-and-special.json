@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "Cardinal marks are coloured:",
       "options": [
-        "Red and green",
+        "Red and green bands",
         "Black and yellow",
-        "Red and white",
+        "Red and white stripes",
         "Blue and white"
       ],
       "correct_index": 1,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "An isolated danger mark is:",
       "options": [
-        "Yellow",
-        "Black with a red band and two black balls",
-        "Green",
-        "Red and white"
+        "Yellow with a yellow X topmark",
+        "Black with red bands and two black balls",
+        "Green with a green cone topmark",
+        "Red and white vertical stripes with a red ball on top"
       ],
       "correct_index": 1,
       "explanation": "Pass well clear.",
@@ -99,9 +99,9 @@
       "stem": "A red and white vertically striped buoy means:",
       "options": [
         "Safe water all around",
-        "A diver",
-        "A rock",
-        "A cable"
+        "Isolated danger below",
+        "Pass on the north side",
+        "A cable or pipeline area"
       ],
       "correct_index": 0,
       "explanation": "Often a fairway mark.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "Yellow buoys generally mark:",
       "options": [
-        "Rocks only",
+        "Rocks just below the surface",
         "Special areas such as cables or anchorages",
-        "Fishing nets only",
-        "Channels"
+        "Fishing nets set by commercial boats in the season",
+        "The edges of a dredged channel"
       ],
       "correct_index": 1,
       "explanation": "Check the chart.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "A float marking divers shows:",
       "options": [
-        "A green flag",
-        "A black ball",
+        "A blue and white swallowtail flag only, on the boat",
+        "A yellow flag with a black ball",
         "A red flag with a white diagonal stripe",
-        "Yellow smoke"
+        "A green flag with a white cross"
       ],
       "correct_index": 2,
       "explanation": "Slow down and keep clear.",
@@ -208,9 +208,9 @@
       "difficulty": "hard",
       "stem": "A mark with horizontal red and green bands marks:",
       "options": [
-        "A safe-water mark",
-        "A diver",
-        "A wreck",
+        "A safe-water mark in mid-channel",
+        "A diver working below",
+        "A wreck with clear water above",
         "A channel junction (bifurcation)"
       ],
       "correct_index": 3,

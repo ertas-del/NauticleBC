@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "The first action when someone falls overboard is:",
       "options": [
-        "Switch off the radio",
+        "Call Mayday on Channel 16 before doing anything else",
         "Shout, point and throw a flotation device",
-        "Anchor",
-        "Go full speed ahead"
+        "Stop the engine and drop the anchor",
+        "Turn sharply and go full speed back"
       ],
       "correct_index": 1,
       "explanation": "Keep eyes on the person.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "A person assigned to point at someone in the water should:",
       "options": [
-        "Fetch coffee",
-        "Help drive the boat",
-        "Do nothing else but keep watching them",
-        "Look away"
+        "Help steer the boat back to them",
+        "Fetch the first aid kit and blankets from below",
+        "Keep watching and pointing, nothing else",
+        "Get the boat hook and ladder ready"
       ],
       "correct_index": 2,
       "explanation": "Don't lose sight.",
@@ -79,7 +79,7 @@
         "In full ahead",
         "In neutral or off",
         "In full astern",
-        "Racing"
+        "In slow ahead"
       ],
       "correct_index": 1,
       "explanation": "Protect them from the propeller.",
@@ -100,7 +100,7 @@
       "options": [
         "Starts the engine",
         "Anchors the boat",
-        "Sends a text",
+        "Calls the Coast Guard",
         "Marks the position"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "You should enter the water to rescue someone:",
       "options": [
-        "Without telling anyone",
+        "Straight away, before telling anyone else on board",
         "Only as a last resort and in a lifejacket",
-        "Without any gear",
-        "As a first choice"
+        "Without gear, so you can swim faster",
+        "As the first choice, to save time"
       ],
       "correct_index": 1,
       "explanation": "Don't create a second casualty.",
@@ -164,9 +164,9 @@
       "difficulty": "medium",
       "stem": "The master's report of a serious marine occurrence normally includes:",
       "options": [
-        "Only a bill",
-        "No report",
-        "Only a text message",
+        "Only a bill for the damage",
+        "No report if no one is hurt",
+        "Only a text message to the owner about the damage",
         "An initial report then a follow-up"
       ],
       "correct_index": 3,
@@ -187,9 +187,9 @@
       "stem": "To help prevent falls overboard you should:",
       "options": [
         "Wear a lifejacket and keep decks clear and non-slip",
-        "Stand on the bow in waves",
-        "Run on deck",
-        "Walk on the gunwale"
+        "Stand on the bow to watch the waves",
+        "Move quickly on deck to finish jobs",
+        "Walk along the gunwale to save time"
       ],
       "correct_index": 0,
       "explanation": "Prevention is better than recovery.",

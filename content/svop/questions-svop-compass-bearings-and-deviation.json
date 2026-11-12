@@ -33,9 +33,9 @@
       "stem": "Deviation is caused by:",
       "options": [
         "The boat's own iron, engines and electronics",
-        "The chart",
-        "The tide",
-        "The moon"
+        "The earth's magnetic field, which varies from place to place",
+        "The tide setting the boat off course",
+        "The chart being printed on the wrong datum"
       ],
       "correct_index": 0,
       "explanation": "It changes with heading.",
@@ -77,8 +77,8 @@
       "stem": "The memory phrase CADET means:",
       "options": [
         "Chart and depth to tide",
-        "Correct and deviate",
-        "Course and direction",
+        "Correct and deviate east",
+        "Course and direction east",
         "Compass, Add East, to get True"
       ],
       "correct_index": 3,
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "A deviation card lists:",
       "options": [
-        "Wind speeds",
-        "Tide times",
-        "Fuel use",
+        "Wind speeds for each heading",
+        "Tide times for the area",
+        "Fuel use at each speed",
         "The compass error on different headings"
       ],
       "correct_index": 3,
@@ -165,9 +165,9 @@
       "stem": "A phone or speaker next to a magnetic compass will:",
       "options": [
         "Cause errors in the compass",
-        "Make it brighter",
-        "Improve accuracy",
-        "Have no effect"
+        "Make the card easier to read",
+        "Improve its accuracy",
+        "Have no effect at all"
       ],
       "correct_index": 0,
       "explanation": "Keep magnetic items away.",
@@ -187,9 +187,9 @@
       "stem": "A transit is:",
       "options": [
         "Two marks in line, giving a known bearing",
-        "A compass type",
-        "A tide table",
-        "A type of buoy"
+        "A type of hand-bearing compass",
+        "A table of tidal current times",
+        "A type of lateral buoy with a flashing light"
       ],
       "correct_index": 0,
       "explanation": "Use it to check the compass.",

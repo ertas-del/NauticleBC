@@ -11,9 +11,9 @@
       "stem": "Fetch is:",
       "options": [
         "The depth of the water",
-        "The wave colour",
-        "The distance of open water over which the wind blows",
-        "The tide height"
+        "The height of the waves",
+        "The distance of open water the wind blows over",
+        "The tide height at the time"
       ],
       "correct_index": 2,
       "explanation": "A long fetch builds large seas.",
@@ -55,9 +55,9 @@
       "stem": "A narrow channel between mountains can:",
       "options": [
         "Reduce the wind",
-        "Turn the wind off",
+        "Block the wind",
         "Funnel the wind to much higher speeds",
-        "Stop the wind"
+        "Turn the wind to calm"
       ],
       "correct_index": 2,
       "explanation": "Expect stronger wind than open water.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "In rough weather you should:",
       "options": [
-        "Speed up",
-        "Reduce load and speed, secure gear and keep weight low",
-        "Add more cargo",
-        "Open the hatches"
+        "Speed up to get home",
+        "Reduce load and speed, secure gear, keep weight low",
+        "Add more cargo to steady her",
+        "Open the hatches for air"
       ],
       "correct_index": 1,
       "explanation": "Prepare the boat.",
@@ -187,9 +187,9 @@
       "stem": "Swell is:",
       "options": [
         "Another name for tide",
-        "Waves from distant weather that can be present when the wind is calm",
-        "A kind of fog",
-        "Waves from the boat's wake"
+        "Waves from distant weather, even when the wind is calm",
+        "A kind of sea fog",
+        "Waves from passing boats' wakes"
       ],
       "correct_index": 1,
       "explanation": "Swell can be big even without local wind.",

@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Checklists are used to:",
       "options": [
-        "Avoid maintenance",
-        "Waste time",
+        "Replace routine maintenance",
+        "Show the inspector that you are busy and organised",
         "Make sure steps are not forgotten",
-        "Replace training"
+        "Replace training for new crew"
       ],
       "correct_index": 2,
       "explanation": "They reduce mistakes.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "A daily maintenance check includes:",
       "options": [
-        "Painting",
+        "Touching up paint on the deck",
         "Engine oil, coolant, fuel and a check for leaks",
-        "Repainting the hull",
-        "Changing the engine"
+        "Repainting the hull below the waterline each morning",
+        "Changing the engine mounts and shaft"
       ],
       "correct_index": 1,
       "explanation": "Do it before every trip.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "A safety gear checklist includes:",
       "options": [
-        "Spare tyres",
-        "Cooking pots",
+        "Spare clothes and food",
+        "Cooking pots and stove fuel",
         "Lifejackets, flares and extinguishers",
-        "Golf clubs"
+        "Fishing gear and bait"
       ],
       "correct_index": 2,
       "explanation": "Check dates and condition.",
@@ -77,9 +77,9 @@
       "stem": "An engine start-up checklist includes:",
       "options": [
         "Gear in neutral and the kill switch attached",
-        "Tank empty",
-        "Kill switch removed",
-        "Gear in full ahead"
+        "Fuel tank nearly empty to save weight",
+        "Kill switch removed so that the engine cannot stall",
+        "Gear in full ahead to clear the dock"
       ],
       "correct_index": 0,
       "explanation": "Check oil pressure after starting.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "A heavy weather checklist includes:",
       "options": [
-        "Reducing load, securing gear and wearing lifejackets",
-        "Ignoring the forecast",
-        "Opening hatches",
-        "Overloading"
+        "Reduce load, secure gear, wear lifejackets",
+        "Ignore the forecast if the sky still looks clear",
+        "Open the hatches for fresh air",
+        "Load extra gear to steady the boat"
       ],
       "correct_index": 0,
       "explanation": "Head for shelter early.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "After a voyage, you should:",
       "options": [
-        "Log defects and tell your trip plan contact you are back",
-        "Throw away the log",
-        "Ignore problems",
-        "Leave the boat open"
+        "Log defects and tell your trip contact you are back",
+        "Throw away the trip log once ashore",
+        "Leave any problems for the next crew to find",
+        "Leave the boat open to dry out"
       ],
       "correct_index": 0,
       "explanation": "Fix problems before the next trip.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "A fuelling checklist includes:",
       "options": [
-        "Smoking is fine",
-        "Keep the engine on",
-        "Overfill",
-        "Engine off, no smoking, fill slowly and wipe spills"
+        "Smoking is fine if the hatch is open",
+        "Keep the engine on to charge the batteries while filling",
+        "Fill to overflowing so no air is left",
+        "Engine off, no smoking, fill slowly, wipe spills"
       ],
       "correct_index": 3,
       "explanation": "Prevent spills and fire.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Weekly maintenance includes:",
       "options": [
-        "Only painting",
+        "Only painting the hull",
         "Checking batteries, belts and filters",
-        "Only fuel",
-        "Nothing"
+        "Only topping up fuel",
+        "Only washing the deck"
       ],
       "correct_index": 1,
       "explanation": "A longer inspection than the daily check.",

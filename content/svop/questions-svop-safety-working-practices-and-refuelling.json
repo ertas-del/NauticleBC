@@ -11,9 +11,9 @@
       "stem": "Which action helps keep a vessel shipshape?",
       "options": [
         "Stowing gear and cleaning up spills",
-        "Leaving lines on deck",
-        "Blocking hatches",
-        "Ignoring small leaks"
+        "Leaving lines ready on the deck for docking",
+        "Keeping hatches open for air",
+        "Leaving small leaks until port"
       ],
       "correct_index": 0,
       "explanation": "A tidy vessel is safer.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Before entering a confined space you must:",
       "options": [
-        "Go in alone",
-        "Enter quickly",
-        "Ventilate it, test the air and have a standby person",
-        "Hold your breath"
+        "Go in alone so it is quick",
+        "Enter quickly and come out fast",
+        "Ventilate, test the air, and have a standby",
+        "Hold your breath while inside"
       ],
       "correct_index": 2,
       "explanation": "Bad air can kill within minutes.",
@@ -55,8 +55,8 @@
       "stem": "You should never enter a confined space to rescue someone without:",
       "options": [
         "Breathing apparatus and help",
-        "A hat",
-        "A torch",
+        "A hard hat and gloves",
+        "A torch and a rope",
         "A radio only"
       ],
       "correct_index": 0,
@@ -78,7 +78,7 @@
       "options": [
         "Nothing special",
         "A heavy coat only",
-        "Sandals",
+        "Soft deck shoes",
         "A harness and a lifejacket"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Safe refuelling means:",
       "options": [
-        "Smoking is fine at the dock",
+        "Smoking is fine on the dock",
         "Engine running is fine",
-        "Engines and flames off, no smoking, and no overfilling",
-        "Overfilling is fine"
+        "Engines and flames off, no smoking, no overfilling",
+        "Filling until it overflows"
       ],
       "correct_index": 2,
       "explanation": "Fuel vapour is explosive.",
@@ -120,9 +120,9 @@
       "difficulty": "easy",
       "stem": "For an inboard gasoline engine, before starting after refuelling you should:",
       "options": [
-        "Fill the bilge",
+        "Pump the bilge out using the engine pump",
         "Run the blower and check for fuel smell",
-        "Switch off the battery",
+        "Switch off the battery switch",
         "Start the engine immediately"
       ],
       "correct_index": 1,
