@@ -21,6 +21,10 @@ key_facts:
   - "Pitch is the distance a propeller would advance in one revolution if it were moving through a solid. Slip is the difference between that and the real advance."
   - "Slip % = (theoretical advance - actual advance) / theoretical advance x 100."
   - "Vibration, noise or a hot bearing in the shaft line must be investigated. Causes include misalignment, a damaged propeller or a worn bearing."
+figures:
+  - id: svmo-shaft-line
+    caption: "Engine to propeller"
+    alt: "From the engine through a coupling and a gearbox, along the shaft, through the stern gland, to the propeller. Ahead and astern are selected in the gearbox. A packed gland should drip a little."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -30,6 +34,8 @@ review_status: needs_expert_review
 The diesel makes power at the flywheel. Getting that power to the water, in the right direction, at the right speed,
 without breaking anything on the way, is the job of the drive line. The SVMO syllabus asks you to ==name the parts, say
 what each does, and spot the faults==. This lesson follows the power from the engine to the propeller.
+
+{{figure:svmo-shaft-line}}
 
 ## The power path
 

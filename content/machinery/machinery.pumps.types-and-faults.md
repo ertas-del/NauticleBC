@@ -19,6 +19,10 @@ key_facts:
   - "Never run a positive displacement pump against a closed discharge valve."
   - "A flexible-impeller (rubber vane) pump must never run dry and its impeller is a wear item. Carry a spare."
   - "Priming means filling the pump casing and suction line with liquid so the pump can start pumping."
+figures:
+  - id: svmo-pump-families
+    caption: "Two pump families"
+    alt: "Left, a centrifugal pump throws liquid outward from a spinning impeller. It is not self-priming. Right, a gear pump traps a fixed volume. It is usually self-priming and needs a relief valve. Do not run it against a closed discharge."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -34,6 +38,8 @@ displacement gear pumps==. For each you should know how it works, where it is us
 - **Centrifugal (kinetic) pumps** throw the liquid outward using a spinning impeller.
 - **Positive displacement pumps** trap a fixed amount of liquid in a space and force it out. Reciprocating, gear,
   screw and flexible-impeller pumps are all of this type.
+
+{{figure:svmo-pump-families}}
 
 ## Priming
 

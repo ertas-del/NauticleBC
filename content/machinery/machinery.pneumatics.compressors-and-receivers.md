@@ -21,6 +21,10 @@ key_facts:
   - "Condensation collects in the receiver and lines. Drain it regularly to prevent corrosion and faulty operation."
   - "Never run a compressor with its discharge valve closed. Use the oil grade the maker names, because carbon and oil vapour can burn in hot compressed air."
   - "Never use compressed air on skin or clothing, or point a hose at a person. Air can enter the bloodstream through the skin, and flying particles injure eyes."
+figures:
+  - id: svmo-air-receiver
+    caption: "Air receiver fittings"
+    alt: "An air receiver with a relief valve that must never be blanked, a pressure gauge, an inlet from the compressor, an outlet to the tools, and a drain where water collects. Drain the water. Do not start the compressor with the discharge shut."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -75,6 +79,8 @@ reduces the risk of oil carbon catching fire.
 
 The receiver (air bottle) is a pressure vessel that stores air so the compressor can run intermittently and so there is
 a supply for engine starting. A typical receiver carries:
+
+{{figure:svmo-air-receiver}}
 
 | Fitting | Job |
 |---|---|

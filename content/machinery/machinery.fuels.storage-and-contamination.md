@@ -22,6 +22,10 @@ key_facts:
   - "A day tank is a small tank near the engine that feeds it by gravity and is topped up from the main tanks."
   - "Fuel bugs are microbes that grow at the fuel and water boundary and form sludge that clogs filters."
   - "Endurance = fuel on board divided by fuel burn rate. Always keep a reserve."
+figures:
+  - id: svmo-fuel-and-water
+    caption: "Water sits under the diesel"
+    alt: "A tank in section. Diesel floats on top. Water, which is heavier, sits at the bottom. A sounding pipe reaches the bottom. Fuel bugs grow on the line where they meet. A day tank is the small tank that feeds the engine."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -96,6 +100,8 @@ valves and record the transfer. The same care applies when ==bunkering== from a 
 Water enters fuel through tank vents (condensation), bunkering and leaking deck fills. Because diesel is lighter than
 water (specific gravity about 0.85), the water ==settles to the bottom==. Drain a little from the bottom of the tank
 or filter bowl regularly and check it for water.
+
+{{figure:svmo-fuel-and-water}}
 
 ==Fuel bugs== are bacteria and fungi that live at the fuel and water boundary. They form a dark sludge that clogs
 filters and can corrode tanks. Warning signs are repeated filter blockages, slime on the water-finding paste, and a

@@ -22,6 +22,10 @@ key_facts:
   - "Air in the oil makes the system noisy, spongy and erratic. Bleed it and find where it gets in."
   - "Never use a hand to find a leak. A fine jet of oil can penetrate the skin, and the injury needs urgent medical care."
   - "Depressurise and isolate before opening a line. An accumulator stores pressure even when the pump is stopped."
+figures:
+  - id: svmo-hydraulic-circuit
+    caption: "A simple hydraulic circuit"
+    alt: "Oil leaves the reservoir and enters the pump. The pump makes flow. A relief valve returns oil to the tank when pressure is high. A control valve sends oil to a cylinder, which makes straight-line motion. Pressure comes from resistance, not from the pump itself."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -31,6 +35,8 @@ review_status: needs_expert_review
 On a small commercial vessel hydraulics drive the steering, winches, cranes, thrusters, hatch covers and sometimes the
 propeller clutch. They are popular because a small pump and a few hoses can deliver huge force. The SVMO syllabus asks
 you to know the ==principle, the main components, the common faults and the safety precautions==.
+
+{{figure:svmo-hydraulic-circuit}}
 
 ## The principle
 

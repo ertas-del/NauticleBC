@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 600" width="720" height="600" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="amber" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#d97706"/>
+</linearGradient>
+<linearGradient id="seaG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#a5f3fc"/><stop offset="1" stop-color="#0e7490"/>
+</linearGradient>
+<linearGradient id="freshG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#bfdbfe"/><stop offset="1" stop-color="#1d4e89"/>
+</linearGradient>
+<linearGradient id="milk" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#cbd5e1"/>
+</linearGradient>
+<linearGradient id="thin" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#78716c"/><stop offset="1" stop-color="#292524"/>
+</linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#94a3b8"/>
+</linearGradient>
+</defs>
+<rect width="720" height="600" rx="0" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="600" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fire triangle</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">A fire needs all three. Remove any one and it goes out.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<polygon points="360,190 150,480 570,480" fill="#fff" stroke="none" filter="url(#s)"/>
+<line x1="360" y1="190" x2="150" y2="480" stroke="#c05621" stroke-width="14" stroke-linecap="round"/>
+<line x1="360" y1="190" x2="570" y2="480" stroke="#0e7490" stroke-width="14" stroke-linecap="round"/>
+<line x1="150" y1="480" x2="570" y2="480" stroke="#b91c1c" stroke-width="14" stroke-linecap="round"/>
+<text x="360.0" y="160.0" font-size="26" text-anchor="middle" fill="#c05621" font-weight="bold" font-family="Liberation Sans">Heat</text>
+<text x="110.0" y="520.0" font-size="26" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Liberation Sans">Fuel</text>
+<text x="610.0" y="520.0" font-size="26" text-anchor="middle" fill="#0e7490" font-weight="bold" font-family="Liberation Sans">Oxygen</text>
+<text x="360.0" y="360.0" font-size="28" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Take one</text>
+<text x="360.0" y="396.0" font-size="28" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">side away</text>
+<text x="360.0" y="572.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not a ship plan.</text>
+</svg>
