@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "One short blast means:",
       "options": [
-        "I am going astern",
+        "I am operating astern propulsion",
         "I am altering course to starboard",
         "I am altering course to port",
-        "I am in danger"
+        "I am in doubt of your intentions, keep clear"
       ],
       "correct_index": 1,
       "explanation": "Two short means port.",
@@ -33,8 +33,8 @@
       "stem": "Two short blasts means:",
       "options": [
         "I am altering course to starboard",
-        "I am stopping",
-        "I am anchored",
+        "I am stopped and making no way",
+        "I am at anchor in the fairway",
         "I am altering course to port"
       ],
       "correct_index": 3,
@@ -55,9 +55,9 @@
       "stem": "Three short blasts means:",
       "options": [
         "I am operating astern propulsion",
-        "I am altering to port",
-        "I am at anchor",
-        "I need help"
+        "I am altering course to port",
+        "I am at anchor in fog",
+        "I am in distress and need help at once"
       ],
       "correct_index": 0,
       "explanation": "Engines going astern.",
@@ -78,8 +78,8 @@
       "options": [
         "I am at anchor",
         "Pass on my port side",
-        "I am overtaking",
-        "Danger or doubt about the other vessel's intentions"
+        "I intend to overtake you",
+        "Danger or doubt about your intentions"
       ],
       "correct_index": 3,
       "explanation": "The danger or doubt signal.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "A power vessel making way in fog sounds:",
       "options": [
-        "No signal",
-        "Two prolonged blasts",
-        "One prolonged blast at intervals of no more than 2 minutes",
-        "Rapid bell ringing"
+        "No signal while making way",
+        "Two prolonged blasts at intervals of 2 minutes",
+        "One prolonged blast at least every 2 minutes",
+        "A bell rung rapidly every minute"
       ],
       "correct_index": 2,
       "explanation": "Two prolonged is for a vessel stopped.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "A vessel at anchor in fog:",
       "options": [
-        "Sounds one prolonged blast",
-        "Rings a bell rapidly for about 5 seconds at intervals of no more than a minute",
-        "Sounds three short blasts",
-        "Shows no signal"
+        "Sounds one prolonged blast at intervals of 2 minutes or less",
+        "Rings a bell rapidly for about 5 seconds every minute",
+        "Sounds three short blasts every minute",
+        "Shows no signal, as she is not moving"
       ],
       "correct_index": 1,
       "explanation": "Use a bell.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "Distress signals should be used:",
       "options": [
-        "To get attention for a drink",
-        "Whenever convenient",
+        "To get attention from another boat nearby",
+        "Whenever you need help of any kind",
         "Only when in grave and imminent danger",
-        "To mark a race"
+        "To mark a race or a fishing area"
       ],
       "correct_index": 2,
       "explanation": "Misuse is an offence.",
@@ -211,7 +211,7 @@
         "Green smoke",
         "Orange smoke",
         "White smoke",
-        "Black smoke"
+        "Blue smoke"
       ],
       "correct_index": 1,
       "explanation": "Orange smoke is visible by day.",

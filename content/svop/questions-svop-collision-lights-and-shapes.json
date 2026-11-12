@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "You see a green light and a red light together, ahead. This is:",
       "options": [
-        "A tug",
-        "A vessel overtaking",
+        "A tug with a long tow astern of her",
+        "A vessel overtaking you",
         "A vessel meeting you head-on",
-        "A vessel at anchor"
+        "A vessel at anchor ahead"
       ],
       "correct_index": 2,
       "explanation": "Both alter to starboard.",
@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "A vessel at anchor shows:",
       "options": [
-        "No lights ever",
+        "Red and green sidelights",
         "An all-round white light",
-        "A red light",
-        "A green light"
+        "Two red lights, one above the other",
+        "A flashing yellow light"
       ],
       "correct_index": 1,
       "explanation": "By day, a black ball.",
@@ -98,9 +98,9 @@
       "difficulty": "easy",
       "stem": "Flag Alpha means:",
       "options": [
-        "Vessel on fire",
-        "Man overboard",
-        "Pilot on board",
+        "Vessel on fire, keep clear",
+        "Man overboard, keep a lookout",
+        "Pilot on board this vessel",
         "Diver down, keep well clear"
       ],
       "correct_index": 3,
@@ -120,9 +120,9 @@
       "difficulty": "hard",
       "stem": "A vessel not under command shows:",
       "options": [
-        "Two white lights",
-        "Red over white",
-        "Green over white",
+        "Two all-round white lights in a vertical line",
+        "Red over white all-round lights",
+        "Green over white all-round lights",
         "Two red all-round lights in a vertical line"
       ],
       "correct_index": 3,
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "A radar reflector is used to:",
       "options": [
-        "Steer the boat",
-        "Make your boat show up better on others' radar",
-        "Reflect the sun",
-        "Cool the engine"
+        "Help steer the boat in fog",
+        "Make your boat show up better on radar",
+        "Reflect sunlight as a day signal",
+        "Improve your own radar picture"
       ],
       "correct_index": 1,
       "explanation": "Small boats are poor radar targets.",
@@ -230,9 +230,9 @@
       "difficulty": "hard",
       "stem": "A vessel trawling shows:",
       "options": [
-        "Blue light",
-        "Red over green",
-        "Two white lights",
+        "Red over white all-round lights, with sidelights",
+        "Red over green all-round lights",
+        "Two white masthead lights",
         "Green over white all-round lights"
       ],
       "correct_index": 3,

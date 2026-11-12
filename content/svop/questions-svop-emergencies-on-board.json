@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "After a grounding on a falling tide you should:",
       "options": [
-        "Ignore the tide",
-        "Be aware you may be stuck until the tide rises",
-        "Open the sea valves",
-        "Speed off"
+        "Go full astern before the water drops",
+        "You may be stuck until the tide rises again",
+        "Open the sea valves to lighten her",
+        "Shift everyone forward to lift the stern off the bottom"
       ],
       "correct_index": 1,
       "explanation": "Check the tide before acting.",
@@ -57,7 +57,7 @@
         "Switch off the radio",
         "Check for damage and flooding",
         "Immediately go full astern",
-        "Fill the tanks"
+        "Fill the tanks with water"
       ],
       "correct_index": 1,
       "explanation": "Power can pull out a plug.",
@@ -76,10 +76,10 @@
       "difficulty": "hard",
       "stem": "If the other vessel's bow is plugging a hole in your hull after a collision, you should:",
       "options": [
-        "Open the throttle",
-        "Push it away at once",
+        "Open the throttle to push in harder",
+        "Back away at once so you can see the damage",
         "Keep it there until you can assess the damage",
-        "Abandon ship"
+        "Abandon ship straight away"
       ],
       "correct_index": 2,
       "explanation": "It may be keeping you afloat.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "In a boat fire you should if possible:",
       "options": [
-        "Add fuel",
-        "Turn so the fire is downwind and shut off fuel",
-        "Turn so the fire is upwind",
-        "Open the windows"
+        "Keep going at speed so the wind blows the fire out",
+        "Put the fire downwind and shut off fuel",
+        "Turn so the fire is upwind of you",
+        "Open the windows to let smoke out"
       ],
       "correct_index": 1,
       "explanation": "Smoke and flames then blow away from you.",
@@ -121,8 +121,8 @@
       "stem": "An extinguisher is aimed at:",
       "options": [
         "The top of the flames",
-        "The smoke",
-        "The ceiling",
+        "The thickest smoke",
+        "The cabin ceiling",
         "The base of the flames"
       ],
       "correct_index": 3,
@@ -144,8 +144,8 @@
       "options": [
         "You want a tow in good weather",
         "There is grave and imminent danger",
-        "You are late",
-        "You are lost"
+        "You are running late for a booking",
+        "You are unsure of your position"
       ],
       "correct_index": 1,
       "explanation": "Use Pan-Pan for urgent but not life-threatening.",
@@ -165,9 +165,9 @@
       "stem": "To control flooding you should first:",
       "options": [
         "Find and stop the source and start pumps",
-        "Open more valves",
-        "Keep going at full speed",
-        "Ignore it"
+        "Open more valves to let it drain",
+        "Keep going at full speed to lift the bow",
+        "Call ashore and wait for advice"
       ],
       "correct_index": 0,
       "explanation": "Plug, patch, pump.",

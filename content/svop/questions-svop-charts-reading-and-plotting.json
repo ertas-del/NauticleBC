@@ -34,7 +34,7 @@
       "options": [
         "One statute mile",
         "One nautical mile",
-        "One fathom",
+        "One cable",
         "One kilometre"
       ],
       "correct_index": 1,
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "Chart No. 1 is used to:",
       "options": [
-        "Plot a position",
+        "Plot a position from bearings",
         "Explain chart symbols and abbreviations",
-        "Show the weather",
-        "Give tide times"
+        "Show the weather for the area",
+        "Give the tide times and heights for each port"
       ],
       "correct_index": 1,
       "explanation": "It is a reference booklet.",
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "Chart notes and cautions should:",
       "options": [
-        "Be ignored",
-        "Be erased",
-        "Be covered",
+        "Be skipped if you know the area",
+        "Be read only by the navigator",
+        "Be checked once a year",
         "Be read before using the chart"
       ],
       "correct_index": 3,
@@ -165,9 +165,9 @@
       "stem": "A drying height shows:",
       "options": [
         "A rock that uncovers at low tide",
-        "A harbour",
-        "A buoy",
-        "A deep trench"
+        "A harbour with a drying berth",
+        "A buoy that sits on the bottom at low water",
+        "A deep trench below chart datum"
       ],
       "correct_index": 0,
       "explanation": "Watch for them near shore.",
@@ -186,9 +186,9 @@
       "difficulty": "medium",
       "stem": "An old, uncorrected chart:",
       "options": [
-        "Needs no corrections",
-        "Is better than a new one",
-        "Is always fine",
+        "Needs no corrections if it is kept dry",
+        "Is better than a new one, as it is tested",
+        "Is fine for coastal trips only",
         "Can be dangerous and should be updated"
       ],
       "correct_index": 3,
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "Two bearings plotted from known objects:",
       "options": [
-        "Give your speed",
+        "Give your speed over ground",
         "Cross at your position",
-        "Find the wind",
-        "Show the tide"
+        "Show the set of the tide",
+        "Give your course to steer"
       ],
       "correct_index": 1,
       "explanation": "This is a position fix.",

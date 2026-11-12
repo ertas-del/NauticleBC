@@ -32,9 +32,9 @@
       "difficulty": "easy",
       "stem": "When approaching a dock you should usually:",
       "options": [
-        "Go fast and brake late",
-        "Approach beam-on at speed",
-        "Use no lines",
+        "Go fast and brake late with reverse",
+        "Approach beam-on at a steady speed",
+        "Come in downwind with no lines or fenders ready",
         "Go slowly, into the wind or current if possible"
       ],
       "correct_index": 3,
@@ -77,9 +77,9 @@
       "stem": "Which is a feature of a good anchorage?",
       "options": [
         "Rocky bottom",
-        "No swinging room",
+        "No room to swing",
         "Good holding ground and shelter",
-        "A shipping channel"
+        "Close to a shipping channel"
       ],
       "correct_index": 2,
       "explanation": "You also need depth and room to swing.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "To check an anchor is holding you should:",
       "options": [
-        "Add more fenders",
-        "Shut off the engine",
-        "Take bearings or marks ashore and watch for movement",
-        "Look at the compass only"
+        "Let out more fenders on the bow",
+        "Shut off the engine and listen",
+        "Take bearings ashore and watch for movement",
+        "Look at the compass heading only, every few minutes"
       ],
       "correct_index": 2,
       "explanation": "If the marks move, the anchor is dragging.",
@@ -166,8 +166,8 @@
       "options": [
         "Solid rock",
         "Sand or mud",
-        "Weed",
-        "Ice"
+        "Thick kelp",
+        "Loose shingle"
       ],
       "correct_index": 1,
       "explanation": "It digs in to soft bottoms.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "A boat's turning circle should be:",
       "options": [
-        "Ignored",
+        "Ignored at slow speed",
         "Always the same for all boats",
         "Known for your vessel at different speeds",
-        "Irrelevant at slow speed"
+        "Checked only when the boat is new, at sea trials"
       ],
       "correct_index": 2,
       "explanation": "Different boats and speeds turn differently.",

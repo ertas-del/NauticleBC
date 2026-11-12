@@ -33,9 +33,9 @@
       "stem": "Free surface effect is caused by:",
       "options": [
         "Liquid free to move in a part-full tank or on deck",
-        "A full tank",
-        "A closed hatch",
-        "A dry bilge"
+        "A tank pressed completely full",
+        "A closed hatch trapping air",
+        "A dry bilge with no water in it"
       ],
       "correct_index": 0,
       "explanation": "The liquid shifts and reduces stability.",
@@ -78,8 +78,8 @@
       "options": [
         "Adds weight high up and reduces stability",
         "Lowers the centre of gravity",
-        "Improves stability",
-        "Has no effect"
+        "Improves stability by adding weight to the boat",
+        "Has no effect on a small boat"
       ],
       "correct_index": 0,
       "explanation": "Remove ice carefully and avoid icing conditions.",
@@ -98,9 +98,9 @@
       "difficulty": "medium",
       "stem": "Reserve buoyancy is:",
       "options": [
-        "The depth of the keel",
-        "The fuel in the tank",
-        "The weight of the cargo",
+        "The depth of the keel below the water surface",
+        "The fuel kept in reserve",
+        "The weight of cargo still allowed",
         "The watertight volume above the waterline"
       ],
       "correct_index": 3,
@@ -121,7 +121,7 @@
       "stem": "Overloading a vessel:",
       "options": [
         "Makes the boat faster",
-        "Has no effect",
+        "Has no effect in calm water",
         "Reduces freeboard and reserve buoyancy",
         "Increases freeboard"
       ],
@@ -143,9 +143,9 @@
       "stem": "A vessel floats lower in fresh water because:",
       "options": [
         "Fresh water is less dense than salt water",
-        "The tide is lower",
+        "The tide is lower in rivers",
         "Fresh water is warmer",
-        "Fresh water is dirtier"
+        "Fresh water is denser than salt water, so she sinks"
       ],
       "correct_index": 0,
       "explanation": "The Fresh Water Allowance allows for this.",
@@ -189,7 +189,7 @@
         "Can shift and cause a list or capsize",
         "Cannot move in calm water",
         "Increases stability",
-        "Is always safe"
+        "Is safe if it is heavy"
       ],
       "correct_index": 0,
       "explanation": "Secure everything.",

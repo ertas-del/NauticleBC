@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "A rapidly falling barometer means:",
       "options": [
-        "A calm",
+        "A calm is coming",
         "No change",
         "Better weather",
-        "Strong winds and worse weather are likely"
+        "Strong winds and worse weather likely"
       ],
       "correct_index": 3,
       "explanation": "Watch the trend.",
@@ -100,7 +100,7 @@
       "options": [
         "Fog is certain",
         "A storm is coming",
-        "Nothing",
+        "No change at all",
         "The weather is improving"
       ],
       "correct_index": 3,
@@ -120,7 +120,7 @@
       "difficulty": "medium",
       "stem": "Wind that backs and a falling barometer usually mean:",
       "options": [
-        "Clearing",
+        "Clearing weather",
         "No change",
         "Fog only",
         "Worsening weather"
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Marine forecasts are:",
       "options": [
-        "Perfect",
-        "Valid for weeks",
-        "Unrelated to local conditions",
-        "Predictions that become less reliable the further ahead they look"
+        "Exact and always correct",
+        "Valid for weeks at a time",
+        "Unrelated to local conditions near the coast",
+        "Less reliable the further ahead they look"
       ],
       "correct_index": 3,
       "explanation": "Update before leaving and while at sea.",
@@ -165,8 +165,8 @@
       "stem": "You should get a marine forecast:",
       "options": [
         "Only after returning",
-        "Before leaving and listen again while underway",
-        "Never",
+        "Before leaving, and again while underway",
+        "Only the night before",
         "Only for long trips"
       ],
       "correct_index": 1,
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "If a gale warning is out for your area and you have a small boat you should:",
       "options": [
-        "Ignore it",
+        "Go and stay close to shore",
         "Delay or cancel the trip",
-        "Go faster",
-        "Fill the tanks only"
+        "Go faster to beat it",
+        "Fill the tanks and go"
       ],
       "correct_index": 1,
       "explanation": "Don't gamble.",

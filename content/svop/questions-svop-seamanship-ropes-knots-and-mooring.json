@@ -32,9 +32,9 @@
       "difficulty": "medium",
       "stem": "Polypropylene rope:",
       "options": [
-        "Never wears",
+        "Never wears or weakens",
         "Floats but weakens in sunlight",
-        "Sinks and is very stretchy",
+        "Sinks and is very stretchy under load",
         "Is stronger than nylon"
       ],
       "correct_index": 1,
@@ -56,7 +56,7 @@
       "options": [
         "Holds the bow to the dock only",
         "Serves as a tow line",
-        "Lifts the anchor",
+        "Lifts the anchor clear",
         "Stops the vessel moving fore and aft"
       ],
       "correct_index": 3,
@@ -79,7 +79,7 @@
         "Be as tight as possible",
         "Be replaced by chain",
         "Have enough slack for the tide range",
-        "Be doubled"
+        "Be doubled up"
       ],
       "correct_index": 2,
       "explanation": "A tight line would hang the boat as the tide falls.",
@@ -99,7 +99,7 @@
       "stem": "A bowline makes:",
       "options": [
         "A fixed loop that does not slip",
-        "A stopper",
+        "A stopper knot",
         "A hitch for a spar only",
         "A quick release only"
       ],
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "A round turn and two half hitches is used to:",
       "options": [
-        "Join two ropes",
+        "Join two ropes of different sizes",
         "Secure a line to a ring or post under strain",
-        "Tie a fender only",
-        "Make a stopper"
+        "Tie a fender to a rail only",
+        "Make a stopper in the end of a line so it cannot run"
       ],
       "correct_index": 1,
       "explanation": "It holds well under load.",

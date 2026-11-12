@@ -33,9 +33,9 @@
       "stem": "An SVOP also allows you to be master of a fishing vessel of up to:",
       "options": [
         "15 GT or 12 m in length",
-        "Any size",
-        "60 GT",
-        "5 GT only"
+        "60 GT or 24 m in length",
+        "5 GT or 8 m in length",
+        "Any size in sheltered waters"
       ],
       "correct_index": 0,
       "explanation": "The fishing vessel allowance is larger than the commercial one.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A passenger is generally:",
       "options": [
-        "Only people who pay",
+        "Only people who pay a fare",
         "Anyone aboard other than the master, crew and people employed on the vessel's business",
-        "Only people with lifejackets",
-        "Only children"
+        "Only people over 16 years of age",
+        "Only people who are not family of the owner"
       ],
       "correct_index": 1,
       "explanation": "Passengers are those who are not crew or working on the vessel's business.",
@@ -121,9 +121,9 @@
       "stem": "The master of a small commercial vessel is responsible for:",
       "options": [
         "Safety of life, the vessel and the environment",
-        "Only the engine",
-        "Only the paperwork",
-        "Only the fuel"
+        "Navigation only, while the owner covers safety",
+        "Only the engine and its maintenance",
+        "Only the paperwork and the crew list"
       ],
       "correct_index": 0,
       "explanation": "The master carries overall responsibility.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Transport Canada's small vessel inspection and monitoring program means operators should:",
       "options": [
-        "Avoid inspections",
-        "Keep certificates and safety equipment in order and on board",
-        "Disable the radio",
-        "Hide their records"
+        "Avoid inspections where they can",
+        "Keep certificates and safety gear in order on board",
+        "Keep records ashore, not on the vessel",
+        "Carry the safety gear only during the busy summer season"
       ],
       "correct_index": 1,
       "explanation": "Officers can check papers and equipment.",
@@ -187,8 +187,8 @@
       "stem": "A water taxi under 5 GT with an SVOP-certified operator is on a voyage outside near coastal Class 2. The operator:",
       "options": [
         "Is fully covered",
-        "Is covered if it is daytime",
-        "Needs no certificate",
+        "Is covered if it is daytime and the weather is good",
+        "Needs no certificate at all",
         "Is outside the certificate's scope"
       ],
       "correct_index": 3,

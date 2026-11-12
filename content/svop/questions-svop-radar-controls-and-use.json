@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Radar measures range by:",
       "options": [
-        "The antenna height",
+        "The height of the antenna",
         "The colour of the target",
-        "The brightness of the echo",
-        "The time between the pulse and the returning echo"
+        "The brightness of the echo on the screen",
+        "The time between pulse and echo"
       ],
       "correct_index": 3,
       "explanation": "Time gives distance.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Radar bearings come from:",
       "options": [
-        "The tide table",
-        "The GPS",
+        "The tide table for the area",
+        "The GPS position of the target",
         "The direction the antenna was pointing",
-        "The compass only"
+        "The hand-bearing compass only"
       ],
       "correct_index": 2,
       "explanation": "The antenna direction at the time of the echo.",
@@ -55,9 +55,9 @@
       "stem": "For position fixing with radar you should use:",
       "options": [
         "Ranges in preference to bearings",
-        "Colour of the echo",
-        "Neither",
-        "Bearings only"
+        "The colour and size of the echo",
+        "Bearings in preference to ranges",
+        "Bearings only, never ranges"
       ],
       "correct_index": 0,
       "explanation": "Range is more accurate than bearing.",
@@ -77,9 +77,9 @@
       "stem": "Too much gain on a radar causes:",
       "options": [
         "A noisy picture with clutter",
-        "Targets to vanish",
-        "A shorter range",
-        "Better accuracy"
+        "Small targets to vanish",
+        "A shorter maximum range",
+        "Better bearing accuracy"
       ],
       "correct_index": 0,
       "explanation": "Reduce gain to a suitable level.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "Sea clutter control (STC) is used to:",
       "options": [
-        "Switch off the radar",
-        "Increase rain echoes",
+        "Switch the radar to standby",
+        "Show rain showers more clearly",
         "Reduce echoes from waves near your boat",
-        "Change the compass"
+        "Change the heading line shown on the screen"
       ],
       "correct_index": 2,
       "explanation": "Too much hides small targets.",
@@ -123,7 +123,7 @@
         "A tide rip",
         "A safe passing",
         "Risk of collision",
-        "A buoy"
+        "A moored buoy"
       ],
       "correct_index": 2,
       "explanation": "Take early action.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "Head-up orientation means:",
       "options": [
-        "The sun is at the top",
+        "The sun's bearing is at the top",
         "Your heading is at the top of the screen",
-        "The wind is at the top",
-        "North is at the top"
+        "The wind direction is at the top",
+        "North is at the top of the screen at all times"
       ],
       "correct_index": 1,
       "explanation": "North-up needs a compass input.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "A small fibreglass boat on radar:",
       "options": [
-        "Is always larger",
+        "Always looks larger than it really is",
         "May show only a weak echo or none",
-        "Is shown in red",
-        "Always shows strongly"
+        "Is shown in a different colour",
+        "Always shows a strong echo"
       ],
       "correct_index": 1,
       "explanation": "Fit a radar reflector.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "Rain on a radar screen can be reduced with:",
       "options": [
-        "The tuning only",
+        "The tuning control only",
         "The brilliance control",
         "The rain clutter (FTC) control",
-        "The range rings"
+        "The variable range marker"
       ],
       "correct_index": 2,
       "explanation": "It reduces rain echoes.",
@@ -209,9 +209,9 @@
       "stem": "In fog with radar you should:",
       "options": [
         "Slow down, use fog signals and keep a lookout",
-        "Ignore the radar",
-        "Switch off the radar",
-        "Go faster"
+        "Rely on the radar alone and keep your normal speed",
+        "Switch off the radar to avoid false echoes",
+        "Go faster to get out of the fog"
       ],
       "correct_index": 0,
       "explanation": "Radar is a tool, not a replacement.",

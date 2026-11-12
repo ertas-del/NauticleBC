@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "A GPS receiver needs how many satellites for a three-dimensional fix?",
       "options": [
-        "Ten",
+        "At least two",
         "At least four",
-        "Two",
-        "One"
+        "At least one",
+        "At least eight"
       ],
       "correct_index": 1,
       "explanation": "More satellites improve accuracy.",
@@ -54,8 +54,8 @@
       "difficulty": "easy",
       "stem": "SOG stands for:",
       "options": [
-        "Speed on gear",
-        "Sound of gear",
+        "Speed of gear",
+        "Steering on GPS",
         "Safe on ground",
         "Speed over ground"
       ],
@@ -99,9 +99,9 @@
       "stem": "A wrong datum on a GPS can cause:",
       "options": [
         "A position error of many metres",
-        "No change",
-        "Faster speed",
-        "A shorter route"
+        "No change to the position at all",
+        "A wrong speed but the right position",
+        "A shorter route on the plotter"
       ],
       "correct_index": 0,
       "explanation": "Always check settings.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "The most important rule about GPS is:",
       "options": [
-        "Use it only in daylight",
+        "Use it only in daylight hours",
         "Double-check it against other sources",
-        "Ignore it",
-        "Trust it completely"
+        "Use it only for speed, not position",
+        "Trust it completely once it has a fix"
       ],
       "correct_index": 1,
       "explanation": "GPS can be wrong or lost.",
@@ -142,9 +142,9 @@
       "difficulty": "medium",
       "stem": "A typing mistake in a waypoint can:",
       "options": [
-        "Change the tide",
-        "Have no effect",
-        "Improve accuracy",
+        "Change the tide times shown",
+        "Have no effect on the route",
+        "Only affect the time of arrival",
         "Send you toward the wrong place"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "If the GPS loses its fix you should:",
       "options": [
-        "Turn it off and ignore it",
-        "Use radar, depth, compass and visual marks and slow down",
-        "Anchor in a channel",
-        "Carry on at speed"
+        "Turn it off and carry on as before",
+        "Use radar, depth, compass and marks, and slow down",
+        "Anchor in the channel until it returns",
+        "Carry on at speed on the last course the GPS showed"
       ],
       "correct_index": 1,
       "explanation": "Have a backup.",

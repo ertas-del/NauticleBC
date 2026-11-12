@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "VHF channel 16 is used for:",
       "options": [
-        "Weather only",
-        "Chat",
-        "Fishing reports",
+        "Weather broadcasts only",
+        "Routine chat between boats in the fleet",
+        "Fishing reports and gossip",
         "Distress, safety and calling"
       ],
       "correct_index": 3,
@@ -54,9 +54,9 @@
       "difficulty": "easy",
       "stem": "Pan-Pan means:",
       "options": [
-        "A routine call",
-        "A weather report",
-        "A navigational warning",
+        "A routine call to a station",
+        "A weather report for the area",
+        "A navigational warning to all ships in the area",
         "An urgent message that is not distress"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Sécurité is used for:",
       "options": [
-        "Safety messages such as navigation or weather warnings",
-        "Urgency",
-        "Distress",
-        "Chat"
+        "Safety messages, such as navigation or weather warnings",
+        "Urgent messages about a person or vessel",
+        "Distress calls in grave danger",
+        "Routine traffic between vessels"
       ],
       "correct_index": 0,
       "explanation": "It is the safety prefix.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A Mayday call should include:",
       "options": [
-        "Only the time",
-        "Vessel name, position, nature of distress and persons on board",
-        "Only the vessel colour",
-        "Only the weather"
+        "Only the time of the call",
+        "Name, position, nature of distress and persons on board",
+        "Only the colour of the vessel",
+        "Only the weather where you are"
       ],
       "correct_index": 1,
       "explanation": "Be clear and give a position.",
@@ -121,9 +121,9 @@
       "stem": "Channel 70 is used for:",
       "options": [
         "Digital selective calling (DSC)",
-        "Weather",
-        "Pilotage",
-        "Voice chat"
+        "Weather broadcasts",
+        "Pilotage requests",
+        "Voice calls to marinas"
       ],
       "correct_index": 0,
       "explanation": "A DSC distress alert goes out on 70.",
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "If you hear a Mayday and no one answers you should:",
       "options": [
-        "Talk over it",
+        "Talk over it to get help",
         "Acknowledge it if you can and help",
-        "Ignore it",
+        "Ignore it, because someone else will answer it",
         "Switch off the radio"
       ],
       "correct_index": 1,
@@ -166,8 +166,8 @@
       "options": [
         "A weather office",
         "The Pacific search and rescue coordination centre",
-        "A school",
-        "A fuel dock"
+        "A marine training school",
+        "A fuel dock and marina"
       ],
       "correct_index": 1,
       "explanation": "It tasks SAR assets.",
@@ -188,8 +188,8 @@
       "options": [
         "Ignore the call",
         "Radio silence on the distress channel",
-        "Change channel",
-        "Send help"
+        "Change to a working channel",
+        "Send help at once"
       ],
       "correct_index": 1,
       "explanation": "Used by the station controlling the distress.",

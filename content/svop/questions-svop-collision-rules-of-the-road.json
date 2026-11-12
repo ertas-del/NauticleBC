@@ -34,8 +34,8 @@
       "options": [
         "On her starboard side",
         "On her port side",
-        "Astern",
-        "Anchored"
+        "Dead astern of her",
+        "Abaft her port beam"
       ],
       "correct_index": 0,
       "explanation": "The vessel on the right has right of way.",
@@ -56,7 +56,7 @@
       "options": [
         "Sound five short blasts and stop",
         "Keep clear until finally past",
-        "Stand on",
+        "Stand on once she is abeam",
         "Assume it has right of way"
       ],
       "correct_index": 1,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Risk of collision is assumed when:",
       "options": [
-        "The radio is silent",
-        "The other boat is red",
-        "The other boat is big",
-        "The compass bearing of an approaching vessel does not change and the range decreases"
+        "The other vessel does not answer your call on the radio",
+        "The other boat is bigger and moving faster",
+        "The other boat shows only a red sidelight",
+        "Her compass bearing stays steady as the range closes"
       ],
       "correct_index": 3,
       "explanation": "Constant bearing with decreasing range means collision course.",
@@ -99,7 +99,7 @@
       "stem": "The stand-on vessel should normally:",
       "options": [
         "Slow down and stop",
-        "Alter to port",
+        "Alter to port to give room",
         "Turn away at once",
         "Keep her course and speed"
       ],
@@ -121,9 +121,9 @@
       "stem": "A proper lookout is kept by:",
       "options": [
         "Sight, hearing and all available means",
-        "Only radar",
-        "Only at night",
-        "Only the master"
+        "Radar alone, when it is fitted",
+        "Sight only, with hearing used in fog and at night",
+        "The master alone, from the helm"
       ],
       "correct_index": 0,
       "explanation": "A lookout is required at all times.",
@@ -142,9 +142,9 @@
       "difficulty": "medium",
       "stem": "Which sailing vessel gives way when each has the wind on a different side?",
       "options": [
-        "The faster",
+        "The faster of the two",
         "The one with the wind on her port side",
-        "The larger",
+        "The larger of the two",
         "The one with the wind on her starboard side"
       ],
       "correct_index": 1,
@@ -166,7 +166,7 @@
       "options": [
         "To the middle",
         "Near the shore of her choice",
-        "To the port side",
+        "To the port side of the channel",
         "To the starboard side of the channel"
       ],
       "correct_index": 3,
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "The best action to avoid collision is to act:",
       "options": [
-        "At the last moment",
-        "With only a sound signal",
+        "At the last moment, so the other sees it",
+        "With only a sound signal and no turn",
         "Early and with a large enough change to be seen",
-        "With small alterations"
+        "With a series of small alterations of course and speed"
       ],
       "correct_index": 2,
       "explanation": "Others must be able to see what you are doing.",
@@ -230,10 +230,10 @@
       "difficulty": "medium",
       "stem": "In restricted visibility you should proceed at:",
       "options": [
-        "Whatever speed you like",
-        "Anchor speed only",
-        "Full speed",
-        "A safe speed with engines ready for immediate manoeuvre"
+        "Whatever speed lets you get through quickly",
+        "Dead slow, or stopped, at all times",
+        "Full speed, to clear the area quickly",
+        "A safe speed, engines ready to manoeuvre"
       ],
       "correct_index": 3,
       "explanation": "Reduce speed and be ready to stop.",

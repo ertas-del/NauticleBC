@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "The Canada Shipping Act, 2001 is:",
       "options": [
-        "A boat catalogue",
-        "A local bylaw",
-        "The main federal law for shipping and boating in Canada",
-        "A tide table"
+        "A provincial law for boats on lakes and rivers only",
+        "A local harbour bylaw",
+        "The main federal law for shipping and boating",
+        "A set of tide and current tables"
       ],
       "correct_index": 2,
       "explanation": "Regulations under it give the details.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Safety rules for small commercial vessels are mainly in the:",
       "options": [
-        "Weather Act",
+        "Collision Regulations",
         "Small Vessel Regulations",
-        "Highway Act",
-        "Tide Tables"
+        "Marine Personnel Regulations",
+        "Navigation Safety Regulations"
       ],
       "correct_index": 1,
       "explanation": "Fishing vessels have their own regulations.",
@@ -55,8 +55,8 @@
       "stem": "Safety rules for fishing vessels are in the:",
       "options": [
         "Fishing Vessel Safety Regulations",
-        "Tide Tables",
-        "Highway Act",
+        "Small Vessel Regulations",
+        "Marine Personnel Regulations",
         "Collision Regulations only"
       ],
       "correct_index": 0,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Certificates and crew requirements are set by the:",
       "options": [
-        "Weather office",
+        "Fishing Vessel Safety Regulations",
         "Small Vessel Regulations only",
         "Marine Personnel Regulations",
-        "Tourist Board"
+        "Collision Regulations"
       ],
       "correct_index": 2,
       "explanation": "They cover training and certification.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Which is normally required safety equipment on a small vessel?",
       "options": [
-        "Fishing trophies",
-        "Golf clubs",
-        "Spare tyres",
-        "Lifejackets or PFDs for everyone on board"
+        "A spare propeller and shaft",
+        "A second engine or outboard",
+        "A full set of paper charts for the coast",
+        "Lifejackets or PFDs for everyone"
       ],
       "correct_index": 3,
       "explanation": "Check your vessel's list.",
@@ -121,9 +121,9 @@
       "stem": "A bailer or hand pump is carried to:",
       "options": [
         "Remove water from the boat",
-        "Cool the engine",
-        "Steer",
-        "Anchor"
+        "Cool the engine if it overheats",
+        "Steer if the helm fails",
+        "Hold the boat at anchor"
       ],
       "correct_index": 0,
       "explanation": "A basic safety item.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "A commercial operator near whales must:",
       "options": [
-        "Approach as close as possible",
+        "Approach slowly as close as they like",
         "Keep the required minimum distance",
-        "Feed them",
-        "Chase them"
+        "Stop only if a whale is directly ahead",
+        "Follow them at the same speed"
       ],
       "correct_index": 1,
       "explanation": "Check current distances.",
@@ -164,9 +164,9 @@
       "difficulty": "medium",
       "stem": "Parks and protected areas may have:",
       "options": [
-        "Free access always",
-        "No rules",
-        "Only advice",
+        "Free access at all times of year",
+        "No rules for commercial vessels",
+        "Only advice that may be ignored",
         "Their own rules such as speed limits and closures"
       ],
       "correct_index": 3,
@@ -186,13 +186,13 @@
       "difficulty": "hard",
       "stem": "Which regulation covers the discharge of oil, plastic and sewage?",
       "options": [
-        "The Radio Act",
-        "The Tide Tables",
-        "The Highway Act",
-        "The Prevention of Pollution from Ships and for Dangerous Chemicals Regulations"
+        "The Radio Act and its rules",
+        "The Collision Regulations",
+        "The Small Vessel Regulations",
+        "The Vessel Pollution and Dangerous Chemicals Regulations"
       ],
       "correct_index": 3,
-      "explanation": "They also cover reporting.",
+      "explanation": "The Vessel Pollution and Dangerous Chemicals Regulations (2012) cover discharges of oil, garbage including plastics, and sewage, and the reporting of pollution. They replaced the older Regulations for the Prevention of Pollution from Ships and for Dangerous Chemicals.",
       "source_ids": [
         "tp14692",
         "tc-svop"

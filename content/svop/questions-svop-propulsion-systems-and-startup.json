@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "An outboard motor is:",
       "options": [
-        "A sail drive",
-        "A type of jet drive",
+        "A sail drive through the hull",
+        "A water jet pump in the hull",
         "An engine and propeller unit hung on the transom",
-        "An engine fixed inside the hull driving a shaft"
+        "An engine fixed inside the hull driving a propeller shaft"
       ],
       "correct_index": 2,
       "explanation": "It steers by turning the whole unit.",
@@ -33,9 +33,9 @@
       "stem": "A jet drive vessel has:",
       "options": [
         "Steering that works best when stopped",
-        "A very long shaft",
-        "No propeller, and steering only works when water is flowing out",
-        "Two rudders"
+        "A very long shaft and a large, slow-turning propeller",
+        "No propeller; steering needs water flowing out",
+        "Two rudders behind the jet nozzle"
       ],
       "correct_index": 2,
       "explanation": "Without thrust there is no steering.",
@@ -54,9 +54,9 @@
       "difficulty": "easy",
       "stem": "Before starting an inboard gasoline engine you should:",
       "options": [
-        "Switch off the battery",
-        "Fill the bilge with water",
-        "Open the fuel valve fully",
+        "Switch off the battery switch",
+        "Pump the bilge dry with the engine",
+        "Open the fuel valve fully and prime",
         "Run the bilge blower and check for fuel vapour"
       ],
       "correct_index": 3,
@@ -99,9 +99,9 @@
       "stem": "Low oil pressure on a running engine means you should:",
       "options": [
         "Reduce power and stop the engine promptly",
-        "Ignore it",
-        "Add coolant",
-        "Increase speed"
+        "Keep going and check it at the dock",
+        "Add coolant to the expansion tank",
+        "Increase speed to raise the oil pressure again"
       ],
       "correct_index": 0,
       "explanation": "An engine can be ruined in seconds without oil.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "After starting an outboard you should check that:",
       "options": [
-        "The tide is rising",
-        "The radio is on",
+        "The fuel gauge reads full",
+        "The radio and lights are on",
         "Cooling water is coming out",
-        "The anchor is down"
+        "The anchor is stowed"
       ],
       "correct_index": 2,
       "explanation": "No cooling water quickly overheats the engine.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "A stern drive is:",
       "options": [
-        "An inboard engine connected to a drive leg outside the transom",
-        "A sail rig",
-        "A jet pump",
-        "An outboard"
+        "An inboard engine driving a leg outside the transom",
+        "A sail rig with an auxiliary motor",
+        "A water jet pump inside the hull",
+        "An outboard with a long shaft"
       ],
       "correct_index": 0,
       "explanation": "It combines an inboard engine with an outdrive.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "If the engine temperature alarm sounds you should first:",
       "options": [
-        "Open the radiator cap on a hot engine",
+        "Open the radiator cap on the hot engine",
         "Switch off the bilge pump",
         "Reduce power and check the cooling water flow",
-        "Increase speed"
+        "Increase speed to push more cooling water through"
       ],
       "correct_index": 2,
       "explanation": "Overheating can be caused by blocked intakes or low coolant.",
