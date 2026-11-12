@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "The 'weight' of an oil refers to its:",
       "options": [
-        "Price",
+        "Price per litre",
         "Viscosity, or resistance to flow",
         "Mass per litre",
-        "Colour"
+        "Additive content"
       ],
       "correct_index": 1,
       "explanation": "Use the grade the manufacturer specifies.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Milky oil on a diesel engine's dipstick usually indicates:",
       "options": [
-        "Low fuel",
-        "Normal operation",
+        "Low fuel in the day tank",
+        "Normal operation once the engine is warm",
         "Water or coolant contamination",
-        "Overheated oil"
+        "Fuel dilution of the oil"
       ],
       "correct_index": 2,
       "explanation": "Report and investigate. A failed head gasket or cooler may be letting water in.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Hydraulic oil and engine oil:",
       "options": [
-        "Are always the same",
+        "Are always the same product",
         "Should not be used interchangeably",
         "Can be mixed in any ratio",
-        "Differ only in colour"
+        "Differ only in their colour dye"
       ],
       "correct_index": 1,
       "explanation": "They have different additives and properties. Follow the manufacturer's specification.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Used engine oil should be:",
       "options": [
-        "Discharged over the side",
-        "Stored in a sealed container and disposed of at an approved facility",
-        "Poured into the bilge",
-        "Burned in the stove"
+        "Discharged over the side well offshore",
+        "Kept sealed and landed at an approved facility",
+        "Poured into the bilge for the pump to clear",
+        "Burned in the galley stove as fuel"
       ],
       "correct_index": 1,
       "explanation": "Never discharge oil. It is illegal and harms the environment.",
@@ -99,9 +99,9 @@
       "stem": "Besides reducing friction, a lubricating oil in an engine also:",
       "options": [
         "Cools, cleans, seals and protects against corrosion",
-        "Only fills gaps and adds weight",
-        "Raises the fuel's flash point",
-        "Stops water entering through the exhaust"
+        "Only fills gaps between parts and adds weight",
+        "Raises the flash point of the fuel inside the cylinder",
+        "Stops sea water entering through the exhaust"
       ],
       "correct_index": 0,
       "explanation": "Oil carries heat away, holds dirt for the filter, seals piston rings and coats metal surfaces.",
@@ -121,9 +121,9 @@
       "stem": "An oil is marked 15W-40. The 15W part tells you:",
       "options": [
         "Its thickness at full running temperature",
-        "How well it flows when cold, where a lower number flows more easily",
-        "The percentage of additive in it",
-        "Its flash point in degrees"
+        "How well it flows when cold; lower flows easier",
+        "The percentage of additive in the oil",
+        "Its flash point in degrees Celsius"
       ],
       "correct_index": 1,
       "explanation": "The number before the W describes cold flow. The second number describes thickness when hot.",
@@ -144,7 +144,7 @@
       "options": [
         "Read the dipstick while the engine is running at idle",
         "Fill until oil shows at the filler cap",
-        "Stop the engine, let the oil settle, then read the dipstick and keep the level between the marks",
+        "Stop the engine, let it settle, then read between the marks",
         "Read it once and add a litre to be safe"
       ],
       "correct_index": 2,
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Why is overfilling an engine with oil harmful?",
       "options": [
-        "It makes the oil run cooler",
-        "The crankshaft whips the oil into foam, which lubricates poorly and can push oil past seals",
-        "It thins the oil",
-        "It raises the fuel consumption only"
+        "It makes the oil run cooler and thicker",
+        "The crankshaft whips it into foam that lubricates poorly",
+        "It thins the oil and lowers its viscosity",
+        "It raises the fuel consumption but does no harm"
       ],
       "correct_index": 1,
       "explanation": "Aerated oil gives poor pressure and a weak film.",
@@ -188,8 +188,8 @@
       "options": [
         "Increase engine speed to raise pressure",
         "Stop the engine, then look for the cause",
-        "Top up the fuel tank",
-        "Finish the passage and check later"
+        "Top up the fuel tank and keep going",
+        "Finish the passage and check it later in port"
       ],
       "correct_index": 1,
       "explanation": "Bearings can fail within minutes without oil pressure. Stop first, investigate second.",
@@ -208,10 +208,10 @@
       "difficulty": "hard",
       "stem": "The dipstick oil smells strongly of diesel, looks thin, and the level has risen. This most likely indicates:",
       "options": [
-        "Normal soot loading",
-        "Overheating of the oil",
-        "Fuel dilution, for example from a leaking injector or lift pump",
-        "Cooling water in the sump"
+        "Normal soot loading after long running",
+        "Overheating of the oil in the sump",
+        "Fuel dilution, such as from a leaking injector",
+        "Cooling water leaking into the sump"
       ],
       "correct_index": 2,
       "explanation": "Fuel dilution thins the oil and raises the level. Water would make it milky instead.",

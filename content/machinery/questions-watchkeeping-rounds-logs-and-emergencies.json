@@ -11,9 +11,9 @@
       "stem": "The engine-room log is used to:",
       "options": [
         "Record machinery readings, events and maintenance",
-        "Hold passenger lists",
-        "Keep chart corrections",
-        "Record the tides"
+        "Hold the passenger and crew lists",
+        "Keep the chart corrections up to date",
+        "Record the tides and the weather"
       ],
       "correct_index": 0,
       "explanation": "It documents operation and supports reporting if something goes wrong.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "If the main engine stops unexpectedly you should first:",
       "options": [
-        "Shut off all electrical power",
-        "Inform the master and investigate the cause before attempting a restart",
-        "Ignore it",
-        "Restart immediately without checking"
+        "Shut off all electrical power at once",
+        "Tell the master and find the cause before a restart",
+        "Wait to see whether it restarts on its own",
+        "Restart immediately without checking anything at all"
       ],
       "correct_index": 1,
       "explanation": "Tell the bridge, check for obvious causes, and restart only if safe.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "If a bump suggests the vessel has grounded, the engine-room operator should:",
       "options": [
-        "Continue normal operations",
-        "Open sea valves",
-        "Report to the master and check bilges, shaft and stern gland for damage",
-        "Switch off the lights"
+        "Continue normal operations and wait",
+        "Open sea valves to flood the bilge",
+        "Report to the master and check bilges, shaft and gland",
+        "Switch off the engine room lights"
       ],
       "correct_index": 2,
       "explanation": "Grounding can open the hull or damage the propeller and shaft.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "In an engine-room fire the usual order is:",
       "options": [
-        "Add fuel to starve the fire",
-        "Raise the alarm, stop fuel and ventilation, evacuate and then use the fixed system if needed",
-        "Open all hatches",
-        "Continue working until the smoke thickens"
+        "Increase fuel flow to burn the fire out",
+        "Alarm, stop fuel and air, get out, then the fixed system",
+        "Open all hatches to clear the smoke",
+        "Keep working until the smoke gets thick"
       ],
       "correct_index": 1,
       "explanation": "Raise the alarm, isolate the fuel and the air, close openings and account for everyone, then discharge the fixed system on the master's order. Adding fuel or opening hatches feeds the fire.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A Small Vessel Machinery Operator - Restricted certificate is valid:",
       "options": [
-        "Only on the specified passenger vessel named on it, under 750 kW",
-        "On any vessel in Canada",
-        "On any cargo vessel",
-        "On any tug"
+        "Only on the passenger vessel named on it, under 750 kW",
+        "On any vessel in Canada with less than 750 kW of power",
+        "On any cargo vessel under 15 GT",
+        "On any tug in sheltered waters"
       ],
       "correct_index": 0,
       "explanation": "The SVMO-R is vessel-specific.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "You made a mistake in the engine-room log. The correct way to fix it is to:",
       "options": [
-        "Cover it with correction fluid",
-        "Tear out the page",
-        "Erase it completely",
-        "Draw a single line through it, initial it and write the correction"
+        "Cover it with correction fluid and rewrite",
+        "Tear out the page and copy it out again",
+        "Erase it completely and write over it",
+        "Draw a single line through it, initial it, and correct it"
       ],
       "correct_index": 3,
       "explanation": "The original entry must stay readable because the log is a record that may be examined. Never erase or obscure it.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "At handover, the outgoing watchkeeper should tell the relief:",
       "options": [
-        "Only the fuel price",
+        "Only the fuel used since the last watch",
         "Nothing, because the log says it all",
-        "What is running, any faults or alarms, work in progress and anything unusual",
-        "Only the next meal time"
+        "What is running, faults, work in progress and anything odd",
+        "Only the next meal time and the weather"
       ],
       "correct_index": 2,
       "explanation": "A good handover includes the state of the machinery, isolations, faults and orders. Leave only when the relief understands.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "Which sequence best describes using your senses on a round?",
       "options": [
-        "Look only at the gauges",
-        "Look for leaks, listen for new noises, smell for heat or fuel and feel for abnormal vibration or heat carefully",
-        "Taste the oil, listen to the bilge",
-        "Listen only to the alarm panel"
+        "Look only at the gauges and the alarm panel",
+        "Look for leaks, listen for noises, smell for heat, feel for vibration",
+        "Taste the oil, then listen to the bilge pump",
+        "Listen only to the alarm panel and log any alarms"
       ],
       "correct_index": 1,
       "explanation": "Rounds use sight, hearing, smell and touch. Many faults are noticed by senses before any alarm sounds.",
@@ -187,9 +187,9 @@
       "stem": "The oil pressure of the running main engine falls to zero. You should:",
       "options": [
         "Ignore it if the temperature is normal",
-        "Tell the bridge, stop the engine promptly and check the oil level and leaks before restarting",
-        "Speed the engine up",
-        "Add more fuel"
+        "Tell the bridge, stop the engine, and find the cause first",
+        "Speed the engine up to raise the pressure back to normal",
+        "Add more fuel to keep it running"
       ],
       "correct_index": 1,
       "explanation": "An engine can be destroyed in seconds without oil. Stop it, find the cause (level, leak, filter, pump or gauge) and do not restart until it is understood.",
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "The coolant temperature is rising on a loaded engine. The most appropriate first step is to:",
       "options": [
-        "Increase speed to improve flow",
+        "Increase speed to improve the water flow",
         "Pour cold water on the cylinder head",
-        "Tell the bridge, reduce load and check coolant level, raw-water flow and strainer",
-        "Open the pressure cap at once"
+        "Tell the bridge, reduce load, check coolant and sea water flow",
+        "Open the pressure cap at once to check"
       ],
       "correct_index": 2,
       "explanation": "Reduce the heat input and look for blocked sea-water flow, low coolant, slipping belts or a faulty thermostat. A hot cap can spray scalding coolant, and cold water can crack a hot engine.",
@@ -232,8 +232,8 @@
       "options": [
         "Remove the thermostat permanently",
         "Pour in cold water at once",
-        "Let the engine cool and find the leak, then refill slowly with the correct mixture",
-        "Run at full speed to cool down"
+        "Let it cool, find the leak, then refill slowly",
+        "Run at full speed to cool it down"
       ],
       "correct_index": 2,
       "explanation": "Adding cold liquid to a hot engine can crack the block or head. Find and fix the cause of the loss, refill, and bleed air out.",
@@ -252,10 +252,10 @@
       "difficulty": "medium",
       "stem": "The high bilge alarm sounds at sea. After checking the alarm is real, you should:",
       "options": [
-        "Open all sea valves",
+        "Open all sea valves to equalise",
         "Silence the alarm and carry on",
-        "Go to the galley",
-        "Find the source, start the bilge pump and tell the bridge"
+        "Wait for the next round before checking it",
+        "Find the source, pump, and tell the bridge"
       ],
       "correct_index": 3,
       "explanation": "Locate the leak (hose, seacock, stern gland or hull), pump, isolate and report. If the water is rising faster than the pump can clear, tell the master at once.",
@@ -274,10 +274,10 @@
       "difficulty": "medium",
       "stem": "The main engine stops without warning. The most appropriate action is to:",
       "options": [
-        "Crank repeatedly until it starts",
+        "Crank repeatedly until it starts again",
         "Close the fuel tank valves permanently",
         "Say nothing until the next port",
-        "Tell the bridge, then look for obvious causes such as fuel supply or a tripped shutdown before restarting"
+        "Tell the bridge, then check fuel and shutdowns before restarting"
       ],
       "correct_index": 3,
       "explanation": "The master needs to know quickly because the vessel may need to anchor or avoid danger. Check fuel valves, filters and alarms, and only restart once the cause is dealt with.",

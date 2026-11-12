@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A hydrostatic release on a liferaft:",
       "options": [
-        "Stops the pump",
+        "Stops the bilge pump when it is under water",
         "Frees the raft if the vessel sinks",
-        "Cools the engine",
-        "Inflates the lifejacket"
+        "Inflates the raft as soon as it is wet",
+        "Inflates the lifejackets in the raft"
       ],
       "correct_index": 1,
       "explanation": "It has an expiry date.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "On the abandon-ship alarm, the engineer normally:",
       "options": [
-        "Stops machinery and shuts off fuel if it is safe, then goes to the muster station",
-        "Starts all engines",
-        "Stays in the engine room",
-        "Opens the hatches"
+        "Stops machinery and fuel if safe, then goes to muster",
+        "Starts all engines so the vessel can be driven ashore",
+        "Stays in the engine room until the master calls",
+        "Opens the engine room hatches to let the water out"
       ],
       "correct_index": 0,
       "explanation": "Follow the station bill.",
@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "When abandoning the vessel you should:",
       "options": [
-        "Remove your lifejacket",
+        "Remove your lifejacket so you can swim",
         "Not go back for belongings",
-        "Go back for your bag",
-        "Swim to shore"
+        "Go back for your bag and papers",
+        "Swim for shore if you can see it"
       ],
       "correct_index": 1,
       "explanation": "Time is critical.",
@@ -99,9 +99,9 @@
       "stem": "To board a liferaft, the best way is:",
       "options": [
         "Dry, stepping from the vessel",
-        "Being thrown in",
-        "Swimming around it",
-        "Jumping on the canopy"
+        "Jumping into the water first",
+        "Swimming around to the canopy",
+        "Jumping onto the canopy roof"
       ],
       "correct_index": 0,
       "explanation": "Staying dry reduces cold stress.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "In cold water in a lifejacket, the HELP position is used to:",
       "options": [
-        "Signal ships",
-        "Swim faster",
+        "Signal passing ships",
+        "Swim to the raft faster",
         "Reduce heat loss",
-        "Dive"
+        "Keep moving to stay warm"
       ],
       "correct_index": 2,
       "explanation": "Arms in, knees up.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Survivors in a liferaft should:",
       "options": [
-        "Drink sea water",
-        "Stay with the raft and keep together and warm",
-        "Separate",
-        "Swim away"
+        "Drink a little sea water to stay strong",
+        "Stay with the raft, together and warm",
+        "Split up to search a wider area",
+        "Swim away to look for land"
       ],
       "correct_index": 1,
       "explanation": "Rescuers find rafts more easily.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Expired flares should:",
       "options": [
-        "Be fired for fun",
-        "Be kept forever",
-        "Be thrown overboard",
-        "Be replaced and old ones disposed of properly"
+        "Be fired off on the next calm day",
+        "Be kept on board as extra spares forever",
+        "Be thrown overboard well away from land",
+        "Be replaced and disposed of properly"
       ],
       "correct_index": 3,
       "explanation": "Use a marine supplier or approved collection point.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "An EPIRB is used to:",
       "options": [
-        "Steer the boat",
-        "Tune the radio",
-        "Send a distress signal with the vessel's position",
-        "Cool the engine"
+        "Steer the boat if the helm fails",
+        "Tune the VHF radio to Channel 16 automatically",
+        "Send a distress alert with the position",
+        "Light up the deck in an emergency"
       ],
       "correct_index": 2,
       "explanation": "Check its battery date.",
@@ -208,10 +208,10 @@
       "difficulty": "easy",
       "stem": "A station bill is:",
       "options": [
-        "A bill of sale",
-        "A fuel bill",
+        "A bill of sale for the vessel",
+        "A record of fuel bought for each trip",
         "A list of each person's duties and muster station",
-        "A tide table"
+        "The harbour dues paid at each port"
       ],
       "correct_index": 2,
       "explanation": "It sets who does what in an emergency.",

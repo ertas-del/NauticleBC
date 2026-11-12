@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Emergency power normally supplies:",
       "options": [
-        "Only the air conditioning",
-        "Emergency lighting, navigation lights, communications and steering",
-        "The galley",
-        "The TV"
+        "Air conditioning and cabin heating",
+        "Emergency lights, nav lights, communications and steering",
+        "The galley and the crew mess",
+        "Deck floodlights and the winch motors"
       ],
       "correct_index": 1,
       "explanation": "Essential and emergency loads.",
@@ -54,9 +54,9 @@
       "difficulty": "easy",
       "stem": "A tripped breaker should be reset:",
       "options": [
-        "Without looking",
-        "Never",
-        "At once",
+        "Straight away, without looking",
+        "Never, until the next refit",
+        "At once, as many times as needed",
         "Only after finding the cause"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "When restoring power you should restore first:",
       "options": [
-        "Entertainment",
-        "Essential services such as steering, lube oil and cooling",
-        "The galley",
-        "Deck lights"
+        "Accommodation and galley power",
+        "Steering, lube oil and cooling",
+        "Deck floodlights for the crew",
+        "Battery chargers for spares"
       ],
       "correct_index": 1,
       "explanation": "Then non-essential loads.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "Overload of a generator is best avoided by:",
       "options": [
-        "Ignoring the ammeter",
-        "Turning off alarms",
+        "Running every motor at once",
+        "Turning off the alarms",
         "Watching the load and sharing it",
-        "Adding more motors"
+        "Fitting a larger breaker"
       ],
       "correct_index": 2,
       "explanation": "Load management prevents blackouts.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "A dead-ship restart needs:",
       "options": [
-        "Only fuel",
+        "Only fuel in the day tank",
         "Charged starting batteries or starting air",
-        "Only a radio",
-        "Only water"
+        "Only a working VHF radio",
+        "Only cooling water in the system"
       ],
       "correct_index": 1,
       "explanation": "Keep both ready.",
@@ -143,9 +143,9 @@
       "stem": "If steering power fails you should:",
       "options": [
         "Shift to emergency steering",
-        "Keep going",
-        "Abandon the helm",
-        "Speed up"
+        "Keep going and steer later",
+        "Leave the helm to find help",
+        "Increase speed to keep way on"
       ],
       "correct_index": 0,
       "explanation": "Reduce speed.",
@@ -164,9 +164,9 @@
       "difficulty": "medium",
       "stem": "The emergency generator should be:",
       "options": [
-        "Never tested",
-        "Disconnected",
-        "Hidden",
+        "Left alone until needed",
+        "Run only off load",
+        "Tested once a year",
         "Tested regularly on load"
       ],
       "correct_index": 3,
@@ -187,9 +187,9 @@
       "stem": "If the main engine fails near danger, the master may:",
       "options": [
         "Anchor or call for help",
-        "Turn off the radio",
-        "Ignore it",
-        "Speed up"
+        "Turn off the radio to save power",
+        "Wait and see if she drifts clear",
+        "Leave the bridge to help below"
       ],
       "correct_index": 0,
       "explanation": "Keep communication open.",
@@ -209,9 +209,9 @@
       "stem": "A blackout is:",
       "options": [
         "A total loss of main electrical power",
-        "A broken bulb",
-        "A tripped bilge pump",
-        "Low oil pressure"
+        "A broken navigation light bulb",
+        "A tripped bilge pump breaker",
+        "Low oil pressure on the generator"
       ],
       "correct_index": 0,
       "explanation": "Emergency power takes over.",

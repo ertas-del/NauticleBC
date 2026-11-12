@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Priming a pump means:",
       "options": [
-        "Opening the discharge valve fully",
-        "Greasing the bearings",
-        "Cooling the motor",
-        "Filling the pump and suction line with liquid so it can start pumping"
+        "Opening the discharge valve fully before starting",
+        "Greasing the bearings before starting",
+        "Cooling the motor with a water spray",
+        "Filling the pump and suction with liquid"
       ],
       "correct_index": 3,
       "explanation": "Many pumps cannot lift liquid if the casing is full of air.",
@@ -56,8 +56,8 @@
       "options": [
         "Gives constant flow at any pressure",
         "Works only on compressed air",
-        "Pumps best when dry",
-        "Needs to be primed and is not self-priming"
+        "Pumps best when run dry",
+        "Needs priming; it is not self-priming"
       ],
       "correct_index": 3,
       "explanation": "Special self-priming designs exist, but a basic centrifugal pump needs liquid in the casing.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "A bilge pump runs but removes no water. The first thing to check is:",
       "options": [
-        "Cabin lighting",
-        "Anchor chain",
-        "Strainer and suction line for blockage and any air leaks",
-        "Radio batteries"
+        "The float switch and the pump fuse",
+        "The discharge valve on the hull",
+        "The strainer and suction line for blockage or air leaks",
+        "The battery voltage at the switch"
       ],
       "correct_index": 2,
       "explanation": "A blocked strainer or air leak is a common cause of lost suction.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A positive displacement pump must have:",
       "options": [
-        "A closed suction",
+        "A closed suction valve",
         "An air vent on the shaft",
         "A relief valve on its discharge",
-        "No discharge valve"
+        "No valve at all on its discharge"
       ],
       "correct_index": 2,
       "explanation": "Without a relief valve, a closed discharge can burst the pipe or stall the pump.",
@@ -187,7 +187,7 @@
       "stem": "The commonest cause of a bilge pump that runs but delivers little water is:",
       "options": [
         "A full fuel tank",
-        "Too much light",
+        "A new float switch",
         "A clean impeller",
         "A blocked suction strainer"
       ],

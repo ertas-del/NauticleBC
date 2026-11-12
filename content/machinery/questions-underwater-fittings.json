@@ -11,10 +11,10 @@
       "difficulty": "medium",
       "stem": "A Kort nozzle is:",
       "options": [
-        "A type of keel",
-        "A shroud around the propeller that increases thrust at low speed",
-        "A valve on the sea chest",
-        "A fuel filter"
+        "A type of keel used on fishing vessels",
+        "A shroud round the propeller that adds thrust at low speed",
+        "A valve fitted to the sea chest",
+        "A fuel filter for high-speed engines"
       ],
       "correct_index": 1,
       "explanation": "It improves bollard pull, which is why tugs use it.",
@@ -34,10 +34,10 @@
       "difficulty": "medium",
       "stem": "A sea chest is:",
       "options": [
-        "A type of anchor",
-        "The fuel filler",
-        "A storage locker for tools",
-        "A recess or box in the hull that supplies sea water for cooling and other systems"
+        "A type of anchor stowed in the hull",
+        "The deck filler for the fuel tanks",
+        "A storage locker for engine tools",
+        "A recess in the hull that supplies sea water"
       ],
       "correct_index": 3,
       "explanation": "It usually has a grating and a way to clear it.",
@@ -58,9 +58,9 @@
       "stem": "A keel cooler:",
       "options": [
         "Cools the fuel in the day tank",
-        "Is a seawater strainer",
-        "Cools engine fresh water by passing it through pipes fixed outside the hull",
-        "Cools the cabin"
+        "Strains seaweed out of the raw water",
+        "Cools engine fresh water in pipes outside the hull",
+        "Cools the cabin through the deckhead"
       ],
       "correct_index": 2,
       "explanation": "No raw-water intake is needed, so there is less fouling and corrosion inside the engine.",
@@ -80,10 +80,10 @@
       "difficulty": "medium",
       "stem": "A fixed-pitch propeller:",
       "options": [
-        "Is only fitted to sailboats",
-        "Has blade pitch that cannot be changed while in service",
-        "Can be adjusted from the bridge",
-        "Has no blades"
+        "Is only fitted to sailing vessels",
+        "Has blade pitch that cannot be changed in service",
+        "Can be adjusted from the bridge at sea",
+        "Has its blades bolted on so they can be swapped at sea"
       ],
       "correct_index": 1,
       "explanation": "Controllable-pitch propellers change blade angle.",
@@ -103,10 +103,10 @@
       "difficulty": "medium",
       "stem": "Seacocks should be operated regularly because:",
       "options": [
-        "It cools the engine",
-        "They can seize in the open position if never moved, and fail to close when needed",
-        "It warms the bilge",
-        "The rules say they should be painted yearly"
+        "Moving them cools the engine room",
+        "They can seize open and fail to close when needed",
+        "Moving them warms the bilge water",
+        "The rules say seacocks must be painted every single year"
       ],
       "correct_index": 1,
       "explanation": "A seized valve cannot isolate a failed hose.",
@@ -126,10 +126,10 @@
       "difficulty": "easy",
       "stem": "The engine overheats and the raw-water pump is turning normally. A likely cause is:",
       "options": [
-        "A blocked sea strainer, for example with kelp or jellyfish",
-        "A full fuel tank",
+        "A blocked sea strainer, such as with kelp",
+        "A full fuel tank adding weight",
         "A clean heat exchanger",
-        "Low gearbox oil"
+        "Low oil in the gearbox"
       ],
       "correct_index": 0,
       "explanation": "Weed or jellyfish in the strainer restricts the flow of cooling water.",
@@ -172,10 +172,10 @@
       "difficulty": "medium",
       "stem": "A sacrificial anode protects a propeller by:",
       "options": [
-        "Insulating it from the water",
-        "Corroding in preference to it, because the anode metal is more reactive",
-        "Making the water less salty",
-        "Cleaning growth from the blades"
+        "Insulating the propeller from the water",
+        "Corroding instead of it, as the more reactive metal",
+        "Making the water around it less salty",
+        "Cleaning marine growth from the blades"
       ],
       "correct_index": 1,
       "explanation": "The anode is the weaker metal in the galvanic pair and wastes away instead of the propeller.",
@@ -195,10 +195,10 @@
       "difficulty": "medium",
       "stem": "You should not paint a sacrificial anode because:",
       "options": [
-        "It would add weight",
+        "It would add weight to the hull",
         "The colour would affect the compass",
-        "Paint would stop it making good electrical contact with the water, so it would not protect",
-        "Anodes must be bright red"
+        "Paint stops contact with the water, so it cannot protect",
+        "Anodes must be left bright for inspection"
       ],
       "correct_index": 2,
       "explanation": "An anode must be bare metal to work.",
@@ -218,10 +218,10 @@
       "difficulty": "medium",
       "stem": "A rubber hose on an overboard fitting bursts and water floods in. A prompt action is to:",
       "options": [
-        "Close the seacock, or drive a bung into the opening if you cannot, and tell the master",
-        "Open all other seacocks",
-        "Switch off the bilge pump to save power",
-        "Tighten the stern gland"
+        "Close the seacock or plug the opening, and tell the master",
+        "Open all the other seacocks to balance the flow",
+        "Switch off the bilge pump to save battery power for later",
+        "Tighten the stern gland to slow the leak"
       ],
       "correct_index": 0,
       "explanation": "Stop the water at the hull opening first, then call the master and use the pumps.",

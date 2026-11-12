@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Water in diesel fuel will:",
       "options": [
-        "Float on top",
-        "Turn the fuel clear",
+        "Float on top of the fuel",
+        "Mix in and turn the fuel clear",
         "Settle to the bottom of the tank",
-        "Increase the energy of the fuel"
+        "Increase the energy content of the fuel"
       ],
       "correct_index": 2,
       "explanation": "Water is denser than diesel. Drain from the lowest point.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "A day tank is:",
       "options": [
-        "A bilge holding tank",
-        "A tank for drinking water",
-        "A tank for sewage",
-        "A small tank near the engine that supplies fuel by gravity"
+        "A bilge holding tank for oily water",
+        "A tank for drinking water for the crew",
+        "A tank for sewage between pump-outs",
+        "A small tank near the engine that feeds it"
       ],
       "correct_index": 3,
       "explanation": "It is topped up from the main tanks.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Diesel fuel has a specific gravity of about:",
       "options": [
-        "0.1",
+        "0.65, much lighter than water",
         "0.85, lighter than water",
         "1.5, heavier than water",
-        "2.0"
+        "1.05, a little heavier than water"
       ],
       "correct_index": 1,
       "explanation": "Diesel floats on water, which is why water collects under fuel.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "'Fuel bugs' are:",
       "options": [
-        "Microbial growth that forms sludge and can clog filters",
-        "Insects in the fuel hold",
-        "Corrosion on tank walls",
-        "A fuel additive"
+        "Microbial growth that forms sludge and clogs filters",
+        "Insects that get into the fuel through the tank vents",
+        "Corrosion flakes from the tank walls and baffles",
+        "An additive that keeps the fuel clean in storage"
       ],
       "correct_index": 0,
       "explanation": "They grow at the fuel and water boundary. Keep tanks free of water.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Which is the best way to handle fuel-soaked rags?",
       "options": [
-        "Throw them over the side",
-        "Pile them behind the engine",
-        "Leave them on the engine to dry",
-        "Store them in a closed metal container and dispose of them properly"
+        "Throw them over the side when well offshore",
+        "Pile them behind the engine until port",
+        "Leave them spread on the engine to dry out",
+        "Keep them in a closed metal bin for proper disposal"
       ],
       "correct_index": 3,
       "explanation": "Fuel-soaked rags are a fire hazard and a pollutant.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "The best way to check fuel is not contaminated before a voyage is to:",
       "options": [
-        "Check the paint",
-        "Look at the fuel gauge only",
-        "Smell the tank vent",
-        "Drain and inspect a sample from the lowest point of the tank or filter"
+        "Check the colour through the tank sight glass",
+        "Look at the fuel gauge only before you sail",
+        "Smell the tank vent for any sour odour",
+        "Drain and inspect a sample from the lowest point"
       ],
       "correct_index": 3,
       "explanation": "Water and sediment collect at the bottom.",
@@ -167,7 +167,7 @@
         "A fuel heater",
         "A self-closing cock or cap",
         "A pressure relief valve",
-        "A fire detector"
+        "A loose screw cap on a chain"
       ],
       "correct_index": 1,
       "explanation": "An open sounding pipe in a machinery space is a fuel and fire hazard.",
@@ -187,9 +187,9 @@
       "stem": "Before starting an inboard gasoline engine you should:",
       "options": [
         "Open the engine room hatches and start at once",
-        "Switch off the bilge pump",
-        "Fill the fuel tank to the top",
-        "Run the bilge blower and check the bilge for fuel vapour"
+        "Switch off the bilge pump to stop any sparks",
+        "Fill the fuel tank right to the top so no vapour can form",
+        "Run the bilge blower and check the bilge for vapour"
       ],
       "correct_index": 3,
       "explanation": "Gasoline vapour sinks into the bilge and can explode. Ventilate before starting.",
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "When transferring fuel between tanks you should:",
       "options": [
-        "Rely only on the gauge",
-        "Fill the tank to the brim",
-        "Leave the transfer unattended",
-        "Check space in the receiving tank, set the valves, keep vents clear and watch the level"
+        "Rely only on the gauge and leave the tank to fill",
+        "Fill the receiving tank to the brim for the voyage",
+        "Start the pump and leave it running while you do other jobs",
+        "Check space, set valves, keep vents clear, watch the level"
       ],
       "correct_index": 3,
       "explanation": "Plan, check the line-up, and stay with the transfer until it is stopped.",

@@ -12,8 +12,8 @@
       "options": [
         "Overload or poor combustion",
         "A frozen cooling system",
-        "Water in the oil",
-        "Normal operation"
+        "Water in the lubricating oil",
+        "Burning lubricating oil"
       ],
       "correct_index": 0,
       "explanation": "Check load, air supply, fuel injectors, and propeller condition.",
@@ -32,9 +32,9 @@
       "difficulty": "medium",
       "stem": "Persistent blue exhaust smoke typically indicates:",
       "options": [
-        "Normal operation",
-        "Too much air",
-        "Cold weather only",
+        "Normal operation when warm",
+        "Too much air in the cylinders",
+        "Water in the fuel or a cold start",
         "Burning lubricating oil"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "hard",
       "stem": "If a crankcase explosion is suspected, you should:",
       "options": [
-        "Open all doors to look",
-        "Add water to the crankcase",
-        "Stop the engine and not open the crankcase until it has cooled",
-        "Rev the engine"
+        "Open the crankcase doors to look inside",
+        "Add water to the crankcase to cool it",
+        "Stop the engine; keep the crankcase shut until cool",
+        "Speed up the engine to clear the vapour"
       ],
       "correct_index": 2,
       "explanation": "Fresh air can feed a second, more violent explosion.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Which check belongs before starting a diesel engine?",
       "options": [
-        "Draining the coolant",
-        "Crankcase oil level, coolant level and the sea suction valve being open",
-        "Painting the engine",
-        "Switching off the bilge alarm"
+        "Draining the coolant to check for rust",
+        "Oil level, coolant level and sea suction open",
+        "Painting any rusty spots on the engine",
+        "Switching off the bilge alarm so it does not sound"
       ],
       "correct_index": 1,
       "explanation": "Check oil, coolant, fuel and sea water supply before every start.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "The high coolant temperature alarm sounds. A sensible first action is to:",
       "options": [
-        "Open the pressure cap at once",
-        "Reduce load, tell the master, and check coolant, strainer, belt and impeller",
-        "Switch off the alarm and continue",
-        "Increase engine speed"
+        "Open the pressure cap at once to check the level",
+        "Reduce load, tell the master, and check the usual causes",
+        "Switch off the alarm and continue at the same engine speed",
+        "Increase engine speed to push more water through"
       ],
       "correct_index": 1,
       "explanation": "Reduce heat input, inform the master, then check the common causes. Never open a hot pressure cap.",
@@ -165,9 +165,9 @@
       "stem": "Engine running hours are recorded mainly so that:",
       "options": [
         "Servicing is done on time and problems are noticed early",
-        "The crew can be paid",
-        "The fuel burns faster",
-        "The engine is louder"
+        "The crew can be paid for time spent in the engine room",
+        "The fuel supplier can bill the vessel for each hour it runs",
+        "The insurer can set the premium by hours run each year"
       ],
       "correct_index": 0,
       "explanation": "Oil, filter and other services are scheduled by running hours.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "An engine turns over normally but will not start. Which is a likely cause?",
       "options": [
-        "A full oil sump",
-        "No fuel reaching the injectors, such as a closed valve, blocked filter or air in the system",
-        "A clean air filter",
-        "Coolant at the right level"
+        "A full oil sump slowing the crankshaft",
+        "No fuel reaching the injectors",
+        "A clean air filter letting in too much air",
+        "Coolant at the right level but too cold"
       ],
       "correct_index": 1,
       "explanation": "A cranking engine that won't fire is short of fuel, air or compression.",

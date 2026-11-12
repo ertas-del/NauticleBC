@@ -34,10 +34,10 @@
       "difficulty": "medium",
       "stem": "Increasing the carbon content of a plain steel generally makes it:",
       "options": [
-        "Easier to weld",
-        "More resistant to rust",
+        "Easier to weld without preheating",
+        "More resistant to rust and pitting in sea water",
         "Harder and stronger but less ductile",
-        "Softer and more ductile"
+        "Softer and more ductile when cold"
       ],
       "correct_index": 2,
       "explanation": "More carbon raises hardness and strength but reduces ductility and weldability.",
@@ -81,7 +81,7 @@
       "stem": "Which choice best describes a non-ferrous metal?",
       "options": [
         "A metal that is always magnetic",
-        "A metal that cannot corrode",
+        "A metal that cannot corrode at all",
         "Any metal used below the waterline",
         "A metal that contains no significant iron"
       ],
@@ -103,9 +103,9 @@
       "difficulty": "easy",
       "stem": "Cast iron is a poor choice for a part that must absorb sharp shocks mainly because it is:",
       "options": [
-        "Too ductile",
-        "Too soft to hold a shape",
-        "Magnetic",
+        "Too ductile, so it bends out of shape",
+        "Too soft to hold its shape under a heavy load",
+        "Magnetic, so it upsets the compass",
         "Brittle, so it cracks rather than bends"
       ],
       "correct_index": 3,
@@ -126,10 +126,10 @@
       "difficulty": "easy",
       "stem": "What does adding chromium do to steel?",
       "options": [
-        "It makes the steel resist rust, giving stainless steel",
-        "It turns it into bronze",
-        "It makes it lighter",
-        "It makes it softer for welding"
+        "It makes it resist rust, giving stainless steel",
+        "It turns the steel into a form of bronze",
+        "It makes the steel much lighter for the same size",
+        "It makes the steel softer and easier to weld"
       ],
       "correct_index": 0,
       "explanation": "Chromium forms a thin protective film. Stainless steel is still not immune in stagnant seawater, but it resists ordinary rusting.",
@@ -152,7 +152,7 @@
         "The bronze corrodes quickly",
         "The aluminium corrodes quickly",
         "The bolt gets stronger",
-        "Neither metal is affected"
+        "Neither metal is affected at all"
       ],
       "correct_index": 1,
       "explanation": "Aluminium is less noble than bronze, so in seawater it is the metal that wastes away. The bigger the difference between the metals, the faster the attack.",
@@ -172,10 +172,10 @@
       "difficulty": "medium",
       "stem": "Which description fits galvanic corrosion?",
       "options": [
-        "Cracking caused by overheating",
-        "Two different metals in contact in an electrolyte such as seawater, with the less noble one wasting away",
+        "Cracking caused by overheating and fast cooling",
+        "Two different metals in seawater, the less noble one wasting",
         "Rusting caused only by oxygen in dry air",
-        "Wear caused by sand in the cooling water"
+        "Wear caused by sand carried in the cooling water"
       ],
       "correct_index": 1,
       "explanation": "Galvanic corrosion needs two different metals and an electrolyte, which together act like a weak battery. Dry rusting, abrasion and cracking are different problems.",
@@ -195,8 +195,8 @@
       "difficulty": "easy",
       "stem": "A sacrificial zinc anode on a propeller shaft has mostly wasted away. You should:",
       "options": [
-        "Paint over it to protect it",
-        "Replace it, because it has done its job and no longer protects the shaft",
+        "Paint over it so that it lasts longer",
+        "Replace it, as it has done its job",
         "Leave it until the shaft corrodes",
         "Remove it and fit a steel one"
       ],
@@ -218,10 +218,10 @@
       "difficulty": "medium",
       "stem": "Dezincification is a fault of:",
       "options": [
-        "Rubber hoses in sunlight",
-        "Brass in seawater, where zinc leaches out and leaves weak porous copper",
-        "Cast iron under compression",
-        "Steel in dry air"
+        "Rubber hoses cracking in sunlight",
+        "Brass in seawater, leaving weak porous copper",
+        "Cast iron cracking under compression",
+        "Steel rusting slowly in dry air"
       ],
       "correct_index": 1,
       "explanation": "Brass is copper and zinc. In seawater the zinc can be dissolved out, leaving a brittle copper structure that looks sound but can fail suddenly. That is why seawater fittings should be bronze.",
@@ -241,9 +241,9 @@
       "difficulty": "easy",
       "stem": "Compared with steel, aluminium alloy used for a small vessel's hull is:",
       "options": [
-        "Twice as heavy but cheaper",
-        "The same weight and more brittle",
-        "Heavier but stronger",
+        "Twice as heavy, but much cheaper to build and repair",
+        "The same weight, and more brittle in cold",
+        "Heavier, but stronger for the same size",
         "About one third of the weight and does not rust"
       ],
       "correct_index": 3,
