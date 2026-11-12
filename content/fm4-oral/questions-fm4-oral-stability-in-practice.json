@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Adding a weight high up on a vessel:",
       "options": [
-        "Has no effect",
+        "Has no effect if it is small",
         "Raises G and reduces stability",
-        "Lowers G",
-        "Raises GM"
+        "Lowers G and adds stability",
+        "Raises GM and makes her stiff"
       ],
       "correct_index": 1,
       "explanation": "Keep weights low.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A weight hanging from a boom acts as if it were:",
       "options": [
-        "In the hold",
-        "On the deck",
+        "Stowed in the hold",
+        "Sitting on the deck",
         "At the point of suspension",
-        "At the keel"
+        "At the foot of the boom"
       ],
       "correct_index": 2,
       "explanation": "G rises.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Before sailing you should compare your loading with:",
       "options": [
-        "The tide table",
+        "The tide table for the port",
         "The booklet's pre-calculated conditions",
-        "The log",
-        "Nothing"
+        "The last trip's catch log",
+        "The fuel receipts from the dock"
       ],
       "correct_index": 1,
       "explanation": "Recalculate if not covered.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "A tender vessel:",
       "options": [
-        "Rolls quickly",
-        "Is always safe",
+        "Rolls quickly and jerkily",
+        "Is always safe in a seaway",
         "Rolls slowly and leans a long way",
-        "Never leans"
+        "Never leans in a turn"
       ],
       "correct_index": 2,
       "explanation": "GM is small.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "Reducing freeboard:",
       "options": [
-        "Improves stability",
-        "Lowers G",
-        "Has no effect",
+        "Improves stability by lowering G",
+        "Lowers G and stiffens the vessel",
+        "Has no effect if the sea is calm",
         "Reduces reserve buoyancy and range of stability"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "Stability tends to be worst on the return trip because:",
       "options": [
-        "The tide is high",
-        "The catch is lighter",
+        "The tide is higher in the afternoon",
+        "The catch is lighter than the gear",
         "Fuel is used and G has risen",
-        "The weather is calm"
+        "The weather is calmer on the way in"
       ],
       "correct_index": 2,
       "explanation": "Low weights are gone.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "Fish carried on deck:",
       "options": [
-        "Is always safe",
-        "Increases freeboard",
+        "Is always safe if it is iced",
+        "Increases freeboard and buoyancy",
         "Raises G and can shift",
-        "Lowers G"
+        "Lowers G as it settles"
       ],
       "correct_index": 2,
       "explanation": "Keep fish below in pens.",

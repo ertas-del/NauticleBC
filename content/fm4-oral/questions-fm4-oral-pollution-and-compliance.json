@@ -11,9 +11,9 @@
       "stem": "When fuelling you should:",
       "options": [
         "Use drip trays and fill slowly",
-        "Overfill",
-        "Leave the nozzle unattended",
-        "Smoke"
+        "Fill to the top so no air is left",
+        "Leave the nozzle on auto while you work",
+        "Fill fast, then wipe up any spill"
       ],
       "correct_index": 0,
       "explanation": "Stop before full.",
@@ -32,9 +32,9 @@
       "difficulty": "easy",
       "stem": "A pollution incident must be reported:",
       "options": [
-        "Next week",
-        "Never",
-        "Only if large",
+        "At the end of the trip, in port",
+        "Only if it is more than a litre",
+        "Only if someone else saw it",
         "Immediately to the Coast Guard"
       ],
       "correct_index": 3,
@@ -76,9 +76,9 @@
       "difficulty": "medium",
       "stem": "Oily bilge water should normally be:",
       "options": [
-        "Mixed with seawater",
-        "Pumped over the side",
-        "Poured in the harbour",
+        "Mixed with seawater first",
+        "Pumped over the side offshore",
+        "Pumped out at night in harbour",
         "Kept on board and disposed of ashore"
       ],
       "correct_index": 3,
@@ -99,9 +99,9 @@
       "stem": "If you find a slick at sea you should:",
       "options": [
         "Note the position and report it",
-        "Add detergent",
-        "Ignore it",
-        "Drive through it"
+        "Spray detergent on it to break it up",
+        "Leave it, as it will soon evaporate",
+        "Drive through it to spread it thin"
       ],
       "correct_index": 0,
       "explanation": "The Coast Guard coordinates the response.",
@@ -121,9 +121,9 @@
       "stem": "A spill kit is used to:",
       "options": [
         "Contain and clean up small spills",
-        "Cool the engine",
-        "Light the way",
-        "Fix the engine"
+        "Put out small fires in the galley",
+        "Patch a small leak in the hull",
+        "Treat crew who are cut by gear"
       ],
       "correct_index": 0,
       "explanation": "Keep it handy.",
@@ -143,9 +143,9 @@
       "stem": "Dispersants should be used:",
       "options": [
         "Only when authorised",
-        "On every spill",
-        "Never ever",
-        "Always"
+        "On every spill at sea",
+        "On spills near shore",
+        "Whenever oil is seen"
       ],
       "correct_index": 0,
       "explanation": "They can add harm.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Lost fishing gear is:",
       "options": [
-        "Always legal",
-        "Harmless",
-        "A form of pollution to be prevented and reported where required",
-        "Good for the sea"
+        "Legal to leave if it sinks",
+        "Harmless once it is waterlogged",
+        "Pollution, to be prevented and reported",
+        "Good habitat for fish once it settles"
       ],
       "correct_index": 2,
       "explanation": "Take care of gear.",

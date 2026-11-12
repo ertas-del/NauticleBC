@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "When berthing, you should approach:",
       "options": [
-        "Fast",
+        "Fast, to keep good steerage way",
         "Slowly, into the stronger of wind or current",
-        "With the wind behind",
-        "Without lines"
+        "With the wind and current right behind you",
+        "Without lines ready, to keep the deck clear"
       ],
       "correct_index": 1,
       "explanation": "Slow speed gives control.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A spring line is used to:",
       "options": [
-        "Steer the radar",
+        "Hold the vessel off the dock at all times",
         "Control the vessel and swing the stern",
-        "Hoist the anchor",
-        "Fill the tank"
+        "Hoist the anchor and stow it on deck",
+        "Tow the skiff alongside while berthing"
       ],
       "correct_index": 1,
       "explanation": "Use it with the engine and rudder.",
@@ -121,9 +121,9 @@
       "stem": "Before unberthing you should:",
       "options": [
         "Plan how to leave clear of other vessels and gear",
-        "Cast off all lines at once",
-        "Leave without looking",
-        "Start the winch"
+        "Cast off all lines at once and back straight out",
+        "Leave without looking, as the berth is your own",
+        "Start the winch and let the lines pull you clear"
       ],
       "correct_index": 0,
       "explanation": "Use springs.",
@@ -165,9 +165,9 @@
       "stem": "A turning circle should be:",
       "options": [
         "Known for your vessel at different speeds",
-        "Ignored",
-        "The same for all boats",
-        "Irrelevant"
+        "Ignored, as every turn is different",
+        "The same for all boats of the same length",
+        "Checked only when the vessel is new"
       ],
       "correct_index": 0,
       "explanation": "Practise.",

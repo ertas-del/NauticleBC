@@ -11,9 +11,9 @@
       "stem": "The most important safety measure against drowning on deck is:",
       "options": [
         "Wearing a lifejacket or PFD",
-        "Working alone",
-        "Leaving rails off",
-        "Wearing heavy boots"
+        "Working alone to stay focused",
+        "Taking the rails off for room",
+        "Wearing heavy steel-toe boots"
       ],
       "correct_index": 0,
       "explanation": "Many fishing deaths are from falls overboard.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Standing in the bight of a line is dangerous because:",
       "options": [
-        "It is wet",
+        "It is the wettest part of the deck",
         "The line can tighten and trap or drag you",
-        "It is lonely",
-        "It is cold"
+        "You cannot see the winch from there",
+        "The line wears out faster with you on it"
       ],
       "correct_index": 1,
       "explanation": "Keep clear of lines under load.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "Guards on rotating machinery should:",
       "options": [
-        "Be painted",
-        "Be removed",
+        "Be removed at sea",
+        "Be taken off to oil",
         "Be kept in place",
-        "Be ignored"
+        "Be left off if slow"
       ],
       "correct_index": 2,
       "explanation": "They prevent entanglement.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "TP 10038 is the:",
       "options": [
-        "Radar manual",
+        "Radar Operator Manual",
         "Small Fishing Vessel Safety Manual",
-        "Tide table",
-        "Chart"
+        "Canadian Tide and Current Tables",
+        "Safe Boating Guide for pleasure craft"
       ],
       "correct_index": 1,
       "explanation": "A Transport Canada guide.",
@@ -98,9 +98,9 @@
       "difficulty": "easy",
       "stem": "A briefing for new crew should cover:",
       "options": [
-        "Nothing",
-        "Only wages",
-        "Only fuel prices",
+        "Only their wages and shares",
+        "Only the fishing plan for the trip",
+        "Only where to stow their gear",
         "Hazards and emergency drills"
       ],
       "correct_index": 3,
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "Fatigue should be managed because it:",
       "options": [
-        "Lowers fuel use",
+        "Lowers fuel use on the trip",
         "Causes mistakes and accidents",
-        "Has no effect",
-        "Improves performance"
+        "Only matters on night watches",
+        "Improves performance at work"
       ],
       "correct_index": 1,
       "explanation": "Plan rest.",
@@ -142,9 +142,9 @@
       "difficulty": "medium",
       "stem": "A winch emergency stop should be:",
       "options": [
-        "Hidden",
-        "Disabled",
-        "Painted over",
+        "Used by the skipper only",
+        "Kept locked out at sea",
+        "Covered to stop misuse",
         "Known to all crew"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "A person working alone on deck should:",
       "options": [
-        "Hide",
+        "Work fast to finish before dark",
         "Tell someone and wear a lifejacket",
-        "Work without a PFD",
-        "Work at night without light"
+        "Take off the PFD so it cannot snag",
+        "Work without lights to save power"
       ],
       "correct_index": 1,
       "explanation": "Reduce the risk.",
