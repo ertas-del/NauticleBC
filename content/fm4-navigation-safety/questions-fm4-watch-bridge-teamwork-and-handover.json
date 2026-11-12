@@ -11,9 +11,9 @@
       "stem": "Responsibility for the safety of navigation must be:",
       "options": [
         "Clearly defined at all times",
-        "Changed silently",
-        "Shared by nobody",
-        "Left vague"
+        "Shared by the whole crew",
+        "Left to whoever is at the helm",
+        "Handed to the pilot when aboard"
       ],
       "correct_index": 0,
       "explanation": "Even with the master or a pilot aboard.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Before taking over a watch you should know:",
       "options": [
-        "Nothing",
+        "The weather forecast and the expected time of arrival",
         "The position, course, speed, hazards and traffic",
-        "Only the weather",
-        "Only the time"
+        "Only the course to steer and the autopilot setting",
+        "The engine hours and fuel used since the last watch"
       ],
       "correct_index": 1,
       "explanation": "And standing orders.",
@@ -54,9 +54,9 @@
       "difficulty": "medium",
       "stem": "If a manoeuvre is in progress at handover time:",
       "options": [
-        "The handover goes ahead",
-        "Ignore it",
-        "The outgoing person leaves",
+        "The handover goes ahead as scheduled",
+        "The incoming person takes over mid-turn",
+        "The outgoing person leaves on time",
         "The handover is delayed until it is complete"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "Repeating back an order is useful because it:",
       "options": [
-        "Wastes time",
+        "Lets the helm change the order if needed",
         "Confirms the message was understood",
-        "Annoys the helm",
-        "Replaces the log"
+        "Replaces the need to log the order",
+        "Shows the helm outranks the officer"
       ],
       "correct_index": 1,
       "explanation": "Closed-loop communication.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "When a pilot is aboard, the master:",
       "options": [
-        "Leaves the bridge",
-        "Transfers all legal duty",
+        "May leave the bridge for the passage",
+        "Transfers all legal duty to the pilot",
         "Remains responsible for the vessel",
-        "Has no responsibility"
+        "Is responsible only for the crew"
       ],
       "correct_index": 2,
       "explanation": "The pilot advises.",
@@ -122,8 +122,8 @@
       "options": [
         "Blamed on others",
         "Reported promptly",
-        "Hidden",
-        "Ignored"
+        "Kept quiet to avoid blame",
+        "Fixed quietly by yourself"
       ],
       "correct_index": 1,
       "explanation": "A reporting culture reduces repeats.",
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "Decisions should be verified using:",
       "options": [
-        "A guess",
-        "One source only",
-        "Hearsay",
+        "Your first impression",
+        "The GPS alone",
+        "The autopilot display",
         "More than one source"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "A relieving officer must be:",
       "options": [
-        "Tired",
+        "Able to take over at once, straight from a lit cabin",
         "Fit and alert, with eyes adjusted to the dark at night",
-        "Unfamiliar with the vessel",
-        "Distracted"
+        "Free to learn the vessel's equipment during the watch",
+        "Rested, though the handover briefing can be skipped"
       ],
       "correct_index": 1,
       "explanation": "Not impaired by fatigue.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "Tasks on a small crew should be:",
       "options": [
-        "Ignored",
+        "Left until something goes wrong",
         "Allocated so nobody is overloaded",
-        "Given to one person",
-        "Left to chance"
+        "All given to the most experienced hand",
+        "Picked up by whoever happens to be free"
       ],
       "correct_index": 1,
       "explanation": "Look-out, steering and plotting need owners.",
@@ -208,9 +208,9 @@
       "difficulty": "easy",
       "stem": "Radio calls or paperwork should not:",
       "options": [
-        "Be accurate",
-        "Be recorded",
-        "Be used",
+        "Be kept accurate",
+        "Be done by the skipper",
+        "Be done in port",
         "Replace the look-out"
       ],
       "correct_index": 3,

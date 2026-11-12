@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "A distress signal may only be used when:",
       "options": [
-        "You want a tow in fair weather",
-        "You are late",
-        "You are lost",
+        "You want a tow home in fair weather after a breakdown",
+        "You are uncertain of your position but in no danger",
+        "Your catch is spoiling and you need a fast tow to port",
         "In grave and imminent danger needing immediate help"
       ],
       "correct_index": 3,
@@ -32,9 +32,9 @@
       "difficulty": "easy",
       "stem": "Which is a distress signal?",
       "options": [
-        "Green flare",
-        "White flag",
-        "Flashing yellow light",
+        "Hand flare showing a bright green light",
+        "White flag waved slowly from side to side",
+        "Flashing yellow light, 60 a minute",
         "Rocket parachute flare showing a red light"
       ],
       "correct_index": 3,
@@ -52,12 +52,12 @@
         "fishing-master-4"
       ],
       "difficulty": "easy",
-      "stem": "Orange-coloured smoke is a:",
+      "stem": "Orange-coloured smoke is:",
       "options": [
-        "Fog signal",
-        "Sailing signal",
-        "Fishing signal",
-        "Distress signal"
+        "A signal that divers are down",
+        "A request for a pilot",
+        "A marker for set fishing gear",
+        "A distress signal"
       ],
       "correct_index": 3,
       "explanation": "A day signal.",
@@ -99,9 +99,9 @@
       "stem": "Slowly and repeatedly raising and lowering outstretched arms is:",
       "options": [
         "A distress signal",
-        "A radar signal",
-        "A greeting",
-        "A fishing signal"
+        "A request to reduce your wake",
+        "A friendly greeting",
+        "A signal that gear is set"
       ],
       "correct_index": 0,
       "explanation": "A simple visual signal.",
@@ -120,9 +120,9 @@
       "difficulty": "hard",
       "stem": "The code letters NC mean:",
       "options": [
-        "North course",
-        "No current",
-        "Not controlled",
+        "I require a pilot to take me into harbour",
+        "I am not under command; keep clear of me",
+        "My vessel is on fire with dangerous cargo aboard",
         "I am in distress and require immediate assistance"
       ],
       "correct_index": 3,
@@ -143,9 +143,9 @@
       "stem": "A square flag with a ball above or below it is:",
       "options": [
         "A pilot flag",
-        "A fishing flag",
+        "A fishing signal",
         "A distress signal",
-        "A diver flag"
+        "A diver-down flag"
       ],
       "correct_index": 2,
       "explanation": "Annex IV.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "Using a distress signal for any other purpose is:",
       "options": [
-        "Encouraged",
-        "Prohibited",
-        "Allowed",
-        "Free"
+        "Allowed for crew training",
+        "Prohibited by the rules",
+        "Allowed if no one answers",
+        "Allowed in harbour only"
       ],
       "correct_index": 1,
       "explanation": "It wastes rescue resources.",
@@ -188,8 +188,8 @@
       "options": [
         "A distress signal",
         "A fog signal",
-        "A fishing signal",
-        "A cooking signal"
+        "A sign that nets are set",
+        "An anchor light substitute"
       ],
       "correct_index": 0,
       "explanation": "A visual signal.",
@@ -209,9 +209,9 @@
       "stem": "An EPIRB should be:",
       "options": [
         "Activated in distress, if fitted",
-        "Hidden",
-        "Used as a toy",
-        "Switched off in danger"
+        "Kept switched on at all times",
+        "Tested by sending a live alert",
+        "Switched on to request a tow"
       ],
       "correct_index": 0,
       "explanation": "It transmits your position.",
