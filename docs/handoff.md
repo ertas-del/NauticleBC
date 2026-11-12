@@ -1,72 +1,79 @@
-# Handoff note (updated 2026-10-06)
+# Handoff note (updated 2026-11-12)
 
 Written so another person or Claude session can pick up without the earlier conversation.
 
 ## Where things live
 
 - Repo: https://github.com/ertas-del/NauticleBC (renamed from `nauticlebc`; the old URL still redirects).
-- Living plan: Claude Docs doc "Marine Ticket Prep App: Plan" (https://claude.ai/code/artifact/19398f14-8ff9-4bee-8c45-8a80b032975e). Edit it in place; do not recreate it.
-- Rules for every contributor: `CLAUDE.md`. Lanes and parallel workflow: `docs/workflow.md`. Licences: `docs/licence-checklist.md`.
+- Living plan: Claude Docs doc "Marine Ticket Prep App: Plan" (https://claude.ai/code/artifact/19398f14-8ff9-4bee-8c45-8a80b032975e). Edit it in place; do not recreate it. In-repo summary: `docs/plan.md` (includes the maps and charts decision of 2026-10-13).
+- Rules for every contributor: `CLAUDE.md`. Lanes and parallel workflow: `docs/workflow.md`. Licences: `docs/licence-checklist.md`. Writer instructions: `docs/writer-guide.md`.
+- Syllabus briefs in `docs/syllabus/`: Bridge Watch Rating, Master Limited 60 GT, SVMO, SVOP, Fishing Master Fourth Class.
 
-## Status (2026-10-06)
+## Status (2026-11-12, main at e6d397d)
 
-On `main`: 101 lessons, 880 questions, 2 mock exams (NS1 practice, Bridge Watch practice), 156 sources. Lint clean, CI green. All content is `needs_expert_review`.
+Lint: 304 sources, 281 lessons, 2,762 questions, 11 mock exams, 1 chart, 9 chart exercises; 0 errors, 0 warnings.
+CI on main is green (content lint, Android build, alpha release). Every lesson is `needs_expert_review`; none is `expert_reviewed`.
 
-- COLREGs complete: Rules 1-38, Part F (Canadian Rules 39-46), Annexes I-IV, encounter/lights/sound drills, NS1 traps review.
-- Tides module 1 (6 lessons).
-- Bridge watch: 24 lessons (watchkeeping, lookout, reports, handover, calling the master, helm orders, steering, compass, alarms, MOB, pyrotechnics, survival craft).
-- Seamanship 1-18: buoyage, light characteristics, ship terms, vessel types, ropes, knots, splices, wire and shackles, mooring, anchoring, deck machinery, access equipment, flags and single-letter signals, draft marks, cargo, maintenance. Bridge Watch syllabus is now fully written (except the optional radio/stability/regs rating lessons in items 5, 7, 8, 9).
-- Sixty-ton pathway: 6 lessons (certificate, requirements, sea service, exams, oral guide, know your vessel).
-- App: lesson reader, exam-focus card and highlights, quizzes, progress. Debug APK is built by CI (Actions artifact `app-debug`).
-- Syllabus briefs: `docs/syllabus/bridge-watch-rating.md`, `docs/syllabus/master-limited-60gt.md`. Writer instructions: `docs/writer-guide.md` (official law text via the Justice Canada XML repo, cloned no-checkout at /home/claude/justicecanada/laws-lois-xml in the old sandbox; re-clone github.com/justicecanada/laws-lois-xml).
+| Module | Lessons | Questions |
+|---|---|---|
+| colregs | 47 | 356 |
+| seamanship | 30 | 318 |
+| chartwork | 28 | 304 |
+| bridge-watch | 26 | 260 |
+| svop | 27 | 247 |
+| machinery (SVMO) | 25 | 252 |
+| canadian-regulations | 16 | 218 |
+| stability | 12 | 110 |
+| radio | 8 | 98 |
+| tides | 8 | 76 |
+| meteorology | 6 | 72 |
+| radar | 6 | 64 |
+| electronic-navigation | 5 | 53 |
+| sixty-ton | 6 | 57 |
+| fm4-* (overview, chartwork, navigation safety, oral, stability and construction) | 31 | 277 |
 
-## Work in progress (draft PRs, cut off by usage limits)
+Mock exams: NS1 practice, Bridge Watch practice, SVMO 1-2, SVOP 1-2, FM4 CP1, FM4 NS1 1-2, FM4 SCS1 1-2.
 
-- PR #26 chartwork lessons 1-7 written (charts, datums, symbols, lat/long, compass types, variation, deviation card). Missing: questions for 5 of them, the rest of chartwork 1-12 (Canadian publications, chart correction, TVMDC conversions, bearings).
-- PR #27 stability lessons 1-4 written (awareness, terms, G/B/M, metacentric height). Missing: questions for all four, and lessons 5-11 of the stability list.
-- Chartwork 13-24 (fixes, DR, set and drift) not started.
-- Next Claude: check out each branch, add 6-10 original questions per lesson, finish the lesson list from docs/syllabus/master-limited-60gt.md, run `python3 tools/lint_content.py`, mark the PR ready and merge when CI is green.
-- The user has dyslexia and said the current swift, to-the-point lesson style works for them. Keep it. Reading mode and read-aloud are still to build in the app.
+All eleven writer assignments from the 2026-10-06 note are done (seamanship emergencies #44, chartwork #33 and #43, regulations #38 and #47, stability #34, radio and meteorology #37, radar and electronic navigation #39, tides 7-8 #43). The draft PRs #26 and #27 mentioned in older notes were superseded.
 
-## SVMO (Small Vessel Machinery Operator) track
-Uploaded from another Claude on 2026-10-10. Brief: `docs/syllabus/svmo.md`. Learner plan: `docs/svmo-study-plan.md`.
-- Module `machinery`, ticket `svmo`, sources in `content/sources/svmo.json`.
-- Written (22 lessons, 222 questions, all `needs_expert_review`): materials (10); diesel basics (100), start/run/faults (110), fuels (120), cooling (130); electricity basics/protection/batteries (200-220); pumps (300), piping (310); lubricants, hydraulics, pneumatics, transmission, steering, underwater fittings, deck machinery (batch 2); fire hazards and storage (400), fire and watertight equipment (410), safe working practices (420), pollution prevention and bunkering (430), watchkeeping rounds/logs/emergencies (500, includes the seven oral prep scenarios).
-- `docs/svmo-pending/` is gone: all parked questions were moved into `content/machinery/` with their lessons.
-- Mocks: `content/mock-exams/svmo-practice-1.json` and `-2.json` (60 questions, 120 min, pass mark 70 is our placeholder). The mock schema only names modules, so the blueprint is `machinery: 60`. `docs/svmo-mock-draw.json` lists the exact question ids per TP 14814E topic, with no overlap between the two mocks. Next step: a separate schema PR (e.g. optional `question_ids`) so the app can use it; until then draws are random from the machinery bank.
-- Still to do for SVMO: lessons that split large topics further if wanted (see the lesson map in the brief), an oral-exam lane (lifesaving appliances, Canada Shipping Act basics), and the expert review below.
-- Expert review items are listed in the brief (MED course name, pass mark, oral vs practical, figures such as bilge blower time and battery electrolyte values).
-- `tp14814e` is a 2008 third-party copy; check for a newer TC edition.
+### App (as of 2026-11-12)
 
-## Remaining writer assignments (run 3-4 at a time; each follows docs/writer-guide.md)
+- Home is a **Today** view with a Tickets row; each ticket lists its subjects, lessons and mock exams.
+- Lesson reader with exam-focus card, highlights, pipe tables as row cards, collapsible figures, sources behind a link.
+- Reading mode: text size, relaxed spacing, read aloud with teacher-style pacing and the best offline voice on the device.
+- Quizzes, progress, mock exams (drawn at random from the module banks).
+- Exam practice: missed questions, plotting, closed-book mocks, oral cards.
+- Practice sums (random compass/TVMDC, depth, tide, speed-distance-time drills) and an invented Sun almanac drill.
+- Practice chart screen, stage 1: Training Harbour drawn from data, pan and zoom, nine graded exercises.
+- SVMO lessons have study drawings. Nautical theme.
+- Alpha APK: rolling GitHub pre-release `alpha`, rebuilt on every push to main. Every alpha is now signed with the same key, so updates install over each other.
 
-1. DONE (#24): seamanship 100-180 (Bridge Watch brief 3.4): wire/chain/shackles, mooring, anchoring, deck machinery and hand signals, access equipment, flags and single-letter signals, draft marks and soundings, cargo and stores, maintenance. Branch seamanship/deck-operations, sources sea-b.json.
-2. seamanship 200+: the 16 master-level lessons in the 60 GT brief 'Module seamanship' (emergencies, fire, flooding, abandon ship, cold water, heavy weather, towing). sources sea-c.json.
-3. DONE (#33): chartwork 19 lessons, 209 questions (charts, datums, lat/long, compass, TVMDC, DR, fixes, running fix, set and drift, course to steer, passage planning, CP1 technique). sources chw-a.json, chw-b.json.
-4. chartwork still to write: distance off lights (16), leeway (19), course/speed made good, ETA, fuel (20), tides in chartwork (21), current tables and passes (22), publications and corrections (23).
-5. canadian-regulations 60 GT 1-7 + Bridge Watch safe working, enclosed spaces, pollution (orders 200-220). sources regs-a.json.
-6. canadian-regulations 60 GT 8-14 (Navigation Safety Regs 2020, VTS/MCTS BC (rules changed 2026-03-31), pollution, TSB reporting). sources regs-b.json.
-7. DONE (#34): stability 12 lessons, 110 questions. Gaps: following/quartering seas and towing stability are only touched on. IS Code numbers came from a secondary page; verify against TP 7301 / the code.
-8. radio 5 + 60 GT radio 1-7, meteorology 1-6. sources rmet.json.
-9. radar 1-6, electronic-navigation 1-5 + Bridge Watch bridge-equipment-tour (60) and radar-for-lookouts (70). sources renav.json.
-10. tides additions 7-8 (60 GT brief).
-11. Update mock-exam blueprints to include bridge-watch and seamanship questions.
+## Open items
 
-## Before an alpha test
+1. **PR #49** (`foundation/tag-fishing-master-4`): tags 139 lessons and 1,338 questions with the `fishing-master-4` ticket. Opened 2026-10-11, GitHub reports it mergeable with no conflicts, but it predates a month of content. Re-run lint on it after rebasing; the reviewer must check the Yes list against the current TP 2293 syllabus. Today only the 34 fm4-* lessons carry the tag.
+2. **Branch `add-xai-grok-build`** (2026-11-12, no PR): adds the xAI grok-build source under `vendor/xai/grok-build` (about 4,500 files, 2.1 million lines of Rust, including third-party crates). It has nothing to do with the marine ticket app and would bloat the repo. Do not merge it into main without the owner's decision and a licence check of every vendored crate; if it is wanted, it belongs in its own repo.
+3. Mock exam schema: add optional `question_ids` so the app can use the fixed draws in `docs/*-mock-draw.json` (SVMO, SVOP, FM4). Until then mocks draw at random from the module banks.
+4. Chart simulator: remaining training charts (Narrows, Islands, Coastal Leg), then the real BC learning map and lights layer once each data licence is recorded (see `docs/plan.md`).
+5. Stability gaps: following and quartering seas and towing stability are only touched on. IS Code numbers came from a secondary page; verify against TP 7301.
+6. Gradle wrapper is still missing (CI installs Gradle 8.10.2). Add with `gradle wrapper --gradle-version 8.10.2`.
+7. Device pass on the Samsung S26: TalkBack, large fonts, rotation mid-quiz, dark theme, read aloud.
+8. `tp14814e` (SVMO) is a 2008 third-party copy; check for a newer Transport Canada edition.
 
-- Bridge Watch / COLREGs alpha: ready to sideload now. Do a device pass (TalkBack, large fonts, rotation mid-quiz, dark theme) on the Samsung S26.
-- Add the Gradle wrapper (`gradle wrapper --gradle-version 8.10.2`).
-- Get one certified master to skim COLREGs and bridge-watch content; each PR lists its expert-review items.
-- Full Master Limited alpha needs items 3-7 above (chartwork and stability are the core of CP1 and the oral).
+## Waiting on the owner
 
-## Waiting on the user
+- Confirm the first-release boundary (Bridge Watch Rating + Master Limited < 60 GT, COLREGs and tides first). The app now also carries SVMO, SVOP and FM4 content.
+- A certified master or examiner to review regulatory content (nothing may be marked `expert_reviewed` without one). Each PR lists its expert-review items.
+- Decide what to do with the `add-xai-grok-build` branch.
+- Open plan questions: SVMO first target (unrestricted vs restricted), CHS licence route for real tide and current predictions, sea-temperature coverage, purpose of the lights map, flags set, log-towing handbook title or link.
+- Licence open items in `docs/licence-checklist.md` (Reproduction of Federal Law Order wording, TP editions, coastline source, Coast Guard List of Lights licence).
 
-- Confirm the first-release boundary (Bridge Watch Rating + Master Limited < 60 GT, COLREGs and tides first).
-- A certified master or examiner to review regulatory content (nothing may be marked `expert_reviewed` without one).
-- Open plan questions: SVMO first target (unrestricted vs restricted), TTS route, CHS licence route and chart count, sea-temperature coverage, purpose of the lights map, flags set, log-towing handbook title or link.
+## Working notes
+
+- The owner has dyslexia and said the current swift, to-the-point lesson style works for them. Keep it.
+- Official law text: clone github.com/justicecanada/laws-lois-xml (no checkout) and read the XML; Justice Laws and TC web pages are often blocked from the sandbox.
 
 ## Known gaps and cautions
 
 - Several sources were not read directly (Justice Laws, TC pages blocked; some PDFs behind an archive interstitial). They are marked `read_directly: false`; verify before relying on them.
-- CHS tide and current data is free only for non-navigational, non-commercial use. The app is a study aid, not a navigation aid.
+- CHS tide and current data is free only for non-navigational, non-commercial use. The app is a study aid, not a navigation aid. Tide exercises use synthetic tables until the licence is cleared.
 - This sandbox cannot open pull requests with `gh pr create` (GraphQL blocked); use `gh api repos/ertas-del/NauticleBC/pulls`.
