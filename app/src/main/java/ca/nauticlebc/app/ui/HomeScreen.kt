@@ -17,7 +17,6 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.height
@@ -138,12 +137,12 @@ fun HomeScreen(
                 note = stringResource(R.string.today_almanac_note),
             )
             val titleRes = ticketTitleRes(ticketId)
-            TextButton(onClick = onChangeTicket, modifier = Modifier.fillMaxWidth()) {
-                Text(
-                    if (titleRes != null) stringResource(titleRes) else ticketId,
-                    style = MaterialTheme.typography.titleMedium,
-                )
-            }
+            TodayRow(
+                title = stringResource(R.string.tickets_title),
+                enabled = true,
+                onClick = onChangeTicket,
+                note = if (titleRes != null) stringResource(titleRes) else ticketId,
+            )
         }
     }
 }
