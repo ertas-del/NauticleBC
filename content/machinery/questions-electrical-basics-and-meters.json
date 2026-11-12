@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "A voltmeter is connected:",
       "options": [
-        "Through the fuse",
-        "Only across a battery",
+        "In series, through the fuse holder",
+        "Only across a battery, never a load",
         "In parallel, across the component or supply",
-        "In series with the circuit"
+        "In series with the circuit, like an ammeter"
       ],
       "correct_index": 2,
       "explanation": "A voltmeter measures the pressure across two points, so it goes across them.",
@@ -98,7 +98,7 @@
       "difficulty": "medium",
       "stem": "An ohmmeter should only be used on a circuit that is:",
       "options": [
-        "Fully live",
+        "Fully live, so it can be tested",
         "Running at full load",
         "Connected to the generator",
         "Isolated and de-energised"
@@ -164,9 +164,9 @@
       "difficulty": "easy",
       "stem": "Before working on electrical equipment you should isolate it, lock it out and then:",
       "options": [
-        "Wet the floor",
-        "Assume it is dead",
-        "Switch on the lights",
+        "Wet the floor to earth any charge",
+        "Assume it is dead because it is locked out",
+        "Switch on the lights to check the supply",
         "Prove it dead with a meter"
       ],
       "correct_index": 3,

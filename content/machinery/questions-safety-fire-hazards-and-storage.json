@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "The flash point of a fuel is the:",
       "options": [
-        "Temperature at which it boils",
-        "Temperature at which it freezes",
-        "Lowest temperature at which it gives off enough vapour to ignite briefly when a flame is present",
-        "Temperature at which it burns without any ignition source"
+        "Temperature at which it boils in an open pan",
+        "Temperature at which it begins to freeze solid",
+        "Lowest temperature at which its vapour can briefly ignite",
+        "Temperature at which it burns with no ignition source nearby"
       ],
       "correct_index": 2,
       "explanation": "A low flash point means vapour can ignite at ordinary temperatures.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Diesel is preferred to gasoline aboard vessels mainly because diesel:",
       "options": [
-        "Burns without needing air",
-        "Costs less in every region",
-        "Has a higher flash point and gives off less explosive vapour",
-        "Never needs filtering"
+        "Burns without needing as much air",
+        "Costs less in every region of the coast",
+        "Has a higher flash point and less explosive vapour",
+        "Never needs filtering before the engine"
       ],
       "correct_index": 2,
       "explanation": "Higher flash point makes diesel much safer to store and handle on a vessel.",
@@ -55,9 +55,9 @@
       "stem": "Oily rags left in a pile in a warm space are dangerous because they can:",
       "options": [
         "Heat up and ignite on their own",
-        "Block bilge suction",
-        "Attract rodents",
-        "Corrode the deck plating"
+        "Block the bilge pump suction",
+        "Attract rats and mice into the space",
+        "Corrode the deck plating below"
       ],
       "correct_index": 0,
       "explanation": "Oxidising oil generates heat that can lead to spontaneous combustion. Store rags in a closed metal container.",
@@ -99,8 +99,8 @@
       "stem": "Fuel tank vent outlets are fitted with fine wire mesh mainly to:",
       "options": [
         "Stop fuel overflowing",
-        "Keep dirt out of the fuel",
-        "Stop flame from entering the tank",
+        "Keep dirt and insects out of the fuel",
+        "Stop flame entering the tank",
         "Reduce fuel evaporation"
       ],
       "correct_index": 2,
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Why must you run the bilge blower before starting an inboard gasoline engine?",
       "options": [
-        "It dries the bilge",
+        "It dries the bilge and stops rust",
         "It warms the fuel for easy starting",
         "Gasoline vapour is lighter than air and floats to the deckhead",
-        "Gasoline vapour is heavier than air and collects in the bilge, where a spark could ignite it"
+        "Gasoline vapour is heavier than air and pools in the bilge"
       ],
       "correct_index": 3,
       "explanation": "Gasoline and LPG vapour sink and pool low. Ventilating and checking by smell removes the explosive mixture before the starter sparks.",
@@ -188,8 +188,8 @@
       "options": [
         "Leave it until the end of the watch",
         "Stop the engine and fix the leak after it cools",
-        "Wipe it with a rag and carry on",
-        "Spray water on the manifold"
+        "Wipe it with a rag and carry on running",
+        "Spray water on the hot manifold to cool it down"
       ],
       "correct_index": 1,
       "explanation": "Fuel on a hot surface is one of the commonest causes of engine-room fires. Stop the source, let the engine cool, repair, clean up, and log it. Water on a hot manifold can crack it.",
@@ -211,7 +211,7 @@
         "Charging gives off carbon monoxide only",
         "The acid evaporates and clogs the vents",
         "Charging gives off hydrogen, which is explosive",
-        "Batteries need cool air to hold their charge"
+        "Batteries need cool moving air to hold their charge"
       ],
       "correct_index": 2,
       "explanation": "Hydrogen is released during charging and can form an explosive mixture in a closed space. Keep sparks and flames away.",
@@ -231,9 +231,9 @@
       "stem": "How should a propane or welding gas cylinder be stored aboard?",
       "options": [
         "Wedged in a closed locker with the valve open",
-        "Secured upright with the valve closed, in a ventilated place away from heat",
-        "Next to the engine for warmth",
-        "Lying loose in the bilge"
+        "Upright, valve shut, secured and ventilated, away from heat",
+        "Next to the engine so the gas stays warm",
+        "Lying loose in the bilge, out of the way"
       ],
       "correct_index": 1,
       "explanation": "Cylinders are secured against movement, kept upright and shut off, with ventilation so leaked gas cannot pool. Keep oil and grease off oxygen fittings.",

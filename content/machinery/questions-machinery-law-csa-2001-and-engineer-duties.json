@@ -11,9 +11,9 @@
       "stem": "The Canada Shipping Act, 2001 is:",
       "options": [
         "The main federal law for shipping in Canada",
-        "A boat catalogue",
-        "A tide table",
-        "A local bylaw"
+        "A provincial law for boats on BC lakes only",
+        "A set of tide and current tables",
+        "A local harbour bylaw for each port"
       ],
       "correct_index": 0,
       "explanation": "Regulations under it give the detail.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "The engineer's duty includes:",
       "options": [
-        "Piloting the vessel",
-        "Setting the sails",
-        "Keeping the machinery in safe working order and reporting defects",
-        "Writing the weather forecast"
+        "Piloting the vessel in and out of port",
+        "Setting the course and keeping the deck watch",
+        "Keeping machinery safe and reporting defects",
+        "Writing the weather forecast for the master"
       ],
       "correct_index": 2,
       "explanation": "Report defects to the master.",
@@ -55,9 +55,9 @@
       "stem": "Fire and boat drills must be:",
       "options": [
         "Held at required intervals and recorded",
-        "Held never",
-        "Hidden",
-        "Held once a decade"
+        "Held only when an inspector is on board",
+        "Held once at the start of each season",
+        "Held once a decade, at survey"
       ],
       "correct_index": 0,
       "explanation": "Check the interval for your vessel.",
@@ -98,9 +98,9 @@
       "difficulty": "medium",
       "stem": "Oily bilge water should normally be:",
       "options": [
-        "Poured into the harbour",
-        "Mixed with sea water first",
-        "Pumped over the side",
+        "Poured into the harbour at night",
+        "Mixed with sea water first, then pumped out",
+        "Pumped over the side once under way",
         "Kept on board and disposed of ashore"
       ],
       "correct_index": 3,
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "The engine room log is kept to:",
       "options": [
-        "Record the tides",
-        "Keep chart corrections",
-        "Hold the crew list",
+        "Record the tides and currents for the passage",
+        "Keep the chart corrections up to date",
+        "Hold the crew list and certificates",
         "Record machinery readings, events and maintenance"
       ],
       "correct_index": 3,
@@ -164,9 +164,9 @@
       "difficulty": "medium",
       "stem": "Emergency steering should be:",
       "options": [
-        "Locked away",
-        "Never tested",
-        "Removed",
+        "Kept locked away so it is not misused",
+        "Tested only at the annual inspection",
+        "Disconnected unless the main steering fails",
         "Available and tested before departure"
       ],
       "correct_index": 3,
@@ -209,9 +209,9 @@
       "stem": "Which regulations set crew certificates and training?",
       "options": [
         "The Marine Personnel Regulations",
-        "The Tide Tables",
-        "The Highway Act",
-        "The Radio Act"
+        "The Small Vessel Regulations, Part 5",
+        "The Collision Regulations",
+        "The Radio Act and its rules"
       ],
       "correct_index": 0,
       "explanation": "They set certification requirements.",

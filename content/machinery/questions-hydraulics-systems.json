@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "Why is cleanliness of hydraulic oil so important?",
       "options": [
-        "It reduces cost",
-        "It makes the oil heavier",
+        "Dirty oil costs more to replace each season",
+        "Dirty oil is heavier and slows the pump",
         "Dirt wears and jams valves, pumps and cylinders",
-        "It improves the colour"
+        "Clean oil is easier to check in the reservoir sight glass"
       ],
       "correct_index": 2,
       "explanation": "Contamination is the main cause of hydraulic failures.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Air in a hydraulic system typically causes:",
       "options": [
-        "Colder oil",
+        "Colder oil and slower warm-up",
         "Noise, spongy control and erratic movement",
-        "Increased pressure",
-        "Cleaner oil"
+        "Higher pressure at the relief valve",
+        "Cleaner oil as the air carries dirt out"
       ],
       "correct_index": 1,
       "explanation": "Bleed the system and find the leak.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "The safest way to look for a pinhole hydraulic leak is to:",
       "options": [
-        "Put your face close to it",
-        "Run your bare hand along the hose",
-        "Pass a piece of cardboard near it with the system de-pressurised where possible, never your hand",
-        "Hold a flame near it"
+        "Put your face close to it to see the spray",
+        "Run your bare hand slowly along the hose to feel for it",
+        "Pass cardboard near it, depressurised if possible",
+        "Hold a lighter flame near it to see the mist"
       ],
       "correct_index": 2,
       "explanation": "High-pressure fluid can penetrate skin and cause serious injury.",
@@ -99,8 +99,8 @@
       "stem": "In a hydraulic circuit, pressure is created when:",
       "options": [
         "The pump spins faster than the motor",
-        "The oil gets hot",
-        "The reservoir is filled",
+        "The oil gets hot and expands in the lines",
+        "The reservoir is filled above the mark",
         "The flow from the pump meets resistance"
       ],
       "correct_index": 3,
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "The relief valve in a hydraulic system:",
       "options": [
-        "Opens at a set pressure and returns oil to the tank to protect the system",
-        "Filters fine particles from the oil",
-        "Stores oil for emergency use",
-        "Cools the oil"
+        "Opens at a set pressure and sends oil back to the tank",
+        "Filters fine particles out of the oil on each pass",
+        "Stores oil under pressure for emergency use",
+        "Cools the oil by bleeding it through a small fixed orifice"
       ],
       "correct_index": 0,
       "explanation": "It prevents over-pressure damage. It must not be adjusted without authority.",
@@ -145,7 +145,7 @@
         "Hydraulic motor",
         "Directional control valve",
         "Hydraulic cylinder (ram)",
-        "Accumulator"
+        "Pressure accumulator"
       ],
       "correct_index": 2,
       "explanation": "A motor gives rotation. The control valve only directs the oil.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "A directional control valve:",
       "options": [
-        "Limits maximum pressure",
-        "Decides which side of the actuator the oil is sent to, so which way it moves",
-        "Cools the oil",
-        "Removes air from the oil"
+        "Limits the maximum pressure anywhere in the circuit",
+        "Sets which side of the actuator gets the oil",
+        "Cools the oil before it returns to the tank",
+        "Removes air from the oil as it circulates"
       ],
       "correct_index": 1,
       "explanation": "Moving the valve changes the flow path and so the direction of the actuator.",
@@ -186,10 +186,10 @@
       "difficulty": "hard",
       "stem": "A hydraulic system contains an accumulator. Before a hose is disconnected you should:",
       "options": [
-        "Assume it is empty when the pump has stopped",
-        "Isolate and lock out the power, and relieve the stored pressure using the maker's procedure",
+        "Assume it is empty once the pump has stopped",
+        "Isolate the power and relieve the stored pressure first",
         "Loosen the hose slowly with the system running",
-        "Heat the line to release the pressure"
+        "Heat the line gently to release the pressure"
       ],
       "correct_index": 1,
       "explanation": "An accumulator stays charged after the pump stops and can spray oil at high pressure.",

@@ -11,10 +11,10 @@
       "difficulty": "medium",
       "stem": "Quick-closing valves on fuel tanks let the crew:",
       "options": [
-        "Increase fuel flow to the engine",
-        "Sample the fuel for contamination",
-        "Shut off fuel supply from a position outside the machinery space",
-        "Drain water from the tank bottom"
+        "Increase fuel flow to the engine in an emergency",
+        "Sample the fuel for contamination before use",
+        "Shut off fuel from outside the machinery space",
+        "Drain water from the tank bottom while under way"
       ],
       "correct_index": 2,
       "explanation": "In an engine-room fire you must be able to stop fuel without entering the space.",
@@ -34,10 +34,10 @@
       "difficulty": "medium",
       "stem": "An alarm that sounds before a fixed engine-room smothering system discharges is there to:",
       "options": [
-        "Start the fire pump",
-        "Shut the main engine down",
-        "Warn people to leave and make sure everyone is accounted for",
-        "Call the shore office"
+        "Start the fire pump automatically",
+        "Shut the main engine down a few seconds before release",
+        "Warn people to leave and to be accounted for",
+        "Call the shore office and the Coast Guard"
       ],
       "correct_index": 2,
       "explanation": "The gas is dangerous to people, so the space must be evacuated and closed first.",
@@ -58,9 +58,9 @@
       "stem": "Compared with a weathertight door, a watertight door is built to:",
       "options": [
         "Prevent the spread of fire only",
-        "Keep out water under pressure when compartments flood",
-        "Open faster",
-        "Only keep out spray"
+        "Keep out water under pressure when flooded",
+        "Open faster in an emergency",
+        "Keep out spray and rain only"
       ],
       "correct_index": 1,
       "explanation": "Watertight doors maintain subdivision. Weathertight doors only keep out weather and spray.",
@@ -80,10 +80,10 @@
       "difficulty": "medium",
       "stem": "Which machinery is normally stoppable from outside the engine room?",
       "options": [
-        "Anchor windlass only",
-        "Main engines, fuel supply and ventilation fans",
-        "Galley appliances only",
-        "Navigation lights only"
+        "The anchor windlass and capstan",
+        "Main engines, fuel supply and fans",
+        "Galley appliances and the water heater",
+        "Navigation lights and the radar"
       ],
       "correct_index": 1,
       "explanation": "Emergency stops outside the space let you shut down fuel and air feeding a fire.",
@@ -104,7 +104,7 @@
       "stem": "On hearing the alarm that warns of fire-extinguishing gas discharge you should:",
       "options": [
         "Stay and finish the job",
-        "Open all hatches and wait",
+        "Open all the hatches and wait",
         "Leave the space immediately",
         "Switch off the alarm"
       ],
@@ -152,7 +152,7 @@
         "Class B and Class C",
         "Class D only",
         "Class A and Class D",
-        "Class A only"
+        "Class A deep-seated only"
       ],
       "correct_index": 0,
       "explanation": "CO2 smothers flammable liquid fires and leaves no residue on electrical equipment. It is not effective on deep-seated Class A fires, and it displaces oxygen in small spaces.",
@@ -173,9 +173,9 @@
       "stem": "When using a portable extinguisher you should aim at:",
       "options": [
         "The top of the flames",
-        "The base of the flames, sweeping side to side",
-        "The nearest wall",
-        "The smoke"
+        "The base of the flames, sweeping",
+        "The nearest bulkhead behind it",
+        "The thickest part of the smoke"
       ],
       "correct_index": 1,
       "explanation": "Attack the fuel at the base of the fire. PASS means pull the pin, aim, squeeze and sweep.",
@@ -195,10 +195,10 @@
       "difficulty": "medium",
       "stem": "On your rounds, which check on a portable extinguisher is most useful?",
       "options": [
-        "That it is warm to the touch",
-        "That the gauge is in the green and the pin and seal are in place",
-        "That it is as heavy as it was last year",
-        "That it is painted the right colour"
+        "That it is warm to the touch from the engine",
+        "That the gauge is in the green and the pin and seal intact",
+        "That it is as heavy as it was when it was last weighed in",
+        "That it is painted the right colour for its class"
       ],
       "correct_index": 1,
       "explanation": "A gauge in the green, an intact pin and seal, a clear hose and a bracket in the right place all show the unit is ready. It is serviced separately by a competent person.",
@@ -218,10 +218,10 @@
       "difficulty": "hard",
       "stem": "Which sequence is correct before a fixed gas system is released into a machinery space?",
       "options": [
-        "Open all hatches, then discharge",
+        "Open all hatches, then discharge the gas",
         "Wait for the fire to die down, then discharge",
-        "Alarm, account for everyone, stop engines and fans, close openings, then discharge on the master's order",
-        "Discharge first, then call everyone out"
+        "Alarm, count everyone, stop fans, close up, then discharge",
+        "Discharge first, then call everyone out of the space at once"
       ],
       "correct_index": 2,
       "explanation": "The gas is dangerous to people and works only in a sealed space. Everyone must be out and counted, and fuel, air and openings shut off before release.",
@@ -241,8 +241,8 @@
       "difficulty": "medium",
       "stem": "After a fixed CO2 system has discharged, the space can be re-entered only when:",
       "options": [
-        "Five minutes have passed",
-        "It has been ventilated and declared safe, with breathing apparatus if in doubt",
+        "Five minutes have passed since discharge",
+        "It has been ventilated and declared safe",
         "The smoke has cleared at the door",
         "The alarm has stopped sounding"
       ],
@@ -264,10 +264,10 @@
       "difficulty": "easy",
       "stem": "Quick-closing valves are operated from outside the machinery space so that:",
       "options": [
-        "The fuel can be sampled easily",
-        "The tanks can be pumped dry",
-        "Fuel can be shut off without entering a space full of fire and smoke",
-        "The engine runs faster"
+        "The fuel can be sampled easily from deck",
+        "The tanks can be pumped dry during a fire",
+        "Fuel can be shut off without going into the fire",
+        "The engine can be run faster in an emergency to escape"
       ],
       "correct_index": 2,
       "explanation": "In a fire you must stop the fuel feeding it. The remote operation, usually by a wire or lever on deck, means nobody has to go in.",
@@ -287,10 +287,10 @@
       "difficulty": "easy",
       "stem": "A watertight door at sea should normally be:",
       "options": [
-        "Wedged open for speed",
-        "Painted over to seal it",
-        "Left open to let air circulate",
-        "Kept closed except when someone is passing through, and never wedged open"
+        "Wedged open for speed in an emergency",
+        "Painted over at the seals so that water cannot get through",
+        "Left open to let air circulate below decks",
+        "Kept closed except when someone passes through"
       ],
       "correct_index": 3,
       "explanation": "A watertight door only keeps the vessel subdivided if it is closed. A wedge defeats it, which would let flooding spread.",

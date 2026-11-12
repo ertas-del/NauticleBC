@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "An air compressor starts unloaded so that it:",
       "options": [
-        "Keeps the drains closed",
-        "Uses more air",
-        "Cools the receiver",
-        "Reaches speed before it has to work against pressure"
+        "Keeps the drains closed while it starts",
+        "Uses more air at start to cool itself",
+        "Cools the receiver before it fills",
+        "Gets up to speed before it works against pressure"
       ],
       "correct_index": 3,
       "explanation": "The unloader reduces the starting load.",
@@ -33,9 +33,9 @@
       "stem": "Condensation in an air receiver should be:",
       "options": [
         "Drained regularly to prevent corrosion",
-        "Left to build up",
-        "Ignored",
-        "Mixed with the oil"
+        "Left to build up as a seal in the bottom",
+        "Drained only at the yearly survey",
+        "Mixed back in with the oil for lubrication"
       ],
       "correct_index": 0,
       "explanation": "Water in air systems causes corrosion and erratic operation.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Compared with hydraulic oil, air is:",
       "options": [
-        "Incompressible and heats when squeezed",
-        "Compressible, and its temperature rises when it is compressed",
-        "Compressible, and its temperature falls when it is compressed",
-        "Heavier and more viscous"
+        "Incompressible, and heats when squeezed",
+        "Compressible, and heats up when compressed",
+        "Compressible, and cools down when compressed",
+        "Heavier and more viscous than the oil"
       ],
       "correct_index": 1,
       "explanation": "Air volume shrinks under pressure and the work of compression heats it.",
@@ -121,8 +121,8 @@
       "stem": "In a piston compressor, air enters the cylinder through the:",
       "options": [
         "Discharge valve on the upstroke",
-        "Relief valve",
-        "Drain valve",
+        "Relief valve on the head",
+        "Drain valve at the bottom",
         "Suction valve on the downstroke"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "What makes a small compressor start and stop automatically to keep the receiver topped up?",
       "options": [
-        "The safety relief valve",
+        "The safety relief valve on the receiver",
         "A pressure switch with cut-in and cut-out settings",
-        "The drain cock",
-        "The intercooler"
+        "The automatic drain cock fitted to the receiver",
+        "The intercooler between the two stages"
       ],
       "correct_index": 1,
       "explanation": "The pressure switch starts the motor when pressure falls to cut-in and stops it at cut-out.",
@@ -164,10 +164,10 @@
       "difficulty": "hard",
       "stem": "A compressor must never be run with its discharge valve closed because:",
       "options": [
-        "The suction valve will stick",
-        "The air will be too cold",
-        "The intercooler will freeze",
-        "Pressure and temperature can rise dangerously, and oil vapour in hot air may ignite"
+        "The suction valve will stick shut",
+        "The air will be too cold to use",
+        "The intercooler will freeze up",
+        "Pressure and heat rise, and oil vapour may ignite"
       ],
       "correct_index": 3,
       "explanation": "Without a path out the air heats and pressurises, and carbon and oil can burn.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "Compressed air must not be used to blow dust off overalls because:",
       "options": [
-        "It wastes electricity only",
-        "Air can be forced through the skin and flying particles can injure eyes",
-        "The oil will freeze",
-        "The dust will start a fire"
+        "It wastes electricity and nothing more",
+        "Air can enter the skin and particles hit the eyes",
+        "The oil mist in the air will freeze on the cloth",
+        "The dust may catch fire from the air jet"
       ],
       "correct_index": 1,
       "explanation": "A jet of air can inject into the skin, and it throws particles into the eyes.",
@@ -209,9 +209,9 @@
       "stem": "A receiver's safety relief valve keeps lifting. The correct response is to:",
       "options": [
         "Screw down the spring to stop it lifting",
-        "Fit a blank in its outlet",
-        "Find why the pressure is too high, for example a faulty pressure switch or unloader",
-        "Leave it alone until it fails"
+        "Fit a blank in its outlet to stop the noise and loss",
+        "Find why the pressure is too high and fix it",
+        "Leave it alone until it fails completely"
       ],
       "correct_index": 2,
       "explanation": "A relief valve is the last protection. Never adjust or jam it. Fix the cause.",

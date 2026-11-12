@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "The thermostat in an engine cooling system:",
       "options": [
-        "Filters sea water",
-        "Pumps the coolant",
+        "Filters sea water before the pump",
+        "Pumps the coolant round the engine",
         "Regulates coolant temperature",
-        "Removes air from fuel"
+        "Removes air from the fuel lines"
       ],
       "correct_index": 2,
       "explanation": "A stuck thermostat is a classic cause of overheating.",
@@ -32,9 +32,9 @@
       "difficulty": "medium",
       "stem": "The expansion tank is placed at the highest point in a fresh water cooling system so it can:",
       "options": [
-        "Act as a bilge",
-        "Hold spare fuel",
-        "Cool the exhaust",
+        "Act as a sump for leaking coolant",
+        "Hold a reserve of spare fuel close to the engine",
+        "Cool the exhaust before it leaves",
         "Allow for expansion and let air escape"
       ],
       "correct_index": 3,
@@ -54,9 +54,9 @@
       "difficulty": "easy",
       "stem": "A sea water strainer in a cooling circuit is there to:",
       "options": [
-        "Reduce engine noise",
-        "Warm the water",
-        "Add coolant",
+        "Reduce engine noise from the water pump",
+        "Warm the water before it enters the engine",
+        "Add coolant automatically when the level drops",
         "Stop debris from blocking the coolers and pump"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Sea water is not used to cool the inside of a diesel engine mainly because it:",
       "options": [
-        "Is too cold",
-        "Is too clean",
+        "Is too cold for the engine block",
+        "Lacks the pressure to circulate well",
         "Causes corrosion and scale and deposits salt",
-        "Is too warm"
+        "Boils at a lower temperature than fresh water"
       ],
       "correct_index": 2,
       "explanation": "Fresh water with additives is used inside the engine.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "You should not remove a hot pressure cap from an expansion tank because:",
       "options": [
-        "The thermostat will close",
-        "The cap will rust",
+        "The thermostat will close and stay shut",
+        "The cap seal will be damaged if opened warm",
         "The coolant can flash to steam and scald you",
-        "The engine will stall"
+        "The engine will stall from the pressure drop"
       ],
       "correct_index": 2,
       "explanation": "Let the system cool and open the cap slowly with a cloth over it.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "A failed raw water impeller will most likely cause:",
       "options": [
-        "Low oil pressure",
-        "A flat battery",
-        "Black smoke only",
+        "Low oil pressure at normal running speed",
+        "A flat battery from the extra electrical load",
+        "Black smoke only, with normal temperatures",
         "Overheating because the sea water flow stops"
       ],
       "correct_index": 3,
@@ -143,9 +143,9 @@
       "stem": "In a fresh water and sea water heat exchanger, the fresh water side is usually kept at the higher pressure so that a leak:",
       "options": [
         "Loses a little coolant but does not let salt into the engine",
-        "Lets salt water into the engine",
-        "Stops the pump",
-        "Heats the sea water"
+        "Lets salt water into the engine, where it is easier to detect",
+        "Stops the circulating pump so the alarm warns the crew",
+        "Heats the sea water side so the cooler works harder"
       ],
       "correct_index": 0,
       "explanation": "Pressure order is arranged so a leak does the least harm.",
@@ -165,9 +165,9 @@
       "stem": "A keel cooler cools the engine fresh water by:",
       "options": [
         "Running it through pipes fixed to the outside of the hull",
-        "Spraying it with fuel",
-        "Pumping it through the bilge",
-        "Drawing sea water through the engine"
+        "Spraying it with cold fuel from the day tank as it passes",
+        "Pumping it through the bilge so the bilge water cools it",
+        "Drawing sea water through the engine block and head"
       ],
       "correct_index": 0,
       "explanation": "It needs no raw water intake, so there is less fouling inside.",

@@ -11,8 +11,8 @@
       "stem": "A non-return valve:",
       "options": [
         "Allows flow in one direction only",
-        "Cools the liquid",
-        "Reduces pressure",
+        "Cools the liquid as it passes",
+        "Reduces the pressure downstream",
         "Controls flow rate with a hand wheel"
       ],
       "correct_index": 0,
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Water hammer is:",
       "options": [
-        "Air trapped in the tank",
-        "Corrosion from sea water",
-        "A leak at a flange",
-        "A pressure shock caused by suddenly stopping or changing flow in a pipe"
+        "Air trapped at the top of a tank",
+        "Corrosion from sea water in the pipe",
+        "A leak at a flange under pressure",
+        "A pressure shock from suddenly stopping flow"
       ],
       "correct_index": 3,
       "explanation": "Close valves slowly and avoid sudden flow changes to prevent damaged pipes.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Why must tank vents be clear when filling or pumping out a tank?",
       "options": [
-        "To reduce fuel cost",
-        "To prevent over-pressure or vacuum damaging the tank",
-        "To warm the liquid",
-        "To improve the smell"
+        "To reduce fuel cost by cutting losses",
+        "To prevent over-pressure or vacuum in the tank",
+        "To warm the liquid as it fills the tank",
+        "To let the crew sound the tank down through the vent"
       ],
       "correct_index": 1,
       "explanation": "Blocked vents can rupture or collapse a tank.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Steel pipe carrying a hot fluid will:",
       "options": [
-        "Shrink in length",
-        "Stay exactly the same",
-        "Become magnetic",
-        "Expand in length, so the system must allow for it"
+        "Shrink in length as it heats up",
+        "Stay exactly the same length",
+        "Become magnetic as it warms",
+        "Expand in length, so allow for it"
       ],
       "correct_index": 3,
       "explanation": "Expansion bends or joints allow for movement.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A cross connection in a piping system is a hazard because it can:",
       "options": [
-        "Make pipes lighter",
-        "Let fluids flow where they are not meant to, such as into the wrong tank or system",
-        "Improve cooling",
-        "Remove the need for valves"
+        "Make the pipes lighter and easier to fit",
+        "Let fluid go where it is not meant to, such as the wrong tank",
+        "Improve cooling by mixing hot and cold lines",
+        "Remove the need for valves at each tank"
       ],
       "correct_index": 1,
       "explanation": "Always check the valve line-up before pumping.",
@@ -122,7 +122,7 @@
       "options": [
         "To regulate flow finely",
         "As a non-return valve",
-        "As a relief valve",
+        "As a pressure relief valve",
         "Fully open or fully closed"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "hard",
       "stem": "A fresh water accumulator tank that makes the pump start and stop rapidly is probably:",
       "options": [
-        "Perfectly normal",
+        "Perfectly normal for that size of tank",
         "Waterlogged, with its air charge lost",
-        "Missing a thermostat",
-        "Too full of air"
+        "Missing a thermostat on the outlet",
+        "Too large for the pump fitted"
       ],
       "correct_index": 1,
       "explanation": "The air cushion absorbs pressure changes. Without it the pump cycles often.",
@@ -187,9 +187,9 @@
       "stem": "A bilge suction pipe ends in a strum box to:",
       "options": [
         "Keep rubbish out of the pump",
-        "Increase pressure",
-        "Cool the water",
-        "Heat the water"
+        "Increase pressure at the suction",
+        "Stop air entering the pipe",
+        "Measure the bilge water level"
       ],
       "correct_index": 0,
       "explanation": "A blocked strum box is a common cause of lost suction.",
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "When bringing a hot liquid line into service you should:",
       "options": [
-        "Run it dry first",
+        "Run it dry first to check for leaks",
         "Warm it gradually and open the drains",
-        "Close the vents",
-        "Open the valves suddenly"
+        "Close the vents and drains to hold heat",
+        "Open the valves quickly to save time"
       ],
       "correct_index": 1,
       "explanation": "Gradual heating and draining prevent water hammer and thermal shock.",

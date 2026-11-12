@@ -32,9 +32,9 @@
       "difficulty": "medium",
       "stem": "Before maintenance on a crane or winch you should:",
       "options": [
-        "Work with the load suspended",
-        "Leave the hydraulics live to check for leaks",
-        "Run it at full load to test",
+        "Work with the load suspended so the brake is tested",
+        "Leave the hydraulics live so you can check for leaks as you go",
+        "Run it at full load first to find the weak points",
         "Isolate and lock out the power and release stored energy"
       ],
       "correct_index": 3,
@@ -55,9 +55,9 @@
       "stem": "A hydraulic winch reservoir is found much lower than normal. The best first response is:",
       "options": [
         "Isolate the winch and look for a leak before topping up",
-        "Heat the oil",
-        "Top up and ignore the cause",
-        "Drain the tank"
+        "Heat the oil gently so it expands back up to the normal level",
+        "Top up and carry on, and look for the cause later",
+        "Drain the tank completely and refill with fresh oil"
       ],
       "correct_index": 0,
       "explanation": "Find and stop the leak to prevent damage and pollution.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "A capstan differs from a winch because a capstan has:",
       "options": [
-        "A horizontal drum for storing wire",
-        "A vertical drum that the line wraps round and does not store it",
-        "No brake",
-        "A notched wheel for chain links"
+        "A horizontal drum for storing wire or rope",
+        "A vertical drum the line wraps round without storing",
+        "No brake, so it can only haul in",
+        "A notched wheel shaped to grip chain links"
       ],
       "correct_index": 1,
       "explanation": "A winch has a horizontal drum, usually storing wire or rope. A windlass has a gypsy for chain.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "The clutch on a windlass or winch is used to:",
       "options": [
-        "Measure the load",
-        "Connect the drive to the drum or gypsy, or disconnect it so the anchor or line can run out",
-        "Cool the hydraulic oil",
-        "Tighten the wire rope"
+        "Measure the load on the wire or chain",
+        "Connect or disconnect the drive to the drum or gypsy",
+        "Cool the hydraulic oil when it overheats",
+        "Tighten the wire rope evenly on the drum"
       ],
       "correct_index": 1,
       "explanation": "With the clutch out, the brake alone controls the load.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "Once the anchor is set and the vessel is lying to it, the strain should be held by the:",
       "options": [
-        "Windlass motor",
-        "Hydraulic pump",
-        "Capstan",
-        "Chain stopper or bow stopper, not the windlass"
+        "Windlass motor, left in gear",
+        "Windlass brake on its own",
+        "Capstan, with turns on the drum",
+        "Chain stopper or bow stopper"
       ],
       "correct_index": 3,
       "explanation": "The stopper takes the load so that the windlass and its brake are not overloaded.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "The safest position when a mooring line or wire is under strain is:",
       "options": [
-        "Standing inside the bight of the line",
-        "Standing in line with the wire",
-        "Clear of the bight and out of line with the wire, in case it parts and recoils",
-        "Holding the line with a bare hand"
+        "Standing inside the bight where you can control the line",
+        "Standing in line with the wire to watch it",
+        "Clear of the bight and out of line with the wire",
+        "Close to the line, holding it with a bare hand"
       ],
       "correct_index": 2,
       "explanation": "A parting line whips back along its length and snaps tight inside a bight.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "A routine check of a deck winch wire rope should look for:",
       "options": [
-        "The colour of the strands",
+        "Changes in the colour of the outer strands",
         "Broken strands, kinks, flattening and corrosion",
-        "How shiny it is",
-        "Whether it is longer than last year"
+        "How shiny it is after greasing",
+        "Whether it has stretched and is longer than it was last year"
       ],
       "correct_index": 1,
       "explanation": "Broken strands, kinks and wear reduce strength, and a damaged wire must be replaced.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "The maximum load stamped on a winch or crane is called the safe working load. You should:",
       "options": [
-        "Treat it as a target to reach",
+        "Treat it as a target to reach on each lift",
         "Allow loads up to double it in calm weather",
         "Never exceed it, and allow for shock loads in a seaway",
-        "Ignore it for the first lift of the day"
+        "Ignore it for the first, lightest lift of the day only"
       ],
       "correct_index": 2,
       "explanation": "The SWL includes a safety margin, and wave motion adds shock load.",

@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "Before servicing a machine that could start automatically, the most important step is to:",
       "options": [
-        "Run it for an hour first",
-        "Isolate it and lock out the power so it cannot start",
-        "Check the spares inventory",
-        "Note the running hours"
+        "Run it for an hour first to warm it up",
+        "Isolate it and lock out the power",
+        "Check the spares inventory for parts",
+        "Note the running hours in the log"
       ],
       "correct_index": 1,
       "explanation": "Lockout and tag-out protects you from accidental start-up.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "WHMIS helps engine-room workers by providing:",
       "options": [
-        "Tide tables",
+        "Tide tables for the area",
         "Labels and safety data sheets for hazardous products",
-        "Engine tuning charts",
-        "Crew rosters"
+        "Engine tuning charts for each machine",
+        "Crew rosters and watch lists"
       ],
       "correct_index": 1,
       "explanation": "WHMIS is hazard communication for workplace chemicals.",
@@ -55,9 +55,9 @@
       "stem": "Which set lists the three basic workers' rights under occupational health and safety law in Canada?",
       "options": [
         "Right to overtime, right to a pension, right to strike",
-        "Right to a cabin, right to leave, right to a bonus",
-        "Right to know, right to participate, right to refuse unsafe work",
-        "Right to inspect, right to fine, right to hire"
+        "Right to a cabin, right to leave port, right to a bonus",
+        "Right to know, right to participate, right to refuse",
+        "Right to inspect, right to fine, right to hire and fire"
       ],
       "correct_index": 2,
       "explanation": "Know, participate, refuse. Check provincial and federal wording with an examiner.",
@@ -77,7 +77,7 @@
       "stem": "Before entering a confined space such as a tank, you must at minimum:",
       "options": [
         "Hold your breath and enter quickly",
-        "Test the atmosphere and make sure it is safe and ventilated, with a standby person",
+        "Test the air, ventilate, and have a standby person",
         "Enter if the hatch has been open for a minute",
         "Send in a lit torch to check for gas"
       ],
@@ -99,9 +99,9 @@
       "stem": "Hot work (welding, grinding, cutting) aboard should only start after:",
       "options": [
         "The engine has been running for 10 minutes",
-        "The crew have eaten",
-        "The bilges have been pumped",
-        "Surrounding hazards are cleared and a fire watch and extinguisher are in place"
+        "The crew have had a break and a meal",
+        "The bilges have been pumped dry",
+        "Hazards are cleared, with a fire watch and extinguisher"
       ],
       "correct_index": 3,
       "explanation": "Remove combustibles, check adjoining spaces, and keep a fire watch.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "A safety data sheet (SDS) for a cleaning solvent tells you:",
       "options": [
-        "The hazards, protective equipment, first aid, fire and spill advice for the product",
-        "The tide times at the dock",
-        "The fuel burn of the engine",
-        "The price and supplier discount"
+        "Hazards, protective gear, first aid, fire and spill advice",
+        "The tide times at the dock where it was bought",
+        "The fuel burn of the engine when it is used",
+        "The price, supplier discount and the reorder number"
       ],
       "correct_index": 0,
       "explanation": "The SDS is the full hazard information for a product under WHMIS. The label gives the short summary, and the SDS gives the detail.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "Why should you avoid loose clothing, jewellery and dangling lanyards near an engine room?",
       "options": [
-        "They can catch on rotating shafts and belts and pull you in",
-        "They attract static",
-        "They slow the work",
-        "They get oily"
+        "They can catch on shafts and belts and pull you in",
+        "They build up static electricity near the switchboard",
+        "They slow the work down in tight spaces",
+        "They soak up oil and become a fire risk"
       ],
       "correct_index": 0,
       "explanation": "Rotating shafts, couplings and belts can wrap around loose items instantly. Wear close-fitting clothes and tie back hair.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "After locking out and tagging a machine, the final step before you start work is to:",
       "options": [
-        "Assume it is safe",
+        "Assume it is safe because it is tagged",
         "Try the start control to prove it cannot start",
-        "Remove your lock",
-        "Run it for a minute"
+        "Remove your lock so others can test it",
+        "Run it for a minute to check that the isolation is good"
       ],
       "correct_index": 1,
       "explanation": "Testing proves the isolation worked. Lockout is: tell, isolate, lock and tag, release stored energy, test, then work.",
@@ -208,10 +208,10 @@
       "difficulty": "hard",
       "stem": "A crew member collapses inside a tank. The best first action is to:",
       "options": [
-        "Switch off the ventilation",
-        "Climb in immediately to help",
-        "Wait for them to wake up",
-        "Raise the alarm and rescue only with breathing apparatus and a plan"
+        "Switch off the ventilation to stop the draft",
+        "Climb in immediately to pull them out",
+        "Wait at the hatch for them to wake up",
+        "Raise the alarm; rescue only with breathing apparatus"
       ],
       "correct_index": 3,
       "explanation": "A poor atmosphere kills would-be rescuers quickly. Call for help, keep the standby outside and use breathing apparatus and a rescue plan.",
@@ -252,10 +252,10 @@
       "difficulty": "medium",
       "stem": "Before hot work on a bulkhead, you should clear combustibles, have an extinguisher ready and:",
       "options": [
-        "Fill the bilge with water",
-        "Work alone to avoid distraction",
-        "Post a fire watch and check the other side of the bulkhead",
-        "Switch off the bilge alarm"
+        "Fill the bilge with water as a heat sink",
+        "Work alone to avoid distraction at the torch",
+        "Post a fire watch and check the far side",
+        "Switch off the bilge alarm to avoid false alarms"
       ],
       "correct_index": 2,
       "explanation": "Heat travels through steel and can ignite material on the other side. A fire watch stays during and after the work.",
@@ -275,9 +275,9 @@
       "stem": "You hurt your hand on a sharp edge but it is minor. The most appropriate thing to do is:",
       "options": [
         "Ignore it because it is minor",
-        "Hide it from the master",
-        "Report it and get it treated, and report the hazard",
-        "Wait for it to get worse"
+        "Keep it quiet so the work is not held up",
+        "Report it, get it treated, and report the hazard",
+        "Wait to see if it gets worse before telling anyone"
       ],
       "correct_index": 2,
       "explanation": "Report every injury, near miss and hazard. It fixes the cause and protects the next person, and it is required by the company's procedures.",

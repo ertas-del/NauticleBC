@@ -10,10 +10,10 @@
       "difficulty": "medium",
       "stem": "A thrust block's job is to:",
       "options": [
-        "Cool the shaft",
-        "Measure shaft speed",
-        "Pass propeller thrust from the shaft to the hull structure",
-        "Reduce propeller noise"
+        "Cool the shaft where it leaves the hull",
+        "Measure shaft speed for the tachometer",
+        "Pass propeller thrust from the shaft to the hull",
+        "Reduce propeller noise and vibration"
       ],
       "correct_index": 2,
       "explanation": "It stops the shaft from pushing the engine and carries thrust to the hull.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A water-lubricated stern gland with packing normally:",
       "options": [
-        "Drips slightly, adjusted so it stays cool without excessive leakage",
-        "Should be tightened until completely dry",
-        "Should never be touched",
-        "Should leak freely"
+        "Drips slightly, so it stays cool without much leakage",
+        "Should be tightened until it is completely dry, with no drip",
+        "Should never be touched once it is set up",
+        "Should leak freely to keep the shaft cool"
       ],
       "correct_index": 0,
       "explanation": "A slight drip keeps packing cool. Over-tightening can overheat the gland and shaft.",
@@ -55,7 +55,7 @@
       "stem": "Before starting a vessel's engine and gearbox, a basic check on the gearbox is:",
       "options": [
         "Galley fuel stock",
-        "Anchor light function",
+        "Anchor light and deck light function",
         "Radio channel setting",
         "Oil level and condition"
       ],
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "The correct order of the drive line from engine to water on a single-screw vessel is:",
       "options": [
-        "Gearbox, engine, coupling, propeller, shaft",
-        "Engine, coupling, gearbox, shaft with thrust block, stern gland, propeller",
-        "Engine, propeller, shaft, gearbox, stern gland",
-        "Stern gland, shaft, engine, gearbox, propeller"
+        "Gearbox, engine, coupling, propeller, shaft, stern gland",
+        "Engine, coupling, gearbox, shaft, stern gland, propeller",
+        "Engine, propeller, shaft, gearbox, coupling, stern gland",
+        "Stern gland, shaft, engine, gearbox, coupling, propeller"
       ],
       "correct_index": 1,
       "explanation": "Power goes from the engine through a flexible coupling and gearbox, down the shaft, out through the stern tube and gland to the propeller.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "The whole vessel starts to vibrate at a certain engine speed. A reasonable thing to check is:",
       "options": [
-        "The galley stove",
+        "The galley stove and its fuel line",
         "The fresh-water tank level",
-        "Only the radar mast",
-        "The propeller for damage or fouling, and the coupling, shaft line and cutless bearing"
+        "The radar mast and its scanner",
+        "The propeller, coupling, shaft line and cutless bearing"
       ],
       "correct_index": 3,
       "explanation": "Bent or fouled propellers, misalignment and worn bearings all cause shaft-line vibration.",
