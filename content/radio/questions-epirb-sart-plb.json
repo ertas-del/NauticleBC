@@ -33,10 +33,10 @@
       "difficulty": "medium",
       "stem": "What does a radar SART do?",
       "options": [
-        "Sends a satellite alert",
-        "Broadcasts on Channel 16",
-        "Records the voyage",
-        "Responds to a rescuer's 9 GHz X-band radar so survivors can be pinpointed"
+        "Sends a satellite alert on 406 MHz",
+        "Broadcasts a recorded voice distress call on Channel 16",
+        "Records the voyage track for investigators",
+        "Answers a rescuer's 9 GHz radar to show survivors"
       ],
       "correct_index": 3,
       "explanation": "A SART is a locating device, a secondary device; the EPIRB is the primary alert.",
@@ -57,10 +57,10 @@
       "difficulty": "hard",
       "stem": "How does a radar SART appear on a rescuer's radar within about 8 nautical miles?",
       "options": [
-        "As a single steady echo",
-        "As a flashing red spot",
-        "As a line of 12 dots, becoming arcs then circles within about 1 nm",
-        "As a circle that grows"
+        "As a single steady echo at the range of the raft",
+        "As a flashing red spot on the edge of the screen",
+        "As 12 dots in a line, becoming arcs then circles close in",
+        "As a circle that grows wider as you get closer"
       ],
       "correct_index": 2,
       "explanation": "Wikipedia describes 12 dots about 0.64 nm apart, with arcs and circles close in.",
@@ -80,9 +80,9 @@
       "difficulty": "medium",
       "stem": "A float-free EPIRB is required on:",
       "options": [
-        "any pleasure craft",
-        "a vessel on a near coastal voyage Class 1 or an unlimited voyage",
-        "any vessel under 8 m",
+        "any pleasure craft going more than 5 nm offshore",
+        "a near coastal Class 1 or unlimited voyage",
+        "any vessel under 8 m on any voyage",
         "a vessel in sheltered waters only"
       ],
       "correct_index": 1,
@@ -103,9 +103,9 @@
       "stem": "A 10 m vessel on a near coastal Class 2 voyage may carry which of these instead of a float-free EPIRB?",
       "options": [
         "A manual EPIRB or a PLB",
-        "A SART only",
-        "A flashlight",
-        "A handheld GPS"
+        "A radar SART on its own",
+        "A waterproof flashlight",
+        "A handheld GPS and a signal mirror"
       ],
       "correct_index": 0,
       "explanation": "Section 209(3) lets a vessel of 12 m or less on Class 2 or inland carry a float-free EPIRB, manual EPIRB, PLB, or (under 8 m, A1 only) a waterproof DSC handheld.",
@@ -124,10 +124,10 @@
       "difficulty": "hard",
       "stem": "Where must a manual EPIRB, PLB or DSC handheld used under s. 209(3) be kept?",
       "options": [
-        "Locked in the engine room",
-        "In the chart table",
-        "With the passengers",
-        "Worn by the person in charge of the navigational watch, or stowed ready for abandonment"
+        "Locked in the engine room so it stays dry",
+        "In the chart table drawer on the bridge",
+        "With the passengers in the main cabin",
+        "Worn by the person on watch, or stowed ready to abandon"
       ],
       "correct_index": 3,
       "explanation": "Section 209(4).",
@@ -168,10 +168,10 @@
       "difficulty": "medium",
       "stem": "How often must an EPIRB, PLB or SART be inspected and tested by a radio operator?",
       "options": [
-        "Once a year",
+        "Once a year, at the vessel's annual inspection only",
         "On installation and at least every six months",
-        "Every month",
-        "Only after use"
+        "Every month, by a self-test only",
+        "Only after use or a false alert"
       ],
       "correct_index": 1,
       "explanation": "Section 239 (except beacons stowed in an inflatable life raft).",
@@ -192,8 +192,8 @@
       "options": [
         "EPIRB is primary; SART is secondary",
         "SART is primary; EPIRB is secondary",
-        "Both are primary",
-        "Both are secondary"
+        "Both are primary alert devices",
+        "Both are secondary locating devices"
       ],
       "correct_index": 0,
       "explanation": "The EPIRB alerts the rescue system; the SART helps rescuers locate survivors.",
@@ -213,10 +213,10 @@
       "difficulty": "medium",
       "stem": "What does s. 208 require for one of the SARTs on board?",
       "options": [
-        "It must be sealed in the raft",
-        "It must be tested daily",
-        "It must be kept ashore",
-        "It must be stowed so it is readily accessible for immediate use on board"
+        "It must be sealed in the life raft",
+        "It must be tested every day at sea",
+        "It must be kept ashore at the office",
+        "It must be readily accessible for immediate use"
       ],
       "correct_index": 3,
       "explanation": "Section 208.",
@@ -235,10 +235,10 @@
       "difficulty": "hard",
       "stem": "An EPIRB battery must be replaced when:",
       "options": [
-        "only at the six-month test",
-        "only after a sale",
-        "after use in an emergency, after inadvertent activation, as a test requires, or by its expiry date",
-        "never, if it works"
+        "only at the six-month test, whatever its date",
+        "only when the vessel is sold to a new owner",
+        "after use, after a false alert, for a test, or at expiry",
+        "never, as long as the self-test still passes"
       ],
       "correct_index": 2,
       "explanation": "Section 230(2).",
@@ -257,10 +257,10 @@
       "difficulty": "medium",
       "stem": "An EPIRB sends a 406 MHz signal to satellites. What is its 121.5 MHz signal for?",
       "options": [
-        "Voice calls to MCTS",
+        "Voice calls to the MCTS centre",
         "A homing signal for the final approach",
-        "DSC calls",
-        "Charging the battery"
+        "DSC calls to nearby vessels",
+        "Testing the battery charge from the bridge each month"
       ],
       "correct_index": 1,
       "explanation": "Jotron describes 406 MHz for the distress signal and 121.5 MHz for homing.",
@@ -280,10 +280,10 @@
       "difficulty": "hard",
       "stem": "Which is a requirement for a float-free EPIRB under s. 209(2)?",
       "options": [
-        "It must float free if the vessel sinks and be able to be released by hand and carried into a survival craft",
-        "It must be bolted to the mast",
-        "It must be switched off at sea",
-        "It must be stowed in the engine room"
+        "It must float free and also be releasable by hand to take away",
+        "It must be bolted to the mast so it cannot be lost",
+        "It must be switched off at sea to save the battery",
+        "It must be stowed in the engine room, well away from spray"
       ],
       "correct_index": 0,
       "explanation": "Section 209(2)(a) to (c) also requires it to be readily accessible near the navigating position unless it can be activated remotely from there.",

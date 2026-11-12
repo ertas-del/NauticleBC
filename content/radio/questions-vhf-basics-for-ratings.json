@@ -12,9 +12,9 @@
       "stem": "Which VHF channel is reserved for distress, urgency, safety and calling?",
       "options": [
         "Channel 16 (156.800 MHz)",
-        "Channel 70",
-        "Channel 21B",
-        "Channel 13"
+        "Channel 70 (156.525 MHz)",
+        "Channel 21B (161.650 MHz)",
+        "Channel 13 (156.650 MHz)"
       ],
       "correct_index": 0,
       "explanation": "Channel 16 is the distress, urgency, safety and calling channel. Channel 70 is the DSC alert channel, 21B carries the continuous marine broadcast, and 13 is an intership navigation channel.",
@@ -35,8 +35,8 @@
       "stem": "What is Channel 70 used for?",
       "options": [
         "Voice calls between bridges",
-        "The weather broadcast",
-        "Calls to marinas",
+        "The continuous weather broadcast",
+        "Calls to marinas and fuel docks",
         "Digital selective calling (DSC) alerts and calls"
       ],
       "correct_index": 3,
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "A tug skipper wants to call a Coast Guard centre for the first time. Why should the first call be on Channel 16?",
       "options": [
-        "Channel 16 has the strongest signal",
-        "Working channels are illegal for calls",
-        "MCTS centres monitor Channel 16 but do not monitor working channels",
-        "Channel 16 is only for voice mail"
+        "Channel 16 has the strongest signal of all the marine channels",
+        "Working channels may not be used to start any call",
+        "MCTS centres monitor Channel 16 but not working channels",
+        "Channel 16 is the only channel that reaches shore"
       ],
       "correct_index": 2,
       "explanation": "The RAMN says initial calls are made on Channel 16 because MCTS centres do not monitor working channels. The reason is monitoring, not signal strength or legality.",
@@ -105,7 +105,7 @@
       "stem": "On the BC coast, which channel carries the continuous marine broadcast of weather and warnings?",
       "options": [
         "Channel 21B",
-        "Channel 16",
+        "Channel 16 (calling)",
         "Channel 70",
         "Channel 13"
       ],
@@ -177,8 +177,8 @@
       "options": [
         "Only the master",
         "The person in charge of the deck watch",
-        "Only the lookout",
-        "Nobody, unless passengers are carried"
+        "Only the lookout on the bridge",
+        "Nobody, unless passengers are being carried for hire"
       ],
       "correct_index": 1,
       "explanation": "MPR s. 216(2)(a)(ii) requires the person in charge of the deck watch to hold a radio operator certificate appropriate to the vessel, if it has a VHF installation.",
@@ -199,10 +199,10 @@
       "difficulty": "hard",
       "stem": "A DSC radio sends an alert that nobody can link to the vessel. What is the most likely fault?",
       "options": [
-        "The radio was not programmed with the vessel's own nine-digit MMSI",
-        "Channel 16 was busy",
-        "The squelch was set too high",
-        "The battery was fully charged"
+        "The radio was not programmed with its own MMSI",
+        "Channel 16 was busy with other traffic",
+        "The squelch was set too high to hear",
+        "The antenna cable was loose at the back of the set"
       ],
       "correct_index": 0,
       "explanation": "A DSC radio identifies the vessel by its MMSI. Without the correct nine-digit number the alert cannot be traced.",
@@ -223,8 +223,8 @@
       "stem": "Except in distress, how much power may a radio installation radiate?",
       "options": [
         "Full power at all times",
-        "Exactly 1 W",
-        "25 W on any channel",
+        "Exactly 1 W on every channel",
+        "25 W on any channel at all",
         "No more than needed for clear communication"
       ],
       "correct_index": 3,
@@ -245,10 +245,10 @@
       "difficulty": "hard",
       "stem": "On lookout you hear 'PAN PAN, PAN PAN, PAN PAN' on Channel 16 from a vessel with engine failure. What do you do?",
       "options": [
-        "Reply on Channel 16 yourself",
+        "Reply on Channel 16 yourself to help",
         "Wait until the end of the watch to mention it",
-        "Tell the officer of the watch at once what you heard, including the vessel name and position if caught",
-        "Switch the radio to Channel 70"
+        "Tell the officer of the watch at once, with name and position",
+        "Switch the radio to Channel 70 to listen"
       ],
       "correct_index": 2,
       "explanation": "A rating who is not certified listens and reports at once. The officer of the watch decides the response.",
@@ -292,10 +292,10 @@
       "difficulty": "medium",
       "stem": "Which pairing of word and meaning is correct?",
       "options": [
-        "PAN PAN: a very urgent message about the safety of a vessel or person; SECURITE: an important navigational or weather warning",
-        "PAN PAN: a weather warning; SECURITE: a vessel sinking",
-        "SECURITE: grave and imminent danger; MAYDAY: a weather warning",
-        "PAN PAN: a routine call; SECURITE: a request for a berth"
+        "PAN PAN: urgent safety of a vessel or person; SECURITE: navigational or weather warning",
+        "PAN PAN: a weather warning; SECURITE: a vessel sinking and needing help",
+        "SECURITE: grave and imminent danger to a vessel; MAYDAY: an important weather warning",
+        "PAN PAN: a routine call to a station; SECURITE: a request for a berth"
       ],
       "correct_index": 0,
       "explanation": "RAMN gives these meanings. MAYDAY is the grave and imminent danger word.",
