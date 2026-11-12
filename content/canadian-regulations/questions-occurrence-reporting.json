@@ -11,9 +11,9 @@
       "stem": "Which of these people is NOT listed in the Transportation Safety Board Regulations as someone who must report a marine occurrence they know about directly?",
       "options": [
         "A passenger who is not a crew member",
-        "A crew member",
-        "The ship's pilot",
-        "The master"
+        "A crew member who saw it happen on deck",
+        "The ship's pilot on board",
+        "The master of the vessel"
       ],
       "correct_index": 0,
       "explanation": "Section 3(1) lists the operator (owner or not), the master, the ship's pilot, any crew member and the harbour master. A passenger is not on the list, although any person may report voluntarily under s. 6.",
@@ -33,10 +33,10 @@
       "difficulty": "easy",
       "stem": "A deckhand falls off a work barge into harbour water, is pulled out within two minutes and is uninjured. Is this reportable to the TSB?",
       "options": [
-        "No, because nobody was hurt",
-        "Only if the barge is over 15 GT",
+        "No, because nobody was hurt or needed treatment",
+        "Only if the barge is over 15 gross tonnage",
         "Only if the deckhand needs hospital treatment",
-        "Yes, because any person falling overboard from the ship is a reportable occurrence"
+        "Yes, any person falling overboard is reportable"
       ],
       "correct_index": 3,
       "explanation": "Section 3(1)(b) lists \"a person falls overboard from the ship\" on its own, whether or not there is an injury. Serious injury is a separate item under (a).",
@@ -57,8 +57,8 @@
       "stem": "A tug passes through a narrow channel at low tide and touches the bottom for a moment, then carries on with no damage and no grounding. What is the correct reporting position?",
       "options": [
         "Not reportable, because she did not go aground",
-        "Reportable only if the hull is breached",
-        "Reportable, as unforeseen contact with the bottom without going aground",
+        "Reportable only if the hull is breached or leaking",
+        "Reportable, as unforeseen contact with the bottom",
         "Reportable only to the Canadian Hydrographic Service"
       ],
       "correct_index": 2,
@@ -79,8 +79,8 @@
       "difficulty": "medium",
       "stem": "Which of the following is a reportable failure under s. 3(1)(d)(x)?",
       "options": [
-        "A failure of the galley refrigeration",
-        "A total failure of the steering that poses a threat to the safety of any person, property or the environment",
+        "A failure of the galley refrigeration on a long trip",
+        "A total steering failure that threatens people, property or the environment",
         "A single failed navigation light that was replaced in minutes",
         "A short stall of the engine in harbour with no threat to anyone"
       ],
@@ -102,9 +102,9 @@
       "difficulty": "medium",
       "stem": "A crew member slashes a forearm on a winch drum. The cut bleeds heavily and the tendon is damaged. Under the TSB Regulations, how should the injury be classified?",
       "options": [
-        "A serious injury, because a laceration that causes severe hemorrhage or nerve, muscle or tendon damage is included",
-        "Not a serious injury unless a bone is broken",
-        "A serious injury only if the person is hospitalized overnight",
+        "A serious injury, as it causes severe bleeding and tendon damage",
+        "Not a serious injury unless a bone is also broken",
+        "A serious injury only if the person is kept in hospital overnight",
         "Not reportable, because it happened during normal work"
       ],
       "correct_index": 0,
@@ -125,10 +125,10 @@
       "difficulty": "medium",
       "stem": "Another crew member suffers burns on a hot exhaust. Which burn is a serious injury under the definition?",
       "options": [
-        "A first-degree burn on one fingertip",
-        "Only a third-degree burn",
+        "A first-degree burn on one fingertip and the palm",
+        "Only a third-degree burn, whatever its size",
         "A first-degree burn covering 3 percent of the body",
-        "Any burn affecting more than 5 percent of the body surface"
+        "Any burn affecting more than 5 percent of the body"
       ],
       "correct_index": 3,
       "explanation": "Second or third degree burns, or any burns affecting more than 5 percent of the body surface, are serious injuries. A minor first-degree burn under 5 percent does not meet the definition, and second-degree burns also count, so \"only third degree\" is too narrow.",
@@ -150,8 +150,8 @@
       "options": [
         "Wait until all the information is available and then report within 30 days",
         "Report only after the company has completed its own investigation",
-        "Report as soon as possible by the quickest means with what is known, and send the rest as it becomes available, within 30 days after the occurrence",
-        "Report within 24 hours in all cases"
+        "Send what is known as soon as possible, then the rest within 30 days",
+        "Report within 24 hours in all cases, with every detail complete"
       ],
       "correct_index": 2,
       "explanation": "Section 3(3) has two parts: the available information as soon as possible by the quickest means, and the remainder as soon as it becomes available within 30 days after the occurrence. Waiting to report is the common error.",
@@ -171,10 +171,10 @@
       "difficulty": "medium",
       "stem": "A tug master reports a reportable occurrence by VHF to a Marine Communications and Traffic Services centre. What is the legal effect?",
       "options": [
-        "None; the report must go to the Board in writing",
-        "A report to a radio ship reporting station, which includes an MCTS centre, is considered made to the Board",
-        "It satisfies only the duty to report aids to navigation",
-        "It satisfies the duty only if a harbour master is also present"
+        "None; the report must go to the Board in writing within 30 days",
+        "It counts as made to the Board, since an MCTS centre is a reporting station",
+        "It satisfies only the separate duty to report damaged aids to navigation to MCTS",
+        "It satisfies the duty only if a harbour master is also told"
       ],
       "correct_index": 1,
       "explanation": "Section 3(6) treats a report to a radio ship reporting station as made to the Board, and s. 3(8) defines that term to include a Canadian Coast Guard radio station and an MCTS centre. This is the quickest means for a vessel on the BC coast.",
@@ -217,10 +217,10 @@
       "difficulty": "medium",
       "stem": "A 6.5 m pleasure craft used only for recreation hits a log and takes on water. Does s. 3 of the TSB Regulations require its operator to report?",
       "options": [
-        "Yes, because any collision must be reported",
-        "Only if she has an engine",
-        "Yes, but only within 30 days",
-        "No, because s. 3 covers ships other than pleasure craft; a pleasure craft is a ship used for pleasure and not for a commercial purpose"
+        "Yes, because any collision with an object must be reported",
+        "Only if she has an inboard engine and a radio",
+        "Yes, but only in writing within 30 days",
+        "No, s. 3 covers ships other than pleasure craft"
       ],
       "correct_index": 3,
       "explanation": "Section 3(1) is for the operator of a ship \"other than a pleasure craft\", and s. 3(8) defines pleasure craft as a ship used for pleasure and not for a commercial purpose. Pleasure craft may still report voluntarily, and other duties may apply to them elsewhere.",
@@ -240,10 +240,10 @@
       "difficulty": "medium",
       "stem": "After a serious incident the master needs to cut away fouled gear to secure the vessel. What do the evidence rules say?",
       "options": [
-        "Preserve nothing; safety overrides everything",
+        "Preserve nothing, because safety overrides every other rule",
         "Do nothing until a TSB investigator arrives, even if people are at risk",
-        "Take the necessary safety measures, but before doing so record the evidence by the best means available where possible and advise the Board of the action",
-        "Hand the evidence to the company"
+        "Take the safety measures, recording the evidence first where possible, and tell the Board",
+        "Hand all the evidence to the company and let them deal with the Board"
       ],
       "correct_index": 2,
       "explanation": "Section 8(1) requires evidence to be kept and preserved unless the Board says otherwise. Section 8(2) allows safety measures, and s. 8(3) requires the person, so far as possible and beforehand, to record the evidence by the best means available and tell the Board.",
@@ -263,10 +263,10 @@
       "difficulty": "hard",
       "stem": "A master meets winds of force 10 on the Beaufort scale, and no storm warning had been received for the area. Which duty applies, and to whom is notice given?",
       "options": [
-        "No duty: weather is not reportable",
-        "CSA s. 112: notice to all vessels in the vicinity and to the shore station for the area, following the danger-message procedure in Section A5 of Notices to Mariners",
-        "CSA s. 129: a report to the Coast Guard officer in charge of aids to navigation",
-        "TSB Regulations s. 3: a report to the Board within 30 days"
+        "No duty, because weather alone is never reportable",
+        "CSA s. 112: notify nearby vessels and the area shore station",
+        "CSA s. 129: report to the Coast Guard aids to navigation officer",
+        "TSB Regulations s. 3: report to the Board within 30 days"
       ],
       "correct_index": 1,
       "explanation": "Winds of force 10 or more with no storm warning received are one of the danger types in s. 112. NSR s. 6 says the shore authority is the shore station for the area and that the message follows Section A5 of the annual Notices to Mariners. Section 129 is for aids to navigation and uncharted hazards.",
@@ -286,10 +286,10 @@
       "difficulty": "medium",
       "stem": "A tug's tow drags a lit buoy off station while turning near a log dump. Under CSA s. 129, what does the person in charge of the tug do?",
       "options": [
-        "Report without delay to an MCTS officer or, if that is not feasible, to a Canadian Coast Guard officer",
-        "Nothing, because the tow struck it rather than the tug",
-        "Wait for the next Notice to Mariners",
-        "Report to the TSB only"
+        "Report without delay to an MCTS officer, or failing that a Coast Guard officer",
+        "Nothing, because the tow struck the buoy rather than the tug itself",
+        "Wait for the next Notice to Mariners and check the buoy is listed",
+        "Report to the TSB only, within 30 days of the event"
       ],
       "correct_index": 0,
       "explanation": "Section 129(1) covers a vessel \"or anything towed by a vessel\" that runs down, moves, damages or destroys an aid to navigation. The report goes without delay to an MCTS officer, or to a Coast Guard officer if an MCTS report is not feasible.",
@@ -309,10 +309,10 @@
       "difficulty": "medium",
       "stem": "During passage, the mate sees an aid to navigation that is malfunctioning but which nobody has touched. What does s. 129 require?",
       "options": [
-        "Nothing, unless a vessel strikes it",
-        "A danger message to vessels in the vicinity only",
-        "A TSB report within 30 days",
-        "The person in charge makes a report without delay to an MCTS officer or, failing that, a Coast Guard officer"
+        "Nothing, unless a vessel actually strikes, moves or damages the aid",
+        "Send a danger message to vessels in the vicinity only",
+        "Make a report to the TSB within 30 days of seeing it",
+        "Report it without delay to MCTS or, failing that, the Coast Guard"
       ],
       "correct_index": 3,
       "explanation": "Section 129(2) separately requires a report where the person in charge of a vessel in Canadian waters discovers an uncharted hazard or that an aid is missing, out of position or malfunctioning. Striking it is not necessary.",
@@ -334,7 +334,7 @@
       "options": [
         "Nothing; only the listed persons may contact the Board",
         "The deckhand must report within 30 days or face a penalty under s. 3",
-        "The deckhand may report voluntarily, and if they ask, the Board must protect their identity",
+        "They may report voluntarily, and the Board protects their identity on request",
         "The Board may disclose the identity of the deckhand to the operator on request"
       ],
       "correct_index": 2,

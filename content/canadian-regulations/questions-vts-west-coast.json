@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "A study note written in 2024 describes the BC VTS rules. What has changed for BC since then?",
       "options": [
-        "The Vessel Traffic Services Zones Regulations (SOR/2025-275) repealed the earlier zone regulations, and the new provisions show an in-force date of 2026-03-31",
-        "Nothing; the 1989 zone regulations still apply",
-        "VTS became voluntary for all vessels in BC",
+        "New VTS Zones Regulations repealed the old ones, in force 2026-03-31",
+        "Nothing; the 1989 zone regulations still apply unchanged",
+        "VTS became voluntary for all vessels in British Columbia",
         "The Western zones were replaced by a single national zone"
       ],
       "correct_index": 0,
@@ -82,10 +82,10 @@
       "difficulty": "medium",
       "stem": "Under CSA s. 126, which of these may an MCTS officer do to a vessel of a prescribed class that is about to enter or is within a VTS Zone?",
       "options": [
-        "Order the vessel scrapped",
-        "Grant a clearance, ask for information, direct the radio frequency to be used, and direct it to leave or stay out of an area",
-        "Change the vessel's voyage class",
-        "Cancel the master's certificate"
+        "Order the vessel detained and scrapped",
+        "Grant a clearance, ask for information, set the frequency, and keep it out of an area",
+        "Change the vessel's voyage class on its certificate",
+        "Cancel or suspend the master's certificate"
       ],
       "correct_index": 1,
       "explanation": "Section 126(3) gives these four powers. The others are not powers of an MCTS officer under this section; certificates and voyage classes are dealt with under other regulations.",
@@ -106,10 +106,10 @@
       "difficulty": "medium",
       "stem": "A 280 GT tug is pushing a 250 GT barge, with a combined gross tonnage of 530. Which statement is correct about the general class in s. 3?",
       "options": [
-        "She is covered, because the combined gross tonnage of a vessel towing or pushing another is 500 GT or more",
-        "She is not covered, because each unit is under 300 GT",
-        "She is covered only if dangerous goods are aboard",
-        "She is covered only in the Prince Rupert zone"
+        "Covered, as a tow with combined tonnage of 500 GT or more",
+        "Not covered, because each unit is under 300 GT",
+        "Covered only if dangerous goods are aboard",
+        "Covered only in the Prince Rupert zone"
       ],
       "correct_index": 0,
       "explanation": "Section 3(1)(b) catches a vessel engaged in towing or pushing another vessel if the combined gross tonnage is 500 GT or more. The 300 GT threshold in 3(1)(a) applies to single vessels. Carriage of dangerous goods is a separate route in 3(1)(c).",
@@ -131,7 +131,7 @@
       "stem": "In the Western zones, which of these is covered by the extra 20 m class in s. 9(1)(a)?",
       "options": [
         "A 28 m pleasure craft",
-        "A 22 m fishing vessel of 80 GT",
+        "A 22 m fishing vessel of 80 GT, trawling",
         "A 19 m cargo vessel of 90 GT",
         "A 22 m fishing vessel of 160 GT"
       ],
@@ -154,9 +154,9 @@
       "difficulty": "hard",
       "stem": "A 31 m private motor yacht (a pleasure craft) and a 25 m pleasure craft cruise the Strait of Georgia. Which are covered by the Western add-on class?",
       "options": [
-        "Both",
-        "Neither",
-        "Only the 31 m yacht, because the pleasure-craft exception applies only below 30 m",
+        "Both, as both are over 20 m",
+        "Neither, as both are pleasure craft",
+        "Only the 31 m yacht",
         "Only the 25 m craft"
       ],
       "correct_index": 2,
@@ -178,8 +178,8 @@
       "difficulty": "medium",
       "stem": "A 15 m tug pushes a log boom whose length is 30 m on open water in the Strait of Georgia. Under s. 9(1)(b), is she covered?",
       "options": [
-        "No, because she is under 20 m",
-        "Yes, because the tow is 20 m or more (and the combined length is 45 m or more)",
+        "No, because she is under 20 m in length",
+        "Yes, because the tow is 20 m or more",
         "Only if the boom is within a log booming ground",
         "Only if the boom contains dangerous goods"
       ],
@@ -202,10 +202,10 @@
       "difficulty": "medium",
       "stem": "Which vessels must file the 24-hour sailing plan on entering a VTS Zone from outside Canadian waters?",
       "options": [
-        "The general class under s. 3 (300 GT or more, 500 GT combined tows, pollutants or dangerous goods)",
-        "Every vessel that is covered by any part of the Regulations",
-        "Only vessels carrying passengers",
-        "Only vessels of 20 m or more"
+        "The general class in s. 3, by tonnage, tow size or cargo",
+        "Every vessel covered by any part of the Regulations",
+        "Only vessels carrying passengers for hire",
+        "Only vessels of 20 m or more in length"
       ],
       "correct_index": 0,
       "explanation": "Section 10 sets the 24-hour sailing plan and it sits with the general class; the Western add-on class gets ss. 11 to 15 only. If the voyage from the last port is under 24 hours, the plan goes in as soon as feasible before entering.",
@@ -227,9 +227,9 @@
       "stem": "A covered 20 m vessel is about to leave a berth in the Victoria zone. When is the sailing plan due, and when is the position report due?",
       "options": [
         "Sailing plan 5 minutes after leaving; position report at the next buoy",
-        "Both 24 hours before leaving",
+        "Both 24 hours before leaving the berth",
         "Sailing plan on arrival; position report at 1600 UTC",
-        "Sailing plan at least 15 minutes before leaving; position report immediately before leaving"
+        "Plan at least 15 minutes before; position report just before leaving"
       ],
       "correct_index": 3,
       "explanation": "Section 11(c) requires the sailing plan at least 15 minutes before departing a berth in a zone, and s. 12(c) requires the position report immediately before departure. The 1600 UTC daily report belongs to the Northern zone (s. 33).",
@@ -250,9 +250,9 @@
       "difficulty": "medium",
       "stem": "A vessel has just crossed Active Pass and is passing a calling-in point named in RAMN Part 3 in the Victoria zone. What report does s. 12 require?",
       "options": [
-        "A deviation report only",
-        "A final report",
-        "A position report when it arrives at the calling-in point",
+        "A deviation report only, if the plan changed",
+        "A final report to the Victoria centre",
+        "A position report on arriving at the point",
         "No report, because calling-in points are optional"
       ],
       "correct_index": 2,
@@ -274,10 +274,10 @@
       "difficulty": "medium",
       "stem": "A covered vessel is about to leave the Victoria zone and enter the Prince Rupert zone, with no stop between. When is the final report due?",
       "options": [
-        "Immediately before leaving the Victoria zone, as the Regulations always require",
-        "Not required for leaving, because the vessel enters another VTS zone",
-        "Within 30 days",
-        "At the next calling-in point"
+        "Immediately before leaving Victoria, as the Regulations always require",
+        "Not required, because the vessel enters another VTS zone",
+        "Within 30 days, by letter to the Coast Guard",
+        "At the next calling-in point in the new zone"
       ],
       "correct_index": 1,
       "explanation": "Section 13(b) requires a final report immediately before the vessel leaves a zone, except if it enters any other VTS zone. A final report is still made on arrival at a berth (s. 13(a)).",
@@ -299,8 +299,8 @@
       "stem": "Which of these must be reported to MCTS as an \"other report\" under s. 14 once the master is aware of it?",
       "options": [
         "A defect in the vessel's steering system",
-        "The change of galley menu",
-        "A routine fuel top-up",
+        "A change of crew at the next port",
+        "A routine fuel top-up at the berth",
         "The tidal height at the berth"
       ],
       "correct_index": 0,
@@ -323,9 +323,9 @@
       "stem": "Halfway through a passage in a VTS zone, a vessel changes its destination and ETA from what it reported earlier. What report follows?",
       "options": [
         "No report is needed if the vessel is still inside the zone",
-        "A new 24-hour sailing plan",
-        "A final report immediately",
-        "A deviation report as soon as feasible after the master becomes aware of the significant change"
+        "A new 24-hour sailing plan before carrying on",
+        "A final report immediately, then a new sailing plan",
+        "A deviation report as soon as feasible"
       ],
       "correct_index": 3,
       "explanation": "Section 15 requires a deviation report containing updated information as soon as feasible after the master becomes aware of a significant change in the information in a report. The 24-hour plan is only for entering from outside Canadian waters.",
@@ -346,10 +346,10 @@
       "difficulty": "hard",
       "stem": "A covered vessel inside the Victoria zone loses its VHF to an equipment failure and the vessel is not in a port or anchorage where it can be repaired. What does CSA s. 126(6) require?",
       "options": [
-        "Proceed on the planned route at normal speed and report on arrival",
-        "Stop in the channel",
-        "Proceed to the nearest reasonably safe port or anchorage on its route when it is safe to do so and remain there until communication can be established",
-        "Drift until a Coast Guard vessel arrives"
+        "Proceed on the planned route at normal speed and report on arrival in port",
+        "Stop in the channel and wait for the radio to be fixed",
+        "Go to the nearest safe port or anchorage on its route and stay there",
+        "Drift until a Coast Guard vessel arrives on scene"
       ],
       "correct_index": 2,
       "explanation": "Where the inability to communicate is due to equipment failure on the vessel and it is not in a port or anchorage where the equipment can be repaired, the vessel must go to the nearest reasonably safe port or anchorage on its route when it is safe to do so and stay there. If the problem is only that contact cannot be made (no equipment failure), the vessel may proceed but must keep trying.",
@@ -370,10 +370,10 @@
       "difficulty": "medium",
       "stem": "A vessel cannot get a clearance because MCTS does not answer, and there is no equipment failure on the vessel. What is the position under s. 126(4) and (5)?",
       "options": [
-        "It must anchor immediately",
-        "It may proceed on its route, but must take all reasonable measures to communicate as soon as possible, and obtain a clearance as soon as communication is established",
-        "It must return to its berth",
-        "It may proceed and need not try again"
+        "It must anchor immediately until MCTS replies",
+        "It may proceed, but must keep trying to communicate and get a clearance",
+        "It must return to its berth and wait for a clearance",
+        "It may proceed and need not try to call again"
       ],
       "correct_index": 1,
       "explanation": "Section 126(4) permits the vessel to proceed on its route; s. 126(5) requires all reasonable measures to communicate as soon as possible and a clearance once communication is established. The stay-in-port rule in subsection (6) applies only where the cause is equipment failure on the vessel.",
@@ -394,10 +394,10 @@
       "difficulty": "medium",
       "stem": "Inside the Victoria traffic zone, which VHF channel does the NSR require for the listening watch and navigation safety calls?",
       "options": [
-        "The appropriate VHF channel for the zone, set in Notices to Mariners or by law (NSR Schedule 4, item 2)",
-        "Channel 16, always",
+        "The zone's assigned VHF channel, set by Notices to Mariners or law",
+        "Channel 16, always, in every zone",
         "Channel 13, as on the Great Lakes",
-        "Channel 6"
+        "Channel 6, the ship-to-ship channel"
       ],
       "correct_index": 0,
       "explanation": "Schedule 4 item 2 of the Navigation Safety Regulations, 2020 puts a vessel in waters under Canadian jurisdiction (outside the Great Lakes) on Channel 16 outside a traffic zone and on the appropriate VHF channel inside one. A vessel that is reporting to a traffic centre need not make the departure and dredge-approach navigation safety calls.",

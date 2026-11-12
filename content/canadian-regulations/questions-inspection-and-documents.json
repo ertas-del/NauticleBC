@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Under CSA s. 107, who must ensure that the Canadian maritime documents required under Part 4 have been obtained, and by when?",
       "options": [
-        "The master, before the vessel embarks on a voyage from a port in Canada",
-        "The owner, within 30 days after the first voyage",
-        "The Minister, before issuing a licence",
-        "The deckhand, at the start of each watch"
+        "The master, before the vessel leaves a port in Canada on a voyage",
+        "The owner, within 30 days after the vessel's first voyage",
+        "The Minister, before issuing a licence to the operator",
+        "The deckhand on watch, at the start of each watch"
       ],
       "correct_index": 0,
       "explanation": "Section 107 puts the duty on the master of a Canadian vessel and fixes the time as before the vessel embarks on a voyage from a port in Canada. The authorized representative has a separate duty under s. 106(2) to arrange the inspection and meet the conditions.",
@@ -34,9 +34,9 @@
       "difficulty": "medium",
       "stem": "Who must ensure that the vessel is inspected for the purpose of obtaining its Canadian maritime documents and that every term or condition on them is met?",
       "options": [
-        "The master only",
+        "The master of the vessel alone",
         "The Canadian Coast Guard",
-        "The pilot",
+        "The marine safety inspector",
         "The authorized representative"
       ],
       "correct_index": 3,
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "A vessel's safety certificate will expire in two weeks and the Minister cannot issue a new one in time. What does CSA s. 17 allow?",
       "options": [
-        "Nothing; the vessel must stop operating",
-        "The master may extend it by signing the certificate",
-        "The Minister may extend the period of validity on an application made before the document expires, if it is not feasible to issue a new one in time",
-        "It remains valid automatically for 90 days"
+        "Nothing can be done; the vessel must stop operating on the day the certificate expires",
+        "The master may extend it for one voyage by signing and dating the certificate",
+        "The Minister may extend it on an application made before expiry, if a new one cannot be issued in time",
+        "It remains valid automatically for 90 days while the application is processed"
       ],
       "correct_index": 2,
       "explanation": "Section 17(1) says every Canadian maritime document is valid for the period the Minister specifies and that the Minister may extend it on application made before expiry when a new one cannot feasibly be issued in time. There is no automatic grace period and the master cannot extend it.",
@@ -82,10 +82,10 @@
       "difficulty": "easy",
       "stem": "A 14 GT vessel carries 12 passengers. Under the Vessel Safety Certificates Regulations Division 2, does she need a safety certificate?",
       "options": [
-        "Yes, because any passenger vessel needs one",
-        "No, because Division 2 covers vessels of 15 GT or less only when they carry more than 12 passengers",
-        "Yes, because she is over 10 GT",
-        "No, because Division 2 applies only to Safety Convention vessels"
+        "Yes, because every vessel carrying passengers for hire must hold a safety certificate, whatever its size",
+        "No, Division 2 covers vessels of 15 GT or less only if they carry more than 12 passengers",
+        "Yes, because she is over 10 GT and carries more than 6 passengers",
+        "No, because Division 2 applies only to vessels on Safety Convention voyages"
       ],
       "correct_index": 1,
       "explanation": "Section 11(1) catches vessels of 15 GT or less that carry more than 12 passengers, and all vessels over 15 GT. Twelve passengers is not more than twelve, so she stays under the Small Vessel Regulations. Safety Convention vessels are in Division 1, not Division 2.",
@@ -106,10 +106,10 @@
       "difficulty": "medium",
       "stem": "A 16 GT workboat carries a crew of three and no passengers. Which regime applies?",
       "options": [
-        "Division 2 of the Vessel Safety Certificates Regulations, because she is over 15 GT, so she must hold a safety certificate",
-        "The Small Vessel Regulations workboat rules only",
-        "Neither, because workboats are exempt from certification",
-        "Division 1 of the VSCR"
+        "VSCR Division 2, because she is over 15 GT, so she must hold a safety certificate",
+        "The Small Vessel Regulations workboat rules only, as she has no passengers",
+        "Neither, because workboats with no passengers are exempt from certification",
+        "Division 1 of the VSCR, as for Safety Convention vessels"
       ],
       "correct_index": 0,
       "explanation": "Over 15 GT puts her in Division 2 (s. 11(1)(b)), and the SVR workboat Part covers only workboats of 15 GT or less. A workboat is not exempted by being a workboat; the exclusions in s. 11(2) are pleasure craft, special-purpose vessels, human-powered vessels and unmanned non-propelled vessels without bulk cargo.",
@@ -154,10 +154,10 @@
       "difficulty": "medium",
       "stem": "A safety certificate is valid for five years. What does s. 13(2) require during that time?",
       "options": [
-        "Nothing until it expires",
-        "A new certificate each year",
-        "An inspection by the date shown on the certificate, followed by endorsement of the certificate by the Minister",
-        "An inspection only if the vessel changes owner"
+        "Nothing further until the five-year certificate expires",
+        "A brand new certificate issued every single year",
+        "An inspection by the date shown on it, then endorsement by the Minister",
+        "An inspection only if the vessel changes owner or name"
       ],
       "correct_index": 2,
       "explanation": "For a certificate valid for more than one year, the authorized representative must ensure the vessel is inspected by a date determined by the Minister and shown on the certificate, and the certificate is then endorsed to show the requirements continue to be met.",
@@ -178,10 +178,10 @@
       "difficulty": "hard",
       "stem": "A safety certificate lists a Near Coastal Class 2 voyage with a condition that limits operation in specified wave heights. The master wants to run a trip in conditions beyond the limit because the passengers are keen. What is the legal position?",
       "options": [
-        "The class on the front is all that matters",
-        "The authorized representative must ensure every term and condition is met, and the Minister may impose such conditions after weighing criteria such as wave height, wind, visibility and nearness to assistance",
-        "The condition applies only to the owner and not to the master",
-        "The condition lapses after one season"
+        "Only the voyage class on the front of the certificate limits the trip",
+        "Every term and condition must be met; the Minister may set such limits on wave height and similar criteria",
+        "The condition binds only the owner, so the master may decide on the day",
+        "The condition lapses after one season unless the Minister renews it"
       ],
       "correct_index": 1,
       "explanation": "Section 16 lets the Minister restrict service and limit voyages after weighing the intended area's criteria, including wave height and wind. Section 106(2)(b) of the Act requires the authorized representative to ensure every term or condition is met. The class alone is not the limit.",
@@ -202,10 +202,10 @@
       "difficulty": "hard",
       "stem": "A passenger vessel with a safety certificate is damaged in a grounding and no longer meets all the requirements behind her certificate. Under VSCR s. 17, what must the authorized representative do?",
       "options": [
-        "Submit to the Minister without delay a report describing the damage and the measures taken, with documents, and obtain written confirmation that the requirements continue to be met",
-        "Wait for the next scheduled inspection",
-        "Keep the damage in the log book only",
-        "Tell the Minister only if a passenger is injured"
+        "Report the damage and measures to the Minister without delay, then get written confirmation",
+        "Wait for the next scheduled inspection and then declare the damage to the inspector in person",
+        "Record the damage in the official log book only, as the master already knows of it",
+        "Tell the Minister only if a passenger or crew member was injured in the grounding"
       ],
       "correct_index": 0,
       "explanation": "Section 17(1)(b) requires the report to the Minister without delay where a modification, alteration or damage means the vessel no longer meets the requirements, and s. 17(2) requires the authorized representative to obtain the Minister's written confirmation afterwards. Separately, a grounding is also reportable to the TSB.",
@@ -250,10 +250,10 @@
       "difficulty": "medium",
       "stem": "Where must the Radio Aids to Marine Navigation and, if required, the radio inspection certificate be kept?",
       "options": [
-        "In the owner's office ashore",
-        "In the engine room",
+        "In the owner's office ashore, with the vessel's other papers",
+        "In the engine room, next to the main radio power supply",
         "At the main operating position of the radio installation",
-        "In the master's cabin, locked"
+        "In the master's cabin, locked away from the crew"
       ],
       "correct_index": 2,
       "explanation": "NSR s. 212(b) puts them at the main operating position of the radio installation. Each radio operator's certificate is kept on board in a readily accessible location (s. 212(a)).",
@@ -274,10 +274,10 @@
       "difficulty": "medium",
       "stem": "Which entries does the NSR direct the master or deck watch officer to make in the official log book (or any log book)?",
       "options": [
-        "Only the weather",
-        "The working language for navigational safety, and the dates of steering gear checks and the dates and details of emergency steering drills",
-        "The passenger list and the fuel receipts",
-        "The compass deviation card figures"
+        "The weather each watch and the barometer reading",
+        "The working language for navigational safety and the steering gear checks and drills",
+        "The passenger list for each voyage and the fuel receipts",
+        "The compass deviation card figures after every alteration"
       ],
       "correct_index": 1,
       "explanation": "Section 137(1) requires the master or authorized representative to record the working language for navigational safety matters, and s. 136(4) requires the person in charge of the deck watch to record the dates of steering checks and tests and the dates and details of the emergency steering drills. The deviation card is a separate document under s. 132.",
@@ -298,10 +298,10 @@
       "difficulty": "medium",
       "stem": "A marine safety inspector asks to see the compass records of a non-pleasure vessel. What does the master show?",
       "options": [
-        "The most recent deviation card for each compass, signed and dated by the master and a deck officer, or a signed statement that the compasses are satisfactory",
-        "A card signed by the owner alone",
-        "A copy of the manufacturer's brochure",
-        "Nothing; compasses are not inspected"
+        "The latest deviation card signed by the master and a deck officer, or a signed statement",
+        "A deviation card signed by the owner alone, dated within five years",
+        "A copy of the manufacturer's brochure and the original purchase receipt",
+        "Nothing, because compasses are not inspected on non-pleasure vessels"
       ],
       "correct_index": 0,
       "explanation": "NSR s. 132(1) sets out these two options. The manufacturer's operating and maintenance manuals for required navigation equipment must also be kept on board (s. 102(2)), but they do not satisfy the deviation card requirement.",

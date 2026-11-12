@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "Under the Small Vessel Regulations, which description fits a \"workboat\"?",
       "options": [
-        "A vessel that is not a passenger-carrying vessel, a human-powered vessel or a pleasure craft",
-        "Any vessel that earns money, including fishing boats",
-        "Any vessel under 8 m that tows another vessel",
+        "Any vessel not carrying passengers, not human-powered and not a pleasure craft",
+        "Any vessel that earns money, including commercial fishing boats",
+        "Any vessel under 8 m in length that tows another vessel",
         "A vessel of 15 GT or less that carries fewer than 12 passengers"
       ],
       "correct_index": 0,
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "A 12 m commercial fishing boat of 9 GT asks which SVR workboat equipment table applies to her. What is the correct answer?",
       "options": [
-        "Part 5, because she is under 15 GT",
-        "Part 4, because she carries a crew",
+        "Part 5, because she is under 15 gross tonnage",
+        "Part 4, because she carries a crew of more than one",
         "Part 5 for equipment but Part 7 for construction",
-        "None, because the Small Vessel Regulations do not apply to fishing vessels"
+        "None, as the SVR do not apply to fishing vessels"
       ],
       "correct_index": 3,
       "explanation": "Section 2(2)(a) excludes fishing vessels from the Small Vessel Regulations. Her size and crew do not bring her back in. Other regulations deal with fishing vessels.",
@@ -55,8 +55,8 @@
       "stem": "A company buys a 7 m work skiff to haul tools and materials to a float camp and plans to start next Monday. What must the owner do under Part 5 before the skiff is first put into service?",
       "options": [
         "Obtain an inspection certificate from a marine safety inspector",
-        "File a compliance notice with the Minister",
-        "Inform the Minister of the intention to operate, the boat's physical characteristics and the nature of the operation",
+        "File a compliance notice with the Minister before the first working trip",
+        "Tell the Minister of the intended operation and the boat's details",
         "Nothing, because the duty falls only on the operator at sea"
       ],
       "correct_index": 2,
@@ -77,7 +77,7 @@
       "stem": "A 10.5 m workboat has a freeboard so that the climb to reboard is 0.4 m. Which throwing gear and reboarding equipment does Part 5 require?",
       "options": [
         "A 15 m buoyant heaving line only, and a reboarding device",
-        "Both a 15 m buoyant heaving line and a lifebuoy on a 15 m buoyant line, and no reboarding device",
+        "A heaving line and a lifebuoy on a line, but no reboarding device",
         "A lifebuoy on a 15 m line only, and no reboarding device",
         "Both a heaving line and a lifebuoy, plus a reboarding device"
       ],
@@ -120,10 +120,10 @@
       "difficulty": "hard",
       "stem": "Two boats, each 9 m long with two people aboard, are working in BC waters. One is a workboat that is not a tug; the other is a tug. Which statement about life rafts is correct?",
       "options": [
-        "Both must carry a life raft for two",
+        "Both must carry a life raft big enough for two people",
         "Neither must carry one, because the trigger for both is over 12 m",
-        "Only the workboat must carry one, because tugs are covered by Part 6, not Part 5",
-        "Only the tug must carry a life raft, because a tug of more than 8.5 m with two or more persons aboard must carry rafts for all of them"
+        "Only the workboat, because tugs are covered by Part 6, not Part 5",
+        "Only the tug, as a tug over 8.5 m with two aboard needs a raft"
       ],
       "correct_index": 3,
       "explanation": "Section 508 triggers for a workboat over 12 m. Section 509 sets a lower trigger for a tug over 8.5 m with two or more persons aboard. The tug is still a workboat covered by Part 5; tugs fall under Part 6 for the stability and strength duty, not instead of Part 5.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "An 11 m workboat carries an anchor with 25 m of cable and a manual bilge pump. What is wrong, if anything?",
       "options": [
-        "Nothing, because anchors are optional if there is a bilge pump",
+        "Nothing, because an anchor is optional if there is a bilge pump",
         "She needs 50 m because all workboats over 9 m need 50 m",
-        "The anchor rode is too short; over 9 m to 12 m she needs at least 30 m",
-        "She needs a bailer instead of a pump"
+        "The rode is too short: over 9 m to 12 m needs at least 30 m",
+        "She needs a bailer instead of a manual bilge pump"
       ],
       "correct_index": 2,
       "explanation": "The table in s. 510 gives 15 m (to 9 m, where a manual propelling device is an alternative), 30 m (over 9 m to 12 m) and 50 m (over 12 m). The pump is correct for her band. A bailer is only an option in the smallest band.",
@@ -165,9 +165,9 @@
       "stem": "A 10 m open workboat begins towing. Which arrangement is required by the towing rules for workboats?",
       "options": [
         "A single lifejacket in the wheelhouse and the tow line made fast to the stern cleat",
-        "A means to release or cut the tow line immediately and a clear deck aft of the towing point",
-        "A tow line fixed with no release, so that it cannot part",
-        "An extra life raft whatever the length of the boat"
+        "A way to release or cut the tow line at once, and a clear deck aft of the tow point",
+        "A tow line fixed with no release, so that it cannot part under load",
+        "An extra life raft on board whatever the length of the boat"
       ],
       "correct_index": 1,
       "explanation": "Section 521 requires immediate release or cutting of the tow line, a clear deck aft of the towing point so the line can swing, two lifejackets in the wheelhouse, two means of escape from the wheelhouse, and (for an open boat) positive buoyancy when swamped or a high gunwale. A fixed stern-cleat tow is the setup that causes girding.",
@@ -186,8 +186,8 @@
       "difficulty": "hard",
       "stem": "The owner of a 7.2 m tug asks whether she needs a compliance notice under Part 8 and whether the Part 7 construction requirements apply. What is the correct answer?",
       "options": [
-        "Neither applies, because Parts 7 and 8 do not apply to tugs; Part 6 applies instead",
-        "A notice is required but Part 7 does not apply",
+        "Neither: Parts 7 and 8 exclude tugs, and Part 6 applies instead",
+        "A notice is required but Part 7 does not apply to her",
         "A notice is required because she is over 6 m, and Part 7 applies",
         "Neither applies, because no part of the SVR covers tugs"
       ],
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "When the loading of a small cargo-carrying workboat is questioned, who has a legal duty under s. 601(2) to ensure she has adequate stability and structural strength for her intended operations?",
       "options": [
-        "The owner only",
-        "The operator only",
-        "The builder only",
-        "Both the owner and the operator of a vessel other than a pleasure craft"
+        "The owner only, as the operator follows orders",
+        "The operator only, as the person at the helm",
+        "The builder only, through the compliance notice",
+        "Both the owner and the operator of the vessel"
       ],
       "correct_index": 3,
       "explanation": "Section 601(2) names both the owner and the operator and applies to vessels other than pleasure craft. Builders have their own duties in Part 7, but this duty is not theirs alone.",
@@ -232,7 +232,7 @@
       "options": [
         "Nothing, because only pleasure craft are affected by modifications",
         "Re-certify the vessel under the Vessel Safety Certificates Regulations in every case",
-        "Make sure the modification meets the construction requirements as they read when the work started, and tell the Minister of the major modification",
+        "Meet the construction rules in force when work began, and tell the Minister",
         "Wait for the Minister to request the stability data before doing anything"
       ],
       "correct_index": 2,
@@ -252,9 +252,9 @@
       "difficulty": "medium",
       "stem": "A 5.4 m non-pleasure workboat carries a compliance notice. What does the notice for a vessel of 6 m or less state in addition to the construction statement?",
       "options": [
-        "The name of the last inspector and the date of the last inspection",
-        "The maximum safe load, the maximum number of persons and, for an outboard design, the maximum engine power",
-        "The registration number and port of registry",
+        "The name of the last inspector and the date of the last inspection done",
+        "The maximum safe load and persons and, for outboards, maximum power",
+        "The registration number and port of registry of the vessel",
         "The water temperature below which a life raft must be carried"
       ],
       "correct_index": 1,
@@ -274,10 +274,10 @@
       "difficulty": "easy",
       "stem": "A 14 GT vessel carries 20 passengers on a day tour. Which regime applies to her?",
       "options": [
-        "The Vessel Safety Certificates Regulations: she must hold the applicable safety certificate to engage on a voyage",
-        "The Small Vessel Regulations, Part 5",
-        "The Small Vessel Regulations, Part 4",
-        "No regime, because she is under 15 GT"
+        "The VSCR: she must hold a safety certificate to make the voyage",
+        "The Small Vessel Regulations, Part 5, as a workboat",
+        "The Small Vessel Regulations, Part 4, as a passenger vessel",
+        "No regime applies, because she is under 15 GT"
       ],
       "correct_index": 0,
       "explanation": "Division 2 of the Vessel Safety Certificates Regulations covers vessels of 15 GT or less that carry more than 12 passengers, as well as every vessel over 15 GT (s. 11). Part 4 of the SVR covers up to 12 passengers, and Part 5 is for workboats, which do not carry passengers.",

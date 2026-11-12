@@ -34,10 +34,10 @@
       "difficulty": "medium",
       "stem": "In what order must an employer address a hazard under MOHS s. 124(1)?",
       "options": [
-        "Provide personal protective equipment first, then try to eliminate the hazard",
-        "Reduce it, provide a warning sign, then remove the worker",
+        "Provide personal protective equipment first, then try to eliminate the hazard later",
+        "Reduce it, post a warning sign, then remove the worker from the area",
         "Administrative procedures, then protective equipment, then elimination",
-        "Eliminate it, reduce or isolate it, provide personal protective equipment, then use administrative procedures such as work permits"
+        "Eliminate it, reduce or isolate it, then protective equipment, then procedures"
       ],
       "correct_index": 3,
       "explanation": "Section 124(1) sets elimination first, reduction (including isolation) second, protective equipment third, administrative procedures fourth. PPE is not the first answer.",
@@ -57,10 +57,10 @@
       "difficulty": "medium",
       "stem": "When must protection equipment be used under MOHS s. 138?",
       "options": [
-        "When it is not feasible to eliminate the hazard or control it within safe limits and the equipment may prevent or reduce injury",
-        "Only in port, never at sea",
-        "Only when a supervisor is watching",
-        "Whenever a worker is on deck"
+        "When the hazard cannot be eliminated or controlled and the equipment helps",
+        "Only in port, never at sea, where it could snag on gear",
+        "Only when a supervisor is present to watch the work",
+        "Whenever a worker is on deck, whatever the job"
       ],
       "correct_index": 0,
       "explanation": "Section 138(1) sets those two conditions. The equipment also must not in itself create a hazard.",
@@ -80,9 +80,9 @@
       "difficulty": "medium",
       "stem": "A deckhand is to work on an unguarded platform 2.8 m above the nearest permanent safe level. What is required?",
       "options": [
-        "Only a hard hat",
+        "Only a hard hat and safety boots",
         "The employer must provide a fall-protection system",
-        "A life jacket instead of fall protection",
+        "A life jacket worn instead of any fall protection system",
         "Nothing, because the threshold is 5 m"
       ],
       "correct_index": 1,
@@ -149,10 +149,10 @@
       "difficulty": "hard",
       "stem": "Two deckhands are to scrape a hull from a float alongside, with a drowning hazard. Which set best meets MOHS s. 147?",
       "options": [
-        "A life jacket each and a verbal promise to watch",
-        "A life jacket or other flotation device each, emergency equipment held in readiness, a qualified person ready to intervene, and written emergency procedures",
+        "A life jacket each and a verbal promise from the mate to keep an eye on them",
+        "Flotation, emergency gear ready, a qualified person standing by, and written procedures",
         "Emergency procedures in the captain's head and a lifebuoy kept in the wheelhouse",
-        "A life jacket each and nothing more"
+        "A life jacket each, and nothing more is needed for work alongside"
       ],
       "correct_index": 1,
       "explanation": "Section 147(1) requires a life jacket (or net or fall-protection system), and s. 147(2) adds readiness of emergency equipment, a qualified person ready to intervene, a vessel in readiness if appropriate, and written emergency procedures.",
@@ -172,10 +172,10 @@
       "difficulty": "easy",
       "stem": "A crew member sees a spill on a stairway on deck. What does SWPR s. 11 require first?",
       "options": [
-        "Leave it; only the master may know about hazards",
-        "Report the unsafe condition immediately to the person in charge of the working area",
-        "Wait until the end of the shift to mention it",
-        "Clean it up personally, whatever it is"
+        "Leave it; only the master needs to know about hazards on deck",
+        "Report it at once to the person in charge of the working area",
+        "Wait until the end of the shift and mention it at the meeting",
+        "Clean it up personally straight away, whatever the substance is"
       ],
       "correct_index": 1,
       "explanation": "Section 11(1) requires immediate reporting to the person in charge, and s. 11(2) says correction is done only by a qualified person, with an emergency exception in s. 11(3).",
@@ -196,8 +196,8 @@
       "stem": "Which of these is something nobody may do under the SWPR?",
       "options": [
         "Tamper with a safeguard or safety device",
-        "Report a defective tool",
-        "Ask for a safety briefing",
+        "Report a defective tool to the supervisor",
+        "Ask for a safety briefing before a new job",
         "Wear gloves while using a hand tool"
       ],
       "correct_index": 0,
@@ -218,10 +218,10 @@
       "difficulty": "medium",
       "stem": "A worker's ability to work appears impaired by alcohol, in the opinion of the person in charge of the working area. What does s. 14 say?",
       "options": [
-        "The rule applies only to drugs, not alcohol",
+        "The rule applies only to drugs, not to alcohol",
         "The worker must not be permitted in the working area",
-        "The worker may stay if wearing a life jacket",
-        "The worker may stay if on light duties"
+        "The worker may stay if wearing a life jacket at all times",
+        "The worker may stay if moved to light duties"
       ],
       "correct_index": 1,
       "explanation": "Section 14 says no one may be permitted in a working area whose ability to work is, in the opinion of the person in charge, impaired by alcohol or a drug.",
@@ -241,10 +241,10 @@
       "difficulty": "medium",
       "stem": "You find that a harness lanyard is frayed. What does MOHS s. 150 expect to happen to it?",
       "options": [
-        "It is used for light work only",
-        "It is reported and the employer tags it unsafe and removes it from service",
-        "It is stowed with the good equipment",
-        "It is repaired on the spot with tape"
+        "It is kept in service but used for light work only",
+        "It is reported, tagged unsafe and removed from service",
+        "It is stowed with the good equipment until the next inspection",
+        "It is repaired on the spot with tape and put back"
       ],
       "correct_index": 1,
       "explanation": "Section 150(1) requires the employee to report the defect as soon as feasible and s. 150(2) requires the employer to mark or tag it as unsafe and remove it from service.",
@@ -264,10 +264,10 @@
       "difficulty": "hard",
       "stem": "Which statement about lifting appliances is correct?",
       "options": [
-        "The safe working load is posted only in the wheelhouse log",
-        "Anyone may operate a lifting appliance with supervision, and a load rating is optional",
-        "A load may be left suspended overnight without anyone present",
-        "The operator must be a qualified person and a notice of safe working load must be permanently affixed to the appliance"
+        "The safe working load is posted only in the wheelhouse log book",
+        "Anyone may operate a lifting appliance under supervision, and a load rating is optional",
+        "A load may be left hanging overnight if the area is roped off",
+        "A qualified operator, and a safe working load notice fixed to the appliance"
       ],
       "correct_index": 3,
       "explanation": "SWPR s. 16 requires a qualified operator, s. 17 requires a permanently affixed safe working load notice, and MOHS s. 213(3) bars leaving a load suspended unless a qualified person is present and in charge.",
@@ -287,10 +287,10 @@
       "difficulty": "hard",
       "stem": "An opening in the deck leads to a tank 2 m deep. It is not in use and has no coaming. What does SWPR s. 25(1) require?",
       "options": [
-        "Nothing, because 2 m is too shallow to matter",
-        "It need only be marked with paint",
-        "It must be sealed with welded plate",
-        "It must be securely covered or fenced to a height of 900 mm"
+        "Nothing, because 2 m is too shallow to be a hazard",
+        "It need only be marked around the edge with paint",
+        "It must be sealed with welded plate before sailing",
+        "It must be securely covered or fenced to 900 mm"
       ],
       "correct_index": 3,
       "explanation": "Compartments exceeding 1.5 m in depth must be securely covered or fenced to 900 mm unless the opening has a coaming of at least 760 mm. Marking alone is the option only for openings to compartments not exceeding 1.5 m (s. 25(2)).",

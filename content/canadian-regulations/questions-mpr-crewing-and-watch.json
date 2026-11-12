@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Under the crewing rules, when must a vessel on a voyage have a chief mate?",
       "options": [
-        "When it is over 15 gross tonnage",
-        "When it makes any voyage outside sheltered waters",
-        "When it is 500 gross tonnage or more, or carries more than 50 passengers",
-        "When it carries more than 12 passengers"
+        "When it is over 15 gross tonnage on any voyage",
+        "When it makes any voyage at all outside sheltered waters",
+        "At 500 GT or more, or with more than 50 passengers",
+        "When it carries more than 12 passengers on board"
       ],
       "correct_index": 2,
       "explanation": "Section 212(4)(b) sets two triggers: 500 GT or more, or more than 50 passengers. The 15 GT and 12 passenger figures belong to the inspection-certificate and Small Vessel Regulations tests, not this one.",
@@ -31,10 +31,10 @@
       "difficulty": "easy",
       "stem": "The crewing rules in Division 2 of Part 2 of the Marine Personnel Regulations apply to which vessels?",
       "options": [
-        "Only vessels over 500 gross tonnage",
+        "Only Canadian vessels over 500 gross tonnage",
         "Only foreign vessels in Canadian waters",
         "Self-propelled Canadian vessels engaged on a voyage",
-        "Only vessels carrying passengers"
+        "Only Canadian vessels that carry passengers for hire"
       ],
       "correct_index": 2,
       "explanation": "Section 200(1) applies Division 2 to self-propelled Canadian vessels on a voyage. Foreign vessels in Canadian waters are covered by Division 4.",
@@ -52,10 +52,10 @@
       "difficulty": "medium",
       "stem": "Who may act as a member of the deck watch?",
       "options": [
-        "Only the master",
-        "A person who holds a certificate appropriate to the class of vessel, the area in which it operates and the duties to be performed",
-        "Any adult crew member the master chooses",
-        "Only a person holding an Able Seafarer certificate"
+        "Only the master, or a person holding a master's certificate",
+        "A person certificated as appropriate to the vessel's class, area and duties",
+        "Any adult crew member the master chooses for the watch",
+        "Only a person holding an Able Seafarer certificate, at any tonnage"
       ],
       "correct_index": 1,
       "explanation": "Section 214 sets the test as an appropriate certificate for vessel class, area and duties, and also stops the master from permitting anything else. Able Seafarer is a minimum only for the additional person at 500 GT and above.",
@@ -73,10 +73,10 @@
       "difficulty": "medium",
       "stem": "A 12 GT passenger vessel is under way with a VHF radiotelephone installed. What must the person in charge of the deck watch hold?",
       "options": [
-        "Only a certificate of competency; the radio certificate is optional",
-        "A Bridge Watch Rating certificate",
-        "Only a radio operator certificate",
-        "A certificate of competency authorizing watchkeeping and radio watch duties, and a radio operator certificate appropriate to the vessel's class and area"
+        "Only a certificate of competency; the radio operator certificate is optional",
+        "A Bridge Watch Rating certificate and a pleasure craft card",
+        "Only a radio operator certificate for the VHF on board",
+        "A watchkeeping certificate and a suitable radio operator certificate"
       ],
       "correct_index": 3,
       "explanation": "Section 216(2)(a) requires a certificate authorizing watchkeeping and radio watch duties and, if there is a VHF radiotelephone, a suitable radio operator certificate. Bridge Watch Rating is the rating-level certificate for the additional person at 500 GT and above.",
@@ -94,10 +94,10 @@
       "difficulty": "medium",
       "stem": "At what size must a deck watch include an additional person, and what must that person hold at 500 gross tonnage or more?",
       "options": [
-        "5 gross tonnage or more; a Bridge Watch Rating certificate at every size",
-        "500 gross tonnage or more; an Able Seafarer certificate only",
-        "15 gross tonnage or more; at 150 gross tonnage or more a Master's certificate",
-        "5 gross tonnage or more; at 500 gross tonnage or more at minimum an Able Seafarer or Bridge Watch Rating certificate"
+        "5 GT or more; a Bridge Watch Rating certificate at every size",
+        "500 GT or more; an Able Seafarer certificate only",
+        "15 GT or more; at 150 GT or more a Master's certificate",
+        "5 GT or more; at 500 GT or more, at least Able Seafarer or Bridge Watch Rating"
       ],
       "correct_index": 3,
       "explanation": "Section 216(2)(b) requires the additional person from 5 GT, and sets the AB or BWR certificate as the minimum only when the vessel is 500 GT or more. Below 500 GT the person does not need that certificate.",
@@ -136,7 +136,7 @@
       "difficulty": "hard",
       "stem": "The same 7 GT boat takes the same 4 nautical mile loop in good visibility at 2130 in October, after sunset. Is an additional person required?",
       "options": [
-        "No, the exception applies at any time in good visibility",
+        "No, the exception applies at any time of day in good visibility",
         "Yes, but only if there are more than 12 passengers",
         "Yes, the exception only applies between sunrise and sunset",
         "No, because the trip is under 5 nautical miles"
@@ -158,9 +158,9 @@
       "stem": "When is the master counted as a member of the deck watch?",
       "options": [
         "Only when the master holds a Master Mariner certificate",
-        "Only when the vessel is under 5 GT",
-        "Never; the master is always in addition to the watch",
-        "When the vessel is securely anchored or moored, is not more than 1 000 GT, or is between 1 000 and 3 000 GT with at least three deck watches"
+        "Only when the vessel is under 5 GT and in sheltered waters",
+        "Never; the master is always in addition to the deck watch",
+        "At anchor or moored, at not more than 1 000 GT, or 1 000 to 3 000 GT with three watches"
       ],
       "correct_index": 3,
       "explanation": "Section 215(2) lists those three cases. On a small BC vessel the master is therefore counted as part of the watch.",
@@ -178,8 +178,8 @@
       "difficulty": "hard",
       "stem": "What is a Safe Manning Document and which vessels need one under s. 202(3)(b)?",
       "options": [
-        "A document issued by the owner stating the number of persons carried on each voyage",
-        "A document issued by the Minister to a non-Safety Convention vessel that must carry an inspection certificate, valid for a maximum of 5 years, listing the minimum complement, certificates, voyages and any passenger number",
+        "A document issued by the owner each season stating the number of persons carried on each voyage",
+        "A Minister's document for certain inspected vessels listing the minimum crew and certificates",
         "A permit allowing a vessel to operate with an uncertificated master for 6 months",
         "A certificate issued to each crew member showing they have completed MED training"
       ],
@@ -199,10 +199,10 @@
       "difficulty": "medium",
       "stem": "A harbour tug is assisting another vessel while attached to it by a tow line. Does the deck watch rule require an additional person?",
       "options": [
-        "Yes, but only after sunset",
+        "Yes, but only after sunset or when visibility is restricted",
         "Yes, always, because the tug is 5 GT or more",
-        "No, but only if the tug has radar",
-        "No, s. 216(3) excuses a tug assisting another vessel while attached by a tow line"
+        "No, but only if the tug has a working radar",
+        "No, a tug attached to the vessel by a tow line is excused"
       ],
       "correct_index": 3,
       "explanation": "Section 216(3)(c) lists a tug assisting another vessel while attached to it by a tow line as an exception. Radar and time of day are not part of that exception.",
@@ -221,7 +221,7 @@
       "stem": "What does s. 213 require of the master about planning and the deck watch?",
       "options": [
         "Ensure every deck watch member holds a master's certificate",
-        "Ensure the intended voyage is planned and that a deck watch is kept in accordance with Parts 2, 3 and 3-1 of section A-VIII/2 of the STCW Code",
+        "Plan the voyage and keep a deck watch as the STCW Code A-VIII/2 requires",
         "Ensure the voyage plan is approved by Transport Canada before departure",
         "Ensure the voyage is planned only if the vessel exceeds 500 gross tonnage"
       ],
