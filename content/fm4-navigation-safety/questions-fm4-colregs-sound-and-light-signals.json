@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "One short blast means:",
       "options": [
-        "Danger",
+        "I do not understand your intentions",
         "I am altering course to starboard",
-        "I am going astern",
-        "I am altering to port"
+        "I am operating astern propulsion",
+        "I am altering my course to port"
       ],
       "correct_index": 1,
       "explanation": "Two short is port.",
@@ -33,9 +33,9 @@
       "stem": "Three short blasts means:",
       "options": [
         "I am operating astern propulsion",
-        "I am overtaking",
-        "I am altering to port",
-        "I am at anchor"
+        "I intend to overtake on your port side",
+        "I am altering my course to port",
+        "I am stopped and making no way"
       ],
       "correct_index": 0,
       "explanation": "Engines going astern.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Two prolonged and one short blast, in a narrow channel, means:",
       "options": [
-        "I intend to overtake on your port side",
-        "I am stopped",
+        "I intend to overtake you on your port side",
+        "I agree to be overtaken by you on either side",
         "I intend to overtake you on your starboard side",
-        "I am at anchor"
+        "I am approaching a bend in the channel ahead"
       ],
       "correct_index": 2,
       "explanation": "Two prolonged and two short is port.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A power-driven vessel making way in fog sounds:",
       "options": [
-        "Two prolonged blasts",
-        "A bell",
+        "Two prolonged blasts every 2 minutes",
+        "A bell rung rapidly for 5 seconds every minute",
         "One prolonged blast at intervals of not more than 2 minutes",
-        "One short blast"
+        "One short blast at intervals of not more than 2 minutes"
       ],
       "correct_index": 2,
       "explanation": "Two prolonged is for stopped.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "A power-driven vessel underway but stopped in fog sounds:",
       "options": [
-        "Three short",
-        "One short",
-        "One prolonged",
+        "Three short blasts at intervals of not more than 2 minutes",
+        "One short and one prolonged blast every minute",
+        "One prolonged blast at intervals of not more than 2 minutes",
         "Two prolonged blasts at intervals of not more than 2 minutes"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "A vessel engaged in fishing in fog sounds:",
       "options": [
-        "A bell only",
+        "A bell rung rapidly for about 5 seconds",
         "One prolonged and two short blasts",
-        "Two prolonged",
-        "Five short"
+        "Two prolonged blasts every 2 minutes",
+        "One prolonged and three short blasts"
       ],
       "correct_index": 1,
       "explanation": "At intervals of not more than 2 minutes.",
@@ -165,9 +165,9 @@
       "stem": "A vessel at anchor in fog rings a bell rapidly for about:",
       "options": [
         "5 seconds at intervals of not more than 1 minute",
-        "10 seconds every 10 minutes",
-        "1 second",
-        "30 seconds every hour"
+        "10 seconds at intervals of not more than 2 minutes",
+        "1 second at intervals of not more than 30 seconds",
+        "30 seconds at intervals of not more than 5 minutes"
       ],
       "correct_index": 0,
       "explanation": "A vessel at anchor fishing uses the fishing signal.",
@@ -186,9 +186,9 @@
       "difficulty": "hard",
       "stem": "A towed vessel, if manned, sounds in fog:",
       "options": [
-        "One short",
-        "One prolonged",
-        "Two prolonged",
+        "One prolonged and two short",
+        "One prolonged blast, then a bell",
+        "Two prolonged and two short",
         "One prolonged and three short"
       ],
       "correct_index": 3,
@@ -211,7 +211,7 @@
         "One prolonged blast",
         "Two short blasts",
         "Five short blasts",
-        "Three short blasts"
+        "Two prolonged blasts"
       ],
       "correct_index": 0,
       "explanation": "The reply is one prolonged.",

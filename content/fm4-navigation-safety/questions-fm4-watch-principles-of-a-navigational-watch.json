@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "The OOW must not leave the bridge:",
       "options": [
-        "At any time",
+        "Unless the vessel is on autopilot",
         "Until properly relieved",
         "If the master is below",
-        "After one hour"
+        "Before the hour is up"
       ],
       "correct_index": 1,
       "explanation": "The bridge must be manned.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "The master should be called if:",
       "options": [
-        "The deck is clean",
+        "The vessel is on her planned track",
         "Restricted visibility is encountered",
-        "The sun comes out",
-        "The coffee is ready"
+        "Visibility improves after fog clears",
+        "A routine position fix agrees with the plan"
       ],
       "correct_index": 1,
       "explanation": "Also in heavy traffic and any doubt.",
@@ -76,9 +76,9 @@
       "difficulty": "medium",
       "stem": "The master should be called if you do not sight land or a mark:",
       "options": [
-        "Never",
-        "Only in port",
-        "Only at night",
+        "Only after dark",
+        "Only if the GPS has failed",
+        "Only in heavy weather",
         "At the expected time"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "A proper look-out is kept by:",
       "options": [
-        "The log",
-        "Radar only",
+        "The radar and AIS, with sight as a backup",
+        "Sight alone, with hearing used only in fog",
         "Sight, hearing and all available means",
-        "The autopilot"
+        "The helmsman alone, while also steering at night"
       ],
       "correct_index": 2,
       "explanation": "Radar supports, not replaces.",
@@ -120,9 +120,9 @@
       "difficulty": "easy",
       "stem": "When at anchor, the watch should check regularly:",
       "options": [
-        "The tide table only",
-        "That the cook is awake",
-        "The price of fish",
+        "That the main engine is shut down",
+        "That the radar is switched off",
+        "That the anchor light is off",
         "That the vessel is not dragging"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "Fatigue is dangerous because it:",
       "options": [
-        "Only affects the engine",
-        "Improves performance",
+        "Only matters on night watches",
+        "Is cured by strong coffee",
         "Reduces alertness and judgment",
-        "Has no effect"
+        "Affects only new crew members"
       ],
       "correct_index": 2,
       "explanation": "Plan rest and watches.",
@@ -186,9 +186,9 @@
       "difficulty": "medium",
       "stem": "The OOW should check the position:",
       "options": [
-        "Never",
-        "Only on arrival",
-        "Once a day",
+        "Only when entering port",
+        "Only if the GPS alarms",
+        "Once each watch at most",
         "At suitable intervals"
       ],
       "correct_index": 3,
@@ -208,10 +208,10 @@
       "difficulty": "easy",
       "stem": "Under standing orders, the OOW should:",
       "options": [
-        "Hide errors",
-        "Ignore them",
-        "Change them freely",
-        "Follow the master's instructions and call the master when in doubt"
+        "Change them when the master is asleep",
+        "Follow them only in good weather",
+        "Follow them but never wake the master",
+        "Follow them and call the master when in doubt"
       ],
       "correct_index": 3,
       "explanation": "Clear orders support safety.",
