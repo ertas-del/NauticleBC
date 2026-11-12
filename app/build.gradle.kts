@@ -13,14 +13,27 @@ android {
         applicationId = "ca.nauticlebc.app"
         minSdk = 26
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.1"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    signingConfigs {
+        create("alpha") {
+            storeFile = file("alpha.keystore")
+            storePassword = "nauticlebc-alpha"
+            keyAlias = "nauticlebc"
+            keyPassword = "nauticlebc-alpha"
+        }
+    }
+
     buildTypes {
+        debug {
+            signingConfig = signingConfigs.getByName("alpha")
+        }
         release {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("alpha")
         }
     }
 
