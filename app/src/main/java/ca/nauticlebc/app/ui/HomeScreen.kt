@@ -68,6 +68,8 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
 @Composable
 fun HomeScreen(
     bundle: Result<ContentBundle>?,
+    dueCount: Int,
+    onOpenDue: () -> Unit,
     onOpenTicket: (String) -> Unit,
 ) {
     Scaffold(
@@ -85,6 +87,23 @@ fun HomeScreen(
                     text = stringResource(R.string.home_subtitle),
                     style = MaterialTheme.typography.bodyLarge,
                 )
+            }
+
+            item {
+                Card(
+                    modifier = Modifier
+                        .fillMaxWidth()
+                        .clickable(enabled = dueCount > 0, onClick = onOpenDue),
+                ) {
+                    Column(modifier = Modifier.padding(16.dp)) {
+                        Text(stringResource(R.string.due_card_title), style = MaterialTheme.typography.titleMedium)
+                        Text(
+                            if (dueCount == 0) stringResource(R.string.due_card_clear)
+                            else stringResource(R.string.due_card_count, dueCount),
+                            style = MaterialTheme.typography.bodyMedium,
+                        )
+                    }
+                }
             }
 
             items(tickets) { ticket ->

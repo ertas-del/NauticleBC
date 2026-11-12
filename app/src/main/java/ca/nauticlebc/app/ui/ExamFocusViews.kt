@@ -33,6 +33,7 @@ import ca.nauticlebc.app.R
 import ca.nauticlebc.app.content.ContentBundle
 import ca.nauticlebc.app.content.ExamFocus
 import ca.nauticlebc.app.content.LessonKeyFacts
+import ca.nauticlebc.app.quiz.QuizState
 import kotlin.random.Random
 
 /**
@@ -195,7 +196,12 @@ private fun LessonFactsCard(group: LessonKeyFacts) {
  * (best scores are kept per lesson).
  */
 @Composable
-fun ModuleQuizScreen(moduleId: String, bundle: ContentBundle, onBack: () -> Unit) {
+fun ModuleQuizScreen(
+    moduleId: String,
+    bundle: ContentBundle,
+    onBack: () -> Unit,
+    onFinished: (QuizState) -> Unit = {},
+) {
     var seed by rememberSaveable { mutableStateOf(Random.nextLong()) }
     val questions = remember(bundle, moduleId, seed) {
         ExamFocus.moduleQuiz(bundle.questions, bundle.lessons, moduleId, Random(seed))
@@ -215,5 +221,6 @@ fun ModuleQuizScreen(moduleId: String, bundle: ContentBundle, onBack: () -> Unit
         backLabel = backLabel,
         doneLabel = backLabel,
         onRetry = { seed = Random.nextLong() },
+        onFinished = onFinished,
     )
 }
