@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Part 4 of the Small Vessel Regulations applies to which vessels?",
       "options": [
-        "Any vessel under 24 m in length",
+        "Any vessel under 24 m in length that carries people",
         "Any fishing vessel of not more than 15 gross tonnage",
-        "Any passenger vessel, whatever its size",
-        "A passenger-carrying vessel of not more than 15 gross tonnage that carries not more than 12 passengers and is not human-powered"
+        "Any passenger vessel, whatever its size or tonnage",
+        "Passenger vessels of 15 GT or less carrying 12 or fewer passengers"
       ],
       "correct_index": 3,
       "explanation": "Section 400(1) sets those limits; above either number the vessel goes into the inspection certificate regime. Fishing vessels are excluded from the Regulations altogether by s. 2(2).",
@@ -31,10 +31,10 @@
       "difficulty": "easy",
       "stem": "Before leaving the place where passengers embark, what must the operator include with the safety briefing?",
       "options": [
-        "A written test for each passenger",
+        "A written test on the briefing for each passenger aboard",
         "A demonstration of how to don each type of lifejacket",
-        "A signed waiver from every passenger",
-        "A demonstration of the vessel's radar"
+        "A signed waiver from every passenger on board",
+        "A demonstration of the vessel's radar and GPS"
       ],
       "correct_index": 1,
       "explanation": "Section 401(2) requires a donning demonstration for each type of lifejacket during the briefing. Tests, waivers and radar demonstrations are not required.",
@@ -53,8 +53,8 @@
       "stem": "What must an operator do before departure about the number of persons on board?",
       "options": [
         "Report it to the Minister of Transport for each trip",
-        "Report it to a person ashore designated to communicate with search and rescue authorities",
-        "Write it on the dock sign-in sheet only",
+        "Report it to a designated person ashore who can contact search and rescue",
+        "Write it on the dock sign-in sheet and leave it there",
         "Nothing, if the trip is shorter than one hour"
       ],
       "correct_index": 1,
@@ -73,10 +73,10 @@
       "difficulty": "medium",
       "stem": "A water taxi carries no life raft and the water temperature is 9 degrees C. What does s. 403 require?",
       "options": [
-        "Nothing, because the vessel is small",
-        "Equipment carried or procedures established to protect everyone from hypothermia and cold shock",
-        "Passengers must wear immersion suits at all times",
-        "A life raft must be added before the next trip"
+        "Nothing, because the vessel is small and the trips are short",
+        "Carry equipment or set procedures to protect against hypothermia and cold shock",
+        "Passengers must wear immersion suits at all times when under way",
+        "A life raft must be added before the next trip, whatever the season"
       ],
       "correct_index": 1,
       "explanation": "Section 403 applies below 15 degrees C when there is no life raft, and it allows equipment or procedures, not necessarily a life raft or suits.",
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "stem": "A hand flare was manufactured on March 1, 2022 and purchased new on May 1, 2022. When does it expire under s. 20?",
       "options": [
-        "It does not expire if the case is unopened",
+        "It does not expire as long as the case is unopened",
         "Four years after purchase, on May 1, 2026",
         "Four years after manufacture, on March 1, 2026",
-        "Three years after manufacture"
+        "Three years after manufacture, on March 1, 2025"
       ],
       "correct_index": 2,
       "explanation": "Section 20(1) counts four years from the date of manufacture, not purchase, and does not exempt unopened ones.",
@@ -178,10 +178,10 @@
       "difficulty": "medium",
       "stem": "Which portable extinguisher fits a 7 m passenger vessel with no cooking appliance under s. 414?",
       "options": [
-        "A 2A:10B:C extinguisher plus a 10B:C at the engine space entrance",
-        "A 2A:20B:C extinguisher only",
-        "A 1A:5B:C extinguisher only",
-        "A 10B:C extinguisher only"
+        "A 2A:10B:C extinguisher, plus a 10B:C at the engine space",
+        "A single 2A:20B:C extinguisher at the helm only",
+        "A single 1A:5B:C extinguisher at the helm only",
+        "A single 10B:C extinguisher at the engine space entrance only"
       ],
       "correct_index": 0,
       "explanation": "Over 6 m to 9 m requires a 2A:10B:C and a 10B:C at the engine space entrance; the single 1A:5B:C is up to 6 m, and 2A:20B:C applies over 12 m.",
@@ -199,10 +199,10 @@
       "difficulty": "hard",
       "stem": "A 5.8 m passenger boat has an enclosed engine space. Which detector does s. 418 require in the engine space?",
       "options": [
-        "A smoke detector with a battery and a 60 dB alarm",
-        "A fixed CO2 system in every case",
-        "No detector, because the vessel is under 6 m",
-        "A heat detector wired to a red visual alarm and an audible alarm of at least 84 dB at the operating position, with a green power light"
+        "A smoke detector with its own battery and a 60 dB alarm in the main cabin",
+        "A fixed CO2 system in every case, whatever the size of the space",
+        "No detector, because the vessel is under 6 m and has an outboard",
+        "A heat detector with visual and audible alarms at the operating position"
       ],
       "correct_index": 3,
       "explanation": "Section 418(1)(a) requires that heat detector in each engine space for a vessel of 6 m or less, unless the engine is enclosed so that a fire would be immediately apparent at the operating position (s. 418(2)).",
@@ -220,10 +220,10 @@
       "difficulty": "hard",
       "stem": "What quantity of carbon dioxide must a portable extinguisher intended for direct discharge into an enclosed engine space contain, and how fast must it discharge?",
       "options": [
-        "1.2 kg per cubic metre of gross engine space volume, discharged in not more than 60 seconds",
+        "1.2 kg per cubic metre of gross volume, discharged in 60 seconds or less",
         "1.2 kg per cubic metre, discharged in not more than 10 seconds",
-        "12 kg per cubic metre, discharged in 60 seconds",
-        "0.6 kg per cubic metre, discharged in 2 minutes"
+        "12 kg per cubic metre of net volume, discharged in about 60 seconds or less",
+        "0.6 kg per cubic metre of gross volume, discharged over 2 minutes"
       ],
       "correct_index": 0,
       "explanation": "Section 416 gives 1.2 kg per cubic metre and 60 seconds for CO2; a clean agent must provide equivalent protection and discharge in not more than 10 seconds.",
@@ -242,8 +242,8 @@
       "stem": "How long must the engine space blower run before a gasoline-powered vessel's engine is started?",
       "options": [
         "Not less than four minutes immediately before starting",
-        "Not less than 30 seconds",
-        "Not less than ten minutes",
+        "Not less than 30 seconds, or until the fumes smell clear",
+        "Not less than ten minutes on every occasion",
         "Only if the engine fails to start the first time"
       ],
       "correct_index": 0,
@@ -262,10 +262,10 @@
       "difficulty": "medium",
       "stem": "What must the owner of a passenger-carrying vessel do before the vessel is first put in service?",
       "options": [
-        "Obtain an inspection certificate in every case",
-        "Inform the Minister of the intention to operate, the vessel's physical characteristics and the nature of its operation",
-        "Register the vessel's flares with the Coast Guard",
-        "Obtain written approval of every passenger list"
+        "Obtain an inspection certificate from a marine safety inspector",
+        "Tell the Minister of the intended operation and the vessel's details",
+        "Register the vessel's flares and lifejackets with the Canadian Coast Guard",
+        "Obtain written approval of every passenger list from the Minister"
       ],
       "correct_index": 1,
       "explanation": "Section 405 requires that notice to the Minister before first service. An inspection certificate is a different regime that applies above 15 GT or 12 passengers.",
@@ -283,10 +283,10 @@
       "difficulty": "hard",
       "stem": "A 9.5 m passenger vessel must carry throwing gear. Which choice meets s. 409?",
       "options": [
-        "A lifebuoy with a self-igniting light only",
-        "A buoyant heaving line of at least 15 m and a lifebuoy attached to a buoyant line of at least 15 m",
-        "A buoyant heaving line of at least 15 m only",
-        "A lifebuoy attached to a buoyant line of at least 15 m only"
+        "A lifebuoy with a self-igniting light, and nothing else",
+        "A 15 m buoyant heaving line and a lifebuoy on a 15 m buoyant line",
+        "A buoyant heaving line of at least 15 m, and nothing else",
+        "A lifebuoy attached to a buoyant line of at least 15 m, and nothing else"
       ],
       "correct_index": 1,
       "explanation": "Over 9 m to 12 m the table requires both items. The either-or choice applies over 6 m to 9 m, and the lifebuoy with a self-igniting light (or on a buoyant line) applies over 12 m.",
@@ -304,9 +304,9 @@
       "difficulty": "medium",
       "stem": "On a passenger boat, who must be given an inherently buoyant lifejacket, and when is a reboarding device not required?",
       "options": [
-        "Anyone under 12; a reboarding device is not required if the vessel is under 15 gross tonnage",
-        "Anyone under 16 years of age; a reboarding device is not required if the climb to reboard is 0.5 m or less",
-        "Only the crew; a reboarding device is never required",
+        "Anyone under 12; a reboarding device is not required if the vessel is under 15 GT",
+        "Anyone under 16; no reboarding device if the climb is 0.5 m or less",
+        "Only the crew; a reboarding device is never required on passenger boats",
         "Anyone over 65; a reboarding device is not required on vessels under 12 m"
       ],
       "correct_index": 1,

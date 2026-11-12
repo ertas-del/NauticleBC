@@ -11,10 +11,10 @@
       "difficulty": "easy",
       "stem": "Under the Canada Shipping Act, 2001, which of these vessels is a pleasure craft?",
       "options": [
-        "A 9 m water taxi carrying paying passengers",
-        "A privately owned sailboat used only for pleasure that carries no passengers",
-        "A whale-watching boat run by a tour company",
-        "A fishing charter boat that takes paying guests"
+        "A 9 m water taxi owned by one person, carrying paying passengers across the harbour",
+        "A privately owned sailboat used only for pleasure, carrying no passengers",
+        "A whale-watching boat run by a small tour company out of Tofino",
+        "A fishing charter boat that takes paying guests out for the day"
       ],
       "correct_index": 1,
       "explanation": "The Act defines a pleasure craft as a vessel used for pleasure that does not carry passengers. Each of the other three carries passengers, so Part 4 applies to them even though they are small.",
@@ -55,9 +55,9 @@
       "difficulty": "medium",
       "stem": "A company owns a Canadian passenger vessel and has an arrangement with a Canadian operating corporation to be responsible for all matters not given to someone else by the Act. Who is the authorized representative?",
       "options": [
-        "The master, as the person in command",
-        "The owner, always",
-        "The Minister of Transport",
+        "The master, as the person in command and charge of the vessel at all times",
+        "The owner, in every case, whatever arrangement is made",
+        "The Minister of Transport, who approves the arrangement",
         "The operating corporation, as a qualified person under the arrangement"
       ],
       "correct_index": 3,
@@ -77,10 +77,10 @@
       "difficulty": "medium",
       "stem": "Which list correctly gives the three general duties of an authorized representative in s. 106(1)?",
       "options": [
-        "Appoint the crew, set the hours of rest, inspect every voyage before departure",
-        "Hold the master's certificate, keep the log book, brief the passengers before each voyage",
-        "Obtain the documents before each voyage, keep the load lines clear, report hazards to the Minister",
-        "Ensure the vessel and equipment meet the regulations, develop procedures for safe operation and emergencies, ensure crew and passengers get safety training"
+        "Appoint the crew, set the hours of rest for everyone on board, and inspect the vessel before every voyage",
+        "Hold a master's certificate, keep the official log book, and brief the passengers before each voyage",
+        "Obtain the documents before each voyage, keep the load lines clear, and report hazards to the Minister",
+        "Ensure the vessel meets the regulations, develop safety and emergency procedures, and train crew and passengers"
       ],
       "correct_index": 3,
       "explanation": "Section 106(1) lists those three duties. Obtaining documents before a voyage and keeping load lines clear are the master's duties (ss. 107 and 110). The other options mix duties that belong to nobody in that form.",
@@ -99,10 +99,10 @@
       "difficulty": "medium",
       "stem": "When must a master ensure that all required Canadian maritime documents have been obtained?",
       "options": [
-        "At the start of each calendar year",
-        "Only when a marine safety inspector asks to see them",
+        "At the start of each calendar year, for the whole season",
+        "Only when a marine safety inspector asks to see them on board",
         "Before the vessel embarks on a voyage from a port in Canada",
-        "Within 30 days of the first voyage of the year"
+        "Within 30 days of the vessel's first voyage of the year"
       ],
       "correct_index": 2,
       "explanation": "Section 107 puts the check before departure from a Canadian port. It is a duty that arises with every voyage, not on request and not annually.",
@@ -121,10 +121,10 @@
       "difficulty": "hard",
       "stem": "A vessel's certificate allows 12 persons. The master is clearing a harbour when 15 people from a capsized boat are picked up. May the master carry the extra people?",
       "options": [
-        "Yes, but only if the load lines are first marked on the hull",
-        "Yes, but only with the authorized representative's written approval",
-        "Yes, the person limit does not apply to shipwrecked or distressed persons carried because of the duty to rescue",
-        "No, the certificate limit can never be exceeded"
+        "Yes, but only if the load lines are first marked on the hull and the weather is fair",
+        "Yes, but only with the authorized representative's written approval sent by radio",
+        "Yes, the limit does not apply to shipwrecked or distressed persons carried under the duty to rescue",
+        "No, the certificate limit can never be exceeded, so the master must call for help"
       ],
       "correct_index": 2,
       "explanation": "Section 110(3) says the limit in 110(1) does not apply to a person carried in pursuance of the obligation to carry shipwrecked or distressed persons. The master must still look after safety under s. 109, and the load-line rule in 110(2) still applies.",
@@ -187,10 +187,10 @@
       "difficulty": "medium",
       "stem": "Which of these is something every person, not just the crew, is forbidden to do under Part 4?",
       "options": [
-        "Operate a vessel without a master's certificate",
-        "Embark on a voyage without a chart",
-        "Carry a passenger without a lifejacket",
-        "Take any action that might jeopardize the safety of a vessel or the persons on board"
+        "Operate any vessel in Canadian waters without holding a master's certificate",
+        "Embark on a voyage without the latest edition of the chart",
+        "Carry a passenger who is not wearing a lifejacket on deck",
+        "Take any action that might jeopardize the vessel or the persons on board"
       ],
       "correct_index": 3,
       "explanation": "Section 118 prohibits any person from taking action that might jeopardize the safety of a vessel or persons on board. The other three are real requirements elsewhere (or different from what the option says) but are not the general prohibition in s. 118.",
@@ -209,10 +209,10 @@
       "difficulty": "easy",
       "stem": "Part 4 (Safety) of the Canada Shipping Act, 2001 applies to which vessels?",
       "options": [
-        "Only commercial vessels over 15 gross tonnage",
-        "All vessels of any flag, anywhere in the world",
-        "Canadian vessels everywhere other than pleasure craft, and foreign vessels in Canadian waters",
-        "Only vessels that hold an inspection certificate"
+        "Only commercial vessels over 15 gross tonnage, wherever they are registered",
+        "All vessels of any flag anywhere in the world, including pleasure craft",
+        "Canadian vessels everywhere except pleasure craft, and foreign vessels in Canadian waters",
+        "Only vessels that hold an inspection certificate issued by Transport Canada"
       ],
       "correct_index": 2,
       "explanation": "Section 105 sets that scope. It does not depend on size or on holding an inspection certificate, and it does not reach foreign vessels outside Canadian waters.",
@@ -231,10 +231,10 @@
       "difficulty": "medium",
       "stem": "A passenger on a small BC tour boat is told by the skipper to move away from the bow rail during docking. What does the Act say about this?",
       "options": [
-        "The direction only binds the passenger if it is written on the safety card",
-        "The passenger may ignore it because only crew have duties",
-        "The passenger must comply with directions from the master or a crew member given to carry out the Act or the regulations",
-        "The passenger must comply only if the Minister has also given the direction"
+        "The direction binds the passenger only if it is also printed on the passenger safety card posted on board",
+        "The passenger may ignore it, because only the crew have duties under the Act",
+        "They must comply with directions from the master or crew given to carry out the Act or regulations",
+        "The passenger must comply only if the Minister has also given the same direction"
       ],
       "correct_index": 2,
       "explanation": "Section 115(1) requires every passenger to comply with directions from the master or a crew member to carry out the Act or regulations. Section 115(2) separately requires compliance with a direction to leave the vessel before the voyage.",

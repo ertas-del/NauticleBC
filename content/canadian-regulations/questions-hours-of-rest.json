@@ -11,10 +11,10 @@
       "difficulty": "easy",
       "stem": "A Canadian passenger vessel runs a sheltered waters voyage in BC. Which section sets its minimum rest?",
       "options": [
-        "No section applies to passenger vessels",
-        "Section 321: 10 hours rest in 24 and 77 in 7 days",
-        "Section 320: 6 consecutive hours in every 24 and 16 hours in every 48",
-        "Section 321: 14 hours work in 24 and 72 in 7 days"
+        "No section applies, because passenger vessels are exempt",
+        "Section 321: at least 10 hours rest in 24 and 77 hours in 7 days",
+        "Section 320: 6 consecutive hours in 24 and 16 hours in 48",
+        "Section 321: 14 hours work in every 24 and 72 hours in 7 days"
       ],
       "correct_index": 2,
       "explanation": "Section 319(1) sends sheltered waters and domestic near coastal voyages to s. 320. The 14/72 and 10/77 figures are the s. 321 options for unlimited voyages, ratifying foreign waters and foreign vessels.",
@@ -33,10 +33,10 @@
       "difficulty": "easy",
       "stem": "What do the regulations say counts as hours of rest?",
       "options": [
-        "Time on the bridge when no one speaks to the watchkeeper",
+        "Time on the bridge when no one speaks to the watchkeeper at all",
         "Rest time outside hours of work, not including short breaks",
-        "Any 30 minute break during a shift",
-        "Any time not spent steering"
+        "Any 30 minute break taken during a working shift",
+        "Any time on duty that is not spent steering"
       ],
       "correct_index": 1,
       "explanation": "Section 300 defines hours of rest as rest time outside hours of work and says it does not include short breaks.",
@@ -78,9 +78,9 @@
       "stem": "Which fishing vessels are caught by the hours-of-rest rules for sheltered waters and near coastal voyages?",
       "options": [
         "Fishing vessels of 100 gross tonnage or more",
-        "All fishing vessels",
-        "No fishing vessels",
-        "Only fishing vessels under 15 gross tonnage"
+        "All fishing vessels, whatever their size",
+        "No fishing vessels, as they are exempt",
+        "Only fishing vessels of under 15 gross tonnage"
       ],
       "correct_index": 0,
       "explanation": "Part 3 does not apply to fishing vessels except as provided. Section 319(1) specifically includes fishing vessels of 100 gross tonnage or more on those voyages.",
@@ -99,10 +99,10 @@
       "difficulty": "medium",
       "stem": "A crew member's roster gives 12 hours of rest in 24 hours but the interval from the end of one rest period to the start of the next is 4 hours. Under s. 320, what is the result?",
       "options": [
-        "It passes, because the interval rule applies only under s. 321",
-        "It fails, because rest must be at least 14 hours",
-        "It fails, because the interval between rest periods must be between 6 and 18 hours",
-        "It passes, because total rest is at least 6 hours"
+        "It passes, because the interval rule applies only to vessels under s. 321",
+        "It fails, because total rest must be at least 14 hours in 24",
+        "It fails, because 6 to 18 hours must elapse between rest periods",
+        "It passes, because the total rest is well over the 6 hours"
       ],
       "correct_index": 2,
       "explanation": "Section 320(b) is a separate test: not more than 18 hours and not less than 6 hours may elapse between the end of one rest period and the start of the next. Total rest alone does not satisfy it.",
@@ -122,12 +122,12 @@
       "stem": "Under s. 321, which pair of limits is an acceptable alternative to the pair '10 hours rest in 24 and 77 hours rest in 7 days'?",
       "options": [
         "Not more than 12 hours of work in 24 and not more than 84 in 7 days",
-        "At least 8 hours of rest in 24 and 56 in 7 days",
-        "At least 6 consecutive hours of rest in 24 and 16 in 48",
-        "Not more than 14 hours of work in 24 and not more than 72 hours of work in 7 days"
+        "At least 8 hours of rest in every 24 and 56 hours in 7 days",
+        "At least 6 consecutive hours of rest in every 24 and 16 in 48",
+        "Not more than 14 hours of work in 24 and 72 hours of work in 7 days"
       ],
       "correct_index": 3,
-      "explanation": "Section 321(1) allows either the work limits of 14 in 24 and 72 in 7 days or the rest minimums of 10 in 24 and 77 in 7 days. The last option is s. 320, a different rule.",
+      "explanation": "Section 321(1) allows either the work limits of 14 in 24 and 72 in 7 days or the rest minimums of 10 in 24 and 77 in 7 days. The 6 consecutive hours in 24 and 16 in 48 option is s. 320, a different rule.",
       "source_ids": [
         "regs-a-mpr-2007"
       ],
@@ -143,10 +143,10 @@
       "difficulty": "hard",
       "stem": "Mid-passage a master suspends the rest schedule to help a vessel in distress. What does s. 322 require afterwards?",
       "options": [
-        "The authorized representative must pay a penalty",
-        "Nothing; the suspension removes all later duties",
+        "The authorized representative must pay a penalty to each crew member",
+        "Nothing; the suspension removes all later rest duties for that voyage",
         "The crew must restart the schedule from the beginning of the next week with no extra rest",
-        "As soon as feasible, every crew member who worked in a scheduled rest period must be given compensatory rest"
+        "As soon as feasible, anyone who worked in a scheduled rest period gets compensatory rest"
       ],
       "correct_index": 3,
       "explanation": "Section 322(5) allows suspension for the immediate safety of the vessel, persons or cargo, or to assist others in distress, but requires compensatory rest as soon as feasible.",
@@ -187,10 +187,10 @@
       "difficulty": "hard",
       "stem": "A Canadian vessel on a near coastal Class 2 voyage in Canadian waters wonders whether it must post a table of shipboard working arrangements under s. 324. What is the position?",
       "options": [
-        "Posting is required on every Canadian vessel",
-        "Section 324 attaches to the s. 321 vessels, so it does not apply to this domestic voyage, though records under s. 323 still must be kept",
-        "Neither posting nor records are required for near coastal voyages",
-        "Posting is required only for vessels over 500 gross tonnage"
+        "Posting is required on every Canadian vessel, whatever voyage it makes, and records too",
+        "It does not apply, since s. 324 attaches to s. 321 vessels, but s. 323 records must still be kept",
+        "Neither posting nor records are required for near coastal voyages in Canadian waters",
+        "Posting is required only for vessels over 500 gross tonnage, on any voyage"
       ],
       "correct_index": 1,
       "explanation": "Section 319(1) applies ss. 320, 322 and 323 to domestic voyages; s. 319(2) applies ss. 321 to 324 to the other group. So s. 323 records apply, and the s. 324 posting duty attaches to the s. 321 vessels.",
@@ -209,10 +209,10 @@
       "difficulty": "medium",
       "stem": "Besides the work or rest totals, what does s. 321(2) require about how rest hours are arranged?",
       "options": [
-        "Rest may be taken in any pattern as long as the totals are met",
-        "Rest must be taken in one block of at least 10 hours",
-        "Rest is divided into no more than two periods, one at least 6 hours long, with no more than 14 hours between rest periods",
-        "Rest must be divided into at least three periods"
+        "Rest may be taken in any pattern at all, as long as the daily and weekly totals are met",
+        "Rest must be taken in one unbroken block of at least 10 hours every day",
+        "No more than two periods, one at least 6 hours, and no more than 14 hours between them",
+        "Rest must be divided into at least three periods of no less than 2 hours"
       ],
       "correct_index": 2,
       "explanation": "Section 321(2) limits rest to two periods, one at least 6 hours, and the interval between two consecutive rest periods to 14 hours. Section 320 uses a different interval test (6 to 18 hours).",

@@ -11,8 +11,8 @@
       "stem": "A deckhand is told to go into a ballast tank to inspect a weld. Under MOHS s. 169, what must exist before entry?",
       "options": [
         "A work permit issued to the person entering",
-        "Nothing, if the tank is empty",
-        "A verbal OK from the mate",
+        "Nothing, provided the tank has been pumped empty",
+        "A verbal OK from the mate on watch",
         "A life jacket worn over the coveralls"
       ],
       "correct_index": 0,
@@ -33,9 +33,9 @@
       "stem": "Which of these jobs requires a written work permit under MOHS s. 166?",
       "options": [
         "Work that requires entry into a confined space",
-        "Reading the draft marks",
-        "Coiling a mooring line",
-        "Washing the wheelhouse windows"
+        "Reading the draft marks from the dock",
+        "Coiling a mooring line on deck in port",
+        "Washing the wheelhouse windows from a ladder on deck"
       ],
       "correct_index": 0,
       "explanation": "Section 166(a) names confined space entry; paragraph (b) adds any work assessed as capable of causing death or serious injury, such as hot work.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Which set correctly describes a confined space under the MOHS definition?",
       "options": [
-        "Any compartment with a lockable door",
-        "Any space smaller than 10 cubic metres",
-        "Enclosed or partially enclosed, not meant for occupancy except to work, restricted access and egress, and potentially hazardous",
-        "Any room below the waterline"
+        "Any compartment with a lockable door that is kept shut while the vessel is at sea",
+        "Any space smaller than 10 cubic metres, whatever its use, contents or ventilation",
+        "Enclosed, not meant for occupancy except for work, with restricted access and potentially hazardous",
+        "Any room below the waterline, including accommodation and the engine room"
       ],
       "correct_index": 2,
       "explanation": "The three tests are enclosure and no intended occupancy, restricted access and egress, and the potential to become hazardous. Size and location are not the test.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "A marine chemist reads oxygen at 19.0 per cent in a void space. What is the correct decision?",
       "options": [
-        "No entry yet; the level is below 19.5 per cent and must be corrected and held in range first",
-        "Entry is fine; 19 is close enough to 21",
-        "Entry is fine with a harness",
-        "Entry is fine for five minutes"
+        "No entry yet; 19.0 is below 19.5 per cent and must be corrected and held in range",
+        "Entry is fine, because 19 per cent is close enough to the normal 21",
+        "Entry is fine as long as the entrant wears a harness on a lifeline tended from outside",
+        "Entry is fine for up to five minutes with someone at the hatch"
       ],
       "correct_index": 0,
       "explanation": "Section 171(2)(c) requires 19.5 to 23 per cent by volume, with partial pressure of oxygen not below 148 mm Hg, and the value must be maintainable for the occupancy.",
@@ -98,10 +98,10 @@
       "difficulty": "hard",
       "stem": "A reading of 24 per cent oxygen is found in a tank that has been ventilated with pure oxygen by mistake. What does the MOHS limit say?",
       "options": [
-        "It passes, because more oxygen is safer",
-        "It passes if a fire watch is posted",
-        "It passes if the entrant is trained",
-        "It is outside the 19.5 to 23 per cent range, so it does not pass; oxygen must also not be used for ventilation"
+        "It passes, because more oxygen makes the air safer to breathe in a tank",
+        "It passes if a fire watch with an extinguisher is posted at the hatch",
+        "It passes if the entrant is trained in confined space entry and carries a personal gas detector",
+        "It fails: it is above the 23 per cent limit, and oxygen must not be used for ventilation"
       ],
       "correct_index": 3,
       "explanation": "The upper limit is 23 per cent (MOHS s. 171(2)(c)); excess oxygen is a fire hazard. SWPR s. 35(a) bars the use of oxygen for ventilation.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "Who carries out the atmosphere assessment before confined space entry under MOHS s. 171?",
       "options": [
-        "Any passenger",
-        "A marine chemist or other qualified person appointed by the employer",
-        "The ship's cook",
-        "The deckhand who will enter"
+        "Any passenger who holds a current first aid certificate",
+        "A marine chemist or other qualified person the employer appoints",
+        "Any crew member who has worn a breathing apparatus",
+        "The deckhand who will enter, using a hand-held gas detector at the hatch"
       ],
       "correct_index": 1,
       "explanation": "The employer must appoint a marine chemist or other qualified person, who produces a signed written report.",
@@ -187,9 +187,9 @@
       "stem": "Conditions in a tank cannot meet all the usual entry requirements. Which is part of the minimum under MOHS s. 173(3)?",
       "options": [
         "A single deckhand who stands at the hatch with no means of calling for help",
-        "A life jacket only",
-        "A harness on a lifeline anchored outside, controlled by a qualified person who is in communication and has an alarm device",
-        "A sign reading Danger"
+        "A life jacket and a hand-held torch for the person entering, and a radio",
+        "A harness on a lifeline anchored outside, held by a qualified attendant with an alarm",
+        "A sign reading Danger posted at the hatch, with the hatch left open"
       ],
       "correct_index": 2,
       "explanation": "Section 173(3) requires an attendant who is in communication and has an alarm, a harness on a lifeline anchored outside, two or more employees nearby, and one with first aid and emergency training.",
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "Under SWPR s. 31, when may the person attending at the entrance of a ballast tank leave?",
       "options": [
-        "Only when the person inside has left, except in an emergency involving that person",
-        "When the tank is sealed",
-        "Whenever they need a break",
-        "After ten minutes"
+        "Only when the person inside has left, except in an emergency involving them",
+        "When the person inside reports by radio that all is well",
+        "Whenever they need a break, if another crew member is nearby",
+        "After ten minutes, if the atmosphere has been tested as safe"
       ],
       "correct_index": 0,
       "explanation": "Section 31(2) requires the attendant to remain until the person inside leaves, apart from an emergency with the person inside.",
@@ -230,10 +230,10 @@
       "difficulty": "medium",
       "stem": "Before a hold or tank is closed off, who must make sure nobody is inside?",
       "options": [
-        "A qualified person (MOHS) or the person in charge of the working area (SWPR)",
-        "The next watch",
-        "The harbour master",
-        "Nobody; the cover is just replaced"
+        "A qualified person (MOHS) or the person in charge of the work area (SWPR)",
+        "The next watch, when they take over the deck at change of shift",
+        "The harbour master or port authority, before the vessel sails",
+        "Nobody; the cover is just replaced once the work is done"
       ],
       "correct_index": 0,
       "explanation": "MOHS s. 173(4) requires a qualified person to verify; SWPR s. 32 puts the same duty on the person in charge of the working area.",
@@ -252,10 +252,10 @@
       "difficulty": "easy",
       "stem": "Which definition fits hot work in MOHS s. 189?",
       "options": [
-        "Any work in the engine room",
-        "Work in a tropical port",
+        "Any work done in the engine room while the main engine runs",
+        "Any work in a hot space, such as close to the main engine exhaust manifold",
         "Any work where flame is used or a source of ignition may be produced",
-        "Only welding with a torch"
+        "Only welding or cutting with an oxy-acetylene torch on deck"
       ],
       "correct_index": 2,
       "explanation": "Section 189 is broad: flame or a possible source of ignition, so grinding sparks can count. Location and temperature are not the test.",
@@ -296,10 +296,10 @@
       "difficulty": "hard",
       "stem": "Hot work is planned in a compartment where flammable vapour may be present. What must happen first under MOHS s. 191(a)?",
       "options": [
-        "A sign is posted and work starts",
-        "The workers wear respirators and proceed",
-        "The area must be freed of gas, tested by a marine chemist or other qualified person and found safe",
-        "A deckhand sniffs the air"
+        "A warning sign is posted at the entrance and a fire extinguisher is placed close by the work",
+        "The workers put on respirators and a fire watch stands by while they proceed",
+        "It must be gas-freed, tested by a marine chemist or qualified person and found safe",
+        "A deckhand checks the air by smell before the torch is lit"
       ],
       "correct_index": 2,
       "explanation": "Section 191(a) requires gas-freeing, testing and a finding of safety by a marine chemist or other qualified person. Respirators do not remove an ignition risk.",

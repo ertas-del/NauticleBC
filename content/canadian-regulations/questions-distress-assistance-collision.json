@@ -11,9 +11,9 @@
       "difficulty": "easy",
       "stem": "You are running a charter boat in Canadian waters when the Coast Guard relays a signal that a person is in distress nearby. What does the Canada Shipping Act, 2001 require of you?",
       "options": [
-        "Wait for the Coast Guard to confirm that you have been requisitioned",
-        "Proceed with all speed to render assistance and, if possible, inform the persons in distress or the sender of the signal",
-        "Proceed only if the signal came directly from the vessel in distress",
+        "Wait for the Coast Guard to confirm that you have been requisitioned before you alter course to assist",
+        "Proceed with all speed to assist and, if possible, inform the persons in distress or the sender",
+        "Proceed only if the signal came directly from the vessel in distress, not as a relay",
         "Continue the voyage and report the signal in the log book at the end of the day"
       ],
       "correct_index": 1,
@@ -55,10 +55,10 @@
       "difficulty": "medium",
       "stem": "What is a requisition under s. 131?",
       "options": [
-        "A master asks the Minister for permission to stop assisting",
-        "A search and rescue coordinator orders a vessel to leave a search area",
-        "The master of a vessel in distress calls on one or more of the vessels answering the call to render assistance, and they must continue to proceed with all speed",
-        "The authorized representative recalls the vessel to port"
+        "A master asks the Minister for permission to stop assisting a vessel in distress",
+        "A search and rescue coordinator orders a vessel to leave the search area and stand by",
+        "The distressed vessel's master calls on answering vessels to assist, and they must keep going",
+        "The authorized representative recalls the vessel to port to protect its crew"
       ],
       "correct_index": 2,
       "explanation": "The power in s. 131(3) belongs to the master of the vessel in distress. A requisitioned vessel keeps going all speed; it cannot use the other vessel's arrival as an excuse until released under s. 131(4) or (5).",
@@ -77,10 +77,10 @@
       "difficulty": "medium",
       "stem": "Which of these releases a master from the duty to proceed to a vessel in distress?",
       "options": [
-        "The master is informed by the persons in distress that assistance is no longer necessary",
-        "The master's passengers ask to return to port",
-        "The master hears that a larger vessel might be in the area",
-        "The weather forecast gets worse"
+        "The persons in distress tell the master that assistance is no longer necessary",
+        "The master's passengers ask to return to port before the vessel arrives",
+        "The master hears that a larger vessel might be somewhere in the area",
+        "The weather forecast gets worse and the master is worried about the safety of the crew"
       ],
       "correct_index": 0,
       "explanation": "Section 131(5) releases a master told by the persons in distress, or by the master of another vessel that has reached them, that assistance is no longer necessary. A worse forecast or a passenger request is not a release; the s. 131(2) exit is for being unable, or finding it unreasonable or unnecessary, and then logging the reason.",
@@ -99,10 +99,10 @@
       "difficulty": "medium",
       "stem": "Under s. 131(4), when is a master released from the duty to proceed?",
       "options": [
-        "When the master has travelled half the distance",
+        "When the master has travelled half the distance to the casualty",
         "When the master learns that another vessel is complying with a requisition",
-        "When the casualty's authorized representative is notified",
-        "When the master reaches Canadian waters"
+        "When the casualty's authorized representative has been notified of the distress",
+        "When the master reaches Canadian waters on the way to the casualty"
       ],
       "correct_index": 1,
       "explanation": "Section 131(4) releases the master on learning that another vessel is complying with the requisition. Distance and waters are irrelevant.",
@@ -121,10 +121,10 @@
       "difficulty": "easy",
       "stem": "You find a person in the water at sea who seems in danger of being lost, with no distress call made. Does the Act require you to help?",
       "options": [
-        "Yes, but only if the person is a Canadian citizen",
-        "No, only a received distress signal creates a duty",
-        "Yes, the master must render assistance to every person found at sea and in danger of being lost",
-        "Yes, but only if the vessel is more than 15 gross tonnage"
+        "Yes, but only if the person in the water is a Canadian citizen or permanent resident",
+        "No, only a received distress signal creates a duty to give assistance",
+        "Yes, the master must assist every person found at sea in danger of being lost",
+        "Yes, but only if your vessel is more than 15 gross tonnage and certified"
       ],
       "correct_index": 2,
       "explanation": "Section 132 is independent of any signal. Nationality and the size of your vessel do not matter.",
@@ -143,10 +143,10 @@
       "difficulty": "medium",
       "stem": "Two vessels collide in fog. Each master is unhurt and neither vessel is sinking. Which statement about the Act's duties is correct?",
       "options": [
-        "The duties apply only if someone is injured",
-        "The masters must exchange only the vessels' names",
-        "Only the master of the give-way vessel has these duties",
-        "Each master must stand by and give the other the vessel's name and the name and address of its authorized representative"
+        "The duties apply only if someone on either vessel is injured in the collision",
+        "The masters must exchange only the vessels' names, and only if asked to do so",
+        "Only the master of the give-way vessel has these duties, since that vessel caused the collision",
+        "Both must stand by and give the vessel's name and the representative's name and address"
       ],
       "correct_index": 3,
       "explanation": "Section 148 puts both duties on the master or person in charge of each vessel. The assistance duty lasts until the other master has determined no further assistance is needed, and the information duty (name, authorized representative's name and address, other prescribed information) is separate and applies regardless of injuries.",
@@ -165,9 +165,9 @@
       "difficulty": "hard",
       "stem": "After a collision, what limits a master's duty to render assistance to the other vessel?",
       "options": [
-        "The master need only help if the other master asks in writing",
-        "The master need only help if the other vessel is the smaller one",
-        "The master need only act so far as it can be done without endangering the master's own vessel, crew or passengers",
+        "The master need only help if the other master asks for help in writing or by radio",
+        "The master need only help if the other vessel is the smaller of the two",
+        "Only so far as it can be done without endangering the master's own vessel, crew or passengers",
         "There is no limit; the master must stay even if their own vessel is sinking"
       ],
       "correct_index": 2,
