@@ -45,4 +45,21 @@ class MockExamTest {
         val e = exam(20, BlueprintItem("colregs", 10))
         assertTrue(ExamFocus.mockExam(e, questions, emptyList(), Random(2)).size == 6)
     }
+
+    @Test
+    fun fixedDrawUsesExactlyTheListedQuestions() {
+        val e = exam(3, BlueprintItem("colregs", 2), BlueprintItem("tides", 1))
+            .copy(questionIds = listOf("a2", "a5", "b3"))
+        for (seed in 1..5) {
+            val ids = ExamFocus.mockExam(e, questions, emptyList(), Random(seed)).map { it.id }
+            assertEquals(setOf("a2", "a5", "b3"), ids.toSet())
+            assertEquals(3, ids.size)
+        }
+    }
+
+    @Test
+    fun fixedDrawSkipsUnknownIds() {
+        val e = exam(2, BlueprintItem("colregs", 2)).copy(questionIds = listOf("a1", "zz"))
+        assertEquals(listOf("a1"), ExamFocus.mockExam(e, questions, emptyList(), Random(3)).map { it.id })
+    }
 }

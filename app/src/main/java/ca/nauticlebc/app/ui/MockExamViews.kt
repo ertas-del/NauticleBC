@@ -74,7 +74,10 @@ fun MockExamListScreen(bundle: ContentBundle, onOpen: (String) -> Unit, onBack: 
     }
 }
 
-/** One mock exam drawn from the question banks by the exam's blueprint. "Try again" draws a new exam. */
+/**
+ * One mock exam drawn from the question banks by the exam's blueprint. "Try again" draws a new exam; an exam with a
+ * fixed draw keeps the same questions in a new order.
+ */
 @Composable
 fun MockExamScreen(
     examId: String,

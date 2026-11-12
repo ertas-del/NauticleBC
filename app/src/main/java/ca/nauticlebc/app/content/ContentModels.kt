@@ -102,6 +102,8 @@ data class MockExam(
     @SerialName("time_limit_minutes") val timeLimitMinutes: Int,
     @SerialName("pass_mark_percent") val passMarkPercent: Int,
     val blueprint: List<BlueprintItem>,
+    /** Optional fixed draw: when not empty the exam always uses exactly these questions. */
+    @SerialName("question_ids") val questionIds: List<String> = emptyList(),
     val notes: String? = null,
     @SerialName("source_ids") val sourceIds: List<String>,
     @SerialName("review_status") val reviewStatus: String,
