@@ -7,6 +7,8 @@ import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalContext
+import android.content.Context
+import ca.nauticlebc.app.oral.OralCards
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
@@ -28,6 +30,7 @@ import java.time.LocalDate
 /** Navigation routes. Lesson ids are lowercase letters, digits, dots and dashes, so they are safe in a path. */
 object Routes {
     const val HOME = "home"
+    const val TICKETS = "tickets"
     const val ARG_MODULE = "module"
     const val ARG_LESSON = "lessonId"
     const val ARG_TICKET = "ticket"
@@ -67,6 +70,14 @@ fun NauticleApp() {
     val recall = remember { RecallTracker(SharedPreferencesRecallStore(context)) }
     var memories by remember { mutableStateOf(recall.snapshot()) }
     val today = LocalDate.now().toString()
+    val ticketPrefs = remember {
+        context.getSharedPreferences("ticket_choice", Context.MODE_PRIVATE)
+    }
+    var ticketId by remember { mutableStateOf(resolveTicket(ticketPrefs.getString("id", null))) }
+    fun chooseTicket(id: String) {
+        ticketId = id
+        ticketPrefs.edit().putString("id", id).apply()
+    }
     val navController = rememberNavController()
     val recordRecall: (ca.nauticlebc.app.quiz.QuizState) -> Unit = { state ->
         memories = recall.recordQuiz(state, today)
@@ -74,11 +85,28 @@ fun NauticleApp() {
 
     NavHost(navController = navController, startDestination = Routes.HOME) {
         composable(Routes.HOME) {
+            val bundle = bundleResult?.getOrNull()
             HomeScreen(
-                bundle = bundleResult,
                 dueCount = memories.count { it.value.isDue(today) },
-                onOpenDue = { navController.navigate(Routes.DUE) },
-                onOpenTicket = { navController.navigate(Routes.ticket(it)) },
+                ticketId = ticketId,
+                mockEnabled = bundle?.mockExams?.any { it.ticket == ticketId } == true,
+                oralEnabled = ticketId in OralCards.tickets,
+                onStart = { navController.navigate(Routes.DUE) },
+                onOpenMock = { navController.navigate(Routes.mocks(ticketId)) },
+                onOpenChart = { navController.navigate(Routes.CHARTS) },
+                onOpenOral = { navController.navigate(Routes.oral(ticketId)) },
+                onChangeTicket = { navController.navigate(Routes.TICKETS) },
+            )
+        }
+
+        composable(Routes.TICKETS) {
+            TicketListScreen(
+                bundle = bundleResult,
+                onOpenTicket = {
+                    chooseTicket(it)
+                    navController.navigate(Routes.ticket(it))
+                },
+                onBack = { navController.popBackStack() },
             )
         }
 

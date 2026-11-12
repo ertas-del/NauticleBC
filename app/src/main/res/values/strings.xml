@@ -265,4 +265,13 @@
     <string name="chart_grade_fail">%1$s: outside tolerance. You measured %2$s. The figure is %3$s, within %4$s.</string>
     <string name="chart_grade_need_points">%1$s: plot %2$d point(s) first.</string>
     <string name="chart_not_a_plot">%1$s is a calculation. Use Show answer to check that figure.</string>
+    <string name="today_title">Today</string>
+    <string name="today_to_go_over">to go over</string>
+    <string name="today_nothing">Nothing to go over</string>
+    <string name="today_start">Start</string>
+    <string name="today_mock">Closed-book mock</string>
+    <string name="today_chart">Plot a chart</string>
+    <string name="today_oral">Oral cards</string>
+    <string name="today_oral_unavailable">Not on this ticket</string>
+    <string name="tickets_title">Tickets</string>
 </resources>

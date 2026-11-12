@@ -9,15 +9,21 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.height
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.semantics.heading
+import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
 import ca.nauticlebc.app.content.ContentBundle
@@ -64,17 +70,98 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     else -> null
 }
 
+/** Keeps a saved ticket only when it is one this app knows. */
+fun resolveTicket(saved: String?): String =
+    if (tickets.any { it.id == saved }) saved!! else tickets.first().id
+
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun HomeScreen(
-    bundle: Result<ContentBundle>?,
     dueCount: Int,
-    onOpenDue: () -> Unit,
-    onOpenTicket: (String) -> Unit,
+    ticketId: String,
+    mockEnabled: Boolean,
+    oralEnabled: Boolean,
+    onStart: () -> Unit,
+    onOpenMock: () -> Unit,
+    onOpenChart: () -> Unit,
+    onOpenOral: () -> Unit,
+    onChangeTicket: () -> Unit,
 ) {
     Scaffold(
-        topBar = { TopAppBar(title = { Text(stringResource(R.string.home_title)) }) },
+        topBar = { TopAppBar(title = { Text(stringResource(R.string.today_title)) }) },
     ) { padding ->
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(padding)
+                .padding(horizontal = 16.dp, vertical = 8.dp),
+            verticalArrangement = Arrangement.spacedBy(12.dp),
+        ) {
+            Card(modifier = Modifier.fillMaxWidth()) {
+                Column(modifier = Modifier.padding(20.dp)) {
+                    Text(
+                        text = dueCount.toString(),
+                        style = MaterialTheme.typography.displayLarge,
+                        modifier = Modifier.semantics { heading() },
+                    )
+                    Text(
+                        text = if (dueCount == 0) stringResource(R.string.today_nothing)
+                        else stringResource(R.string.today_to_go_over),
+                        style = MaterialTheme.typography.titleLarge,
+                    )
+                    Spacer(Modifier.height(12.dp))
+                    Button(
+                        onClick = onStart,
+                        enabled = dueCount > 0,
+                        modifier = Modifier.fillMaxWidth(),
+                    ) {
+                        Text(stringResource(R.string.today_start))
+                    }
+                }
+            }
+            TodayRow(stringResource(R.string.today_mock), mockEnabled, onOpenMock)
+            TodayRow(stringResource(R.string.today_chart), true, onOpenChart)
+            TodayRow(
+                title = stringResource(R.string.today_oral),
+                enabled = oralEnabled,
+                onClick = onOpenOral,
+                note = if (oralEnabled) null else stringResource(R.string.today_oral_unavailable),
+            )
+            Spacer(Modifier.weight(1f))
+            val titleRes = ticketTitleRes(ticketId)
+            TextButton(onClick = onChangeTicket, modifier = Modifier.fillMaxWidth()) {
+                Text(
+                    if (titleRes != null) stringResource(titleRes) else ticketId,
+                    style = MaterialTheme.typography.titleMedium,
+                )
+            }
+        }
+    }
+}
+
+@Composable
+private fun TodayRow(title: String, enabled: Boolean, onClick: () -> Unit, note: String? = null) {
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .clickable(enabled = enabled, onClick = onClick),
+    ) {
+        Column(modifier = Modifier.padding(horizontal = 16.dp, vertical = 18.dp)) {
+            Text(title, style = MaterialTheme.typography.titleLarge)
+            if (note != null) {
+                Text(note, style = MaterialTheme.typography.bodyMedium)
+            }
+        }
+    }
+}
+
+@Composable
+fun TicketListScreen(
+    bundle: Result<ContentBundle>?,
+    onOpenTicket: (String) -> Unit,
+    onBack: () -> Unit,
+) {
+    NauticleScaffold(title = stringResource(R.string.tickets_title), onBack = onBack) { padding ->
         LazyColumn(
             modifier = Modifier
                 .fillMaxSize()
@@ -82,30 +169,6 @@ fun HomeScreen(
                 .padding(horizontal = 16.dp),
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
-            item {
-                Text(
-                    text = stringResource(R.string.home_subtitle),
-                    style = MaterialTheme.typography.bodyLarge,
-                )
-            }
-
-            item {
-                Card(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .clickable(enabled = dueCount > 0, onClick = onOpenDue),
-                ) {
-                    Column(modifier = Modifier.padding(16.dp)) {
-                        Text(stringResource(R.string.due_card_title), style = MaterialTheme.typography.titleMedium)
-                        Text(
-                            if (dueCount == 0) stringResource(R.string.due_card_clear)
-                            else stringResource(R.string.due_card_count, dueCount),
-                            style = MaterialTheme.typography.bodyMedium,
-                        )
-                    }
-                }
-            }
-
             items(tickets) { ticket ->
                 val count = bundle?.getOrNull()?.lessons?.count { ticket.id in it.tickets }
                 Card(
@@ -129,17 +192,6 @@ fun HomeScreen(
                     }
                 }
             }
-
-            item {
-                val status = bundle?.fold(
-                    onSuccess = { stringResource(R.string.content_status_loaded, it.lessons.size, it.questions.size) },
-                    onFailure = { stringResource(R.string.content_status_error) },
-                )
-                if (status != null) {
-                    Text(status, style = MaterialTheme.typography.labelMedium)
-                }
-            }
-
             item {
                 Text(
                     text = stringResource(R.string.study_aid_notice),
