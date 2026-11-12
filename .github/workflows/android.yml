@@ -29,15 +29,12 @@ jobs:
           cache: pip
           cache-dependency-path: tools/requirements.txt
       - run: pip install -r tools/requirements.txt
-      # No Gradle wrapper is committed yet (it could not be generated offline). Add one later with
-      # `gradle wrapper --gradle-version 8.10.2`, then switch this job to ./gradlew.
+      # Gradle comes from the committed wrapper (gradle/wrapper/gradle-wrapper.properties, 8.10.2).
       - uses: gradle/actions/setup-gradle@v4
-        with:
-          gradle-version: "8.10.2"
       - name: Unit tests
-        run: gradle :app:testDebugUnitTest --stacktrace
+        run: ./gradlew :app:testDebugUnitTest --stacktrace
       - name: Build debug APK
-        run: gradle :app:assembleDebug --stacktrace
+        run: ./gradlew :app:assembleDebug --stacktrace
       - uses: actions/upload-artifact@v4
         with:
           name: app-debug
