@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "In an engine room fire you should shut off:",
       "options": [
-        "The anchor",
-        "Radio",
+        "The bilge and deck wash pumps",
+        "Radio and navigation lights",
         "Fuel and ventilation",
-        "Lights"
+        "Fire pump and hydrants"
       ],
       "correct_index": 2,
       "explanation": "Close doors and hatches.",
@@ -54,10 +54,10 @@
       "difficulty": "hard",
       "stem": "If the other vessel's bow plugs a hole in your hull after collision you should:",
       "options": [
-        "Abandon ship",
-        "Pull away at once",
+        "Abandon ship straight away",
+        "Pull away at once to look at the damage",
         "Keep it there until you can assess",
-        "Add speed"
+        "Go ahead on your engine to free her"
       ],
       "correct_index": 2,
       "explanation": "It may be keeping you afloat.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "After a grounding you should first:",
       "options": [
-        "Ignore it",
+        "Go full astern to get off at once",
         "Check people and damage and sound the bilges",
-        "Fill the tanks",
-        "Go full astern"
+        "Pump out the tanks to lighten her",
+        "Call the owner before doing anything"
       ],
       "correct_index": 1,
       "explanation": "Also check the tide.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "When you abandon the vessel you should if possible:",
       "options": [
-        "Remove lifejackets",
+        "Take off your lifejacket so you can swim",
         "Board the liferaft dry and stay with it",
-        "Scatter",
-        "Swim to shore"
+        "Swim for shore if you can see the land",
+        "Split up so rescuers find someone sooner"
       ],
       "correct_index": 1,
       "explanation": "Stay together.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "A master who hears a Mayday must:",
       "options": [
-        "Switch off the radio",
+        "Wait for the Coast Guard to call",
         "Render assistance so far as it is safe",
-        "Ignore it",
-        "Call a friend"
+        "Help only if the casualty is nearby",
+        "Pass the call on and keep fishing"
       ],
       "correct_index": 1,
       "explanation": "The duty to assist.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Under the Canada Shipping Act, the master is responsible for:",
       "options": [
-        "Only the engine",
-        "Only the paperwork",
+        "Navigation only, while the owner looks after safety",
+        "The paperwork and the crew list, and nothing else",
         "Safety of life, the vessel and the environment",
-        "Only the catch"
+        "The catch and the fishing licence conditions"
       ],
       "correct_index": 2,
       "explanation": "Plus compliance and reporting.",

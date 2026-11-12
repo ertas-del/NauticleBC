@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Before heavy weather you should:",
       "options": [
-        "Open the hatches",
-        "Raise the booms",
+        "Open the hatches to air the hold",
+        "Top the booms up high to keep them dry",
         "Close hatches and doors and secure weights",
-        "Add deck cargo"
+        "Load extra gear on deck to steady her"
       ],
       "correct_index": 2,
       "explanation": "Also check freeing ports.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Freeing ports before heavy weather should be:",
       "options": [
-        "Ignored",
+        "Closed off so no water comes aboard",
         "Checked clear and working",
-        "Blocked",
-        "Locked shut"
+        "Blocked with gear to stop slamming",
+        "Locked shut for the passage"
       ],
       "correct_index": 1,
       "explanation": "They clear water from the deck.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "If the engine fails in heavy seas you should:",
       "options": [
-        "Use an anchor or sea anchor, call for help and prepare survival gear",
-        "Do nothing",
-        "Leave the vessel",
-        "Remove the lifejackets"
+        "Use an anchor or sea anchor, call for help, ready survival gear",
+        "Wait for the weather to ease before calling anyone",
+        "Abandon the vessel into the raft straight away",
+        "Let her lie beam-on to the sea and drift"
       ],
       "correct_index": 0,
       "explanation": "Keep the bow to the sea.",
@@ -77,9 +77,9 @@
       "stem": "In following seas you should:",
       "options": [
         "Keep enough speed to steer and avoid broaching",
-        "Speed up wildly",
-        "Stop",
-        "Beam-on to the sea"
+        "Speed up as much as possible to outrun the waves",
+        "Stop the engine and let the seas pass under you",
+        "Turn beam-on to the sea to reduce the pitching"
       ],
       "correct_index": 0,
       "explanation": "Avoid being overtaken.",
@@ -99,9 +99,9 @@
       "stem": "Ice accretion should be:",
       "options": [
         "Removed early",
-        "Ignored",
+        "Left until port",
         "Painted over",
-        "Left to grow"
+        "Left to build up"
       ],
       "correct_index": 0,
       "explanation": "Start with high ice.",
@@ -121,9 +121,9 @@
       "stem": "To prevent icing you should:",
       "options": [
         "Avoid freezing spray areas and reduce speed",
-        "Speed up",
-        "Open the hatches",
-        "Add deck gear"
+        "Speed up to get through the cold area fast",
+        "Head into the seas so the spray hits forward",
+        "Carry extra deck gear to break up the spray"
       ],
       "correct_index": 0,
       "explanation": "Less spray means less ice.",
@@ -142,9 +142,9 @@
       "difficulty": "easy",
       "stem": "Water in a compartment is best detected by:",
       "options": [
-        "Waiting",
-        "Guessing",
-        "Ignoring",
+        "Looking in once a day",
+        "Waiting for a list to show",
+        "Checking the fuel gauge",
         "Alarms and regular checks"
       ],
       "correct_index": 3,

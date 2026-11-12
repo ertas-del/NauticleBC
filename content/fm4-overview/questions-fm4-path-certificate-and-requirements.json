@@ -13,7 +13,7 @@
         "100 gross tonnage",
         "15 gross tonnage",
         "60 gross tonnage",
-        "Any size"
+        "150 gross tonnage"
       ],
       "correct_index": 0,
       "explanation": "On near coastal or sheltered waters voyages.",
@@ -33,9 +33,9 @@
       "stem": "The voyages covered are:",
       "options": [
         "Near coastal and sheltered waters",
-        "Only rivers",
-        "Only offshore",
-        "Unlimited"
+        "Sheltered waters only",
+        "Inland waters only",
+        "Unlimited and near coastal"
       ],
       "correct_index": 0,
       "explanation": "Check the certificate's validity.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "The required sea service is at least:",
       "options": [
-        "24 months",
-        "1 month",
-        "2 months",
-        "12 months of deck duties on fishing vessels of 6 m or more"
+        "24 months of deck duties on fishing vessels of any size",
+        "2 months as a deckhand on any fishing vessel",
+        "6 months on any vessel over 15 GT",
+        "12 months of deck duty on fishing vessels 6 m or over"
       ],
       "correct_index": 3,
       "explanation": "Up to 6 months may come from approved training.",
@@ -98,9 +98,9 @@
       "difficulty": "easy",
       "stem": "Which is one of the four exams?",
       "options": [
-        "Engineering knowledge",
-        "Ship management",
-        "Celestial navigation",
+        "General Engineering Knowledge level 1",
+        "Ship Management and Business level 1",
+        "Celestial Navigation and Compasses",
         "Ship Construction and Stability level 1"
       ],
       "correct_index": 3,
@@ -121,9 +121,9 @@
       "stem": "The oral exam is taken:",
       "options": [
         "After meeting the other requirements",
-        "Before sea service",
+        "Before any sea service is counted",
         "Instead of the written exams",
-        "First"
+        "Before the written exams, to qualify"
       ],
       "correct_index": 0,
       "explanation": "The regulations place it last.",
@@ -142,10 +142,10 @@
       "difficulty": "hard",
       "stem": "An officer in charge of the watch on a fishing vessel under this certificate may be on a vessel of:",
       "options": [
-        "Up to 5 GT only",
-        "Any tonnage on near coastal or sheltered voyages",
-        "Up to 60 GT only",
-        "Up to 15 GT only"
+        "Up to 5 GT only, on sheltered waters",
+        "Any tonnage, near coastal or sheltered voyages",
+        "Up to 60 GT only, on any voyage",
+        "Up to 15 GT only, near coastal voyages"
       ],
       "correct_index": 1,
       "explanation": "The OOW allowance is wider than the master's.",

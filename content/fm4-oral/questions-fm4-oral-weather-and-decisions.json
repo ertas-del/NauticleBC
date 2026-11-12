@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Marine weather warnings are transmitted on:",
       "options": [
-        "None",
-        "Only newspapers",
+        "Newspaper and TV reports only",
+        "The harbour notice board only",
         "VHF weather channels and Coast Guard broadcasts",
-        "Only email"
+        "Email from the fleet office only"
       ],
       "correct_index": 2,
       "explanation": "Listen regularly.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "Before a trip you should check the forecast for:",
       "options": [
-        "Nothing",
-        "Only the first hour",
+        "The first hour after leaving",
+        "Tomorrow morning only",
         "The whole trip and the return",
-        "Only tomorrow"
+        "The fishing grounds only"
       ],
       "correct_index": 2,
       "explanation": "Weather can change.",
@@ -76,9 +76,9 @@
       "difficulty": "medium",
       "stem": "Interrupting fishing and heading for shelter should happen:",
       "options": [
-        "Never",
-        "After the storm",
-        "When the sea is rough",
+        "Once the catch is aboard",
+        "After the worst has passed",
+        "When the sea is already rough",
         "Early, while it is still safe"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "A good voyage plan includes:",
       "options": [
-        "Nothing",
+        "Only the radio channels to use",
         "Shelter options, tides and loading",
-        "Only the radio",
-        "Only fuel"
+        "Only the fuel needed for the trip",
+        "Only the fishing grounds and times"
       ],
       "correct_index": 1,
       "explanation": "And tell someone ashore.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "The most useful information in deciding to continue is:",
       "options": [
-        "The day of the week",
-        "A guess",
-        "The forecast alone",
+        "What other boats in the fleet are doing",
+        "How much of the catch is still to come",
+        "The forecast alone, as it is official",
         "Actual weather and the forecast together"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Wind against tide leads to:",
       "options": [
-        "Smaller waves",
-        "Slack water",
+        "Smaller, longer waves",
+        "Slack water sooner",
         "Steep dangerous seas",
-        "Calm water"
+        "Calmer water"
       ],
       "correct_index": 2,
       "explanation": "Check the tide tables.",
