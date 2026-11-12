@@ -11,10 +11,10 @@
       "difficulty": "easy",
       "stem": "What is an outflow wind in a BC inlet?",
       "options": [
-        "Air flowing out of the mountains down the inlet toward the water",
-        "Air flowing from the water into the inlet",
-        "A wind blowing from the south only",
-        "A wind caused by fog"
+        "Air flowing out of the mountains down the inlet to the water",
+        "Air flowing from the open water up into the inlet",
+        "A wind that blows from the south only, along the outer coast",
+        "A wind caused by fog draining off the land at night"
       ],
       "correct_index": 0,
       "explanation": "An inflow is air from the water into inlets; an outflow is air from the mountains toward the water.",
@@ -34,9 +34,9 @@
       "difficulty": "medium",
       "stem": "Which outflow is typically very strong?",
       "options": [
-        "Summer inflow",
-        "Spring land breeze only",
-        "Fog-driven wind",
+        "Summer afternoon inflow",
+        "Spring land breeze at dawn",
+        "Fog-driven drainage wind",
         "Winter outflow from cold interior air"
       ],
       "correct_index": 3,
@@ -57,10 +57,10 @@
       "difficulty": "medium",
       "stem": "Outflows can make strong wind and rough water where?",
       "options": [
-        "Only far offshore",
-        "At the head of every bay",
-        "At the inlet mouth, while nearby coastal water stays calm",
-        "Nowhere"
+        "Only far offshore, beyond the islands",
+        "At the head of every bay along the coast",
+        "At the inlet mouth, while nearby water stays calm",
+        "Only in the inner part of the inlet itself, near its head"
       ],
       "correct_index": 2,
       "explanation": "UBC notes outflows can create strong winds and rough seas at the mouth while nearby coastal waters remain calm.",
@@ -80,10 +80,10 @@
       "difficulty": "hard",
       "stem": "In Howe Sound in summer, the Squamish wind outflow occurs overnight and early morning. What happens around noon?",
       "options": [
-        "It becomes a gale",
+        "It builds into a gale",
         "It switches to an afternoon inflow",
-        "It stops forever",
-        "It reverses to a land breeze"
+        "It dies away until the next night",
+        "It turns into a southeast land breeze"
       ],
       "correct_index": 1,
       "explanation": "The switch from morning outflow to afternoon inflow is described by UBC.",
@@ -103,10 +103,10 @@
       "difficulty": "hard",
       "stem": "The Qualicum wind outflow into the Strait of Georgia runs about:",
       "options": [
-        "16 to 20 knots, against 2 to 8 knots elsewhere in the strait",
-        "2 to 8 knots everywhere",
-        "40 to 50 knots",
-        "1 to 3 knots"
+        "16 to 20 knots, against 2 to 8 knots elsewhere",
+        "2 to 8 knots, the same as the rest of the strait",
+        "40 to 50 knots, gale force at the mouth",
+        "1 to 3 knots, lighter than the rest of the strait"
       ],
       "correct_index": 0,
       "explanation": "UBC gives those figures.",
@@ -126,10 +126,10 @@
       "difficulty": "medium",
       "stem": "Which conditions make a sea breeze?",
       "options": [
-        "A deep low and a gale",
+        "A deep low and a gale over the coast",
         "Cold land and warm water in winter",
-        "Heavy fog",
-        "Sun-heated land at least about 5 C warmer than the water, high pressure and weak regional wind"
+        "Heavy fog lying over the water",
+        "Sunny land well warmer than the water, high pressure, light wind"
       ],
       "correct_index": 3,
       "explanation": "A sea breeze is strongest from midday to mid-afternoon.",
@@ -150,10 +150,10 @@
       "difficulty": "medium",
       "stem": "What forms advection (sea) fog?",
       "options": [
-        "Cold air over warm water",
-        "Rain evaporating on land at night",
-        "Warm humid air moving over cooler water and cooling past its dew point",
-        "Smoke from fires"
+        "Cold air moving over warmer water",
+        "Rain evaporating on the land at night",
+        "Warm moist air cooled below its dew point over cooler water",
+        "Smoke from forest fires mixing with damp air"
       ],
       "correct_index": 2,
       "explanation": "Cold air over warm water makes sea smoke, which is short-lived and not a navigation hazard.",
@@ -173,10 +173,10 @@
       "difficulty": "hard",
       "stem": "Which pair of statements about fog is correct?",
       "options": [
-        "Radiation fog forms at sea at noon; sea smoke is the main hazard",
-        "Radiation fog forms over land at night and can drain onto the water; sea smoke is not a navigation hazard",
-        "Frontal fog is the same as sea smoke",
-        "Advection fog forms only in winter"
+        "Radiation fog forms at sea around noon; sea smoke is the main hazard",
+        "Radiation fog forms over land at night; sea smoke is not a hazard",
+        "Frontal fog is the same thing as sea smoke",
+        "Advection fog forms only in the winter months"
       ],
       "correct_index": 1,
       "explanation": "Advection fog is the main sea fog and can occur at any time of year.",
@@ -196,10 +196,10 @@
       "difficulty": "medium",
       "stem": "What helps fog clear?",
       "options": [
-        "Daytime warming or stronger wind that mixes it with drier air",
-        "Falling pressure",
-        "Lower temperature",
-        "Calm wind"
+        "Daytime warming, or wind mixing in drier air",
+        "Falling pressure as a low approaches the coast",
+        "A drop in temperature overnight",
+        "Calm wind and clear skies at night"
       ],
       "correct_index": 0,
       "explanation": "UBC lists sunlight warming the air and stronger wind mixing in drier air.",
@@ -219,10 +219,10 @@
       "difficulty": "medium",
       "stem": "Swell is best described as:",
       "options": [
-        "waves made by the local wind",
-        "waves made only by tidal races",
-        "waves caused by fog",
-        "waves made by distant storms that travel long distances"
+        "waves made by the wind blowing locally",
+        "waves made only by tidal races in passes",
+        "waves caused by fog banks moving offshore",
+        "waves from distant storms that travel far"
       ],
       "correct_index": 3,
       "explanation": "Local wind on swell makes a confused sea; a longer period means more energy.",
@@ -243,10 +243,10 @@
       "difficulty": "hard",
       "stem": "Why does wind against a tidal current give worse seas?",
       "options": [
-        "It lowers the waves",
-        "It calms the surface",
-        "The moving water shortens and steepens the wind waves into choppy confused seas",
-        "It raises the water temperature"
+        "It lowers the waves and smooths the sea",
+        "It calms the surface over the pass",
+        "The current shortens and steepens the waves into a chop",
+        "It raises the water temperature in the pass and so the waves"
       ],
       "correct_index": 2,
       "explanation": "The seas feel worse than the wind alone suggests.",
@@ -267,10 +267,10 @@
       "difficulty": "hard",
       "stem": "A tide turns in a pass and the wind stays the same. What can happen?",
       "options": [
-        "Nothing changes",
+        "Nothing changes until the wind itself changes",
         "Waves can build quickly with no change in wind",
-        "Seas always flatten",
-        "The wind drops to calm"
+        "The seas always flatten at the turn",
+        "The wind drops to calm at the turn"
       ],
       "correct_index": 1,
       "explanation": "A turning tide can build a flat windy channel into rolling waves.",
@@ -293,8 +293,8 @@
       "options": [
         "Flows can reach up to 17.6 knots",
         "Flows never exceed 2 knots",
-        "They are always safe",
-        "They are in Haro Strait"
+        "They are safe at any stage of tide",
+        "They are in Haro Strait, near Victoria"
       ],
       "correct_index": 0,
       "explanation": "UBC gives up to 17.6 knots; some passes are navigable at slack but not at peak flow.",

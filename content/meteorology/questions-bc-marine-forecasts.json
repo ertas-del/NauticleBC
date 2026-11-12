@@ -58,9 +58,9 @@
       "stem": "What does the extended forecast give?",
       "options": [
         "Wind, waves and fog for days 1 to 2",
-        "Wave height only",
+        "Wave height only, for days 3 to 5",
         "Wind only, for days 3 to 5",
-        "Tides"
+        "Tides and currents for the week"
       ],
       "correct_index": 2,
       "explanation": "The regular forecast covers days 1 and 2; the extended gives wind for days 3 to 5.",
@@ -81,10 +81,10 @@
       "difficulty": "medium",
       "stem": "What is the correct order of items in a regular forecast?",
       "options": [
-        "Wind, warnings, area name, fog",
-        "Title block, fog statement, area name, warnings, then wind, weather and visibility, freezing spray, air temperature",
-        "Air temperature, wind, warnings, title",
-        "Warnings, wind, then area name"
+        "Wind, warnings, area name, fog, then temperature",
+        "Title, fog, area, warnings, then wind, weather, spray and temperature",
+        "Air temperature, wind, warnings, title, then the area name",
+        "Warnings, wind, area name, then the fog statement and visibility"
       ],
       "correct_index": 1,
       "explanation": "That is the guide's order, each element only when it applies.",
@@ -150,10 +150,10 @@
       "difficulty": "hard",
       "stem": "In a forecast, wind is stated once as 'northwest 15 knots' and no later line changes it. What does that mean?",
       "options": [
-        "It will drop to calm",
-        "It will double",
+        "It will drop to calm later",
+        "It will double later in the day",
         "It is expected to persist through the rest of the period",
-        "The forecast is incomplete"
+        "The forecast is incomplete for that period and should be ignored"
       ],
       "correct_index": 2,
       "explanation": "Unchanged elements are not repeated.",
@@ -173,10 +173,10 @@
       "difficulty": "medium",
       "stem": "What does a wave height forecast give for 'significant wave height'?",
       "options": [
-        "The largest wave",
-        "The average of the highest one-third of waves, in metres; the maximum may be up to twice",
-        "The swell only",
-        "The average of all waves in feet"
+        "The height of the largest single wave",
+        "The mean of the highest third of waves, in metres",
+        "The height of the swell only, in metres, from distant storms",
+        "The average of all the waves, in feet"
       ],
       "correct_index": 1,
       "explanation": "ECCC defines it this way; seas are in metres.",
@@ -197,10 +197,10 @@
       "difficulty": "medium",
       "stem": "On the BC coast the Coast Guard continuous marine broadcast is on:",
       "options": [
-        "Channel 21B, looping through all areas and updated at the four forecast times",
-        "Channel 16 only",
-        "Channel 70",
-        "518 kHz"
+        "Channel 21B, looping through all areas",
+        "Channel 16 only, after a call",
+        "Channel 70, as a DSC message",
+        "518 kHz, on NAVTEX only"
       ],
       "correct_index": 0,
       "explanation": "RAMN Part 2 shows Channel 21B; UBC describes the loop and the update times.",
@@ -224,7 +224,7 @@
       "options": [
         "Race Rocks and Sandheads",
         "Mount Parke and Cape Lazo",
-        "Texada Island and Port Hardy",
+        "Texada Island and Port Hardy light stations",
         "Amphitrite Point and Digby Island"
       ],
       "correct_index": 3,
@@ -245,10 +245,10 @@
       "difficulty": "hard",
       "stem": "Which of these is a 'significant change' in wind in the guide?",
       "options": [
-        "A change of 1 knot",
-        "A change of 3 knots",
+        "A change of 1 knot or more",
+        "A change of 3 knots or more in speed",
         "A change of 10 knots or more",
-        "Any change at all"
+        "Any change in wind at all"
       ],
       "correct_index": 2,
       "explanation": "Also a direction change of more than 45 degrees (when the compared speed exceeds 10 knots) or a change in warning category.",
@@ -268,10 +268,10 @@
       "difficulty": "medium",
       "stem": "In the invented forecast 'Wind southeast 25 to 35 knots becoming northwest 15 to 25 late this evening', when does the shift occur?",
       "options": [
-        "Early morning",
-        "After 9:00 p.m. (late evening is 9:00 to 11:59 p.m.)",
-        "Around noon",
-        "At 5:00 p.m."
+        "Early in the morning",
+        "After 9:00 p.m. (late evening)",
+        "Around noon today",
+        "At 5:00 p.m. this afternoon"
       ],
       "correct_index": 1,
       "explanation": "Late evening is 9:00 to 11:59 p.m., so the shift is expected then.",

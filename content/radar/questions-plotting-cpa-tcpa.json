@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "What does Rule 7(c) of the Collision Regulations say about assumptions?",
       "options": [
-        "Assumptions shall not be made on the basis of scanty information, especially scanty radar information",
-        "Assumptions may be made if the radar shows a target for more than one minute",
-        "Assumptions about other vessels are allowed if the bearing is changing",
+        "Do not assume anything on scanty information, especially radar",
+        "Assumptions may be made once a target has shown for a full minute",
+        "Assumptions are allowed if the bearing is changing",
         "Assumptions are to be recorded in the log before acting"
       ],
       "correct_index": 0,
@@ -33,9 +33,9 @@
       "stem": "In a six-minute radar plot, what are R, M and the DRM line?",
       "options": [
         "R is own ship, M is the target and DRM is the course made good",
-        "R is range, M is bearing and DRM is the direction of the wind",
-        "R is the radar horizon, M is the maximum range and DRM is the drift",
-        "R is the first plotted position, M is the position six minutes later, and the DRM line is the line through them extended past own ship"
+        "R is range, M is bearing and DRM is the direction of the wind at the time",
+        "R is the radar horizon, M is maximum range, DRM is the drift",
+        "R and M are the target's plotted positions; DRM runs through them"
       ],
       "correct_index": 3,
       "explanation": "R and M are the two plotted positions of the target six minutes apart. The line through them is the direction of relative motion line (DRM), the path the target appears to follow relative to your ship.",
@@ -53,9 +53,9 @@
       "difficulty": "medium",
       "stem": "How is the closest point of approach (CPA) read from a relative plot?",
       "options": [
-        "As the distance from R to M",
+        "As the distance from R to M on the plot",
         "As the range at the second sighting",
-        "As the shortest distance from own ship at the centre to the DRM line",
+        "As the shortest distance from the centre to the DRM line",
         "As the bearing of the target at the first sighting"
       ],
       "correct_index": 2,
@@ -74,10 +74,10 @@
       "difficulty": "medium",
       "stem": "On a relative plot the DRM line passes exactly through the centre. What does that mean?",
       "options": [
-        "The target is stationary",
-        "The CPA is zero and a collision will occur if neither vessel changes course or speed",
+        "The target is stationary, like a buoy",
+        "The CPA is zero: collision unless someone acts",
         "The target will pass at the radar's minimum range",
-        "The plot must be repeated because the radar is defective"
+        "The plot must be repeated because the radar is faulty"
       ],
       "correct_index": 1,
       "explanation": "A line through the centre means the target is heading for your position, a collision course. A stationary object plots a line parallel to your course instead.",
@@ -137,9 +137,9 @@
       "difficulty": "hard",
       "stem": "Over six minutes a target's bearing changes from 045° to 043° relative while the range falls from 6.0 nm to 4.8 nm. What is the best conclusion?",
       "options": [
-        "The 2° change shows it will pass clear, so no action is needed",
-        "A bearing change under 5° cannot be measured, so the target should be ignored",
-        "It is closing with an almost steady bearing, so risk of collision should be treated as existing and the plot continued",
+        "The 2° change shows that it will pass clear, so no action is needed",
+        "A change under 5° cannot be measured, so ignore the target",
+        "The bearing is nearly steady and closing, so treat it as a risk",
         "Only a change of range matters, and bearing is irrelevant"
       ],
       "correct_index": 2,
@@ -159,9 +159,9 @@
       "difficulty": "medium",
       "stem": "A plot gives a good CPA, but the target then alters course. What is the effect on the plot?",
       "options": [
-        "The plot remains valid because radar compensates automatically",
-        "The plot is no longer valid, because it assumes both vessels hold course and speed",
-        "Only the TCPA changes, not the CPA",
+        "The plot remains valid because the radar compensates automatically",
+        "The plot is no longer valid, as it assumes steady course and speed",
+        "Only the TCPA changes, while the CPA stays the same",
         "The plot becomes more accurate with each alteration"
       ],
       "correct_index": 1,
@@ -180,10 +180,10 @@
       "difficulty": "easy",
       "stem": "A buoy is plotted over six minutes while your ship steams steadily ahead. How does its DRM line compare with your own course?",
       "options": [
-        "It runs parallel to your course, in the opposite direction, because only your ship is moving",
-        "It runs through the centre of the plot",
-        "It is perpendicular to your course",
-        "It does not move at all"
+        "Parallel to your course, in the opposite direction",
+        "Through the centre of the plot, as on a collision course",
+        "Perpendicular to your course, across the screen",
+        "It does not move on the plot at all"
       ],
       "correct_index": 0,
       "explanation": "A fixed object appears to move relative to you at your own speed, along a line parallel to your course and back down the screen. That is how a plot reveals a stationary target.",
@@ -202,9 +202,9 @@
       "stem": "At the first sighting an echo is at 8.0 nm and at the second, six minutes later, 6.8 nm, bearing steady. The mate says the target is probably passing clear. Which reply is best?",
       "options": [
         "Agreed, because the target is still more than 6 miles away",
-        "Agreed, because a steady bearing means the target is keeping its distance",
+        "Agreed, because a steady bearing means the target keeps its distance from you",
         "No view is possible until the target is within 2 nm",
-        "The range fell 1.2 nm in six minutes, relative speed is 12 knots, the bearing is steady, and CPA is near zero with about 34 minutes to go"
+        "No: steady bearing and falling range, CPA near zero in about 34 minutes"
       ],
       "correct_index": 3,
       "explanation": "A steady bearing with a falling range is a collision course. The range fell 1.2 nm in 6 minutes, a relative speed of 12 knots, so TCPA is 6.8 ÷ 12 = 0.57 hours, about 34 minutes. The steady bearing is the warning, not the remaining distance.",

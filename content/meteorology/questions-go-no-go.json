@@ -11,10 +11,10 @@
       "difficulty": "medium",
       "stem": "SVR s. 404 says no person shall operate a passenger-carrying vessel of the Part 4 class:",
       "options": [
-        "under circumstances that exceed its design limitations, if any",
-        "in winter",
-        "without a forecast",
-        "in fog"
+        "in circumstances beyond its design limitations",
+        "in winter without a special operating permit",
+        "without a written forecast on board",
+        "in fog without a radar reflector"
       ],
       "correct_index": 0,
       "explanation": "It also says the vessel shall be designed and equipped to operate safely in its area of operation.",
@@ -57,10 +57,10 @@
       "difficulty": "hard",
       "stem": "Who must provide a document setting out a vessel's design limitations to the end user?",
       "options": [
-        "The master",
-        "The weather office",
+        "The master of the vessel",
+        "The weather office for the area",
         "The builder, manufacturer, rebuilder or importer",
-        "The Coast Guard"
+        "The Coast Guard marine safety office"
       ],
       "correct_index": 2,
       "explanation": "SVR s. 717(4); the limits include capacity, power and environmental limitations.",
@@ -80,10 +80,10 @@
       "difficulty": "medium",
       "stem": "There is no weather warning in effect. A 9 m passenger boat has a design limit of 1.5 m seas, and the forecast is 2 m seas by afternoon. What is the right conclusion?",
       "options": [
-        "Go anyway, since there is no warning",
-        "Going in the afternoon would exceed the limit, so go early and finish before the sea builds, or do not go",
-        "Go and ignore the limit",
-        "Wait for a gale warning first"
+        "Go anyway, since there is no warning in effect",
+        "The afternoon exceeds the limit: finish early or do not go",
+        "Go, but stay close to shore so the limit does not apply",
+        "Wait for a gale warning before deciding"
       ],
       "correct_index": 1,
       "explanation": "The vessel's limit applies whether or not there is a warning.",
@@ -104,9 +104,9 @@
       "stem": "A master meets force 10 with no storm warning received. Under CSA 2001 s. 112 the master must:",
       "options": [
         "warn nearby vessels and the authorities ashore",
-        "do nothing",
-        "only note it in the log",
-        "only call the owner"
+        "do nothing, as no warning was issued",
+        "only note it in the official log book later",
+        "only call the owner by phone"
       ],
       "correct_index": 0,
       "explanation": "Section 112.",
@@ -126,10 +126,10 @@
       "difficulty": "medium",
       "stem": "Why plan to arrive at a pass at slack water when strong wind is forecast against the flow?",
       "options": [
-        "Slack water increases the current",
-        "Wind and current never interact",
-        "It saves fuel only",
-        "Wind against current steepens the sea, so slack water reduces the risk"
+        "Slack water increases the current through the pass",
+        "Wind and current never interact in a pass",
+        "It saves fuel, but it makes no difference to the sea state",
+        "Wind against current steepens the sea; slack lowers the risk"
       ],
       "correct_index": 3,
       "explanation": "Seas steepen where wind opposes current; passes can be navigable at slack but not at peak flow.",
@@ -151,10 +151,10 @@
       "difficulty": "medium",
       "stem": "At what local times should the latest forecast be checked for a day plan?",
       "options": [
-        "Only at midnight",
-        "Only at noon",
+        "Only at midnight, the night before",
+        "Only at noon on the day",
         "At the issue times 04:00, 10:30, 16:00 and 21:30",
-        "Never, once a day is enough"
+        "Never; once a day is enough"
       ],
       "correct_index": 2,
       "explanation": "Check before departure and before any exposed leg.",
@@ -175,10 +175,10 @@
       "difficulty": "hard",
       "stem": "Which sequence is the best order for a weather go/no-go?",
       "options": [
-        "Fuel price, colour of hull, warnings",
-        "Warnings, forecast winds by time, fetch and sea, tide and current, local effects, vessel limits, shelter, time and light, communications, trigger to turn back",
-        "Crew preference, then forecast, then luck",
-        "Vessel colour, wind, tide"
+        "Fuel price, hull colour, then warnings",
+        "Warnings, winds, sea, tide, local effects, limits, shelter, light, comms, turn-back",
+        "Crew preference, then the forecast, then luck",
+        "Vessel colour, wind, then the tide"
       ],
       "correct_index": 1,
       "explanation": "The checklist in the lesson is a teaching tool, not an official procedure.",
@@ -198,10 +198,10 @@
       "difficulty": "hard",
       "stem": "A forecast says 'wind light' for the area but the route passes an inlet mouth on a summer morning. What should you consider?",
       "options": [
-        "An outflow could give strong wind at the mouth despite a light regional forecast",
-        "Nothing, light means light",
-        "A tsunami",
-        "That the tide will be higher"
+        "An outflow could give strong wind at the mouth",
+        "Nothing, because light means light everywhere",
+        "A tsunami warning for the inlet",
+        "That the tide will be higher than usual"
       ],
       "correct_index": 0,
       "explanation": "Outflow and inflow winds in inlets can exceed the regional forecast.",

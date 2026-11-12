@@ -11,9 +11,9 @@
       "stem": "Which of these receiver types is listed in Schedule 1 to the Navigation Safety Regulations, 2020 alongside GPS and GLONASS?",
       "options": [
         "Galileo and BeiDou receivers",
-        "Loran-C receivers",
+        "Loran-C and Omega hyperbolic receivers",
         "Decca Navigator receivers",
-        "Omega receivers"
+        "Transit (NNSS) receivers"
       ],
       "correct_index": 0,
       "explanation": "The schedule lists GPS, GLONASS, DGPS/DGLONASS beacon, combined GPS/GLONASS, BeiDou, Galileo and multi-system radionavigation receivers. The older hyperbolic systems are not on the list.",
@@ -74,7 +74,7 @@
       "stem": "The GPS commitment of 'a signal-in-space range error of 2.0 m or better, with 95% probability' describes what?",
       "options": [
         "The guaranteed position error of every phone",
-        "The performance of the satellite signals, which is not the same as the error of a receiver on your boat",
+        "The satellite signals only, not the error of your own receiver",
         "The error of a chart plotter after datum correction",
         "The maximum error allowed on a paper chart"
       ],
@@ -95,10 +95,10 @@
       "difficulty": "easy",
       "stem": "Under open sky, a smartphone's GPS is typically accurate to about what?",
       "options": [
-        "A 4.9 m radius, and worse near buildings, bridges and trees",
-        "A 0.1 m radius",
-        "A 50 m radius, whatever the surroundings",
-        "A 500 m radius, which is why phones are not used"
+        "About 4.9 m, and worse near buildings and trees",
+        "About 0.1 m, anywhere on the water",
+        "About 50 m, whatever the surroundings",
+        "About 500 m, which is why phones are not used at sea"
       ],
       "correct_index": 0,
       "explanation": "The GPS.gov figure is about 4.9 m radius under open sky, getting worse near buildings, bridges and trees.",
@@ -117,10 +117,10 @@
       "difficulty": "medium",
       "stem": "Which of these is a typical cause of GNSS position error?",
       "options": [
-        "Magnetic variation",
-        "The state of the tide",
-        "The rudder angle",
-        "Signals reflected off a hard surface before reaching the antenna (multipath)"
+        "Magnetic variation in the area",
+        "The state of the tide at the time",
+        "The rudder angle during a turn",
+        "Signals reflected off a hard surface (multipath)"
       ],
       "correct_index": 3,
       "explanation": "Multipath, blocked signals and atmospheric delay all degrade GNSS. Variation, tide and rudder angle do not affect satellite positioning.",
@@ -183,10 +183,10 @@
       "difficulty": "medium",
       "stem": "What is the difference between GNSS jamming and spoofing?",
       "options": [
-        "Jamming swamps the signals so the position degrades or is lost, while spoofing sends false signals that can push the position off slowly without any alarm",
-        "Jamming is accidental and spoofing is a satellite failure",
+        "Jamming blocks the signal; spoofing feeds false signals with no alarm",
+        "Jamming is always accidental, and spoofing is a satellite failure",
         "Jamming affects only AIS and spoofing affects only radar",
-        "They are two names for multipath"
+        "They are two names for multipath error"
       ],
       "correct_index": 0,
       "explanation": "Jamming degrades or denies the signal. Spoofing replaces genuine signals with counterfeit ones so the receiver's position is offset slowly and may look normal.",
@@ -205,10 +205,10 @@
       "difficulty": "hard",
       "stem": "The plotter says you are 0.8 nm off a headland and the radar range to it is 0.5 nm. No GNSS alarm is showing. What is the best action?",
       "options": [
-        "Trust the plotter, because there is no alarm",
+        "Trust the plotter, because there is no alarm showing",
         "Trust the radar on principle and stop cross-checking",
         "Wait until the next scheduled position check in an hour",
-        "Treat it as a 0.3 nm disagreement: take care to stay clear of the shore, check the sources and trust the evidence nearest your hull until the cause is found"
+        "Keep well clear of the shore and check sources until it is explained"
       ],
       "correct_index": 3,
       "explanation": "The absence of an alarm proves nothing, because a bad GNSS position can look normal. A 0.3 nm difference is about 556 m. Move to safer water, check the source status, and compare radar, bearings and depth.",

@@ -36,7 +36,7 @@
       "options": [
         "Strong wind and heavy rain",
         "Fronts and squall lines",
-        "Gale warnings",
+        "Gale warnings for the area",
         "Light wind, clear skies and fair weather"
       ],
       "correct_index": 3,
@@ -128,9 +128,9 @@
       "stem": "Which statement about Buys Ballot's law is correct?",
       "options": [
         "It gives an exact bearing to the low",
-        "It works best at the equator",
+        "It works best near the equator",
         "It applies only to cold fronts",
-        "It is only approximate near the surface because friction turns the wind toward low pressure"
+        "Only approximate at the surface, as friction turns the wind"
       ],
       "correct_index": 3,
       "explanation": "Friction makes the angle less than 90 degrees at the surface and the law fails near the equator.",
@@ -152,7 +152,7 @@
       "stem": "What is average sea level pressure in kPa, and how many hPa is 1 kPa?",
       "options": [
         "About 90 kPa; 1 kPa is 1 hPa",
-        "About 130 kPa; 1 kPa is 100 hPa",
+        "About 130 kPa at sea level; 1 kPa is 100 hPa",
         "About 101.3 kPa; 1 kPa is 10 hPa (10 mb)",
         "About 101.3 hPa; 1 kPa is 1 mb"
       ],
@@ -174,10 +174,10 @@
       "difficulty": "medium",
       "stem": "The barometer has been falling steadily. What does this suggest?",
       "options": [
-        "A high is approaching with fair weather",
-        "A low or front is approaching with worsening weather",
-        "Nothing; it is normal",
-        "The wind will fall to calm"
+        "A high is approaching, bringing fair and settled weather",
+        "A low or front is approaching with worse weather",
+        "Nothing; a steady fall is normal",
+        "The wind will soon fall to calm"
       ],
       "correct_index": 1,
       "explanation": "A falling barometer signals an approaching low or front.",
@@ -197,10 +197,10 @@
       "difficulty": "medium",
       "stem": "Which weather is typical of a cold front?",
       "options": [
-        "Showers, squalls or thunderstorms along or ahead of it, with colder air behind",
-        "Steady drizzle for a day ahead of it, warmer air behind",
-        "Clear skies and no wind",
-        "Fog only"
+        "Showers, squalls or thunder near it, with colder air behind",
+        "Steady drizzle for a day ahead of it, with warmer air behind",
+        "Clear skies and no wind on either side",
+        "Fog only, with no change in wind"
       ],
       "correct_index": 0,
       "explanation": "Cold fronts can bring thunderstorms and squall lines. Warm fronts bring broad cloud and drizzle ahead of them.",
@@ -223,7 +223,7 @@
         "backs, shifting counterclockwise",
         "stays the same",
         "drops to zero for a day",
-        "veers, shifting clockwise from southwest toward northwest"
+        "veers, from southwest toward northwest"
       ],
       "correct_index": 3,
       "explanation": "Wikipedia gives a veer from southwest to northwest, with pressure rising sharply and temperature dropping.",
@@ -245,7 +245,7 @@
       "stem": "How often do winter lows arrive on the BC coast, and what state are they in?",
       "options": [
         "Once a month, rapidly developing",
-        "Daily, always stationary",
+        "Daily, always stationary over the coast",
         "Every 1 to 4 days, mostly occluded and weakening",
         "Only in summer, as thunderstorms"
       ],
@@ -268,10 +268,10 @@
       "difficulty": "easy",
       "stem": "What does the technical marine synopsis give?",
       "options": [
-        "Wave heights only",
-        "The position and movement of the main lows, highs and fronts",
-        "Tide tables",
-        "A list of buoys"
+        "Wave heights only, by area",
+        "Where the main lows, highs and fronts are and how they move",
+        "Tide tables for the main ports",
+        "A list of weather buoys and readings"
       ],
       "correct_index": 1,
       "explanation": "It opens with 'Systems position' and describes significant weather systems and their movement.",

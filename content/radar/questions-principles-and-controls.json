@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "How does a marine radar obtain the range and the bearing of a target?",
       "options": [
-        "Range from the time the pulse takes to return, bearing from the direction the antenna is pointing when the echo arrives",
-        "Range from the strength of the echo, bearing from the shape of the echo",
-        "Range from the pulse frequency, bearing from the heading marker alone",
+        "Range from the time the echo takes, bearing from the antenna direction",
+        "Range from the strength of the echo, bearing from its shape",
+        "Range from the pulse frequency, bearing from the heading marker on its own",
         "Range from the antenna height, bearing from the gyro-compass reading"
       ],
       "correct_index": 0,
@@ -75,7 +75,7 @@
       "stem": "A 6 GT towboat is engaged on a near coastal Class 2 voyage. What does the Navigation Safety Regulations, 2020 require about radar?",
       "options": [
         "Nothing, because radar is required only at 300 GT",
-        "It must carry a radar, because a towboat of 5 GT or more on an inland or near coastal Class 2 voyage must have one",
+        "A radar, as a towboat of 5 GT or more on that voyage needs one",
         "Two independent radars, because it is a towboat",
         "A radar only if it will operate at night or in fog"
       ],
@@ -119,10 +119,10 @@
       "difficulty": "medium",
       "stem": "Why is it risky to leave the sea clutter and rain clutter controls turned up high?",
       "options": [
-        "They shorten the maximum range of the transmitter permanently",
+        "They shorten the maximum range of the transmitter permanently once set",
         "They change the radar's frequency band",
         "They make the heading marker point the wrong way",
-        "They remove returns from the screen and cannot tell waves or rain from a small boat, so real targets can vanish"
+        "They suppress returns, so a small boat can vanish with the clutter"
       ],
       "correct_index": 3,
       "explanation": "Both controls work by suppressing returns. A small vessel can be erased along with the clutter. They do not change the transmitter, the band or the heading marker.",
@@ -143,7 +143,7 @@
       "options": [
         "Range resolution depends only on the gain setting",
         "Bearing resolution is better at longer ranges, so close targets merge",
-        "Range resolution is about half the pulse length, so targets closer than that in range blur into one echo",
+        "Targets closer in range than half the pulse length merge into one",
         "The VRM always merges echoes within one cable"
       ],
       "correct_index": 2,
@@ -164,7 +164,7 @@
       "stem": "Which of these does Rule 7(b) of the Collision Regulations require of a vessel with working radar?",
       "options": [
         "Use of the radar only when visibility is under one mile",
-        "Proper use, including long-range scanning for early warning and radar plotting or equivalent systematic observation",
+        "Proper use, with long-range scanning and plotting",
         "Use of the 3 GHz band in rain and the 9 GHz band otherwise",
         "A radar report to the Coast Guard every hour"
       ],
@@ -185,10 +185,10 @@
       "difficulty": "medium",
       "stem": "Which of these is a radar-related factor that Rule 6(b) adds to the factors for determining a safe speed?",
       "options": [
-        "The possibility that small vessels, ice and floating objects are not detected by radar at an adequate range",
+        "That small craft, ice and floating objects may not show on radar",
         "The number of crew available to plot targets",
-        "The age of the magnetron",
-        "Whether the radar is a 3 GHz or 9 GHz set"
+        "The age of the radar's magnetron",
+        "Whether the radar is a 3 GHz or a 9 GHz set"
       ],
       "correct_index": 0,
       "explanation": "Rule 6(b) lists the radar's characteristics, efficiency and limitations, the range scale, sea state and weather effects, the possibility that small vessels, ice and floating objects are missed, the number and movement of vessels detected, and a better estimate of visibility. The other options are not in the rule.",
@@ -208,9 +208,9 @@
       "stem": "On a radar screen, what are the EBL and the VRM for?",
       "options": [
         "The EBL reads the range and the VRM reads the bearing",
-        "Both are used to adjust gain and clutter",
+        "Both are used to adjust the gain and the clutter",
         "They set the transmit power and the pulse length",
-        "The EBL is swung onto an echo to read its bearing, and the VRM is expanded to touch an echo to read its range"
+        "The EBL reads bearing and the VRM reads range"
       ],
       "correct_index": 3,
       "explanation": "The electronic bearing line measures bearing and the variable range marker measures range. They are measuring tools, not receiver controls.",

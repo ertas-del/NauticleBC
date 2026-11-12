@@ -34,9 +34,9 @@
       "difficulty": "medium",
       "stem": "A forecast says 'wind northwest 25, gusts to 40'. Is a gale warning needed for that wind?",
       "options": [
-        "Yes, because the gust is over 34",
-        "Yes, because 25 plus 40 is over 34",
-        "Only in winter",
+        "Yes, because the gust is over 34 knots",
+        "Yes, because 25 plus 40 is well over 34 knots",
+        "Only in the winter months",
         "No; warnings use the mean wind and exclude gusts"
       ],
       "correct_index": 3,
@@ -57,10 +57,10 @@
       "difficulty": "medium",
       "stem": "A hurricane force wind warning means:",
       "options": [
-        "a hurricane is certain",
-        "a tropical storm is forecast",
-        "wind of 64 knots or more; it does not mean a hurricane is expected",
-        "only a gust is forecast"
+        "a hurricane is certain to arrive",
+        "a tropical storm is forecast for the area",
+        "wind of 64 knots or more, not a hurricane",
+        "only a gust of that strength is forecast"
       ],
       "correct_index": 2,
       "explanation": "ECCC states a hurricane force warning refers to wind speed only.",
@@ -82,7 +82,7 @@
       "options": [
         "All year, for the offshore areas",
         "March 20 to Remembrance Day, for six named inner waters",
-        "December to February in Hecate Strait",
+        "December to February only, in Hecate Strait and Dixon Entrance",
         "March to May only, for Dixon Entrance"
       ],
       "correct_index": 1,
@@ -104,9 +104,9 @@
       "stem": "Which warnings can cover offshore marine areas?",
       "options": [
         "Gale, storm and hurricane force",
-        "Strong wind only",
-        "Squall only",
-        "None of them"
+        "Strong wind warnings only, in summer",
+        "Squall warnings only",
+        "None of them offshore"
       ],
       "correct_index": 0,
       "explanation": "Strong wind warnings are not issued offshore; gale, storm and hurricane force can cover all marine areas with a forecast.",
@@ -126,9 +126,9 @@
       "difficulty": "medium",
       "stem": "At what ice build-up rate does ECCC warn of freezing spray?",
       "options": [
-        "0.1 cm per hour",
-        "7 cm per hour",
-        "Any ice at all",
+        "0.1 cm per hour or more",
+        "7 cm per hour or more",
+        "Any ice at all on deck",
         "0.7 cm per hour or more"
       ],
       "correct_index": 3,
@@ -150,7 +150,7 @@
       "stem": "About how cold must the air be for sea spray to freeze?",
       "options": [
         "Below plus 5 C",
-        "Below 0 C only for fresh water",
+        "Below 0 C only, for fresh water",
         "Colder than about minus 2 C",
         "Below minus 20 C"
       ],
@@ -173,9 +173,9 @@
       "difficulty": "medium",
       "stem": "What is the difference between a squall watch and a squall warning?",
       "options": [
-        "No difference",
-        "A watch gives advance notice that squalls are possible; a warning says they are occurring or expected",
-        "A watch is for gusts over 60 knots",
+        "There is no difference",
+        "A watch means squalls are possible; a warning means expected or occurring",
+        "A watch is only for gusts over 60 knots",
         "A warning is issued a day ahead only"
       ],
       "correct_index": 1,
@@ -197,8 +197,8 @@
       "difficulty": "medium",
       "stem": "Where does a warning appear in a regular forecast?",
       "options": [
-        "Immediately after the area name, before the forecast text, using the keyword 'in effect'",
-        "At the very end",
+        "Right after the area name, before the forecast, as 'in effect'",
+        "At the very end of the forecast text",
         "Only in the technical synopsis",
         "On the wave bulletin only"
       ],
@@ -245,10 +245,10 @@
       "difficulty": "medium",
       "stem": "What extra information do BC wind warnings give about the wind?",
       "options": [
-        "The tide height",
+        "The tide height at the time",
         "The visibility in fog",
-        "Whether it is associated with an outflow or an inflow",
-        "The moon phase"
+        "Whether it comes with an outflow or an inflow",
+        "The phase of the moon"
       ],
       "correct_index": 2,
       "explanation": "UBC notes that wind warnings state whether they are associated with outflows or inflows.",
