@@ -90,7 +90,13 @@ fun HomeScreen(
     onChangeTicket: () -> Unit,
 ) {
     Scaffold(
-        topBar = { TopAppBar(title = { Text(stringResource(R.string.today_title)) }) },
+        containerColor = MaterialTheme.colorScheme.background,
+        topBar = {
+            TopAppBar(
+                title = { Text(stringResource(R.string.today_title)) },
+                colors = nauticalTopAppBarColors(),
+            )
+        },
     ) { padding ->
         Column(
             modifier = Modifier
@@ -105,6 +111,7 @@ fun HomeScreen(
                     Text(
                         text = dueCount.toString(),
                         style = MaterialTheme.typography.displayLarge,
+                        color = MaterialTheme.colorScheme.primary,
                         modifier = Modifier.semantics { heading() },
                     )
                     Text(
