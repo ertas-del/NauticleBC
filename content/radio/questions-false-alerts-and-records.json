@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Which is the correct set of cancel steps for a VHF DSC false alert (RAMN)?",
       "options": [
-        "Switch to Channel 70 and wait",
-        "Call the owner by phone only",
-        "Press the distress button again",
-        "Switch off the transmitter, set Channel 16, and broadcast to all stations with name, call sign, MMSI and the cancel statement"
+        "Switch to Channel 70 and wait for MCTS to call",
+        "Call the owner by phone and let them tell MCTS",
+        "Press the distress button again to cancel it",
+        "Switch off, go to Channel 16, and broadcast a cancellation"
       ],
       "correct_index": 3,
       "explanation": "The RAMN gives these steps, with the date and time stated in UTC.",
@@ -78,8 +78,8 @@
       "options": [
         "12 months after the first entry",
         "At least 12 months after the last entry",
-        "30 days",
-        "Until the next inspection"
+        "30 days after the end of the voyage, then destroyed",
+        "Until the next radio inspection"
       ],
       "correct_index": 1,
       "explanation": "NSR 2020 s. 247(3).",
@@ -121,8 +121,8 @@
       "stem": "Who initials entries in the radio record?",
       "options": [
         "The master only",
-        "The Coast Guard",
-        "A passenger",
+        "The Coast Guard officer",
+        "The owner, when the log is sent ashore each month",
         "The radio operator making the entry"
       ],
       "correct_index": 3,
@@ -142,10 +142,10 @@
       "difficulty": "hard",
       "stem": "What must be recorded about an inadvertent distress transmission?",
       "options": [
-        "Nothing, if cancelled quickly",
-        "Only the vessel's position",
-        "The time of the transmission and the time and method of its cancellation",
-        "Only the MMSI"
+        "Nothing, if it was cancelled quickly",
+        "Only the vessel's position at the time",
+        "The time sent, and the time and method of cancelling",
+        "Only the MMSI and the channel used"
       ],
       "correct_index": 2,
       "explanation": "Section 247(1)(h).",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "How must a radio operator state the time on a domestic BC voyage in voice communications?",
       "options": [
-        "UTC only, in 12-hour time",
-        "Local time in the 24-hour system, four figures, with the time zone identifier",
-        "Tide-table time",
-        "Ship's clock time without a zone"
+        "UTC only, in the 12-hour system",
+        "Local 24-hour time, four figures, with the zone",
+        "Tide-table time for the nearest port",
+        "Ship's clock time, with no zone given"
       ],
       "correct_index": 1,
       "explanation": "Section 246: UTC on an international voyage, local time otherwise; 24-hour, four figures, followed by the time zone identifier.",
@@ -186,10 +186,10 @@
       "difficulty": "hard",
       "stem": "At sea, how often is a VHF installation assessed and tested?",
       "options": [
-        "Assessed daily; tested weekly by normal communications or a test call",
-        "Tested daily by a distress alert",
-        "Assessed monthly",
-        "Only before the voyage"
+        "Assessed daily; tested weekly by a call",
+        "Tested daily by sending a distress alert",
+        "Assessed and tested once a month",
+        "Tested only before each voyage"
       ],
       "correct_index": 0,
       "explanation": "Section 237(1).",
@@ -208,10 +208,10 @@
       "difficulty": "medium",
       "stem": "A radio has been out of service for 40 days. What must the operator do?",
       "options": [
-        "Nothing",
-        "Verify it after the voyage",
-        "Replace the antenna",
-        "Verify it within the seven days before the voyage and enter it in the radio log"
+        "Nothing, as long as it powers up",
+        "Verify it after the voyage is over and log the result",
+        "Replace the antenna before sailing",
+        "Verify it within 7 days before the voyage and log it"
       ],
       "correct_index": 3,
       "explanation": "Section 237(5) applies when out of service for more than 30 days.",
@@ -230,10 +230,10 @@
       "difficulty": "medium",
       "stem": "What does s. 245 say about transmitter power?",
       "options": [
-        "Always use full power",
+        "Always use full power to be heard",
         "Use low power only at night",
-        "Except in distress, do not radiate more power than needed for clear communication",
-        "Power may not be adjusted"
+        "Except in distress, use no more power than needed",
+        "Power may not be adjusted by the operator"
       ],
       "correct_index": 2,
       "explanation": "Section 245.",
@@ -252,10 +252,10 @@
       "difficulty": "easy",
       "stem": "When must the radio equipment be confirmed to be in proper operating condition?",
       "options": [
-        "After the voyage",
+        "After the voyage, before it is logged",
         "Before the vessel embarks on a voyage",
-        "Once a year",
-        "Only after a fault"
+        "Once a year at the radio inspection",
+        "Only after a fault has been reported"
       ],
       "correct_index": 1,
       "explanation": "Section 236.",

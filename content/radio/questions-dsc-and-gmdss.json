@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Sea area A1 is within the coverage of:",
       "options": [
-        "at least one VHF coast station with continuous DSC alerting",
-        "an MF coast station",
-        "a satellite service",
-        "no radio station"
+        "a VHF coast station with continuous DSC alerting",
+        "an MF coast station with continuous DSC alerting",
+        "a satellite service such as Inmarsat",
+        "no coast station, so ships call each other"
       ],
       "correct_index": 0,
       "explanation": "NSR 2020 s. 200 defines A1 by VHF coverage with continuous DSC alerting.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "About how far does the RAMN say A1 and A2 extend?",
       "options": [
-        "About 5 nm and 20 nm",
-        "About 100 nm and 400 nm",
+        "About 5 nm for A1 and 20 nm for A2",
+        "About 100 nm for A1 and 400 nm for A2",
         "About 40 nm for A1 and 150 nm for A2",
-        "About 40 nm for A2"
+        "About 40 nm for both A1 and A2"
       ],
       "correct_index": 2,
       "explanation": "RAMN gives roughly 40 nautical miles for A1 and 150 for A2.",
@@ -76,9 +76,9 @@
       "difficulty": "medium",
       "stem": "Which MMSI statement is correct?",
       "options": [
-        "It is the same as the call sign",
-        "It is a nine-digit identifier that must be programmed into the DSC radio",
-        "It is a five-digit number",
+        "It is the same as the vessel's radio call sign",
+        "A nine-digit identifier programmed into the DSC radio",
+        "It is a five-digit number issued with the station licence",
         "It is only needed on international voyages"
       ],
       "correct_index": 1,
@@ -99,9 +99,9 @@
       "stem": "Which VHF channel is used for DSC?",
       "options": [
         "Channel 70 (156.525 MHz)",
-        "Channel 16",
-        "Channel 13",
-        "Channel 21B"
+        "Channel 16 (156.800 MHz)",
+        "Channel 13 (156.650 MHz)",
+        "Channel 21B (161.650 MHz)"
       ],
       "correct_index": 0,
       "explanation": "DSC alert traffic is on Channel 70.",
@@ -120,9 +120,9 @@
       "difficulty": "hard",
       "stem": "List the DSC call categories.",
       "options": [
-        "Distress, weather, tides, routine",
-        "Mayday, pan-pan, securite only",
-        "Emergency, navigational, commercial",
+        "Distress, weather, tides, ship's business and routine",
+        "Mayday, pan-pan and securite only, with no routine calls",
+        "Emergency, navigational, commercial and personal",
         "Distress, urgency, safety, ship's business and routine"
       ],
       "correct_index": 3,
@@ -143,10 +143,10 @@
       "difficulty": "medium",
       "stem": "How is a DSC distress alert started on VHF, and what follows?",
       "options": [
-        "Tap the button once; nothing follows",
-        "Hold for 30 seconds; follow on Channel 70",
-        "Hold the red button for 5 seconds; the voice call and message follow on Channel 16",
-        "Press twice; follow on Channel 13"
+        "Tap the button once; the radio does the rest",
+        "Hold it down for 30 seconds; voice follows on Channel 70",
+        "Hold the red button 5 seconds; voice follows on Channel 16",
+        "Press it twice; voice follows on Channel 13"
       ],
       "correct_index": 2,
       "explanation": "RAMN: press and hold the red distress button for 5 seconds, then send the distress call and message on Channel 16.",
@@ -209,10 +209,10 @@
       "difficulty": "medium",
       "stem": "What is maritime safety information (MSI)?",
       "options": [
-        "Port fees and berth lists",
-        "Tide tables only",
-        "Crew lists",
-        "Navigational and meteorological warnings, forecasts and other urgent safety messages broadcast to vessels"
+        "Port fees, berth lists and pilot times",
+        "Tide tables and current predictions only",
+        "Crew lists sent to the traffic centre",
+        "Navigational and weather warnings and urgent safety messages"
       ],
       "correct_index": 3,
       "explanation": "That is the NSR 2020 s. 200 definition.",
@@ -253,10 +253,10 @@
       "difficulty": "hard",
       "stem": "Which vessels must be able to reach an MCTS centre at any time on a voyage with part outside A1 (s. 206)?",
       "options": [
-        "Any vessel over 5 m",
+        "Any vessel over 5 m in length",
         "A vessel that carries more than six passengers",
         "Only vessels over 500 GT",
-        "Only fishing vessels"
+        "Only fishing vessels over 15 GT"
       ],
       "correct_index": 1,
       "explanation": "Section 206 covers vessels carrying passengers more than 2 nm from shore, more than six passengers, or on a Near Coastal Class 1 or unlimited voyage.",
@@ -277,8 +277,8 @@
       "options": [
         "ITU-R Recommendation M.493",
         "IMO resolution A.814(19)",
-        "SOLAS Chapter II",
-        "IEC 60945 only"
+        "SOLAS Chapter II, regulation 2",
+        "IEC 60945 only, for all equipment"
       ],
       "correct_index": 0,
       "explanation": "Section 200 defines DSC by reference to ITU-R M.493. A.814(19) is the false alert guideline.",
@@ -299,7 +299,7 @@
       "options": [
         "Mount Parke and Bowen Island",
         "Race Rocks and Sandheads",
-        "Cape Lazo and Texada Island",
+        "Cape Lazo and Texada Island light stations",
         "Digby Island and Amphitrite Point"
       ],
       "correct_index": 3,

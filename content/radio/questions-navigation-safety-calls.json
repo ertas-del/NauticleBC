@@ -11,9 +11,9 @@
       "stem": "How long may a navigation safety call last?",
       "options": [
         "No more than one minute",
-        "30 seconds",
-        "Two minutes",
-        "As long as needed"
+        "No more than 30 seconds",
+        "No more than two minutes",
+        "As long as is needed"
       ],
       "correct_index": 0,
       "explanation": "Section 253(3) limits the call to one minute and to essential information.",
@@ -31,10 +31,10 @@
       "difficulty": "hard",
       "stem": "In what order must the content of the call be given?",
       "options": [
-        "Location, identity, speed, status, action",
-        "Status, identity, destination, cargo, crew",
-        "Intended action, identity, status, location, speed",
-        "Identity, location, intended action, present course and speed, status"
+        "Location, identity, speed, status, intended action",
+        "Status, identity, destination, cargo and crew",
+        "Intended action, identity, status, location, then course and speed",
+        "Identity, location, intended action, course and speed, status"
       ],
       "correct_index": 3,
       "explanation": "Section 253(3)(a) to (e) sets the sequence: identity, location, intended course of action, present course and speed, then status where applicable.",
@@ -52,10 +52,10 @@
       "difficulty": "medium",
       "stem": "A vessel departs from a berth. When must the navigation safety call(s) be made?",
       "options": [
-        "Only after leaving",
-        "Once, 5 minutes before",
-        "15 minutes before and again immediately before departure",
-        "Only when leaving a booming ground"
+        "Only once, just after leaving the berth",
+        "Once, 5 minutes before leaving the berth, and no more",
+        "15 minutes before and immediately before departure",
+        "Only when leaving a log booming ground"
       ],
       "correct_index": 2,
       "explanation": "Section 253(2) requires two calls for departure.",
@@ -73,10 +73,10 @@
       "difficulty": "medium",
       "stem": "Which of these is a circumstance requiring a call?",
       "options": [
-        "Starting the engine",
+        "Starting the main engine in harbour",
         "Nearing a bend where an approaching vessel cannot be seen",
-        "Taking on fuel",
-        "Changing watch"
+        "Taking on fuel at a fuel dock",
+        "Changing watch on the bridge"
       ],
       "correct_index": 1,
       "explanation": "Section 253(1)(e) lists nearing a bend or obstruction around which an approaching vessel cannot be seen.",
@@ -137,9 +137,9 @@
       "stem": "A towboat manoeuvres around a booming ground, will not impede others, and calls 15 minutes before its final departure. What does s. 253(4) say about the other two calls?",
       "options": [
         "It must also call immediately before each manoeuvre",
-        "It must make three calls",
+        "It must make three calls in all, as usual",
         "It need not make the dredge-approach or departure calls",
-        "The exemption does not exist"
+        "The exemption applies only to towboats of 20 m or more in length"
       ],
       "correct_index": 2,
       "explanation": "Section 253(4)(a) exempts such a towboat from the calls under (1)(i) and (j).",
@@ -157,10 +157,10 @@
       "difficulty": "medium",
       "stem": "Two vessels agree by radio on a passing arrangement that breaks a steering and sailing rule. What governs?",
       "options": [
-        "The radio agreement",
-        "The Collision Regulations still apply and whistle signals are still sounded",
-        "The faster vessel's choice",
-        "The Coast Guard centre"
+        "The radio agreement, as both have agreed",
+        "The Collision Regulations still apply, with whistle signals",
+        "The faster vessel's choice of passing side",
+        "The Coast Guard centre, once it is told"
       ],
       "correct_index": 1,
       "explanation": "NSR 2020 s. 251: the radio rules do not relieve a vessel of its obligation to sound whistle signals or allow a breach of the steering and sailing rules.",
@@ -178,10 +178,10 @@
       "difficulty": "medium",
       "stem": "In restricted visibility a vessel approaches a ferry route. Is a call required?",
       "options": [
-        "Yes, approaching a charted route (including a ferry route) in restricted visibility",
-        "No, only in clear weather",
-        "Only for a vessel over 20 m",
-        "Only if a ferry is seen"
+        "Yes, near a charted route such as a ferry route in poor visibility",
+        "No, a call is only needed in clear weather",
+        "Only for a vessel of 20 m or more in length",
+        "Only if a ferry is already seen on radar"
       ],
       "correct_index": 0,
       "explanation": "Section 253(1)(f).",
@@ -199,9 +199,9 @@
       "difficulty": "easy",
       "stem": "Who makes the call if the person making it is not in charge of the deck watch?",
       "options": [
-        "No one needs to be told",
-        "Only the master is told at handover",
-        "They must repeat the call twice",
+        "No one else needs to be told about it",
+        "Only the master is told, at handover",
+        "They must repeat the call twice more",
         "They must tell the person in charge without delay"
       ],
       "correct_index": 3,
@@ -241,9 +241,9 @@
       "difficulty": "medium",
       "stem": "You make a call but you are not the person in charge of the deck watch. What does s. 250(2) require?",
       "options": [
-        "Nothing",
+        "Nothing more, the call is enough",
         "You tell the person in charge of the deck watch without delay",
-        "You repeat it on Channel 70",
+        "You repeat the call on Channel 70",
         "You tell the master at handover"
       ],
       "correct_index": 1,

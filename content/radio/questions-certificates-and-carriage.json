@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Under MPR s. 131, an applicant for Master, Limited (under 60 GT) must provide an appropriate radio operator certificate when:",
       "options": [
-        "the vessel is equipped with a VHF radiotelephone installation",
-        "the vessel is over 30 GT",
-        "the vessel carries cargo",
-        "the voyage is at night"
+        "the vessel has a VHF radiotelephone installation",
+        "the vessel is over 30 GT or carries passengers",
+        "the vessel carries cargo outside sheltered waters",
+        "the voyage is at night or in restricted visibility"
       ],
       "correct_index": 0,
       "explanation": "The table in MPR s. 131 lists the radio certificate if the vessel has a VHF radiotelephone installation.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A 12 m tug (a towboat) works in sea area A1. Does NSR 2020 s. 204 require a VHF-DSC?",
       "options": [
-        "No, because it is under 20 m",
-        "Only if it carries passengers",
-        "Only beyond 12 nm",
-        "Yes, because a towboat on a voyage in A1 must carry one"
+        "No, because it is under 20 m in length",
+        "Only if it carries passengers for hire",
+        "Only if it goes beyond 12 nm from shore",
+        "Yes, a towboat on a voyage in A1 must"
       ],
       "correct_index": 3,
       "explanation": "Section 204 applies to a vessel over 8 m, carrying passengers, or a towboat, on a voyage in A1, within VHF coverage, or more than 5 nm from shore.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Which vessel is excused from the fixed VHF-DSC by s. 204(2)?",
       "options": [
-        "Any vessel under 12 m",
-        "A towboat of any size",
-        "A vessel carrying six passengers or fewer and not more than 8 m, with a DSC handheld",
-        "A vessel with a spare antenna"
+        "Any vessel under 12 m with a fixed VHF",
+        "A towboat of any size working only inside a harbour limit",
+        "8 m or less, six passengers or fewer, with a DSC handheld",
+        "A vessel carrying a spare antenna and cable"
       ],
       "correct_index": 2,
       "explanation": "The exception is for a vessel that carries six passengers or less and is not more than 8 m, if it has a portable VHF handheld capable of DSC.",
@@ -98,10 +98,10 @@
       "difficulty": "hard",
       "stem": "Which case allows an ROC-M instead of the ROC-MC under MPR s. 266(2)?",
       "options": [
-        "A Near Coastal Class 2 vessel whose VHF is its only radiotelephone, with an ROC-M issued after 1 January 2005",
-        "Any passenger vessel over 20 m",
-        "A tug on a sheltered voyage only",
-        "Any vessel with a handheld"
+        "A Near Coastal Class 2 vessel whose only radio is VHF, ROC-M after 2005",
+        "Any passenger vessel over 20 m on any voyage",
+        "A tug on a sheltered waters voyage, with any certificate",
+        "Any vessel that carries a DSC handheld as well"
       ],
       "correct_index": 0,
       "explanation": "That is the one stated exception for a voyage other than sheltered waters.",
@@ -123,7 +123,7 @@
         "Age 16, valid 5 years, pass mark 50 percent",
         "Age 21, valid 10 years, pass mark 80 percent",
         "No age limit, valid 1 year, pass mark 60 percent",
-        "Minimum age 18, valid for life, pass mark 70 percent"
+        "Age 18, valid for life, pass mark 70 percent"
       ],
       "correct_index": 3,
       "explanation": "RIC-25 gives minimum age 18, life validity and a 70 percent pass mark.",
@@ -143,10 +143,10 @@
       "difficulty": "medium",
       "stem": "Which items must be at the main operating position of the radio installation?",
       "options": [
-        "The vessel's insurance policy",
+        "The vessel's insurance policy and certificate of registry, framed",
         "The master's certificate of competency only",
         "The RAMN and, where required, the radio inspection certificate",
-        "A printed chart of Channel 70"
+        "A printed list of every Channel 70 DSC code"
       ],
       "correct_index": 2,
       "explanation": "NSR 2020 s. 212 requires the RAMN and the radio inspection certificate (if s. 240 requires one) at the main operating position; operators' certificates are also kept on board.",
@@ -165,10 +165,10 @@
       "difficulty": "medium",
       "stem": "Which items does s. 214 require at the main operating position?",
       "options": [
-        "A spare VHF and a SART",
-        "An instruction card such as TP 9878, operating and maintenance instructions, and a visible reliable clock",
+        "A spare VHF handheld and a SART",
+        "An instruction card, operating instructions, and a visible clock",
         "A copy of the Collision Regulations only",
-        "A logbook for fuel"
+        "A logbook for fuel and engine hours"
       ],
       "correct_index": 1,
       "explanation": "Section 214 lists the card of distress procedures, instructions and maintenance items, and a visible accurate time device.",
@@ -188,9 +188,9 @@
       "stem": "Which vessel needs a radio inspection certificate (s. 240)?",
       "options": [
         "A passenger vessel on a voyage in sea area A1",
-        "A 10 m pleasure craft",
-        "A 7 m open boat with no passengers",
-        "Any vessel with a handheld"
+        "A 10 m pleasure craft with a fixed VHF",
+        "A 7 m open boat with no passengers aboard, on any voyage",
+        "Any vessel that carries a DSC handheld"
       ],
       "correct_index": 0,
       "explanation": "Section 240 requires one for a vessel of 20 m or more, a towboat, and a passenger vessel on a voyage in A1 or over 5 nm from shore.",
@@ -209,9 +209,9 @@
       "difficulty": "hard",
       "stem": "A 22 m vessel has a single VHF-DSC. Which extra items does NSR 2020 require?",
       "options": [
-        "A second SART only",
+        "A second SART and a spare battery",
         "A NAVTEX receiver in all cases",
-        "A second master",
+        "A second VHF-DSC installation on its own power supply",
         "A spare antenna with cable and an antenna plan"
       ],
       "correct_index": 3,
@@ -231,10 +231,10 @@
       "difficulty": "medium",
       "stem": "Who may keep the listening watch or make a navigation safety call on the master's authority?",
       "options": [
-        "Any deckhand",
-        "Any passenger",
+        "Any deckhand on watch",
+        "Any passenger who knows how",
         "A radio operator (a certificate holder)",
-        "Only the engineer"
+        "Only the engineer, using the extension from below"
       ],
       "correct_index": 2,
       "explanation": "NSR 2020 s. 250(1) says the master or a person authorised by the master for these tasks must be a radio operator.",
