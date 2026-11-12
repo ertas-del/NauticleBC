@@ -2,7 +2,7 @@
 id: machinery.safety.fire-and-watertight-equipment
 title: "Fire-fighting equipment, fixed systems, quick-closing valves and watertight integrity"
 module: machinery
-tickets: [svmo]
+tickets: [svmo, fishing-master-4]
 order: 410
 summary: Which portable extinguisher suits which fire, how fire pumps and hoses work, how a fixed gas system is released safely, what quick-closing valves and remote stops do, and how doors and hatches keep a vessel watertight and fire-tight.
 objectives:

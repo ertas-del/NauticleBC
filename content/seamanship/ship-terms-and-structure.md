@@ -2,7 +2,7 @@
 id: seamanship.ship-terms-and-structure
 title: "Ship terms, directions and structure"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 50
 summary: The words used for directions and positions on a ship and for the main parts of its structure and deck gear, from bow and abaft to bitts, fairleads, freeing ports and watertight versus weathertight doors.
 objectives:

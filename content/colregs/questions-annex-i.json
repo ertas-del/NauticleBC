@@ -4,7 +4,7 @@
     {
       "id": "colregs.annex-i.q01",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Under Annex I, what are the minimum dimensions of a cylinder shape for a vessel of 20 m or more, and how far apart must shapes be hung?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.annex-i.q02",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A 30 m power-driven vessel has a breadth of 8 m and carries one masthead light. What is the minimum height of that light above the hull?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.annex-i.q03",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A 90 m power-driven vessel carries two masthead lights. Which arrangement meets Annex I?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.annex-i.q04",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You run two power-driven boats: a 15 m water taxi and a 9 m skiff with sidelights and an all-round white light. Which statement about their masthead or all-round white light height is correct?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.annex-i.q05",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "A 16 m workboat loses steering at night and hoists two all-round red lights in a vertical line. What minimum spacing and height does Annex I require for them?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.annex-i.q06",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about the sidelights of a 40 m power-driven vessel is correct under Annex I?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.annex-i.q07",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "The owner of an 11 m Canadian survey launch says a 0.6 m anchor ball is too big for her mast. What does Annex I say?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.annex-i.q08",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Annex I lists about 12 candelas for a 3 mile light and about 94 candelas for a 6 mile light. What does this tell you?",
       "options": [

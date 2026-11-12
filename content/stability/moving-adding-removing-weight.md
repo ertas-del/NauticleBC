@@ -2,7 +2,7 @@
 id: stability.moving-adding-removing-weight
 title: "Loading: moving, adding and removing weight"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 50
 summary: How G moves when weight is shifted, added or removed, with the shift formula GG1 = w x d / displacement, the effect on GM, and how a sideways shift causes a list whose angle follows tan(list) = GG1 / GM.
 objectives:

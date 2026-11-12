@@ -6,7 +6,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Where on a ship are the draft marks normally painted?",
@@ -28,7 +29,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Metric draft figures are how high, and how far apart, and where is the water level read against a figure?",
@@ -50,7 +52,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At the bow, the water level is at the top of the metric figure whose bottom edge marks 3.60 m. What is the draft there?",
@@ -72,7 +75,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A ship reads draft 3.80 m forward and 4.40 m aft. Using the definitions mean draft = (forward + aft) / 2 and trim = aft minus forward, what are they?",
@@ -94,7 +98,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A master is told that loading a few more tonnes will put the summer load line 3 cm under water 'just for this short passage'. What does the Canada Shipping Act, 2001 say?",
@@ -116,7 +121,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which letters mark the tropical fresh water and the winter North Atlantic load lines?",
@@ -138,7 +144,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why do the fresh water load line marks sit above the summer mark?",
@@ -160,7 +167,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A tank is 9.00 m deep from its sounding reference point to the bottom. The sounding is 2.40 m. What is the ullage?",
@@ -182,7 +190,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is a sounding pipe?",
@@ -204,7 +213,8 @@
       "lesson_id": "seamanship.draft-marks-and-soundings",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 25 m vessel is making a near coastal voyage. What hand lead line must she carry?",

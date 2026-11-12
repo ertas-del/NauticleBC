@@ -5,7 +5,8 @@
       "id": "chartwork.latitude-longitude-distance.q01",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does one minute of latitude equal?",
@@ -27,7 +28,8 @@
       "id": "chartwork.latitude-longitude-distance.q02",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How is a position in BC waters correctly written?",
@@ -49,7 +51,8 @@
       "id": "chartwork.latitude-longitude-distance.q03",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At 49 degrees N, a leg runs due east for 10.0 nm. If someone wrongly measured it on the longitude scale, about how many minutes would they read? (cos 49 degrees = 0.656)",
@@ -71,7 +74,8 @@
       "id": "chartwork.latitude-longitude-distance.q04",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A lighthouse bears 306 degrees true from your ship. What is the bearing of the ship from the lighthouse?",
@@ -93,7 +97,8 @@
       "id": "chartwork.latitude-longitude-distance.q05",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A buoy bears 247 degrees true from you. What is the bearing of your ship from the buoy?",
@@ -115,7 +120,8 @@
       "id": "chartwork.latitude-longitude-distance.q06",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Two points: A is at 49 degrees 00.0 minutes N, 123 degrees 20.0 minutes W. B is 15.0 minutes of latitude north and 40.0 minutes of longitude east of A. The mean latitude is about 49 degrees (cos = 0.656). What is the distance from A to B, to the nearest 0.1 nm?",
@@ -137,7 +143,8 @@
       "id": "chartwork.latitude-longitude-distance.q07",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You steam 10.0 nm due east at latitude 60 degrees N. By how many minutes of longitude does your longitude change? (cos 60 degrees = 0.5)",
@@ -159,7 +166,8 @@
       "id": "chartwork.latitude-longitude-distance.q08",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How is a course of seven degrees true correctly written?",
@@ -181,7 +189,8 @@
       "id": "chartwork.latitude-longitude-distance.q09",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Over what range do latitude and longitude run?",
@@ -203,7 +212,8 @@
       "id": "chartwork.latitude-longitude-distance.q10",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You lift 8.0 nm on the dividers from a leg that lies near the middle of a Mercator chart. How do you check the length?",
@@ -224,7 +234,8 @@
       "id": "chartwork.latitude-longitude-distance.q11",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How many metres are in one international nautical mile?",
@@ -246,7 +257,8 @@
       "id": "chartwork.latitude-longitude-distance.q12",
       "lesson_id": "chartwork.latitude-longitude-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You are at 49 degrees 05.0 minutes N, 123 degrees 30.0 minutes W and steam 22.0 nm on a course of 180 degrees true. What is your new position?",

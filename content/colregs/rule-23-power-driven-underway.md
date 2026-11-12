@@ -2,7 +2,7 @@
 id: colregs.rule-23.power-driven-underway
 title: "Rule 23: Power-driven vessels underway"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 230
 summary: The lights of a power-driven vessel underway, the second masthead light rule at 50 m, the small-vessel options under 12 m and 7 m (and the Canadian limit on the 7 m option), plus air-cushion vessels and WIG craft.
 objectives:

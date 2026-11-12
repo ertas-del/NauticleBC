@@ -2,7 +2,7 @@
 id: chartwork.fixes-ranges-and-mixed
 title: "Fixing by ranges, range and bearing, and depth"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 130
 summary: How a measured range puts you on a circle round a charted object, why two ranges are the most accurate radar fix, how one object's range and bearing give a fix, and how a depth contour or sounding is used as a check once corrected for the tide.
 objectives:

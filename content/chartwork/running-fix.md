@@ -2,7 +2,7 @@
 id: chartwork.running-fix
 title: "Running fix"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 140
 summary: "Getting a fix from one object by advancing the first line of position along the run to the time of the second, allowing for a current, and the two short cuts: doubling the angle on the bow and the four-point (45 and 90 degree) bearing."
 objectives:

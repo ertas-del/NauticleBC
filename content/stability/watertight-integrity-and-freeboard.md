@@ -2,7 +2,7 @@
 id: stability.watertight-integrity-and-freeboard
 title: "Freeboard, watertight and weathertight"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 80
 summary: Why freeboard and closed openings matter. Covers watertight versus weathertight, downflooding, the angle at which the deck edge or an opening goes under, the master's duty about load lines, and the habits that keep a vessel's integrity.
 objectives:

@@ -2,7 +2,7 @@
 id: colregs.ns1-review-traps
 title: "NS1 review: the classic COLREGs traps"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 450
 summary: A last-week review of ten COLREGs facts that candidates most often get wrong, each paired with the tempting wrong answer and the reason it fails, built from the exam-focus facts of the existing COLREGs lessons.
 objectives:

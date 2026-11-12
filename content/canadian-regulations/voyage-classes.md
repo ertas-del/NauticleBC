@@ -2,7 +2,7 @@
 id: canadian-regulations.voyage-classes
 title: "Voyage classes and BC sheltered waters"
 module: canadian-regulations
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 30
 summary: "The five Canadian voyage classes (sheltered waters, inland, near coastal Class 2, near coastal Class 1, unlimited), how far each reaches, which certificate covers which, and where BC's listed sheltered waters are."
 objectives:

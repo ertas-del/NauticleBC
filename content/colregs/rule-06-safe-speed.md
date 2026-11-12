@@ -2,7 +2,7 @@
 id: colregs.rule-06.safe-speed
 title: "Rule 6: Safe speed"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 60
 summary: Safe speed is not a number. It is the speed that lets you act effectively to avoid collision and stop in a suitable distance, judged from visibility, traffic, manoeuvrability, conditions and radar limits, plus the Canadian rule for passing work and wrecks.
 objectives:

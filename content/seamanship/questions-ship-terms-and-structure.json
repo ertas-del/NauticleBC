@@ -4,7 +4,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q01",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A crane is described as being \"abaft the beam\". Where is it?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q02",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What does \"athwartships\" mean?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q03",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which pair is correctly matched?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q04",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A fitting must withstand water pressure from both sides of the door or hatch. Which word describes it?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q05",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which description of \"weathertight\" is best?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q06",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about bitts and bollards is right?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q07",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is an accommodation ladder?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q08",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "The bosun says: \"Stow the fenders outboard of the rail, starboard side, abaft the accommodation.\" Where do the fenders go?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "seamanship.ship-terms-and-structure.q09",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In which sense does \"aft\" differ from \"abaft\"?",
       "options": [

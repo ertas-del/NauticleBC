@@ -2,7 +2,7 @@
 id: chartwork.set-and-drift
 title: "Set, rate and drift"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 170
 summary: What set, rate and drift mean, how to find them by comparing a DR position with a fix, how to apply a known current to get an estimated position and the track and speed made good, and why the offset between DR and fix holds more than the current.
 objectives:

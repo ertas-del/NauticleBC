@@ -2,7 +2,7 @@
 id: chartwork.latitude-longitude-distance
 title: "Latitude, longitude and distance"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 30
 summary: How latitude and longitude name a position, how to plot and read one on the chart, why one minute of latitude is one nautical mile, how to measure distance and direction between two positions, and the plane-sailing check.
 objectives:

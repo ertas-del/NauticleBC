@@ -2,7 +2,7 @@
 id: canadian-regulations.distress-assistance-collision
 title: "Duties to assist and after a collision"
 module: canadian-regulations
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 20
 summary: "What the Canada Shipping Act, 2001 requires when you hear a distress signal, find someone in danger at sea, are requisitioned, are directed by a search and rescue coordinator, or collide with another vessel."
 objectives:

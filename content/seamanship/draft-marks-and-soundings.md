@@ -2,7 +2,7 @@
 id: seamanship.draft-marks-and-soundings
 title: "Draft marks, load lines, soundings and ullage"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 160
 summary: How to read draft marks, what the load line marks mean and why a master must not submerge them, how to sound a tank and the difference between sounding and ullage, and the hand lead line a larger vessel must carry.
 objectives:

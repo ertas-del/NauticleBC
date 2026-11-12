@@ -2,7 +2,7 @@
 id: bridge-watch.watchkeeping-principles
 title: "Principles of the navigational watch"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 25
 summary: "The standing rules of keeping a safe navigational watch under STCW A-VIII/2 as Canada applies them: never leave the bridge unmanned, what decides the size of the watch, and the officer's duties and limits."
 objectives:

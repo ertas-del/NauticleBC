@@ -2,7 +2,7 @@
 id: colregs.rule-27.nuc-ram
 title: "Rule 27: Not under command and restricted in ability to manoeuvre"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 270
 summary: Lights and shapes for vessels not under command and vessels restricted in their ability to manoeuvre, including towing, dredging and underwater work, small diving vessels and mine clearance, and the under-12 m exemption.
 objectives:

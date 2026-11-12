@@ -5,7 +5,8 @@
       "id": "chartwork.speed-time-distance.q01",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is a knot?",
@@ -27,7 +28,8 @@
       "id": "chartwork.speed-time-distance.q02",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Using the six-minute rule, how far does a vessel run in 6 minutes at 10.5 knots?",
@@ -49,7 +51,8 @@
       "id": "chartwork.speed-time-distance.q03",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How far does a vessel run in 3 minutes at 14 knots?",
@@ -71,7 +74,8 @@
       "id": "chartwork.speed-time-distance.q04",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel steams at 7.5 knots for 44 minutes. How far does she go?",
@@ -93,7 +97,8 @@
       "id": "chartwork.speed-time-distance.q05",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A passage of 11.5 nm is made at 8 knots. How long does it take?",
@@ -115,7 +120,8 @@
       "id": "chartwork.speed-time-distance.q06",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel runs 10 nm at 10 knots and then 10 nm at 5 knots. What is her average speed for the 20 nm?",
@@ -137,7 +143,8 @@
       "id": "chartwork.speed-time-distance.q07",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel leaves at 0945 and the passage takes 2 h 20 min. What is the ETA?",
@@ -159,7 +166,8 @@
       "id": "chartwork.speed-time-distance.q08",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A log shows 7.0 knots and GNSS shows 8.4 knots on the same track. Which statement is correct?",
@@ -181,7 +189,8 @@
       "id": "chartwork.speed-time-distance.q09",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which statement uses the unit correctly?",
@@ -203,7 +212,8 @@
       "id": "chartwork.speed-time-distance.q10",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel runs for 22 minutes at 14 knots. How far does she go?",
@@ -225,7 +235,8 @@
       "id": "chartwork.speed-time-distance.q11",
       "lesson_id": "chartwork.speed-time-distance",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "At 12 knots, how far does a vessel run in one minute?",

@@ -5,7 +5,8 @@
       "id": "stability.g-b-and-m.q01",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the centre of gravity (G) of a vessel?",
@@ -29,7 +30,8 @@
       "id": "stability.g-b-and-m.q02",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the centre of buoyancy (B)?",
@@ -53,7 +55,8 @@
       "id": "stability.g-b-and-m.q03",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel with nothing shifting heels over a few degrees to starboard. What happens to G and to B?",
@@ -77,7 +80,8 @@
       "id": "stability.g-b-and-m.q04",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At a small angle of heel, which is the metacentre (M)?",
@@ -101,7 +105,8 @@
       "id": "stability.g-b-and-m.q05",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "M is below G in a vessel that is upright in still water. What kind of equilibrium is she in, and what will happen?",
@@ -125,7 +130,8 @@
       "id": "stability.g-b-and-m.q06",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel's GM is exactly zero. Which description fits?",
@@ -149,7 +155,8 @@
       "id": "stability.g-b-and-m.q07",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "An invented box-shaped barge is 8.0 m long and 3.0 m wide and floats at a draught of 0.80 m. Using KB = half the draught and BM = I / V with I = L x B^3 / 12, what is KM?",
@@ -173,7 +180,8 @@
       "id": "stability.g-b-and-m.q08",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Two barges have the same length and draught, but the second is twice as wide as the first. Compared with the first, how does the second barge's BM compare?",
@@ -197,7 +205,8 @@
       "id": "stability.g-b-and-m.q09",
       "lesson_id": "stability.g-b-and-m",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which is the most common cause of lost stability on small vessels?",

@@ -6,7 +6,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At what stage do the Transport Canada emergency procedures tell the master to alert the authorities?",
@@ -30,7 +31,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which vessel must have a float-free EPIRB under NSR 2020 s. 209(1)?",
@@ -52,7 +54,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 14 m vessel is on a near coastal voyage, Class 2. What does NSR 2020 s. 209 require of her?",
@@ -74,7 +77,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 7 m vessel on a near coastal voyage, Class 2 operates only in sea area A1. Which of these meets NSR 2020 s. 209(3)?",
@@ -96,7 +100,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "After a change of owner, what must be done about a registered EPIRB?",
@@ -118,7 +123,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A crew member accidentally knocks the DSC distress button and an alert is transmitted. What must be done?",
@@ -140,7 +146,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How many pyrotechnic distress signals must a 10 m passenger-carrying vessel carry under SVR s. 410, and how many of them may be smoke signals?",
@@ -162,7 +169,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A passenger-carrying vessel is 5 m long. What visual signals does SVR s. 410 require?",
@@ -184,7 +192,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A tour operator is about to depart from a float with a 9 m passenger vessel. What does SVR s. 402 require before departure?",
@@ -206,7 +215,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A master in Canadian waters receives a distress signal from a vessel nearby. What does s. 131(1) of the Canada Shipping Act, 2001 require?",
@@ -228,7 +238,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The master of a vessel in distress finds several vessels answering. Which statement matches s. 131 of the Canada Shipping Act, 2001?",
@@ -250,7 +261,8 @@
       "lesson_id": "seamanship.calling-for-help",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A skipper fires a parachute flare to attract a friend's boat that is not in any danger. What does TP 14070 say?",

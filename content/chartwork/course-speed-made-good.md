@@ -2,7 +2,7 @@
 id: chartwork.course-speed-made-good
 title: "Course and speed made good, ETA and fuel"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 200
 summary: How to find the course and speed made good between two fixes, how to use the speed made good for ETAs and for the speed needed to arrive on time, and how to work fuel for a coastal passage from consumption, time and a reserve.
 objectives:

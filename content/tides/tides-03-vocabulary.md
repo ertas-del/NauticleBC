@@ -2,7 +2,7 @@
 id: tides.vocabulary
 title: "Tide vocabulary"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 3
 summary: The words every tide table and chart uses, and the key difference between tide (up and down) and tidal stream (sideways).
 objectives:

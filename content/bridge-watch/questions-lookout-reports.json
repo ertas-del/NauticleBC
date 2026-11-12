@@ -6,7 +6,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which report is best for a look-out to give the officer on seeing a white light off the starboard bow?",
@@ -28,7 +29,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does closed-loop communication mean for a look-out report?",
@@ -50,7 +52,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A look-out spots a fishing boat but is not sure if it is a danger and waits for two more minutes to be certain before reporting. What is wrong with this?",
@@ -72,7 +75,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "According to the Collision Regulations, what is deemed to exist if the compass bearing of an approaching vessel does not appreciably change?",
@@ -94,7 +98,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these is a situation where risk of collision may still exist even though the bearing is changing?",
@@ -116,7 +121,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these should a look-out report in addition to other ships?",
@@ -138,7 +144,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At night you see a red sidelight and a masthead light on a vessel on your port bow. What does the red sidelight tell you?",
@@ -160,7 +167,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "You see a single white light low down, with no red or green lights, on a vessel ahead of you. What does this suggest about her heading relative to you?",
@@ -183,7 +191,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Radar ranges on a steady-bearing vessel are 3.0 nm at 2100, 2.4 nm at 2103 and 1.8 nm at 2106. If nothing changes, at about what time will the vessels meet?",
@@ -205,7 +214,8 @@
       "lesson_id": "bridge-watch.lookout-reports",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Your ship heads 090 compass and you report a vessel at 030 relative. You then alter course to 110 compass and the same vessel is now at 010 relative. Has the compass bearing changed?",

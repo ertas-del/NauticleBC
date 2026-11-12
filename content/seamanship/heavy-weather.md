@@ -2,7 +2,7 @@
 id: seamanship.heavy-weather
 title: "Heavy weather and following seas"
 module: seamanship
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 220
 summary: Preparing a small vessel for heavy weather, why following and quartering seas are dangerous (lost stability, broaching, pitchpoling), what to do with speed and course, freeing ports and ice, and the master's duty to warn others under the Canada Shipping Act.
 objectives:

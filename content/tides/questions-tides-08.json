@@ -5,7 +5,8 @@
       "id": "tides.planning-a-pass.q01",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which publication do you use to plan a passage through a narrow pass?",
@@ -31,7 +32,8 @@
       "id": "tides.planning-a-pass.q02",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "The table gives slack at 0750 PST and daylight saving time is in effect. What is slack on the clock?",
@@ -57,7 +59,8 @@
       "id": "tides.planning-a-pass.q03",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why decide the highest acceptable stream before looking up the times?",
@@ -83,7 +86,8 @@
       "id": "tides.planning-a-pass.q04",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A pass entrance is 18.0 nm away. Your speed made good is 6.0 knots and you want to arrive at 1130. When must you leave?",
@@ -109,7 +113,8 @@
       "id": "tides.planning-a-pass.q05",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Planned speed made good is 7.5 knots over 18.0 nm and the window is 1512 to 1552. Departure is 1253. If the speed made good turns out to be 5.5 knots, what happens?",
@@ -135,7 +140,8 @@
       "id": "tides.planning-a-pass.q06",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why aim for the early part of the window and wait outside, rather than the late part?",
@@ -161,7 +167,8 @@
       "id": "tides.planning-a-pass.q07",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why check the wind forecast against the stream direction when planning a pass?",
@@ -187,7 +194,8 @@
       "id": "tides.planning-a-pass.q08",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The maximum stream is 4.0 knots, 180 minutes after slack, and your limit is 1.0 knot. Using the sine model (stream = maximum x sin of 90 degrees x minutes / 180), about how many minutes either side of slack is the stream below the limit?",
@@ -213,7 +221,8 @@
       "id": "tides.planning-a-pass.q09",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The table gives slack, but a strong wind is forecast. What should you assume?",
@@ -239,7 +248,8 @@
       "id": "tides.planning-a-pass.q10",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What belongs in the plan in case you miss the window?",
@@ -265,7 +275,8 @@
       "id": "tides.planning-a-pass.q11",
       "lesson_id": "tides.planning-a-pass",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At a check fix on the way to the pass, the recalculated ETA falls after the window closes. What do you do?",

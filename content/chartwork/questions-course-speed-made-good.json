@@ -5,7 +5,8 @@
       "id": "chartwork.course-speed-made-good.q01",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "How is the course made good found?",
@@ -28,7 +29,8 @@
       "id": "chartwork.course-speed-made-good.q02",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Two fixes are 15.0 nm apart and were taken 2 hours 30 minutes apart. What is the speed made good?",
@@ -51,7 +53,8 @@
       "id": "chartwork.course-speed-made-good.q03",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why can the course made good differ from the course steered, and speed made good from log speed?",
@@ -74,7 +77,8 @@
       "id": "chartwork.course-speed-made-good.q04",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At 0915 a vessel has 24 nm to go. Her speed made good is 6 knots; the log reads 8 knots. What is the ETA, using the right speed?",
@@ -97,7 +101,8 @@
       "id": "chartwork.course-speed-made-good.q05",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A destination is 27 nm away and you must arrive within 3 hours. What speed over the ground is needed?",
@@ -120,7 +125,8 @@
       "id": "chartwork.course-speed-made-good.q06",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Fuel consumption is 18 litres per hour. The passage will take 4 hours 20 minutes at that rate. How much fuel is burned, before any reserve?",
@@ -143,7 +149,8 @@
       "id": "chartwork.course-speed-made-good.q07",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 20 nm passage burns 15 litres per hour. Planned speed made good is 8 knots, but a foul current cuts it to 5 knots. How much extra fuel does the foul current cost?",
@@ -166,7 +173,8 @@
       "id": "chartwork.course-speed-made-good.q08",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which consumption figure should be used when planning the fuel for a passage?",
@@ -189,7 +197,8 @@
       "id": "chartwork.course-speed-made-good.q09",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How big a fuel reserve must be carried according to the sources used for this course?",
@@ -212,7 +221,8 @@
       "id": "chartwork.course-speed-made-good.q10",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A tank holds 500 L, of which 90 percent is usable. The engine burns 25 L/h and the speed made good is 8 knots. What is the range?",
@@ -235,7 +245,8 @@
       "id": "chartwork.course-speed-made-good.q11",
       "lesson_id": "chartwork.course-speed-made-good",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "When should the ETA and the fuel remaining be recalculated?",

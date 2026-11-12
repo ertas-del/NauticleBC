@@ -2,7 +2,7 @@
 id: bridge-watch.emergency-alarms-and-muster
 title: "Alarms, muster lists and emergency duties"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 180
 summary: The general emergency alarm and fire alarm signals, what a muster list must say and where it is posted, what crew do when an alarm sounds, and how often drills are held under the Fire and Boat Drills Regulations.
 objectives:

@@ -2,7 +2,7 @@
 id: bridge-watch.man-overboard
 title: "Man overboard: the look-out's job"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 190
 summary: What the person who sees someone fall overboard does in the first seconds, what the officer of the watch does at the helm, the Williamson, Anderson and Scharnow turns and when each is used, and the lifebuoy and flag O basics.
 objectives:

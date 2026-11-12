@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-01.q01",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Where do the Collision Regulations apply?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-01.q02",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A harbour authority publishes its own special rules for vessels in the harbour. How do these fit with the Collision Regulations?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-01.q03",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A crew member on a small fishing boat in a coastal inlet says the Rules are \"for big ships, and not for boats our size.\" Which reply is best supported by Rule 1?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-01.q04",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A Canadian vessel of special construction cannot fully meet the Rules on the position of its lights without harming its special job. Who decides what the vessel must do instead?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-01.q05",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "A group of fishing vessels working together as a fleet want to use an extra signal light that would look like an official light for a vessel not under command. What does Rule 1 say about extra signals for fishing fleets?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-01.q06",
       "lesson_id": "colregs.rule-01.application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Under Rule 1, which body may adopt traffic separation schemes for the purpose of the Rules?",
       "options": [

@@ -2,7 +2,7 @@
 id: colregs.rule-19.restricted-visibility
 title: "Rule 19: Conduct of vessels in restricted visibility"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 190
 summary: In or near restricted visibility, with vessels not in sight, there is no stand-on vessel. Go at a safe speed with engines ready, act in ample time on radar contacts while avoiding the two forbidden alterations, and slow to bare steerage for a fog signal forward of the beam.
 objectives:

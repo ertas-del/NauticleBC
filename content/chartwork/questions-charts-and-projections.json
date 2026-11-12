@@ -5,7 +5,8 @@
       "id": "chartwork.charts-and-projections.q01",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "On a Mercator chart, which line is drawn straight?",
@@ -26,7 +27,8 @@
       "id": "chartwork.charts-and-projections.q02",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does it mean to say a Mercator chart is conformal?",
@@ -47,7 +49,8 @@
       "id": "chartwork.charts-and-projections.q03",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why can the poles not be shown on a Mercator chart?",
@@ -68,7 +71,8 @@
       "id": "chartwork.charts-and-projections.q04",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A navigator draws a great-circle track on a gnomonic chart. What is the normal next step?",
@@ -89,7 +93,8 @@
       "id": "chartwork.charts-and-projections.q05",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which of these charts shows the most detail of a small harbour?",
@@ -110,7 +115,8 @@
       "id": "chartwork.charts-and-projections.q06",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "On a chart of scale 1:25 000 you measure 9.26 cm between two points. What is the ground distance?",
@@ -131,7 +137,8 @@
       "id": "chartwork.charts-and-projections.q07",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "On a chart of scale 1:75 000, about how long on the chart is a passage of 3 nm?",
@@ -152,7 +159,8 @@
       "id": "chartwork.charts-and-projections.q08",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A leg lies near 50 degrees N on a Mercator chart that spans 48 to 53 degrees N. Which scale do you use to measure its length?",
@@ -173,7 +181,8 @@
       "id": "chartwork.charts-and-projections.q09",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement matches Navigation Safety Regulations, 2020, s. 142 for charts?",
@@ -195,7 +204,8 @@
       "id": "chartwork.charts-and-projections.q10",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Before a chart is used to plan and execute a voyage, what does s. 146 require?",
@@ -216,7 +226,8 @@
       "id": "chartwork.charts-and-projections.q11",
       "lesson_id": "chartwork.charts-and-projections",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 60 GT Canadian vessel works the same stretch of coast every week. Her master knows the charted routes, lights, buoys, hazards, tides, currents and weather patterns of the area well. How does s. 142(1) apply to her?",

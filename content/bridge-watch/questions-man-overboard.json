@@ -6,7 +6,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You see a crew member fall overboard from the port side. What do you do first?",
@@ -29,7 +30,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A person falls overboard on the starboard side. In which direction does the officer of the watch put the helm first?",
@@ -52,7 +54,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does the single-letter flag O mean in the International Code of Signals?",
@@ -74,7 +77,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which description matches the Williamson turn?",
@@ -97,7 +101,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A ship is steering 090 and a person falls from the starboard side. She makes a Williamson turn, turning to starboard first. What are the headings at which the rudder is put the other way, and at which it is centred?",
@@ -119,7 +124,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "In good visibility a person has just fallen overboard and is still clearly in sight. Which turn is quickest?",
@@ -142,7 +148,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "It is night with poor visibility, and the person was reported missing some time ago. Which turn is usually chosen to return along the original track?",
@@ -165,7 +172,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which statement correctly describes the Scharnow turn?",
@@ -188,7 +196,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A passenger-carrying vessel of 8 m (not more than 15 gross tonnage, 12 passengers or fewer) is being inspected under the Small Vessel Regulations. Which personal life-saving appliance satisfies the heaving line and lifebuoy item for her length, and what else must she carry?",
@@ -210,7 +219,8 @@
       "lesson_id": "bridge-watch.man-overboard",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A person falls into 8 degree Celsius water. According to the 1-10-1 principle, about how long do they have useful movement before cold incapacitation sets in?",

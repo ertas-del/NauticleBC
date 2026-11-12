@@ -2,7 +2,7 @@
 id: seamanship.man-overboard-recovery
 title: "Man overboard: approach, recovery and aftercare"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 260
 summary: "The master's side of a man-overboard - the Transport Canada procedure, marking the position, the slow upwind approach, stopping the propeller, who is recovered first, hypothermia handling, reboarding equipment and the TSB report."
 objectives:

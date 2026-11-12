@@ -2,7 +2,7 @@
 id: stability.righting-lever-gz-curve
 title: "Righting lever and the GZ curve"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 40
 summary: GZ is the lever that turns a heeled vessel back upright. This lesson covers GZ = GM x sin(angle), righting moment, how to read a GZ curve (maximum, range, vanishing angle, downflooding) and how a steady wind heels a vessel to a settled angle.
 objectives:

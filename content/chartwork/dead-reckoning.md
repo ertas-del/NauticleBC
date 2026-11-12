@@ -2,7 +2,7 @@
 id: chartwork.dead-reckoning
 title: "Dead reckoning and estimated position"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 110
 summary: How to advance a known position by course and speed through the water, what a DR ignores, when to plot a DR position, how to label the plot, and how an estimated position adds current, wind and steering effects. Includes a worked two-leg plot with positions by plane sailing.
 objectives:

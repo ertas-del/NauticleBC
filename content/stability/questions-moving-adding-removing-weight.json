@@ -5,7 +5,8 @@
       "id": "stability.moving-adding-removing-weight.q01",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A 2 t catch is slid from the centreline to the port side of the deck. In which direction does the vessel's G move?",
@@ -28,7 +29,8 @@
       "id": "stability.moving-adding-removing-weight.q02",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 2.4 t load is moved 3.0 m vertically upward on a vessel of 60 t displacement. By how much does G rise?",
@@ -51,7 +53,8 @@
       "id": "stability.moving-adding-removing-weight.q03",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 3 t load is loaded with its centre 2.0 m above the vessel's old G. The new displacement is 63 t. What is the shift of G?",
@@ -74,7 +77,8 @@
       "id": "stability.moving-adding-removing-weight.q04",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel discharges 2 t of cargo whose centre was 1.5 m below G. The final displacement is 38 t. What happens to G?",
@@ -97,7 +101,8 @@
       "id": "stability.moving-adding-removing-weight.q05",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of the following RAISES G?",
@@ -120,7 +125,8 @@
       "id": "stability.moving-adding-removing-weight.q06",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "G has moved 0.05 m sideways, and the vessel's GM is 0.30 m. What is the angle of list, using the small-angle formula tan(list) = GG1 / GM?",
@@ -143,7 +149,8 @@
       "id": "stability.moving-adding-removing-weight.q07",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The same sideways shift of G is made on two vessels, one with GM 0.60 m and one with GM 0.20 m. What is the result?",
@@ -166,7 +173,8 @@
       "id": "stability.moving-adding-removing-weight.q08",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel has a lasting lean to port. When the seas hit her she stays leaning to port, and does not move to the other side. After checking, you find GM is positive. What is the lean, and what is the usual cure?",
@@ -189,7 +197,8 @@
       "id": "stability.moving-adding-removing-weight.q09",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel is leaning, and the lean changes to the other side as she rolls in the sea. What is this, and what must be done?",
@@ -212,7 +221,8 @@
       "id": "stability.moving-adding-removing-weight.q10",
       "lesson_id": "stability.moving-adding-removing-weight",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "3 t is moved 1.8 m downward on a vessel of 45 t displacement whose GM is 0.40 m. What is the new GM (KM does not change)?",

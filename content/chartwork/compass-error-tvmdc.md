@@ -2,7 +2,7 @@
 id: chartwork.compass-error-tvmdc
 title: "Converting True, Magnetic and Compass"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 80
 summary: The True-Variation-Magnetic-Deviation-Compass chain, compass error as the algebraic sum of variation and deviation, the add-east rule for compass to true, true to compass in either direction, bearings versus courses, and ten practice conversions.
 objectives:

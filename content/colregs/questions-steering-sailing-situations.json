@@ -4,7 +4,7 @@
     {
       "id": "colregs.steering-sailing.q01",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You steer 330 degrees true in clear weather. A power-driven vessel bears 100 degrees true from you and is gaining on you. What is the situation?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.steering-sailing.q02",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You steer 010 degrees true in a power-driven vessel. A faster power-driven vessel bears 120 degrees true from you and is converging with a steady bearing. Who keeps out of the way?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.steering-sailing.q03",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is the first question to ask yourself in any encounter, before choosing an action?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.steering-sailing.q04",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night, in a power-driven vessel, you see dead ahead two white lights nearly in line, the after one higher, with both a red and a green light below them. The range is closing. What do you do?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.steering-sailing.q05",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are the stand-on power-driven vessel in a crossing. The give-way vessel on your port bow has not altered and the range is down to about 1.5 miles. You are now in doubt whether she is taking enough action. What is the correct next step?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.steering-sailing.q06",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Put the stand-on vessel's duties in the right order as the range closes.",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.steering-sailing.q07",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In fog, with nothing in sight, a radar contact at 030 degrees relative is closing with a steady bearing. A close-quarters situation is developing. If you alter course, which is the usual choice?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.steering-sailing.q08",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "In fog you have two radar contacts closing: one at 030 degrees relative and one at 135 degrees relative. Both are developing into close-quarters situations. Which action best fits Rule 19(d)?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "colregs.steering-sailing.q09",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "In clear weather a tug is overtaking your power-driven vessel from your starboard quarter. A fog bank closes in and you lose sight of her, though she is still on radar at 140 degrees relative and closing. What changes?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "colregs.steering-sailing.q10",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In clear weather your power-driven vessel meets a seine boat with her net out, crossing from your port side with a steady bearing. Who keeps out of the way?",
       "options": [

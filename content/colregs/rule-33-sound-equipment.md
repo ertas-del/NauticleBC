@@ -2,7 +2,7 @@
 id: colregs.rule-33.sound-equipment
 title: "Rule 33: Equipment for sound signals (with Annex III basics)"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 330
 summary: What sound gear a vessel must carry by length (12 m whistle, 20 m bell, 100 m gong), what a vessel under 12 m needs, the Canadian rule for small pushing and pulling vessels, and the Annex III basics.
 objectives:

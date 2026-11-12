@@ -2,7 +2,7 @@
 id: chartwork.current-tables-and-passes
 title: "Current tables, current stations and BC passes"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 220
 summary: How to take a predicted stream from the current tables into the chart plot - hourly rates along a track, fair and foul streams, cross streams - and why BC's narrow passes are timed for slack water, with wind against stream and the limits of the predictions.
 objectives:

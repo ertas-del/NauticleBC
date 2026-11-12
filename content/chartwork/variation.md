@@ -2,7 +2,7 @@
 id: chartwork.variation
 title: "Variation and the compass rose"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 60
 summary: What variation is, how to read it from the compass rose, how to bring it up to date for the current year using the annual change (including when it crosses zero), and how to convert between true and magnetic.
 objectives:

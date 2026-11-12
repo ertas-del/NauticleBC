@@ -4,7 +4,7 @@
     {
       "id": "tides.types-of-tide.q01",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A place has two high waters and two low waters in a lunar day, with the two highs about equal in height and the two lows about equal in height. What type of tide is this?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.types-of-tide.q02",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "How many high waters does a diurnal tide have in a lunar day?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.types-of-tide.q03",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "What is the \"diurnal inequality\" in a mixed tide?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.types-of-tide.q04",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which is the safest general description of the tides on the BC coast, based on the sources in this lesson?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.types-of-tide.q05",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In an invented example, a day's two low waters are 0.4 m and 1.9 m above chart datum. Which statement is correct?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.types-of-tide.q06",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Why do neighbouring coasts and ocean basins sometimes have different tide patterns?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.types-of-tide.q07",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You saw that this morning's low water was very low on a mixed-tide coast. You plan to cross a shoal at the afternoon low water. What is the best approach?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.types-of-tide.q08",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Invented figures: a place has two high waters today, at 4.1 m and 2.9 m, and two low waters, at 0.3 m and 1.6 m. What type of tide does this pattern show?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "tides.types-of-tide.q09",
       "lesson_id": "tides.types-of-tide",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "On a mixed-tide coast, when would you expect the diurnal inequality to be at its largest?",
       "options": [

@@ -4,7 +4,7 @@
     {
       "id": "tides.tide-tables-and-heights.q01",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about the rule of twelfths is correct?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.tide-tables-and-heights.q02",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Invented figures: low water at 0600 is 0.6 m and the next high water at 1200 is 4.2 m. Using the rule of twelfths, what is the height of tide at 1000?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.tide-tables-and-heights.q03",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Same invented tide: low water at 0600 is 0.6 m and high water at 1200 is 4.2 m. Using the rule of twelfths, with the running total of 3/12 at 0800 and 6/12 at 0900 and splitting the hour evenly, about what is the height at 0830?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.tide-tables-and-heights.q04",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Invented figures: a shoal has a charted sounding of 1.5 m. At 0900 the height of tide is 2.4 m. Your draft is 1.8 m. How much water is there under your keel over the shoal at 0900?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.tide-tables-and-heights.q05",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Invented figures: a shoal has a charted sounding of 1.0 m. Your draft is 1.8 m and you want 1.2 m under the keel. The tide rises from low water 0.6 m at 0600 to high water 4.2 m at 1200. Using the rule of twelfths at whole hours (0.9 m at 0700, 1.5 m at 0800, 2.4 m at 0900, 3.3 m at 1000, 3.9 m at 1100), what is the first whole hour with enough water?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.tide-tables-and-heights.q06",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Invented figures: a reference port has low water at 0715 with a height of 0.8 m. The correction for a secondary port is a time difference of plus 0 h 50 min and a height difference of minus 0.2 m. What are the secondary port's low water time and height?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.tide-tables-and-heights.q07",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Invented scenario: a tide table states that its times are in standard time. Daylight saving time is in effect, and the table shows high water at 1400. At what time on the clocks aboard will high water occur?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.tide-tables-and-heights.q08",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What does a tide table give for each day at a reference port, and what are its heights measured from?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "tides.tide-tables-and-heights.q09",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Using the rule of twelfths on a regular rise lasting about six hours, how much of the range has the water covered three hours after low water?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "tides.tide-tables-and-heights.q10",
       "lesson_id": "tides.tide-tables-and-heights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A strong onshore gale and very low air pressure have lasted for two days. How should you treat the predicted heights in the tide table?",
       "options": [

@@ -5,7 +5,8 @@
       "id": "chartwork.set-and-drift.q01",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A current is said to have a set of 135 degrees. What does this mean?",
@@ -27,7 +28,8 @@
       "id": "chartwork.set-and-drift.q02",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement defines rate and drift correctly?",
@@ -49,7 +51,8 @@
       "id": "chartwork.set-and-drift.q03",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A current sets 270 degrees at 2.5 knots. How far does it carry the ship in 45 minutes?",
@@ -71,7 +74,8 @@
       "id": "chartwork.set-and-drift.q04",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A fix is taken 1.5 hours after the DR was started. It lies 2.0 nm from the DR position in the direction 045 degrees. What are the set and the rate?",
@@ -93,7 +97,8 @@
       "id": "chartwork.set-and-drift.q05",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why can the difference between a DR and a fix not simply be called 'the current'?",
@@ -115,7 +120,8 @@
       "id": "chartwork.set-and-drift.q06",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A ship steers 000 degrees at 6 knots for 3 hours. The current sets 090 degrees at 1.0 knot. Which gives the track and speed made good?",
@@ -137,7 +143,8 @@
       "id": "chartwork.set-and-drift.q07",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How is the estimated position found from a DR and a known set and rate?",
@@ -159,7 +166,8 @@
       "id": "chartwork.set-and-drift.q08",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A current sets 270 degrees. In which direction does it push the ship?",
@@ -181,7 +189,8 @@
       "id": "chartwork.set-and-drift.q09",
       "lesson_id": "chartwork.set-and-drift",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "After finding the set and drift from a DR and a fix, from where is the next DR laid?",

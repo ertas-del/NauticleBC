@@ -2,7 +2,7 @@
 id: seamanship.special-buoys-daybeacons-ranges
 title: "Special buoys, daybeacons, ranges and radar aids"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 30
 summary: Canada's special-purpose buoys (yellow and white-and-orange), fixed daybeacons, ranges, RACONs and radar reflectors, fog signals and AIS aids. What each looks like and what it is telling you.
 objectives:

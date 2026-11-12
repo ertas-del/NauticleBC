@@ -5,7 +5,8 @@
       "id": "chartwork.distance-off-lights.q01",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What does the geographic range of a light depend on?",
@@ -29,7 +30,8 @@
       "id": "chartwork.distance-off-lights.q02",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A light is charted at 36 m. Your eye is 4 m above the water. Using distance = 2.08 x (square root of H + square root of h), how far off is the light when it first appears on the horizon?",
@@ -53,7 +55,8 @@
       "id": "chartwork.distance-off-lights.q03",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A text gives the horizon distance as 1.17 x the square root of the height in feet, while another gives 2.08 x the square root of the height in metres. What is the right way to treat the two constants?",
@@ -77,7 +80,8 @@
       "id": "chartwork.distance-off-lights.q04",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the nominal range of a light?",
@@ -101,7 +105,8 @@
       "id": "chartwork.distance-off-lights.q05",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is the luminous range of a light?",
@@ -125,7 +130,8 @@
       "id": "chartwork.distance-off-lights.q06",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A light has a nominal range of 20 nm and a geographic range for your eye of 15 nm. Visibility is poor and the luminous range is 8 nm. At what distance do you expect to see the light?",
@@ -149,7 +155,8 @@
       "id": "chartwork.distance-off-lights.q07",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "On Canadian charts in tidal waters, the heights of lights are normally measured above which level?",
@@ -173,7 +180,8 @@
       "id": "chartwork.distance-off-lights.q08",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "At low tide the actual water level is several metres below the high-water datum used for a charted light height. Compared with the figure from the chart, what does this do to the distance at which you first see the light?",
@@ -197,7 +205,8 @@
       "id": "chartwork.distance-off-lights.q09",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 40 m light is first sighted from two decks, one with the eye at 2 m and one at 10 m. About how much sooner does the higher eye see it?",
@@ -221,7 +230,8 @@
       "id": "chartwork.distance-off-lights.q10",
       "lesson_id": "chartwork.distance-off-lights",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A light is first sighted bearing 262 degrees true from the ship, and the calculated distance off is 14.0 nm. Where does the first sighting put the ship?",

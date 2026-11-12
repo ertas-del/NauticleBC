@@ -2,7 +2,7 @@
 id: stability.free-surface
 title: "Free surface effect"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 70
 summary: Liquid that can slosh in a part-full tank, hold or deck well acts like a rise of G and cuts the effective GM. This lesson gives the cause, the formula (breadth cubed), worked losses of GM, and the habits and fittings that limit it.
 objectives:

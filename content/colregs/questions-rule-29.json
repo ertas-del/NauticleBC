@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-29.q01",
       "lesson_id": "colregs.rule-29.pilot-vessels",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which two all-round lights in a vertical line, at or near the masthead, identify a vessel on pilotage duty?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-29.q02",
       "lesson_id": "colregs.rule-29.pilot-vessels",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you see white over red all-round lights at a masthead and a red sidelight below. What is she and what is she doing?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-29.q03",
       "lesson_id": "colregs.rule-29.pilot-vessels",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A pilot vessel on duty is waiting at anchor for an inbound ship. What does she show at night?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-29.q04",
       "lesson_id": "colregs.rule-29.pilot-vessels",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A 16 m power-driven pilot boat has finished her duties and is returning to base. What lights should she show?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-29.q05",
       "lesson_id": "colregs.rule-29.pilot-vessels",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which statement about the signals in Rule 29 is correct?",
       "options": [

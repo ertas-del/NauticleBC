@@ -2,7 +2,7 @@
 id: machinery.underwater.fittings
 title: "Underwater fittings: sea chests, seacocks, anodes and propulsors"
 module: machinery
-tickets: [svmo]
+tickets: [svmo, fishing-master-4]
 order: 340
 summary: "The fittings below the waterline that an engineer looks after: sea chests, seacocks and strainers, through-hull discharges, keel coolers, sacrificial anodes, nozzles and propeller types, and why a failed fitting is a flooding risk."
 objectives:

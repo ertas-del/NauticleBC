@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-10.q01",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A vessel is using a traffic separation scheme. Where should she be?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-10.q02",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "You must cross a traffic lane. How should you do it?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-10.q03",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are skipper of a 15 metre power vessel travelling along a coast with a traffic separation scheme offshore. There is an inshore traffic zone between the scheme and the shore, and you can safely use the adjacent lane. May you use the inshore traffic zone?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-10.q04",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which of these is a reason that allows a vessel to enter a separation zone or cross a separation line?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-10.q05",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You command a 30 metre power-driven vessel. Under the Canadian addition to Rule 10, what applies to your use of a recommended traffic separation scheme that you could safely use for your passage, and what if you choose not to use it?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-10.q06",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "A fishing vessel is trolling in or near a routing system in Canadian waters. Which statement best describes the Canadian provision?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.rule-10.q07",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are on a passage that does not use a traffic separation scheme, but your route passes near one. What does Rule 10 ask of you?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.rule-10.q08",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You need to join a traffic lane partway along its length rather than at its end. How should you join?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "colregs.rule-10.q09",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A 12 metre sailing vessel is about to sail across a traffic lane in which a large power-driven ship is following the lane. What duty does Rule 10 put on the sailing vessel?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "colregs.rule-10.q10",
       "lesson_id": "colregs.rule-10.traffic-separation",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Two power-driven vessels in the same traffic lane are on courses that create a risk of collision. One says, \"We are both following the lane, so the crossing and overtaking rules do not apply here.\" Which statement is correct?",
       "options": [

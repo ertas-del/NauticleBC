@@ -2,7 +2,7 @@
 id: seamanship.shiphandling
 title: "Handling a small vessel: propeller, rudder, pivot point, wind and current"
 module: seamanship
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 210
 summary: The forces that decide how a small single-screw vessel behaves near a berth - propeller walk, the rudder, the pivot point, wind and current - with a safe approach, and a plain statement of what the sources do and do not give.
 objectives:

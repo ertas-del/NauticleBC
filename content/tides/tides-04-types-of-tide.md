@@ -2,7 +2,7 @@
 id: tides.types-of-tide
 title: "Types of tide"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 4
 summary: Semidiurnal, diurnal and mixed tides, why they differ from coast to coast, and what that means on the BC coast.
 objectives:

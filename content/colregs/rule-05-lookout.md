@@ -2,7 +2,7 @@
 id: colregs.rule-05.lookout
 title: "Rule 5: Keeping a proper lookout"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 50
 summary: Every vessel keeps a proper lookout at all times, by sight, by hearing and by all available means that suit the conditions, so the watch can fully appraise the situation and the risk of collision.
 objectives:

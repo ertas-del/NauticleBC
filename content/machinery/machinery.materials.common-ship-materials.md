@@ -2,7 +2,7 @@
 id: machinery.materials.common-ship-materials
 title: "Common ship materials: steel, cast iron, copper alloys, aluminium and GRP"
 module: machinery
-tickets: [svmo]
+tickets: [svmo, fishing-master-4]
 order: 10
 summary: What the common materials in a small vessel are made of, what each is good and bad at, where you find them in the engine room, and why dissimilar metals in seawater corrode and how sacrificial zinc anodes protect them.
 objectives:

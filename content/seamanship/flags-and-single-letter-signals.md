@@ -2,7 +2,7 @@
 id: seamanship.flags-and-single-letter-signals
 title: "Flags, single-letter signals and the phonetic alphabet"
 module: seamanship
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 150
 summary: When a Canadian ship must fly the national flag, the signal flags a vessel must carry, the International Code of Signals single-letter meanings A to Z (grouped to be learned), and the phonetic alphabet.
 objectives:

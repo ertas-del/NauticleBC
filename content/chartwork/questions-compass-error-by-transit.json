@@ -5,7 +5,8 @@
       "id": "chartwork.compass-error-by-transit.q01",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is a transit in the sense used for finding compass error?",
@@ -27,7 +28,8 @@
       "id": "chartwork.compass-error-by-transit.q02",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why does a transit give the compass error without a fix?",
@@ -49,7 +51,8 @@
       "id": "chartwork.compass-error-by-transit.q03",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The chart gives the true bearing of a transit as 220 degrees. The ship's compass bearing of the objects in line is 213 degrees. What is the compass error?",
@@ -71,7 +74,8 @@
       "id": "chartwork.compass-error-by-transit.q04",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Compass error found from a transit is 15 degrees E. The corrected variation is 17 degrees E. What is the deviation on that heading?",
@@ -93,7 +97,8 @@
       "id": "chartwork.compass-error-by-transit.q05",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A transit has a true bearing of 215 degrees. The compass bearing is 199 degrees. The variation, corrected to this year, is 17 degrees E. What are the compass error and deviation?",
@@ -115,7 +120,8 @@
       "id": "chartwork.compass-error-by-transit.q06",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A student finds a deviation of 22 degrees W from a transit when the card shows only a few degrees. What is the sensible next step?",
@@ -137,7 +143,8 @@
       "id": "chartwork.compass-error-by-transit.q07",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Looking from seaward, a front beacon and a rear tower are in line. Which direction is the true bearing of the transit?",
@@ -159,7 +166,8 @@
       "id": "chartwork.compass-error-by-transit.q08",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A transit has a true bearing of 047 degrees. The gyro-compass bearing of the objects in line is 048.5 degrees. What is the gyro error?",
@@ -181,7 +189,8 @@
       "id": "chartwork.compass-error-by-transit.q09",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "To which heading does a deviation found from a transit apply?",
@@ -203,7 +212,8 @@
       "id": "chartwork.compass-error-by-transit.q10",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What should be entered in the log after a compass check by a transit?",
@@ -224,7 +234,8 @@
       "id": "chartwork.compass-error-by-transit.q11",
       "lesson_id": "chartwork.compass-error-by-transit",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The rose reads 18 degrees 30 minutes E 2015 (8 minutes W). In 2026 a transit with a true bearing of 050 degrees has a compass bearing of 036 degrees. What is the deviation, to the nearest degree?",

@@ -4,7 +4,7 @@
     {
       "id": "tides.spring-and-neap.q01",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "At which moon phases do spring tides occur?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "tides.spring-and-neap.q02",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "When would you normally expect neap tides?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "tides.spring-and-neap.q03",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Compared with spring tides, what do neap tides look like at a given place?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "tides.spring-and-neap.q04",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which situation would be expected to give the largest tidal range?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "tides.spring-and-neap.q05",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which statement about spring tides is correct?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "tides.spring-and-neap.q06",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "In one lunar month, how many sets of spring tides occur?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "tides.spring-and-neap.q07",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "When the moon is far north or far south of the equator, what effect is commonly seen in a mixed tide?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "tides.spring-and-neap.q08",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are planning a passage through a channel with strong tidal streams. Compared with neap tides, what would you generally expect at spring tides?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "tides.spring-and-neap.q09",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What happens to tidal ranges when the moon is at apogee, its farthest point from the Earth?",
       "options": [

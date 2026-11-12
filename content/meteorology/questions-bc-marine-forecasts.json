@@ -5,7 +5,8 @@
       "id": "meteorology.bc-marine-forecasts.q01",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "At what local times is the Pacific regular marine forecast issued?",
@@ -27,7 +28,8 @@
       "id": "meteorology.bc-marine-forecasts.q02",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At what times are the extended and wave height forecasts issued?",
@@ -49,7 +51,8 @@
       "id": "meteorology.bc-marine-forecasts.q03",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does the extended forecast give?",
@@ -72,7 +75,8 @@
       "id": "meteorology.bc-marine-forecasts.q04",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the correct order of items in a regular forecast?",
@@ -94,7 +98,8 @@
       "id": "meteorology.bc-marine-forecasts.q05",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does 'fog' mean in an Environment Canada marine forecast?",
@@ -116,7 +121,8 @@
       "id": "meteorology.bc-marine-forecasts.q06",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A forecast says 'tonight'. Which period does that cover?",
@@ -138,7 +144,8 @@
       "id": "meteorology.bc-marine-forecasts.q07",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "In a forecast, wind is stated once as 'northwest 15 knots' and no later line changes it. What does that mean?",
@@ -160,7 +167,8 @@
       "id": "meteorology.bc-marine-forecasts.q08",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does a wave height forecast give for 'significant wave height'?",
@@ -183,7 +191,8 @@
       "id": "meteorology.bc-marine-forecasts.q09",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "On the BC coast the Coast Guard continuous marine broadcast is on:",
@@ -207,7 +216,8 @@
       "id": "meteorology.bc-marine-forecasts.q10",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "From which transmitters does Prince Rupert MCTS send NAVTEX (518 kHz)?",
@@ -229,7 +239,8 @@
       "id": "meteorology.bc-marine-forecasts.q11",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which of these is a 'significant change' in wind in the guide?",
@@ -251,7 +262,8 @@
       "id": "meteorology.bc-marine-forecasts.q12",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "In the invented forecast 'Wind southeast 25 to 35 knots becoming northwest 15 to 25 late this evening', when does the shift occur?",
@@ -273,7 +285,8 @@
       "id": "meteorology.bc-marine-forecasts.q13",
       "lesson_id": "meteorology.bc-marine-forecasts",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these is NOT a Pacific marine forecast area name?",

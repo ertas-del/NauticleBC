@@ -5,7 +5,8 @@
       "id": "chartwork.dead-reckoning.q01",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is dead reckoning?",
@@ -27,7 +28,8 @@
       "id": "chartwork.dead-reckoning.q02",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these does a DR position leave out?",
@@ -49,7 +51,8 @@
       "id": "chartwork.dead-reckoning.q03",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is an estimated position (EP)?",
@@ -71,7 +74,8 @@
       "id": "chartwork.dead-reckoning.q04",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which list gives the times a DR position must be plotted?",
@@ -93,7 +97,8 @@
       "id": "chartwork.dead-reckoning.q05",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "At 1000 a fix is obtained. The DR plotted from the 0900 fix is 1.5 nm away from it. From where is the next course line laid?",
@@ -115,7 +120,8 @@
       "id": "chartwork.dead-reckoning.q06",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "At 1430 a vessel is at a fix of 49 degrees 30.0 minutes N, 123 degrees 30.0 minutes W. She steers 200 degrees true at 9 knots. What is the latitude of the DR at 1500?",
@@ -137,7 +143,8 @@
       "id": "chartwork.dead-reckoning.q07",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A helmsman steers 115 degrees by compass. The compass error is 13 degrees E. What true course is laid off in the DR?",
@@ -159,7 +166,8 @@
       "id": "chartwork.dead-reckoning.q08",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How should the DR plot be labelled?",
@@ -181,7 +189,8 @@
       "id": "chartwork.dead-reckoning.q09",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A fix at 0900 starts a DR. A current has set 090 degrees at 1.5 knots since then. At 1100 the DR has been plotted. Where does the EP for 1100 lie?",
@@ -203,7 +212,8 @@
       "id": "chartwork.dead-reckoning.q10",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which speed is used for a DR?",
@@ -225,7 +235,8 @@
       "id": "chartwork.dead-reckoning.q11",
       "lesson_id": "chartwork.dead-reckoning",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "The Master Limited chartwork competence in the draft TP 2293 says position is determined by dead reckoning allowing for what?",

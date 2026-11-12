@@ -5,7 +5,8 @@
       "id": "stability.free-surface.q01",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is free surface in stability?",
@@ -29,7 +30,8 @@
       "id": "stability.free-surface.q02",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A tank is half full of fuel. When the vessel heels, the fuel runs to the low side. How does that affect her stability?",
@@ -53,7 +55,8 @@
       "id": "stability.free-surface.q03",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "The free surface moment of a vessel's slack tanks is 6.0 t.m. She displaces 48 t and has a solid GM of 0.50 m. What is her fluid GM?",
@@ -77,7 +80,8 @@
       "id": "stability.free-surface.q04",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A rectangular seawater tank is 2.5 m long (fore-and-aft) and 2.0 m wide (athwartships), and part full. What is its free surface moment, using density x length x breadth cubed / 12 with seawater 1.025 t/m3?",
@@ -101,7 +105,8 @@
       "id": "stability.free-surface.q05",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A tank's width athwartships is halved, and its length and the liquid are the same. What happens to the free surface effect?",
@@ -125,7 +130,8 @@
       "id": "stability.free-surface.q06",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Tank A is 3.0 m long and 1.0 m wide. Tank B holds the same liquid and is 1.5 m long and 2.0 m wide. Both are part full. Compared with tank A, what is the free surface effect of tank B?",
@@ -149,7 +155,8 @@
       "id": "stability.free-surface.q07",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Two longitudinal baffles divide a wide tank into three equal narrow pens. What is the effect on the free surface effect?",
@@ -173,7 +180,8 @@
       "id": "stability.free-surface.q08",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which tank condition has no free surface effect?",
@@ -197,7 +205,8 @@
       "id": "stability.free-surface.q09",
       "lesson_id": "stability.free-surface",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the best practice for a crew to limit free surface?",

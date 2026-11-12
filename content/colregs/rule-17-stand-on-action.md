@@ -2,7 +2,7 @@
 id: colregs.rule-17.stand-on-action
 title: "Rule 17: Action by stand-on vessel"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 170
 summary: The stand-on vessel keeps her course and speed, may act on her own once it is apparent the give-way vessel is not acting, and must act when collision cannot be avoided by the give-way vessel alone. In a crossing, avoid turning to port for a vessel on your port side.
 objectives:

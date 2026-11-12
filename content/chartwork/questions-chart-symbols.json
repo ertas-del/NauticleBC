@@ -5,7 +5,8 @@
       "id": "chartwork.chart-symbols.q01",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "What is Canadian Chart 1?",
@@ -26,7 +27,8 @@
       "id": "chartwork.chart-symbols.q02",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which pairing of Chart 1 section letter and subject is correct?",
@@ -48,7 +50,8 @@
       "id": "chartwork.chart-symbols.q03",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In which Chart 1 section would you look up the symbol for a prohibited anchorage area?",
@@ -70,7 +73,8 @@
       "id": "chartwork.chart-symbols.q04",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A figure on a drying area of the chart is underlined: 2.4. What does it tell you?",
@@ -92,7 +96,8 @@
       "id": "chartwork.chart-symbols.q05",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Part of a chart has no soundings at all and is marked as unsurveyed. How should you treat the water?",
@@ -114,7 +119,8 @@
       "id": "chartwork.chart-symbols.q06",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these is a correct match of Chart 1 abbreviation and meaning?",
@@ -136,7 +142,8 @@
       "id": "chartwork.chart-symbols.q07",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A chart rose carries the note 2 degrees 45 minutes E 2008 (3 minutes W). What does the bracket tell you?",
@@ -158,7 +165,8 @@
       "id": "chartwork.chart-symbols.q08",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Draught 1.5 m, height of tide 0.3 m. Rock A covers and uncovers and is charted with (0.8) beside it. Rock B is an underwater rock of known depth, R 4.5. Rock C is awash at the level of chart datum. Which rocks have less than 1.5 m of water over them? (Invented figures.)",
@@ -180,7 +188,8 @@
       "id": "chartwork.chart-symbols.q09",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A wreck is charted with an unknown least depth over it. How should it be treated?",
@@ -202,7 +211,8 @@
       "id": "chartwork.chart-symbols.q10",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A sounding on a metric Canadian chart is printed as 9 with a small 4 beside it, lowered. What depth is it, and where is the position of the sounding?",
@@ -223,7 +233,8 @@
       "id": "chartwork.chart-symbols.q11",
       "lesson_id": "chartwork.chart-symbols",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "You want to anchor and the chart shows an area where anchoring is prohibited. What is the correct view of that symbol?",

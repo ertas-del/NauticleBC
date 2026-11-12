@@ -2,7 +2,7 @@
 id: chartwork.voyage-planning-and-log
 title: "Voyage planning and the log book"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 240
 summary: "The master's planning duties under NSR 2020 ss. 144 to 146 and MPR s. 213, the four stages of IMO A.893(21), what a passage plan covers, a worked three-leg plan with a tide window, and the log book and compass-error record."
 objectives:

@@ -2,7 +2,7 @@
 id: chartwork.speed-time-distance
 title: "Speed, time and distance"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 100
 summary: The knot, the formula distance = speed x time and its two rearrangements, the three-minute and six-minute rules, converting minutes to hours, average speed over several legs, and the difference between speed through the water and speed over the ground.
 objectives:

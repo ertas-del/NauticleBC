@@ -2,7 +2,7 @@
 id: colregs.rule-25.sailing-oars
 title: "Rule 25: Sailing vessels underway and vessels under oars"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 250
 summary: Lights for sailing vessels (sidelights and sternlight, the tricolour lantern under 20 m, the optional red over green), small sailing craft and rowboats, and the cone that shows a sailboat is motor-sailing, with the Canadian exemption for small boats in inland waters.
 objectives:

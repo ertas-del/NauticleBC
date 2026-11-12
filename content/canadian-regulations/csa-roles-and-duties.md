@@ -2,7 +2,7 @@
 id: canadian-regulations.csa-roles-and-duties
 title: "Who is responsible: the Canada Shipping Act, 2001"
 module: canadian-regulations
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 10
 summary: "Who owes what under Part 4 of the Canada Shipping Act, 2001: the authorized representative, the master, the crew and the passengers, plus the master's duties on documents, safety, passenger numbers and load lines."
 objectives:

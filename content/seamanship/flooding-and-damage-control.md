@@ -2,7 +2,7 @@
 id: seamanship.flooding-and-damage-control
 title: "Flooding and damage control"
 module: seamanship
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 250
 summary: "What a master does when water is coming in - the Transport Canada taking-on-water procedure, finding and stopping the leak, pumping, trim, when to run for the beach or prepare to abandon, and the Small Vessel Regulations on shut-offs, pumps and reporting."
 objectives:

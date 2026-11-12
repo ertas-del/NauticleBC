@@ -2,7 +2,7 @@
 id: canadian-regulations.pollution-prevention
 title: "Pollution prevention and reporting a discharge"
 module: canadian-regulations
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 220
 summary: "What may and may not go over the side under the Canada Shipping Act, 2001 and the Vessel Pollution and Dangerous Chemicals Regulations: oil, garbage, sewage and greywater, the exceptions, the master's duties and how a discharge is reported."
 objectives:

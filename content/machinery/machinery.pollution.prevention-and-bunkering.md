@@ -2,7 +2,7 @@
 id: machinery.pollution.prevention-and-bunkering
 title: "Preventing pollution: bilge oil, garbage, bunkering and spill response"
 module: machinery
-tickets: [svmo]
+tickets: [svmo, fishing-master-4]
 order: 430
 summary: Where a small vessel's pollution comes from, why oily bilge water must not be pumped overboard, how to bunker fuel without a spill, what to do and who to tell if oil does escape, and how garbage, sewage and waste oil should be handled.
 objectives:

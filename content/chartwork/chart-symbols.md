@@ -2,7 +2,7 @@
 id: chartwork.chart-symbols
 title: "Reading chart symbols (Chart 1)"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 40
 summary: How Canadian Chart 1 is organised, where to look up a symbol, and the meaning of the key chart marks for depths, drying heights, rocks, wrecks, obstructions, bottom type, areas, variation notes and lights. Symbols are described in words, not copied.
 objectives:

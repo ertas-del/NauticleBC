@@ -2,7 +2,7 @@
 id: colregs.annex-iii.sound-signal-appliances
 title: "Annex III: Technical details of sound signal appliances"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 430
 summary: Whistle pitch by vessel length, the audibility ranges (for information only in Canada), directional whistles, where whistles go, multiple and combined whistles, bell and gong standards, and what this means for vessels under 20 m and under 12 m.
 objectives:

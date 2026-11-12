@@ -6,7 +6,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which list names all four kinds of pyrotechnic distress signal in the Small Vessel Regulations?",
@@ -28,7 +29,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A required flare was made on 1 March 2022. On which date does it expire under the Small Vessel Regulations?",
@@ -50,7 +52,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A passenger-carrying vessel of 10 m under SVR Part 4 (not more than 15 gross tonnage, 12 passengers or fewer) is checked for visual signals. What must she carry?",
@@ -72,7 +75,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "In which frequency band do an EPIRB and a PLB operate under the Navigation Safety Regulations, 2020?",
@@ -95,7 +99,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "The vessel is sold and the contact details of her EPIRB registration change. Within what time must the Canadian Beacon Registry be updated?",
@@ -117,7 +122,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement about a float-free EPIRB under s. 209 of the Navigation Safety Regulations, 2020 is correct?",
@@ -139,7 +145,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 10 m vessel on a near coastal voyage, Class 2 carries a manually activated EPIRB. Where should it be?",
@@ -161,7 +168,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which statement about EPIRB testing and maintenance is correct?",
@@ -183,7 +191,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which statement about a radar SART is correct?",
@@ -205,7 +214,8 @@
       "lesson_id": "bridge-watch.pyrotechnics-epirb-sart",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Scenario: a crew member knocks the EPIRB switch and it starts transmitting. What should the OOW do?",

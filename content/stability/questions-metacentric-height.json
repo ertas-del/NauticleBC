@@ -5,7 +5,8 @@
       "id": "stability.metacentric-height.q01",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A vessel has KM = 2.80 m and KG = 2.35 m. What is her GM, and is she stable?",
@@ -29,7 +30,8 @@
       "id": "stability.metacentric-height.q02",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A vessel has KM = 1.90 m and KG = 2.05 m. What does this tell you?",
@@ -53,7 +55,8 @@
       "id": "stability.metacentric-height.q03",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which equation correctly finds the height of G above the keel from a table of weights and heights?",
@@ -77,7 +80,8 @@
       "id": "stability.metacentric-height.q04",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "An invented vessel's loading table: lightship 20 t at KG 1.80 m; fuel 3 t at 0.50 m; crew and gear 2 t at 2.40 m; deck cargo 5 t at 2.20 m. What is her KG?",
@@ -101,7 +105,8 @@
       "id": "stability.metacentric-height.q05",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which of these does NOT affect a vessel's KM at a given draught?",
@@ -125,7 +130,8 @@
       "id": "stability.metacentric-height.q06",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which vessel will have the long, slow, lazy roll?",
@@ -149,7 +155,8 @@
       "id": "stability.metacentric-height.q07",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Why is a very large GM not the goal?",
@@ -173,7 +180,8 @@
       "id": "stability.metacentric-height.q08",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel leaves harbour with GM 0.45 m. After a few days she has burned fuel and water from low tanks, while the deck load stays aboard. What has probably happened to her GM, and why?",
@@ -197,7 +205,8 @@
       "id": "stability.metacentric-height.q09",
       "lesson_id": "stability.metacentric-height",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What does a vessel with negative GM do, as she settles?",

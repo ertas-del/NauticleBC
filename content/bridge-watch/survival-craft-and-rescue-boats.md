@@ -2,7 +2,7 @@
 id: bridge-watch.survival-craft-and-rescue-boats
 title: "Survival craft and rescue boats"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 210
 summary: A refresher on what counts as a survival craft and a rescue boat, who must hold the survival craft certificate, how drills are run, what a small passenger vessel must carry, and the cold-water timeline that makes launching fast and correct so important.
 objectives:

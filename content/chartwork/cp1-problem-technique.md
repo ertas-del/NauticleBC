@@ -2,7 +2,7 @@
 id: chartwork.cp1-problem-technique
 title: "CP1-style chart problem technique"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 250
 summary: "The reported CP1 format, a routine for any multi-part chartwork problem (data box, work in true, labelled plot, reverse check), and one complete six-part worked problem from course to steer through fix, set and drift, to a new course and ETA."
 objectives:

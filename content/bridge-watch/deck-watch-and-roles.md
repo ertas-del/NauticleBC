@@ -2,7 +2,7 @@
 id: bridge-watch.deck-watch-and-roles
 title: "The deck watch: who is on it and who does what"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 20
 summary: "Who must be on a Canadian vessel's deck watch by size, which certificates they need, when the master counts as part of it, and what the officer of the watch and the rating each do."
 objectives:

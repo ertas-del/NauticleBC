@@ -2,7 +2,7 @@
 id: chartwork.leeway
 title: "Leeway"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 190
 summary: What leeway is, which way it pushes, how to estimate the leeway angle from the wake, how to apply it to a course steered or to a wanted course through the water, and in what order leeway and current are combined.
 objectives:

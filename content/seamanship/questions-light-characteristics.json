@@ -4,7 +4,7 @@
     {
       "id": "seamanship.light-characteristics.q01",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A light is on for 3 seconds and dark for 1 second, repeating every 4 seconds. Which characteristic is it?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "seamanship.light-characteristics.q02",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is an isophase (Iso) light?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "seamanship.light-characteristics.q03",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "How many flashes a minute does a very quick (VQ) light show?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "seamanship.light-characteristics.q04",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Which statement about LFl and Mo(A) is correct?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "seamanship.light-characteristics.q05",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A chart shows a light as \"Fl(2) W 10s\". Which description is right?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "seamanship.light-characteristics.q06",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A light is listed as Fl(3) 15s. How many flashes would you count in one minute of watching?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "seamanship.light-characteristics.q07",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You watch a bifurcation buoy light on a dark night. What does Fl(2+1) 10s look like?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "seamanship.light-characteristics.q08",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A lighthouse beam is white over the safe channel and red over a reef. What type of light is it, and what does the red mean?",
       "options": [
@@ -140,7 +140,7 @@
     {
       "id": "seamanship.light-characteristics.q09",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "You find that a lit buoy shown on your chart is not lit and seems to be off its position. What does the Canada Shipping Act, 2001 expect?",
       "options": [
@@ -157,7 +157,7 @@
     {
       "id": "seamanship.light-characteristics.q10",
       "lesson_id": "seamanship.light-characteristics",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "What is a fixed (F) light?",
       "options": [

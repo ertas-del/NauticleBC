@@ -2,7 +2,7 @@
 id: chartwork.chart-datums
 title: "Chart datum, depths, drying heights and heights"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 20
 summary: What chart datum is, how charted depths, drying heights and clearances are measured from it, why heights of lights and bridges use a different, high-water datum, and how to turn a tide height into depth under the keel and clearance under a bridge.
 objectives:

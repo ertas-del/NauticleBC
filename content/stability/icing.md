@@ -2,7 +2,7 @@
 id: stability.icing
 title: "Icing"
 module: stability
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 90
 summary: Ice on a vessel is weight in the worst place. This lesson shows how icing raises G, cuts freeboard and adds windage, works the numbers on the Tern, covers removing ice from the top down, and states the master's duty to report severe ice accretion.
 objectives:

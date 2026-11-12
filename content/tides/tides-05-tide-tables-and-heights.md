@@ -2,7 +2,7 @@
 id: tides.tide-tables-and-heights
 title: "Tide tables and heights"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 5
 summary: How a tide table is laid out, how secondary ports use a reference port, and how to work out the height of tide at a given time, with worked examples.
 objectives:

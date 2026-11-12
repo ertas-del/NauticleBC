@@ -2,7 +2,7 @@
 id: colregs.part-f.canadian-provisions
 title: "Part F: Additional Canadian provisions (Rules 39 to 46)"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 390
 summary: The Canadian-only Rules 39 to 46 - dangerous goods signals, radar reflectors for small and non-metallic vessels, the ban on radar transponders, offshore exploration vessels and their safety zones, ocean data buoys (ODAS), the blue flashing light and backup navigation lights.
 objectives:

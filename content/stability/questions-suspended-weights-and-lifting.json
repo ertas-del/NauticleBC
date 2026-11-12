@@ -5,7 +5,8 @@
       "id": "stability.suspended-weights-and-lifting.q01",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A load is hanging freely from a boom. Where does its weight act on the vessel?",
@@ -28,7 +29,8 @@
       "id": "stability.suspended-weights-and-lifting.q02",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A 2 t crate with its centre 1.5 m above the keel is lifted from the deck by a boom whose head is 5.5 m above the keel. The vessel displaces 50 t. By how much does G rise?",
@@ -51,7 +53,8 @@
       "id": "stability.suspended-weights-and-lifting.q03",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the difference between lifting a load already aboard and lifting a load from the water?",
@@ -74,7 +77,8 @@
       "id": "stability.suspended-weights-and-lifting.q04",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 36 t vessel with KG 1.80 m lifts 4 t from the sea at a boom head 6.0 m above the keel. The new displacement is 40 t. What is her new KG?",
@@ -97,7 +101,8 @@
       "id": "stability.suspended-weights-and-lifting.q05",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A 30 t vessel with GM 0.50 m has a 1 t load hanging from a boom, 1.5 m off the centreline. What is the heel, using tan(heel) = w x offset / (displacement x GM)? (Ignore the other effects of the lift.)",
@@ -120,7 +125,8 @@
       "id": "stability.suspended-weights-and-lifting.q06",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What happens to the loss of GM if the same load is lifted by a taller boom with a higher block?",
@@ -143,7 +149,8 @@
       "id": "stability.suspended-weights-and-lifting.q07",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which is a sensible way to reduce the stability cost of a lift?",
@@ -166,7 +173,8 @@
       "id": "stability.suspended-weights-and-lifting.q08",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "A vessel with slack fuel and water tanks is asked to lift a load that would be safe with the tanks full. Why is the lift now more dangerous?",
@@ -189,7 +197,8 @@
       "id": "stability.suspended-weights-and-lifting.q09",
       "lesson_id": "stability.suspended-weights-and-lifting",
       "tickets": [
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A load hanging from a boom starts to heel the vessel more than expected. What is the right response?",

@@ -4,7 +4,7 @@
     {
       "id": "colregs.annex-iii.q01",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Within which band must the fundamental frequency of a 150 m vessel's whistle lie?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.annex-iii.q02",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which frequency band carries the range of the whistle on an 18 m vessel under the international text of Annex III, and how does the Canadian modification treat a roadstead, harbour, river, lake or inland waterway?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.annex-iii.q03",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Annex III gives a typical audibility range for the whistle of a 40 m vessel. What is it, and what is its status under the Canadian Regulations?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.annex-iii.q04",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "A vessel's only whistle is directional. What must be true of its sound abeam compared with ahead?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.annex-iii.q05",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Your lookout on the bridge wing complains that your own whistle is deafening. Which Annex III requirement applies?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.annex-iii.q06",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["master-limited-60gt"],
+      "tickets": ["master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A ship has one whistle forward and one aft, 150 m apart. Which statement is correct?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.annex-iii.q07",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are fitting a bell to a 25 m vessel. Which specification meets Annex III?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.annex-iii.q08",
       "lesson_id": "colregs.annex-iii.sound-signal-appliances",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which statement about sound signal gear for small vessels is correct, and who approves the gear on a Canadian vessel?",
       "options": [

@@ -6,7 +6,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "Which ITU Radio Regulations articles govern distress, urgency and safety communications under NSR 2020 s. 243?",
@@ -29,7 +30,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What is the correct start of a distress call?",
@@ -52,7 +54,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "What comes first in the distress message after the vessel identification?",
@@ -75,7 +78,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "Which call has absolute priority over all other transmissions?",
@@ -98,7 +102,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "What words end distress traffic?",
@@ -121,7 +126,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A PAN PAN call is sent on the authority of:",
@@ -144,7 +150,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "How long should stations keep listening after hearing a PAN PAN?",
@@ -167,7 +174,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "What does a SECURITE call announce?",
@@ -190,7 +198,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "hard",
       "stem": "Which is a listed condition for sending a MAYDAY RELAY?",
@@ -213,7 +222,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "A master hears a distress signal and decides it is unreasonable to go to help. What must be done under CSA 2001 s. 131?",
@@ -237,7 +247,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "medium",
       "stem": "On receiving a distress signal the master must proceed with all speed and:",
@@ -261,7 +272,8 @@
       "lesson_id": "radio.distress-urgency-safety",
       "tickets": [
         "bridge-watch-rating",
-        "master-limited-60gt"
+        "master-limited-60gt",
+        "fishing-master-4"
       ],
       "difficulty": "easy",
       "stem": "A card of instructions such as TP 9878 must be displayed:",

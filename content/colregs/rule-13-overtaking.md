@@ -2,7 +2,7 @@
 id: colregs.rule-13.overtaking
 title: "Rule 13: Overtaking"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 130
 summary: An overtaking vessel keeps out of the way of the vessel she overtakes, whatever kind of vessel either is. Overtaking means coming up from more than 22.5 degrees abaft the beam. If in doubt, assume you are overtaking, and the duty lasts until past and clear.
 objectives:

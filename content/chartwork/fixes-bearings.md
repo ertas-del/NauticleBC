@@ -2,7 +2,7 @@
 id: chartwork.fixes-bearings
 title: "Fixing by cross bearings"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 120
 summary: How to take two or three compass bearings of charted objects, turn them into true lines of position, plot them from the objects toward the ship, judge the angle of cut and the cocked hat, and treat buoys with caution. Includes a worked fix with positions.
 objectives:

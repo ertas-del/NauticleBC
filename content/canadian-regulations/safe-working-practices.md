@@ -2,7 +2,7 @@
 id: canadian-regulations.safe-working-practices
 title: "Safe working practices and PPE"
 module: canadian-regulations
-tickets: [bridge-watch-rating]
+tickets: [bridge-watch-rating, fishing-master-4]
 order: 200
 summary: "The rules that keep deck crew alive at work: who is responsible under the Maritime Occupational Health and Safety Regulations and the Safe Working Practices Regulations, protective equipment, fall protection above 2.4 m, drowning protection, tools and lifting."
 objectives:

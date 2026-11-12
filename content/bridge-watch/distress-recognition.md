@@ -2,7 +2,7 @@
 id: bridge-watch.distress-recognition
 title: "Recognising and reporting distress"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 60
 summary: "How a look-out recognises a distress signal by sight, sound, radiotelephone or from an aircraft, what MAYDAY, PAN PAN and SECURITE mean, the aircraft signals that direct a ship to a casualty, and how to report at once."
 objectives:

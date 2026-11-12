@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-06.q01",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "How does Rule 6 define a safe speed?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-06.q02",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "Which of these is one of the factors Rule 6 lists for every vessel when determining safe speed?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-06.q03",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Your radar shows a clear screen in rain and sea clutter on a long range scale. You are tempted to increase speed because \"nothing is out there.\" What does Rule 6 say that argues against this?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-06.q04",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Two vessels transit the same clear, empty channel at the same speed. One is a small, quick-turning workboat. The other is a heavily loaded vessel that takes a long distance to stop. Which statement fits Rule 6?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-06.q05",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You are in a Canadian harbour approaching a dredge at work, and you cannot tell with certainty whether your wake will adversely affect her. What does the Canadian addition to Rule 6 call for?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-06.q06",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you are approaching a city waterfront with bright shore lights behind the anchorage. Why does Rule 6 ask you to consider this when setting your speed?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.rule-06.q07",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "Under the Canadian addition to Rule 6, in a Canadian harbour, river or inland waterway, how must you pass a tow, a grounded vessel or a wreck?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.rule-06.q08",
       "lesson_id": "colregs.rule-06.safe-speed",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "Which of these is one of the extra factors Rule 6 lists only for vessels with operational radar?",
       "options": [

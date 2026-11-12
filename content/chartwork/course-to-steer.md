@@ -2,7 +2,7 @@
 id: chartwork.course-to-steer
 title: "Course to steer to counter a current"
 module: chartwork
-tickets: [master-limited-60gt]
+tickets: [master-limited-60gt, fishing-master-4]
 order: 180
 summary: "The vector triangle for the course to steer and speed made good in a current, its reverse (track made good from a course steered), a sine check, a worked passage with ETA and compass course, and the case where the current is too strong."
 objectives:

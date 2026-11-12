@@ -4,7 +4,7 @@
     {
       "id": "colregs.rule-13.q01",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "A vessel is overtaking another when she comes up with her from a direction more than how far abaft her beam?",
       "options": [
@@ -21,7 +21,7 @@
     {
       "id": "colregs.rule-13.q02",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "easy",
       "stem": "At night you are coming up on a vessel ahead. Which lights would you see if you are in her overtaking sector?",
       "options": [
@@ -38,7 +38,7 @@
     {
       "id": "colregs.rule-13.q03",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "A sailing vessel under sail is overtaking a power-driven tug in clear weather. Which vessel keeps out of the way?",
       "options": [
@@ -55,7 +55,7 @@
     {
       "id": "colregs.rule-13.q04",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "At night you are coming up on another vessel and her light keeps flickering between her green sidelight and her white sternlight. What should you do?",
       "options": [
@@ -72,7 +72,7 @@
     {
       "id": "colregs.rule-13.q05",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "You are overtaking a slower vessel on her starboard side. As you draw ahead, she comes to bear on your port quarter and her bearing from you keeps changing. Which statement is correct?",
       "options": [
@@ -89,7 +89,7 @@
     {
       "id": "colregs.rule-13.q06",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "You are steering 045 degrees true. A power-driven vessel bears 180 degrees true from you and is closing. Is she overtaking you?",
       "options": [
@@ -106,7 +106,7 @@
     {
       "id": "colregs.rule-13.q07",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "hard",
       "stem": "What are the arcs of visibility of a sidelight and a sternlight, and how do they relate to the overtaking rule?",
       "options": [
@@ -123,7 +123,7 @@
     {
       "id": "colregs.rule-13.q08",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
       "difficulty": "medium",
       "stem": "The Canadian Regulations add a paragraph (e) to Rule 13. Where does it apply?",
       "options": [

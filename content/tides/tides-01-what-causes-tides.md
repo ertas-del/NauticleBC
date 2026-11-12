@@ -2,7 +2,7 @@
 id: tides.what-causes-tides
 title: "What causes tides"
 module: tides
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 1
 summary: Why the sea rises and falls twice a day, why the moon matters more than the sun, and why tides arrive about 50 minutes later each day.
 objectives:

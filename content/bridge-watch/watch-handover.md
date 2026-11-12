@@ -2,7 +2,7 @@
 id: bridge-watch.watch-handover
 title: "Handing over and taking over the watch"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 70
 summary: "How a navigational watch changes hands safely: who must be fit, what the relieving officer checks, when handover waits, and what a helmsman and look-out pass to their reliefs, at sea, at anchor and in port."
 objectives:

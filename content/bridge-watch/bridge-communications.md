@@ -2,7 +2,7 @@
 id: bridge-watch.bridge-communications
 title: "Bridge communications and teamwork"
 module: bridge-watch
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 90
 summary: "How the bridge team talks: closed-loop orders and reports, asking when unsure, shipboard terms, the working language rules in the Navigation Safety Regulations, the link to the emergency steering position, and the basics of bridge resource management."
 objectives:

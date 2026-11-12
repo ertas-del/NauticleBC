@@ -2,7 +2,7 @@
 id: colregs.rule-09.narrow-channels
 title: "Rule 9: Narrow channels"
 module: colregs
-tickets: [bridge-watch-rating, master-limited-60gt]
+tickets: [bridge-watch-rating, master-limited-60gt, fishing-master-4]
 order: 90
 summary: Keep to the starboard side of a narrow channel, do not impede vessels that can only use it, take care at bends, and know the Canadian additions for barges and for passages with a current or tidal stream.
 objectives:
