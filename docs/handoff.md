@@ -9,7 +9,7 @@ Written so another person or Claude session can pick up without the earlier conv
 - Rules for every contributor: `CLAUDE.md`. Lanes and parallel workflow: `docs/workflow.md`. Licences: `docs/licence-checklist.md`. Writer instructions: `docs/writer-guide.md`.
 - Syllabus briefs in `docs/syllabus/`: Bridge Watch Rating, Master Limited 60 GT, SVMO, SVOP, Fishing Master Fourth Class.
 
-## Status (2026-11-12, main at e6d397d)
+## Status (2026-11-12, main after PRs #69-#72 and #49)
 
 Lint: 304 sources, 281 lessons, 2,762 questions, 11 mock exams, 1 chart, 9 chart exercises; 0 errors, 0 warnings.
 CI on main is green (content lint, Android build, alpha release). Every lesson is `needs_expert_review`; none is `expert_reviewed`.
@@ -32,7 +32,11 @@ CI on main is green (content lint, Android build, alpha release). Every lesson i
 | sixty-ton | 6 | 57 |
 | fm4-* (overview, chartwork, navigation safety, oral, stability and construction) | 31 | 277 |
 
-Mock exams: NS1 practice, Bridge Watch practice, SVMO 1-2, SVOP 1-2, FM4 CP1, FM4 NS1 1-2, FM4 SCS1 1-2.
+Mock exams: NS1 practice, Bridge Watch practice, SVMO 1-2, SVOP 1-2, FM4 CP1, FM4 NS1 1-2, FM4 SCS1 1-2. The nine SVMO, SVOP and FM4 mocks now use a fixed draw (`question_ids`, copied from `docs/*-mock-draw.json`; practice 1 and 2 share no question). NS1 and Bridge Watch practice still draw at random from their modules.
+
+Fishing Master Fourth Class: 173 lessons carry `fishing-master-4` (the 34 fm4-* lessons plus the 139 "Yes" lessons from section 3.2 of `docs/syllabus/fishing-master-4.md`, merged in #49 and checked line by line against that list; "Optional" and "No" lessons are untagged).
+
+Build: the Gradle 8.10.2 wrapper is committed (#72) and Android CI builds and tests with `./gradlew`.
 
 All eleven writer assignments from the 2026-10-06 note are done (seamanship emergencies #44, chartwork #33 and #43, regulations #38 and #47, stability #34, radio and meteorology #37, radar and electronic navigation #39, tides 7-8 #43). The draft PRs #26 and #27 mentioned in older notes were superseded.
 
@@ -50,14 +54,15 @@ All eleven writer assignments from the 2026-10-06 note are done (seamanship emer
 
 ## Open items
 
-1. **PR #49** (`foundation/tag-fishing-master-4`): tags 139 lessons and 1,338 questions with the `fishing-master-4` ticket. Opened 2026-10-11, GitHub reports it mergeable with no conflicts, but it predates a month of content. Re-run lint on it after rebasing; the reviewer must check the Yes list against the current TP 2293 syllabus. Today only the 34 fm4-* lessons carry the tag.
+1. **Answer-length giveaway (top content priority).** `python3 tools/option_balance.py` reports that in 70% of questions (1,934 of 2,762) the correct option is the single longest one, against 25% by chance. Always picking the longest answer would score about 70%, which is the placeholder pass mark. Worst modules: fm4-navigation-safety 86%, canadian-regulations 80%, machinery 80%, fm4-oral 78%, radio 78%, svop 75%. Best: chartwork 45%. Fix by rewriting distractors so they are as long and as specific as the correct option (or trimming the correct option), one module per PR, keeping the facts and `source_ids` unchanged. Correct-answer positions are already well spread (A 735, B 797, C 653, D 577). Consider a lint warning once the banks are fixed.
 2. **Branch `add-xai-grok-build`** (2026-11-12, no PR): adds the xAI grok-build source under `vendor/xai/grok-build` (about 4,500 files, 2.1 million lines of Rust, including third-party crates). It has nothing to do with the marine ticket app and would bloat the repo. Do not merge it into main without the owner's decision and a licence check of every vendored crate; if it is wanted, it belongs in its own repo.
-3. Mock exam schema: add optional `question_ids` so the app can use the fixed draws in `docs/*-mock-draw.json` (SVMO, SVOP, FM4). Until then mocks draw at random from the module banks.
+3. Fixed draws for NS1 practice and Bridge Watch practice, if wanted (write a draw file, copy it into `question_ids`; lint checks it).
 4. Chart simulator: remaining training charts (Narrows, Islands, Coastal Leg), then the real BC learning map and lights layer once each data licence is recorded (see `docs/plan.md`).
 5. Stability gaps: following and quartering seas and towing stability are only touched on. IS Code numbers came from a secondary page; verify against TP 7301.
-6. Gradle wrapper is still missing (CI installs Gradle 8.10.2). Add with `gradle wrapper --gradle-version 8.10.2`.
+6. Gradle wrapper has no `distributionSha256Sum` yet; add it from https://gradle.org/release-checksums/.
 7. Device pass on the Samsung S26: TalkBack, large fonts, rotation mid-quiz, dark theme, read aloud.
 8. `tp14814e` (SVMO) is a 2008 third-party copy; check for a newer Transport Canada edition.
+9. Fishing Master "Optional" lessons (43 lessons, about 460 questions in section 3.2 of the FM4 brief) are untagged; the owner decides.
 
 ## Waiting on the owner
 
