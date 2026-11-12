@@ -11,7 +11,34 @@
       "count": 25
     }
   ],
-  "notes": "Practice format, not the official exam. Question count and pass mark are not stated in TP 2293 (2016) for this exam; 70 per cent is our own placeholder and must be confirmed with Transport Canada. The time limit is scaled from the stated exam duration and is our own assumption. The mock-exam schema only names modules, so the blueprint is a single module entry. The exact question ids planned for each exam are in docs/fm4-mock-draw.json, split so that exams of the same subject share no question. Until the app can pin question ids, a random draw from the module bank will not guarantee that split. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
+  "question_ids": [
+    "fm4.chart.compass-errors-and-log.q03",
+    "fm4.chart.publications-and-aids.q04",
+    "fm4.chart.compass-errors-and-log.q04",
+    "fm4.chart.types-and-reliability.q09",
+    "fm4.chart.dead-reckoning-set-and-drift.q02",
+    "fm4.chart.types-and-reliability.q03",
+    "fm4.chart.position-fixing.q04",
+    "fm4.chart.dead-reckoning-set-and-drift.q01",
+    "fm4.chart.compass-errors-and-log.q06",
+    "fm4.chart.publications-and-aids.q02",
+    "fm4.chart.dead-reckoning-set-and-drift.q08",
+    "fm4.chart.types-and-reliability.q08",
+    "fm4.chart.types-and-reliability.q05",
+    "fm4.chart.publications-and-aids.q01",
+    "fm4.chart.compass-errors-and-log.q01",
+    "fm4.chart.publications-and-aids.q08",
+    "fm4.chart.position-fixing.q02",
+    "fm4.chart.types-and-reliability.q04",
+    "fm4.chart.dead-reckoning-set-and-drift.q06",
+    "fm4.chart.compass-errors-and-log.q05",
+    "fm4.chart.position-fixing.q01",
+    "fm4.chart.position-fixing.q07",
+    "fm4.chart.position-fixing.q05",
+    "fm4.chart.dead-reckoning-set-and-drift.q09",
+    "fm4.chart.publications-and-aids.q07"
+  ],
+  "notes": "Practice format, not the official exam. Question count and pass mark are not stated in TP 2293 (2016) for this exam; 70 per cent is our own placeholder and must be confirmed with Transport Canada. The time limit is scaled from the stated exam duration and is our own assumption. The exact question ids planned for each exam are in docs/fm4-mock-draw.json, split so that exams of the same subject share no question. The exam uses exactly the fixed draw in question_ids (copied from that file), shown in a new order each attempt. Questions are original practice items, not Transport Canada questions. Study aid, not a navigation aid.",
   "source_ids": [
     "tp2293-2016",
     "mpr-sor-2007-115"
