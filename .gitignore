@@ -10,6 +10,7 @@ captures/
 *.apk
 *.aab
 *.keystore
+!app/alpha.keystore
 *.jks
 
 # Python / Node tooling
