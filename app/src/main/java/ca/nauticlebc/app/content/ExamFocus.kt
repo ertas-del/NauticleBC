@@ -48,6 +48,9 @@ object ExamFocus {
      * Questions for a mock exam: for each blueprint entry, up to `count` questions from that module (shuffled with
      * [random]), without repeats across entries, then shuffled together. Stops at the exam's question count and
      * uses fewer if the banks are short. The same seed always gives the same exam.
+     *
+     * If the exam has a fixed draw ([MockExam.questionIds]) it always uses exactly those questions, in an order
+     * shuffled with [random]; ids that are not in [questions] are skipped.
      */
     fun mockExam(
         exam: MockExam,
@@ -55,6 +58,10 @@ object ExamFocus {
         lessons: List<Lesson>,
         random: Random,
     ): List<Question> {
+        if (exam.questionIds.isNotEmpty()) {
+            val byId = questions.associateBy { it.id }
+            return exam.questionIds.mapNotNull { byId[it] }.shuffled(random)
+        }
         val used = mutableSetOf<String>()
         val picked = mutableListOf<Question>()
         for (item in exam.blueprint) {

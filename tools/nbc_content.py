@@ -282,6 +282,31 @@ def _check_charts(c: Content) -> None:
                 r.error(ex["path"], f"{label}: unknown source id '{sid}'")
 
 
+def _check_mock_draws(c: Content) -> None:
+    """A mock with a fixed `question_ids` draw must be playable exactly as written."""
+    r = c.report
+    by_id = {q["id"]: q for q in c.questions}
+    for m in c.mock_exams:
+        ids = m.get("question_ids")
+        if not ids:
+            continue
+        where = m["path"]
+        if len(ids) != m["question_count"]:
+            r.error(where, f"{m['id']}: question_ids has {len(ids)} ids but question_count is {m['question_count']}")
+        per_module: dict[str, int] = {}
+        for qid in ids:
+            q = by_id.get(qid)
+            if q is None:
+                r.error(where, f"{m['id']}: unknown question id {qid}")
+                continue
+            if m["ticket"] not in q.get("tickets", []):
+                r.error(where, f"{m['id']}: {qid} is not tagged for ticket {m['ticket']}")
+            per_module[q["module"]] = per_module.get(q["module"], 0) + 1
+        planned = {b["module"]: b["count"] for b in m["blueprint"]}
+        if all(qid in by_id for qid in ids) and per_module != planned:
+            r.error(where, f"{m['id']}: question_ids per module {per_module} does not match blueprint {planned}")
+
+
 def _cross_check(c: Content) -> None:
     r = c.report
     lesson_ids: dict[str, str] = {}
@@ -309,6 +334,8 @@ def _cross_check(c: Content) -> None:
                 r.error(item["path"], f"{label}: unknown source id '{sid}' (add it to content/sources.json first)")
             elif item["review_status"] == "expert_reviewed" and not src["read_directly"]:
                 r.warn(item["path"], f"{label}: reviewed content cites '{sid}', which the author did not read directly")
+
+    _check_mock_draws(c)
 
     for les in c.lessons:
         for pre in les.get("prerequisites", []):
