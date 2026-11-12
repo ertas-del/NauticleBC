@@ -2,6 +2,8 @@ package ca.nauticlebc.app.ui
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
@@ -85,6 +87,7 @@ fun HomeScreen(
     onOpenMock: () -> Unit,
     onOpenChart: () -> Unit,
     onOpenOral: () -> Unit,
+    onOpenAlmanac: () -> Unit,
     onChangeTicket: () -> Unit,
 ) {
     Scaffold(
@@ -94,6 +97,7 @@ fun HomeScreen(
             modifier = Modifier
                 .fillMaxSize()
                 .padding(padding)
+                .verticalScroll(rememberScrollState())
                 .padding(horizontal = 16.dp, vertical = 8.dp),
             verticalArrangement = Arrangement.spacedBy(12.dp),
         ) {
@@ -127,7 +131,12 @@ fun HomeScreen(
                 onClick = onOpenOral,
                 note = if (oralEnabled) null else stringResource(R.string.today_oral_unavailable),
             )
-            Spacer(Modifier.weight(1f))
+            TodayRow(
+                title = stringResource(R.string.today_almanac),
+                enabled = true,
+                onClick = onOpenAlmanac,
+                note = stringResource(R.string.today_almanac_note),
+            )
             val titleRes = ticketTitleRes(ticketId)
             TextButton(onClick = onChangeTicket, modifier = Modifier.fillMaxWidth()) {
                 Text(

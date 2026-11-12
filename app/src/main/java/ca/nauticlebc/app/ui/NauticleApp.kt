@@ -45,6 +45,7 @@ object Routes {
     const val MOCK_PATTERN = "mock/{$ARG_EXAM}"
     const val DRILLS = "drills"
     const val CHARTS = "charts"
+    const val ALMANAC = "almanac"
     const val DUE = "due"
     const val ORAL_PATTERN = "oral/{$ARG_TICKET}"
 
@@ -95,6 +96,7 @@ fun NauticleApp() {
                 onOpenMock = { navController.navigate(Routes.mocks(ticketId)) },
                 onOpenChart = { navController.navigate(Routes.CHARTS) },
                 onOpenOral = { navController.navigate(Routes.oral(ticketId)) },
+                onOpenAlmanac = { navController.navigate(Routes.ALMANAC) },
                 onChangeTicket = { navController.navigate(Routes.TICKETS) },
             )
         }
@@ -145,6 +147,10 @@ fun NauticleApp() {
 
         composable(Routes.DRILLS) {
             DrillScreen(onBack = { navController.popBackStack() })
+        }
+
+        composable(Routes.ALMANAC) {
+            AlmanacScreen(onBack = { navController.popBackStack() })
         }
 
         composable(Routes.DUE) {
