@@ -22,6 +22,10 @@ key_facts:
   - "Charging batteries give off hydrogen, which is explosive. Ventilate and keep sparks and flames away."
   - "Fuel tank vents carry a fine wire gauze flame screen to stop flame entering the tank. Keep it clean and undamaged."
   - "Store fuel and oils in approved, labelled containers in a ventilated place away from heat. Secure gas cylinders upright with valves closed."
+figures:
+  - id: svmo-fire-triangle
+    caption: "The fire triangle"
+    alt: "A triangle labelled heat, fuel and oxygen. A fire needs all three. Take any one side away and the fire goes out."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -37,6 +41,8 @@ about that: knowing what burns, what starts it, and how to store flammable thing
 A fire needs three things at once, the ==fire triangle==: ==fuel==, ==heat== and ==oxygen==. Take away any one and the fire
 goes out. Cooling with water removes heat. Smothering with foam, gas or closing the space removes oxygen. Stopping a
 fuel pump or closing a fuel valve removes fuel. Prevention is the same idea: keep fuel and heat apart.
+
+{{figure:svmo-fire-triangle}}
 
 ## Fire classes
 

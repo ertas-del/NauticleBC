@@ -20,6 +20,10 @@ key_facts:
   - "Charging gives off hydrogen, which is explosive. Ventilate the space and keep sparks and flames away."
   - "Batteries in series add voltage. Batteries in parallel add ampere-hours."
   - "When disconnecting a battery, remove the negative lead first. When reconnecting, connect the negative last."
+figures:
+  - id: svmo-batteries-connect
+    caption: "Series and parallel"
+    alt: "Two batteries in series, positive of one to negative of the other, add voltage: 12 plus 12 is 24, and the capacity stays the same. The same two in parallel, positive to positive and negative to negative, stay at 12 volts and the ampere-hours add."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -54,6 +58,8 @@ heavy discharge, and starting batteries for short bursts. Use the right type.
 |---|---|---|
 | ==Series== (+ to −) | adds | stays the same |
 | ==Parallel== (+ to +, − to −) | stays the same | adds |
+
+{{figure:svmo-batteries-connect}}
 
 Connect batteries of the same type, age and state of charge.
 

@@ -59,10 +59,28 @@ data class QuizState(
     /** Moves to the next question (or to the finished state). Ignored until the current question is answered. */
     fun next(): QuizState = if (isAnswered) copy(index = index + 1) else this
 
+    /**
+     * Ends the quiz now. Questions that were not answered, including the one on screen, count as wrong.
+     * Used when a closed-book mock runs out of time.
+     */
+    fun forceFinish(): QuizState {
+        if (isFinished) return this
+        val padded = answers.toMutableList()
+        while (padded.size < questions.size) padded += UNANSWERED
+        return copy(index = questions.size, answers = padded)
+    }
+
+    /** Questions that were wrong or left blank. Only meaningful once the quiz is finished. */
+    fun missed(): List<Question> =
+        questions.filterIndexed { i, question -> answers.getOrNull(i) != question.correctIndex }
+
     /** Encodes progress as `[index, answer0, answer1, ...]` so it can survive rotation and process death. */
     fun encode(): List<Int> = listOf(index) + answers
 
     companion object {
+        /** Stored in [answers] when a question was never attempted. */
+        const val UNANSWERED = -1
+
         fun start(questions: List<Question>): QuizState = QuizState(questions)
 
         /** Rebuilds a state from [encode] output. Anything inconsistent with [questions] yields a fresh quiz. */
@@ -76,7 +94,7 @@ data class QuizState(
             val validCount = answers.size == index || (index < questions.size && answers.size == index + 1)
             if (!validCount) return start(questions)
             for (i in answers.indices) {
-                if (answers[i] !in questions[i].options.indices) return start(questions)
+                if (answers[i] != UNANSWERED && answers[i] !in questions[i].options.indices) return start(questions)
             }
             return QuizState(questions, index, answers)
         }

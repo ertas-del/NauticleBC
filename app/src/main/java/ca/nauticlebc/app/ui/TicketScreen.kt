@@ -18,6 +18,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
 import ca.nauticlebc.app.content.ContentBundle
+import ca.nauticlebc.app.oral.OralCards
 
 private val MODULE_ORDER = listOf(
     "bridge-watch", "sixty-ton", "colregs", "seamanship", "chartwork", "tides", "stability", "meteorology",
@@ -37,6 +38,7 @@ fun TicketScreen(
     onOpenMocks: () -> Unit,
     onOpenDrills: () -> Unit,
     onOpenCharts: () -> Unit,
+    onOpenOral: () -> Unit,
     onBack: () -> Unit,
 ) {
     val ticketBundle = remember(bundle, ticketId) { bundle.forTicket(ticketId) }
@@ -96,6 +98,16 @@ fun TicketScreen(
                         Column(modifier = Modifier.padding(16.dp)) {
                             Text(stringResource(R.string.chart_card_title), style = MaterialTheme.typography.titleMedium)
                             Text(stringResource(R.string.chart_card_desc), style = MaterialTheme.typography.bodyMedium)
+                        }
+                    }
+                }
+            }
+            if (ticketId in OralCards.tickets) {
+                item(key = "oral") {
+                    Card(modifier = Modifier.fillMaxWidth().clickable(onClick = onOpenOral)) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Text(stringResource(R.string.oral_card_title), style = MaterialTheme.typography.titleMedium)
+                            Text(stringResource(R.string.oral_card_desc), style = MaterialTheme.typography.bodyMedium)
                         }
                     }
                 }

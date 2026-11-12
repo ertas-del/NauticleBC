@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" width="720" height="500" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="amber" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fde68a"/><stop offset="1" stop-color="#d97706"/>
+</linearGradient>
+<linearGradient id="seaG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#a5f3fc"/><stop offset="1" stop-color="#0e7490"/>
+</linearGradient>
+<linearGradient id="freshG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#bfdbfe"/><stop offset="1" stop-color="#1d4e89"/>
+</linearGradient>
+<linearGradient id="milk" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#cbd5e1"/>
+</linearGradient>
+<linearGradient id="thin" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#78716c"/><stop offset="1" stop-color="#292524"/>
+</linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#94a3b8"/>
+</linearGradient>
+</defs>
+<rect width="720" height="500" rx="0" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="500" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Engine to propeller</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Ahead and astern happen in the gearbox, not in the shaft.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="200" y="246" width="360" height="8" rx="4" fill="#cbd5e1"/>
+<rect x="40" y="200" width="120" height="90" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="100.0" y="251.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Engine</text>
+<rect x="180" y="214" width="100" height="70" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="230.0" y="255.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Coupling</text>
+<rect x="300" y="196" width="120" height="96" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="360.0" y="250.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Gearbox</text>
+<rect x="440" y="230" width="130" height="40" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="505.0" y="256.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Shaft</text>
+<rect x="560" y="214" width="80" height="70" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="600.0" y="255.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Gland</text>
+<circle cx="648" cy="248" r="7" fill="#102a43"/>
+<path d="M648 248 C664 214 678 208 682 222 C670 236 658 244 648 248" fill="#134e4a"/>
+<path d="M648 248 C632 282 618 288 614 274 C626 260 636 252 648 248" fill="#134e4a"/>
+<path d="M648 248 C676 258 686 272 676 280 C662 272 654 258 648 248" fill="#0f766e"/>
+<text x="655.0" y="360.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Propeller</text>
+<text x="360.0" y="180.0" font-size="18" text-anchor="middle" fill="#243b53" font-weight="normal" font-family="Liberation Sans">The thrust block passes the push into the hull.</text>
+<text x="360.0" y="430.0" font-size="16" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">A packed gland should drip a little. Too tight scores the shaft.</text>
+<text x="360.0" y="472.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not a ship plan.</text>
+</svg>

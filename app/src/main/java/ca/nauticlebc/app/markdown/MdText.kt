@@ -56,12 +56,17 @@ object MdText {
         var t = text
         t = Regex("(\\d)\\s?°\\s?([NSEW])\\b").replace(t) { "${it.groupValues[1]} degrees ${it.groupValues[2]}" }
         t = t.replace("°", " degrees")
+        t = Regex("(\\d+(?:\\.\\d+)?)\\s*′").replace(t, "$1 minutes")
         t = Regex("(\\d)\\s?%").replace(t, "$1 percent")
         t = Regex("(\\d)\\s?kn\\b").replace(t, "$1 knots")
         t = Regex("(\\d)\\s?nm\\b").replace(t, "$1 nautical miles")
         t = Regex("(\\d)\\s?kW\\b").replace(t, "$1 kilowatts")
+        t = Regex("(\\d)\\s?kPa\\b").replace(t, "$1 kilopascals")
+        t = Regex("(\\d)\\s?MPa\\b").replace(t, "$1 megapascals")
+        t = Regex("(\\d)\\s?Ah\\b").replace(t, "$1 ampere hours")
         t = Regex("(\\d)\\s?m\\b").replace(t, "$1 metres")
         t = Regex("(\\d)\\s?min\\b").replace(t, "$1 minutes")
+        for ((pattern, spoken) in SPOKEN_WORDS) t = pattern.replace(t, spoken)
         t = t.replace("e.g.", "for example").replace("i.e.", "that is").replace(" vs ", " versus ")
         t = t.replace("→", " leads to ").replace("≥", " at least ").replace("≤", " at most ")
         t = t.replace("×", " times ").replace(" x ", " times ").replace("&", " and ").replace("~", "about ")
@@ -70,6 +75,29 @@ object MdText {
         t = Regex(",\\s*,").replace(t, ",").replace(" ,", ",")
         return t.trim().trimStart(',', ' ')
     }
+
+    /** Short forms a phone voice reads as the wrong word, or spells in a lump. Longer forms come first. */
+    private val SPOKEN_WORDS = listOf(
+        Regex("\\bCOLREGS\\b", RegexOption.IGNORE_CASE) to "collision regulations",
+        Regex("\\bCOLREG\\b", RegexOption.IGNORE_CASE) to "collision regulation",
+        Regex("\\bGMDSS\\b", RegexOption.IGNORE_CASE) to "G M D S S",
+        Regex("\\bEPIRBs\\b", RegexOption.IGNORE_CASE) to "eepirbs",
+        Regex("\\bEPIRB\\b", RegexOption.IGNORE_CASE) to "eepirb",
+        Regex("\\bSARTs\\b", RegexOption.IGNORE_CASE) to "sarts",
+        Regex("\\bSART\\b", RegexOption.IGNORE_CASE) to "sart",
+        Regex("\\bSVMO\\b", RegexOption.IGNORE_CASE) to "S V M O",
+        Regex("\\bSVOP\\b", RegexOption.IGNORE_CASE) to "S V O P",
+        Regex("\\bTCPA\\b", RegexOption.IGNORE_CASE) to "T C P A",
+        Regex("\\bSOLAS\\b", RegexOption.IGNORE_CASE) to "So lass",
+        Regex("\\bVHF\\b", RegexOption.IGNORE_CASE) to "V H F",
+        Regex("\\bDSC\\b", RegexOption.IGNORE_CASE) to "D S C",
+        Regex("\\bAIS\\b", RegexOption.IGNORE_CASE) to "A I S",
+        Regex("\\bUTC\\b", RegexOption.IGNORE_CASE) to "U T C",
+        Regex("\\bGHA\\b", RegexOption.IGNORE_CASE) to "G H A",
+        Regex("\\bCPA\\b", RegexOption.IGNORE_CASE) to "C P A",
+        Regex("\\bRFix\\b") to "running fix",
+        Regex("\\bLOP\\b") to "line of position",
+    )
 
     /** Sentences, so long paragraphs can be cut into pieces the speech engine will accept. */
     private fun sentences(text: String, maxLength: Int): List<String> {
@@ -101,14 +129,14 @@ object MdText {
         keyFacts: List<String>,
         blocks: List<MdBlock>,
         figures: List<ca.nauticlebc.app.content.Figure> = emptyList(),
-        maxLength: Int = 3500,
+        maxLength: Int = 280,
     ): List<SpeechItem> {
         val items = mutableListOf<SpeechItem>()
         fun add(text: String, pause: Int) {
             val t = text.trim()
             if (t.isEmpty()) return
             val pieces = sentences(t, maxLength)
-            pieces.forEachIndexed { i, piece -> items += SpeechItem(piece, if (i == pieces.lastIndex) pause else 150) }
+            pieces.forEachIndexed { i, piece -> items += SpeechItem(piece, if (i == pieces.lastIndex) pause else 280) }
         }
         add("Lesson: " + speakable(title).trimEnd('.') + ".", 1200)
         val facts = keyFacts.map { speakable(it).trim() }.filter { it.isNotEmpty() }

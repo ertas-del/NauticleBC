@@ -47,7 +47,10 @@ import ca.nauticlebc.app.content.Chart
 import ca.nauticlebc.app.content.ChartExercise
 import ca.nauticlebc.app.content.ChartGeometry
 import ca.nauticlebc.app.content.ChartPos
+import ca.nauticlebc.app.content.ChartPlot
 import ca.nauticlebc.app.content.ContentBundle
+import ca.nauticlebc.app.content.PlotCheck
+import ca.nauticlebc.app.content.PlotMark
 import kotlin.math.min
 
 private val Water = Color(0xFFE6F1F6)
@@ -56,6 +59,8 @@ private val LandEdge = Color(0xFF6B5B2A)
 private val ChartInk = Color(0xFF1F2A33)
 private val Magenta = Color(0xFFA6246F)
 private val GridInk = Color(0x33355A70)
+
+private enum class PlotTool { Point, Rule, Dividers }
 
 /** Practice chart: a fictional chart drawn from data, with pan, zoom, a position readout and the exercise list. */
 @Composable
@@ -78,6 +83,10 @@ fun ChartScreen(bundle: ContentBundle, onBack: () -> Unit) {
     var zoom by remember { mutableFloatStateOf(1f) }
     var pan by remember { mutableStateOf(Offset.Zero) }
     var cursor by remember { mutableStateOf<ChartPos?>(null) }
+    var tool by remember { mutableStateOf(PlotTool.Point) }
+    var mark by remember(exerciseIndex) { mutableStateOf(PlotMark()) }
+    var grade by remember(exerciseIndex) { mutableStateOf<List<PlotCheck>>(emptyList()) }
+    val exercise = exercises.getOrNull(exerciseIndex.coerceIn(0, (exercises.size - 1).coerceAtLeast(0)))
 
     NauticleScaffold(title = chart.title, onBack = onBack) { padding ->
         Column(modifier = Modifier.padding(padding).fillMaxSize()) {
@@ -93,8 +102,15 @@ fun ChartScreen(bundle: ContentBundle, onBack: () -> Unit) {
                 zoom = zoom,
                 pan = pan,
                 cursor = cursor,
+                mark = mark,
+                tool = tool,
+                rose = chart.compassRoses.firstOrNull()?.position,
                 onTransform = { z, p -> zoom = z; pan = p },
-                onTap = { cursor = it },
+                onTap = {
+                    cursor = it
+                    mark = mark.tap(it)
+                    grade = emptyList()
+                },
                 modifier = Modifier.weight(1f).fillMaxWidth(),
             )
             Row(
@@ -110,9 +126,43 @@ fun ChartScreen(bundle: ContentBundle, onBack: () -> Unit) {
                     style = MaterialTheme.typography.bodyMedium,
                     modifier = Modifier.weight(1f),
                 )
-                OutlinedButton(onClick = { zoom = 1f; pan = Offset.Zero; cursor = null }) {
+                OutlinedButton(onClick = {
+                    zoom = 1f
+                    pan = Offset.Zero
+                    cursor = null
+                    mark = PlotMark()
+                    grade = emptyList()
+                }) {
                     Text(stringResource(R.string.chart_reset))
                 }
+            }
+            Row(
+                modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()).padding(horizontal = 16.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+            ) {
+                FilterChip(tool == PlotTool.Point, { tool = PlotTool.Point }, { Text(stringResource(R.string.chart_tool_point)) })
+                FilterChip(tool == PlotTool.Rule, { tool = PlotTool.Rule }, { Text(stringResource(R.string.chart_tool_rule)) })
+                FilterChip(tool == PlotTool.Dividers, { tool = PlotTool.Dividers }, { Text(stringResource(R.string.chart_tool_dividers)) })
+            }
+            PlotReadout(geo, mark, tool)
+            Row(
+                modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp),
+                horizontalArrangement = Arrangement.spacedBy(8.dp),
+            ) {
+                Button(
+                    onClick = { if (exercise != null) grade = ChartPlot.grade(geo, exercise, mark) },
+                    enabled = exercise != null,
+                ) { Text(stringResource(R.string.chart_grade)) }
+                OutlinedButton(onClick = { mark = PlotMark(); grade = emptyList(); cursor = null }) {
+                    Text(stringResource(R.string.chart_clear_plot))
+                }
+            }
+            grade.forEach { check ->
+                Text(
+                    text = gradeText(check),
+                    style = MaterialTheme.typography.bodyMedium,
+                    modifier = Modifier.padding(horizontal = 16.dp),
+                )
             }
             ExercisePanel(
                 chart = chart,
@@ -197,12 +247,44 @@ private fun formatNumber(v: Double): String =
     if (v == Math.rint(v)) v.toLong().toString() else "%.2f".format(java.util.Locale.US, v).trimEnd('0').trimEnd('.')
 
 @Composable
+private fun PlotReadout(geo: ChartGeometry, mark: PlotMark, tool: PlotTool) {
+    val text = when {
+        mark.points.size < 2 -> stringResource(R.string.chart_plot_hint)
+        tool == PlotTool.Dividers -> stringResource(
+            R.string.chart_distance,
+            formatNumber(geo.distanceNm(mark.points[0], mark.points[1])),
+        )
+        else -> stringResource(
+            R.string.chart_bearing,
+            formatNumber(geo.bearingTrue(mark.points[0], mark.points[1])),
+        )
+    }
+    Text(text, style = MaterialTheme.typography.bodyMedium, modifier = Modifier.padding(horizontal = 16.dp))
+}
+
+@Composable
+private fun gradeText(check: PlotCheck): String = when (check) {
+    is PlotCheck.NeedPoints -> stringResource(R.string.chart_grade_need_points, check.label, check.need)
+    is PlotCheck.Calculated -> stringResource(R.string.chart_not_a_plot, check.label)
+    is PlotCheck.Result -> stringResource(
+        if (check.passed) R.string.chart_grade_pass else R.string.chart_grade_fail,
+        check.label,
+        check.measured,
+        check.expected,
+        check.tolerance,
+    )
+}
+
+@Composable
 private fun ChartCanvas(
     chart: Chart,
     geo: ChartGeometry,
     zoom: Float,
     pan: Offset,
     cursor: ChartPos?,
+    mark: PlotMark,
+    tool: PlotTool,
+    rose: ChartPos?,
     onTransform: (Float, Offset) -> Unit,
     onTap: (ChartPos) -> Unit,
     modifier: Modifier = Modifier,
@@ -331,6 +413,26 @@ private fun ChartCanvas(
             val y = sy(c)
             drawLine(Color(0xFFD32F2F), Offset(x - 12f * density, y), Offset(x + 12f * density, y), strokeWidth = 1.5f * density)
             drawLine(Color(0xFFD32F2F), Offset(x, y - 12f * density), Offset(x, y + 12f * density), strokeWidth = 1.5f * density)
+        }
+
+        if (mark.points.size == 2) {
+            val a = mark.points[0]
+            val b = mark.points[1]
+            drawLine(Color(0xFFD32F2F), Offset(sx(a), sy(a)), Offset(sx(b), sy(b)), strokeWidth = 2f * density)
+            if (tool == PlotTool.Rule && rose != null) {
+                ChartPlot.parallelThrough(geo, a, b, rose)?.let { (p, q) ->
+                    drawLine(
+                        Magenta,
+                        Offset(sx(p), sy(p)),
+                        Offset(sx(q), sy(q)),
+                        strokeWidth = 2f * density,
+                    )
+                }
+            }
+        }
+        mark.points.forEachIndexed { i, p ->
+            drawCircle(Color(0xFFD32F2F), radius = 5f * density, center = Offset(sx(p), sy(p)))
+            drawLabel("${i + 1}", sx(p) + 8f * density, sy(p) - 8f * density, textPaint)
         }
     }
 }

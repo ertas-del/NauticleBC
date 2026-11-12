@@ -22,6 +22,10 @@ key_facts:
   - "A Kort nozzle is a shroud round the propeller that increases thrust at low speed, which is why tugs use them."
   - "A fixed-pitch propeller has blades that cannot be changed in service. A controllable-pitch propeller changes blade angle to go ahead, astern or neutral."
   - "If a through-hull fitting or hose fails, close the seacock if you can, otherwise plug it with a bung, and tell the master."
+figures:
+  - id: svmo-seacock-strainer
+    caption: "Seacock and strainer"
+    alt: "A hull opening at the waterline. The seacock is the valve. A strainer with a basket sits after it. Close the seacock before you open the strainer, then open it again and check for leaks."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -31,6 +35,8 @@ review_status: needs_expert_review
 Anything that passes through the hull below the waterline is a possible hole. The SVMO syllabus asks you to ==know the
 common underwater fittings, what each is for, how it is kept working, and what to do if one fails==. They are also the
 items you inspect when the vessel is hauled out of the water.
+
+{{figure:svmo-seacock-strainer}}
 
 ## Hull openings
 

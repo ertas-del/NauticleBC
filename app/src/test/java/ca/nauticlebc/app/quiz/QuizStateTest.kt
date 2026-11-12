@@ -120,4 +120,14 @@ class QuizStateTest {
         assertFalse(QuizScore(0, 0).isBetterThan(QuizScore(1, 4)))
         assertTrue(QuizScore(0, 4).isBetterThan(QuizScore(0, 0)))
     }
+
+    @Test
+    fun forceFinishCountsBlankQuestionsAsWrong() {
+        val finished = QuizState.start(questions).select(1).next().forceFinish()
+        assertTrue(finished.isFinished)
+        assertEquals(1, finished.correctCount)
+        assertEquals(listOf("q2", "q3"), finished.missed().map { it.id })
+        val restored = QuizState.restore(questions, finished.encode())
+        assertEquals(finished, restored)
+    }
 }

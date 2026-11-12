@@ -44,4 +44,26 @@ class ReadingPrefsTest {
         val long = MdText.speechItems("T", emptyList(), MarkdownParser.parse(("Sentence number one. ").repeat(100)), maxLength = 200)
         assertTrue(long.all { it.text.length <= 200 })
     }
+
+    @Test
+    fun speakableSaysMarineShortFormsTheWayAPersonWould() {
+        assertEquals(
+            "The collision regulations say an eepirb and a sart.",
+            MdText.speakable("The COLREGS say an EPIRB and a SART."),
+        )
+        assertEquals("G H A is 32 degrees 15.4 minutes.", MdText.speakable("GHA is 32° 15.4′."))
+        assertEquals("running fix", MdText.speakable("RFix"))
+    }
+
+    @Test
+    fun bestVoiceIsOfflineAndPrefersCanadianEnglish() {
+        val voices = listOf(
+            VoiceChoice("net", quality = 500, languageTag = "en-CA", needsNetwork = true, installed = true),
+            VoiceChoice("us", quality = 400, languageTag = "en-US", needsNetwork = false, installed = true),
+            VoiceChoice("ca", quality = 400, languageTag = "en-CA", needsNetwork = false, installed = true),
+            VoiceChoice("missing", quality = 500, languageTag = "en-GB", needsNetwork = false, installed = false),
+        )
+        assertEquals("ca", bestOfflineEnglishVoice(voices)?.name)
+        assertEquals(null, bestOfflineEnglishVoice(listOf(voices.first())))
+    }
 }

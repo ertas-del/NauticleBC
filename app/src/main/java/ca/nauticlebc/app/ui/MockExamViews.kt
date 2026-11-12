@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.dp
 import ca.nauticlebc.app.R
 import ca.nauticlebc.app.content.ContentBundle
 import ca.nauticlebc.app.content.ExamFocus
+import ca.nauticlebc.app.quiz.QuizState
 import kotlin.random.Random
 
 /** List of practice exams. Each one is a practice format, not the official exam. */
@@ -75,7 +76,12 @@ fun MockExamListScreen(bundle: ContentBundle, onOpen: (String) -> Unit, onBack: 
 
 /** One mock exam drawn from the question banks by the exam's blueprint. "Try again" draws a new exam. */
 @Composable
-fun MockExamScreen(examId: String, bundle: ContentBundle, onBack: () -> Unit) {
+fun MockExamScreen(
+    examId: String,
+    bundle: ContentBundle,
+    onBack: () -> Unit,
+    onFinished: (QuizState) -> Unit = {},
+) {
     val exam = bundle.mockExams.firstOrNull { it.id == examId }
     if (exam == null) {
         MessageScreen(
@@ -101,5 +107,9 @@ fun MockExamScreen(examId: String, bundle: ContentBundle, onBack: () -> Unit) {
         backLabel = backLabel,
         doneLabel = backLabel,
         onRetry = { seed = Random.nextLong() },
+        closedBook = true,
+        timeLimitMinutes = exam.timeLimitMinutes,
+        passMarkPercent = exam.passMarkPercent,
+        onFinished = onFinished,
     )
 }

@@ -21,6 +21,10 @@ key_facts:
   - "A sea water strainer stops weed and debris from blocking the raw water side. A blocked strainer or worn impeller is a common cause of overheating."
   - "Sea water is not used inside the engine because it causes corrosion and scale and leaves salt deposits."
   - "In a cooler, the higher-value liquid is usually kept at the higher pressure so that a leak does not spoil it, for example oil above water."
+figures:
+  - id: svmo-cooling-circuits
+    caption: "Fresh water and sea water"
+    alt: "Two loops share a heat exchanger. Fresh water goes through the engine, the thermostat and a pump, and stays in the engine. Sea water comes from the seacock, through a strainer and an impeller pump, takes the heat in the exchanger, and goes overboard. Do not open a hot pressure cap."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -40,6 +44,8 @@ salty ever enters the engine.
 **Raw water circuit.** Sea water enters through a ==sea chest or seacock== and a ==strainer==, is pushed by a raw
 water pump (often a rubber ==impeller== pump) through the heat exchanger, oil coolers and sometimes the exhaust,
 and goes back overboard. Heat passes from the fresh water to the sea water in the ==heat exchanger==.
+
+{{figure:svmo-cooling-circuits}}
 
 Some vessels use a ==keel cooler== instead: the fresh water runs through pipes fixed to the outside of the hull, so the
 sea cools it directly and there is no raw water intake. Others use an ==air-cooled radiator== with a fan, as on a

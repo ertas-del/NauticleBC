@@ -31,11 +31,12 @@ fun testQuestion(
     correctIndex: Int = 1,
     optionCount: Int = 3,
     module: String = "colregs",
+    tickets: List<String> = listOf("bridge-watch-rating"),
 ) = Question(
     id = id,
     module = module,
     lessonId = lessonId,
-    tickets = listOf("bridge-watch-rating"),
+    tickets = tickets,
     difficulty = "easy",
     stem = "stem $id",
     options = List(optionCount) { "option $it" },

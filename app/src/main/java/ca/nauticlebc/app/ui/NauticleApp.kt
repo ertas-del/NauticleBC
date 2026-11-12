@@ -7,6 +7,8 @@ import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.platform.LocalContext
+import android.content.Context
+import ca.nauticlebc.app.oral.OralCards
 import androidx.compose.ui.res.stringResource
 import androidx.navigation.NavHostController
 import androidx.navigation.NavType
@@ -20,11 +22,15 @@ import ca.nauticlebc.app.content.ContentRepository
 import ca.nauticlebc.app.content.LessonCatalog
 import ca.nauticlebc.app.progress.LessonProgress
 import ca.nauticlebc.app.progress.ProgressTracker
+import ca.nauticlebc.app.progress.RecallTracker
 import ca.nauticlebc.app.progress.SharedPreferencesProgressStore
+import ca.nauticlebc.app.progress.SharedPreferencesRecallStore
+import java.time.LocalDate
 
 /** Navigation routes. Lesson ids are lowercase letters, digits, dots and dashes, so they are safe in a path. */
 object Routes {
     const val HOME = "home"
+    const val TICKETS = "tickets"
     const val ARG_MODULE = "module"
     const val ARG_LESSON = "lessonId"
     const val ARG_TICKET = "ticket"
@@ -39,6 +45,9 @@ object Routes {
     const val MOCK_PATTERN = "mock/{$ARG_EXAM}"
     const val DRILLS = "drills"
     const val CHARTS = "charts"
+    const val ALMANAC = "almanac"
+    const val DUE = "due"
+    const val ORAL_PATTERN = "oral/{$ARG_TICKET}"
 
     fun ticket(ticketId: String) = "ticket/$ticketId"
     fun mocks(ticketId: String) = "mocks?ticket=$ticketId"
@@ -48,6 +57,7 @@ object Routes {
     fun examFocus(moduleId: String, ticketId: String = "") = "examfocus/$moduleId?ticket=$ticketId"
     fun moduleQuiz(moduleId: String, ticketId: String = "") = "modulequiz/$moduleId?ticket=$ticketId"
     fun mock(examId: String) = "mock/$examId"
+    fun oral(ticketId: String) = "oral/$ticketId"
 }
 
 @Composable
@@ -58,13 +68,47 @@ fun NauticleApp() {
     }
     val tracker = remember { ProgressTracker(SharedPreferencesProgressStore(context)) }
     var progress by remember { mutableStateOf(tracker.snapshot()) }
+    val recall = remember { RecallTracker(SharedPreferencesRecallStore(context)) }
+    var memories by remember { mutableStateOf(recall.snapshot()) }
+    val today = LocalDate.now().toString()
+    val ticketPrefs = remember {
+        context.getSharedPreferences("ticket_choice", Context.MODE_PRIVATE)
+    }
+    var ticketId by remember { mutableStateOf(resolveTicket(ticketPrefs.getString("id", null))) }
+    fun chooseTicket(id: String) {
+        ticketId = id
+        ticketPrefs.edit().putString("id", id).apply()
+    }
     val navController = rememberNavController()
+    val recordRecall: (ca.nauticlebc.app.quiz.QuizState) -> Unit = { state ->
+        memories = recall.recordQuiz(state, today)
+    }
 
     NavHost(navController = navController, startDestination = Routes.HOME) {
         composable(Routes.HOME) {
+            val bundle = bundleResult?.getOrNull()
             HomeScreen(
+                dueCount = memories.count { it.value.isDue(today) },
+                ticketId = ticketId,
+                mockEnabled = bundle?.mockExams?.any { it.ticket == ticketId } == true,
+                oralEnabled = ticketId in OralCards.tickets,
+                onStart = { navController.navigate(Routes.DUE) },
+                onOpenMock = { navController.navigate(Routes.mocks(ticketId)) },
+                onOpenChart = { navController.navigate(Routes.CHARTS) },
+                onOpenOral = { navController.navigate(Routes.oral(ticketId)) },
+                onOpenAlmanac = { navController.navigate(Routes.ALMANAC) },
+                onChangeTicket = { navController.navigate(Routes.TICKETS) },
+            )
+        }
+
+        composable(Routes.TICKETS) {
+            TicketListScreen(
                 bundle = bundleResult,
-                onOpenTicket = { navController.navigate(Routes.ticket(it)) },
+                onOpenTicket = {
+                    chooseTicket(it)
+                    navController.navigate(Routes.ticket(it))
+                },
+                onBack = { navController.popBackStack() },
             )
         }
 
@@ -85,6 +129,7 @@ fun NauticleApp() {
                     onOpenMocks = { navController.navigate(Routes.mocks(ticketId)) },
                     onOpenDrills = { navController.navigate(Routes.DRILLS) },
                     onOpenCharts = { navController.navigate(Routes.CHARTS) },
+                    onOpenOral = { navController.navigate(Routes.oral(ticketId)) },
                     onBack = { navController.popBackStack() },
                 )
             }
@@ -102,6 +147,62 @@ fun NauticleApp() {
 
         composable(Routes.DRILLS) {
             DrillScreen(onBack = { navController.popBackStack() })
+        }
+
+        composable(Routes.ALMANAC) {
+            AlmanacScreen(onBack = { navController.popBackStack() })
+        }
+
+        composable(Routes.DUE) {
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.due_screen_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                val due = remember(bundle, today) {
+                    val ids = recall.dueIds(today).toSet()
+                    bundle.questions.filter { it.id in ids }
+                }
+                if (due.isEmpty()) {
+                    MessageScreen(
+                        title = stringResource(R.string.due_screen_title),
+                        message = stringResource(R.string.due_empty),
+                        onBack = { navController.popBackStack() },
+                    )
+                } else {
+                    QuizScreen(
+                        titleText = stringResource(R.string.due_screen_title),
+                        stateKey = "due-$today-${due.size}",
+                        questions = due,
+                        best = null,
+                        onRecordScore = {},
+                        onBackToLesson = { navController.popBackStack() },
+                        onBackToLessons = { navController.popBackStack() },
+                        backLabel = stringResource(R.string.due_screen_title),
+                        doneLabel = stringResource(R.string.due_screen_title),
+                        onFinished = recordRecall,
+                    )
+                }
+            }
+        }
+
+        composable(
+            route = Routes.ORAL_PATTERN,
+            arguments = listOf(navArgument(Routes.ARG_TICKET) { type = NavType.StringType }),
+        ) { entry ->
+            val ticketId = entry.arguments?.getString(Routes.ARG_TICKET).orEmpty()
+            BundleGate(
+                result = bundleResult,
+                title = stringResource(R.string.oral_screen_title),
+                onBack = { navController.popBackStack() },
+            ) { bundle ->
+                OralScreen(
+                    ticketId = ticketId,
+                    bundle = bundle,
+                    onGrade = { id, correct -> memories = recall.record(id, correct, today) },
+                    onBack = { navController.popBackStack() },
+                )
+            }
         }
 
         composable(
@@ -132,7 +233,12 @@ fun NauticleApp() {
                 title = stringResource(R.string.mock_list_title),
                 onBack = { navController.popBackStack() },
             ) { bundle ->
-                MockExamScreen(examId = examId, bundle = bundle, onBack = { navController.popBackStack() })
+                MockExamScreen(
+                    examId = examId,
+                    bundle = bundle,
+                    onBack = { navController.popBackStack() },
+                    onFinished = recordRecall,
+                )
             }
         }
 
@@ -202,6 +308,7 @@ fun NauticleApp() {
                     moduleId = moduleId,
                     bundle = bundle.forTicket(ticketId),
                     onBack = { navController.popBackStack() },
+                    onFinished = recordRecall,
                 )
             }
         }
@@ -267,6 +374,7 @@ fun NauticleApp() {
                         onBackToLessons = { navController.backToModuleList() },
                         backLabel = stringResource(R.string.quiz_back_to_lesson),
                         doneLabel = stringResource(R.string.quiz_back_to_lessons),
+                        onFinished = recordRecall,
                     )
                 }
             }

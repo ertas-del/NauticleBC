@@ -22,6 +22,10 @@ key_facts:
   - "Milky or creamy oil means water or coolant has got in. Oil that smells of fuel and looks thin means fuel dilution."
   - "Low oil pressure is a stop-the-engine alarm. Stop first, then look for the cause."
   - "Used oil goes in a sealed, labelled container for an approved disposal facility. Never discharge it overboard or into the bilge."
+figures:
+  - id: svmo-oil-samples
+    caption: "What the oil looks like"
+    alt: "Three samples. Clean oil is clear and amber. Milky oil means water or coolant. Thin dark oil means fuel has diluted it. If oil pressure is low, stop the engine before you look for the cause."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -82,6 +86,8 @@ into the breather. Check gearbox and hydraulic reservoirs the same way, using th
 ## Reading the oil
 
 Look at the oil on the dipstick and rub a drop between finger and thumb (with a glove or a rag).
+
+{{figure:svmo-oil-samples}}
 
 | What you see | What it usually means |
 |---|---|

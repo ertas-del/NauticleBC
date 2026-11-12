@@ -21,6 +21,10 @@ key_facts:
   - "Steering gear is lubricated and inspected like any other machinery: grease points, rudder stock gland, linkages, fluid level and pins."
   - "Steering failure is reported to the bridge at once. The master decides the response, which includes slowing or stopping and warning other vessels."
   - "A little warmth in a hydraulic steering unit is normal. Rapid heating, noise or leaks are not."
+figures:
+  - id: svmo-hydraulic-steering
+    caption: "Hydraulic steering"
+    alt: "The helm turns a pump. Two pipes carry oil to a ram. The ram moves the rudder. Air in the oil makes the helm spongy, and the cure is to bleed it."
 source_ids: [tp14814e, tp2293-2016]
 review_status: needs_expert_review
 ---
@@ -50,6 +54,8 @@ heavy to use on anything beyond a small boat. Wire and chain stretch, so check t
 pushes oil through pipes or hoses to a ==steering cylinder (ram)== which moves the tiller or the engine drive. Oil
 returns to a reservoir. Because oil does not compress, the response is immediate and firm, and the helm can be mounted
 a long way from the rudder.
+
+{{figure:svmo-hydraulic-steering}}
 
 **Power-assisted or electro-hydraulic.** On larger vessels, a power pump (electric or engine-driven) supplies the oil
 and the helm only operates a control valve or electrical signal. These often have two power units, one main and one
