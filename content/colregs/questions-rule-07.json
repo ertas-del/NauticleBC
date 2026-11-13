@@ -4,7 +4,11 @@
     {
       "id": "colregs.rule-07.q01",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "If you are in any doubt about whether a risk of collision exists, what does Rule 7 say?",
       "options": [
@@ -15,98 +19,134 @@
       ],
       "correct_index": 2,
       "explanation": "Rule 7 states that if there is any doubt, risk is deemed to exist. That keeps you on the safe side while you gather more information.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q02",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "The compass bearing of an approaching vessel does not appreciably change over several minutes. What does this tell you under Rule 7?",
       "options": [
-        "Risk of collision is to be deemed to exist",
+        "Risk of collision is deemed to exist",
         "The vessel will certainly pass clear",
         "The vessel is moving away from you",
         "The compass is probably faulty"
       ],
       "correct_index": 0,
       "explanation": "A steady bearing on an approaching vessel is the classic warning that you are on a converging course, and Rule 7 says risk is then deemed to exist. It is not a sign that she will pass clear.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q03",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are approaching a tug with a very long tow at close range. The bearing to the tug is changing slowly but clearly. According to Rule 7, how should you treat the situation?",
       "options": [
         "Relax, because any change in bearing means you will pass clear",
-        "Risk may still exist, since a bearing change does not remove the risk when approaching a tow or at close range",
+        "Risk may still exist with a tow or at close range",
         "Ignore the tow and watch only the tug",
         "Only use the radar and stop looking out the window"
       ],
       "correct_index": 1,
       "explanation": "Rule 7 says risk may sometimes exist even where the bearing changes appreciably, particularly when approaching a very large vessel or a tow, or approaching any vessel at close range. A long tow extends far behind the tug, so the tug's bearing alone is misleading.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q04",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In poor visibility your radar picks up one faint echo for a single sweep, and then it disappears. A crew member says, \"That was just clutter, so we can carry on.\" Which Rule 7 principle is most relevant?",
       "options": [
-        "Assumptions should not be made on the basis of scanty information, especially scanty radar information",
+        "Don't assume things from scanty radar information",
         "Radar returns should only be acted on if they are confirmed by sound signals",
-        "The vessel with the stronger echo is the give-way vessel",
+        "Stronger echo gives way",
         "A single echo always indicates a vessel on a collision course"
       ],
       "correct_index": 0,
       "explanation": "Rule 7 warns against assuming from scanty information, particularly scanty radar information. A single faint echo should prompt continued observation, not a conclusion either way. The last option is also wrong because it makes the opposite assumption from equally little data.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q05",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Which description best matches the use of radar that Rule 7 asks for on a vessel with operational radar?",
       "options": [
         "Keep the screen on the shortest range scale to see nearby targets clearly",
         "Use radar only when visibility is restricted",
         "Glance at the screen once per watch to confirm the lookout's report",
-        "Proper use, including long-range scanning for early warning and radar plotting or an equivalent systematic observation of detected objects"
+        "Long-range scanning plus plotting or similar"
       ],
       "correct_index": 3,
       "explanation": "Rule 7 calls for proper use of radar, which includes long-range scanning to give early warning and radar plotting or equivalent systematic observation. Using only the short range loses early warning, and occasional glances are not systematic observation. Rule 7 does not limit radar to restricted visibility.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q06",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What does Rule 7 require every vessel to use when deciding whether a risk of collision exists?",
       "options": [
         "Radar only, because it is the most accurate instrument",
-        "All available means appropriate to the prevailing circumstances and conditions",
-        "Visual bearings only, because radar can mislead",
+        "All available means suited to the conditions",
+        "Visual bearings only",
         "VHF radio contact with the other vessel before any judgement is made"
       ],
       "correct_index": 1,
       "explanation": "Rule 7 asks for every available means suited to the conditions: eyes, compass bearings, radar, AIS, listening and anything else that helps. Relying on a single tool, whether radar or visual bearings, is not what the rule asks, and VHF contact is helpful but not a required first step before judging risk.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-07.q07",
       "lesson_id": "colregs.rule-07.risk-of-collision",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Rule 7 warns that risk of collision may sometimes exist even when an appreciable bearing change is evident. Which group lists the situations it names in particular?",
       "options": [
@@ -117,7 +157,9 @@
       ],
       "correct_index": 0,
       "explanation": "The rule names a very large vessel, a tow, and any vessel at close range. A long ship or tow can bring a different part of it close to you even as the bearing to the part you are watching changes, and at close range a small change in bearing leaves little room. The other groups are not the situations the rule names.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

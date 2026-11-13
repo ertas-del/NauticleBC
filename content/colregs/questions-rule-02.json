@@ -4,103 +4,139 @@
     {
       "id": "colregs.rule-02.q01",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Under Rule 2(a), who is not excused from the consequences of neglecting to comply with the Rules?",
       "options": [
         "Only the person at the helm at the time",
-        "Only the master",
-        "The vessel, her owner, her master and her crew",
+        "Only the master, as the person in command",
+        "The vessel, owner, master and crew",
         "Only the owner, since the owner controls the vessel"
       ],
       "correct_index": 2,
       "explanation": "Rule 2(a) names the vessel, the owner, the master and the crew. Responsibility is not limited to whoever was steering.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-02.q02",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Besides the written Rules, what else can require a vessel to take a precaution under Rule 2(a)?",
       "options": [
-        "The ordinary practice of seamen or the special circumstances of the case",
-        "The wishes of the vessel's owner",
+        "Ordinary practice of seamen, or special circumstances",
+        "The wishes of the vessel's owner or charterer",
         "The instructions of the other vessel's master",
         "The company's insurance conditions"
       ],
       "correct_index": 0,
       "explanation": "Rule 2(a) refers to precautions required by the ordinary practice of seamen or by the special circumstances of the case. Owner wishes, another vessel's instructions and insurance terms are not what the Rule names.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-02.q03",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Rule 2(b) allows a departure from the Rules in certain circumstances. Which statement best describes when this is justified?",
       "options": [
         "Whenever following the Rules would cost extra time or fuel",
-        "When it is necessary to avoid immediate danger, having due regard to the dangers and special circumstances, including the limitations of the vessels involved",
+        "To avoid immediate danger, weighing all special circumstances",
         "Whenever the other vessel is smaller than your own",
-        "Whenever the master judges the Rules are out of date"
+        "Whenever the master judges that the Rules are out of date"
       ],
       "correct_index": 1,
       "explanation": "Departure is justified only when it is necessary to avoid immediate danger, and only after giving due regard to the dangers of navigation and collision and the special circumstances, including the vessels' limitations. Convenience, relative size or a personal view about the Rules do not qualify.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-02.q04",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are the stand-on vessel in a crossing situation. The give-way vessel has not acted and you see you could clear her safely by turning early, well before any danger is immediate. You decide to hold on because \"it is her duty to keep clear.\" What is the main problem with this thinking?",
       "options": [
         "None, because the stand-on vessel never needs to do anything",
-        "Rule 2(a) means neglecting a sensible precaution can leave you answerable even though the other vessel was at fault",
+        "Rule 2(a): neglecting a precaution leaves you answerable",
         "Rule 2(b) forbids the stand-on vessel from ever changing course",
         "Holding on is only allowed if the other vessel has radar"
       ],
       "correct_index": 1,
       "explanation": "Rule 2(a) keeps responsibility on the vessel, owner, master and crew for neglecting precautions required by ordinary seamanship or the circumstances. The other vessel's fault is not a complete defence. Later Rules set out exactly when and how the stand-on vessel may act, which you will study separately.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-02.q05",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "A master says, \"Rule 2 means I can set aside any Rule I think is awkward, as long as I record my reasons in the log.\" Which response is most accurate?",
       "options": [
-        "Correct, as long as the log entry is made within one hour",
-        "Incorrect, because Rule 2(b) only contemplates departures needed to avoid immediate danger, after weighing the dangers and special circumstances",
+        "Correct, if logged within 1 h",
+        "Incorrect: 2(b) covers only avoiding immediate danger",
         "Correct, because Rule 2(a) gives masters full discretion",
         "Incorrect, because Rule 2 never allows any departure from the Rules"
       ],
       "correct_index": 1,
       "explanation": "Rule 2(b) does allow departure, but only where it is needed to avoid immediate danger and after due regard to the dangers and special circumstances. A log entry does not widen that. The last option is wrong because Rule 2(b) does recognise justified departures.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-02.q06",
       "lesson_id": "colregs.rule-02.responsibility",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Close to a tug with a long tow, you decide that the normal action under the Rules would lead into immediate danger and you must do something different. Under Rule 2(b), what must you take into account when choosing your action?",
       "options": [
         "Only your own vessel's speed, since the other vessel is not your concern",
-        "All dangers of navigation and collision and any special circumstances, including the limitations of both vessels, such as the tow's inability to stop or turn quickly",
+        "All dangers and special circumstances, incl. both vessels' limits",
         "Nothing further, because once danger is immediate any action is acceptable",
-        "Only what the company's operating manual says"
+        "Only what the company's operating manual says to do"
       ],
       "correct_index": 1,
       "explanation": "Rule 2(b) requires due regard to all dangers of navigation and collision and to special circumstances, including the limitations of the vessels involved. A tug and long tow may be unable to stop or turn quickly, so an action that relies on her manoeuvring could make things worse. Immediate danger justifies departing from the Rules, but it does not remove the need to judge the whole situation.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

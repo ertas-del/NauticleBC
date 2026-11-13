@@ -4,7 +4,11 @@
     {
       "id": "colregs.rule-20.q01",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Between which times do the Rules require navigation lights to be shown?",
       "options": [
@@ -15,47 +19,65 @@
       ],
       "correct_index": 3,
       "explanation": "Rule 20 requires lights from sunset to sunrise. The one-hour and twilight options are invented margins. Restricted visibility adds a daytime requirement, but it is not the only time lights are required.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q02",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "It is mid-morning, the sun is well up, and you run into thick fog in the Strait of Georgia. What does Rule 20 say about your navigation lights?",
       "options": [
-        "Only the masthead light is required",
+        "Only the masthead light is required in fog",
         "They are not required because it is daytime",
         "They may be shown only if the fog signal is not working",
-        "They must be shown, because carried lights are also required from sunrise to sunset in restricted visibility"
+        "They must be shown in restricted visibility by day"
       ],
       "correct_index": 3,
       "explanation": "Lights that are carried must also be shown by day in restricted visibility. Daylight alone does not excuse them, the rule does not pick out only the masthead light, and lights are not a substitute for the sound signals of Rule 35.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q03",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night your deckhand wants to switch on bright deck floodlights while you are underway. Under Rule 20, which concern decides whether that is allowed?",
       "options": [
         "Whether the floodlights are white rather than coloured",
         "Whether the vessel is over 50 m in length",
         "Floodlights are always permitted underway because they improve safety on deck",
-        "Whether they could be mistaken for navigation lights, impair their visibility or character, or interfere with the lookout"
+        "Whether they could be confused with lights or spoil the lookout"
       ],
       "correct_index": 3,
       "explanation": "Rule 20 allows other lights only if they cannot be mistaken for prescribed lights, do not impair their visibility or distinctive character, and do not interfere with the lookout. Being white does not make a light acceptable, length is not the test, and floodlights are not automatically allowed.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q04",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "When do the Rules about day shapes apply, and in what weather do the Part C Rules apply?",
       "options": [
@@ -66,13 +88,18 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 20 says the shapes Rules are complied with by day and that all of Part C applies in all weathers. Shapes are not limited to good visibility or harbours, and Part C is not limited to night or fog.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q05",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Where are the detailed requirements for the positioning, spacing, colour and intensity of navigation lights and the size of shapes found?",
       "options": [
@@ -83,47 +110,65 @@
       ],
       "correct_index": 2,
       "explanation": "Rule 20 says lights and shapes must comply with Annex I, which covers positioning and technical details. Annex III covers sound signal appliances, Rule 36 covers signals to attract attention, and Annex IV covers distress signals.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q06",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night in Canadian waters you see a police boat showing a blue flashing light, closing from your port side on a crossing course. Which statement is correct?",
       "options": [
         "A blue flashing light means the vessel is not under command",
         "The blue light gives the police boat the right of way, so you must keep clear",
-        "The blue light is an identification signal only; the police boat must still follow the steering and sailing rules",
-        "Only the Canadian Coast Guard may show a blue flashing light"
+        "It is ID only; she still follows the steering rules",
+        "Only the CCG may show blue"
       ],
       "correct_index": 2,
       "explanation": "Under the Canadian Rule 45, government and police vessels may show a blue flashing light as an identification signal, but it does not relieve them from the steering and sailing rules in Part B. It is not a priority signal and has nothing to do with not under command. Police and Coast Guard Auxiliary vessels may also use it in the stated situations.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q07",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "In a Canadian harbour, a barge is loading dangerous goods alongside a terminal. Under the Canadian additional provisions, what does it show, and what changes once it is underway under tow?",
       "options": [
         "Flag \"B\" while not underway; an all-round red light once underway",
         "A blue flashing light while loading; nothing once underway",
-        "An all-round red light or flag \"B\" while not underway; flag \"B\" but no red light once underway",
-        "Two all-round red lights in a vertical line at all times"
+        "Red light or flag B; underway, flag B only",
+        "Two reds at all times"
       ],
       "correct_index": 2,
       "explanation": "Rule 39 applies in Canadian waters of a roadstead, harbour, river, lake or inland waterway. Not underway: an all-round red light or flag B. Underway: flag B but not the red light. Two reds in a vertical line mean not under command, the blue light is for government and police vessels, and showing flag B at anchor but a red light underway reverses the rule.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-20.q08",
       "lesson_id": "colregs.rule-20.lights-shapes-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "On a clear but very dark, overcast afternoon you think your vessel would be easier to see with navigation lights on. What does Rule 20 allow?",
       "options": [
@@ -134,7 +179,9 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 20 requires lights by day in restricted visibility and also says they may be shown in all other circumstances when it is deemed necessary. There is no ban on daytime lights, no limit to one white light, and no need for permission.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

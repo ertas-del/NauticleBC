@@ -4,7 +4,11 @@
     {
       "id": "colregs.rule-13.q01",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "A vessel is overtaking another when she comes up with her from a direction more than how far abaft her beam?",
       "options": [
@@ -15,30 +19,44 @@
       ],
       "correct_index": 1,
       "explanation": "The overtaking sector starts 22.5 degrees abaft the beam, the same line where the sidelight arc ends. 67.5 degrees is half the sternlight arc measured from dead astern, which is the same boundary measured from the other end, not from the beam.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q02",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "At night you are coming up on a vessel ahead. Which lights would you see if you are in her overtaking sector?",
       "options": [
-        "Her red and green sidelights",
+        "Her red and her green sidelights",
         "Her sternlight only, and neither sidelight",
         "Her masthead light and one sidelight",
         "Her sternlight and one sidelight"
       ],
       "correct_index": 1,
       "explanation": "Rule 13 describes the overtaking position as one from which you would see only the sternlight and neither sidelight. If you can see a sidelight you are forward of the 22.5 degree line, and if you can see both sidelights you are ahead of her.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q03",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A sailing vessel under sail is overtaking a power-driven tug in clear weather. Which vessel keeps out of the way?",
       "options": [
@@ -49,13 +67,20 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 13 applies to any vessel overtaking any other vessel, notwithstanding the rest of Sections I and II. Rule 18 itself starts 'except where Rules 9, 10 and 13 otherwise require', so the usual power-gives-way-to-sail order does not help an overtaking sailboat.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q04",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night you are coming up on another vessel and her light keeps flickering between her green sidelight and her white sternlight. What should you do?",
       "options": [
@@ -66,64 +91,90 @@
       ],
       "correct_index": 1,
       "explanation": "You are right on the 22.5 degree line, so you are in doubt. Rule 13 says that when in any doubt, assume you are overtaking and act accordingly. Choosing 'crossing' could let you claim to be stand-on when you are not. Holding course and speed is not an option for a vessel that may be overtaking.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q05",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are overtaking a slower vessel on her starboard side. As you draw ahead, she comes to bear on your port quarter and her bearing from you keeps changing. Which statement is correct?",
       "options": [
         "Once she is abaft your beam you have become the stand-on vessel",
-        "The situation is now a crossing situation and Rule 15 applies",
-        "You remain the overtaking vessel and must keep clear until you are finally past and clear",
+        "It is now a crossing (Rule 15)",
+        "You stay overtaking until finally past and clear",
         "She must now keep clear because she has you on her starboard bow"
       ],
       "correct_index": 2,
       "explanation": "Rule 13(d) says a later change of bearing does not make the overtaking vessel a crossing vessel or relieve her of the duty to keep clear until finally past and clear. Treating the new geometry as a crossing would hand the duty to the vessel you are overtaking, which the rule forbids.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q06",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "You are steering 045 degrees true. A power-driven vessel bears 180 degrees true from you and is closing. Is she overtaking you?",
       "options": [
         "No; she bears 45 degrees abaft your beam on the port side, so this is a crossing situation",
-        "Yes; she is 135 degrees relative, which is more than 22.5 degrees abaft your starboard beam",
+        "Yes; at 135 relative she is over 22.5 deg abaft the beam",
         "No; a vessel is only overtaking if she is dead astern",
         "Yes, but only if she is faster than 20 knots"
       ],
       "correct_index": 1,
       "explanation": "Relative bearing = 180 - 045 = 135 degrees, which is on your starboard side, 45 degrees abaft the beam (the beam is at 090 relative). Anything more than 22.5 degrees abaft the beam (more than 112.5 relative on the starboard side) is in the overtaking sector. She is on your starboard quarter, not port, and the rule sets no speed limit or 'dead astern' test.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q07",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "What are the arcs of visibility of a sidelight and a sternlight, and how do they relate to the overtaking rule?",
       "options": [
-        "Sidelight 112.5 degrees, sternlight 135 degrees; the sidelight cuts off 22.5 degrees abaft the beam, where the overtaking sector begins",
+        "Side 112.5, stern 135; side cut-off 22.5 abaft beam starts the sector",
         "Sidelight 135 degrees, sternlight 112.5 degrees; the overtaking sector begins at the beam",
         "Sidelight 90 degrees, sternlight 180 degrees; the overtaking sector begins at the beam",
         "Sidelight 112.5 degrees, sternlight 225 degrees; the overtaking sector begins 45 degrees abaft the beam"
       ],
       "correct_index": 0,
       "explanation": "Each sidelight shows from right ahead to 22.5 degrees abaft the beam (90 + 22.5 = 112.5 degrees). The sternlight covers the remaining 135 degrees (360 - 2 x 112.5), which is 67.5 degrees each side of dead astern. 225 degrees is the masthead light arc, not the sternlight.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-13.q08",
       "lesson_id": "colregs.rule-13.overtaking",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "The Canadian Regulations add a paragraph (e) to Rule 13. Where does it apply?",
       "options": [
@@ -134,7 +185,10 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 13(e) applies in the waters of the Great Lakes Basin, where some power-driven vessels may show an all-round white light instead of a separate sternlight. It does not change the overtaking rule on the BC coast. The tidal-stream provision you may be thinking of is the Canadian addition to Rule 9.",
-      "source_ids": ["colregs-steering-crc1416-pdf-2026", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-steering-crc1416-pdf-2026",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

@@ -37,10 +37,10 @@
       "difficulty": "medium",
       "stem": "It is a bright afternoon where you are, but a fog bank sits half a mile ahead across your track. When does Rule 35 require you to start your fog signal?",
       "options": [
-        "Only once you are inside the fog",
-        "Only at night",
+        "Only once you are inside the fog bank",
+        "Only at night, between sunset and sunrise",
         "Only when another vessel appears on radar",
-        "Now, because the rule applies in or near an area of restricted visibility, by day or night"
+        "Now: it applies near the fog, by day too"
       ],
       "correct_index": 3,
       "explanation": "Rule 35 applies in or near an area of restricted visibility, whether by day or by night. Vessels hidden in the fog bank cannot see you either. Waiting until you are inside it, or until a radar target appears, is too late.",
@@ -61,9 +61,9 @@
       "difficulty": "medium",
       "stem": "A pilot boat on pilotage duty is underway but stopped, with no way on, waiting in fog. Which signal fits?",
       "options": [
-        "Two prolonged about 2 seconds apart, and she may add four short as an identity signal",
+        "Two prolonged; may add four short",
         "One prolonged, then four short",
-        "One prolonged, two short",
+        "One prolonged, then two short",
         "The bell rung rapidly for 5 seconds"
       ],
       "correct_index": 0,
@@ -86,8 +86,8 @@
       "difficulty": "medium",
       "stem": "Your tug is towing a manned barge astern in fog. What do the two vessels sound?",
       "options": [
-        "Tug: one prolonged; barge: nothing",
-        "Tug: one prolonged, two short; barge: one prolonged, three short, if practicable right after the tug",
+        "Tug: one prolonged; barge: nothing at all",
+        "Tug: 1 long 2 short; barge: 1 long 3 short after",
         "Tug: two prolonged; barge: one prolonged, two short",
         "Both: one prolonged, three short"
       ],
@@ -112,7 +112,7 @@
       "options": [
         "Bell for about 5 s every 2 minutes; you may add five short blasts",
         "One prolonged every 2 minutes and four short",
-        "Bell rapidly for about 5 s forward, then gong rapidly for about 5 s aft, at least every minute; you may also sound one short, one prolonged, one short as a warning",
+        "Bell forward then gong aft each minute; may add short-long-short",
         "Gong only, every minute, because the ship is over 100 m"
       ],
       "correct_index": 2,
@@ -135,10 +135,10 @@
       "difficulty": "medium",
       "stem": "How does the fog signal of a vessel aground differ from that of a vessel at anchor?",
       "options": [
-        "It is the same signal",
+        "It is exactly the same signal as at anchor",
         "The bell is rung every 2 minutes instead of every minute",
-        "Only the whistle is used",
-        "Three separate, distinct strokes on the bell are given immediately before and after the rapid ringing"
+        "Only the whistle is used, never the bell",
+        "Three distinct bell strokes before and after"
       ],
       "correct_index": 3,
       "explanation": "A vessel aground gives the anchor bell (and gong if required) and adds three separate and distinct bell strokes immediately before and after the rapid ringing. She may also sound a suitable whistle signal, but the bell signal is still required. The interval is the same as at anchor.",
@@ -159,7 +159,7 @@
       "difficulty": "medium",
       "stem": "You are anchored in fog in a 10 metre boat and do not have a bell. What does Rule 35 require?",
       "options": [
-        "Some other efficient sound signal at intervals of not more than 2 minutes",
+        "Another efficient signal, 2 minutes max apart",
         "Nothing, vessels under 12 metres are fully exempt",
         "One prolonged blast every minute",
         "You must get underway, as small vessels may not anchor in fog"
@@ -184,7 +184,7 @@
       "stem": "On the Fraser River in fog, an 8 metre boom boat built for pushing logs is working outside the booming grounds. Under the Canadian paragraph of Rule 35, what applies?",
       "options": [
         "She may use any efficient sound signal every 2 minutes, like any vessel under 12 m",
-        "She must sound the signals prescribed for a vessel of 12 m or more",
+        "The signals for a vessel of 12 m or more",
         "She is exempt because she is working",
         "She must sound four short blasts"
       ],

@@ -4,41 +4,57 @@
     {
       "id": "colregs.rule-05.q01",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which of these best describes what Rule 5 requires of a vessel's lookout?",
       "options": [
         "Watching by sight only, since hearing is unreliable at sea",
-        "Watching by sight and hearing, and by all other available means suited to the conditions",
+        "By sight, hearing and all other means suited to conditions",
         "Using radar whenever visibility is restricted, and nothing else",
         "Keeping watch only once another vessel has been sighted"
       ],
       "correct_index": 1,
       "explanation": "The rule asks for sight, hearing and all available means appropriate to the circumstances. Sight alone is not enough, radar is not limited to restricted visibility, and the lookout starts before any vessel is seen.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-05.q02",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is the lookout required to make possible?",
       "options": [
         "A complete log entry for each watch",
-        "A full appraisal of the situation and of the risk of collision",
+        "Full appraisal of the situation and risk",
         "A reduction in the number of crew needed on watch",
         "Early notice to the coast guard of the vessel's position"
       ],
       "correct_index": 1,
       "explanation": "A lookout feeds the decisions that follow: whether risk of collision exists and what action to take. The other options are not the purpose stated in the rule.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-05.q03",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are crossing open water in bright daylight with excellent visibility and no vessels in sight. Is a lookout still required?",
       "options": [
@@ -49,58 +65,78 @@
       ],
       "correct_index": 2,
       "explanation": "The requirement applies at all times, in any visibility and any location. Radar is one of the means, not a replacement for the duty itself.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-05.q04",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Your radar and AIS show no targets within six miles on a clear night. A deckhand suggests that nobody needs to look out of the windows for a while. Which reply best fits Rule 5?",
       "options": [
         "Agreed, because radar and AIS together are a proper lookout",
-        "Agreed, as long as the radar alarm is switched on",
-        "Disagree, because radar and AIS are aids to the lookout and do not replace looking and listening",
-        "Disagree, but only because the vessel is over 20 metres"
+        "Agreed, as long as the radar guard zone alarm is switched on",
+        "Disagree: radar and AIS aid, not replace, the lookout",
+        "Disagree, but only over 20 m"
       ],
       "correct_index": 2,
       "explanation": "Rule 5 asks for a lookout by sight and hearing as well as by all available means. Radar and AIS are among those means, but they do not replace the eyes and ears: small craft and floating objects may not show on radar, and AIS shows only vessels that transmit. An alarm does not change this, and the duty applies to every vessel whatever her length.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-05.q05",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are on watch in fog. The wheelhouse doors are shut, the heater fan is loud and music is playing. Which part of Rule 5 is most at risk?",
       "options": [
-        "The lookout by hearing, which the rule names alongside sight",
+        "The lookout by hearing, named alongside sight",
         "Nothing, because Rule 5 applies only to what you can see",
         "Nothing, because in fog the lookout is kept by radar alone",
         "Only the logbook entry for the watch"
       ],
       "correct_index": 0,
       "explanation": "Rule 5 names hearing as well as sight. In fog a fog signal, an engine or a voice may be the first warning, so a noisy, closed-up wheelhouse removes part of the lookout. Radar is one of the available means, not the whole lookout, and the rule is not about the logbook.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-05.q06",
       "lesson_id": "colregs.rule-05.lookout",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "A candidate says, \"Rule 5 matters mainly in fog. In clear weather the Section II rules take over and Rule 5 no longer applies.\" Which statement is correct?",
       "options": [
         "Correct, because Section II replaces Section I when vessels are in sight",
-        "Incorrect, because Rule 5 is in Section I and applies in any condition of visibility, alongside Section II or III",
-        "Correct, but only in daylight",
-        "Incorrect, because Rule 5 applies only inside harbours"
+        "Incorrect: Rule 5 is in Section I and always applies",
+        "Correct, but only in daylight, when vessels can be seen",
+        "Incorrect: harbours only"
       ],
       "correct_index": 1,
       "explanation": "Rule 5 sits in Section I (Rules 4 to 10), which applies in any condition of visibility. Section II adds rules for vessels in sight of one another; it does not switch off the lookout. Daylight and location make no difference to the duty.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

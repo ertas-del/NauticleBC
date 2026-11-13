@@ -37,7 +37,7 @@
       "stem": "Which vessels can be exempted under Rule 38?",
       "options": [
         "Any vessel under 12 metres",
-        "Vessels whose keel was laid (or at a corresponding stage) before the Regulations came into force and that comply with the 1960 rules",
+        "Keel laid before, and meeting the 1960 rules",
         "Any vessel over 50 years old",
         "Government vessels only"
       ],
@@ -107,7 +107,7 @@
       "difficulty": "hard",
       "stem": "An owner says his 1960s fishing boat is \"grandfathered\" under Rule 38, so her weak sound signal gear is fine. Which reply is best?",
       "options": [
-        "Not for sound gear: that exemption was time-limited to 9 years and has expired; the permanent exemptions concern light positions",
+        "Not for sound gear: that 9-year exemption is over",
         "Correct, any vessel built before 1977 is permanently exempt",
         "Correct, as long as she stays in Canadian waters",
         "Correct, as long as she is under 20 metres"

@@ -4,24 +4,34 @@
     {
       "id": "colregs.annex-i.q01",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Under Annex I, what are the minimum dimensions of a cylinder shape for a vessel of 20 m or more, and how far apart must shapes be hung?",
       "options": [
         "0.6 m diameter and 0.6 m high; at least 1 m apart",
-        "0.6 m diameter and 1.2 m high; at least 1.5 m apart",
+        "0.6 m diameter, 1.2 m high; at least 1.5 m apart",
         "1.2 m diameter and 0.6 m high; at least 2 m apart",
         "0.5 m diameter and 1 m high; at least 1.5 m apart"
       ],
       "correct_index": 1,
       "explanation": "A cylinder is at least 0.6 m in diameter and twice as high as its diameter, so 1.2 m. Shapes are at least 1.5 m apart vertically. A shape as high as it is wide describes the cone (height equal to base diameter), not the cylinder.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q02",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A 30 m power-driven vessel has a breadth of 8 m and carries one masthead light. What is the minimum height of that light above the hull?",
       "options": [
@@ -32,47 +42,64 @@
       ],
       "correct_index": 2,
       "explanation": "For a power-driven vessel of 20 m or more, the forward (or only) masthead light is at least 6 m above the hull, or at least the breadth if the vessel is wider than 6 m, but it never has to exceed 12 m. Her breadth is 8 m, so 8 m. 2.5 m above the gunwale is the 12 to 20 m figure, and 12 m is the ceiling, not the minimum.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q03",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A 90 m power-driven vessel carries two masthead lights. Which arrangement meets Annex I?",
       "options": [
-        "After light 4.5 m higher than the forward light, at least 45 m further aft, with the forward light no more than 22.5 m from the stem",
+        "After light 4.5 m higher, 45 m+ aft; forward light within 22.5 m of stem",
         "After light 2 m higher than the forward light, at least 22.5 m further aft, with the forward light anywhere forward of amidships",
-        "Both lights at the same height, at least 45 m apart",
-        "Forward light 4.5 m higher than the after light, at least 90 m apart"
+        "Both lights at exactly the same height, at least 45 m apart fore and aft",
+        "Forward light 4.5 m higher than the after light, with the two lights at least 90 m apart"
       ],
       "correct_index": 0,
       "explanation": "The after masthead light is at least 4.5 m higher than the forward one. The horizontal gap is at least half the vessel's length (here 45 m, and never more than 100 m is required), and the forward light is within a quarter of the length from the stem (22.5 m). A 2 m vertical difference is only allowed in the Canadian Great Lakes Basin. The after light must be the higher one so it shows above the forward light as a range.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q04",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You run two power-driven boats: a 15 m water taxi and a 9 m skiff with sidelights and an all-round white light. Which statement about their masthead or all-round white light height is correct?",
       "options": [
-        "Both need the light at least 2.5 m above the gunwale",
+        "Both need the light at least 2.5 m above the gunwale, whatever their length",
         "The 15 m boat needs it at least 6 m above the hull; the 9 m boat has no height rule at all",
-        "The 15 m boat needs it at least 2.5 m above the gunwale; the 9 m boat may go lower, but the white light must still be at least 1 m above the sidelights",
-        "Neither has a height rule because both are under 20 m"
+        "15 m: 2.5 m above gunwale; 9 m: lower, but 1 m above sidelights",
+        "No height rule under 20 m"
       ],
       "correct_index": 2,
       "explanation": "Annex I sets at least 2.5 m above the gunwale for a power-driven vessel of 12 m to under 20 m. A vessel under 12 m may carry its uppermost light lower than 2.5 m, but a masthead or all-round white light carried with sidelights must be at least 1 m higher than the sidelights. The 6 m figure is for vessels of 20 m or more.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q05",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "A 16 m workboat loses steering at night and hoists two all-round red lights in a vertical line. What minimum spacing and height does Annex I require for them?",
       "options": [
@@ -83,58 +110,76 @@
       ],
       "correct_index": 1,
       "explanation": "For lights in a vertical line on a vessel under 20 m, Annex I requires at least 1 m between them and the lowest at least 2 m above the gunwale (unless a towing light is required). The 2 m and 4 m figures apply to vessels of 20 m or more, 1.5 m is the spacing for shapes, and 0.9 m is the Annex II spacing for the extra fishing lights.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q06",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which statement about the sidelights of a 40 m power-driven vessel is correct under Annex I?",
       "options": [
         "They may be mounted forward of the forward masthead light if that improves visibility",
         "They need screens only if the lanterns cannot otherwise meet the sector rules",
-        "They must be no higher than three-quarters of the forward masthead light's height, not forward of that light, and fitted with matt black inboard screens",
+        "Max 3/4 masthead height, not forward of it, matt black screens",
         "They must be at the same height as the forward masthead light"
       ],
       "correct_index": 2,
       "explanation": "On a power-driven vessel, sidelights are no higher than three-quarters of the forward masthead light's height. On a vessel of 20 m or more they are not placed in front of the forward masthead light and have inboard screens painted matt black. Screens 'only if needed' is the rule for vessels under 20 m.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q07",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "The owner of an 11 m Canadian survey launch says a 0.6 m anchor ball is too big for her mast. What does Annex I say?",
       "options": [
         "Shape sizes are fixed for every vessel, so she must carry a 0.6 m ball or none",
         "Vessels under 12 m never need shapes, so the question does not arise",
-        "A vessel under 20 m may use smaller shapes in proportion to her size, and lights and shapes must satisfy the Minister of Transport as the approving authority",
+        "Under 20 m may use smaller shapes, to the Minister's satisfaction",
         "Any size is fine as long as the ball is painted black or orange"
       ],
       "correct_index": 2,
       "explanation": "Annex I lets a vessel under 20 m use shapes of smaller dimensions in proportion to her size, with the spacing reduced to match. The construction of lights and shapes must satisfy the flag State's authority, which for Canada is the Minister (Transport Canada). Shapes are always black, and nothing in Annex I removes the need for shapes just because a vessel is under 12 m.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.annex-i.q08",
       "lesson_id": "colregs.annex-i.positioning-technical",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Annex I lists about 12 candelas for a 3 mile light and about 94 candelas for a 6 mile light. What does this tell you?",
       "options": [
         "Doubling the range needs roughly double the intensity",
-        "Intensity has to rise much faster than range, so doubling the range takes close to eight times the candelas",
-        "The figures only apply in fog",
+        "Intensity rises far faster than range: about eight times",
+        "The figures only apply in fog and haze, not clear air",
         "A brighter light should be fitted with a dimmer so it can be turned down near other vessels"
       ],
       "correct_index": 1,
       "explanation": "The Annex I formula (worked out for about 13 miles meteorological visibility) makes intensity rise much faster than range: 12 cd for 3 miles but 94 cd for 6 miles. So a dirty or underpowered lantern loses range fast. The figures assume clear air, not fog, and Annex I says glare must not be controlled with a variable dimmer.",
-      "source_ids": ["annexes-crc1416-xml"],
+      "source_ids": [
+        "annexes-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

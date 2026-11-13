@@ -60,7 +60,7 @@
       "difficulty": "medium",
       "stem": "A 110 metre ship carries a gong as well as a whistle and bell. What does Rule 33 say about the gong's sound?",
       "options": [
-        "Its tone and sound must not be capable of being confused with the bell",
+        "It must not be confusable with the bell",
         "It must be louder than the whistle",
         "It must sound exactly like the bell so that listeners are not confused",
         "It is only used in distress"
@@ -85,9 +85,9 @@
       "stem": "What does Rule 33 require of a 7 metre open boat?",
       "options": [
         "Nothing at all, sound signals do not apply to her",
-        "Some other means of making an efficient sound signal, if she does not carry a whistle and bell",
-        "A whistle and a bell",
-        "A bell only"
+        "Some other efficient sound means",
+        "A whistle and a bell, like a large ship",
+        "A bell only, of any size"
       ],
       "correct_index": 1,
       "explanation": "A vessel under 12 metres is not obliged to carry the whistle and bell, but if she does not, she must have some other means of making an efficient sound signal. She is not exempt from sound signalling altogether.",
@@ -110,7 +110,7 @@
       "options": [
         "The system must be switched on only at night",
         "The vessel must also carry a portable air horn",
-        "Manual sounding of the prescribed signals must always be possible",
+        "Manual sounding must always be possible",
         "The system must be approved by the harbour master"
       ],
       "correct_index": 2,
@@ -133,9 +133,9 @@
       "stem": "In a BC river, a 10 metre boat was built to push log booms and is not used only for yarding or warping. What does the Canadian paragraph of Rule 33 require?",
       "options": [
         "Nothing extra, because she is under 12 metres",
-        "She must carry a gong",
+        "She must carry a gong as well",
         "She must not operate in restricted visibility",
-        "She must carry the sound signal appliances required for a vessel of 12 metres or more"
+        "The gear of a vessel of 12 m or more"
       ],
       "correct_index": 3,
       "explanation": "In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel under 12 metres ordinarily used for pushing or pulling floating objects, and not solely in yarding or warping, must carry the gear prescribed for a vessel of 12 metres or more. The ordinary under-12 m allowance does not apply to her. A gong is a 100 m requirement, and the rule does not ban her from fog.",
@@ -179,7 +179,7 @@
       "stem": "Annex III gives a typical audibility range for the whistle of a vessel under 20 metres. What is it, and how should you treat it?",
       "options": [
         "2 nautical miles; you will always hear it at that range",
-        "0.5 nautical mile; a guide only, since fog, wind and noise can reduce it",
+        "0.5 mile; a guide only, conditions vary",
         "1.5 nautical miles; a guaranteed minimum",
         "5 nautical miles; the same as a ship's whistle"
       ],

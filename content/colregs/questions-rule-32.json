@@ -62,7 +62,7 @@
       "options": [
         "No, only a steam or air whistle counts",
         "Only if the vessel is under 12 metres",
-        "Yes, if it can make the prescribed blasts and meets Annex III",
+        "Yes, if it meets Annex III",
         "Only if it is backed up by a bell"
       ],
       "correct_index": 2,
@@ -87,7 +87,7 @@
         "Nothing; any blast over one second is prolonged",
         "It is too long; a prolonged blast is about one second",
         "It should have been sounded on the bell",
-        "It is too short; a prolonged blast should last four to six seconds"
+        "Too short: it should be 4 to 6 seconds"
       ],
       "correct_index": 3,
       "explanation": "A prolonged blast is four to six seconds. Two seconds sits between the two definitions and a listener may count it as a short blast, which can change the meaning of the whole signal. A blast of about one second is the short blast, not the prolonged one.",
@@ -108,7 +108,7 @@
       "difficulty": "hard",
       "stem": "Why does it matter so much that short and prolonged blasts are sounded at the correct lengths?",
       "options": [
-        "Because every whistle signal is a pattern of short and prolonged blasts, and a wrong length can turn one signal into another",
+        "A wrong length can turn one signal into another",
         "Because the Rules fine vessels by the second",
         "Because only prolonged blasts are heard by other vessels",
         "Because the length of the blast tells other vessels your length overall"

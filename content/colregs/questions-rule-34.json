@@ -60,7 +60,7 @@
       "difficulty": "medium",
       "stem": "In thick fog you detect a vessel on radar, cannot see her, and alter course to starboard to avoid her. Should you sound one short blast?",
       "options": [
-        "No, manoeuvring signals are only for vessels in sight of one another; you keep sounding your fog signal",
+        "No: those are for vessels in sight; keep fog signals",
         "Yes, all course alterations must be signalled",
         "Yes, but only if she is within 2 miles",
         "No, you should sound five short blasts instead"
@@ -84,7 +84,7 @@
       "stem": "Your vessel supplements her whistle signals with a manoeuvring light. Which description matches Rule 34?",
       "options": [
         "A red light, flashes of 3 seconds, visible 2 miles",
-        "An all-round white light visible at least 5 miles; flashes about 1 s long and 1 s apart; at least 10 s between signals",
+        "All-round white, 5 miles; 1 s flashes, 10 s between",
         "A yellow flashing light at 120 flashes a minute",
         "A masthead light switched on and off once per minute"
       ],
@@ -134,7 +134,7 @@
         "Three short blasts",
         "One prolonged blast",
         "Two prolonged blasts",
-        "At least five short and rapid blasts"
+        "Five or more short blasts"
       ],
       "correct_index": 3,
       "explanation": "The doubt signal is at least five short and rapid blasts, sounded immediately. It may be supplemented by at least five short and rapid flashes. Three short is astern propulsion, one prolonged is the bend signal, and two prolonged is a fog signal for a power-driven vessel stopped in the water.",
@@ -155,7 +155,7 @@
       "difficulty": "medium",
       "stem": "You are approaching a blind bend in a narrow BC channel on a clear day and hear one prolonged blast from beyond the point. What should you do?",
       "options": [
-        "Answer with one prolonged blast and proceed with particular caution",
+        "Answer with one prolonged; go with caution",
         "Nothing; bend signals are only for fog",
         "Answer with five short blasts",
         "Answer with one short blast to show you will keep to starboard"
@@ -179,7 +179,7 @@
       "stem": "In a BC harbour you are about to leave the berth in a power-driven workboat, then pass a tug. On VHF you try to arrange the passing but get no agreement. Under the Canadian paragraphs of Rule 34, which is correct?",
       "options": [
         "Leave the berth silently; then pass, since VHF contact replaces signals",
-        "Sound one prolonged blast leaving the berth; then, with no radio agreement, exchange whistle signals in good time, and those prevail",
+        "One prolonged leaving; no radio deal, so whistle signals",
         "Sound three short leaving the berth; radio agreement is never allowed in Canada",
         "Sound five short leaving the berth; then wait for the tug to call you"
       ],
