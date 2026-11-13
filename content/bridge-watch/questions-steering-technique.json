@@ -4,75 +4,99 @@
     {
       "id": "bridge-watch.steering-technique.q01",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "A ship's head swings to starboard. What happens to the reading at the lubber line of a magnetic compass?",
       "options": [
-        "The numbers at the lubber line increase, because the ship turns under the card",
+        "They increase: the ship turns under the card",
         "The numbers decrease, because the card turns with the ship",
         "The reading does not change until the swing stops",
-        "The card spins to follow the ship's head"
+        "The card spins with her"
       ],
       "correct_index": 0,
       "explanation": "The card tries to stay pointing in one direction and the ship turns under it, so a swing to starboard moves the lubber line over higher numbers. The card does not turn with the ship, and the reading changes continuously during the swing.",
-      "source_ids": ["bw-navedtra-14067-seaman"],
+      "source_ids": [
+        "bw-navedtra-14067-seaman"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q02",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "A new helmsman puts on a lot of rudder, sees the head moving the right way, takes the rudder off, and finds the ship still swinging past the course. What is the main cause?",
       "options": [
-        "The ship answers the rudder with a delay, so the swing carries on after the rudder is taken off",
+        "She answers with a delay, so the swing carries on",
         "The rudder angle indicator is always wrong",
-        "The compass card is stuck",
+        "The compass card is stuck on its pivot",
         "Hard rudder only works at slow speed"
       ],
       "correct_index": 0,
       "explanation": "There is a lag between the rudder movement and the ship's swing, and the swing continues for some time. The cure is small rudder angles and anticipating the swing. The other options invent faults that are not the usual reason.",
-      "source_ids": ["bw-navedtra-14067-seaman"],
+      "source_ids": [
+        "bw-navedtra-14067-seaman"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q03",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "You are making a 30 degree alteration to starboard. When is the best time to check the swing (\"meet her\")?",
       "options": [
-        "Before the head reaches the new course, so the swing stops on it",
+        "Before the head reaches the new course",
         "Only after the head has passed the new course",
-        "At the moment the rudder is first put over",
+        "As the rudder goes over",
         "Never, because the ship will stop swinging by itself"
       ],
       "correct_index": 0,
       "explanation": "Because the ship keeps swinging after the rudder is eased, the check has to begin before the new heading is reached. Checking only after passing it produces an overshoot and a second correction. Checking at the start would stop the turn from happening.",
-      "source_ids": ["bw-navedtra-14067-seaman", "bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-navedtra-14067-seaman",
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q04",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which description fits good steering of a steady course?",
       "options": [
-        "Heading kept within acceptable limits for the sea state with small, controlled rudder movements",
-        "Heading held exactly on the course number at every instant, whatever the rudder movement",
-        "Large rudder movements so the ship corrects quickly",
+        "Within limits for the sea, with small, controlled rudder",
+        "Heading held exactly on the course number at every instant, whatever the rudder",
+        "Large rudder movements so that the ship corrects quickly",
         "Rudder kept hard over until the course is reached"
       ],
       "correct_index": 0,
       "explanation": "The course standard talks about steering within acceptable limits for the conditions, and about smooth, controlled alterations. Chasing an exact number with big rudder movements makes the ship snake and wastes speed.",
-      "source_ids": ["bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q05",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What does the rudder angle indicator show?",
       "options": [
@@ -83,13 +107,19 @@
       ],
       "correct_index": 0,
       "explanation": "The rudder angle indicator shows where the rudder actually is, so the helmsman can compare it with the order. The rate of turn comes from the rate-of-turn indicator, and the heading from the compass or gyro repeater.",
-      "source_ids": ["bw-tp10936-ed2-html", "bw-nsr-2020-sor-2020-216"],
+      "source_ids": [
+        "bw-tp10936-ed2-html",
+        "bw-nsr-2020-sor-2020-216"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q06",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A vessel is passing close to another in a narrow channel and the engine is stopped. How is the rudder affected?",
       "options": [
@@ -100,13 +130,19 @@
       ],
       "correct_index": 0,
       "explanation": "A rudder works from the flow of water over it, including the propeller wash. With the engine stopped the flow drops and the rudder is less effective. It does not drop to zero while the ship still has way on, and slow speed does not help it.",
-      "source_ids": ["bw-steer-mca-mgn-199", "bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-steer-mca-mgn-199",
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q07",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Why is steering on a mark or range ahead often better than steering by compass alone when a mark is available?",
       "options": [
@@ -117,30 +153,43 @@
       ],
       "correct_index": 0,
       "explanation": "Current, tide and wind can set the ship sideways while the compass heading stays correct. Against a fixed mark or range you see the drift immediately. The rudder angle indicator is still needed, and the compass remains useful; the mark does not change tide or wind, it just shows their effect.",
-      "source_ids": ["bw-tp10936-ed2-html", "bw-navedtra-14067-seaman", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "bw-tp10936-ed2-html",
+        "bw-navedtra-14067-seaman",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q08",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "You are steering toward a range. The front and rear marks, which were in line, now open. What does this tell you?",
       "options": [
-        "The ship has moved off the range line, and you should alter back toward the line",
+        "She is off the line; alter back toward it",
         "The ship is exactly on the line and no action is needed",
         "The marks have been moved and the range is no longer valid",
-        "The compass has a large error"
+        "The compass is in error"
       ],
       "correct_index": 0,
       "explanation": "Marks in line mean the ship is on the line; when they open, the ship has moved off it. Compass error does not move the marks relative to each other, and assuming the marks have moved ignores the obvious explanation, which is that you have moved.",
-      "source_ids": ["bw-tp10936-ed2-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "bw-tp10936-ed2-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-technique.q09",
       "lesson_id": "bridge-watch.steering-technique",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "hard",
       "stem": "Scenario: you are steering toward a range with the rear mark appearing to the left of the front mark. Which statement is most likely to be correct, and what should you do?",
       "options": [
@@ -151,7 +200,10 @@
       ],
       "correct_index": 0,
       "explanation": "By geometry the nearer mark shifts further across your view than the farther one when you move sideways, so the rear mark appears on the side you have strayed to. Rear mark left means you are left of the line, so alter to starboard, and use a small alteration so you do not overshoot. This geometric rule is a teaching aid; confirm with your instructor.",
-      "source_ids": ["bw-tp10936-ed2-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "bw-tp10936-ed2-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

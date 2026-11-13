@@ -11,9 +11,9 @@
       "difficulty": "easy",
       "stem": "Which statement about variation and deviation is correct?",
       "options": [
-        "Variation depends on the place; deviation is caused by the ship's own magnetism and changes with her heading",
+        "Variation varies with place; deviation with the ship and heading",
         "Variation depends on the ship's heading; deviation depends on the place",
-        "Both depend only on the place",
+        "Both depend only on the place, so both are printed on the chart",
         "Both are the same thing and are printed on every chart"
       ],
       "correct_index": 0,
@@ -188,10 +188,10 @@
       "difficulty": "medium",
       "stem": "Why is deviation not printed on a chart?",
       "options": [
-        "It belongs to the individual ship, her trim, load, heading and compass position, so it is read from her own deviation card",
-        "It is the same everywhere, so it is not needed",
-        "It is the same as variation",
-        "It is printed only on tide tables"
+        "It belongs to each ship, so it comes from her deviation card",
+        "It is the same everywhere on earth, so it is not needed",
+        "It is the same as variation, which is already shown",
+        "It is printed only in the tide tables for each port"
       ],
       "correct_index": 0,
       "explanation": "Deviation depends on the ship and the heading, not on the chart area, so each ship keeps a deviation table or curve near the compass. It is not the same as variation, and it does not appear on tide tables.",

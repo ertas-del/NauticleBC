@@ -12,9 +12,9 @@
       "difficulty": "easy",
       "stem": "How is a look-out kept, according to Rule 5 and the STCW principles?",
       "options": [
-        "By AIS, which replaces the need to look",
-        "By sight, by hearing and by all available means, at all times",
-        "By radar only in restricted visibility",
+        "By AIS, which replaces the need to look out",
+        "By sight, hearing and all available means, always",
+        "By radar alone, but only in restricted visibility",
         "By sight only in daylight and by radar at night"
       ],
       "correct_index": 1,
@@ -36,8 +36,8 @@
       "difficulty": "medium",
       "stem": "Which list gives the purposes of a look-out?",
       "options": [
-        "Continuous vigilance, full appraisal of the situation and risk of collision, stranding and other dangers, and detecting ships or aircraft in distress, shipwrecked persons, wrecks and debris",
-        "Logging the weather, steering the ship and checking the engine room",
+        "Vigilance, full appraisal of risk, and spotting distress or debris",
+        "Logging the weather, steering the ship and checking on the engine room",
         "Reporting only other ships' lights and nothing else",
         "Keeping the master informed about cargo and passenger numbers"
       ],
@@ -60,10 +60,10 @@
       "difficulty": "medium",
       "stem": "A look-out sees a light, hears a sound signal and notices a floating log. What should be reported?",
       "options": [
-        "Only the light, because it is a vessel",
-        "Only things that look dangerous",
-        "Only objects within one mile",
-        "Every one of them, with its approximate bearing in degrees or points"
+        "Only the light, because that is the only vessel",
+        "Only the dangerous ones",
+        "Only objects that are within one mile of the ship",
+        "All of them, each with its bearing"
       ],
       "correct_index": 3,
       "explanation": "A look-out reports every light, shape, sound signal and object with an approximate bearing in degrees or points. Judging what is important is for the officer once the information reaches the bridge.",
@@ -84,10 +84,10 @@
       "difficulty": "medium",
       "stem": "When is the helmsperson considered to be the look-out while steering?",
       "options": [
-        "Never, in any ship",
+        "Never, in any ship of any size",
         "Whenever the vessel is under 500 GT",
-        "Only in a small ship that gives an unobstructed all-round view from the steering position",
-        "Whenever the autopilot is off"
+        "Only in a small ship with a clear all-round view",
+        "Whenever the autopilot is switched off"
       ],
       "correct_index": 2,
       "explanation": "The principles treat the duties as separate and make an exception only for small ships with an unobstructed all-round view at the steering position. Size alone (500 GT) is not the test.",
@@ -108,10 +108,10 @@
       "difficulty": "medium",
       "stem": "Which set of conditions allows an officer to be the sole look-out?",
       "options": [
-        "Daylight, with no need for a prior assessment",
-        "Daylight, careful assessment of the situation, and help immediately available on the bridge",
-        "Good visibility at any hour, with the radar on",
-        "Night, with a clear radar picture and the autopilot on"
+        "Daylight, with no need for any prior assessment of the situation",
+        "Daylight, careful assessment, help on hand",
+        "Good visibility at any hour of day or night, with the radar on",
+        "Night, with a clear radar"
       ],
       "correct_index": 1,
       "explanation": "All three conditions must hold: daylight, a careful assessment (weather, visibility, traffic, dangers) and immediate help. Night does not qualify and assessment cannot be skipped.",
@@ -132,10 +132,10 @@
       "difficulty": "easy",
       "stem": "Roughly how long can full dark adaptation of the eyes take, and what can undo it?",
       "options": [
-        "As long as about 30 minutes; a brief exposure to bright light can undo it",
-        "About 30 seconds; it cannot be undone",
-        "About 2 hours; only sleep undoes it",
-        "About 5 minutes; nothing can undo it"
+        "Up to about 30 minutes; a flash of bright light undoes it",
+        "About 30 seconds, and once done it cannot be undone",
+        "About 2 hours, and only a full sleep undoes it",
+        "About 5 minutes, and nothing at all can undo it"
       ],
       "correct_index": 0,
       "explanation": "Research gives as long as 30 minutes for full adaptation, with much of the gain in the first few minutes, and shows that brief bright light can reverse it. This is a study-aid figure to confirm with your instructor.",
@@ -201,8 +201,8 @@
       "difficulty": "medium",
       "stem": "Which statement about additional look-outs matches the guidance used in this course?",
       "options": [
-        "It says radar makes additional look-outs unnecessary",
-        "It advises against the officer being the sole look-out in darkness and supports additional look-outs in restricted visibility",
+        "It says radar makes any additional look-outs unnecessary",
+        "Not the OOW alone in darkness; extra look-outs in fog",
         "It requires every vessel to carry six look-outs in fog",
         "It says additional look-outs are only needed above 1,000 GT"
       ],
@@ -224,10 +224,10 @@
       "difficulty": "hard",
       "stem": "You are steering a 20 m vessel from a wheelhouse where the pillars block your view astern and to port. The officer says \"You are the look-out too.\" Which response is most accurate?",
       "options": [
-        "The helmsperson is not the look-out while steering unless the steering position gives an unobstructed all-round view, so another look-out is needed",
-        "That is fine because the vessel is small",
-        "That is fine in daylight",
-        "That is fine if the radar has a guard zone set"
+        "Not without a clear all-round view; another look-out is needed",
+        "That is fine, because the vessel is small and slow",
+        "That is fine in daylight, but not after dark",
+        "That is fine as long as the radar has a guard zone set"
       ],
       "correct_index": 0,
       "explanation": "The exception needs an unobstructed all-round view from the steering position. Small size, daylight or a radar guard zone do not meet that condition.",

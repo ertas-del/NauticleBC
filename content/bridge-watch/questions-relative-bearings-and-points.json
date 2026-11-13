@@ -57,9 +57,9 @@
       "difficulty": "easy",
       "stem": "How many degrees are there in one point of the compass?",
       "options": [
-        "8",
+        "8.75",
         "11.25",
-        "10",
+        "10.5",
         "22.5"
       ],
       "correct_index": 1,
@@ -198,7 +198,7 @@
         "A look-out should always convert to true bearings before reporting",
         "A look-out should report only in points, never in degrees",
         "A look-out should report bearings to the nearest 0.1 degree",
-        "A look-out normally reports relative bearings, usually to the nearest 10 degrees"
+        "Relative bearings, usually to the nearest 10 degrees"
       ],
       "correct_index": 3,
       "explanation": "The look-out reports relative bearings, usually to the nearest 10 degrees. TP 10936 asks for degrees or points, and converting to true bearing is not the look-out's task.",

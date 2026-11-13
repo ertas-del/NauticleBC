@@ -4,24 +4,32 @@
     {
       "id": "bridge-watch.steering-in-confined-waters.q01",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What is squat?",
       "options": [
-        "A moving vessel in shallow water sinks lower and may change trim",
+        "A moving vessel sinks lower in shallow water",
         "A vessel settling on the bottom at low tide",
-        "A sideways swing caused by wind",
-        "The pull of the stern toward a bank"
+        "A sideways swing caused by a strong beam wind",
+        "The pull of the stern toward a nearby bank"
       ],
       "correct_index": 0,
       "explanation": "Squat is the extra sinkage and trim change of a vessel that is moving through shallow water, caused by faster flow and lower pressure under the hull. It exists only while the vessel moves. Settling on the bottom is grounding; the stern pull toward a bank is bank suction.",
-      "source_ids": ["bw-steer-wiki-squat"],
+      "source_ids": [
+        "bw-steer-wiki-squat"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q02",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A vessel squats 0.80 m at 10 knots. About how much does she squat at 5 knots, if squat is roughly proportional to speed squared?",
       "options": [
@@ -32,81 +40,107 @@
       ],
       "correct_index": 0,
       "explanation": "Halving the speed multiplies squat by (5/10) x (5/10) = 0.25, so 0.80 x 0.25 = 0.20 m. The tempting answer 0.40 m treats squat as proportional to speed, not speed squared.",
-      "source_ids": ["bw-steer-wiki-squat"],
+      "source_ids": [
+        "bw-steer-wiki-squat"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q03",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A vessel draws 2.0 m. At 10 knots she squats 0.50 m. Over a shoal the charted depth plus tide gives 2.4 m of water. Using the squat figure, what is the safest decision?",
       "options": [
-        "Reduce speed so the squat falls enough to leave water under the keel",
+        "Slow down so squat leaves water under the keel",
         "Proceed at 10 knots, since 2.4 m is more than the 2.0 m draught",
-        "Increase speed to get across the shoal quickly",
-        "Stop the engine and drift across"
+        "Increase speed to get across the shoal as quickly as possible",
+        "Stop the engine and drift across on the tide"
       ],
       "correct_index": 0,
       "explanation": "At 10 knots she needs 2.0 + 0.50 = 2.5 m, which is more than the 2.4 m available, so she would touch. At 5 knots squat is about 0.50 x 0.25 = 0.125 m, so she needs about 2.13 m and clears. Speeding up makes squat worse; stopping the engine weakens the rudder and gives no safe control.",
-      "source_ids": ["bw-steer-wiki-squat"],
+      "source_ids": [
+        "bw-steer-wiki-squat"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q04",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Squat is likely to be most noticeable in which situation?",
       "options": [
-        "Shallow water, close to a bank, at higher speed",
+        "Shallow water, near a bank, at higher speed",
         "Deep water, far from land, at slow speed",
-        "At anchor in a sheltered bay",
+        "At anchor in a sheltered bay at slack water",
         "Deep water at high speed with no banks nearby"
       ],
       "correct_index": 0,
       "explanation": "Squat grows with speed, in shallow water (depth less than about four times the draught) and near a bank. In deep water, the effect is small even at speed, and a vessel at anchor has no flow past the hull.",
-      "source_ids": ["bw-steer-wiki-squat"],
+      "source_ids": [
+        "bw-steer-wiki-squat"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q05",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which of these is a symptom of squat that a helmsman would notice?",
       "options": [
-        "Vibration and poor helm response, with a tendency to sheer",
+        "Vibration, poor helm response, sheering",
         "A sudden increase in rudder effect",
-        "A reduction in draught",
-        "The compass card spinning"
+        "A reduction in draught as she lifts",
+        "The compass card spinning round"
       ],
       "correct_index": 0,
       "explanation": "Reported effects of squat include vibration, poor helm response and sheering, and a change of trim. Draught increases, not decreases, and rudder effect gets worse, not better.",
-      "source_ids": ["bw-steer-wiki-squat"],
+      "source_ids": [
+        "bw-steer-wiki-squat"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q06",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "Which statement about bank effects is correct?",
       "options": [
-        "Bank cushion pushes the bow away from the bank and bank suction draws the stern toward it",
+        "Cushion pushes the bow off; suction draws the stern in",
         "Bank cushion draws the bow toward the bank and bank suction pushes the stern away",
-        "Both act only on the stern",
+        "Both act only on the stern, never on the bow",
         "Both act only on vessels in deep water"
       ],
       "correct_index": 0,
       "explanation": "Pressure builds up between the bow and the bank (cushion), pushing the bow out, while low pressure along the stern side draws the stern in (suction). The result is that the head turns toward the middle of the channel. The other options reverse the ends or place the effect in the wrong water.",
-      "source_ids": ["bw-steer-steamship-interaction", "bw-steer-wiki-bank-effect"],
+      "source_ids": [
+        "bw-steer-steamship-interaction",
+        "bw-steer-wiki-bank-effect"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q07",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which interaction situation between two vessels is the most dangerous?",
       "options": [
@@ -117,58 +151,77 @@
       ],
       "correct_index": 0,
       "explanation": "Overtaking keeps two vessels side by side for a long time in a confined space. The smaller vessel can sheer into the path of the larger, or the sterns can swing together. Wide, deep-water passing and stopped vessels have little interaction.",
-      "source_ids": ["bw-steer-steamship-interaction", "bw-steer-mca-mgn-199"],
+      "source_ids": [
+        "bw-steer-steamship-interaction",
+        "bw-steer-mca-mgn-199"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q08",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "What usually makes interaction effects stronger?",
       "options": [
-        "Higher speed, shallow water and a small distance between vessels",
+        "Higher speed, shallow water, close passing",
         "Lower speed, deep water and a large distance",
-        "Calm weather alone",
+        "Calm weather alone, with no wind or swell",
         "Having the engine running astern"
       ],
       "correct_index": 0,
       "explanation": "Speed, shallow water and small clearance all make the pressure effects larger. That is why the standard remedy is to slow down in good time and keep as far apart as is practicable. Weather alone does not set the strength, and engine direction is not the main factor.",
-      "source_ids": ["bw-steer-steamship-interaction", "bw-steer-mca-mgn-199"],
+      "source_ids": [
+        "bw-steer-steamship-interaction",
+        "bw-steer-mca-mgn-199"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q09",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "hard",
       "stem": "Scenario: a small workboat is about to pass close alongside a much larger vessel in a narrow channel. The skipper decides to stop his engine \"to be gentle on the wash\". What is the main risk?",
       "options": [
-        "The rudder becomes less effective, so he may not be able to correct a sheer",
+        "The rudder loses effect, so a sheer can't be corrected",
         "The rudder becomes more effective and the boat will turn too sharply",
-        "Squat increases because the engine is stopped",
+        "Squat increases sharply because the engine is stopped",
         "Bank suction disappears and the boat will drift into the channel centre"
       ],
       "correct_index": 0,
       "explanation": "A rudder needs flow of water, including propeller wash, to be effective. With the engine stopped the flow falls, and the skipper loses his means of correcting a sheer in the pressure field. Keep power available and slow down early instead. Squat falls as speed falls; it does not rise because the engine is stopped.",
-      "source_ids": ["bw-steer-mca-mgn-199"],
+      "source_ids": [
+        "bw-steer-mca-mgn-199"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.steering-in-confined-waters.q10",
       "lesson_id": "bridge-watch.steering-in-confined-waters",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "A vessel is heading up a tidal river with a strong cross-set. Why is it good practice to steer by marks ashore as well as the compass?",
       "options": [
-        "The set shows up against the marks at once, while the compass heading may still look correct",
-        "The compass does not work in rivers",
-        "Marks ashore show the exact depth of water",
+        "The set shows against the marks at once",
+        "The magnetic compass does not work in rivers",
+        "Marks show the depth",
         "The marks make the rudder angle indicator unnecessary"
       ],
       "correct_index": 0,
       "explanation": "Current and tide move the whole vessel sideways without changing the compass heading. Fixed marks reveal that sideways movement immediately. The compass works in rivers, marks do not show depth, and the rudder angle indicator is still needed.",
-      "source_ids": ["bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

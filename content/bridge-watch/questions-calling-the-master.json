@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "The forecast says fog is expected to roll in within the hour but visibility is still good. What should the officer of the watch do?",
       "options": [
-        "Do nothing because visibility is good",
-        "Notify the master, because restricted visibility is expected as well as encountered",
-        "Wait until the fog actually arrives",
-        "Call the master only if the radar fails"
+        "Do nothing for now, because visibility is still good",
+        "Notify the master: expected fog counts too",
+        "Wait until the fog arrives",
+        "Call the master only if the radar fails in the fog"
       ],
       "correct_index": 1,
       "explanation": "The principles say to notify the master if restricted visibility is encountered or expected. Waiting for the fog to arrive misses the word \"expected\".",
@@ -35,10 +35,10 @@
       "difficulty": "easy",
       "stem": "Several vessels are converging at a busy crossing and the officer of the watch is uneasy about them. Which list item applies?",
       "options": [
-        "Traffic conditions or the movements of other ships are causing concern",
-        "Radio equipment malfunction",
-        "Heavy weather damage",
-        "Failure to obtain soundings"
+        "Traffic or other ships' movements cause concern",
+        "Radio equipment malfunction or loss of signal",
+        "Heavy weather damage to the deck or hatches",
+        "Failure to obtain soundings when expected"
       ],
       "correct_index": 0,
       "explanation": "Concern about traffic or other ships' movements is a listed reason to call the master. The other items are different situations.",
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "During a night watch the helmsman reports that the ship will not hold her course and keeps swinging to port. What should the officer of the watch do?",
       "options": [
-        "Ignore it since the autopilot is on",
-        "Wait until the end of the watch",
+        "Ignore it, because the autopilot is on and will correct it",
+        "Wait until the end of the watch and mention it at handover",
         "Tell the helmsman to steer harder and make no further report",
-        "Notify the master because difficulty maintaining course and possible steering trouble are on the list, while acting for the ship's safety"
+        "Notify the master, a listed reason, and act for safety"
       ],
       "correct_index": 3,
       "explanation": "Difficulty in maintaining course, and any steering gear breakdown, are on the list. The officer also takes immediate action for safety. Ignoring or waiting is wrong.",
@@ -82,9 +82,9 @@
       "stem": "A ship is due to sight a headland light at 2200. At 2230 it is not seen. Which statement is correct?",
       "options": [
         "Only call the master if the light is sighted too early",
-        "Call the master only in daylight",
-        "The officer should notify the master, because failure to sight land or a mark by the expected time is on the list",
-        "No action is needed because it may be hidden by haze"
+        "Call the master about it only in daylight hours",
+        "Notify the master: failing to sight it on time is listed",
+        "No action is needed, because it may just be hidden by haze"
       ],
       "correct_index": 2,
       "explanation": "Failure to sight land, a mark or to obtain soundings by the expected time is a trigger. So is land or a mark that appears unexpectedly.",
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "Which of the following equipment failures is a listed reason to notify the master?",
       "options": [
-        "A broken TV in the crew lounge",
-        "A breakdown of the steering gear, an engine or any essential navigational equipment, and a radio malfunction",
-        "A failed galley refrigerator",
-        "A burned out cabin light"
+        "A broken TV in the crew lounge during the night watch",
+        "Steering, engine, nav equipment or radio failure",
+        "A failed galley refrigerator with food spoiling",
+        "A burned out cabin light in the officers' alleyway"
       ],
       "correct_index": 1,
       "explanation": "Engines, propulsion remote control, steering gear, essential navigational equipment and radio malfunction are all listed. Galley, cabin and recreation equipment are not.",
@@ -127,10 +127,10 @@
       "difficulty": "medium",
       "stem": "In heavy weather, when must the officer of the watch notify the master?",
       "options": [
-        "If in any doubt about the possibility of weather damage",
-        "Only after damage has occurred",
-        "Only if wind exceeds 50 knots",
-        "Only if the barometer falls"
+        "If in any doubt about possible weather damage",
+        "Only after some damage has actually occurred",
+        "Only if the wind goes above 50 knots",
+        "Only if the barometer falls sharply"
       ],
       "correct_index": 0,
       "explanation": "The principle is to notify if there is any doubt about the possibility of weather damage. It does not set a wind speed, and it does not wait until damage happens.",
@@ -150,10 +150,10 @@
       "difficulty": "medium",
       "stem": "The look-out reports a drifting log and then a large piece of ice ahead. The officer notes the hazard. Under the principles, what applies?",
       "options": [
-        "Nothing, since floating objects are normal",
-        "Only radar targets must be reported",
-        "The master should be informed only if the log hits the ship",
-        "A hazard to navigation such as ice or a derelict is a reason to notify the master"
+        "Nothing; logs and ice are normal",
+        "Only radar targets must ever be reported to the master",
+        "Inform the master only if the log actually hits the ship",
+        "Ice or a derelict is a reason to call the master"
       ],
       "correct_index": 3,
       "explanation": "Meeting a hazard to navigation, such as ice or a derelict, is a listed reason to call the master.",
@@ -173,10 +173,10 @@
       "difficulty": "hard",
       "stem": "A collision looks likely in 30 seconds. The officer of the watch decides to ring the master first and wait for an answer before altering course. What does the principle say?",
       "options": [
-        "The officer should wait for the rating's opinion",
+        "The officer should wait for the rating's opinion first",
         "The officer should call the Coast Guard before any action",
-        "The officer should not hesitate to take immediate action for the ship's safety, as well as calling the master",
-        "The officer should wait for the master's instruction"
+        "Act at once for safety, and call the master too",
+        "Wait for the master's orders"
       ],
       "correct_index": 2,
       "explanation": "Notification does not replace action. The principles say the officer must not hesitate to take immediate action for the safety of the ship where circumstances require.",
@@ -196,10 +196,10 @@
       "difficulty": "medium",
       "stem": "Why does the list of reasons to call the master end with \"any other emergency, or if in any doubt\"?",
       "options": [
-        "Because the master dislikes being called",
-        "Because doubt alone is enough reason to call; no proof of danger is needed",
-        "Because the list is complete and doubt never applies",
-        "Because only emergencies justify a call"
+        "The master dislikes being called",
+        "Doubt alone is enough; no proof of danger is needed",
+        "Because the list is complete and doubt never really applies",
+        "Because only real emergencies justify a call to the master"
       ],
       "correct_index": 1,
       "explanation": "The catch-all sentence makes doubt a reason in itself, so the list cannot be used as an excuse for not calling.",
@@ -219,10 +219,10 @@
       "difficulty": "medium",
       "stem": "You are the rating on look-out and notice the wheel feels heavy and the steering alarm sounds briefly. What is the best action?",
       "options": [
-        "Report it to the officer of the watch immediately, because it may be difficulty in maintaining course or a steering problem",
-        "Wait to see whether it happens again",
-        "Wait until the end of the watch to mention it",
-        "Switch the alarm off and say nothing"
+        "Report it to the OOW at once as a possible steering fault",
+        "Wait to see whether it happens again before saying anything",
+        "Wait until the end of the watch to mention it at handover",
+        "Switch the alarm off and say nothing to avoid a fuss"
       ],
       "correct_index": 0,
       "explanation": "Report steering warning signs at once. The officer decides whether it is a trigger for calling the master. Waiting, staying silent or switching off an alarm are unsafe.",

@@ -12,9 +12,9 @@
       "difficulty": "easy",
       "stem": "You see a crew member fall overboard from the port side. What do you do first?",
       "options": [
-        "Shout \"Man overboard, port side\", throw a lifebuoy, and point at the person",
+        "Shout, throw a lifebuoy, and keep pointing",
         "Run to the bridge to report, leaving the person out of sight",
-        "Jump in after the person",
+        "Jump in straight away after the person",
         "Wait for the alarm to sound before doing anything"
       ],
       "correct_index": 0,
@@ -36,10 +36,10 @@
       "difficulty": "medium",
       "stem": "A person falls overboard on the starboard side. In which direction does the officer of the watch put the helm first?",
       "options": [
-        "Hard over to starboard, toward the side the person fell",
-        "Hard over to port, away from the person",
-        "Midships",
-        "The helm is left alone until the lifebuoy is recovered"
+        "Hard over to starboard, toward the person's side",
+        "Hard over to port, away from the person in the water",
+        "Midships, with the engine stopped at once",
+        "Left alone until the lifebuoy has been recovered"
       ],
       "correct_index": 0,
       "explanation": "The sources read say to put the helm hard over toward the side the person fell, which swings the stern, and the propeller, away from the person. Turning away would swing the stern toward them, and leaving the helm alone wastes the moment when the person is closest.",
@@ -83,10 +83,10 @@
       "difficulty": "medium",
       "stem": "Which description matches the Williamson turn?",
       "options": [
-        "Rudder over toward the casualty, after 60 degrees put the rudder fully the other way, and centre it about 20 degrees short of the reciprocal course",
-        "A single turn of about 250 degrees toward the casualty",
-        "Stop the ship and put the lifeboat in the water",
-        "Turn 90 degrees away and then return on the same track"
+        "Over toward the casualty, at 60 deg reverse, centre 20 deg short",
+        "A single turn of about 250 degrees toward the casualty's side",
+        "Stop the ship at once and put the lifeboat in the water",
+        "Turn 90 degrees away and then come back on the same track"
       ],
       "correct_index": 0,
       "explanation": "The Williamson turn is 60 degrees of turn toward the casualty, rudder fully the other way, and rudder centred about 20 degrees short of the reciprocal course. The single turn of about 250 degrees is the Anderson turn.",
@@ -130,10 +130,10 @@
       "difficulty": "medium",
       "stem": "In good visibility a person has just fallen overboard and is still clearly in sight. Which turn is quickest?",
       "options": [
-        "The Anderson turn, a single turn toward the casualty's side",
-        "The Williamson turn",
-        "The Scharnow turn",
-        "No turn; stop and wait"
+        "The Anderson turn, toward the casualty's side",
+        "The Williamson turn, to get back on the track",
+        "The Scharnow turn, into the ship's own wake",
+        "No turn at all; stop the ship and wait"
       ],
       "correct_index": 0,
       "explanation": "The Anderson turn is the single-turn manoeuvre that is quickest in immediate action when the person remains in sight. The Williamson takes the ship farther away first, and the Scharnow is for a person well astern or a delayed report.",
@@ -154,10 +154,10 @@
       "difficulty": "medium",
       "stem": "It is night with poor visibility, and the person was reported missing some time ago. Which turn is usually chosen to return along the original track?",
       "options": [
-        "The Williamson turn, which works in any visibility and returns the ship to the reciprocal course",
-        "The Anderson turn, because it is the quickest",
-        "No turn, because the person cannot be found",
-        "A 90 degree turn and full speed ahead"
+        "The Williamson turn, back onto the reciprocal course",
+        "The Anderson turn, because it is always the quickest",
+        "No turn at all, because the person cannot be found",
+        "A 90 degree turn and full speed ahead to search"
       ],
       "correct_index": 0,
       "explanation": "The Williamson turn can be used in any visibility and suits a delayed report or a person missing, because it brings the ship back on the reciprocal of her original track. The Anderson turn relies on keeping the person in sight.",
@@ -178,7 +178,7 @@
       "difficulty": "hard",
       "stem": "Which statement correctly describes the Scharnow turn?",
       "options": [
-        "About 240 degrees of turn, then opposite rudder, centred about 20 degrees short of the reciprocal, ending in the ship's own wake",
+        "About 240 deg, then opposite rudder; ends in her own wake",
         "A single turn of about 250 degrees ending near the bow",
         "A turn of 60 degrees followed by hard opposite rudder",
         "An immediate stop followed by a lifeboat launch"
@@ -202,9 +202,9 @@
       "difficulty": "medium",
       "stem": "A passenger-carrying vessel of 8 m (not more than 15 gross tonnage, 12 passengers or fewer) is being inspected under the Small Vessel Regulations. Which personal life-saving appliance satisfies the heaving line and lifebuoy item for her length, and what else must she carry?",
       "options": [
-        "A buoyant heaving line of at least 15 m or a lifebuoy on a buoyant line of at least 15 m; also a reboarding device unless the climb is 0.5 m or less",
-        "A lifebuoy with a self-igniting light only; no reboarding device",
-        "Two lifebuoys and a life raft",
+        "15 m buoyant line or lifebuoy on one, plus reboarding device",
+        "A lifebuoy with a self-igniting light only; no reboarding device needed",
+        "Two lifebuoys and a life raft for everyone on board",
         "No additional appliance is needed beyond lifejackets"
       ],
       "correct_index": 0,
@@ -227,7 +227,7 @@
       "options": [
         "About 10 minutes",
         "About 1 minute",
-        "About 1 hour",
+        "About 1 full hour",
         "About 3 hours"
       ],
       "correct_index": 0,

@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "A Bridge Watch Rating certificate is best described as which of these?",
       "options": [
-        "A training certificate for survival craft only",
-        "A medical certificate for deck crew",
-        "A certificate of competency for a rating who takes part in a navigational watch",
+        "A training certificate for survival craft and rescue boats only",
+        "A medical certificate for deck crew on watch",
+        "A competency certificate for a rating on watch",
         "An officer certificate that lets the holder take charge of the watch"
       ],
       "correct_index": 2,
@@ -31,8 +31,8 @@
       "difficulty": "easy",
       "stem": "Which statement about age is correct for a Bridge Watch Rating?",
       "options": [
-        "The applicant only needs to be 16 at any time",
-        "Sea service may start at 16 or older, and the applicant must be 18 on the day the certificate is received",
+        "The applicant only needs to be 16 at any time during the process",
+        "Sea service from 16; must be 18 when the certificate is received",
         "Sea service may start at 18, and the applicant must be 16 when the certificate is received",
         "Both the start of sea service and the receipt of the certificate must be at age 18"
       ],
@@ -76,7 +76,7 @@
         "MED STCW basic safety, MED fast rescue boats, radio operator certificate, marine basic first aid",
         "Marine basic first aid, steering testimonial, Able Seafarer certificate, radar course",
         "MED STCW basic safety, steering testimonial, chartwork certificate, firefighting advanced",
-        "MED STCW basic safety, MED survival craft and rescue boats other than fast rescue boats, steering testimonial, marine basic first aid"
+        "MED STCW basic safety, MED survival craft (not fast rescue), steering testimonial, first aid"
       ],
       "correct_index": 3,
       "explanation": "The regulation lists four items: basic safety, survival craft and rescue boats other than fast rescue boats, the steering testimonial and marine basic first aid. A radio operator certificate, a fast rescue boat course, an Able Seafarer certificate and advanced firefighting are not on that list.",
@@ -94,9 +94,9 @@
       "difficulty": "medium",
       "stem": "Who signs the declaration on a steering testimonial, and what does the regulation say about the number of hours?",
       "options": [
-        "The master signs; the regulation sets 10 hours",
-        "The mate signs; the regulation sets 6 hours",
-        "The master signs; the number of hours is left blank in the regulation and filled in for the applicant",
+        "The master signs; the regulation itself sets a fixed 10 hours",
+        "The mate signs; 6 hours are set",
+        "The master signs; the hours are left blank to fill in",
         "The training instructor signs; the regulation sets 10 hours"
       ],
       "correct_index": 2,
@@ -115,10 +115,10 @@
       "difficulty": "medium",
       "stem": "Jordan passed the Bridge Watch Rating written exam 7 months ago and now holds the certificate. How long does the exam pass stay valid?",
       "options": [
-        "Until the medical certificate expires",
+        "Until the seafarer's medical certificate next expires",
         "For life, because the certificate has been obtained",
         "For 5 years from the exam date, then it lapses",
-        "For 1 year"
+        "For 1 year from the date the exam was written"
       ],
       "correct_index": 1,
       "explanation": "A passing grade is valid 5 years from the exam date while the certificate is still being sought, and once the certificate is obtained it stays valid for life. One year is the validity of the exam application, not the pass.",
@@ -136,10 +136,10 @@
       "difficulty": "medium",
       "stem": "An applicant wants to write the exam in about four weeks. Which statement about the application is correct?",
       "options": [
-        "It must reach the examiner at least two weeks before the first exam, and it stays valid for one year",
+        "At least two weeks before the exam; valid for one year",
         "It must reach the examiner on the day of the exam, and it stays valid for five years",
         "It must reach the examiner one month before, and it stays valid for life",
-        "No application is needed if a training certificate is held"
+        "No application is needed at all if a training certificate is already held"
       ],
       "correct_index": 0,
       "explanation": "Two weeks before the first exam is the minimum, and the application is valid one year after the examiner receives it. Five years is the exam pass validity.",
@@ -157,10 +157,10 @@
       "difficulty": "hard",
       "stem": "A candidate is 17, has the 2 months of sea service, the four documents and a passing exam grade, and turns 18 in three weeks. A friend says the certificate can be issued now. What is the correct answer?",
       "options": [
-        "Yes. Age 16 at the start of sea service is all that matters",
-        "Yes, because a pass in the exam overrides the age rule",
-        "No. The applicant must be 19 because the course is 300 hours",
-        "No. The applicant must be at least 18 on the day the certificate is received"
+        "Yes. Being 16 at the start of sea service is all that matters here",
+        "Yes: the exam pass overrides age",
+        "No. The applicant must be 19 because the course is 300 hours long",
+        "No. They must be 18 on the day the certificate is received"
       ],
       "correct_index": 3,
       "explanation": "Age 18 applies on the day of receipt. The earlier start at 16 only makes the service count. The exam pass does not override the age rule, and no age of 19 applies.",
@@ -179,8 +179,8 @@
       "stem": "Which statement about the medical requirement is correct?",
       "options": [
         "A medical is needed, but colour vision is never tested for deck ratings",
-        "A medical is needed only after the first six months of service",
-        "A medical certificate is needed before issue, and the colour vision standard applies to a Bridge Watch Rating",
+        "A medical is needed only after the first six months of sea service",
+        "A medical is needed first, including the colour vision standard",
         "No medical is needed because a rating certificate is not an officer certificate"
       ],
       "correct_index": 2,

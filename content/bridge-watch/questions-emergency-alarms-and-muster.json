@@ -12,7 +12,7 @@
       "difficulty": "easy",
       "stem": "Which pair correctly gives the two alarm signals defined in the Fire and Boat Drills Regulations?",
       "options": [
-        "General emergency alarm: seven or more short blasts followed by one long blast on the whistle or siren. Fire alarm: continuous sounding of the fire alarm",
+        "General: seven or more short then one long blast. Fire: continuous fire alarm",
         "General emergency alarm: continuous sounding of the fire alarm. Fire alarm: seven or more short blasts followed by one long blast",
         "General emergency alarm: one long blast followed by seven short blasts. Fire alarm: three prolonged blasts",
         "General emergency alarm: three prolonged blasts. Fire alarm: five short blasts"
@@ -35,10 +35,10 @@
       "difficulty": "easy",
       "stem": "The general emergency alarm sounds and no drill notice has been given. What does a crew member do?",
       "options": [
-        "Report to his designated muster station and prepare to perform his duties set out in the muster list",
-        "Wait in his cabin for an announcement",
+        "Go to his muster station, ready for his muster list duties",
+        "Wait in his cabin for an announcement over the PA",
         "Go straight to the survival craft and abandon ship",
-        "Go to the bridge to ask what is happening"
+        "Go to the bridge to ask what is happening first"
       ],
       "correct_index": 0,
       "explanation": "Section 19 requires crew to report to their designated muster stations and prepare to perform assigned duties. The alarm is not by itself an abandon-ship order, and everyone going to the bridge would leave the stations empty.",
@@ -81,7 +81,7 @@
       "difficulty": "medium",
       "stem": "Which statement about the muster list is correct under the Fire and Boat Drills Regulations?",
       "options": [
-        "It is posted conspicuously throughout the vessel, including the navigation bridge, engine room and crew accommodations, and is revised or replaced when the crew changes",
+        "Posted widely, bridge and engine room too; revised on crew change",
         "It is posted only in the master's cabin and revised once a year",
         "It is posted only on the bridge and revised only after a drill",
         "It is kept in the ship's office and need not change when the crew changes"
@@ -104,9 +104,9 @@
       "difficulty": "medium",
       "stem": "A passenger vessel is about to hold a drill with passengers on board. What must the master do before sounding the signal?",
       "options": [
-        "Tell the passengers that a drill will be held and that there is no actual emergency",
-        "Say nothing so the drill is realistic",
-        "Ask passengers to go to the survival craft",
+        "Tell passengers a drill is coming and it is not real",
+        "Say nothing at all, so that the drill is realistic",
+        "Ask the passengers to go straight to the survival craft",
         "Hold the drill only when no passengers are aboard"
       ],
       "correct_index": 0,
@@ -150,10 +150,10 @@
       "difficulty": "hard",
       "stem": "A cargo vessel and a Safety Convention passenger vessel each carry passengers or cargo as described. What are the minimum drill intervals for fire and survival craft drills under the Schedule?",
       "options": [
-        "Cargo vessel one month; Safety Convention passenger vessel carrying passengers one week",
+        "Cargo: one month; SC passenger vessel with passengers: one week",
         "Cargo vessel one week; Safety Convention passenger vessel one month",
-        "Both one month",
-        "Both one week"
+        "Both one month, whatever is carried on board",
+        "Both one week, whatever is carried on board"
       ],
       "correct_index": 0,
       "explanation": "The Schedule gives one week for a Safety Convention vessel carrying passengers and one month for a cargo vessel. The reverse is tempting but wrong: passengers raise the frequency, not cargo.",
@@ -196,10 +196,10 @@
       "difficulty": "hard",
       "stem": "The master holds a fire drill in the middle of a crew member's rest period. Under the Marine Personnel Regulations, when is this acceptable without breaching the hours-of-rest rules?",
       "options": [
-        "When the master minimises the disturbance of rest periods and does not induce fatigue",
-        "Never; rest periods may not be disturbed by drills",
-        "Always, drills override all rest rules",
-        "Only if the crew member agrees in writing"
+        "If disturbance is minimised and fatigue avoided",
+        "Never; rest periods may not be disturbed by any drill",
+        "Always, because drills override every rest rule",
+        "Only if the crew member agrees to it in writing"
       ],
       "correct_index": 0,
       "explanation": "Section 322(3) says the usual rest rules do not apply during practice musters, fire drills and survival craft drills if the master conducts them in a way that minimises disturbance of rest and does not induce fatigue. It is conditional, so it is neither 'never' nor 'always'.",
@@ -219,10 +219,10 @@
       "difficulty": "medium",
       "stem": "Who keeps the records of musters and drills, and what does the record include?",
       "options": [
-        "The master; the date of each muster and a detailed report of each fire, survival craft and rescue boat drill",
-        "The cook; only the dates of fire drills",
-        "The passengers; only the date of the safety briefing",
-        "No records are required"
+        "The master: muster dates and a report of each drill",
+        "The cook, who records only the dates of fire drills",
+        "The passengers, who record only the date of the safety briefing",
+        "No records are required for musters or drills"
       ],
       "correct_index": 0,
       "explanation": "Section 37 requires the master to record and keep the date of each muster, detailed reports of each fire, survival craft and rescue boat drill, any muster or drill not held and why, and an evaluation of the crew's readiness.",

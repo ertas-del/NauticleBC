@@ -35,10 +35,10 @@
       "difficulty": "easy",
       "stem": "What is a rescue boat designed to do?",
       "options": [
-        "Rescue persons in distress and marshal survival craft",
-        "Carry the ship's cargo ashore",
+        "Rescue people and marshal survival craft",
+        "Carry the ship's cargo ashore in port",
         "Replace the ship's lifeboats permanently",
-        "Tow the ship in an emergency"
+        "Tow the ship to safety in an emergency"
       ],
       "correct_index": 0,
       "explanation": "The regulations define a rescue boat as a boat designed to be used for rescuing persons in distress and marshalling survival craft. It is not a cargo boat or a towing vessel.",
@@ -58,9 +58,9 @@
       "difficulty": "medium",
       "stem": "Which marine emergency duties training does a Bridge Watch Rating candidate need in addition to basic safety?",
       "options": [
-        "Proficiency in survival craft and rescue boats other than fast rescue boats",
+        "Survival craft and rescue boats (not fast rescue)",
         "Proficiency in fast rescue boats only",
-        "Offshore firefighting",
+        "Offshore firefighting and helideck safety",
         "Small seasonal passenger vessel safety only"
       ],
       "correct_index": 0,
@@ -81,10 +81,10 @@
       "difficulty": "medium",
       "stem": "Under MPR s. 205(6), who must hold a training certificate in proficiency in survival craft and rescue boats other than fast rescue boats?",
       "options": [
-        "Every person assigned on the muster list to preparing or launching a survival craft, other than a manually launched life raft or manually launched inflatable rescue platform",
-        "Only the master",
-        "Every passenger",
-        "Only the cook"
+        "Everyone on the muster list for launching survival craft (not manual rafts)",
+        "Only the master, as the person in overall command",
+        "Every passenger who is on board for the voyage",
+        "Only the cook, who is in charge of the provisions"
       ],
       "correct_index": 0,
       "explanation": "Section 205(6) puts the certificate requirement on those assigned on the muster list to prepare or launch survival craft, except for manually launched life rafts and inflatable rescue platforms. Passengers and non-assigned crew are not covered by that subsection.",
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "Before a survival craft drill, who must have a list of the survival craft crew members?",
       "options": [
-        "The person in charge of the survival craft and the second-in-command",
-        "Only the master",
-        "Only the passengers' representative",
-        "No one; lists are not used"
+        "The person in charge of the craft and the second",
+        "Only the master, who keeps it on the bridge",
+        "Only the passengers' representative on board",
+        "No one; lists are not used for drills"
       ],
       "correct_index": 0,
       "explanation": "Section 25(1) says the person in charge of a survival craft and his or her second-in-command each have a list of the crew members, and the person in charge makes sure the crew know their duties.",
@@ -127,9 +127,9 @@
       "difficulty": "medium",
       "stem": "A vessel has two lifeboats. How must lifeboats be launched in survival craft drills under the Fire and Boat Drills Regulations?",
       "options": [
-        "A different lifeboat is launched in each drill, and each lifeboat is launched and manoeuvred in the water by the assigned crew at least once every three months",
+        "A different boat each drill; each launched every 3 months",
         "The same lifeboat is launched each time and the other is never launched",
-        "Each lifeboat is launched every week",
+        "Each lifeboat is launched and run in the water every week",
         "Lifeboats are launched only after an actual emergency"
       ],
       "correct_index": 0,
@@ -150,9 +150,9 @@
       "difficulty": "medium",
       "stem": "A vessel carries a rescue boat that is not a lifeboat. How often must a rescue boat drill be held, and how?",
       "options": [
-        "At least once a month, separately from any other drill, with the crew launching and manoeuvring the rescue boat in the water",
+        "Monthly, on its own, launched and manoeuvred",
         "Once a year, as part of the fire drill",
-        "Every three months, without launching",
+        "Every three months, without launching the boat",
         "Only when passengers are on board"
       ],
       "correct_index": 0,
@@ -173,10 +173,10 @@
       "difficulty": "hard",
       "stem": "The vessel is under way and a lifeboat launching drill is due. How must it be carried out, and what else must the crew be able to do under s. 26?",
       "options": [
-        "In sheltered waters under the supervision of an experienced officer; and crew must be able to don the immersion suits or anti-exposure suits carried",
-        "In open water at full speed with no supervision; and crew need not handle immersion suits",
+        "In sheltered waters with an experienced officer; crew can don suits",
+        "In open water at full speed with no supervision; crew need not handle immersion suits",
         "Only alongside, never under way; and crew must be able to swim 100 m",
-        "In any water so long as passengers are ashore"
+        "In any water, so long as the passengers are ashore"
       ],
       "correct_index": 0,
       "explanation": "Sections 27(3) and 31(3) require launching and manoeuvring drills under way to be carried out in sheltered waters under an officer experienced in launchings and manoeuvrings while under way, and s. 26 requires crew to be capable of donning the immersion suits or marine anti-exposure suits carried on the vessel.",
@@ -196,10 +196,10 @@
       "difficulty": "hard",
       "stem": "A 9 m passenger-carrying vessel (SVR Part 4) works in the open Strait of Georgia, not on a sheltered waters voyage and more than two nautical miles from any river or lake shore. What does SVR s. 411 require?",
       "options": [
-        "Life rafts with a total capacity sufficient for all persons on board",
+        "Life rafts with room for everyone on board",
         "No life raft, because the vessel is under 12 m",
-        "Only lifejackets",
-        "A rescue boat with an engine"
+        "Only lifejackets for everyone on board",
+        "A rescue boat with an engine and a crew"
       ],
       "correct_index": 0,
       "explanation": "Section 411(2) requires life rafts for everyone on board unless the vessel is not more than 8.5 m in length, on a sheltered waters voyage, or within two nautical miles of the shore of a river or lake. A 9 m vessel in the open strait meets none of those exceptions, so she needs the rafts.",
@@ -219,10 +219,10 @@
       "difficulty": "medium",
       "stem": "A small passenger-carrying vessel under SVR Part 4 carries no life raft and the water is 10 degrees Celsius. What must the operator do?",
       "options": [
-        "Make sure equipment is carried or procedures are established to protect all persons from hypothermia or cold shock",
+        "Have gear or procedures against hypothermia and cold shock",
         "Nothing, because the rule applies only below 5 degrees Celsius",
-        "Cancel the voyage",
-        "Provide hot drinks only"
+        "Cancel the voyage until the water warms up",
+        "Provide hot drinks only, on request"
       ],
       "correct_index": 0,
       "explanation": "Section 403 applies when the water temperature is less than 15 degrees Celsius and no life raft is carried: equipment must be carried or procedures established to protect everyone from hypothermia or cold shock resulting from swamping, capsizing or falling overboard. The temperature trigger is 15, not 5, and the rule does not require cancelling the voyage.",
