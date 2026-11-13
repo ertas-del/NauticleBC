@@ -4,7 +4,11 @@
     {
       "id": "tides.spring-and-neap.q01",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "At which moon phases do spring tides occur?",
       "options": [
@@ -15,30 +19,44 @@
       ],
       "correct_index": 2,
       "explanation": "At new and full moon the sun, Earth and moon are roughly in a line, so the sun's and moon's tidal effects add together. First and last quarter give neap tides. Springs occur at both new and full moon, not just one, and perigee is a separate effect that adds to the range.",
-      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q02",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "When would you normally expect neap tides?",
       "options": [
         "Around the new moon",
         "Around the full moon",
-        "Around first quarter and last quarter moon",
-        "Only in winter"
+        "Around the quarter moons",
+        "Only in the winter months"
       ],
       "correct_index": 2,
       "explanation": "At the quarter moons the sun and moon are about a right angle apart as seen from the Earth, so the sun's tidal effect partly cancels the moon's and the range is small. New and full moon give springs. Neap tides have nothing to do with the season.",
-      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q03",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Compared with spring tides, what do neap tides look like at a given place?",
       "options": [
@@ -49,13 +67,20 @@
       ],
       "correct_index": 0,
       "explanation": "Neaps are small-range tides: the highs do not climb as high and the lows do not drop as low as at springs. It is the range that shrinks, from both ends. Springs are the opposite, with higher highs and lower lows.",
-      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q04",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which situation would be expected to give the largest tidal range?",
       "options": [
@@ -66,30 +91,43 @@
       ],
       "correct_index": 3,
       "explanation": "New moon gives a spring tide, and perigee, when the moon is closest, strengthens its effect, so the range is unusually large. At apogee the effect is weaker. First quarter gives a neap, so even a perigee does not make it a spring.",
-      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q05",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which statement about spring tides is correct?",
       "options": [
         "They happen only in the spring season",
-        "They happen about twice a month, whatever the season",
+        "About twice a month, whatever the season",
         "They are tides with an unusually small range",
         "They happen only when the moon is not visible"
       ],
       "correct_index": 1,
       "explanation": "Springs occur around new and full moon, twice in each lunar month all year round. The name does not refer to the season, and spring tides have a large range, not a small one. They also occur at full moon, when the moon is very visible.",
-      "source_ids": ["noaa-tides-tutorial-variations"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q06",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In one lunar month, how many sets of spring tides occur?",
       "options": [
@@ -100,47 +138,67 @@
       ],
       "correct_index": 1,
       "explanation": "There is one set around new moon and one around full moon, so two sets of springs. There are also two sets of neaps, around the two quarter moons. The cycle swings between big and small ranges roughly every week.",
-      "source_ids": ["noaa-tides-tutorial-variations"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q07",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "When the moon is far north or far south of the equator, what effect is commonly seen in a mixed tide?",
       "options": [
         "The two high waters of the day become much more alike in height",
-        "The tidal range is always at its smallest",
+        "The tidal range is always at its smallest then",
         "The tide stops altogether for several hours",
-        "The two high waters of the day, and the two low waters, differ more in height"
+        "The two highs, and two lows, differ more"
       ],
       "correct_index": 3,
       "explanation": "The moon's angle north or south of the equator (its declination) makes the two bulges sit at unequal angles, increasing the difference between successive highs and between successive lows, called the diurnal inequality. Highs do not become more alike, and the range is not simply at its smallest. The tide does not stop.",
-      "source_ids": ["noaa-tides-tutorial-angle", "dfo-tides-and-tidal-streams-chapter"],
+      "source_ids": [
+        "noaa-tides-tutorial-angle",
+        "dfo-tides-and-tidal-streams-chapter"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q08",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are planning a passage through a channel with strong tidal streams. Compared with neap tides, what would you generally expect at spring tides?",
       "options": [
         "Weaker tidal streams, because the range is smaller",
-        "Stronger tidal streams, because more water moves in and out with the larger range",
-        "No tidal streams at all",
+        "Stronger streams, as more water moves",
+        "No tidal streams at all at springs",
         "The same streams, because streams do not depend on the range"
       ],
       "correct_index": 1,
       "explanation": "Spring tides have the largest range, so more water has to move in and out, and tidal streams are usually stronger. Neaps have a smaller range and usually weaker streams. The actual speeds for a channel still come from the current tables.",
-      "source_ids": ["noaa-tides-tutorial-variations", "dfo-tides-and-tidal-streams-chapter"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "dfo-tides-and-tidal-streams-chapter"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.spring-and-neap.q09",
       "lesson_id": "tides.spring-and-neap",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What happens to tidal ranges when the moon is at apogee, its farthest point from the Earth?",
       "options": [
@@ -151,7 +209,10 @@
       ],
       "correct_index": 1,
       "explanation": "At apogee the moon is farthest away, its tide-raising effect is weaker, and ranges are below average (apogean tides). At perigee, when the moon is closest, ranges are above average. The tide does not stop at apogee.",
-      "source_ids": ["noaa-tides-tutorial-variations", "noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-tutorial-variations",
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

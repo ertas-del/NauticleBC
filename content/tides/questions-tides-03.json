@@ -4,7 +4,11 @@
     {
       "id": "tides.vocabulary.q01",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is the \"height of tide\" at a given moment?",
       "options": [
@@ -15,13 +19,20 @@
       ],
       "correct_index": 1,
       "explanation": "Height of tide is the vertical distance of the water surface above the reference level, chart datum. It is not the same as depth, because depth also depends on the charted depth. The difference between high and low is the range.",
-      "source_ids": ["noaa-tides-currents-glossary", "chs-vertical-datum-chart-references"],
+      "source_ids": [
+        "noaa-tides-currents-glossary",
+        "chs-vertical-datum-chart-references"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q02",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "A chart sounding shows 3.1 m. The height of tide is 1.2 m. About how deep is the water there?",
       "options": [
@@ -32,13 +43,19 @@
       ],
       "correct_index": 2,
       "explanation": "Depth of water equals charted depth plus height of tide: 3.1 + 1.2 = 4.3 m. Subtracting (1.9 m) is the common mistake. 3.1 m would be the depth at chart datum. The numbers in this question are invented for practice.",
-      "source_ids": ["chs-vertical-datum-chart-references"],
+      "source_ids": [
+        "chs-vertical-datum-chart-references"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q03",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In an invented example, high water is 3.9 m and the next low water is 0.7 m. What is the range?",
       "options": [
@@ -49,126 +66,173 @@
       ],
       "correct_index": 2,
       "explanation": "Range is the difference in height between high water and low water: 3.9 - 0.7 = 3.2 m. Adding the two heights gives 4.6 m, which is a common error. The other values come from slips in subtraction.",
-      "source_ids": ["noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q04",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which statement about chart datum on Canadian charts is correct?",
       "options": [
-        "It is the lowest the water level can ever reach, so the height of tide is never negative",
+        "It is the lowest the water can ever reach, so tide height is never negative",
         "It is the average sea level, so half of all tide heights are negative",
         "It is a high water level, used so that depths look larger",
-        "It is a low water level chosen so that the water seldom falls below it, though it occasionally can"
+        "A low level the water seldom falls below"
       ],
       "correct_index": 3,
       "explanation": "Chart datum is a low-water reference (lower low water, large tide), picked so that charted depths are realistic and the water seldom drops below it. Because it is not an absolute minimum, strong winds or high pressure can occasionally push the level lower. It is not the average sea level and not a high water level.",
-      "source_ids": ["chs-vertical-datum-chart-references", "noaa-tides-tutorial-othereffects"],
+      "source_ids": [
+        "chs-vertical-datum-chart-references",
+        "noaa-tides-tutorial-othereffects"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q05",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is slack water?",
       "options": [
-        "The period when the tidal stream is near zero as it turns between flood and ebb",
+        "The stream near zero as it turns",
         "The period when the height of the tide stops changing at high water",
         "The lowest water of the month",
         "The time when the tide is rising fastest"
       ],
       "correct_index": 0,
       "explanation": "Slack water is about the stream (current): its speed is close to zero as it changes direction. The brief pause in height near high or low water is called stand. The lowest water of the month and the fastest rise are different things.",
-      "source_ids": ["noaa-tides-currents-glossary", "noaa-tides-currents-faq"],
+      "source_ids": [
+        "noaa-tides-currents-glossary",
+        "noaa-tides-currents-faq"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q06",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "The water level beside a dock barely changes for a while near high water before it begins to fall. What is this called?",
       "options": [
         "Slack water",
-        "Neap",
-        "Stand of the tide",
-        "Ebb"
+        "The neap tide",
+        "The stand",
+        "The ebb stream"
       ],
       "correct_index": 2,
       "explanation": "The short period when the height stays nearly the same before reversing is the stand. Slack water refers to the tidal current being near zero, and the two do not always occur together. Ebb is the stream going away from shore, and neap is a small-range tide.",
-      "source_ids": ["noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q07",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which sentence uses tide terms correctly, keeping the height of the water and the stream separate?",
       "options": [
         "The stream is ebbing, so the water level is rising.",
-        "The water level is rising and the stream is flooding up the inlet.",
+        "Level rising; the stream floods up the inlet.",
         "Slack water is when the water level stops rising.",
         "The stand is the strongest part of the ebb."
       ],
       "correct_index": 1,
       "explanation": "Rising and falling describe the height of the water; flood and ebb describe the stream toward or away from the head of the water. In a simple inlet a rising tide goes with a flooding stream. Slack water is a stream term (the flow is near zero), and the stand is a height term (the level barely changes), so the third and fourth sentences each mix them up. An ebbing stream goes with a falling level in the simple case, not a rising one.",
-      "source_ids": ["noaa-tides-currents-glossary", "noaa-tides-tutorial-intro"],
+      "source_ids": [
+        "noaa-tides-currents-glossary",
+        "noaa-tides-tutorial-intro"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q08",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "What level do Canadian charts use as chart datum?",
       "options": [
-        "Mean sea level",
-        "Lower low water, large tide (LLWLT), formerly called lowest normal tide (LNT)",
+        "Mean sea level at the port",
+        "LLWLT (formerly LNT)",
         "Higher high water, large tide",
         "The lowest level the water has ever been recorded at"
       ],
       "correct_index": 1,
       "explanation": "CHS uses lower low water, large tide (LLWLT) as chart datum; older charts and books call it lowest normal tide (LNT). It is a low-water level that the water seldom falls below. Mean sea level is not a low-water datum, a high-water level is used for clearances rather than depths, and chart datum is not the lowest level ever recorded, so the water can occasionally fall below it.",
-      "source_ids": ["chs-vertical-datum-chart-references"],
+      "source_ids": [
+        "chs-vertical-datum-chart-references"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q09",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "In the terms used in this module, what is the ebb?",
       "options": [
-        "The tidal stream running away from shore or down an inlet",
+        "The stream running away from shore or down an inlet",
         "The tidal stream running toward the shore or up an inlet",
         "The height of the tide at low water",
         "The short pause in height at high water"
       ],
       "correct_index": 0,
       "explanation": "Ebb is the stream running away from shore or down an inlet; flood is the stream running toward the shore or up an inlet. Both are words for the stream, not the height. Low water is a height, and the pause in height near high or low water is the stand.",
-      "source_ids": ["noaa-tides-currents-glossary"],
+      "source_ids": [
+        "noaa-tides-currents-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.vocabulary.q10",
       "lesson_id": "tides.vocabulary",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "You are checking whether your mast will clear a bridge in tidal waters. The chart shows a vertical clearance. Which statement is correct?",
       "options": [
         "The clearance is measured from chart datum, so you will always have at least that much room",
-        "The clearance is measured from a high-water level, so you need the chart notes and the current height of tide to know the real room",
+        "It's from a high-water level; check notes and tide",
         "The clearance is measured from the seabed",
         "Clearances do not change with the tide"
       ],
       "correct_index": 1,
       "explanation": "In tidal waters, charted heights and clearances are measured from a high-water level, not from chart datum. The real room depends on the height of tide at the time, and the chart notes say exactly which reference is used. Depths, not clearances, are measured from chart datum, and clearances are never measured from the seabed.",
-      "source_ids": ["chs-vertical-datum-chart-references"],
+      "source_ids": [
+        "chs-vertical-datum-chart-references"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

@@ -79,7 +79,7 @@
         "Ignored",
         "Doubled",
         "Subtracted",
-        "Added"
+        "Added twice"
       ],
       "correct_index": 2,
       "explanation": "West is added.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "A table of deviations lists:",
       "options": [
-        "Tide times",
+        "Tide times for the port",
         "Deviation on different headings",
-        "Fuel use",
-        "Weather"
+        "Fuel use at each engine speed and load",
+        "Weather for the season"
       ],
       "correct_index": 1,
       "explanation": "Check it regularly.",
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "A log book should be kept to:",
       "options": [
-        "Avoid inspections",
-        "Record the vessel's progress and events accurately",
-        "Replace the chart",
-        "Waste time"
+        "Avoid inspections by Transport Canada",
+        "Record progress and events accurately",
+        "Replace the chart when plotting",
+        "Pass the time on long watches"
       ],
       "correct_index": 1,
       "explanation": "It supports safe practice.",
@@ -164,9 +164,9 @@
       "difficulty": "easy",
       "stem": "Parallel rules and dividers should be:",
       "options": [
-        "Ignored",
-        "Stored loose",
-        "Used as hammers",
+        "Ignored once you have a GPS",
+        "Stored loose in a drawer",
+        "Used as hammers when needed",
         "Kept clean and undamaged"
       ],
       "correct_index": 3,

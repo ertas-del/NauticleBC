@@ -4,41 +4,58 @@
     {
       "id": "tides.what-causes-tides.q01",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "The sun's gravitational pull on the Earth is much stronger than the moon's. Why is the moon still the main driver of ocean tides?",
       "options": [
         "The moon is heavier than the sun, so its pull is stronger",
         "The sun's pull is blocked by the Earth during the night",
-        "The tide-raising effect depends on the difference in pull across the Earth, which falls off very quickly with distance, so the far-off sun ends up with less than half the moon's effect",
+        "Tides come from the pull's difference across the Earth",
         "The sun's gravity acts only on land and not on the ocean"
       ],
       "correct_index": 2,
       "explanation": "The sun is much heavier but about 390 times farther away. Tides come from the difference in pull from one side of the Earth to the other, and that shrinks sharply with distance, so the sun's tidal effect is under half of the moon's. The moon is not heavier, the Earth does not block the sun's pull, and gravity acts on the ocean as it does on everything.",
-      "source_ids": ["noaa-tides-tutorial-cause", "chs-tides-in-canadian-waters-2007"],
+      "source_ids": [
+        "noaa-tides-tutorial-cause",
+        "chs-tides-in-canadian-waters-2007"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q02",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "In the simple model of tides on a water-covered Earth, how many tidal bulges are there, and where are they?",
       "options": [
         "One bulge, on the side facing the moon",
-        "Two bulges, one facing the moon and one on the opposite side of the Earth",
+        "Two: one under the moon, one opposite",
         "Two bulges, both on the side facing the moon",
         "Four bulges, spaced evenly around the Earth"
       ],
       "correct_index": 1,
       "explanation": "The water on the near side is pulled toward the moon more than the Earth as a whole, and the water on the far side is pulled less, so it heaps up on the opposite side. That gives one bulge facing the moon and one facing away. The sun adds its own smaller pair, but the basic moon-driven picture has two.",
-      "source_ids": ["noaa-tides-tutorial-gravity"],
+      "source_ids": [
+        "noaa-tides-tutorial-gravity"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q03",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "About how long is a lunar day, the time for a place on Earth to come back to the same position relative to the moon?",
       "options": [
@@ -49,13 +66,20 @@
       ],
       "correct_index": 2,
       "explanation": "The moon moves around the Earth in the same direction as the Earth spins, so the Earth must turn about 50 minutes further to catch up with it. A lunar day is about 24 hours 50 minutes, not 24 hours. The other options are too short or too long.",
-      "source_ids": ["noaa-tides-tutorial-lunarday", "chs-tides-in-canadian-waters-2007"],
+      "source_ids": [
+        "noaa-tides-tutorial-lunarday",
+        "chs-tides-in-canadian-waters-2007"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q04",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At a place with two high waters a day, one high water occurs at 0930. About when is the next high water that same evening?",
       "options": [
@@ -66,13 +90,19 @@
       ],
       "correct_index": 2,
       "explanation": "High waters are about 12 hours 25 minutes apart, not 12 hours. 0930 plus 12 h 25 min is about 2155. Adding exactly 12 hours (2130) ignores the extra 25 minutes. The other options are too early or too late.",
-      "source_ids": ["noaa-tides-tutorial-lunarday"],
+      "source_ids": [
+        "noaa-tides-tutorial-lunarday"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q05",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A high water occurs at 0930 today. Roughly when would you expect the morning high water tomorrow, at the same place?",
       "options": [
@@ -83,47 +113,66 @@
       ],
       "correct_index": 2,
       "explanation": "Tides come about 50 minutes later each day, because the lunar day is about 24 hours 50 minutes. 0930 plus about 50 minutes is about 1020. The same clock time (0930) would only happen if the cycle were exactly 24 hours, and earlier times would mean the tide was running ahead rather than behind.",
-      "source_ids": ["noaa-tides-tutorial-lunarday"],
+      "source_ids": [
+        "noaa-tides-tutorial-lunarday"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q06",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Which statement correctly explains why tides arrive about 50 minutes later each day?",
       "options": [
         "Friction between the water and the sea floor slows the tide a little each day",
-        "The moon orbits the Earth in the same direction as the Earth spins, so the Earth has to turn further each day to face the moon again",
+        "The moon moves on in its orbit, so Earth turns further to face it",
         "The Earth's rotation slows by about 50 minutes each day as the moon pulls on it",
         "The sun and moon take turns raising the tide, and the sun's turn is 50 minutes longer"
       ],
       "correct_index": 1,
       "explanation": "In one 24-hour turn relative to the sun, the moon has moved on in its orbit, so the Earth must rotate about 50 minutes more to be under the moon again. Friction does not cause a regular daily delay, the Earth does not slow by that much, and the sun and moon do not take turns.",
-      "source_ids": ["noaa-tides-tutorial-lunarday"],
+      "source_ids": [
+        "noaa-tides-tutorial-lunarday"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q07",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Why do mariners use tide tables for their own area, instead of working out the tide from the moon's position alone?",
       "options": [
         "The moon's position cannot be predicted accurately",
         "Tide tables are required by law to be copied by hand each day",
-        "Continents, the shape and depth of ocean basins and coastlines, and local weather change the height and timing of the tide, so predictions rely on local observations",
+        "Land, basin shape and weather shift the local tide",
         "The sun and moon have no real effect on the tide, which is mostly caused by wind"
       ],
       "correct_index": 2,
       "explanation": "The two-bulge picture is a simplification. Land blocks the bulges, and each coast and basin responds in its own way, so local observation is needed. The moon's position can be predicted very well. Tide tables are not hand-copied by law, and wind changes the actual tide but is not its main cause.",
-      "source_ids": ["noaa-tides-tutorial-cycles", "noaa-tides-tutorial-othereffects"],
+      "source_ids": [
+        "noaa-tides-tutorial-cycles",
+        "noaa-tides-tutorial-othereffects"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q08",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At a place with a regular semidiurnal tide, high water is at 1000. About when would you expect the following low water?",
       "options": [
@@ -134,24 +183,32 @@
       ],
       "correct_index": 1,
       "explanation": "High waters are about 12 hours 25 minutes apart, so high water to the next low water is about half that: a little over 6 hours, roughly 6 hours 12 minutes. 1000 plus 6 h 12 min is about 1612. Three hours is only half a fall, 2225 is about the next high water, and 50 minutes is the daily delay, not the time from high to low.",
-      "source_ids": ["noaa-tides-tutorial-lunarday"],
+      "source_ids": [
+        "noaa-tides-tutorial-lunarday"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.what-causes-tides.q09",
       "lesson_id": "tides.what-causes-tides",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which description of a tide is best?",
       "options": [
         "Waves breaking on a beach as the wind pushes them ashore",
-        "The regular rise and fall of the sea surface caused by the gravitational pull of the moon and sun",
+        "Regular rise and fall of the sea from moon and sun",
         "A current that always flows north along the coast",
         "A change in sea level caused only by rain and river outflow"
       ],
       "correct_index": 1,
       "explanation": "A tide is the regular rise and fall of the sea surface, caused by gravity between the Earth, the moon and the sun. Wind waves, a fixed-direction current and rain or river outflow are different things, although weather can change the actual water level a little from the prediction.",
-      "source_ids": ["noaa-tides-tutorial-intro"],
+      "source_ids": [
+        "noaa-tides-tutorial-intro"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

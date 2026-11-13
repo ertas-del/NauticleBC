@@ -189,7 +189,7 @@
         "Only the candidate's own signature",
         "A copy of the vessel's registration",
         "Nothing: the discharge book is enough",
-        "The required signatures and at least the information in Schedule 4 or 5"
+        "Signatures and Schedule 4 or 5 info"
       ],
       "correct_index": 3,
       "explanation": "Testimonials need the required signatures and at least the information set out in Schedule 4 or 5, and discharge books and certificates of discharge go with them. A self-signed note or a bare registration copy is not enough.",

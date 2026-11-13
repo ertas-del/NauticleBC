@@ -54,9 +54,9 @@
       "difficulty": "medium",
       "stem": "A bearing line is drawn from:",
       "options": [
-        "The compass rose",
+        "The nearest compass rose",
         "The centre of the chart",
-        "The boat in the same direction",
+        "The boat, in the same direction",
         "The mark, in the reciprocal direction"
       ],
       "correct_index": 3,
@@ -76,10 +76,10 @@
       "difficulty": "easy",
       "stem": "A cocked hat is:",
       "options": [
-        "A depth contour",
-        "A type of hat",
-        "A plotter",
-        "A small triangle formed by three bearings"
+        "A depth contour drawn around a shoal patch",
+        "A type of hat worn on watch",
+        "A plotting instrument",
+        "A small triangle from three bearings"
       ],
       "correct_index": 3,
       "explanation": "Its size shows the error.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "A position from two distances is found by:",
       "options": [
-        "Using the logbook",
-        "Drawing a straight line",
-        "Using the tide",
+        "Using the logbook entries",
+        "Drawing one straight line between them",
+        "Using the tide table",
         "Drawing arcs where they cross"
       ],
       "correct_index": 3,
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "A course between two positions is measured against:",
       "options": [
-        "The title",
-        "The tide table",
+        "The chart title block",
+        "The tide table for the area",
         "The nearest compass rose or meridian",
-        "The depth contours"
+        "The depth contours running along the route"
       ],
       "correct_index": 2,
       "explanation": "It gives a true direction.",
@@ -186,10 +186,10 @@
       "difficulty": "hard",
       "stem": "If three bearings form a large cocked hat you should:",
       "options": [
-        "Accept it as precise",
-        "Move the marks",
-        "Ignore it",
-        "Treat the fix as poor and assume the nearest danger"
+        "Accept it as a precise fix",
+        "Move the marks on the chart until it closes up",
+        "Ignore it and carry on",
+        "Treat it as poor; assume nearest danger"
       ],
       "correct_index": 3,
       "explanation": "Larger triangle means larger error.",

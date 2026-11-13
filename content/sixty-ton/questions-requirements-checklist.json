@@ -11,7 +11,7 @@
       "stem": "At what point must a Master, Limited candidate be at least 18 years old?",
       "options": [
         "On the day they apply",
-        "On the day they receive the certificate",
+        "On the day they receive it",
         "On the day they start sea service",
         "On the day they pass the oral"
       ],
@@ -59,7 +59,7 @@
         "Service on any vessel of 10 GT or more",
         "Service on vessels of any size so long as it is deck duty",
         "Service only on the exact vessel named on the certificate",
-        "Service on vessels of 30 GT or more on matching voyage types"
+        "30 GT or more, on matching voyages"
       ],
       "correct_index": 3,
       "explanation": "The service has to be on vessels of at least the same GT as the vessel in question, on voyages like the certificate's. Smaller vessels do not count, and it need not be the same vessel, only one at least as large.",
@@ -103,7 +103,7 @@
       "stem": "What triggers the requirement for a radio operator certificate under section 131?",
       "options": [
         "The vessel is over 15 GT",
-        "The vessel is equipped with a VHF radiotelephone installation",
+        "She has a VHF radiotelephone fitted",
         "The vessel carries passengers",
         "The vessel goes more than 5 nm offshore"
       ],
@@ -149,9 +149,9 @@
       "stem": "A candidate's MED course was completed 7 years before the application date. Which option meets the currency rule?",
       "options": [
         "Nothing: the course is valid for life",
-        "A first aid certificate",
+        "A first aid certificate in date",
         "3 months of service at any time in the last 5 years",
-        "12 months of deck service in the last 5 years, supported by a testimonial of competent participation in emergency drills"
+        "12 months' deck service in 5 years, plus drill testimonial"
       ],
       "correct_index": 3,
       "explanation": "A MED course should be within 5 years of the application. If it is older, accepted equivalents are a refresher in that period, 12 months of deck service in the last 5 years, or 3 months of deck service in the last 12 months, the service options being supported by a drills testimonial. 'Valid for life' applies after the certificate is issued and not to MED anyway.",
@@ -171,7 +171,7 @@
       "difficulty": "medium",
       "stem": "Which of these correctly describes the MED requirement for a passenger-carrying vessel?",
       "options": [
-        "There is a passenger route: for example MED small passenger vessel safety, or basic safety plus seasonal passenger courses",
+        "A passenger route, e.g. MED SPV safety",
         "MED basic safety alone is always enough",
         "No MED is needed if the vessel is under 15 GT",
         "A practical exam on the vessel's emergency equipment is always accepted instead"
@@ -217,7 +217,7 @@
       "difficulty": "easy",
       "stem": "Who counts as a 'qualified person' under the rules this lesson covers?",
       "options": [
-        "Anyone over 18",
+        "Anyone over 18 years of age",
         "Anyone with a first aid certificate",
         "A Canadian citizen or permanent resident",
         "Anyone who has passed NS1"
