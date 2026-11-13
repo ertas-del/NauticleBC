@@ -55,9 +55,9 @@
       "stem": "Righting moment equals:",
       "options": [
         "Displacement × GZ",
-        "Freeboard × draft",
-        "GM × KG",
-        "KM − KG"
+        "Freeboard × draught",
+        "GM × KG at the angle",
+        "KM − KG at the angle"
       ],
       "correct_index": 0,
       "explanation": "In tonne-metres.",
@@ -98,8 +98,8 @@
       "difficulty": "medium",
       "stem": "The GZ formula GM × sin θ is valid for:",
       "options": [
-        "Any angle",
-        "Only upright",
+        "Any angle of heel at all",
+        "Only when upright",
         "Small angles of heel",
         "Only above 45°"
       ],
@@ -164,10 +164,10 @@
       "difficulty": "hard",
       "stem": "In a sketch of a heeled vessel, the righting lever GZ is the:",
       "options": [
-        "Vertical distance from B to M",
-        "Vertical distance from keel to G",
-        "Depth of the keel",
-        "Horizontal distance between the lines of weight and buoyancy"
+        "Vertical distance from B up to M",
+        "Vertical distance from the keel up to G",
+        "Depth of the keel below the hull",
+        "Horizontal gap: weight to buoyancy line"
       ],
       "correct_index": 3,
       "explanation": "Z is the foot of the perpendicular from G.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "KM comes from:",
       "options": [
-        "The chart",
-        "The log",
-        "The stability booklet for the displacement",
-        "The tide table"
+        "The chart, from the soundings",
+        "The deck log for the trip",
+        "The stability booklet, for her displacement",
+        "The tide table for the port"
       ],
       "correct_index": 2,
       "explanation": "It depends on displacement.",

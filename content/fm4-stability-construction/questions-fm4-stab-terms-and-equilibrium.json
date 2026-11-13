@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Displacement is:",
       "options": [
-        "The volume of the hold",
-        "The weight of the vessel, equal to the weight of water displaced",
-        "The depth of the keel",
-        "The length of the vessel"
+        "The volume of the fish hold",
+        "Her weight, equal to the water displaced",
+        "The depth of the keel below the waterline",
+        "The overall length of the vessel"
       ],
       "correct_index": 1,
       "explanation": "Displacement = lightship + deadweight.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Lightship weight is:",
       "options": [
-        "The vessel fully loaded",
-        "The empty vessel with no fuel, stores, crew or catch",
-        "The weight of the catch",
-        "The weight of the fuel"
+        "The vessel fully loaded for sea",
+        "The empty vessel: no fuel, stores, crew, catch",
+        "The weight of the catch alone",
+        "The weight of the fuel aboard"
       ],
       "correct_index": 1,
       "explanation": "Deadweight is added to it.",
@@ -98,9 +98,9 @@
       "difficulty": "medium",
       "stem": "A vessel with a negative GM may take:",
       "options": [
-        "No heel",
+        "No heel at all",
         "An angle of loll",
-        "A trim",
+        "A trim by the head",
         "A list only"
       ],
       "correct_index": 1,
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "A list is caused by:",
       "options": [
-        "An uneven distribution of weight with positive GM",
-        "Negative GM",
+        "Uneven weight, with positive GM",
+        "Negative GM alone",
         "A fast turn only",
-        "Wind only"
+        "Wind on the beam only"
       ],
       "correct_index": 0,
       "explanation": "Loll is caused by negative GM.",
@@ -143,9 +143,9 @@
       "stem": "A short, quick roll indicates:",
       "options": [
         "A large GM (a stiff vessel)",
-        "No stability",
-        "A negative GM",
-        "A small GM"
+        "No stability left at all, so she rolls fast",
+        "A negative GM (loll)",
+        "A small GM (tender)"
       ],
       "correct_index": 0,
       "explanation": "A long slow roll indicates a small GM.",
@@ -164,10 +164,10 @@
       "difficulty": "medium",
       "stem": "The righting lever GZ is:",
       "options": [
-        "The horizontal distance between the lines of gravity and buoyancy when heeled",
-        "The draught",
-        "The freeboard",
-        "The depth of the hull"
+        "Horizontal gap between gravity and buoyancy lines",
+        "The draught at the marks",
+        "The freeboard amidships",
+        "The depth of the hull from the keel to the deck"
       ],
       "correct_index": 0,
       "explanation": "GZ = GM × sin θ for small angles.",
@@ -186,10 +186,10 @@
       "difficulty": "hard",
       "stem": "Downflooding means:",
       "options": [
-        "Water entering through openings that cannot be made weathertight",
-        "Pumping the bilge",
-        "Draining the deck",
-        "Making a turn"
+        "Water entering where it can't be shut out",
+        "Pumping the bilge overboard",
+        "Draining the deck through freeing ports",
+        "Making a turn with the bow down"
       ],
       "correct_index": 0,
       "explanation": "A limit on the range of stability.",

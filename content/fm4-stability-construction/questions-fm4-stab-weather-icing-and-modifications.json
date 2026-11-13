@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Water trapped on deck behind bulwarks should:",
       "options": [
-        "Be left",
-        "Be sealed in",
+        "Be left there",
+        "Be sealed in by covers",
         "Drain through freeing ports",
-        "Be used as ballast"
+        "Be used as extra ballast"
       ],
       "correct_index": 2,
       "explanation": "Keep freeing ports clear.",
@@ -54,10 +54,10 @@
       "difficulty": "easy",
       "stem": "Ice accretion reduces stability by:",
       "options": [
-        "Increasing freeboard",
-        "Warming the hull",
-        "Adding top weight and reducing freeboard",
-        "Lowering G"
+        "Increasing freeboard as it builds",
+        "Warming the hull plating",
+        "Adding top weight, cutting freeboard",
+        "Lowering G as it freezes"
       ],
       "correct_index": 2,
       "explanation": "A serious cause of capsize.",
@@ -77,9 +77,9 @@
       "stem": "Spray ice is most likely when:",
       "options": [
         "It is raining warm rain",
-        "It is sunny",
-        "It is warm and calm",
-        "The air is well below freezing and the wind is strong"
+        "It is sunny and dry",
+        "It is warm and calm at sea",
+        "Air well below freezing, strong wind"
       ],
       "correct_index": 3,
       "explanation": "Avoid such areas.",
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "Fitting a heavier gantry high on the vessel normally:",
       "options": [
-        "Improves stability",
+        "Improves stability by stiffening her",
         "Raises G and may reduce stability",
-        "Has no effect",
-        "Lowers G"
+        "Has no effect on her stability",
+        "Lowers G by adding steel weight"
       ],
       "correct_index": 1,
       "explanation": "Check stability before modifying.",
@@ -186,10 +186,10 @@
       "difficulty": "hard",
       "stem": "Synchronous rolling occurs when:",
       "options": [
-        "The tide turns",
-        "The anchor drags",
-        "The wave period matches the vessel's roll period",
-        "The engine stops"
+        "The tide turns against the wind",
+        "The anchor drags in a gale",
+        "Wave period matches her roll period",
+        "The engine stops in a seaway"
       ],
       "correct_index": 2,
       "explanation": "Rolls can build up.",

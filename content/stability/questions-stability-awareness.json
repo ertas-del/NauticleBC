@@ -13,8 +13,8 @@
       "stem": "When a stable vessel heels, why does she tend to come back upright?",
       "options": [
         "G moves toward the low side and pulls her back",
-        "The wind pushes her upright",
-        "B moves toward the low side, so the upward buoyancy and the downward weight form a turning pair that rolls her back",
+        "The wind on the sails pushes her upright",
+        "B moves to the low side, making a righting couple",
         "The keel is heavier than the rest of the hull"
       ],
       "correct_index": 2,
@@ -41,8 +41,8 @@
       "options": [
         "Lowering G with heavy gear stowed low",
         "Keeping a full tank of fuel in the double bottom",
-        "Closing the watertight doors",
-        "Raising G, for example with deck cargo stacked high or ice on the rigging"
+        "Closing the watertight doors at sea",
+        "Raising G, e.g. high deck cargo"
       ],
       "correct_index": 3,
       "explanation": "A higher G cuts GM and the righting lever, so the vessel leans further and returns more slowly. Stowing heavy things low helps.",
@@ -67,7 +67,7 @@
       "stem": "Why is a half-full tank of fuel or a pool of water on deck worse than the same weight bolted down?",
       "options": [
         "The liquid is lighter than a solid",
-        "The liquid runs to the low side as she leans, which acts like extra top weight and reduces stability",
+        "It runs to the low side, like top weight",
         "The liquid raises the waterline",
         "The liquid evaporates, so the weight keeps changing"
       ],
@@ -95,7 +95,7 @@
       "options": [
         "Nothing; a slow roll is more comfortable and safer",
         "Wait to see whether it improves by the end of the watch",
-        "Tell the officer or master straight away, because it can warn of low stability",
+        "Tell the master now: it may mean low stability",
         "Open the deck hatches to let water drain"
       ],
       "correct_index": 2,
@@ -120,7 +120,7 @@
       "difficulty": "easy",
       "stem": "At sea in rough weather, what should you do about doors, hatches and ports that open to the weather, and about freeing ports?",
       "options": [
-        "Keep the doors, hatches and ports shut, and keep the freeing ports and scuppers clear",
+        "Openings shut; freeing ports and scuppers clear",
         "Keep everything open to drain water",
         "Keep the doors shut and block the freeing ports so water cannot enter",
         "Shut the freeing ports with covers and leave the doors open for air"
@@ -204,7 +204,7 @@
         "To land at the nearest port whenever any ice forms",
         "To inform the owner by the end of the voyage that ice has formed",
         "To submit a stability calculation to the Minister each time ice forms",
-        "To give notice to vessels in the vicinity and the prescribed shore authorities when meeting severe ice accretion on the superstructure caused by subfreezing air with gale-force winds"
+        "Warn nearby vessels and shore of severe icing"
       ],
       "correct_index": 3,
       "explanation": "Section 112 is a duty to warn others and the authorities about severe ice accretion, in the same way as for other dangers. It is the master's duty, it is about severe ice with gale-force winds in subfreezing air, and it is done at the time, not after the voyage.",

@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "A quick-closing valve on a fuel tank is used to:",
       "options": [
-        "Heat the fuel",
-        "Sample fuel",
-        "Fill the tank",
-        "Shut off fuel in a fire, often from outside the machinery space"
+        "Heat the fuel before it reaches the injectors",
+        "Take a fuel sample for testing",
+        "Fill the tank quickly at the dock",
+        "Shut off fuel in a fire, from outside the space"
       ],
       "correct_index": 3,
       "explanation": "It stops fuel feeding the fire.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "A fire damper:",
       "options": [
-        "Closes ventilation to cut off air to a space",
-        "Opens the hatch",
-        "Pumps water",
-        "Cools the engine"
+        "Cuts off air to a space by closing a vent",
+        "Opens the hatch to let smoke out",
+        "Pumps sea water onto a fire automatically",
+        "Cools the engine when it overheats"
       ],
       "correct_index": 0,
       "explanation": "Part of fire protection.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Before a fixed gas extinguishing system is released:",
       "options": [
-        "Add oxygen",
-        "Open all hatches",
-        "People must leave and the space must be closed",
-        "Start the engine"
+        "Add oxygen to the space to help it work",
+        "Open all hatches to let the gas spread",
+        "Everyone out and the space closed",
+        "Start the engine to circulate the gas"
       ],
       "correct_index": 2,
       "explanation": "The gas is dangerous.",
@@ -76,9 +76,9 @@
       "difficulty": "easy",
       "stem": "Sacrificial anodes protect a metal hull by:",
       "options": [
-        "Painting it",
-        "Stretching it",
-        "Heating it",
+        "Painting it with a protective coating",
+        "Stretching the plating to seal it",
+        "Heating it to drive off moisture",
         "Corroding instead of the hull"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "Anodes should:",
       "options": [
-        "Be painted over",
-        "Be hidden",
+        "Be painted over with antifouling",
+        "Be hidden behind a cover plate",
         "Not be painted over",
-        "Be removed"
+        "Be removed before launching"
       ],
       "correct_index": 2,
       "explanation": "Painting stops them working.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "An annual self-inspection is done by:",
       "options": [
-        "The supplier",
+        "The equipment supplier",
         "Only Transport Canada",
         "The owner or master",
-        "A stranger"
+        "A marine surveyor's clerk"
       ],
       "correct_index": 2,
       "explanation": "One of the types of inspection.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "Normal maintenance should include:",
       "options": [
-        "Testing pumps, valves and alarms regularly",
-        "Ignoring alarms",
-        "Only painting",
-        "Only cleaning the galley"
+        "Regular tests of pumps, valves and alarms",
+        "Silencing any alarm that sounds too often",
+        "Only painting and cosmetic work",
+        "Only cleaning the galley and mess"
       ],
       "correct_index": 0,
       "explanation": "Keep records.",
@@ -186,9 +186,9 @@
       "difficulty": "medium",
       "stem": "Keeping dissimilar metals electrically isolated helps:",
       "options": [
-        "Lower fuel use",
-        "Increase speed",
-        "Improve stability",
+        "Lower fuel use at cruising speed",
+        "Increase speed through the water",
+        "Improve stability in a seaway",
         "Prevent galvanic corrosion"
       ],
       "correct_index": 3,

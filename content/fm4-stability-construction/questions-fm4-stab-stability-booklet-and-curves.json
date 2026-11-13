@@ -10,9 +10,9 @@
       "difficulty": "easy",
       "stem": "TPC stands for:",
       "options": [
-        "Tide per current",
-        "Tonnes per crew",
-        "Trim per cargo",
+        "Tide per current hour",
+        "Tonnes per crew member",
+        "Trim per cargo tonne",
         "Tonnes per centimetre immersion"
       ],
       "correct_index": 3,
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Maximum fish load is found by subtracting from load displacement:",
       "options": [
-        "Nothing",
-        "Lightship, fuel, water, crew and stores",
-        "Only fuel",
-        "Only the crew"
+        "Nothing; it is the full load",
+        "Lightship, fuel, water, crew, stores",
+        "Only the fuel on board",
+        "Only the crew, their gear and the stores"
       ],
       "correct_index": 1,
       "explanation": "Then check stability.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "The range of stability is:",
       "options": [
-        "The draft",
-        "The tide range",
-        "The length",
-        "From upright to the angle where GZ becomes zero"
+        "The range of draught readings on the marks",
+        "The tide range for the port",
+        "The length of the vessel",
+        "Upright to where GZ is zero again"
       ],
       "correct_index": 3,
       "explanation": "Also called the angle of vanishing stability.",
@@ -142,10 +142,10 @@
       "difficulty": "hard",
       "stem": "The area under the GZ curve represents:",
       "options": [
-        "The tide",
-        "The draft",
-        "The energy needed to heel the vessel",
-        "Fuel use"
+        "The tide over the day",
+        "The draught at each angle",
+        "The energy needed to heel her",
+        "Fuel use per hour"
       ],
       "correct_index": 2,
       "explanation": "Booklets set minimum areas.",
@@ -164,10 +164,10 @@
       "difficulty": "easy",
       "stem": "If your loading is not covered by a pre-calculated condition you should:",
       "options": [
-        "Sail and see",
-        "Recalculate or change the loading before sailing",
-        "Ignore the booklet",
-        "Add deck cargo"
+        "Sail anyway and see how she handles",
+        "Recalculate or change the load first",
+        "Ignore the booklet this once",
+        "Add deck cargo to bring her down to her marks"
       ],
       "correct_index": 1,
       "explanation": "Don't sail to find out.",

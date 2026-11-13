@@ -11,10 +11,10 @@
       "difficulty": "easy",
       "stem": "What is free surface in stability?",
       "options": [
-        "The distance between the waterline and the deck",
-        "The area of the waterplane",
-        "A liquid surface that can move freely as the vessel heels, such as in a part-full tank, a bilge, or water on deck",
-        "The top surface of the cargo"
+        "The distance between the waterline and the deck edge",
+        "The area of the waterplane at the load line",
+        "A liquid surface free to move as she heels",
+        "The top surface of the cargo in the hold"
       ],
       "correct_index": 2,
       "explanation": "Free surface is any liquid surface that is able to slosh to the low side when the vessel leans. It is not freeboard or waterplane area.",
@@ -36,10 +36,10 @@
       "difficulty": "medium",
       "stem": "A tank is half full of fuel. When the vessel heels, the fuel runs to the low side. How does that affect her stability?",
       "options": [
-        "It acts like a rise of G, reducing the effective GM, although the solid weights have not moved",
-        "It lowers G, which improves stability",
+        "It acts like a rise of G and cuts the effective GM",
+        "It lowers G, which improves her stability",
         "It has no effect, because the weight of the fuel is the same",
-        "It raises M, which improves stability"
+        "It raises M, which improves her stability"
       ],
       "correct_index": 0,
       "explanation": "The liquid's centre of gravity shifts to the low side as she heels, adding to the heeling and cutting the righting lever. The effect is the same as a rise of G, called the virtual rise of G.",
@@ -111,10 +111,10 @@
       "difficulty": "medium",
       "stem": "A tank's width athwartships is halved, and its length and the liquid are the same. What happens to the free surface effect?",
       "options": [
-        "It halves",
-        "It falls to one eighth, because the breadth is cubed",
+        "It halves, in step with the width",
+        "One eighth, as breadth is cubed",
         "It falls to one quarter",
-        "It is unchanged"
+        "It is unchanged, as length is the same"
       ],
       "correct_index": 1,
       "explanation": "The free surface moment is proportional to breadth cubed, so half the breadth gives one eighth (1/2 cubed). Halving the length would only halve the effect.",
@@ -137,7 +137,7 @@
       "stem": "Tank A is 3.0 m long and 1.0 m wide. Tank B holds the same liquid and is 1.5 m long and 2.0 m wide. Both are part full. Compared with tank A, what is the free surface effect of tank B?",
       "options": [
         "Half as large",
-        "The same",
+        "The same as tank A",
         "Eight times as large",
         "Four times as large"
       ],
@@ -161,9 +161,9 @@
       "difficulty": "medium",
       "stem": "Two longitudinal baffles divide a wide tank into three equal narrow pens. What is the effect on the free surface effect?",
       "options": [
-        "It is reduced to about one ninth of its original value, but not removed",
-        "It is removed completely",
-        "It is reduced to one third",
+        "Cut to about one ninth, not removed",
+        "It is removed completely by the baffles",
+        "It is reduced to one third of its value",
         "It is increased, because there are more surfaces"
       ],
       "correct_index": 0,
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "Which tank condition has no free surface effect?",
       "options": [
-        "A tank that is half full",
+        "A tank that is half full of fuel",
         "A tank that is 90 percent full",
-        "A tank that is completely full (pressed up) or completely empty",
-        "A tank that is nearly empty"
+        "One pressed full, or one empty",
+        "A tank that is nearly empty, with a little left"
       ],
       "correct_index": 2,
       "explanation": "With no air space, the liquid cannot shift; with no liquid there is nothing to shift. A tank that is nearly full or nearly empty still has a free surface and an effect, which depends on its breadth and little on the amount of liquid.",
@@ -213,8 +213,8 @@
       "options": [
         "Keep all tanks about half full so the weight is balanced",
         "Close the freeing ports to stop water leaving the vessel",
-        "Leave water on deck to add stability",
-        "Keep tanks full or empty, keep the deck and bilges clear of water, and keep freeing ports and scuppers open"
+        "Leave some water on deck to add stability low down",
+        "Tanks full or empty; deck dry; freeing ports open"
       ],
       "correct_index": 3,
       "explanation": "Half-full tanks have the worst free surface effect for their size. Freeing ports drain water that would otherwise form a wide, high free surface on deck. Water on deck never adds stability.",

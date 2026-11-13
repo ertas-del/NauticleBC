@@ -13,7 +13,7 @@
       "options": [
         "From one side across to the other",
         "From upright to the greatest heel on one side",
-        "From one side out and across to the other and back to the same side",
+        "One side, across, and back again",
         "Any single swing of the masthead"
       ],
       "correct_index": 2,
@@ -60,9 +60,9 @@
       "stem": "For the same vessel, what does a longer rolling period tell you?",
       "options": [
         "GM is larger, so she is stiffer",
-        "GM is smaller, so she is more tender and has less stability",
-        "KM has increased",
-        "She has a higher freeboard"
+        "Smaller GM: more tender, less stable",
+        "KM has increased since the last test",
+        "She has a higher freeboard than before"
       ],
       "correct_index": 1,
       "explanation": "A small GM returns the vessel slowly, so she hangs at the end of each roll and has a long period. A large GM gives a short period.",
@@ -133,7 +133,7 @@
       "options": [
         "Alongside the dock, tight on her lines, with a single roll timed",
         "In a heavy sea, because that is where it matters",
-        "In calm water, with the vessel free of lines that restrain her, in the loading condition being checked, timing several complete rolls",
+        "Calm water, lines free, as loaded, several rolls",
         "Only when the tanks are completely empty"
       ],
       "correct_index": 2,
@@ -155,10 +155,10 @@
       "difficulty": "medium",
       "stem": "A crew times 6 complete rolls (12 swings) in 48 seconds but counts each swing as a roll. What is the correct period, and what did the mistake give?",
       "options": [
-        "8.0 s is correct; counting swings gave 4.0 s, a false impression of high stability",
+        "8.0 s; the error gave 4.0 s, falsely stable",
         "4.0 s is correct; counting swings gave 8.0 s",
         "8.0 s is correct; counting swings gave 16 s",
-        "Both methods give 4.0 s"
+        "Both methods give 4.0 s, so no harm done"
       ],
       "correct_index": 0,
       "explanation": "Period = 48 / 6 = 8.0 s. Counting 12 swings as rolls gives 48 / 12 = 4.0 s, half the true value, which falsely suggests a stiff, stable vessel.",
@@ -182,7 +182,7 @@
         "Her GM is growing, so no action is needed",
         "The compass is out; check the course",
         "Her stability criteria have been met; stop checking",
-        "GM may be shrinking from burned fuel, ice, a slack tank or top weight; tell the master"
+        "GM may be falling; tell the master"
       ],
       "correct_index": 3,
       "explanation": "A lengthening period means smaller GM. Possible causes are low weight burned off, ice, free surface or added top weight. The master needs to know.",
@@ -204,7 +204,7 @@
       "stem": "A small vessel passes the rolling-period rule of thumb. Which is the correct statement?",
       "options": [
         "She is approved for all loading conditions",
-        "It is only a screening check; it does not replace the vessel's stability documents or tell you about the GZ curve, downflooding angle or range of stability",
+        "It is only a screen, not her stability documents",
         "Her GZ curve must meet all the IS Code criteria",
         "She no longer needs a stability notice"
       ],

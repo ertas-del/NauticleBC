@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "What is the righting lever GZ?",
       "options": [
-        "The horizontal distance between the line of the weight through G and the line of buoyancy through B",
+        "The horizontal gap between weight and buoyancy lines",
         "The vertical distance between G and the keel",
         "The distance from M to the waterline",
         "The height of the deck above the waterline"
@@ -112,7 +112,7 @@
       "stem": "What does the starting slope of a GZ curve (at small angles of heel) tell you?",
       "options": [
         "The angle of vanishing stability",
-        "The vessel's GM: a steep start means a large GM and a gentle start a small GM",
+        "Her GM: steeper start, larger GM",
         "The downflooding angle",
         "The displacement of the vessel"
       ],
@@ -137,7 +137,7 @@
       "stem": "On a GZ curve, what is the range of stability?",
       "options": [
         "The angle at which GZ is greatest",
-        "The span of angles from upright to the angle of vanishing stability, where GZ returns to zero",
+        "From upright to where GZ is zero again",
         "The angle at which the deck edge goes under",
         "The angle at which GZ equals GM"
       ],
@@ -186,9 +186,9 @@
       "difficulty": "medium",
       "stem": "What is dynamic stability?",
       "options": [
-        "The area under the GZ curve, a measure of the energy needed to heel the vessel to a given angle",
+        "Area under the GZ curve: energy to heel her",
         "The stability of a vessel while under way, compared with at rest",
-        "The maximum value of GZ",
+        "The maximum value of GZ on the curve",
         "The value of GM when the vessel is rolling"
       ],
       "correct_index": 0,
@@ -213,7 +213,7 @@
       "options": [
         "Nothing; the curve is unaffected by openings",
         "The curve is improved because water adds weight low down",
-        "The curve should not be counted beyond about 24 degrees, because that is the downflooding angle",
+        "Don't count it past 24 deg: downflooding",
         "Only the range beyond 70 degrees is lost"
       ],
       "correct_index": 2,
@@ -262,8 +262,8 @@
       "stem": "How does losing freeboard (by loading deeper) affect the GZ curve?",
       "options": [
         "It lengthens the curve because the vessel is heavier",
-        "The deck edge goes under at a smaller angle, which shortens the useful part of the curve",
-        "It has no effect on the curve",
+        "Deck edge goes under sooner; curve shortens",
+        "It has no effect on the curve at all",
         "It raises the metacentre, so the whole curve rises"
       ],
       "correct_index": 1,

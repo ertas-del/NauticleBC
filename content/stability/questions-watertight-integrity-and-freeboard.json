@@ -11,9 +11,9 @@
       "difficulty": "medium",
       "stem": "Which statement best separates watertight from weathertight?",
       "options": [
-        "They mean the same thing",
+        "They mean exactly the same thing",
         "Watertight is for openings on deck; weathertight is for bulkheads",
-        "Watertight prevents water passing in either direction under a head of water; weathertight keeps water out in any sea condition but need not withstand sustained pressure",
+        "Watertight resists a head of water; weathertight only keeps seas out",
         "Weathertight is stronger than watertight"
       ],
       "correct_index": 2,
@@ -36,7 +36,7 @@
       "difficulty": "easy",
       "stem": "What is downflooding?",
       "options": [
-        "The entry of sea water through an opening into the hull or superstructure of an undamaged vessel",
+        "Sea water entering an intact hull through an opening",
         "Water entering through a hole in the hull after a collision",
         "Water running off the deck through the freeing ports",
         "The settling of the vessel at the stern"
@@ -63,7 +63,7 @@
       "options": [
         "The angle at which the deck edge goes under water, whatever the openings",
         "The angle at which GZ is greatest",
-        "The angle of heel at which the first opening that cannot be closed weathertight goes under water",
+        "Heel at which the first unclosable opening submerges",
         "The angle of list when the bilges are flooded"
       ],
       "correct_index": 2,
@@ -88,8 +88,8 @@
       "options": [
         "About 11.3 degrees",
         "About 5.7 degrees",
-        "About 45 degrees",
-        "About 84 degrees"
+        "About 45.0 degrees",
+        "About 84.3 degrees"
       ],
       "correct_index": 0,
       "explanation": "tan(angle) = freeboard / half the beam = 0.50 / 2.5 = 0.2, so the angle is 11.3 degrees. Using the full beam gives 5.7 degrees. 45 would need freeboard equal to half the beam.",
@@ -162,7 +162,7 @@
       "stem": "Under the Canada Shipping Act, 2001, who must ensure the applicable load lines are not submerged, and what is the maximum fine?",
       "options": [
         "The owner only; a fine of up to $5,000 in total",
-        "The master; a fine of up to $500,000 for each centimetre or part of a centimetre submerged, or imprisonment up to 18 months, or both",
+        "The master; $500,000 per cm submerged, or jail, or both",
         "The harbour authority; imprisonment up to 5 years",
         "Every crew member; a fine of $500 for each tonne overloaded"
       ],
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "Under the Small Vessel Regulations, what must the owner of a vessel other than a pleasure craft do when making a change that affects watertight integrity or stability?",
       "options": [
-        "Nothing, as long as the master approves",
+        "Nothing, as long as the master approves it",
         "Inform the harbour authority only",
         "Wait one year and then report the change",
-        "Inform the Minister, because it is a major modification"
+        "Inform the Minister: a major modification"
       ],
       "correct_index": 3,
       "explanation": "Section 710 requires the owner to inform the Minister of a major modification, which includes a change affecting watertight integrity or stability. Section 714 requires the design to maintain watertight integrity and prevent downflooding.",
@@ -211,7 +211,7 @@
       "difficulty": "medium",
       "stem": "At sea in a seaway, which practice best protects watertight integrity?",
       "options": [
-        "Keep exterior doors, hatches, ports and vents closed and dogged, and keep freeing ports and scuppers clear",
+        "Openings closed and dogged; freeing ports clear",
         "Hook open the engine-room door for ventilation and watch the sea state",
         "Block the freeing ports so water cannot come in through them",
         "Open the hatches to let any water drain down"

@@ -63,7 +63,7 @@
       "options": [
         "9.5 t: the hull, engine and fixed gear",
         "45.5 t: lightship and displacement together",
-        "9.5 t: fuel, water, stores, crew and cargo aboard",
+        "9.5 t: fuel, water, stores, crew, cargo",
         "27.5 t: it is the same as displacement"
       ],
       "correct_index": 2,
@@ -112,7 +112,7 @@
       "stem": "What is reserve buoyancy?",
       "options": [
         "The extra fuel and water a vessel carries in tanks as a reserve",
-        "The volume of the hull above the waterline that is watertight or weathertight, which can supply extra buoyancy if the vessel is pushed down",
+        "Watertight hull volume above the waterline",
         "The weight of water the vessel displaces when she is fully loaded",
         "The buoyancy of the underwater part of the hull when she is upright"
       ],
@@ -161,7 +161,7 @@
       "difficulty": "medium",
       "stem": "A loaded vessel in the sea motors up a freshwater river with nothing added or removed. What happens to her draught, and why?",
       "options": [
-        "She floats deeper, because fresh water is less dense and she must displace more volume to get the same weight of water",
+        "Deeper: fresh water is less dense, so more volume",
         "She floats higher, because fresh water is less dense and so buoys her up more",
         "Nothing changes, because her weight has not changed",
         "She floats deeper, because fresh water is denser and pulls her down"
@@ -211,7 +211,7 @@
       "difficulty": "medium",
       "stem": "Which statement correctly separates list, loll and trim?",
       "options": [
-        "List is a sideways lean from G being off the centreline, loll is a sideways lean from negative GM, and trim is the difference between forward and aft draught",
+        "List: G off centre; loll: negative GM; trim: fore-aft draught difference",
         "List is a lean from wind, loll is a lean from negative GM, and trim is the difference between freeboard and draught",
         "List and loll are the same thing; trim is a sideways lean",
         "Trim is a sideways lean, list is a lean forward, and loll is a lean aft"
