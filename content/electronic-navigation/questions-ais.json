@@ -73,9 +73,9 @@
       "difficulty": "medium",
       "stem": "Which vessels must have a means of displaying graphically the relative ranges and bearings received by the AIS?",
       "options": [
-        "Only vessels of 300 GT or more",
+        "Only vessels of 300 GT or more on any voyage",
         "The vessels required to have Class A under s. 118(1)",
-        "Only passenger vessels",
+        "Only passenger vessels carrying 12 or more passengers",
         "Only vessels on international voyages"
       ],
       "correct_index": 1,
@@ -94,10 +94,10 @@
       "difficulty": "medium",
       "stem": "A Class A AIS and a gyro-compass are both fitted. What does s. 118(4) require?",
       "options": [
-        "They must be connected so that heading information is transmitted to the AIS",
-        "The gyro must be switched off while AIS is on",
-        "The AIS must be disconnected from GNSS",
-        "Nothing, because heading is optional"
+        "They must be connected so heading is sent to the AIS",
+        "The gyro must be switched off while the AIS is transmitting",
+        "The AIS must be disconnected from the GNSS input",
+        "Nothing, because heading is optional on Class A"
       ],
       "correct_index": 0,
       "explanation": "If an AIS Class A is fitted and the vessel also has a transmitting heading device or gyro-compass, they must be connected for transmitting heading to the AIS.",
@@ -115,10 +115,10 @@
       "difficulty": "easy",
       "stem": "How long before departure must a vessel's required AIS be in operation?",
       "options": [
-        "Only once clear of the dock",
-        "At least 5 minutes",
-        "At least 2 hours",
-        "At least 30 minutes immediately before departure, and for the entire voyage"
+        "Only once the vessel is clear of the dock",
+        "At least 5 minutes before departure, and while under way",
+        "At least 2 hours before, and until berthed",
+        "At least 30 minutes before, and for the whole voyage"
       ],
       "correct_index": 3,
       "explanation": "Section 118(5) requires the AIS to be in operation for at least 30 minutes immediately before departure and for the entire duration of the voyage, subject to the exceptions in s. 118(6).",
@@ -139,7 +139,7 @@
         "Weather, tide and current data",
         "Radar, sonar and depth data",
         "Static, dynamic and voyage data",
-        "Crew, cargo and insurance data"
+        "Crew, cargo and insurance details"
       ],
       "correct_index": 2,
       "explanation": "Static data is identity and dimensions, dynamic data is position, time, course over ground and speed, and voyage data is items like destination and ETA (Class A).",
@@ -181,9 +181,9 @@
       "difficulty": "medium",
       "stem": "Which statement compares Class A and Class B AIS correctly?",
       "options": [
-        "Class A transmits at higher power (about 12.5 W) and reports faster than Class B (about 2 W, roughly every 30 seconds)",
-        "Class B transmits at higher power than Class A",
-        "Both report at the same rate",
+        "Class A sends at higher power and reports faster than Class B",
+        "Class B sends at higher power and reports faster than Class A",
+        "Both classes report at the same rate and power",
         "Class B is the only class that sends voyage data"
       ],
       "correct_index": 0,
@@ -203,10 +203,10 @@
       "difficulty": "medium",
       "stem": "A mate sees no AIS target in the direction of a fog signal and decides nothing is there. What is wrong with this?",
       "options": [
-        "Nothing, because AIS shows every vessel",
-        "AIS cannot be used in fog",
+        "Nothing, because AIS shows every vessel at sea",
+        "AIS cannot be used in fog, so it is blank",
         "Only Class B vessels are invisible on AIS",
-        "Not every vessel carries AIS or has it switched on, and AIS supports but never replaces radar and the look-out"
+        "Not every vessel has AIS on; it never replaces radar and look-out"
       ],
       "correct_index": 3,
       "explanation": "AIS shows only vessels that carry it, have it on and send correct data. Rule 5 still requires a proper look-out by all available means.",
@@ -226,10 +226,10 @@
       "difficulty": "hard",
       "stem": "A 22 m pleasure craft, privately owned, no passengers for hire, on a near coastal voyage. What does NSR s. 118 require?",
       "options": [
-        "AIS Class A because it is over 20 m",
-        "AIS Class B because it is over 8 m",
-        "Nothing under s. 118(1)(a), because the 20 m rule excludes pleasure craft",
-        "AIS only if it carries more than 12 passengers"
+        "AIS Class A, because it is over 20 m",
+        "AIS Class B, because it is over 8 m",
+        "Nothing under s. 118(1)(a), which excludes pleasure craft",
+        "AIS only if it carries more than 12 passengers at a time"
       ],
       "correct_index": 2,
       "explanation": "Section 118(1)(a) covers vessels of 20 m or more other than pleasure crafts. Unless another paragraph applies (such as IMDG goods or bulk pollutants), a pleasure craft is outside s. 118.",

@@ -11,9 +11,9 @@
       "stem": "A navigation plotter shows the boat symbol on land but the radar and depth are normal. Which input should you suspect first?",
       "options": [
         "The GNSS position source or the chart datum",
-        "The echo sounder",
-        "The VHF",
-        "The autopilot"
+        "The echo sounder transducer",
+        "The VHF antenna cable",
+        "The autopilot heading input"
       ],
       "correct_index": 0,
       "explanation": "The boat symbol comes from the position source plotted on a chart. If radar and depth agree with each other and not with the plotter, suspect GNSS or the chart datum.",
@@ -121,8 +121,8 @@
       "options": [
         "The whole system shuts down in a controlled way",
         "A report to Transport Canada within 24 hours",
-        "The standby system takes over only after the master approves",
-        "Audible and visual alarms to the person in charge of the deck watch, without causing the failure of any other subsystem"
+        "The standby system takes over only after the master has approved it",
+        "Audible and visual alarms to the watch, with no knock-on failures"
       ],
       "correct_index": 3,
       "explanation": "Section 130 requires failure of any subsystem to be brought to the immediate attention of the person in charge of the deck watch by audible and visual alarms, and not to cause failure of another subsystem.",
@@ -141,9 +141,9 @@
       "stem": "One part of an integrated navigation system has failed. What does s. 131 say must still be possible?",
       "options": [
         "Operating the system only in manual mode",
-        "Using only the radar",
-        "Operating every other individual piece of equipment or part of the system separately",
-        "Nothing, as long as the failure is logged"
+        "Using only the radar and the compass",
+        "Operating every other piece of equipment separately",
+        "Nothing more, as long as the failure is logged at once"
       ],
       "correct_index": 2,
       "explanation": "Section 131 says that in the case of a failure in one part of an integrated navigation system, it must be possible to operate every other individual piece of equipment or part of the system separately.",
@@ -182,8 +182,8 @@
       "difficulty": "medium",
       "stem": "When a heading or track control system is used in a hazardous navigational situation, what must the person in charge of the deck watch ensure?",
       "options": [
-        "That a qualified helmsman is available at all times to take over steering",
-        "That the autopilot has been reset to zero",
+        "That a qualified helmsman is available at all times",
+        "That the autopilot has been reset to zero rudder first",
         "That the master is on the bridge wing",
         "That the autopilot is switched off"
       ],
@@ -203,10 +203,10 @@
       "difficulty": "easy",
       "stem": "How often must manual steering be tested while the heading or track control system is not in use?",
       "options": [
-        "Only at the start of the voyage",
-        "Once a week",
-        "Once a month",
-        "Before entering any area where navigation demands special caution, and at least once a day"
+        "Only at the start of each voyage",
+        "Once a week, on a set day",
+        "Once a month, during drills",
+        "Before areas needing special caution, and at least daily"
       ],
       "correct_index": 3,
       "explanation": "Section 133(4) requires manual steering to be tested before entering any area where navigation demands special caution, and at least once a day, so it is in effective operating condition.",

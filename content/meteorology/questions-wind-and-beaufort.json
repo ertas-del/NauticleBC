@@ -12,9 +12,9 @@
       "stem": "A wind of 30 knots is which Beaufort force?",
       "options": [
         "Force 7 (near gale)",
-        "Force 6",
-        "Force 8",
-        "Force 5"
+        "Force 6 (strong breeze)",
+        "Force 8 (gale)",
+        "Force 5 (fresh breeze)"
       ],
       "correct_index": 0,
       "explanation": "Force 7 is 28 to 33 knots. Force 6 is 22 to 27 and force 8 is 34 to 40.",
@@ -35,7 +35,7 @@
       "stem": "Which force and name correspond to 11 to 16 knots?",
       "options": [
         "Force 3, gentle breeze",
-        "Force 5, fresh breeze",
+        "Force 5, fresh breeze (17 to 21 knots)",
         "Force 6, strong breeze",
         "Force 4, moderate breeze"
       ],
@@ -57,10 +57,10 @@
       "difficulty": "medium",
       "stem": "A 52-knot wind is which force?",
       "options": [
-        "Force 9",
-        "Force 11",
+        "Force 9 (strong gale)",
+        "Force 11 (violent storm)",
         "Force 10 (storm)",
-        "Force 12"
+        "Force 12 (hurricane)"
       ],
       "correct_index": 2,
       "explanation": "Force 10 is 48 to 55 knots. Force 11 starts at 56 and force 12 at 64.",
@@ -129,7 +129,7 @@
         "the wind blows toward the northwest",
         "from the northwest, relative to magnetic north",
         "northwest of the vessel's heading",
-        "the wind blows from the northwest, relative to true north"
+        "from the northwest, relative to true north"
       ],
       "correct_index": 3,
       "explanation": "ECCC states direction is where the wind blows from, relative to true north.",
@@ -151,9 +151,9 @@
       "stem": "When does a marine forecast state gusts?",
       "options": [
         "Whenever the wind exceeds force 6",
-        "Only in gale warnings",
-        "When the mean wind is expected to rise by 10 knots or more for short periods",
-        "Never, they are left out"
+        "Only in gale and storm warnings",
+        "When short rises of 10 knots or more over the mean are expected",
+        "Never; gusts are always left out"
       ],
       "correct_index": 2,
       "explanation": "The guide states gusts for 10 knots or more above the mean, and warning categories use the mean wind only.",
@@ -198,9 +198,9 @@
       "stem": "Approximately what wave height does the UBC table give for force 8?",
       "options": [
         "About 18 to 25 ft (5.5 to 7.6 m)",
-        "About 1 to 4 ft",
-        "About 8 to 13 ft",
-        "About 29 to 41 ft"
+        "About 1 to 4 ft (0.3 to 1.2 m)",
+        "About 8 to 13 ft (2.4 to 4 m)",
+        "About 29 to 41 ft (8.8 to 12.5 m)"
       ],
       "correct_index": 0,
       "explanation": "Force 6 is 8 to 13 ft, force 8 is 18 to 25 ft and force 10 is 29 to 41 ft.",
@@ -222,9 +222,9 @@
       "stem": "What is significant wave height?",
       "options": [
         "The height of the single largest wave",
-        "The average of all waves",
+        "The average of all the waves",
         "The height of the swell only",
-        "The average of the highest one-third of the waves, in metres; the maximum may be up to twice that"
+        "The mean of the highest third of waves, in metres"
       ],
       "correct_index": 3,
       "explanation": "ECCC defines it this way; largest waves may reach about twice the value.",
@@ -245,10 +245,10 @@
       "difficulty": "hard",
       "stem": "Under CSA 2001 s. 112 a master meets force 10 wind with no storm warning received. The master must:",
       "options": [
-        "do nothing",
-        "return to port only",
-        "give notice to nearby vessels and the prescribed authorities ashore",
-        "log it at the end of the voyage only"
+        "do nothing, as there is no warning",
+        "return to port and say nothing",
+        "notify nearby vessels and the authorities ashore",
+        "log it at the end of the voyage only, as a note"
       ],
       "correct_index": 2,
       "explanation": "Section 112 covers winds of force 10 or more for which no storm warning has been received.",

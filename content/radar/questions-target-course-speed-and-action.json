@@ -94,7 +94,7 @@
       "difficulty": "medium",
       "stem": "Under Rule 19(d), what must a vessel that detects another by radar alone do?",
       "options": [
-        "Determine whether a close-quarters situation is developing or risk of collision exists, and if so take avoiding action in ample time",
+        "Judge whether risk or close quarters is developing, and act in ample time",
         "Sound five short blasts and wait for a reply",
         "Hold course and speed until the other vessel is in sight",
         "Stop and wait for the other vessel to give way"
@@ -138,10 +138,10 @@
       "difficulty": "medium",
       "stem": "A mate proposes a series of 5° course changes to avoid a ship detected by radar. What does Rule 8(b) say?",
       "options": [
-        "Several small alterations are preferred because they are easier to steer",
-        "Alterations should never exceed 10°",
-        "An alteration should be large enough to be readily apparent to another vessel observing visually or by radar, and a succession of small alterations should be avoided",
-        "The alteration must be exactly 90°"
+        "Several small alterations are preferred, as they are easier to steer",
+        "Alterations should never exceed 10° in restricted visibility",
+        "Make one large alteration that is readily apparent, not many small ones",
+        "The alteration must be exactly 90° to be seen on radar"
       ],
       "correct_index": 2,
       "explanation": "Rule 8(b) asks for a large, readily apparent alteration and warns against a succession of small ones, which another vessel cannot detect on radar.",
@@ -160,9 +160,9 @@
       "difficulty": "medium",
       "stem": "Under Rule 19(e), a vessel cannot avoid a close-quarters situation with a vessel forward of her beam. What must she do?",
       "options": [
-        "Increase speed to clear the area",
-        "Reduce speed to the minimum at which she can be kept on her course, take all way off if necessary, and navigate with extreme caution until danger of collision is over",
-        "Alter course to port to pass astern",
+        "Increase speed to clear the area quickly",
+        "Reduce to bare steerage way, stop if needed, and go with extreme caution",
+        "Alter course to port to pass astern of her",
         "Stop only after the other vessel sounds a signal"
       ],
       "correct_index": 1,
@@ -204,10 +204,10 @@
       "difficulty": "hard",
       "stem": "A radar-only target is forward of your beam on the starboard bow. The plot shows CPA 0.8 nm. Using the worked example's figures, which choice best opens the CPA while following Rule 19(d)?",
       "options": [
-        "An alteration of about 40° to port, which leaves the CPA about 0.8 nm",
-        "A 5° alteration to starboard, which cannot be seen by the target",
+        "About 40° to port, which leaves the CPA about 0.8 nm",
+        "A 5° alteration to starboard, which the target cannot detect on radar",
         "No action, because 0.8 nm is a safe passing distance in fog",
-        "A bold alteration of about 40° to starboard, which opens the CPA to about 2.4 nm"
+        "A bold 40° alteration to starboard, opening the CPA to about 2.4 nm"
       ],
       "correct_index": 3,
       "explanation": "In the worked example a 40° starboard turn opens the CPA to about 2.4 nm, while a 40° port turn leaves it at about 0.8 nm and is the kind of move Rule 19(d)(i) warns against. A small turn is not readily apparent (Rule 8(b)). Whether 0.8 nm is acceptable is the master's judgement, and in fog it is usually too close.",
@@ -229,7 +229,7 @@
         "It is on a collision course",
         "It is moving at twice your speed",
         "It is stationary, such as a buoy or a moored boat",
-        "It is a false echo"
+        "It is a false echo from own ship"
       ],
       "correct_index": 2,
       "explanation": "T is where a stationary object would have moved to because of your own motion. If T and M coincide, the target has no motion of its own.",

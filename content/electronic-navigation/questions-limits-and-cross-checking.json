@@ -32,8 +32,8 @@
       "difficulty": "medium",
       "stem": "Required navigation equipment stops working. What does NSR s. 5(3) say the master must do?",
       "options": [
-        "Log it and continue without it for the rest of the year",
-        "Replace it within seven days",
+        "Log it and continue without it for the rest of the season, as normal",
+        "Replace it within seven days of the failure",
         "Report to Transport Canada before sailing again",
         "Restore it to effective operating condition as soon as possible"
       ],
@@ -54,9 +54,9 @@
       "stem": "Required equipment fails in a port with no repair facilities. What does s. 5(4) require of the master?",
       "options": [
         "Wait in port for the equipment to be delivered",
-        "Sail on the original schedule and ignore the defect",
-        "Plan and execute a safe voyage to a port where repair facilities are readily available, taking the defect into account",
-        "Ask the crew to repair it at sea"
+        "Sail on the original schedule and ignore the defect until the refit",
+        "Plan a safe voyage to a port with repairs, allowing for it",
+        "Ask the crew to repair it at sea once under way"
       ],
       "correct_index": 2,
       "explanation": "Section 5(4) requires the master to plan and execute a safe voyage to a port with repair facilities, accounting for the fact that the equipment is not in effective operating condition.",
@@ -95,9 +95,9 @@
       "difficulty": "medium",
       "stem": "Which statement best matches what the ECDIS chapter of a standard navigation text says about electronic chart monitoring?",
       "options": [
-        "Route and position monitoring enhances situational awareness but does not replace it, and a prudent navigator does not rely on any single aid",
+        "Monitoring aids awareness but does not replace it; use no single aid alone",
         "Monitoring replaces the need for a look-out when alarms are set",
-        "Alarms make human monitoring unnecessary",
+        "Alarms make human monitoring unnecessary on modern ships",
         "Monitoring is only useful on ships over 3 000 GT"
       ],
       "correct_index": 0,
@@ -118,9 +118,9 @@
       "stem": "A GNSS receiver is being spoofed. The plotter shows no alarm. How might you notice?",
       "options": [
         "The VHF starts to produce static",
-        "The compass heading changes by 180°",
-        "The boat symbol turns red",
-        "A mismatch between the plotter position and radar ranges, visual bearings or depth"
+        "The compass heading jumps by 180°",
+        "The boat symbol on the plotter turns red",
+        "The plotter disagrees with radar, bearings or depth"
       ],
       "correct_index": 3,
       "explanation": "Spoofing can offset the position slowly without an alarm. The Nautical Institute points to mismatches between the ECDIS position and radar overlay or visual bearings as a warning.",
@@ -139,9 +139,9 @@
       "difficulty": "medium",
       "stem": "In a published bulk-carrier grounding, which of these was found?",
       "options": [
-        "A safety contour of 100 m",
+        "A safety contour set to 100 m",
         "A gyro-compass error of 30°",
-        "A safety contour shallower than the ship's draught and a disconnected audible grounding alarm",
+        "A shallow safety contour and a disconnected grounding alarm",
         "A radar that had been tuned to 3 GHz"
       ],
       "correct_index": 2,
@@ -184,9 +184,9 @@
       "stem": "Required charts and publications must be corrected from which sources before a voyage is planned and carried out?",
       "options": [
         "Notices to Mariners and navigational warnings",
-        "The ship's own log book",
-        "The manufacturer's updates for the plotter",
-        "Weather forecasts"
+        "The ship's own log book and track history",
+        "The manufacturer's software updates for the plotter",
+        "The marine weather forecasts and warnings"
       ],
       "correct_index": 0,
       "explanation": "Section 146(1) requires charts, documents and publications required under the Division to be correct and up to date from Notices to Mariners or a navigational warning before being used to plan and execute a voyage.",
@@ -205,9 +205,9 @@
       "stem": "What does NSR s. 144(3) require of the master during the voyage?",
       "options": [
         "Record the position in the log every hour only",
-        "Keep the radar on the 6 nm range",
-        "Send a position report to the Coast Guard every watch",
-        "Display the vessel's route on a chart referred to in s. 142(1)(a) and plot and monitor the position throughout the voyage on it"
+        "Keep the radar on the 6 nm range at all times",
+        "Send a position report to the Coast Guard at every change of watch",
+        "Show the route on a required chart and plot the position on it"
       ],
       "correct_index": 3,
       "explanation": "Section 144(3) requires the route to be displayed, and the position plotted and monitored, throughout the voyage, on a chart referred to in s. 142(1)(a). How this meets the under-100 GT exception in s. 142(3) is flagged for expert review.",
@@ -226,8 +226,8 @@
       "stem": "The plotter says 0.8 nm off a headland. The radar says 0.52 nm, and the echo sounder reads 14 m where the chart shows 31 m at the plotter position. What is the best response?",
       "options": [
         "Believe the plotter, because two instruments can be wrong together",
-        "Average the three and carry on",
-        "Suspect the plotter position, move away from the shore, tell the master and look for the cause",
+        "Average the three readings and carry on",
+        "Suspect the plotter, move away from shore, and tell the master",
         "Switch off the radar and sounder to avoid confusion"
       ],
       "correct_index": 2,
