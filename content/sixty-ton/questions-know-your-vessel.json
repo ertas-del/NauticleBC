@@ -13,7 +13,7 @@
         "Because the regulations require every exam to be held afloat",
         "Because the oral cannot be held in an office",
         "Because it replaces the sea service requirement",
-        "The certificate is valid for a specified vessel type, tonnage, area and period, so the examiner looks at the vessel you will run"
+        "The certificate is tied to your vessel and area"
       ],
       "correct_index": 3,
       "explanation": "The certificate is tied to type, tonnage, area and period, so the examiner wants to see you know the vessel you will actually command. There is no rule that every exam is afloat, and the oral does not replace sea service.",
@@ -36,7 +36,7 @@
       "difficulty": "easy",
       "stem": "Which systems are examiners reported to ask about?",
       "options": [
-        "The vessel's own electrical, plumbing and propulsion systems",
+        "Her own electrical, plumbing and propulsion",
         "Only the navigation lights",
         "Only the radar",
         "The shipyard's engineering drawings"
@@ -89,9 +89,9 @@
       "stem": "A 12 GT vessel is to carry 14 passengers. Which regime applies?",
       "options": [
         "Small Vessel Regulations Part 4",
-        "Neither, because 12 GT is too small",
-        "Vessel Safety Certificates Regulations, Division 2",
-        "Pleasure craft rules"
+        "Neither, because 12 GT is too small to regulate",
+        "VSCR, Division 2",
+        "Pleasure craft rules, as for any small boat"
       ],
       "correct_index": 2,
       "explanation": "A vessel of 15 GT or less carrying more than 12 passengers falls under Division 2 of the VSCR. SVR Part 4 covers passenger vessels of 15 GT or less with not more than 12 passengers.",
@@ -116,8 +116,8 @@
       "options": [
         "Small Vessel Regulations, because it has fewer than 12 passengers",
         "Small Vessel Regulations, because it is under 60 GT",
-        "No regime applies",
-        "Vessel Safety Certificates Regulations, Division 2, because it is over 15 GT"
+        "No regime applies at that size",
+        "VSCR Division 2, as it is over 15 GT"
       ],
       "correct_index": 3,
       "explanation": "Division 2 of the VSCR applies to vessels of more than 15 GT regardless of passenger numbers. Passenger numbers alone do not move a vessel over 15 GT back into the SVR.",
@@ -141,8 +141,8 @@
       "stem": "Who on a small vessel's deck watch must hold a radio operator certificate if the vessel has a VHF radiotelephone?",
       "options": [
         "The person in charge of the deck watch",
-        "Only the owner",
-        "Only the engineer",
+        "Only the owner of the vessel, ashore",
+        "Only the engineer, who maintains the set",
         "No one, if the vessel is under 60 GT"
       ],
       "correct_index": 0,
@@ -167,8 +167,8 @@
       "stem": "A vessel of 8 GT is making a 3 nm run inside a harbour in good visibility with an unobstructed all-round view from the helm. Which statement best fits the rules for the deck watch?",
       "options": [
         "An additional person is always required",
-        "An additional person is normally required at 5 GT or more, but this kind of short harbour voyage is one of the listed exceptions",
-        "No deck watch is required",
+        "Normally needed from 5 GT, but this is an exception",
+        "No deck watch is required at all",
         "Two additional persons are required"
       ],
       "correct_index": 1,
@@ -192,9 +192,9 @@
       "difficulty": "medium",
       "stem": "How does a Master, Limited holder normally count towards the deck watch on a vessel of 800 GT or less?",
       "options": [
-        "The master is never counted",
+        "The master is never counted in the watch",
         "The master is counted only when anchored",
-        "The master can be counted as part of the deck watch",
+        "The master can be counted in the watch",
         "The master is counted only on tugs"
       ],
       "correct_index": 2,
@@ -221,7 +221,7 @@
         "It covers any vessel under 60 GT",
         "It covers any vessel in the area on the certificate",
         "It covers any vessel of the same length",
-        "It names a vessel type, tonnage, area and period, so it does not automatically cover other vessels"
+        "It is tied to type, size, area and period"
       ],
       "correct_index": 3,
       "explanation": "The limits written on the certificate decide what you may command. A different type, tonnage, area or season is outside it until the certificate is changed.",

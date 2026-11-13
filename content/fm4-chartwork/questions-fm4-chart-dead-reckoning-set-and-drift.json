@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "A DR position is plotted from:",
       "options": [
-        "The barometer",
-        "The last fix using the true course steered, speed and time",
-        "The radar",
-        "The tide table"
+        "The barometer readings",
+        "Last fix, course steered, speed, time",
+        "The radar picture",
+        "The tide table for the nearest reference port"
       ],
       "correct_index": 1,
       "explanation": "Keep the plot going.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Set is:",
       "options": [
-        "The direction it comes from",
-        "Its speed",
+        "The direction the current is coming from",
+        "The current's speed in knots",
         "The direction the current flows toward",
-        "The wind's push"
+        "The wind's push on the hull"
       ],
       "correct_index": 2,
       "explanation": "Drift is the speed.",
@@ -77,9 +77,9 @@
       "stem": "Leeway is:",
       "options": [
         "Sideways slip caused by wind",
-        "Current speed",
-        "Engine speed",
-        "Tide range"
+        "Current speed in knots over the ground",
+        "Engine speed in rpm",
+        "Tide range for the day"
       ],
       "correct_index": 0,
       "explanation": "It pushes you off the track.",
@@ -120,9 +120,9 @@
       "difficulty": "medium",
       "stem": "An estimated position is the DR position corrected for:",
       "options": [
-        "The title",
+        "The chart title",
         "Current and leeway",
-        "The compass rose",
+        "The compass rose variation",
         "The tide table"
       ],
       "correct_index": 1,
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "Speed over ground between two fixes equals:",
       "options": [
-        "The wind speed",
+        "The wind speed over the deck",
         "Distance between fixes divided by time",
-        "Speed through the water",
-        "The log reading"
+        "Speed through the water shown on the log",
+        "The log reading at the second fix"
       ],
       "correct_index": 1,
       "explanation": "It includes the current.",
@@ -164,7 +164,7 @@
       "difficulty": "hard",
       "stem": "To make good an easterly track against a current setting south, you should steer:",
       "options": [
-        "West",
+        "Due west",
         "Somewhat north of the track",
         "Exactly east",
         "Somewhat south of the track"
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "Course made good is:",
       "options": [
-        "The course steered",
-        "The wind direction",
+        "The course steered by compass at the wheel",
+        "The wind direction on the day",
         "The direction of the line between fixes",
-        "The compass course"
+        "The compass course on the card"
       ],
       "correct_index": 2,
       "explanation": "It includes the effect of current.",

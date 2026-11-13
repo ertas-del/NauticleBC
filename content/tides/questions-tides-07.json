@@ -11,10 +11,10 @@
       "difficulty": "easy",
       "stem": "What does a current table give for each day at a station?",
       "options": [
-        "The depth of water at slack",
+        "The depth of water at each slack",
         "The times and heights of high and low water",
         "The direction of the wind at each slack",
-        "The times of slack water and the times and speeds, in knots, of maximum flood and ebb"
+        "Slack times, and max flood and ebb times and speeds"
       ],
       "correct_index": 3,
       "explanation": "A tide table gives heights. A current table gives times and speeds of the stream.",
@@ -39,9 +39,9 @@
       "difficulty": "easy",
       "stem": "In the CHS current tables, what does a minus sign in front of a speed mean?",
       "options": [
-        "A stream below the minimum",
+        "A stream below the minimum listed",
         "Flow toward the south",
-        "Ebb, the flow back toward the ocean",
+        "Ebb, flowing back toward the ocean",
         "Flood, the flow inland"
       ],
       "correct_index": 2,
@@ -69,7 +69,7 @@
       "options": [
         "Flood is a stream faster than 3 knots and ebb one slower",
         "Flood is the vertical rise of the tide and ebb its fall",
-        "Flood is the horizontal movement of water linked with the rising tide and ebb is the horizontal movement linked with the falling tide",
+        "Flood: flow with the rising tide; ebb: with the falling",
         "Flood is any stream toward the north and ebb any stream toward the south"
       ],
       "correct_index": 2,
@@ -95,9 +95,9 @@
       "difficulty": "medium",
       "stem": "Is slack water always at the time of high or low water?",
       "options": [
-        "Yes, always",
+        "Yes, always, everywhere",
         "Slack is always three hours after high water",
-        "No, slack and high or low water do not necessarily coincide, and the relationship differs from place to place",
+        "No; the link varies by place",
         "Yes in BC, no elsewhere"
       ],
       "correct_index": 2,
@@ -152,9 +152,9 @@
       "stem": "Why are the times for a secondary current station less certain than those for a reference station?",
       "options": [
         "They are calculated from the tide table",
-        "They often rest on a month or less of observations",
+        "Often based on a month or less of data",
         "They are given in a different time standard",
-        "They ignore the moon"
+        "They ignore the moon's position"
       ],
       "correct_index": 1,
       "explanation": "A secondary station rests on short observation records, so its turn and maximum times are less precise.",
@@ -209,7 +209,7 @@
       "options": [
         "The edge of the channel nearest the shore",
         "Every point in the channel equally",
-        "The stated station position, or the middle of the channel in a narrow pass, because the stream can differ strongly within a few metres",
+        "The station, or mid-channel in a narrow pass",
         "The nearest port's tide gauge"
       ],
       "correct_index": 2,
@@ -236,8 +236,8 @@
       "stem": "What can strong, prolonged wind do to the times in a current table?",
       "options": [
         "Nothing, because the table already includes wind",
-        "Change the speed units",
-        "Advance or delay slack water considerably, and a weak following flood may not reverse the stream so there is no slack",
+        "Change the speed units used",
+        "Shift slack a lot, or even remove it",
         "Make high water and slack the same time"
       ],
       "correct_index": 2,
@@ -264,9 +264,9 @@
       "stem": "Which book do you use to time a passage through a narrows or rapid?",
       "options": [
         "The tide table for the nearest port",
-        "The Notices to Mariners",
-        "The current table for that place, not the tide table",
-        "The List of Lights"
+        "The Notices to Mariners for the area",
+        "That place's current table",
+        "The List of Lights and Fog Signals"
       ],
       "correct_index": 2,
       "explanation": "Tide and current predictions are produced separately. Only the current table says when the stream slackens.",

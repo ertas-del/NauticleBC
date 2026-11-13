@@ -90,7 +90,7 @@
       "options": [
         "2 hours with 100 multiple-choice questions",
         "1 hour of plotting only",
-        "3 hours with 10 multiple-choice questions at 3 marks each and 5 practical chartwork questions",
+        "3 h: 10 multiple choice and 5 chartwork",
         "A 20 minute spoken exam"
       ],
       "correct_index": 2,
@@ -140,7 +140,7 @@
       "difficulty": "medium",
       "stem": "According to the 2019 draft TP 2293, how can a candidate show competence in NS1 or CP1?",
       "options": [
-        "By an approved training course or by scoring at least 70 per cent on the TC exam",
+        "An approved course or 70% on the TC exam",
         "Only by scoring 70 per cent on the TC exam",
         "Only by completing an approved course",
         "By two years of sea service"
@@ -221,7 +221,7 @@
         "The oral can be taken first, and procedure breaches only lose marks",
         "The oral is taken as soon as the sea service is complete, whatever else is missing",
         "The oral and CP1 must be taken on the same day",
-        "The oral is taken last, and not following the TP 2293 exam procedure is an automatic fail"
+        "Oral last; breaking the procedure is a fail"
       ],
       "correct_index": 3,
       "explanation": "The oral is taken last, after the other requirements are met, and section 112 makes failing to follow the TP 2293 exam procedure an automatic fail. The other options reverse the order or invent rules.",
@@ -244,7 +244,7 @@
       "difficulty": "hard",
       "stem": "A study site lists CP1 only for larger certificates, while four BC providers list it for Master, Limited < 60 GT. What is the best advice?",
       "options": [
-        "Plan for CP1 and confirm with Transport Canada whether TP 2293 requires it for your area",
+        "Plan for CP1 and confirm with Transport Canada",
         "Skip CP1 because the study site says it is not needed",
         "Assume CP1 is always required in every area with no need to check",
         "Take the oral instead of CP1"

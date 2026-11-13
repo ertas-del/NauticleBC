@@ -84,7 +84,7 @@
       "options": [
         "It includes any water within 25 nm of shore",
         "It includes only waters inside a harbour limit",
-        "It includes a lake or a river above tidal waters where a vessel cannot be more than 2.5 nm from the nearest shore",
+        "Lake or non-tidal river, never over 2.5 nm offshore",
         "It includes any water in British Columbia during the summer"
       ],
       "correct_index": 2,
@@ -130,7 +130,7 @@
       "difficulty": "medium",
       "stem": "What does 'of a type, tonnage, area and period of operation specified on the certificate' mean for a holder?",
       "options": [
-        "The certificate is valid only for the kind of vessel, size, area and season written on it",
+        "Valid only for the type, size, area and season shown",
         "The holder may command any vessel under 60 GT in any area",
         "The holder may command any vessel in the area written on the certificate regardless of size",
         "The limits are advice only and the master may ignore them"
@@ -155,7 +155,7 @@
       "stem": "A Master, Limited < 60 GT holder wants to renew by sea service. Which statement is correct?",
       "options": [
         "6 months of any sea service in the last 10 years",
-        "12 months as master or mate in charge of the watch in the last 5 years, or 3 months in the last 12 months, on the certificate's vessel and in its area",
+        "12 months in 5 years, or 3 in 12, as master or OOW",
         "12 months of any shore work in the last 5 years",
         "A single refresher MED course with no further requirement"
       ],
@@ -180,7 +180,7 @@
       "options": [
         "A refresher MED course alone",
         "Passing NS1 again",
-        "A refresher MED course plus a practical and oral exam on general seamanship for the vessel",
+        "Refresher MED plus a practical and oral",
         "Paying the fee and waiting one year"
       ],
       "correct_index": 2,

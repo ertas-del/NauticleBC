@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "Which publication do you use to plan a passage through a narrow pass?",
       "options": [
-        "The chart title block",
+        "The chart title block and notes",
         "The current table for that pass and day",
         "The tide table for the nearest port",
         "The weather forecast alone"
@@ -65,7 +65,7 @@
       "difficulty": "medium",
       "stem": "Why decide the highest acceptable stream before looking up the times?",
       "options": [
-        "So that the window is set by your vessel's limit and not shaped to fit the time you wanted to go",
+        "So your vessel's limit sets the window",
         "Because the limit is set by the harbour authority",
         "Because the table does not list times",
         "Because the limit is the same for every vessel"
@@ -119,7 +119,7 @@
       "difficulty": "hard",
       "stem": "Planned speed made good is 7.5 knots over 18.0 nm and the window is 1512 to 1552. Departure is 1253. If the speed made good turns out to be 5.5 knots, what happens?",
       "options": [
-        "She arrives at about 1609, outside the window, with the stream already building, so she should use the waiting plan",
+        "About 1609, too late: use the waiting plan",
         "She arrives at about 1539, inside the window",
         "She arrives at about 1517 as planned",
         "She arrives at about 1450, before the window"
@@ -148,7 +148,7 @@
       "options": [
         "Because waiting outside is not allowed",
         "Because the table is always early",
-        "A late arrival meets a stream that is already building, and there is no margin if the run is slow",
+        "Late means a building stream and no margin",
         "Because slack lasts longer later in the window"
       ],
       "correct_index": 2,
@@ -174,7 +174,7 @@
       "stem": "Why check the wind forecast against the stream direction when planning a pass?",
       "options": [
         "Because wind has no effect on a stream",
-        "Wind against the stream makes waves shorter and steeper, and the sea can turn rough after slack",
+        "Wind against stream gives short, steep seas",
         "Because wind changes the time of high water by exactly one hour",
         "Because wind makes the stream slower"
       ],
@@ -228,7 +228,7 @@
       "stem": "The table gives slack, but a strong wind is forecast. What should you assume?",
       "options": [
         "Slack will be exactly one hour later",
-        "Slack may come earlier or later than the table says, so allow extra margin and be ready to wait",
+        "Slack may shift; allow margin, be ready to wait",
         "Slack is unaffected by wind",
         "The pass can be entered at any time"
       ],
@@ -254,7 +254,7 @@
       "difficulty": "medium",
       "stem": "What belongs in the plan in case you miss the window?",
       "options": [
-        "A safe waiting place outside the pass and the time of the next slack",
+        "A safe waiting spot and the next slack",
         "Nothing, since slack lasts all day",
         "A decision to enter the pass anyway",
         "Only the time the tide turns"
@@ -283,7 +283,7 @@
       "options": [
         "Enter the pass and hope the stream is weak",
         "Cancel the check and trust the original plan",
-        "Switch to the waiting plan and do not carry on into the pass",
+        "Switch to the waiting plan; don't go on",
         "Increase speed to the maximum and enter anyway"
       ],
       "correct_index": 2,

@@ -4,109 +4,156 @@
     {
       "id": "tides.tidal-currents.q01",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is the difference between the tide and the tidal stream?",
       "options": [
         "The tide is the horizontal flow of water and the stream is its height",
         "They are two names for the same thing",
-        "The tide is the vertical rise and fall, and the tidal stream is the horizontal movement of water",
+        "Tide: vertical rise and fall; stream: horizontal flow",
         "The tide happens only offshore and the stream only inshore"
       ],
       "correct_index": 2,
       "explanation": "The tide is the height of the water going up and down. The tidal stream, or current, is the water moving sideways, with a speed and direction. They are driven by the same forces but are predicted separately and are not always in step.",
-      "source_ids": ["noaa-tides-tutorial-intro", "noaa-tides-currents-glossary", "noaa-tides-currents-faq"],
+      "source_ids": [
+        "noaa-tides-tutorial-intro",
+        "noaa-tides-currents-glossary",
+        "noaa-tides-currents-faq"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q02",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A tide table shows high water at the nearest port at 1400. What can you safely conclude about slack water in a nearby narrow channel?",
       "options": [
         "Slack water will be at exactly 1400",
         "Slack water will be at 1400 plus 6 hours",
-        "Nothing safe: the timing of slack differs from place to place, so use the current predictions for that channel",
+        "Nothing; use that channel's current tables",
         "Slack water always happens half way between high and low water"
       ],
       "correct_index": 2,
       "explanation": "Slack can be near high or low water in some places, half way between them in others, and in channels fed by water levels that differ at each end it can be quite different again. There is no general rule of thumb, so the current tables for that channel are needed. The 6-hour and half-way rules are only right in some places.",
-      "source_ids": ["noaa-tides-currents-faq", "dfo-tides-and-tidal-streams-chapter"],
+      "source_ids": [
+        "noaa-tides-currents-faq",
+        "dfo-tides-and-tidal-streams-chapter"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q03",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "What does wind blowing against the tidal stream typically do to the waves?",
       "options": [
         "Makes them longer and gentler",
-        "Has no effect on the waves",
-        "Makes them shorter and steeper, so the sea can become rough",
+        "Has no effect on the waves at all",
+        "Makes them shorter and steeper",
         "Cancels them out, giving a flat sea"
       ],
       "correct_index": 2,
       "explanation": "When wind opposes the stream, the waves bunch up and steepen, giving a confused, choppy sea that can be dangerous even if the wind alone would be manageable. Longer, gentler waves are more typical when wind and stream run the same way.",
-      "source_ids": ["predictwind-wind-against-current", "ubc-atsc113-local-tides-currents"],
+      "source_ids": [
+        "predictwind-wind-against-current",
+        "ubc-atsc113-local-tides-currents"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q04",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which pair of factors helps explain very strong tidal streams in narrow BC channels such as those around Johnstone Strait?",
       "options": [
-        "A large volume of water forced through a narrow gap, and tides arriving from both ends of the channel out of step",
+        "Much water through a gap, tides out of step",
         "A very small tidal range, and a wide, deep channel",
         "Strong winds only, and no tide at all",
         "The channel being closed at one end, and no water movement"
       ],
       "correct_index": 0,
       "explanation": "Water has to squeeze through the narrows between tides, which speeds the stream up, and the tides from the north and south arrive at different times, so the water levels at the two ends differ and drive the flow. A small range or wide channel would reduce the speed. Wind can affect the sea state but does not create these streams.",
-      "source_ids": ["chs-tides-in-canadian-waters-2007", "dfo-tides-and-tidal-streams-chapter"],
+      "source_ids": [
+        "chs-tides-in-canadian-waters-2007",
+        "dfo-tides-and-tidal-streams-chapter"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q05",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "You plan to take a vessel through a tidal rapid on the BC coast. What should you use to time the passage?",
       "options": [
         "The tide table for the nearest port and a rule of thumb about slack water",
-        "The current CHS current tables for that rapid, and other current CHS publications for the area",
-        "The rule of twelfths",
+        "The current CHS current tables for that rapid",
+        "The rule of twelfths, from the tide table",
         "A guess based on the moon phase"
       ],
       "correct_index": 1,
       "explanation": "The timing and strength of the stream in a rapid are predicted separately from tide heights, in the current tables. Heights and rules of thumb, including the rule of twelfths, do not give you slack water for a specific rapid. This app is a study aid and is not a substitute for those publications.",
-      "source_ids": ["noaa-tides-currents-faq", "ubc-atsc113-local-tides-currents"],
+      "source_ids": [
+        "noaa-tides-currents-faq",
+        "ubc-atsc113-local-tides-currents"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q06",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "In a channel where the stream is driven by a difference in water level between its two ends, when might slack water occur?",
       "options": [
         "Always exactly at high water",
-        "Possibly around half way between high and low water, rather than at high or low water",
+        "Perhaps about half way between HW and LW",
         "Always exactly at low water",
         "Never, because the stream never stops"
       ],
       "correct_index": 1,
       "explanation": "Where the flow is driven by a head of water between two basins, one DFO source notes that slack water can fall roughly midway between high and low water. That is why it is unsafe to assume slack at high or low water. The exact timing needs the current predictions for that channel.",
-      "source_ids": ["dfo-tides-and-tidal-streams-chapter", "noaa-tides-currents-faq"],
+      "source_ids": [
+        "dfo-tides-and-tidal-streams-chapter",
+        "noaa-tides-currents-faq"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q07",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which of these BC passages is named in DFO sources as having very strong tidal streams, reported at over 7 m/s (more than 13 knots)?",
       "options": [
@@ -117,24 +164,34 @@
       ],
       "correct_index": 0,
       "explanation": "Seymour Narrows is one of the BC narrows (with Okisollo, Surge, Hole-in-the-Wall, Yuculta and Arran Rapids) that DFO sources name for very strong streams; one DFO source gives over 7 m/s, more than 13 knots, there. The open straits and the outer coast are wide water where the flow is not squeezed through a narrow gap in the same way.",
-      "source_ids": ["dfo-tides-and-tidal-streams-chapter", "chs-tides-in-canadian-waters-2007"],
+      "source_ids": [
+        "dfo-tides-and-tidal-streams-chapter",
+        "chs-tides-in-canadian-waters-2007"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "tides.tidal-currents.q08",
       "lesson_id": "tides.tidal-currents",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What does a current table give you that a tide table does not?",
       "options": [
         "Heights of high and low water above chart datum",
-        "Predicted stream speeds in knots, with the times of slack water and maximum flow",
-        "Charted depths over shoals",
+        "Stream speeds, slack and maximum times",
+        "Charted depths over the shoals",
         "The weather forecast for the area"
       ],
       "correct_index": 1,
       "explanation": "Current tables give predicted stream speeds in knots and the times of slack water and maximum flow. Heights above chart datum are in the tide table, charted depths are on the chart, and neither table is a weather forecast. As with the tide tables, check the time standard and the daylight saving hour.",
-      "source_ids": ["ubc-atsc113-tide-current-tables", "noaa-tides-currents-faq"],
+      "source_ids": [
+        "ubc-atsc113-tide-current-tables",
+        "noaa-tides-currents-faq"
+      ],
       "review_status": "needs_expert_review"
     }
   ]
