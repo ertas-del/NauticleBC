@@ -94,7 +94,7 @@
       "options": [
         "The time of the nearest high water",
         "0800, when you make the plan",
-        "1030, the time you will be at the shoal, based on your ETA from speed made good",
+        "1030, your ETA at the shoal",
         "The time of the nearest low water, to be safe"
       ],
       "correct_index": 2,
@@ -149,7 +149,7 @@
         "The tide table is less accurate on a falling tide",
         "The charted depths are lower on a falling tide",
         "The tidal stream always increases on a falling tide",
-        "A vessel that touches has less water every hour and may be held until the tide rises again"
+        "If she touches, she may be held there"
       ],
       "correct_index": 3,
       "explanation": "On a rising tide, water is coming to a vessel that touches. On a falling tide it is leaving, so the same mistake can leave her aground for hours.",
@@ -227,7 +227,7 @@
       "difficulty": "medium",
       "stem": "Why should you allow a margin on a tide height from the table?",
       "options": [
-        "The table is a prediction from the sun and moon; wind, air pressure and river flow can change the actual height",
+        "Weather and river flow can change it",
         "The table is measured at the wrong datum",
         "The margin is only needed on neap tides",
         "The table is always 0.5 m too high"
@@ -255,7 +255,7 @@
       "stem": "When anchoring in a tidal bay, which tide heights do you check, and for what?",
       "options": [
         "Only low water, because scope does not depend on depth",
-        "The lowest expected water for swinging room and grounding, and the highest expected water for scope",
+        "Lowest for swing and grounding; highest for scope",
         "Only the height at the time of anchoring",
         "Only high water, because the anchor holds best then"
       ],

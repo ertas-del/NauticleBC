@@ -14,7 +14,7 @@
         "To obtain written approval of the route from Transport Canada",
         "To plan the voyage only if it is international",
         "To report the route to the nearest MCTS centre",
-        "To plan the voyage, taking into account the Annex to IMO Resolution A.893(21), using the required charts and publications"
+        "Plan it per IMO A.893(21), with the required charts"
       ],
       "correct_index": 3,
       "explanation": "Section 144(1) requires planning of the voyage before it begins, taking into account the guidelines in the Annex to A.893(21).",
@@ -35,7 +35,7 @@
       "options": [
         "Crew rosters, fuel prices and port fees",
         "Insurance, cargo value and the owner's schedule",
-        "Relevant routing systems, sufficient sea room, known hazards and adverse weather, marine environmental protection measures, and actions that could damage the environment",
+        "Routeing, sea room, hazards, weather, environment",
         "Only the shortest distance and the cheapest route"
       ],
       "correct_index": 2,
@@ -55,7 +55,7 @@
       "difficulty": "medium",
       "stem": "What does s. 144(3) require during the voyage?",
       "options": [
-        "Display the route on a required chart, and plot and monitor the position throughout the voyage on that chart",
+        "Route on a required chart; plot and monitor",
         "Keep the plan in the company office",
         "Send the position to the owner each hour",
         "Switch off the chart plotter at sea"
@@ -79,7 +79,7 @@
       "options": [
         "That they be replaced every year",
         "That they be approved by the pilotage authority",
-        "That they be correct and up to date from Notices to Mariners or a navigational warning",
+        "Correct and up to date from NtMs or warnings",
         "That they be stamped by the chart dealer"
       ],
       "correct_index": 2,
@@ -102,7 +102,7 @@
         "Departure, passage, arrival and review",
         "Survey, design, build and test",
         "Alert, decide, act and report",
-        "Appraisal, planning, execution and monitoring"
+        "Appraisal, planning, execution, monitoring"
       ],
       "correct_index": 3,
       "explanation": "The guidelines divide the work into appraisal (gathering and weighing information), planning (the track and plan), execution (carrying it out) and monitoring (checking progress against the plan).",
@@ -122,7 +122,7 @@
       "difficulty": "medium",
       "stem": "Which statement about the plan under A.893(21) is correct?",
       "options": [
-        "It covers the whole voyage berth to berth, the master approves it before the voyage, and it is kept available on the bridge",
+        "Berth to berth, master-approved, on the bridge",
         "It covers only open water, and the pilot approves it",
         "It is drawn up after departure when weather is known",
         "It is kept ashore and not revised"
@@ -145,8 +145,8 @@
       "difficulty": "medium",
       "stem": "Which of these is a matter that a passage plan should set out under A.893(21)?",
       "options": [
-        "The crew's shore leave",
-        "The method and frequency of position fixing, with primary and secondary methods",
+        "The crew's shore leave arrangements",
+        "Fixing method and frequency",
         "The price of fuel at the destination",
         "The name of the vessel's insurer"
       ],
@@ -171,7 +171,7 @@
         "To pilot the vessel personally in restricted waters",
         "To keep a radio watch on channel 16 only",
         "To report every voyage plan to the TSB",
-        "To ensure that the intended voyage is planned and that a deck watch is maintained in accordance with the relevant Parts of STCW Code section A-VIII/2"
+        "Voyage planned; watch kept per STCW A-VIII/2"
       ],
       "correct_index": 3,
       "explanation": "Section 213 links voyage planning and the keeping of a deck watch to Parts 2, 3 and 3-1 of section A-VIII/2 of the STCW Code (subject to s. 252).",

@@ -13,7 +13,7 @@
       "options": [
         "The depth of water over the stream bed",
         "Times and heights of high and low water",
-        "Predicted times of slack water and the times and speeds, in knots, of maximum flood and ebb",
+        "Slack times and max flood/ebb times and rates",
         "The direction of the wind at each hour"
       ],
       "correct_index": 2,
@@ -42,7 +42,7 @@
         "From the time of slack",
         "From the plus or minus sign in the table, which gives north or south",
         "From the wind direction",
-        "From the chart, the Sailing Directions or the notes with the station, since the table gives rate and a flood or ebb sign"
+        "Chart, Sailing Directions or station notes"
       ],
       "correct_index": 3,
       "explanation": "A plus means flood, a minus ebb. The direction of flood is different in each channel, so you take it from the chart or Sailing Directions.",
@@ -70,7 +70,7 @@
         "Slack always falls one hour after high water",
         "The tide table does not give times",
         "The tide table gives only the heights of neap tides",
-        "Slack water and high or low water do not necessarily coincide, and the relationship differs from place to place"
+        "Slack and HW/LW don't always coincide"
       ],
       "correct_index": 3,
       "explanation": "The stream and the height are predicted separately. At some places slack is near high or low water, at others it is far from it.",
@@ -151,7 +151,7 @@
       "difficulty": "medium",
       "stem": "A stream sets across the track as well as along it. How is it used in the plot?",
       "options": [
-        "Take the mean set and rate for the leg and use them in the course-to-steer triangle",
+        "Use the leg's mean set and rate in the triangle",
         "Use the maximum rate in the table for the whole leg",
         "Add the rate to the course in degrees",
         "Ignore the cross-track part, since only the along-track part matters"
@@ -208,7 +208,7 @@
       "stem": "A DFO source reports that the stream at Seymour Narrows can exceed what speed?",
       "options": [
         "About 6 knots",
-        "More than 13 knots (over 7 metres per second)",
+        "Over 13 knots",
         "About 30 knots",
         "About 3 knots"
       ],
@@ -235,7 +235,7 @@
       "difficulty": "medium",
       "stem": "Which approach is correct for a narrow BC pass with a strong stream?",
       "options": [
-        "Plan to arrive at or a little before the predicted slack, and wait outside if early",
+        "Arrive at or just before slack; wait if early",
         "Arrive at maximum flood, because the stream carries you through quickly",
         "Ignore the tables and judge the stream by eye on arrival",
         "Arrive as late as possible after slack, so the stream is fair"
@@ -265,7 +265,7 @@
       "options": [
         "It makes waves longer and easier to ride",
         "It flattens the sea",
-        "It makes the waves shorter and steeper and the sea confused, worse than the wind alone would suggest",
+        "Shorter, steeper, confused seas",
         "It has no effect if the stream is under 3 knots"
       ],
       "correct_index": 2,
@@ -293,7 +293,7 @@
       "options": [
         "None, because slack is astronomical",
         "It always makes slack earlier",
-        "It can advance or delay slack considerably, so the table is a prediction and not a promise",
+        "Shift it a lot: it's a prediction",
         "It makes slack exactly one hour later"
       ],
       "correct_index": 2,
@@ -320,8 +320,8 @@
       "stem": "Under the Navigation Safety Regulations, 2020, s. 142, which of these is among the publications to be kept on board for a Canadian vessel in Canadian waters?",
       "options": [
         "The Canadian Tide and Current Tables",
-        "A private cruising guide",
-        "A weather almanac",
+        "A private cruising guide for the coast",
+        "A weather almanac for the year",
         "A tide table from any commercial almanac"
       ],
       "correct_index": 0,

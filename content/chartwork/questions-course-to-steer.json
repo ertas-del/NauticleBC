@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "Which description of the plot for the course to steer is correct?",
       "options": [
-        "Draw the track and the current vector from the start; from the end of the current vector swing an arc of the ship's speed to cut the track; join the end of the current vector to that point",
+        "Track and current from start; speed arc from current's end cuts track",
         "Draw the current vector from the destination and swing an arc of the current's rate",
         "Draw the ship's speed from the start and the current from the destination",
         "Draw the track, add the compass error, and read the course"
@@ -57,10 +57,10 @@
       "difficulty": "medium",
       "stem": "For the same problem (track 090, 8 knots, current 040 at 2 knots), what is the speed made good?",
       "options": [
-        "8.0 knots",
-        "10.0 knots",
+        "About 8.0 knots",
+        "About 10.0 knots",
         "About 9.1 knots",
-        "6.0 knots"
+        "About 6.0 knots"
       ],
       "correct_index": 2,
       "explanation": "Speed made good = 8 x cos 11 degrees + 2 x cos 50 degrees = 7.85 + 1.29 = 9.1 knots. The current has a fair component of about 1.3 knots along the track.",
@@ -197,7 +197,7 @@
       "options": [
         "She must steer directly into the current",
         "She can hold the track at a speed made good of 1 knot",
-        "No course can hold the track, because the cross-track current exceeds her speed",
+        "She can't hold the track: current beats speed",
         "She steers the track and makes good 4 knots"
       ],
       "correct_index": 2,
@@ -218,9 +218,9 @@
       "difficulty": "medium",
       "stem": "To which side of the track does the bow point to counter a current?",
       "options": [
-        "To the down-current side",
-        "To the up-current side, the side the water is coming from",
-        "Directly along the track",
+        "To the down-current side, where the water goes",
+        "Up-current, where the water comes from",
+        "Directly along the track, with no offset",
         "To the side of the destination's bearing from the current"
       ],
       "correct_index": 1,
@@ -243,7 +243,7 @@
       "options": [
         "Sine of the correction angle = ship's speed x rate / sine of the track",
         "Tangent of the correction angle = rate / ship's speed, whatever the set",
-        "Sine of the correction angle = rate x sine of the angle between the set and the track, divided by the ship's speed",
+        "sin(corr) = rate x sin(set - track) / speed",
         "Correction angle = rate x time"
       ],
       "correct_index": 2,

@@ -172,7 +172,7 @@
       "difficulty": "medium",
       "stem": "A log shows 7.0 knots and GNSS shows 8.4 knots on the same track. Which statement is correct?",
       "options": [
-        "A fair current of about 1.4 knots is helping, and the DR is made from the log speed",
+        "A fair current of ~1.4 kn; DR uses the log",
         "The log is wrong, because speeds should always agree",
         "A foul current of about 1.4 knots is slowing her, and the DR uses the GNSS speed",
         "There is no current, and the DR uses the average of the two"

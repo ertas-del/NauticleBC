@@ -12,7 +12,7 @@
       "stem": "What does the geographic range of a light depend on?",
       "options": [
         "The depth of water under the observer",
-        "The height of the light and the height of the observer's eye, because the curve of the Earth hides the light beyond the horizon",
+        "The heights of the light and the eye",
         "The colour of the light and its flash period",
         "The brightness of the lamp and the clarity of the air"
       ],
@@ -63,7 +63,7 @@
       "options": [
         "Either constant may be used with either unit",
         "They apply to different kinds of light, 1.17 to fixed lights and 2.08 to flashing lights",
-        "They are the same idea in different units and differ by about 2 percent, so use the constant and units the question gives",
+        "Same idea, different units; use what the question gives",
         "The metric constant is always correct and the feet constant is wrong"
       ],
       "correct_index": 2,
@@ -89,7 +89,7 @@
         "The distance the light can be seen in today's haze or rain",
         "The range inside which the light's sectors are visible",
         "The distance to the horizon from the top of the tower",
-        "How far the light can be seen in standard clear conditions, a rating of the light itself, as printed on the chart"
+        "Its charted range in standard clear air"
       ],
       "correct_index": 3,
       "explanation": "Nominal range is a rating under standard clear conditions. The horizon distance is the geographic range, and the distance in prevailing weather is the luminous range.",
@@ -111,8 +111,8 @@
       "difficulty": "easy",
       "stem": "What is the luminous range of a light?",
       "options": [
-        "The distance printed on the chart",
-        "The distance at which it can be seen in the visibility that actually prevails",
+        "The distance printed on the chart beside it",
+        "How far it is seen in today's visibility",
         "The distance at which it can first be seen over the horizon",
         "The distance at which its colour can be identified"
       ],
@@ -162,9 +162,9 @@
       "stem": "On Canadian charts in tidal waters, the heights of lights are normally measured above which level?",
       "options": [
         "Chart datum, the low-water level",
-        "Higher high water, large tide (a high-water datum)",
+        "Higher high water, large tide",
         "The level of the water at the time of the survey",
-        "Mean sea level"
+        "Mean sea level at the nearest port"
       ],
       "correct_index": 1,
       "explanation": "Heights of lights, islands and vertical clearances use a high-water datum, higher high water, large tide, and the chart title states it. Depths use the low-water chart datum.",
@@ -189,7 +189,7 @@
         "The light is seen at the same distance but looks dimmer",
         "The light stands lower above the water, so you see it later",
         "There is no effect, because the formula uses chart datum",
-        "The light stands higher above the water than charted, so you see it slightly sooner"
+        "It stands higher, so you see it a bit sooner"
       ],
       "correct_index": 3,
       "explanation": "Below the high-water datum the light is higher above the actual water than the chart says, so its horizon is further away. For example 25 m charted becomes 28 m with 3 m of tide below the datum, adding about half a mile.",
@@ -237,9 +237,9 @@
       "stem": "A light is first sighted bearing 262 degrees true from the ship, and the calculated distance off is 14.0 nm. Where does the first sighting put the ship?",
       "options": [
         "Anywhere inside a circle of 14.0 nm around the light",
-        "At the light, since the light has just been seen",
+        "At the light itself, since the light has just been seen",
         "14.0 nm from the light on the 262 degree bearing from the light",
-        "14.0 nm from the light, on the 082 degree true bearing from the light, where the arc of radius 14.0 nm meets the reciprocal of the observed bearing"
+        "14.0 nm off, on the 082 true bearing from the light"
       ],
       "correct_index": 3,
       "explanation": "The first sighting gives a position circle: an arc of 14.0 nm radius centred on the light. The ship's bearing from the light is the reciprocal of the bearing of the light from the ship, 262 - 180 = 082. Plotting 262 from the light is the classic reversal error.",

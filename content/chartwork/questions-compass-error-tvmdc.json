@@ -220,7 +220,7 @@
         "Because variation changes with the ship's heading",
         "Because deviation is always larger than variation",
         "Because the card is only valid at the cardinal headings",
-        "The deviation depends on the compass heading, which is the answer you are trying to find"
+        "Deviation depends on the unknown compass heading"
       ],
       "correct_index": 3,
       "explanation": "True to magnetic needs only the variation. Magnetic to compass needs the deviation for the compass heading, which you do not know yet. Apply a first estimate, look the deviation up at the result, and correct once if it has moved.",

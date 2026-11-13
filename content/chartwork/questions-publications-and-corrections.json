@@ -12,7 +12,7 @@
       "stem": "Under s. 142(1) of the Navigation Safety Regulations, 2020, what must be kept on board for each area where the vessel is scheduled to be navigated?",
       "options": [
         "Any chart of the area, whatever its edition",
-        "The most recent versions of the reference catalogue and the applicable charts in their largest scale",
+        "Latest catalogue and largest-scale charts",
         "Charts at the smallest scale to give an overview",
         "Only the chart of the departure port"
       ],
@@ -65,7 +65,7 @@
       "options": [
         "Transport Canada publishes both",
         "CHS publishes both",
-        "CHS publishes the Tide and Current Tables and the Canadian Coast Guard publishes the List of Lights",
+        "CHS the tables; Coast Guard the List of Lights",
         "The Canadian Coast Guard publishes both"
       ],
       "correct_index": 2,
@@ -89,7 +89,7 @@
       "difficulty": "medium",
       "stem": "When is Radio Aids to Marine Navigation required?",
       "options": [
-        "When the vessel is required to be fitted with radio equipment under the regulations (or any foreign law)",
+        "When she must be fitted with radio equipment",
         "Only on vessels over 500 GT",
         "On every vessel regardless of equipment",
         "Only on vessels carrying passengers"
@@ -116,7 +116,7 @@
       "stem": "Which vessel must carry an illustrated table of life-saving signals under s. 142(1)?",
       "options": [
         "Only vessels of 500 GT or more",
-        "A vessel other than a pleasure craft of less than 150 GT, on a voyage other than a sheltered waters voyage",
+        "Non-pleasure craft under 150 GT, beyond sheltered waters",
         "Only pleasure craft",
         "Every vessel on every voyage, including sheltered waters"
       ],
@@ -168,7 +168,7 @@
       "stem": "A 12 m vessel of 25 GT stays in waters whose routes, lights, buoys, hazards, tides, currents, ice and weather the person in charge knows thoroughly. What does s. 142(3) allow?",
       "options": [
         "It allows the vessel to use charts of any age",
-        "The carriage list in s. 142(1) does not apply if that knowledge is sufficient that safety and efficiency of navigation will not be compromised",
+        "The s. 142(1) list may not apply",
         "Nothing; every vessel must carry every item in all circumstances",
         "It allows the vessel to go without a compass"
       ],
@@ -193,7 +193,7 @@
       "difficulty": "medium",
       "stem": "What does s. 146 require of the master before charts and publications are used to plan and execute a voyage?",
       "options": [
-        "That they be correct and up to date, based on Notices to Mariners or a navigational warning",
+        "Corrected and up to date from NtMs or warnings",
         "That they be checked once a year",
         "That they be replaced with new editions",
         "That they be signed by the previous master"
@@ -221,7 +221,7 @@
       "options": [
         "When it was downloaded within the last year",
         "When it is shown on any chart plotter or tablet with an up-to-date chart",
-        "When it is displayed on an ECDIS using ENCs where available, meeting S-52, with a back-up arrangement or printed charts being plotted on",
+        "On an S-52 ECDIS with ENCs and a back-up",
         "Whenever the paper chart is also on board but unmarked"
       ],
       "correct_index": 2,
@@ -245,10 +245,10 @@
       "difficulty": "easy",
       "stem": "What navigation accessories does s. 145 require alongside the charts?",
       "options": [
-        "An echo sounder and radar",
-        "Accessories to plot the position precisely, to determine compass accuracy, and binoculars",
-        "A sextant and chronometer",
-        "A barometer and anemometer"
+        "An echo sounder and a radar",
+        "Plotting tools, compass-check means, binoculars",
+        "A sextant and a chronometer",
+        "A barometer and an anemometer"
       ],
       "correct_index": 1,
       "explanation": "Section 145 lists accessories to use the charts for precise position, to determine compass accuracy, and binoculars.",
@@ -272,7 +272,7 @@
       "stem": "In a monthly Notices to Mariners edition, how are the chart corrections arranged, and how should a temporary (T) notice be shown on the chart?",
       "options": [
         "By publisher; with a stick-on label permanently fixed",
-        "By chart number; in pencil, since temporary and preliminary notices are not charted by CHS",
+        "By chart number; T notices in pencil",
         "By date of notice; in ink, to make sure it is seen",
         "By area name; not shown at all"
       ],
@@ -297,7 +297,7 @@
       "difficulty": "medium",
       "stem": "How long are navigational warnings kept?",
       "options": [
-        "Until superseded by Notices to Mariners or a revised chart",
+        "Until replaced by NtMs or a new chart",
         "For 24 hours only",
         "Only until the vessel leaves the area",
         "Until the end of the calendar month"

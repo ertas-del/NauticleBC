@@ -14,8 +14,8 @@
       "options": [
         "True, Variation, Magnetic, Deviation, Compass",
         "Time, Velocity, Magnetic, Distance, Course",
-        "True, Vector, Mark, Deviation, Chart",
-        "Tide, Variation, Mark, Depth, Course"
+        "True, Vector, Mark, Deviation, Chart datum",
+        "Tide, Variation, Mark, Depth, Course made good"
       ],
       "correct_index": 0,
       "explanation": "Say them in order, from True down to Compass.",
@@ -38,7 +38,7 @@
       "options": [
         "Ignored",
         "Subtracted",
-        "Added",
+        "Added twice",
         "Doubled"
       ],
       "correct_index": 1,
@@ -231,7 +231,7 @@
         "The barometer",
         "Your deviation card",
         "The tide table",
-        "The chart"
+        "The chart's compass rose"
       ],
       "correct_index": 1,
       "explanation": "It depends on the boat's own magnetism.",
