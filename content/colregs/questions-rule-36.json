@@ -14,7 +14,7 @@
       "options": [
         "Any signal at all, since attracting attention overrides the other Rules",
         "Only the doubt signal, five short and rapid blasts",
-        "Signals that cannot be mistaken for any signal authorized elsewhere in the Rules",
+        "Ones that can't be mistaken for Rules signals",
         "Only VHF calls, never lights or sound"
       ],
       "correct_index": 2,
@@ -39,7 +39,7 @@
         "Shine it directly into the small boat's wheelhouse until she turns",
         "Searchlights may not be used under the Rules",
         "Flash it on and off rapidly like a strobe",
-        "Direct the beam towards the danger, in a way that does not embarrass any vessel"
+        "At the danger, without embarrassing anyone"
       ],
       "correct_index": 3,
       "explanation": "Rule 36 allows a searchlight to be directed towards the danger as long as it does not embarrass (dazzle or hamper) any vessel. Shining it into a wheelhouse blinds the helmsman, and strobe-like flashing is to be avoided.",
@@ -85,9 +85,9 @@
       "stem": "A crew member suggests flashing a green light towards a boat to get her attention near a channel entrance. What is the problem under Rule 36?",
       "options": [
         "Green lights may only be used by sailing vessels",
-        "A light used to attract attention must not be mistakable for an aid to navigation",
+        "It could be mistaken for a navigation aid",
         "Only white lights may be flashed after sunset",
-        "There is no problem"
+        "There is no problem with it at all"
       ],
       "correct_index": 1,
       "explanation": "Rule 36 requires a light used to attract attention to be one that cannot be mistaken for an aid to navigation. A flashing green light near a channel could be read as a navigation mark. The other options are not in the rule.",

@@ -4,7 +4,11 @@
     {
       "id": "colregs.rule-22.q01",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is the minimum visibility range of the masthead light on a vessel of 50 m or more in length?",
       "options": [
@@ -15,13 +19,19 @@
       ],
       "correct_index": 0,
       "explanation": "Rule 22(a) sets 6 miles for the masthead light of a vessel of 50 m or more. 5 miles is the figure for 20 m to under 50 m, 3 miles is for her sidelights and other lights, and 10 miles is not in the Rule.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-22.q02",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A 16 m water taxi needs new navigation lights. What minimum ranges apply to her masthead light and her sidelights?",
       "options": [
@@ -32,13 +42,19 @@
       ],
       "correct_index": 0,
       "explanation": "She is in the 12 m to under 50 m class, where the masthead light is 5 miles except that a vessel under 20 m needs only 3 miles. Sidelights in that class are 2 miles. 2 and 1 miles are the under-12 m figures.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-22.q03",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "On a power-driven vessel of less than 12 m, which light has a minimum range of only 1 mile?",
       "options": [
@@ -49,13 +65,19 @@
       ],
       "correct_index": 0,
       "explanation": "For vessels under 12 m, Rule 22(c) sets the sidelights at 1 mile. The masthead light, sternlight, towing light and all-round lights are all 2 miles.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-22.q04",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A 35 m tug is towing at night. What minimum range applies to her yellow towing light and her sternlight?",
       "options": [
@@ -66,13 +88,18 @@
       ],
       "correct_index": 0,
       "explanation": "In the 12 m to under 50 m class the sternlight, towing light, sidelights and all-round lights are all 2 miles. 3 miles applies at 50 m or more, and 1 mile is only the under-12 m sidelight.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-22.q05",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "What minimum range applies to the white all-round lights on an inconspicuous, partly submerged object being towed, and what range does the Canadian modification set for a blue flashing light?",
       "options": [
@@ -83,24 +110,32 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 22(d) gives 3 miles for the white all-round lights of an inconspicuous, partly submerged vessel or object being towed, whatever its size. The Canadian Rule 22(e) gives 2 miles for both the special flashing light and the blue flashing light.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-22.q06",
       "lesson_id": "colregs.rule-22.visibility-of-lights",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Rule 22 says a 60 m vessel's sidelights must be visible at 3 miles. On a rainy night you only see her red sidelight at 1.5 miles. What is the best interpretation?",
       "options": [
         "Rule 22 ranges are given in kilometres, so 3 equals about 1.6 miles",
-        "The Rule 22 figures are minimum ranges the lights are designed for in clear conditions, so rain and other factors can reduce what you actually see",
+        "They are design minimums in clear air; rain cuts them",
         "Her lights must be defective, so she is not complying with the Rules",
-        "Sidelights only need to be visible at 3 miles in daylight"
+        "Only in daylight"
       ],
       "correct_index": 1,
       "explanation": "Rule 22 ranges are minimum ranges set through the Annex I intensity rules, calculated for a clear atmosphere. Rain, spray and background lights cut the range you actually get, so a late sighting does not prove a defect. The Regulations use the nautical mile of 1 852 m, not kilometres, and the ranges are about night visibility.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

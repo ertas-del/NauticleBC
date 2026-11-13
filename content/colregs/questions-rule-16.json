@@ -4,24 +4,35 @@
     {
       "id": "colregs.rule-16.q01",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Rule 16 says a give-way vessel shall, so far as possible, take what kind of action?",
       "options": [
         "Prompt and minimal action to stay on track",
         "Early and substantial action to keep well clear",
         "Action only after the stand-on vessel signals",
-        "Action to port to pass ahead"
+        "Action to port so as to pass ahead of her"
       ],
       "correct_index": 1,
       "explanation": "The wording to remember is 'early and substantial action to keep well clear'. Minimal action is what the rule is written against. The give-way vessel does not wait for a signal, and the rule names no direction.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-16.q02",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which of these vessels is NOT directed to keep out of the way, and so is not bound by Rule 16?",
       "options": [
@@ -32,75 +43,101 @@
       ],
       "correct_index": 2,
       "explanation": "A power-driven vessel with the other crossing on her port side is the stand-on vessel under Rule 15 and follows Rule 17. The overtaking vessel, the vessel with the other on her starboard side, and the port-tack sailing vessel are all give-way vessels under Rule 16.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-16.q03",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In Rule 16, what does 'substantial' action mean in practice?",
       "options": [
-        "At least 30 degrees of course change",
-        "A change large enough to be readily apparent to the other vessel by eye or radar",
+        "At least 30 degrees of course change, every time",
+        "Large enough to be readily apparent to her",
         "Any change that keeps the vessels from touching",
-        "A reduction to half speed"
+        "A reduction to half speed or less"
       ],
       "correct_index": 1,
       "explanation": "The Rules give no fixed number of degrees or speed. What counts is that the other vessel can see you have acted, which links to Rule 8's 'readily apparent'. Avoiding contact is not enough; the aim is to keep well clear.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-16.q04",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are the give-way vessel. Why does it matter that you act early rather than late?",
       "options": [
         "It does not matter as long as you pass clear",
-        "Late action may lead the stand-on vessel to decide you are not acting and manoeuvre herself, which can cancel out your action",
+        "Late action may make her act too, cancelling yours",
         "Early action lets you keep a smaller passing distance",
         "Acting early is only required at night"
       ],
       "correct_index": 1,
       "explanation": "Rule 17 allows the stand-on vessel to act once it becomes apparent that the give-way vessel is not taking appropriate action. If you delay, both vessels may act at the same moment and their actions may cancel out. Early action is required in all conditions, and it is meant to give a wider margin, not a smaller one.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-16.q05",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are overtaking a slower vessel in a wide channel in clear weather. Does Rule 16 apply to you?",
       "options": [
         "No, Rule 16 applies only to crossing situations",
-        "Yes, an overtaking vessel is directed to keep out of the way, so she must take early and substantial action to keep well clear",
+        "Yes: overtaking vessels keep out of the way",
         "Only if the vessel ahead sounds a signal",
         "Only if you are a power-driven vessel"
       ],
       "correct_index": 1,
       "explanation": "Rule 16 covers every vessel directed to keep out of the way, and Rule 13 directs the overtaking vessel to do so, whatever kind of vessel she is. No signal from the vessel ahead is needed.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-16.q06",
       "lesson_id": "colregs.rule-16.give-way-action",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "In thick fog you detect, by radar only, a vessel on your starboard bow on a steady bearing. Does Rule 16 tell you what to do?",
       "options": [
         "Yes; she is on your starboard side, so you are give-way and must act early and substantially",
-        "No; Rule 16 is in Section II, which applies only to vessels in sight of one another, so Rule 19 governs",
+        "No: it is in Section II, so Rule 19 governs",
         "No; in fog neither vessel needs to act until a fog signal is heard",
-        "Yes, but only if she is a power-driven vessel"
+        "Yes, if she is power-driven"
       ],
       "correct_index": 1,
       "explanation": "Section II, including Rule 16, applies only when vessels are in sight of one another. A radar-only contact in fog is covered by Rule 19, which requires both vessels to act in ample time if a close-quarters situation or risk of collision is developing. Waiting for a fog signal is not what Rule 19 says.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

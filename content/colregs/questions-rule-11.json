@@ -4,7 +4,11 @@
     {
       "id": "colregs.rule-11.q01",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Rule 11 says the rules in Section II apply to which vessels?",
       "options": [
@@ -15,13 +19,19 @@
       ],
       "correct_index": 1,
       "explanation": "Rule 11 limits Section II to vessels in sight of one another. 'Any condition of visibility' describes Section I (Rule 4). Vessels not in sight of one another in or near restricted visibility fall under Rule 19 in Section III. Section II is not limited by vessel type or length.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-11.q02",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which Rules make up Section II of Part B?",
       "options": [
@@ -32,13 +42,19 @@
       ],
       "correct_index": 1,
       "explanation": "Section II is Rules 11 to 18: application, sailing vessels, overtaking, head-on, crossing, give-way, stand-on and responsibilities between vessels. Rules 4 to 10 are Section I. Rule 19 is Section III on its own, so 'Rules 11 to 19' wrongly mixes two sections.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-11.q03",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "When are two vessels 'in sight of one another' for the purposes of the Rules?",
       "options": [
@@ -49,13 +65,19 @@
       ],
       "correct_index": 2,
       "explanation": "The definition is visual: one vessel can be observed visually from the other. Radar and AIS detection do not count, however clear the picture. The Rules set no distance for being in sight.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-11.q04",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In thick fog, your radar shows a vessel on your starboard bow with a steady bearing. You cannot see her. Which statement is correct?",
       "options": [
@@ -66,41 +88,55 @@
       ],
       "correct_index": 2,
       "explanation": "Section II needs the vessels to be in sight of one another, so the crossing rule does not apply to a radar-only contact. In or near restricted visibility Rule 19 applies, and both vessels must act on it. Rule 19 does not wait for a fog signal; radar detection alone can call for action.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-11.q05",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are in a crossing situation with a vessel in plain sight. Which of these rules still applies to you alongside Section II?",
       "options": [
         "None; once Section II applies, Section I is suspended",
-        "Rule 5 (lookout) and Rule 6 (safe speed), because Section I applies in any condition of visibility",
-        "Rule 19, because it applies in all visibilities",
+        "Rules 5 and 6, since Section I always applies",
+        "Rule 19, in all visibilities",
         "Only Rule 17, because Section II overrides everything else"
       ],
       "correct_index": 1,
       "explanation": "Section I (Rules 4 to 10) applies in any condition of visibility, so lookout, safe speed, risk of collision and Rule 8 keep applying with Section II. Rule 19 only applies to vessels not in sight of one another in or near restricted visibility.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-11.q06",
       "lesson_id": "colregs.rule-11.section-ii-application",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "You are on watch in a power-driven vessel. In patchy haze you have been tracking a radar contact closing from your port bow. At 1.5 miles she comes out of the haze and you can see her clearly: a power-driven vessel crossing. What changes at the moment you see her?",
       "options": [
         "Nothing; once you start under Rule 19 you must finish the encounter under Rule 19",
-        "Section II now applies between you, and the crossing rule decides who keeps out of the way",
+        "Section II now applies; the crossing rule decides",
         "You become the stand-on vessel automatically because you detected her first",
-        "Section I stops applying because Section II has taken over"
+        "Section I stops applying"
       ],
       "correct_index": 1,
       "explanation": "Rule 11 applies Section II whenever vessels are in sight of one another. Once you can see her, the crossing rule (Rule 15) sets the roles: here she has you on her starboard side, so she should keep out of the way. Who detected whom first is irrelevant, and Section I continues to apply.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

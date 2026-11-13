@@ -4,86 +4,115 @@
     {
       "id": "colregs.rule-31.q01",
       "lesson_id": "colregs.rule-31.seaplanes-wig",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "A seaplane cannot carry lights with the exact characteristics and positions the Rules prescribe. What does Rule 31 require?",
       "options": [
         "She shows a blue flashing light instead",
         "She may operate on the water only in daylight",
         "She is exempt from showing any lights",
-        "She shows lights and shapes as closely similar in characteristics and position as is possible"
+        "Lights and shapes as close as possible"
       ],
       "correct_index": 3,
       "explanation": "Rule 31 requires the closest possible similarity in characteristics and position when the prescribed lights and shapes are impracticable. It does not exempt her, substitute a blue light, or ban night operation.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-31.q02",
       "lesson_id": "colregs.rule-31.seaplanes-wig",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Do the Canadian Collision Regulations apply to a floatplane taxiing on the water in a Canadian harbour?",
       "options": [
-        "Yes, the Regulations apply to every seaplane on or over Canadian waters, and \"vessel\" is read to include a seaplane on or over the water",
+        "Yes: \"vessel\" includes a seaplane on the water",
         "Only if the floatplane is over 20 m long",
         "No, aircraft are covered only by aviation rules",
-        "Only once she is airborne"
+        "Only once she is airborne over the water"
       ],
       "correct_index": 0,
       "explanation": "Section 3 of the Regulations applies them to every seaplane on or over Canadian waters, and section 1 reads \"vessel\" to include a seaplane on or over the water, with limited exceptions. There is no length limit, and they apply on the water, not only in flight.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-31.q03",
       "lesson_id": "colregs.rule-31.seaplanes-wig",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Your water taxi and a taxiing floatplane are converging in a harbour, but there is not yet a risk of collision. What is the floatplane's general duty?",
       "options": [
-        "In general she keeps well clear of all vessels and avoids impeding their navigation",
+        "Keep well clear of all vessels and not impede",
         "She must stop her engine until you have passed",
         "She has priority over all vessels and you must keep clear",
         "She is treated as a vessel restricted in her ability to manoeuvre"
       ],
       "correct_index": 0,
       "explanation": "Rule 18(e): a seaplane on the water shall, in general, keep well clear of all vessels and avoid impeding their navigation. If risk of collision does exist, she complies with the steering and sailing rules. She has no general priority and is not a RAM vessel.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-31.q04",
       "lesson_id": "colregs.rule-31.seaplanes-wig",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "A seaplane on the water and your vessel are now on crossing courses with risk of collision. Which rules govern the situation?",
       "options": [
-        "The steering and sailing rules of Part B, as for vessels",
+        "Part B steering and sailing rules",
         "Air traffic control instructions only",
-        "Rule 31 alone",
+        "Rule 31 alone, and nothing else",
         "None; the seaplane must always keep clear whatever happens"
       ],
       "correct_index": 0,
       "explanation": "Rule 18(e) says that where risk of collision exists, a seaplane complies with the Rules of Part B, so the normal crossing, head-on and overtaking rules apply. Her general duty to keep clear does not replace them once risk exists, and Rule 31 is only about lights and shapes.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.rule-31.q05",
       "lesson_id": "colregs.rule-31.seaplanes-wig",
-      "tickets": ["master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night you see power-driven vessel lights plus a high-intensity all-round flashing red light on a craft accelerating close to the surface. What is she most likely to be?",
       "options": [
         "An air-cushion vessel in non-displacement mode",
         "A vessel carrying dangerous goods",
-        "A WIG craft taking off, landing or in flight near the surface",
+        "A WIG craft near the surface",
         "A vessel not under command"
       ],
       "correct_index": 2,
       "explanation": "Rule 23(c) gives WIG craft a high-intensity all-round flashing red light when taking off, landing and in flight near the surface. NUC is two steady reds, an air-cushion vessel shows a flashing yellow light, and the Canadian dangerous goods signal is a steady red light or flag B when not underway.",
-      "source_ids": ["lights-crc1416-xml"],
+      "source_ids": [
+        "lights-crc1416-xml"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

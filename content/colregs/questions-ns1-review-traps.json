@@ -13,7 +13,7 @@
       "stem": "In dense fog your radar shows a vessel steady on your port bow at 3 miles. You cannot see her. A watchkeeper says, 'She is on our port side, so under the crossing rule we are the stand-on vessel.' What is the correct response?",
       "options": [
         "He is right: with the contact on your port side you are stand-on under Rule 15 and must hold course and speed",
-        "Rule 19 applies: neither vessel is stand-on, so you must act early, and you should avoid a turn to port for a contact forward of the beam",
+        "Rule 19: no stand-on; act early, avoid a port turn",
         "She is give-way because she is the one on your port side, so you can ignore her",
         "Rule 19 makes the faster vessel stand-on"
       ],
@@ -93,7 +93,7 @@
       "difficulty": "hard",
       "stem": "Which pair of statements is correct for two power-driven vessels?",
       "options": [
-        "Head-on: both alter to starboard and neither is stand-on. Crossing: the vessel with the other on her own starboard side gives way.",
+        "Head-on: both alter to starboard. Crossing: one with other to starboard gives way",
         "Head-on: the vessel on the other's port side gives way. Crossing: both alter to starboard.",
         "Head-on: both alter to port. Crossing: the vessel with the other on her own port side gives way.",
         "Head-on: the larger vessel stands on. Crossing: the vessel with the other on her own starboard side stands on."
@@ -121,9 +121,9 @@
       "stem": "You are the stand-on vessel in a crossing situation with the give-way vessel on your port side. She has made no change and the distance is closing, but collision is not yet unavoidable by her action alone. Which statement is correct?",
       "options": [
         "You must keep course and speed until collision is certain; any earlier action is forbidden",
-        "You may act on your own, but as a power-driven vessel you should avoid turning to port for a vessel on your own port side; if in doubt, sound five short blasts",
-        "You may turn to port to go round her stern",
-        "You must act only when she sounds five short blasts"
+        "You may act, but avoid a port turn; five short if in doubt",
+        "You may turn to port to go round under her stern",
+        "You must act only after she sounds five short blasts"
       ],
       "correct_index": 1,
       "explanation": "Rule 17 has stages: keep course and speed; may act once it is apparent the give-way vessel is not acting appropriately; must act when she is so close that collision cannot be avoided by the give-way vessel alone. At stage 2 a power-driven stand-on vessel avoids a turn to port for a vessel on her own port side, and a vessel in doubt sounds at least five short and rapid blasts. The doubt signal is yours to give; you do not wait for hers.",
@@ -149,7 +149,7 @@
       "options": [
         "The power-driven vessel must give way, because every fishing vessel has priority under Rule 18",
         "The power-driven vessel must give way because trolling boats are restricted in their ability to manoeuvre",
-        "The trolling boat is not engaged in fishing, so the ordinary crossing rule applies: the power-driven vessel is stand-on and the other boat must keep clear",
+        "Trolling isn't fishing; normal crossing rule, she keeps clear",
         "Neither vessel is stand-on because the boat is fishing"
       ],
       "correct_index": 2,
@@ -201,8 +201,8 @@
       "difficulty": "medium",
       "stem": "In thick fog you hear one prolonged blast followed by two short blasts, repeated about every 2 minutes, from a vessel you cannot see. Which statement is correct?",
       "options": [
-        "It may be a vessel not under command, restricted, constrained by draught, sailing, fishing, or towing or pushing; it does not tell you which",
-        "She is altering course to port",
+        "Any of NUC, RAM, CBD, sail, fishing or towing",
+        "She is altering course to port in the fog",
         "She is a power-driven vessel making way",
         "She is at anchor and warning you of her position"
       ],
@@ -228,10 +228,10 @@
       "difficulty": "medium",
       "stem": "A watchkeeper writes in the log after a near miss: 'We were stand-on, so the other vessel was fully to blame.' Which statement best reflects Rule 2?",
       "options": [
-        "Stand-on vessels cannot be held responsible for any collision",
-        "Being the stand-on vessel is not a complete defence: neglect of any precaution required by the ordinary practice of seamen or special circumstances can leave you answerable",
+        "Stand-on vessels cannot be held responsible for any collision at all",
+        "Stand-on is no full defence; neglect can still count",
         "A departure from the Rules is allowed whenever the master thinks it sensible",
-        "Rule 2 applies only to give-way vessels"
+        "Rule 2 binds give-way only"
       ],
       "correct_index": 1,
       "explanation": "Rule 2 says nothing excuses a vessel, owner, master or crew from the consequences of neglect, including neglecting sensible precautions. A departure from the Rules is justified only to avoid immediate danger. The Rule applies to every vessel.",
@@ -255,9 +255,9 @@
       "difficulty": "hard",
       "stem": "At night in fog your radar shows nothing ahead. Later a large tow comes into view at close range, even though the radar bearing of a contact had been changing slowly. Which statement is correct?",
       "options": [
-        "A changing bearing always means no risk of collision",
+        "A changing bearing always means there is no risk of collision",
         "Radar shows every vessel, so the tow must have been hidden by AIS",
-        "A clear radar screen does not prove the water is clear, and risk of collision can exist even when the bearing changes, especially with a tow or at close range",
+        "Clear radar isn't clear water; risk can exist as bearing changes",
         "Risk of collision exists only if the compass bearing is steady"
       ],
       "correct_index": 2,

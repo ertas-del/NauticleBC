@@ -12,9 +12,9 @@
       "difficulty": "easy",
       "stem": "In fog you hear a vessel's horn sounding continuously, with no pattern and no breaks. What is the most likely meaning?",
       "options": [
-        "A power-driven vessel making way",
-        "A distress signal: continuous sounding with fog-signalling apparatus",
-        "A vessel at anchor",
+        "A power-driven vessel making way through the water",
+        "A distress signal by continuous fog signal",
+        "A vessel at anchor ringing out a warning",
         "A vessel overtaking in a narrow channel"
       ],
       "correct_index": 1,
@@ -36,9 +36,9 @@
       "difficulty": "easy",
       "stem": "Which of these is a distress signal under Annex IV?",
       "options": [
-        "A white hand flare",
-        "A green star rocket",
-        "A smoke signal giving off orange smoke",
+        "A white hand flare held high",
+        "A green star rocket fired upward",
+        "A signal giving orange smoke",
         "A yellow flashing light"
       ],
       "correct_index": 2,
@@ -60,10 +60,10 @@
       "difficulty": "medium",
       "stem": "Which sound signal is listed in Annex IV as a distress signal?",
       "options": [
-        "Five short and rapid blasts",
-        "One prolonged blast every 2 minutes",
-        "Four short blasts",
-        "A gun or other explosive signal fired at intervals of about a minute"
+        "Five short and rapid blasts on the whistle",
+        "One prolonged blast every 2 minutes or less",
+        "Four short blasts repeated at intervals",
+        "A gun fired at about one-minute intervals"
       ],
       "correct_index": 3,
       "explanation": "A gun or other explosive signal fired at about one-minute intervals is an Annex IV distress signal, as is a continuous fog signal. Five short is the Rule 34 doubt signal, one prolonged every 2 minutes is a power-driven vessel making way in fog, and four short is the pilot vessel identity signal.",
@@ -109,8 +109,8 @@
       "stem": "Which group lists only Annex IV radio or electronic distress signals?",
       "options": [
         "VHF channel 16 routine call, AIS position report, radar echo",
-        "MAYDAY by radiotelephone, DSC distress alert on VHF channel 70, EPIRB signals",
-        "SECURITE call, weather broadcast, DSC routine call",
+        "MAYDAY by voice, DSC distress on channel 70, EPIRB",
+        "SECURITE call and weather",
         "PAN-PAN call, VHF channel 13 bridge-to-bridge call, navigation warning"
       ],
       "correct_index": 1,
@@ -155,10 +155,10 @@
       "difficulty": "hard",
       "stem": "Annex IV mentions two aids that help aircraft identify a vessel in distress. What are they?",
       "options": [
-        "A white sheet and a mirror",
-        "A red flag and a smoke float",
+        "A white bedsheet and a signalling mirror",
+        "A red flag and a floating smoke canister",
         "Navigation lights left on in daylight and a radar reflector",
-        "Orange canvas with a black square and circle (or other suitable symbol), and a dye marker"
+        "Orange canvas with a black square and circle, and a dye marker"
       ],
       "correct_index": 3,
       "explanation": "Annex IV draws attention to a piece of orange canvas with a black square and circle (or other suitable symbol) for identification from the air, and a dye marker. The other combinations may help in practice but are not the items named.",
@@ -179,10 +179,10 @@
       "difficulty": "hard",
       "stem": "At night in Canadian waters you see a high-intensity white light flashing steadily at about one flash per second from a low position on the water. How should you treat it?",
       "options": [
-        "As a possible distress signal, since a white light flashing 50 to 70 times a minute is reported as a Canadian distress signal",
+        "As a possible Canadian distress signal",
         "As an aid to navigation, so check the chart and carry on",
-        "As a vessel at anchor",
-        "As a fishing vessel hauling nets"
+        "As a vessel at anchor showing her anchor light",
+        "As a fishing vessel"
       ],
       "correct_index": 0,
       "explanation": "A secondary source reports that the Canadian Annex IV lists a high-intensity white light flashing at regular intervals of 50 to 70 times a minute (about one per second) as a distress signal in Canadian waters. Treat it as possible distress: note the bearing and time and tell the master. Anchor lights are steady, not flashing. This Canadian item still needs confirming against the current text.",

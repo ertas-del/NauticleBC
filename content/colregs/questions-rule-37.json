@@ -61,7 +61,7 @@
       "stem": "A guest wants to fire an out-of-date red hand flare over the anchorage to celebrate a birthday. What does Annex IV say?",
       "options": [
         "That is fine if the flare is expired",
-        "Distress signals must not be used except to indicate distress and need of assistance",
+        "Distress signals are only for distress",
         "That is fine if done before midnight",
         "Only parachute flares are restricted"
       ],
@@ -85,7 +85,7 @@
       "stem": "Your engine has failed in a sheltered bay, the anchor is holding well and no one is hurt. You want a tow. Which is the best approach?",
       "options": [
         "Fire red flares under Rule 37",
-        "Treat it as a routine call for assistance; it is not a distress situation",
+        "A routine call; it is not distress",
         "Sound continuous fog signals",
         "Show a square flag with a ball above it"
       ],
@@ -112,7 +112,7 @@
         "Rule 36 is for large vessels and Rule 37 for small ones",
         "Rule 36 covers sound signals and Rule 37 covers light signals",
         "They are two names for the same thing",
-        "Rule 36 covers signals to attract attention when not in distress; Rule 37 covers signals of distress and need of assistance"
+        "36: attract attention; 37: distress"
       ],
       "correct_index": 3,
       "explanation": "Rule 36 lets any vessel attract attention with signals that cannot be confused with others. Rule 37 is specifically for a vessel in distress needing help, using the Annex IV signals. Both rules apply to all vessels and both include light and sound signals.",

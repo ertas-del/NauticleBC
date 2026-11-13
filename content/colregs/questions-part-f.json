@@ -13,7 +13,7 @@
       "stem": "A tank barge loaded with dangerous goods is being towed out of a Canadian harbour. What signal does Rule 39 require of her while underway?",
       "options": [
         "An all-round red light and flag \"B\"",
-        "Flag \"B\" only, and not the all-round red light",
+        "Flag \"B\" only, not the red light",
         "An all-round red light only",
         "Two all-round red lights in a vertical line"
       ],
@@ -35,9 +35,9 @@
       "difficulty": "medium",
       "stem": "Which vessel does Rule 40 say shall, if practicable, carry a radar reflector or other means of being detected by radar?",
       "options": [
-        "Only steel vessels over 50 m",
-        "A vessel under 20 m, or a vessel built mainly of non-metallic material",
-        "Only pleasure craft",
+        "Only steel vessels over 50 m in length",
+        "Under 20 m, or mainly non-metallic",
+        "Only pleasure craft, of any size",
         "Only vessels fitted with their own radar"
       ],
       "correct_index": 1,
@@ -58,9 +58,9 @@
       "stem": "In which situation does the Rule 40 radar reflector requirement NOT apply to a 9 m fibreglass boat?",
       "options": [
         "Crossing a busy shipping lane at night in fog",
-        "Working close inshore in daylight, light traffic and good weather, where a reflector is not essential for her safety",
-        "Whenever she carries a VHF radio",
-        "Whenever she is under sail"
+        "Inshore, daylight, light traffic, good weather",
+        "Whenever she carries a working VHF radio",
+        "Whenever she is under sail and not motoring"
       ],
       "correct_index": 1,
       "explanation": "Rule 40 does not apply when the vessel operates in limited traffic, daylight and favourable conditions and compliance is not essential for her safety, or when her small size or operation away from radar navigation makes it impracticable. Fog and a shipping lane at night are exactly when a reflector matters; carrying a VHF or being under sail is not an exception.",
@@ -80,7 +80,7 @@
       "stem": "A crew member wants to fit a radar beacon (racon-type transponder) to your workboat so ships can see her better. What does Rule 41 say?",
       "options": [
         "It is encouraged for all small vessels",
-        "No vessel except one in distress may use a transponder sending radar responder or beacon signals in the 3 or 10 cm marine radar bands, apart from authorized exploration or exploitation vessels",
+        "Not allowed except in distress, or for authorized exploration",
         "It is allowed as long as it is switched off in port",
         "It replaces the need for navigation lights"
       ],
@@ -101,10 +101,10 @@
       "difficulty": "medium",
       "stem": "A drilling vessel is in position with anchors laid 800 m out from her hull. Under Rule 43, how far does her standard safety zone extend, and who may enter?",
       "options": [
-        "500 m; any vessel at safe speed",
-        "850 m (50 m beyond the anchor pattern); only vessels in distress, saving life, operating for the government with jurisdiction, or with permission from the person in charge",
-        "1 mile; nobody under any circumstances",
-        "50 m; only supply vessels"
+        "500 m from the hull; any vessel may enter at a safe speed",
+        "850 m; only distress, life-saving, government or permitted",
+        "1 mile from the hull; nobody may enter under any circumstances",
+        "50 m beyond the hull; only her own supply vessels"
       ],
       "correct_index": 1,
       "explanation": "The safety zone runs from the vessel's outer extremities to the greater of 500 m in all directions or 50 m beyond the anchor pattern, here about 850 m. No vessel may navigate in it unless in distress, saving life or assisting, operated for the state with jurisdiction, or given permission by the person in charge. The Minister may set a larger zone.",
@@ -125,7 +125,7 @@
       "stem": "Under Rule 44, how must a Canadian ODAS that floats with part of its structure above the water be marked and lit, where technically practicable?",
       "options": [
         "Red and white vertical stripes with a red ball topmark and a white light flashing every 10 seconds",
-        "Coloured yellow, with a yellow X topmark and a yellow light giving five flashes every 20 seconds visible at least 5 miles",
+        "Yellow, yellow X topmark, yellow Fl(5) 20s light, 5 miles",
         "Black with two black balls and a white light flashing 50 to 70 times a minute",
         "Orange, with a flag \"B\" and an all-round red light"
       ],
@@ -146,10 +146,10 @@
       "difficulty": "hard",
       "stem": "Which of these Canadian vessels, all required by Part C to show lights, must be fitted with an alternate system of navigation lights under Rule 46?",
       "options": [
-        "A 13 m crew boat",
+        "A 13 m steel crew boat",
         "An 18 m commercial water taxi",
         "A 25 m cable ferry",
-        "A 20 m pleasure yacht"
+        "A 20 m private pleasure yacht"
       ],
       "correct_index": 1,
       "explanation": "Rule 46 requires a backup set of masthead lights, sidelights, sternlight and anchor lights on a Canadian vessel required to show lights, but does not apply to vessels under 15 m, cable ferries or pleasure craft. That leaves the 18 m commercial water taxi.",
@@ -169,10 +169,10 @@
       "difficulty": "medium",
       "stem": "A Coast Guard Auxiliary vessel shows a blue flashing light while searching at the Coast Guard's request. She is crossing ahead of you from port. Which statement is correct?",
       "options": [
-        "The blue light gives her right of way over all vessels",
-        "She may show the blue light as an identification signal, but it does not relieve her from the steering and sailing rules",
-        "Auxiliary vessels may never show a blue light",
-        "The blue light means she is in distress"
+        "The blue light gives her right of way over all other vessels",
+        "It identifies her but does not change the steering rules",
+        "Auxiliary vessels may never show a blue light at all",
+        "The blue light means she is in distress herself"
       ],
       "correct_index": 1,
       "explanation": "Rule 45 allows government and police vessels in stated situations, and Coast Guard Auxiliary vessels in SAR at Coast Guard request, to show a blue flashing light as an identification signal. It does not relieve them from the Part B steering and sailing rules, so the normal crossing rules still apply.",

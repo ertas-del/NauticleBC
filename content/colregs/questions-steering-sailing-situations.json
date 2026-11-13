@@ -4,109 +4,152 @@
     {
       "id": "colregs.steering-sailing.q01",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You steer 330 degrees true in clear weather. A power-driven vessel bears 100 degrees true from you and is gaining on you. What is the situation?",
       "options": [
         "Crossing; she is on your starboard side, so you give way",
-        "She is overtaking you; she keeps clear and you keep course and speed",
+        "Overtaking: she keeps clear, you stand on",
         "Head-on; both alter to starboard",
         "Crossing; she is on your port side, so she gives way"
       ],
       "correct_index": 1,
       "explanation": "Relative bearing = 100 - 330 = -230, + 360 = 130 degrees. That is 40 degrees abaft your starboard beam, beyond the 22.5 degree line (112.5 relative), so she is overtaking. Under Rule 13 she keeps clear; under Rule 17 you keep course and speed. Calling it a crossing ignores the overtaking sector.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q02",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "You steer 010 degrees true in a power-driven vessel. A faster power-driven vessel bears 120 degrees true from you and is converging with a steady bearing. Who keeps out of the way?",
       "options": [
         "She does, because she is coming from abaft your beam and so is overtaking",
-        "You do, because she is 20 degrees abaft your starboard beam, which is not far enough aft to be overtaking, so it is a crossing with her on your starboard side",
-        "Neither; both alter to starboard",
+        "You do: only 20 deg abaft the beam, so crossing",
+        "Neither; both alter course to starboard",
         "She does, because she is the faster vessel"
       ],
       "correct_index": 1,
       "explanation": "Relative bearing = 120 - 010 = 110 degrees, which is 20 degrees abaft the beam. The overtaking sector starts more than 22.5 degrees abaft the beam (112.5 relative), so this is a crossing. She is on your starboard side, so under Rule 15 you give way. Speed does not decide who gives way.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q03",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is the first question to ask yourself in any encounter, before choosing an action?",
       "options": [
-        "Which vessel is larger?",
-        "Can I see her, or is she a radar or AIS contact only?",
-        "Which vessel is faster?",
+        "Which of the two vessels is larger?",
+        "Can I see her, or is she radar/AIS only?",
+        "Which of the two vessels is faster?",
         "Which vessel has been on her course longer?"
       ],
       "correct_index": 1,
       "explanation": "Whether the vessels are in sight of one another decides whether Section II (Rules 11 to 18) or Rule 19 applies, and so whether there is a stand-on vessel at all. Size, speed and how long a vessel has held her course do not decide the rule.",
-      "source_ids": ["colregs-canada"],
+      "source_ids": [
+        "colregs-canada"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q04",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night, in a power-driven vessel, you see dead ahead two white lights nearly in line, the after one higher, with both a red and a green light below them. The range is closing. What do you do?",
       "options": [
         "Stand on; she must give way to you",
-        "Alter course to starboard; she should do the same, and you pass port to port",
+        "Turn to starboard; pass port to port",
         "Alter course to port to pass starboard to starboard",
         "Stop engines and wait for her to pass"
       ],
       "correct_index": 1,
       "explanation": "Masthead lights in line and both sidelights mean a head-on situation with a power-driven vessel. Rule 14 makes both alter to starboard and pass port to port; neither stands on. A port turn risks meeting her starboard turn. Stopping alone is not what Rule 14 asks.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q05",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are the stand-on power-driven vessel in a crossing. The give-way vessel on your port bow has not altered and the range is down to about 1.5 miles. You are now in doubt whether she is taking enough action. What is the correct next step?",
       "options": [
         "Keep course and speed silently until she is within a few lengths",
-        "Sound at least five short and rapid blasts, and if she still does not act, you may take action yourself, avoiding a turn to port",
+        "Five short; then you may act, not to port",
         "Alter course to port to pass ahead of her",
         "Sound one prolonged blast and increase speed"
       ],
       "correct_index": 1,
       "explanation": "Rule 34(d) requires an immediate doubt signal of at least five short and rapid blasts. Rule 17(a)(ii) then allows the stand-on vessel to act, and Rule 17(c) says not to turn to port for a vessel on your own port side. Waiting silently until very close throws away time; speeding up or turning to port can make things worse.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q06",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Put the stand-on vessel's duties in the right order as the range closes.",
       "options": [
         "May act; keep course and speed; must act",
-        "Keep course and speed; may act alone once the give-way vessel is apparently not acting; must act when collision cannot be avoided by the give-way vessel alone",
+        "Keep course and speed; may act alone; must act",
         "Must act; may act; keep course and speed",
         "Keep course and speed throughout, because the give-way vessel has the whole duty"
       ],
       "correct_index": 1,
       "explanation": "Rule 17 moves from 'keep course and speed', to 'may act' once it is apparent the give-way vessel is not acting, to 'shall act' when collision cannot be avoided by the give-way vessel alone. Holding on throughout breaches the 'shall' stage.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q07",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In fog, with nothing in sight, a radar contact at 030 degrees relative is closing with a steady bearing. A close-quarters situation is developing. If you alter course, which is the usual choice?",
       "options": [
@@ -117,58 +160,82 @@
       ],
       "correct_index": 1,
       "explanation": "The contact is forward of the beam, so Rule 19(d)(i) says avoid a turn to port. A bold, early starboard turn (Rule 8) is the usual action. There is no stand-on or give-way vessel in Rule 19, and small alterations are hard for the other vessel's radar to detect.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q08",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "In fog you have two radar contacts closing: one at 030 degrees relative and one at 135 degrees relative. Both are developing into close-quarters situations. Which action best fits Rule 19(d)?",
       "options": [
         "A large turn to port, because it clears the contact on the bow",
         "A large turn to starboard, because it clears the contact on the bow",
-        "A substantial reduction of speed, and taking all way off if necessary, while plotting both contacts",
+        "Cut speed hard, stop if needed, and plot both",
         "Hold course and speed because the two risks cancel out"
       ],
       "correct_index": 2,
       "explanation": "A port turn is to be avoided for the contact forward of the beam, and a starboard turn would be towards the contact abaft the starboard beam, which Rule 19(d)(ii) also says to avoid. Reducing speed avoids both restrictions and buys time; Rule 8 allows it. Holding on does nothing about either risk.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q09",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "In clear weather a tug is overtaking your power-driven vessel from your starboard quarter. A fog bank closes in and you lose sight of her, though she is still on radar at 140 degrees relative and closing. What changes?",
       "options": [
         "Nothing; she remains the overtaking vessel and you remain stand-on",
-        "Rule 19 now applies; there is no stand-on vessel, and if you alter course you should avoid turning to starboard, towards her",
+        "Rule 19 applies; no stand-on; avoid turning toward her",
         "You must now give way to her because she is on your starboard side",
         "Both vessels must stop until the fog clears"
       ],
       "correct_index": 1,
       "explanation": "Once you are not in sight of one another in restricted visibility, Section II (including Rule 13 and Rule 17) no longer applies and Rule 19 governs. She is abaft your starboard beam, so Rule 19(d)(ii) says avoid altering towards her, that is, to starboard. The crossing rule needs the vessels to be in sight, and the Rules do not require both to stop.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "colregs.steering-sailing.q10",
       "lesson_id": "colregs.steering-sailing.situations",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In clear weather your power-driven vessel meets a seine boat with her net out, crossing from your port side with a steady bearing. Who keeps out of the way?",
       "options": [
         "She does, because she has you on her starboard side",
-        "You do, because Rule 18 has a power-driven vessel keep out of the way of a vessel engaged in fishing",
-        "Both alter to starboard",
+        "You do: Rule 18, fishing vessel",
+        "Both alter course to starboard",
         "She does, because she is smaller"
       ],
       "correct_index": 1,
       "explanation": "The crossing rule (Rule 15) applies only between two power-driven vessels. A seine boat with her net out is engaged in fishing, so Rule 18(a) applies and you keep out of the way, whichever side she is on. Size is not a factor.",
-      "source_ids": ["colregs-canada", "colregs-steering-crc1416-2008-copy"],
+      "source_ids": [
+        "colregs-canada",
+        "colregs-steering-crc1416-2008-copy"
+      ],
       "review_status": "needs_expert_review"
     }
   ]
