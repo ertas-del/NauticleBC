@@ -14,7 +14,7 @@
       "options": [
         "Powered from the emergency battery so that it works during a blackout",
         "Mounted in the chart room, with a repeater at the wheel",
-        "Independent of any power supply, able to give the heading and to show it at the main steering position",
+        "Needs no power; shows heading at the main steering position",
         "Fitted with a gyro-compass repeater as its only reading"
       ],
       "correct_index": 2,
@@ -35,7 +35,7 @@
       "difficulty": "medium",
       "stem": "Which vessel may legally go without a standard magnetic compass?",
       "options": [
-        "A 7.5 m vessel that always navigates within sight of navigation marks",
+        "A 7.5 m vessel always in sight of marks",
         "A 12 m workboat that stays within sight of navigation marks",
         "A 7.5 m vessel that goes out of sight of navigation marks",
         "Any vessel that carries a GNSS receiver"
@@ -60,7 +60,7 @@
       "options": [
         "Both a standard magnetic compass and a gyro-compass are always required",
         "A gyro-compass alone is sufficient",
-        "A steering magnetic compass may be fitted instead of a standard magnetic compass",
+        "A steering magnetic compass instead of a standard one",
         "No compass is needed if she has a chart plotter"
       ],
       "correct_index": 2,
@@ -104,9 +104,9 @@
       "difficulty": "medium",
       "stem": "At an inspection of compasses on a vessel that is not a pleasure craft, what can the master show under s. 132?",
       "options": [
-        "The most recent deviation card for each compass, signed and dated by the master and a deck officer, or a signed statement that the compasses are satisfactory",
         "A deviation card signed by the inspector at the time of inspection",
         "The owner's purchase receipt for each compass",
+        "Latest signed deviation cards, or a signed statement",
         "A statement signed by the master alone"
       ],
       "correct_index": 0,
@@ -200,8 +200,8 @@
       "options": [
         "Apply the deviation from the ship's card as well as variation",
         "The steel does not matter because a hand compass has no deviation",
-        "Move clear of iron, or check against a known bearing first, and use variation only; the ship's deviation card does not apply to a hand compass",
-        "Add the gyro error instead"
+        "Move clear or check it; apply variation only",
+        "Add the gyro error instead of variation"
       ],
       "correct_index": 2,
       "explanation": "Iron close to a hand compass produces errors that the ship's card does not describe. Either hold it clear of iron or check it against a known bearing. Applying the ship's deviation to a hand-held compass is a classic mistake.",
@@ -248,7 +248,7 @@
         "A gyro-compass as well as the magnetic compass",
         "A spare magnetic compass of a different make",
         "A deviation card signed by the owner",
-        "A means of correcting headings and bearings to true at all times"
+        "A means to correct headings to true at all times"
       ],
       "correct_index": 3,
       "explanation": "Section 106(5) calls for a means of correcting headings and bearings to true at all times (in practice the variation, the deviation table and a way to apply them). The spare compass duty is in s. 109 for vessels of 150 GT or more.",
@@ -269,7 +269,7 @@
       "stem": "Under NSR 2020 s. 145(b), a vessel required to carry charts must also be fitted with navigation accessories for what purpose?",
       "options": [
         "To measure the speed of the current",
-        "To determine the accuracy of compass readings",
+        "To check the accuracy of compass readings",
         "To record the log book automatically",
         "To determine the height of tide"
       ],

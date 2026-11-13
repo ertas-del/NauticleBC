@@ -12,7 +12,7 @@
       "stem": "What is dead reckoning?",
       "options": [
         "Finding a position by bearings of two charted objects",
-        "Finding a position by advancing a known position along the course steered and the distance run through the water",
+        "Advancing a known position by course and distance run",
         "Finding a position by radar ranges",
         "Finding the current by comparing two fixes"
       ],
@@ -34,7 +34,7 @@
       "difficulty": "medium",
       "stem": "Which of these does a DR position leave out?",
       "options": [
-        "Current, wind and leeway, steering error and compass error",
+        "Current, leeway, steering and compass error",
         "The course steered",
         "The speed through the water",
         "The time elapsed since the last fix"
@@ -60,7 +60,7 @@
         "A position from two simultaneous bearings",
         "A DR position with the compass error left out",
         "A position taken from the GNSS receiver",
-        "A DR position corrected for leeway, steering error and current"
+        "DR corrected for leeway, steering, current"
       ],
       "correct_index": 3,
       "explanation": "An EP improves the DR by adding what the DR ignored. It remains an estimate until a fix confirms it.",
@@ -82,7 +82,7 @@
       "options": [
         "Only at each fix",
         "Only at each change of course",
-        "At least every hour, after every change of course or speed, after every fix or running fix, and after a single line of position",
+        "Hourly; after course/speed changes, fixes and single LOPs",
         "Every 15 minutes and at each fix, but not after a single line of position"
       ],
       "correct_index": 2,
@@ -172,9 +172,9 @@
       "difficulty": "medium",
       "stem": "How should the DR plot be labelled?",
       "options": [
-        "Each course line with its true course and speed, and each position with its time in four figures and its type",
-        "Each position with its compass course only",
+        "Courses true with speed; positions timed and typed",
         "Only the fixes need times",
+        "Each position with its compass course only",
         "The time in three figures on the course line"
       ],
       "correct_index": 0,
@@ -243,7 +243,7 @@
       "options": [
         "Only the compass error",
         "Only the speed of the vessel",
-        "Wind, tides, currents and estimated speed",
+        "Wind, tides, currents, estimated speed",
         "Radar ranges only"
       ],
       "correct_index": 2,

@@ -198,7 +198,7 @@
         "Latitude 0 to 180 degrees and longitude 0 to 90 degrees",
         "Both 0 to 360 degrees measured clockwise from north",
         "Latitude 0 to 90 degrees east or west and longitude 0 to 180 degrees north or south",
-        "Latitude 0 to 90 degrees north or south of the equator, longitude 0 to 180 degrees east or west of Greenwich"
+        "Lat 0-90 N or S; long 0-180 E or W"
       ],
       "correct_index": 3,
       "explanation": "Latitude is measured north or south of the equator to a maximum of 90 degrees at the poles. Longitude is measured east or west of the Greenwich meridian to 180 degrees. Directions, not positions, run to 360.",

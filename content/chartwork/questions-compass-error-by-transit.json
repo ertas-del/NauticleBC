@@ -12,7 +12,7 @@
       "stem": "What is a transit in the sense used for finding compass error?",
       "options": [
         "Two buoys on either side of a channel",
-        "Two charted objects seen in line, so that the ship is somewhere on the extension of the line joining them",
+        "Two charted objects seen in line",
         "The moment a heavenly body crosses the meridian",
         "A course made good over the ground"
       ],
@@ -36,7 +36,7 @@
       "options": [
         "Because the compass is more accurate near the objects",
         "Because the objects are always exactly north of the ship",
-        "The true bearing of the line is the same wherever the ship is on the line, so it can be taken from the chart",
+        "Its true bearing is fixed anywhere on the line",
         "Because a transit has no variation"
       ],
       "correct_index": 2,
@@ -126,7 +126,7 @@
       "difficulty": "hard",
       "stem": "A student finds a deviation of 22 degrees W from a transit when the card shows only a few degrees. What is the sensible next step?",
       "options": [
-        "Look for a mistake (variation sign or year, reciprocal bearing, wrong marks) or a magnetic disturbance near the compass before trusting the result",
+        "Look for a working error or a magnetic disturbance",
         "Enter 22 degrees W on the card, since it was measured",
         "Halve the figure, since it is probably double counted",
         "Ignore the transit and use the old card"
@@ -150,8 +150,8 @@
       "stem": "Looking from seaward, a front beacon and a rear tower are in line. Which direction is the true bearing of the transit?",
       "options": [
         "From the rear object toward the front one",
-        "From the front object toward the rear one, which is the direction from you toward both",
-        "The course the ship is steering",
+        "From front to rear: your line of sight to both",
+        "The course the ship is steering at the time",
         "The reciprocal of the direction from you toward the objects"
       ],
       "correct_index": 1,
@@ -197,7 +197,7 @@
       "options": [
         "Every heading of the ship",
         "The heading that the transit bears",
-        "The ship's compass heading at the moment of the observation",
+        "Her compass heading at that moment",
         "The reciprocal of the bearing of the transit"
       ],
       "correct_index": 2,
@@ -219,8 +219,8 @@
       "stem": "What should be entered in the log after a compass check by a transit?",
       "options": [
         "Only the deviation, because it is the only part that changes",
-        "The date, time, ship's heading, true and compass bearings and the resulting error",
-        "Only the variation from the rose",
+        "Date, time, heading, both bearings, error",
+        "Only the variation taken from the rose",
         "Nothing, if the error is within 5 degrees"
       ],
       "correct_index": 1,

@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "What is advanced in a running fix?",
       "options": [
-        "The earlier line of position, by the course and distance run to the time of the later one",
+        "The earlier LOP, by the run to the later time",
         "The later line of position, by the compass error",
         "The DR position, by the current",
         "Both lines, by the variation"
@@ -126,7 +126,7 @@
       "difficulty": "medium",
       "stem": "A ship steers 270 degrees at 8 knots through the water. A known current sets 180 degrees at 1 knot. Between two bearings 30 minutes apart, what run should the first line be advanced by?",
       "options": [
-        "4.03 nm toward about 263 degrees, the run over the ground",
+        "4.03 nm toward about 263 degrees",
         "4.0 nm toward 270 degrees, the run through the water",
         "0.5 nm toward 180 degrees only",
         "4.5 nm toward 270 degrees"
@@ -150,7 +150,7 @@
       "stem": "Why is a running fix less reliable than a simultaneous fix?",
       "options": [
         "Because the bearings are always taken from a different object",
-        "Errors in the course, speed and current used to advance the first line are carried into the position",
+        "Errors in the run used carry into it",
         "Because the compass error changes between bearings",
         "Because a running fix uses only one line of position"
       ],
@@ -195,10 +195,10 @@
       "difficulty": "hard",
       "stem": "A ship steers 270 degrees. The first line of position is drawn through a tower. In which direction is the first line moved to be advanced to the time of the second bearing?",
       "options": [
-        "Along the ship's track, toward 270 degrees (the direction of travel), by the distance run",
+        "Along the track, toward 270, by the run",
         "Toward 090 degrees, the reciprocal",
-        "Toward the tower",
-        "Away from the tower"
+        "Straight toward the tower",
+        "Directly away from the tower"
       ],
       "correct_index": 0,
       "explanation": "The ship has moved along her track, so the first line is carried the same way by the same distance, remaining parallel to its original direction.",
@@ -219,7 +219,7 @@
       "stem": "A compass bearing is used in a running fix. What must be done before the first line is advanced?",
       "options": [
         "Nothing, because advancing removes the compass error",
-        "Convert the compass bearing to true using the compass error for the heading",
+        "Convert it to true with the heading's error",
         "Apply the current to the bearing",
         "Convert it to a relative bearing"
       ],
@@ -241,7 +241,7 @@
       "difficulty": "medium",
       "stem": "A ship is heading 090 degrees true. A light bears 060 degrees true. What is the angle on the bow, and does the doubling method need a steady course and speed?",
       "options": [
-        "30 degrees on the port bow; yes, a steady course and speed are needed between the bearings",
+        "30 degrees on the port bow; yes",
         "30 degrees on the starboard bow; no, the method corrects for changes",
         "60 degrees on the port bow; yes",
         "150 degrees on the port bow; no"

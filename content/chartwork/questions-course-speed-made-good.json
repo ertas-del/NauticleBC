@@ -13,7 +13,7 @@
       "options": [
         "It is the direction of the current",
         "It is the average of the compass courses steered",
-        "It is the true direction of the line from the departure fix to a later fix (or EP)",
+        "True direction from one fix to a later fix",
         "It is the course steered, converted to true"
       ],
       "correct_index": 2,
@@ -180,9 +180,9 @@
       "stem": "Which consumption figure should be used when planning the fuel for a passage?",
       "options": [
         "The figure for full throttle, whatever speed you plan to run",
-        "The figure for the rpm and speed you will actually run, from the engine data or your own log",
+        "The figure for the rpm you'll really run",
         "The lowest figure the engine maker quotes at any speed",
-        "The idle consumption"
+        "The idle consumption figure"
       ],
       "correct_index": 1,
       "explanation": "Consumption varies with rpm, load and sea state. Using a figure for a different speed gives a plan that is wrong in one direction or the other.",
@@ -205,7 +205,7 @@
       "options": [
         "No reserve is needed on a coastal passage",
         "Exactly 10 percent of the passage fuel",
-        "No fixed percentage is given; the skipper chooses a reserve, states it and records the reasons in the passage plan",
+        "No set figure; the skipper sets and logs it",
         "Exactly one third of the tank"
       ],
       "correct_index": 2,
@@ -253,7 +253,7 @@
       "options": [
         "Only at departure",
         "Only if the engine alarm sounds",
-        "At each fix, using the new speed made good",
+        "At each fix, with the new speed made good",
         "Once a day at noon"
       ],
       "correct_index": 2,

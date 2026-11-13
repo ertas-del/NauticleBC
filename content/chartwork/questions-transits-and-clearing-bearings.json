@@ -11,9 +11,9 @@
       "difficulty": "easy",
       "stem": "Why is a transit a particularly good line of position?",
       "options": [
-        "It needs no charted objects",
+        "It needs no charted objects at all",
         "It is always a fix on its own",
-        "It is independent of the compass and is exact if the objects are correctly charted",
+        "Compass-free, and exact if well charted",
         "It is only useful at night"
       ],
       "correct_index": 2,
@@ -34,7 +34,7 @@
       "difficulty": "medium",
       "stem": "What does a clearing bearing labelled NMT mean?",
       "options": [
-        "The bearing of the mark from the ship must be not more than the stated value, and the danger side of the line is hatched",
+        "Bearing must not exceed it; danger side hatched",
         "The ship must keep the bearing exactly at the stated value",
         "The mark must bear at least the stated value",
         "The hatched side is the safe side"
@@ -59,7 +59,7 @@
       "options": [
         "Exactly through the edge of the reef",
         "Through the middle of the reef",
-        "Clear of the reef, with a margin of safe water, not touching it",
+        "Clear of the reef, with a margin",
         "On the far side of the reef from the ship"
       ],
       "correct_index": 2,
@@ -83,7 +83,7 @@
         "The ship is exactly on the line",
         "The beacons are misidentified on the chart",
         "The compass error has changed",
-        "The ship is off the line to one side, and the alignment shows which way to correct"
+        "She is off the line; it shows which way"
       ],
       "correct_index": 3,
       "explanation": "When the front mark opens from the rear mark the ship has left the line. The sense of the opening tells you which way to come back.",
@@ -126,10 +126,10 @@
       "difficulty": "hard",
       "stem": "A ship approaches a light on a track of 045 degrees. A reef lies to starboard of the track. If she drifts toward the reef, the light moves toward her port bow. Which clearing bearing is correct?",
       "options": [
-        "The bearing of the light must be not less than a stated value, an NLT bearing",
-        "The bearing of the light must be not more than a stated value, an NMT bearing",
+        "NLT: not less than a stated bearing",
+        "NMT: not more than a stated bearing",
         "The bearing must be exactly 045 degrees",
-        "No clearing bearing is possible"
+        "No clearing bearing is possible here"
       ],
       "correct_index": 0,
       "explanation": "Drifting to starboard makes the light bear less (it moves toward the port bow), so the safe condition stops the bearing from decreasing: NLT. Always ask which way the bearing changes as the ship moves toward the danger.",
@@ -150,9 +150,9 @@
       "stem": "Which object is the best mark for a clearing bearing or transit?",
       "options": [
         "A floating buoy near the danger",
-        "An unidentified rock",
-        "A moored vessel",
-        "A fixed, charted lighthouse or beacon"
+        "An unidentified rock awash",
+        "A moored vessel nearby",
+        "A fixed, charted light or beacon"
       ],
       "correct_index": 3,
       "explanation": "Fixed objects stay where the chart says. A buoy may be off station and cannot guarantee that you are clear of a danger.",
@@ -174,8 +174,8 @@
       "options": [
         "Keep using the old compass figure",
         "Apply the old compass error to a hand compass",
-        "Recalculate it, because the compass error for the new heading is different",
-        "Cancel the clearing bearing"
+        "Redo it with the new heading's error",
+        "Cancel the clearing bearing altogether"
       ],
       "correct_index": 2,
       "explanation": "The true limit stays the same. The compass limit depends on the deviation for the heading, which changes when the heading changes.",
@@ -218,10 +218,10 @@
       "difficulty": "easy",
       "stem": "How do you hatch a clearing bearing on the chart?",
       "options": [
-        "On the safe side",
-        "On both sides",
-        "Along the track",
-        "On the side of the line that is the danger"
+        "On the safe side of the line",
+        "On both sides of the line",
+        "Along the track, ahead of the ship",
+        "On the danger side"
       ],
       "correct_index": 3,
       "explanation": "Hatching marks the side you must keep out of, so anyone reading the plot knows at a glance.",

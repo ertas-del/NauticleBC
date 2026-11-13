@@ -13,7 +13,7 @@
       "options": [
         "The movement of the water itself caused by tide",
         "The error of the steering compass",
-        "The sideways movement of a vessel through the water, away from the wind, caused by the wind on the hull and superstructure",
+        "Sideways drift through the water from wind",
         "The distance a vessel runs while the helm is put over"
       ],
       "correct_index": 2,
@@ -36,7 +36,7 @@
       "stem": "A vessel steers 090 degrees true and her track through the water is 097 degrees true. Which statement is correct?",
       "options": [
         "The leeway is 97 degrees",
-        "The leeway is 7 degrees and the wind is on the port side, pushing her to starboard",
+        "7 deg; wind on port side, pushing her to starboard",
         "The current is setting 097 degrees",
         "The leeway is 7 degrees and the wind is on the starboard side"
       ],
@@ -59,7 +59,7 @@
       "difficulty": "medium",
       "stem": "With the wind in which direction relative to the ship's head is the leeway nil?",
       "options": [
-        "Dead ahead or dead astern, where the wind pushes along the keel line",
+        "Dead ahead or dead astern",
         "Broad on the bow only",
         "Leeway is never nil",
         "Abeam, where the wind is square on"
@@ -182,7 +182,7 @@
         "It is entered only after the fix, as part of the compass error",
         "As a vector with a rate, like a current",
         "As a speed correction to the log",
-        "As an angle applied to the course steered; a current is a vector with set and rate applied afterwards"
+        "An angle on the course; current is a vector"
       ],
       "correct_index": 3,
       "explanation": "Leeway is estimated as an angle between the heading and the track through the water. It changes the course used for the DR, and the current vector is then added to the result.",
@@ -205,7 +205,7 @@
       "options": [
         "Add the current vector first, then apply leeway to the result",
         "Apply the current and leeway together as one vector",
-        "Apply leeway to get the course through the water, then add the current vector",
+        "Leeway first, then add the current vector",
         "Apply variation, then leeway, then the current"
       ],
       "correct_index": 2,

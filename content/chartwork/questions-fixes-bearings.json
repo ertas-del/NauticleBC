@@ -13,8 +13,8 @@
       "options": [
         "From one bearing and the ship's speed",
         "From a single bearing of a floating buoy",
-        "From the intersection of the bearing lines to two or more charted objects",
-        "From the ship's DR alone"
+        "Where two or more bearing lines cross",
+        "From the ship's DR position alone"
       ],
       "correct_index": 2,
       "explanation": "Each bearing gives a line of position. Two lines cross at a fix, and a third line checks them.",
@@ -35,9 +35,9 @@
       "stem": "A lighthouse bears 072 degrees true from the ship. How is the line of position plotted?",
       "options": [
         "From the lighthouse along 072 degrees, away from the ship",
-        "From the DR along 252 degrees",
-        "Through the DR along 072 degrees",
-        "Through the lighthouse, drawn toward the ship along 252 degrees"
+        "From the DR position along 252 degrees",
+        "Through the DR position along 072 degrees",
+        "Through the light, toward the ship, on 252"
       ],
       "correct_index": 3,
       "explanation": "The bearing is the direction from the ship to the object, so the ship lies on the opposite side of the object. The line is drawn from the object along the reciprocal (072 + 180 = 252).",
@@ -83,7 +83,7 @@
         "Two objects whose bearings differ by about 15 degrees",
         "Two objects nearly in line on opposite sides",
         "The two nearest buoys regardless of angle",
-        "A tower and a beacon whose bearings differ by about 90 degrees"
+        "Two fixed marks about 90 degrees apart"
       ],
       "correct_index": 3,
       "explanation": "A 90-degree cut gives the smallest fix error for a given bearing error. Lines crossing at a small angle, or nearly in line, make the fix very sensitive to error.",
@@ -151,8 +151,8 @@
       "options": [
         "That the compass error is exactly zero",
         "That the fix is exact at the centre",
-        "That at least one bearing, identification, conversion or plot is wrong",
-        "That the objects are buoys"
+        "Some bearing, ID, conversion or plot is wrong",
+        "That the objects used are floating buoys"
       ],
       "correct_index": 2,
       "explanation": "A small hat is normal; a large one is a warning. Check identification, the compass error, arithmetic and plotting, and retake the bearings.",
@@ -172,8 +172,8 @@
       "difficulty": "medium",
       "stem": "Why does a bearing of a floating buoy give only an estimated position?",
       "options": [
-        "Buoys have no charted position",
-        "The buoy swings on its mooring and may be off station",
+        "Buoys have no charted position at all",
+        "It swings on its mooring, may be off station",
         "Bearings of buoys are always reciprocal",
         "Buoys are not visible at night"
       ],
@@ -197,7 +197,7 @@
       "options": [
         "Because compass error changes with time of day",
         "Because a bearing lasts only 10 minutes",
-        "Because the ship is moving, and delay between bearings displaces the lines from the position at the fix time",
+        "She is moving, so delay shifts the lines",
         "Because the objects move on the chart"
       ],
       "correct_index": 2,
@@ -241,7 +241,7 @@
       "difficulty": "hard",
       "stem": "Which set of objects would you choose for a three-bearing fix?",
       "options": [
-        "Three well-charted objects spread about 120 degrees across, so neighbouring lines cross at about 60 degrees",
+        "Three good marks about 120 degrees apart",
         "Three objects within 20 degrees of each other",
         "Two objects ahead and one buoy astern on the same line",
         "Three objects all on one side, within 10 degrees"

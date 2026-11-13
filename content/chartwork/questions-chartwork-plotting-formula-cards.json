@@ -14,8 +14,8 @@
       "options": [
         "Longitude (bottom) scale",
         "Latitude (side) scale",
-        "Title block",
-        "Compass rose"
+        "Title block scale bar",
+        "Compass rose rings"
       ],
       "correct_index": 1,
       "explanation": "One minute of latitude is one nautical mile.",
@@ -63,7 +63,7 @@
         "1 kilometre",
         "1 nautical mile",
         "1 statute mile",
-        "1 fathom"
+        "1 cable length"
       ],
       "correct_index": 1,
       "explanation": "About 1852 m.",
@@ -84,9 +84,9 @@
       "difficulty": "medium",
       "stem": "Time for 18 NM at 7.2 knots is:",
       "options": [
-        "3 hours",
+        "3 hours exactly",
         "1 hour 30 minutes",
-        "2 hours",
+        "2 hours exactly",
         "2 hours 30 minutes"
       ],
       "correct_index": 3,
@@ -205,8 +205,8 @@
       "stem": "A DR position is worked out from:",
       "options": [
         "The compass rose only",
-        "The weather only",
-        "Your last fix, course, speed and time",
+        "The weather forecast only",
+        "Last fix, course, speed and time",
         "The tide table only"
       ],
       "correct_index": 2,

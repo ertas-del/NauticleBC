@@ -13,7 +13,7 @@
       "options": [
         "The angle between magnetic north and compass north caused by the ship",
         "The angle between the ship's head and the track",
-        "The angle between the true meridian and the magnetic meridian at a place, named east or west",
+        "True to magnetic meridian at a place, E or W",
         "The difference between the standard and the steering compass"
       ],
       "correct_index": 2,
@@ -33,7 +33,7 @@
       "difficulty": "easy",
       "stem": "What does variation depend on?",
       "options": [
-        "The place, and slowly the date; it does not depend on the ship's heading",
+        "Place, and slowly date; not heading",
         "The ship's heading and nothing else",
         "The ship's loading and the cables near the compass",
         "The speed of the ship"

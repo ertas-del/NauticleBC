@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "A current is said to have a set of 135 degrees. What does this mean?",
       "options": [
-        "The water is flowing toward the south-east",
+        "Water flowing toward the south-east",
         "The water is coming from the south-east",
         "The current's speed is 135 knots",
         "The wind is blowing toward the south-east"
@@ -35,8 +35,8 @@
       "stem": "Which statement defines rate and drift correctly?",
       "options": [
         "Rate is the distance carried; drift is the speed in knots",
-        "Both are directions",
-        "Rate is the current's speed in knots; drift is the distance it carries the ship in the time",
+        "Both are directions, in degrees true",
+        "Rate: speed in knots; drift: distance carried",
         "Rate is the direction; drift is the speed"
       ],
       "correct_index": 2,
@@ -105,7 +105,7 @@
       "options": [
         "It includes only the effect of wind",
         "It is always larger than the current",
-        "It includes leeway, steering error, compass error and log error as well",
+        "It includes leeway and other errors too",
         "It is measured in the wrong units"
       ],
       "correct_index": 2,
@@ -149,7 +149,7 @@
       "difficulty": "medium",
       "stem": "How is the estimated position found from a DR and a known set and rate?",
       "options": [
-        "Draw the set direction from the DR position for a distance equal to rate x time",
+        "From the DR, along the set, for rate x time",
         "Draw the set direction from the last fix for the distance of the DR",
         "Draw the reciprocal of the set from the DR",
         "Move the DR by the rate in the direction of the track"

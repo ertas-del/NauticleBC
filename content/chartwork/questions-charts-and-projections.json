@@ -36,7 +36,7 @@
         "Distances are the same everywhere on the chart",
         "Areas of land and water are shown in true proportion",
         "Great circles appear as straight lines",
-        "Angles and the shapes of small areas are shown correctly, so a direction measured on the chart is the true direction"
+        "Angles and small shapes are true"
       ],
       "correct_index": 3,
       "explanation": "Conformal means angle-true. That is why a course laid with parallel rules reads correctly on the compass rose. It does not mean distances are constant (the latitude scale grows poleward), it does not preserve area (high latitudes look enlarged), and straight great circles belong to the gnomonic projection.",
@@ -57,7 +57,7 @@
       "options": [
         "The meridians never meet on a Mercator chart, so the chart has no north edge",
         "The chart datum is undefined north of 80 degrees",
-        "The parallels are spaced further and further apart toward the poles, and the spacing grows without limit as latitude approaches 90 degrees",
+        "Parallel spacing grows without limit at 90 deg",
         "The compass rose cannot be drawn there"
       ],
       "correct_index": 2,
@@ -80,7 +80,7 @@
         "Read the course directly from the compass rose on the gnomonic chart",
         "Use the gnomonic chart's single distance scale to measure the whole track",
         "Steer the track as drawn, because gnomonic charts are working charts",
-        "Pick points along the line and transfer them to a Mercator chart, joining them with rhumb-line legs"
+        "Move points to a Mercator; join with rhumb lines"
       ],
       "correct_index": 3,
       "explanation": "A gnomonic chart shows great circles as straight lines but is neither conformal nor equal-area, so courses and distances cannot be measured on it. The points are carried to a Mercator chart where courses are laid and steered in short rhumb-line legs.",
@@ -188,7 +188,7 @@
       "stem": "Which statement matches Navigation Safety Regulations, 2020, s. 142 for charts?",
       "options": [
         "Any charts of the area may be used, preferably the smallest scale that covers the whole voyage",
-        "The most recent versions of the applicable charts in their largest scale for each area to be navigated must be kept on board, with the reference catalogue and the annual Notices to Mariners",
+        "Latest, largest-scale charts, plus catalogue and annual NtMs",
         "Charts printed within the last five years are acceptable without corrections",
         "Only the charts for the first leg of the voyage must be on board before departure"
       ],
@@ -213,7 +213,7 @@
         "It must carry a printing date within the current year",
         "It must have been approved by a chart agent in the port of departure",
         "It must be compared with the track of the previous voyage",
-        "It must be correct and up to date from Notices to Mariners or a navigational warning"
+        "Corrected and up to date from NtMs or warnings"
       ],
       "correct_index": 3,
       "explanation": "Section 146(1) puts the duty on the master to make sure charts, documents and publications are corrected from Notices to Mariners or navigational warnings. A recent edition date alone is not enough, because corrections issued after printing are your responsibility.",
@@ -233,7 +233,7 @@
       "stem": "A 60 GT Canadian vessel works the same stretch of coast every week. Her master knows the charted routes, lights, buoys, hazards, tides, currents and weather patterns of the area well. How does s. 142(1) apply to her?",
       "options": [
         "It applies in full, because the only exception is for vessels of 8 m or less",
-        "It does not apply if the person in charge of navigation has sufficient knowledge of the area that safety and efficiency of navigation are not compromised",
+        "It need not apply if her navigator's local knowledge suffices",
         "It does not apply, because every vessel under 100 gross tonnage is exempt automatically",
         "It applies to the charts but not to the Sailing Directions and tide tables"
       ],

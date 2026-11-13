@@ -13,8 +13,8 @@
       "stem": "Depth of water equals:",
       "options": [
         "Charted depth minus height of tide",
-        "Height of tide only",
-        "Draught plus tide",
+        "Height of tide only, from the table",
+        "Draught plus the height of tide",
         "Charted depth plus height of tide"
       ],
       "correct_index": 3,
@@ -109,9 +109,9 @@
       "stem": "In the rule of twelfths, the water moves each hour by:",
       "options": [
         "1, 2, 3, 3, 2, 1 twelfths of the range",
-        "3, 3, 3, 3 twelfths",
-        "Equal amounts each hour",
-        "1, 1, 1, 1, 1, 1 twelfths"
+        "3, 3, 3, 3 twelfths, then nothing",
+        "Equal amounts each hour of the tide",
+        "1, 1, 1, 1, 1, 1 twelfths of the range"
       ],
       "correct_index": 0,
       "explanation": "It moves fastest in the middle of the tide.",
@@ -204,10 +204,10 @@
       "difficulty": "medium",
       "stem": "If the tide equals the drying height, the rock is:",
       "options": [
-        "Deep under water",
+        "Deep under water at that time",
         "Just awash, with no water over it",
-        "Not charted",
-        "Higher than the tide"
+        "Not charted on the chart in use",
+        "Higher than the tide by its height"
       ],
       "correct_index": 1,
       "explanation": "Water over the rock is zero.",

@@ -12,8 +12,8 @@
       "stem": "A single radar range to a charted lighthouse puts the ship on what?",
       "options": [
         "A straight line through the lighthouse",
-        "A circle of position centred on the lighthouse",
-        "A fixed point",
+        "A circle centred on the lighthouse",
+        "A fixed point on the chart",
         "A line parallel to the coast"
       ],
       "correct_index": 1,
@@ -58,8 +58,8 @@
       "stem": "Two range arcs cross at two points about 6 nm apart. The DR is within 1 nm of one of them. What do you do?",
       "options": [
         "Take the crossing farthest from the DR",
-        "Take the midpoint of the two",
-        "Take the crossing nearest the DR, and confirm with a bearing or third range if in doubt",
+        "Take the midpoint of the two crossings",
+        "The one nearest the DR; confirm if in doubt",
         "Reject both and use the DR"
       ],
       "correct_index": 2,
@@ -152,7 +152,7 @@
         "It is a fix, because depth is unique",
         "It proves the chart is out of date",
         "It replaces the need for a DR",
-        "It is consistent with your position but not a fix, because many places have the same depth"
+        "Consistent, but not a fix"
       ],
       "correct_index": 3,
       "explanation": "A depth is a check. A well-defined contour can act as a line of position, but one sounding alone is not a fix.",
@@ -172,10 +172,10 @@
       "difficulty": "medium",
       "stem": "Where is a radar range measured with dividers read off the chart?",
       "options": [
-        "On the latitude scale at the side of the chart, level with the work",
+        "The latitude scale, level with the work",
         "On the longitude scale along the bottom",
         "On the scale in the title block",
-        "On the compass rose"
+        "On the compass rose rings"
       ],
       "correct_index": 0,
       "explanation": "The length of a minute of latitude changes with latitude on a Mercator chart, so use the part of the side scale level with the work.",
@@ -196,8 +196,8 @@
       "stem": "Which radar target is best for a range fix?",
       "options": [
         "A low sloping beach with no distinct edge",
-        "A steep-to cliff or small islet that is clearly identified on the display and the chart",
-        "An unidentified echo",
+        "A clearly identified steep cliff or islet",
+        "An unidentified echo close to the ship",
         "A large area of rain clutter"
       ],
       "correct_index": 1,
@@ -218,7 +218,7 @@
       "difficulty": "medium",
       "stem": "Radar gives you the range and the bearing of one lighthouse at the same instant. What can you say about the resulting position?",
       "options": [
-        "It is a fix, but a weaker one than two ranges because it carries the bearing error",
+        "A fix, weaker than two ranges (bearing error)",
         "It is exact because both measurements come from the same object",
         "It is only an estimated position, never a fix",
         "It needs a third object to be a fix"

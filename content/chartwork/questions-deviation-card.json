@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "What is deviation?",
       "options": [
-        "The angle between magnetic north and compass north caused by the ship's own magnetism, named east or west",
+        "Magnetic to compass north, from the ship's magnetism",
         "The angle between true north and magnetic north at a place",
         "The angle between the ship's head and her track over the ground",
         "The yearly change in the charted variation"
@@ -190,7 +190,7 @@
       "difficulty": "medium",
       "stem": "A deviation card has a heading column. What must you check before you enter it?",
       "options": [
-        "Whether it is entered with compass heading or magnetic heading",
+        "Compass or magnetic heading entry",
         "Whether it was printed in the current year",
         "Whether the variation has been added to the column",
         "Whether it was drawn up in port"
@@ -213,7 +213,7 @@
       "stem": "You fit a steel toolbox and a loudspeaker beside the binnacle. What is the correct response?",
       "options": [
         "Nothing, because deviation depends only on the ship's heading",
-        "Compare the compass with known bearings again, update the card if it has changed, and log it",
+        "Re-check against known bearings; update and log",
         "Apply the old card and add the variation twice",
         "Take a bearing of the loudspeaker"
       ],
