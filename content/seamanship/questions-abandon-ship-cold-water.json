@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "In the Transport Canada abandon-ship sequence, what is done with the passengers before the abandon order is called?",
       "options": [
-        "They stay below decks with lifejackets in their laps until the raft is inflated",
-        "They are sent into the water to swim to the raft",
-        "They gather on the main deck warmly dressed and wearing lifejackets (not put on indoors), and everyone is accounted for",
-        "They put lifejackets on only after the order is called"
+        "They stay below with lifejackets in their laps until the raft inflates",
+        "They are sent into the water to swim out to the raft",
+        "They gather on deck, dressed warmly in lifejackets, and are counted",
+        "They put lifejackets on only after the abandon order is called"
       ],
       "correct_index": 2,
       "explanation": "The sequence has passengers muster on the main deck, dressed warmly with lifejackets on (not donned indoors), and has the crew confirm everyone is accounted for, while the raft, medical kit, blankets, food and EPIRB are made ready.",
@@ -37,8 +37,8 @@
       "options": [
         "The anchor and the chart table",
         "The medical kit, blankets, food and EPIRB",
-        "The galley stove and a gas bottle",
-        "The ship's compass and the log"
+        "The galley stove, a spare gas bottle and the cooking pots",
+        "The ship's compass and the log book"
       ],
       "correct_index": 1,
       "explanation": "The sequence says to prepare the life raft and gather the medical kit, blankets, food and EPIRB to load into it. The others are not survival items.",
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "The life raft is thrown over the side. Which statement matches the template?",
       "options": [
-        "It is inflated with its painter attached to the vessel and stays tied alongside while it is safe",
+        "It is inflated on its painter and kept alongside while safe",
         "The painter is cut at once so the raft cannot be dragged down",
-        "The raft is paddled away before anyone boards",
-        "The raft is lowered empty and people jump from the rail"
+        "The raft is paddled clear of the vessel before anyone boards",
+        "The raft is lowered empty and people jump in from the rail"
       ],
       "correct_index": 0,
       "explanation": "The template has the raft thrown over and inflated with the painter attached, kept tied to the vessel while that is safe, and cast off only if the vessel is likely to sink or capsize or alongside is hazardous.",
@@ -81,10 +81,10 @@
       "difficulty": "medium",
       "stem": "When should the raft be cast off from the vessel?",
       "options": [
-        "As soon as the raft inflates",
-        "Never, because the painter keeps the raft safe",
-        "Only after the vessel has sunk",
-        "If the vessel appears likely to sink or capsize, or staying alongside creates other hazards"
+        "As soon as the raft has fully inflated",
+        "Never: the painter keeps the raft safe alongside until rescue arrives",
+        "Only after the vessel has actually sunk",
+        "If she looks likely to sink or capsize, or alongside is unsafe"
       ],
       "correct_index": 3,
       "explanation": "Keeping the raft tied alongside while safe lets people board; the template says to cast off if the vessel looks likely to sink or capsize or if staying alongside creates other hazards.",
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "Which situations in the Transport Canada templates are ones where the master prepares to abandon?",
       "options": [
-        "Whenever the engine stops",
-        "Whenever the weather forecast worsens",
-        "When flooding threatens the vessel's stability, or when fire may spread or explode",
-        "Whenever a passenger asks to leave"
+        "Whenever the main engine stops",
+        "Whenever the weather forecast gets worse",
+        "When flooding threatens stability, or fire may spread or explode",
+        "Whenever a passenger asks to leave the vessel"
       ],
       "correct_index": 2,
       "explanation": "The taking-on-water template says to prepare to abandon if stability is threatened, and the fire template has the master decide whether the risk of spread or explosion requires abandoning ship.",
@@ -129,8 +129,8 @@
       "stem": "A 7 m passenger-carrying vessel operates in open water 4 nautical miles from shore on a coastal voyage. Under SVR s. 411, does she need a life raft?",
       "options": [
         "Yes, because she is more than 2 nautical miles from shore",
-        "No: a vessel of not more than 8.5 m is exempt from the life raft rule",
-        "Yes, because she carries passengers",
+        "No: a vessel of 8.5 m or less is exempt from the rule",
+        "Yes, because she carries passengers for hire",
         "No, but only if she carries a buoyant apparatus"
       ],
       "correct_index": 1,
@@ -151,10 +151,10 @@
       "difficulty": "hard",
       "stem": "A 7 m passenger-carrying vessel carries no life raft and the water is 9 degrees Celsius. What does SVR s. 403 require?",
       "options": [
-        "Equipment or procedures to protect all persons from the effects of hypothermia or cold shock after swamping, capsizing or falling overboard",
-        "Nothing, because she is exempt from the life raft rule",
-        "A life raft anyway, because the water is cold",
-        "A heater in the cabin and a thermometer"
+        "Gear or procedures to protect everyone from hypothermia and cold shock",
+        "Nothing at all, because a vessel of 7 m is exempt from the life raft rule",
+        "A life raft anyway, because the water is so cold",
+        "A heater in the cabin and a thermometer on deck"
       ],
       "correct_index": 0,
       "explanation": "Section 403 applies where the water temperature is less than 15 degrees Celsius and the vessel does not carry a life raft: equipment must be carried or procedures established to protect everyone from hypothermia or cold shock.",
@@ -174,10 +174,10 @@
       "difficulty": "medium",
       "stem": "A tug of 10 m has a crew of two. What does SVR s. 509 require about life rafts?",
       "options": [
-        "None, because she is under 12 m",
-        "One life raft for the master only",
-        "A buoyant apparatus only",
-        "Life rafts with total capacity for all persons on board, because she is more than 8.5 m with two or more persons"
+        "None, because she is under 12 m in length and carries only crew",
+        "One life raft, sized for the master only",
+        "A buoyant apparatus only, in place of a raft",
+        "Rafts for all on board, as she is over 8.5 m with two aboard"
       ],
       "correct_index": 3,
       "explanation": "Section 509(1) requires a tug of more than 8.5 m with two or more persons on board to carry life rafts for all of them. The 12 m figure is for workboats generally (s. 508).",
@@ -197,10 +197,10 @@
       "difficulty": "medium",
       "stem": "According to TP 14070, which statements fit a life raft on a small vessel?",
       "options": [
-        "It is preferred only in warm water, and the hydrostatic release works at about 40 m",
-        "It should be lashed to the deck so it cannot float away, and the release works at 1 m",
-        "It is preferred where the water is under 15 degrees Celsius, and its hydrostatic release operates at about 4 m of submersion",
-        "It is not required to be ready for launch at short notice"
+        "It is preferred only in warm water, and the release works at about 40 m",
+        "It should be lashed down so it cannot float away; the release works at 1 m",
+        "Preferred in water under 15 C; the release works at about 4 m",
+        "It need not be ready for launch at short notice on a small vessel"
       ],
       "correct_index": 2,
       "explanation": "TP 14070 says life rafts are preferred where water is below 15 degrees Celsius, that a hydrostatic release operates at about 4 m, and that crews must be ready to launch the raft on a moment's notice. Lashing it down would defeat the release.",
@@ -220,8 +220,8 @@
       "difficulty": "hard",
       "stem": "A 9 m vessel on a near coastal Class 2 voyage carries a manually activated EPIRB. Where should it be?",
       "options": [
-        "Locked in the chart table drawer with the manual",
-        "Worn by the person in charge of the navigational watch or, if that is not practicable, stowed so it is readily accessible for immediate use in the event of abandonment",
+        "Locked in the chart table drawer with the manual, so it stays dry",
+        "Worn by the person on watch, or stowed ready to take when abandoning",
         "Fixed to the mast, where it cannot be removed",
         "Stowed in the life raft canister at all times"
       ],
@@ -244,9 +244,9 @@
       "stem": "Within what time must an owner update the Canadian Beacon Registry after a change in an EPIRB's registration details?",
       "options": [
         "Within 30 days of the change",
-        "Within 24 hours",
-        "Within 12 months",
-        "Before each voyage"
+        "Within 24 hours of the change",
+        "Within 12 months of the change",
+        "Before the next voyage begins"
       ],
       "correct_index": 0,
       "explanation": "Section 228(2) of the Navigation Safety Regulations, 2020 requires the registration information to be updated within 30 days after a change.",
@@ -291,7 +291,7 @@
       "options": [
         "Section 26 applies to every Canadian vessel",
         "Section 26 applies only to vessels with a life raft",
-        "The Fire and Boat Drills Regulations do not apply to such a vessel (s. 2), so s. 26 does not apply to it; SVR s. 420 requires emergency procedures to be practised",
+        "Those Regulations exclude her; SVR s. 420 drills apply",
         "Section 26 applies only to fishing vessels under 150 GT"
       ],
       "correct_index": 2,

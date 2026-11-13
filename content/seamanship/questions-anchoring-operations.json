@@ -59,9 +59,9 @@
       "stem": "Which joining shackle is normally used between lengths of anchor chain so the join passes smoothly over the cable lifter?",
       "options": [
         "Kenter (lugless) joining shackle",
-        "Bow shackle with a cotter pin",
-        "Snap shackle",
-        "Pelican hook"
+        "Bow shackle with a cotter pin through it",
+        "Snap shackle with a swivel eye",
+        "Pelican hook with a link"
       ],
       "correct_index": 0,
       "explanation": "The Kenter (lugless) joining shackle has no lugs to snag on the cable lifter. A pelican hook is a quick-release slip, not a joining shackle, and bow and snap shackles are not used to join chain lengths.",
@@ -81,10 +81,10 @@
       "difficulty": "medium",
       "stem": "Why is the anchor chain marked at each shackle?",
       "options": [
-        "So the crew can count and report how many shackles are out",
-        "So the chain can be sold by length",
+        "So the crew can count and report the shackles out",
+        "So the chain can be sold by the length",
         "So the anchor can be recognised in port",
-        "So the chain can be inspected for rust"
+        "So the chain can be checked for rust and wear at each survey"
       ],
       "correct_index": 0,
       "explanation": "The marks let the forecastle crew see how many shackles are out and report it to the bridge. Marking schemes vary from ship to ship, so each ship's own scheme must be learned from its anchor plan. The last two shots are painted differently as a warning that the end of the chain is near.",
@@ -105,9 +105,9 @@
       "stem": "Which pairing of anchor and bottom or limitation is correct?",
       "options": [
         "Danforth: cannot bury in sand; stockless: unsuitable for large ships",
-        "Mushroom anchor: suits silt and mud; Danforth: struggles in gravel and weed",
-        "Grapnel: holds best in soft mud; Danforth: best in rock",
-        "Mushroom anchor: best on coral and rock; grapnel: best in silt"
+        "Mushroom: suits silt and mud; Danforth: struggles in gravel and weed",
+        "Grapnel: holds best in soft mud; Danforth: holds best in rock",
+        "Mushroom: best on coral and rock; grapnel: best in silt and mud"
       ],
       "correct_index": 1,
       "explanation": "The mushroom anchor is shaped for silt and mud and the Danforth, though compact and good at burying, struggles in gravel and weed. A grapnel sets in coral and rock but has little hold in soft bottoms, and the stockless anchor is the usual anchor on large ships.",
@@ -127,9 +127,9 @@
       "stem": "The forecastle reports, 'Cable is up and down.' What does this tell the bridge?",
       "options": [
         "The anchor has left the bottom and is hanging free",
-        "The cable has parted",
-        "The cable is vertical and the ship is directly above the anchor, which is still on the bottom",
-        "The anchor has taken hold and the ship's way is stopped"
+        "The cable has parted at a joining shackle",
+        "The cable is vertical over the anchor, still on the bottom",
+        "The anchor has taken hold firmly and the ship's way is fully stopped"
       ],
       "correct_index": 2,
       "explanation": "'Up and down' means the cable is vertical and the ship is directly over the anchor. 'Anchor aweigh' is the next stage, when the anchor leaves the bottom and hangs on the cable. The third option describes the anchor being brought up.",
@@ -148,10 +148,10 @@
       "difficulty": "medium",
       "stem": "Which of these, seen by the anchor watch, is a sign of a dragging anchor?",
       "options": [
-        "The bearings of fixed marks are changing and the cable is jerking or leading differently",
-        "The anchor light is lit",
-        "The ship is swinging slowly with the tide while the bearings stay the same distance apart",
-        "The cable hangs in a steady curve and the bearings of fixed marks do not change"
+        "Bearings of fixed marks change and the cable jerks or leads differently",
+        "The anchor light is lit and the ball is hoisted",
+        "The ship swings slowly with the tide while the bearings of marks stay the same",
+        "The cable hangs in a steady curve and the bearings do not change"
       ],
       "correct_index": 0,
       "explanation": "A dragging ship moves, so the bearings of fixed marks change, and the cable may jerk or lead in a new direction. A ship that swings but keeps the same position and bearing pattern is holding. The anchor light is a required signal, not a sign of dragging.",
@@ -194,10 +194,10 @@
       "difficulty": "medium",
       "stem": "Preparing the anchor for sea after weighing, which list is correct?",
       "options": [
-        "Brake off, hawse pipe cover off, bow stopper open",
-        "Only the windlass brake is needed",
-        "Windlass brake on, hawse pipe cover fitted, bow stopper secured, devil's claw set with its bottle screw",
-        "Cable left slack in the hawse pipe with no stopper"
+        "Brake off, hawse pipe cover off, bow stopper open, cable ready to run",
+        "Only the windlass brake needs to be applied",
+        "Brake on, hawse cover fitted, stopper secured, devil's claw set",
+        "Cable left slack in the hawse pipe with no stopper on"
       ],
       "correct_index": 2,
       "explanation": "To secure for sea the brake is applied, the hawse pipe cover fitted, the bow stopper secured and the devil's claw set with its bottle screw. A slack, unsecured anchor can run out or batter the hull in a seaway.",

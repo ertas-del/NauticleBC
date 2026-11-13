@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "What colour are special marks, and what colour is their light?",
       "options": [
-        "Red, with a red light",
-        "Green, with a green light",
+        "Red, with a flashing red light",
+        "Green, with a flashing green light",
         "Yellow, with a yellow light",
-        "White, with a white light"
+        "White, with a quick white light"
       ],
       "correct_index": 2,
       "explanation": "Special marks are yellow and, if lit, show a yellow light (Fl 4s). Red and green are lateral colours, and white lights belong to cardinal, isolated danger and fairway marks.",
@@ -36,10 +36,10 @@
       "difficulty": "medium",
       "stem": "A yellow buoy with a yellow X topmark shows a group of five yellow flashes every 20 seconds. What is it most likely to be?",
       "options": [
-        "An anchorage buoy",
+        "An anchorage buoy marking a designated anchorage",
         "An ODAS buoy marking a data station",
         "A cautionary buoy for a firing range",
-        "A south cardinal buoy"
+        "A south cardinal buoy showing safe water to the south"
       ],
       "correct_index": 1,
       "explanation": "Fl(5)Y 20s is the distinctive ODAS light. Other special marks, including anchorage and cautionary buoys, show Fl 4s. A south cardinal is yellow and black with white lights.",
@@ -60,10 +60,10 @@
       "difficulty": "easy",
       "stem": "What does the shape of a special mark tell you?",
       "options": [
-        "Cylindrical means keep to port",
-        "Conical means keep to starboard",
+        "Cylindrical means keep the mark to port",
+        "Conical means keep the mark to starboard",
         "Nothing: the shape has no significance",
-        "Spherical means safe water"
+        "Spherical means safe water all round the mark"
       ],
       "correct_index": 2,
       "explanation": "For special marks colour, symbols and light give the meaning; shape does not. Shapes carry meaning only on lateral marks (can and cone) and the fairway mark (sphere).",
@@ -85,8 +85,8 @@
       "options": [
         "Keep out of the area (keep-out buoy)",
         "Information about services nearby",
-        "A mooring is here",
-        "A channel is divided ahead"
+        "A mooring buoy is here for small craft",
+        "A channel divides ahead (bifurcation mark)"
       ],
       "correct_index": 0,
       "explanation": "White with an orange diamond and cross is a keep-out buoy, tied to the Vessel Operation Restriction Regulations. An information buoy has orange squares, a mooring buoy is white and orange with orange on the top third, and a bifurcation mark is a lateral mark with a contrasting band.",
@@ -107,9 +107,9 @@
       "stem": "Going upstream, you see a fixed post on a rock with a triangular red daymark and no light. What is it and which side do you keep it on?",
       "options": [
         "A starboard hand daybeacon; keep it to starboard",
-        "A port hand daybeacon; keep it to port",
+        "A port hand daybeacon; keep it to port going upstream",
         "A range front mark; line it up with the rear",
-        "A special mark; shape has no meaning"
+        "A special mark; its shape has no meaning at all"
       ],
       "correct_index": 0,
       "explanation": "Starboard hand daybeacons are fixed, unlit and triangular with a red centre; port hand daybeacons are square. Going upstream, starboard hand aids are kept to starboard.",
@@ -130,10 +130,10 @@
       "difficulty": "medium",
       "stem": "Approaching a channel you can see a front and a rear range daymark. The front mark appears to the left of the rear mark. What does this mean?",
       "options": [
-        "You are on the range line",
+        "You are exactly on the range line",
         "You are to the right of the range line",
         "You are to the left of the range line",
-        "The range is out of service"
+        "The range has been taken out of service"
       ],
       "correct_index": 1,
       "explanation": "The nearer (front) mark seems to move more than the rear mark as you move sideways. If you are right of the line, both marks lie to your left but the front one is angled further left, so it appears left of the rear. When they stand one above the other you are on the line. This is the general geometry of a range, so check your own case against the chart.",
@@ -153,10 +153,10 @@
       "difficulty": "medium",
       "stem": "What is the difference between a RACON and a radar reflector?",
       "options": [
-        "A RACON is passive and a reflector is active",
-        "A RACON actively returns an identifiable coded signal; a reflector passively improves the radar echo",
-        "Both are lights that show on radar at night",
-        "A RACON only works in fog and a reflector only in daylight"
+        "A RACON is passive; a reflector actively transmits a coded reply",
+        "A RACON sends a coded reply; a reflector just boosts the echo",
+        "Both are coloured lights that also show up as echoes on radar at night",
+        "A RACON only works in fog and a reflector only works in daylight"
       ],
       "correct_index": 1,
       "explanation": "A radar reflector is a passive device that returns more of the radar energy. A RACON is an active radar beacon: it receives your radar pulse and transmits an identifiable reply. Neither is a light, and neither depends on fog or daylight.",
@@ -176,10 +176,10 @@
       "difficulty": "hard",
       "stem": "In poor visibility you hear a fog signal that sounds faint. Which conclusion is sound?",
       "options": [
-        "It must be far away, so you can proceed at speed",
+        "It must be far away, so you can carry on at your normal speed",
         "It must be very close because shore fog signals only work within a quarter mile",
-        "You cannot judge distance from loudness, and not hearing one does not prove it is silent",
-        "The fog signal is probably off because visibility is above 2 nautical miles"
+        "Loudness tells you nothing reliable about distance",
+        "The fog signal is probably switched off because visibility is above 2 nautical miles"
       ],
       "correct_index": 2,
       "explanation": "The Coast Guard warns against judging distance from the power of the sound, because atmospheric conditions can swallow it at a short distance, and against assuming a signal is off because you cannot hear it. Shore fog signals operate when visibility drops below 2 nautical miles.",
@@ -222,10 +222,10 @@
       "difficulty": "medium",
       "stem": "Which description matches an anchorage buoy and which a mooring buoy?",
       "options": [
-        "Anchorage: yellow with a black anchor symbol and a yellow X topmark; mooring: white and orange, with orange covering the top third above the waterline",
-        "Anchorage: white and orange; mooring: yellow with a black anchor symbol",
-        "Anchorage: red and white stripes; mooring: green and flat-topped",
-        "Anchorage and mooring buoys are identical and are told apart only by their light"
+        "Anchorage: yellow, black anchor, yellow X; mooring: white and orange",
+        "Anchorage: white and orange bands; mooring: yellow with a black anchor symbol",
+        "Anchorage: red and white vertical stripes; mooring: green and flat-topped",
+        "They look identical and are told apart only by the rhythm of their light"
       ],
       "correct_index": 0,
       "explanation": "The anchorage buoy is a yellow special mark carrying a black anchor and a yellow X topmark. The mooring buoy is white and orange. Red and white stripes are a fairway mark and green flat-topped buoys are port hand marks.",

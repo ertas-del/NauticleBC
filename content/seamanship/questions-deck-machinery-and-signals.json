@@ -12,9 +12,9 @@
       "stem": "Which description of a windlass is correct?",
       "options": [
         "A boom with a topping lift and guys",
-        "A vertical-axis drum used only for mooring",
+        "A vertical-axis drum used only for heaving in mooring lines",
         "A hand tool for tightening shackles",
-        "A horizontal winch used on ships mainly to raise the anchor"
+        "A horizontal winch used mainly to raise the anchor"
       ],
       "correct_index": 3,
       "explanation": "A windlass is a horizontal winch used to raise the anchor. A vertical-axis drum is a capstan, and the boom with a topping lift and guys is a derrick.",
@@ -58,8 +58,8 @@
       "options": [
         "The crane maker, who prints it on the machine",
         "The signaller, who keeps it in their head",
-        "Transport Canada, which supplies one code for every vessel",
-        "The employer, who must instruct every signaller and operator in it and keep a copy available for examination"
+        "Transport Canada, which issues one code for all vessels",
+        "The employer, who teaches it and keeps a copy available"
       ],
       "correct_index": 3,
       "explanation": "The employer must establish the code, instruct every signaller and operator in it and keep a copy where it can be examined. The regulation does not set one national gesture code for every vessel, and the signaller does not make up the code.",
@@ -78,10 +78,10 @@
       "difficulty": "medium",
       "stem": "While a winch is hauling a load, the signaller is asked to help tend a sling. What is the correct answer?",
       "options": [
-        "Yes, if the operator agrees",
-        "No: the signaller must not perform other duties while the equipment under their direction is moving",
-        "Yes, as long as one hand stays free to signal",
-        "Yes, if the load is light"
+        "Yes, if the operator agrees to it",
+        "No: a signaller does nothing else while gear is moving",
+        "Yes, as long as one hand always stays free to give signals",
+        "Yes, if the load is light and close"
       ],
       "correct_index": 1,
       "explanation": "A signaller must not perform duties other than signalling while any equipment under their direction is in motion. Being asked, a light load or the operator's agreement do not change that rule.",
@@ -100,9 +100,9 @@
       "difficulty": "medium",
       "stem": "Visual signals cannot be seen because of distance and spray. What must the employer provide?",
       "options": [
-        "Nothing; work should simply continue with caution",
-        "A telephone, radio or other audible signalling device for the signaller",
-        "A second operator",
+        "Nothing extra; the work simply continues with more caution than usual",
+        "A telephone, radio or other audible device for the signaller",
+        "A second operator to watch the load",
         "A louder whistle for the operator"
       ],
       "correct_index": 1,
@@ -122,9 +122,9 @@
       "difficulty": "easy",
       "stem": "A winch is rated with a safe working load (SWL) of 2 tonnes. A load of 2.3 tonnes must be moved 'just a short distance'. What is the correct course?",
       "options": [
-        "Do it slowly",
+        "Do it slowly, a few centimetres at a time",
         "Do it only if two signallers are used",
-        "Do not use it: equipment must never be used or operated with a load above its safe working load",
+        "Do not use it; never load gear above its SWL",
         "Do it, since the SWL is below the breaking strength"
       ],
       "correct_index": 2,
@@ -189,10 +189,10 @@
       "difficulty": "medium",
       "stem": "A machine's operator has to leave the crane cab for ten minutes. Which is correct?",
       "options": [
-        "Leave the load hanging at the signaller's discretion",
+        "Leave the load hanging, at the signaller's discretion, until you return",
         "No action is needed if the deck is quiet",
-        "Secure it so that it cannot move by accident or be used by an unauthorised person",
-        "Leave it running so it stays warm"
+        "Secure it against accidental movement or unauthorised use",
+        "Leave it running so the hydraulics stay warm"
       ],
       "correct_index": 2,
       "explanation": "Equipment must not be left unattended unless it has been secured to prevent inadvertent movement or unauthorised use. A suspended load should be landed and the machine secured, not left to chance.",

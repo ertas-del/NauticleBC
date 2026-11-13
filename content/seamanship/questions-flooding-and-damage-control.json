@@ -12,8 +12,8 @@
       "stem": "Water is found entering a small vessel. What does the Transport Canada procedure say to do first?",
       "options": [
         "Abandon ship at once",
-        "Find the leak before doing anything else, even if the water is rising",
-        "Call out where the water is, then start the pumps or bail",
+        "Find the leak first, even if the water is rising",
+        "Call out where the water is, then pump or bail",
         "Fill out the incident report"
       ],
       "correct_index": 2,
@@ -33,10 +33,10 @@
       "difficulty": "medium",
       "stem": "Which sequence matches the Transport Canada taking-on-water procedure?",
       "options": [
-        "Notify authorities, abandon ship, find the entry, then pump",
-        "Call out location, pump or bail, find the entry, notify if at risk, stop or slow the leak, prepare to abandon if stability is threatened",
-        "Prepare to abandon, call out location, stop the leak, then start pumping",
-        "Find the entry, file the incident report, then call out the location"
+        "Notify, abandon ship, find the entry, then pump",
+        "Call out, pump, find the entry, notify, stop the leak, prepare to abandon",
+        "Prepare to abandon, call out, stop the leak, then pump",
+        "Find the entry, file the report, then call out the location"
       ],
       "correct_index": 1,
       "explanation": "The order is call out, pump or bail, find the entry, notify if the vessel is at risk, stop or slow the leak (or consider grounding), prepare to abandon if stability is threatened, keep authorities informed, then complete the incident report.",
@@ -55,9 +55,9 @@
       "difficulty": "medium",
       "stem": "A moving vessel has a leak below the waterline. Why does the BOATsmart! guidance say to stop her completely?",
       "options": [
-        "It reduces the water pressure on the hull and slows the inflow",
-        "It lets the propeller cool down",
-        "It makes the hole larger so it can be found",
+        "It lowers the water pressure on the hull and slows the inflow",
+        "It lets the propeller, shaft and stern gland cool down",
+        "It makes the hole larger so it is easier to find",
         "It stops water entering through the seacocks"
       ],
       "correct_index": 0,
@@ -101,8 +101,8 @@
       "stem": "Which of these are suitable ways to stop a small leak in a hull according to the BOATsmart! guidance?",
       "options": [
         "Water-soluble glue",
-        "A tow line wrapped round the hull amidships",
-        "Tapered wooden plugs, a hull patch kit, or towels and rags pressed into the hole",
+        "A tow line wrapped round the hull",
+        "Tapered wooden plugs, a patch kit, or rags",
         "Ice packed into the hole"
       ],
       "correct_index": 2,
@@ -122,8 +122,8 @@
       "difficulty": "medium",
       "stem": "Why does water sloshing about inside a flooded compartment endanger the vessel beyond its weight?",
       "options": [
-        "It raises the centre of buoyancy above the deck",
-        "It is a free surface that moves to the low side and reduces stability",
+        "It raises the centre of buoyancy above the deck and lifts the hull",
+        "It is a free surface that runs to the low side and cuts stability",
         "It increases the vessel's metacentric height",
         "It changes the magnetic compass reading"
       ],
@@ -145,10 +145,10 @@
       "difficulty": "hard",
       "stem": "Flooding cannot be controlled and the nearest shoreline is a gravel beach with a light swell on one side and a rocky headland with heavy surf on the other. What does the guidance support?",
       "options": [
-        "Deliberately beaching her on the gravel beach, avoiding the rocks and surf",
-        "Running onto the rocky headland where she will be easiest to find",
+        "Deliberately beaching her on the gravel beach, clear of rocks",
+        "Running onto the rocky headland, where rescuers will find her most easily",
         "Staying in deep water to avoid damage to the hull",
-        "Anchoring in mid-channel and waiting"
+        "Anchoring in mid-channel and waiting for help to arrive"
       ],
       "correct_index": 0,
       "explanation": "The template says to consider grounding the vessel if the flooding cannot be controlled, and Boating Magazine says grounding on a bar or beach may beat sinking as long as you avoid jagged rocks and high surf.",
@@ -168,10 +168,10 @@
       "difficulty": "medium",
       "stem": "The master decides the vessel may sink. Which set of actions matches the guidance?",
       "options": [
-        "Lifejackets stowed to avoid snagging, a PAN PAN, and wait for the water to stop",
-        "Only the crew put on lifejackets, then a MAYDAY without a position",
+        "Lifejackets stowed to avoid snagging, a PAN PAN, and wait",
+        "Only the crew put on lifejackets, then a MAYDAY without position",
         "All passengers go below to stay dry while the crew bail",
-        "Lifejackets on and everyone accounted for, a MAYDAY with position, persons on board and nature of distress, and preparation to abandon"
+        "Lifejackets on, all counted, a full MAYDAY, and ready to abandon"
       ],
       "correct_index": 3,
       "explanation": "BOATsmart! and Boating Magazine advise lifejackets for everyone and a check that everyone is present, and a MAYDAY on channel 16 with location, number of people and nature of the distress. The template adds preparing to abandon if stability is threatened.",
@@ -192,9 +192,9 @@
       "difficulty": "medium",
       "stem": "Which statement about SVR s. 602 is correct?",
       "options": [
-        "Only passenger vessels need seacocks",
+        "Only passenger vessels need seacocks on hull openings",
         "Wet exhausts must have a seacock like everything else",
-        "Every vessel must be able to positively shut off underwater penetrations, with wet exhaust systems excepted",
+        "Every vessel must be able to shut off underwater openings, except wet exhausts",
         "Seacocks are required only on vessels over 12 m"
       ],
       "correct_index": 2,
@@ -236,10 +236,10 @@
       "difficulty": "hard",
       "stem": "A tug strikes a log and sustains damage that affects her seaworthiness. She does not sink, no one is hurt, and she returns to port. Is there a TSB reporting duty?",
       "options": [
-        "Yes: damage that affects seaworthiness or renders the ship unfit for its purpose is reportable, with the available facts as soon as possible and the rest within 30 days",
+        "Yes: damage affecting seaworthiness is reportable",
         "No, because she did not sink",
         "No, because no one was injured",
-        "Yes, but only if the damage costs more than a set amount"
+        "Only if the repair costs more than a set dollar amount"
       ],
       "correct_index": 0,
       "explanation": "Section 3(1)(d)(vi) lists damage that affects seaworthiness or renders the ship unfit for its purpose, whether or not she sinks and whether or not anyone is hurt. There is no cost threshold in that paragraph.",

@@ -12,7 +12,7 @@
       "options": [
         "Once the vessel is clear of the harbour",
         "Only if a passenger asks for it",
-        "Before the vessel leaves the place where the passengers embark",
+        "Before leaving the place where passengers embark",
         "Within one hour after departure"
       ],
       "correct_index": 2,
@@ -32,7 +32,7 @@
       "stem": "Which of these must the s. 401(1) briefing cover?",
       "options": [
         "The vessel's fuel consumption",
-        "The effect of the movement and grouping of passengers on stability",
+        "How passengers moving and grouping affects stability",
         "The master's qualifications",
         "The price of the return trip"
       ],
@@ -54,8 +54,8 @@
       "options": [
         "Demonstrate how to don each type of lifejacket",
         "Make every passenger sign a waiver",
-        "Hold a full fire drill",
-        "Inflate the life raft"
+        "Hold a full fire drill with passengers",
+        "Inflate the life raft on deck"
       ],
       "correct_index": 0,
       "explanation": "Section 401(2) requires a demonstration of how to don each type of lifejacket carried.",
@@ -76,7 +76,7 @@
         "No, the certificate limit is absolute",
         "Yes, but only if the passengers agree",
         "Yes, but only after Transport Canada gives permission",
-        "Yes, the limit does not apply to persons carried because of the obligation to carry shipwrecked or distressed persons"
+        "Yes, the limit does not apply to people rescued in distress"
       ],
       "correct_index": 3,
       "explanation": "Section 110(1) requires the master to keep the number of persons within the certificate, and s. 110(3) excepts persons carried to meet the obligation to carry shipwrecked or distressed persons.",
@@ -96,7 +96,7 @@
       "options": [
         "Carry the person, since one extra is a small error",
         "Carry the person if the weather is calm",
-        "Refuse to carry the extra person, since there is no exception for a fare-paying passenger",
+        "Refuse; there is no exception for a fare-paying passenger",
         "Carry the person if everyone wears a lifejacket"
       ],
       "correct_index": 2,
@@ -136,7 +136,7 @@
       "difficulty": "medium",
       "stem": "Under CSA 2001 s. 116, when may a person NOT go on board a vessel?",
       "options": [
-        "Without the master's permission, or when there is no safe means of embarkation or every such means is blocked",
+        "Without the master's permission, or with no safe way aboard",
         "After sunset",
         "When more than six passengers are already on board",
         "When the tide is falling"
@@ -159,8 +159,8 @@
       "options": [
         "Adult lifejackets may be used for children if tightened",
         "Inflatable lifejackets are required for all children",
-        "Children under 16 do not need to wear a lifejacket on a covered vessel",
-        "There must be a lifejacket of an appropriate size for each person, and one worn by a person under 16 must be inherently buoyant"
+        "Children under 16 need not wear one on a covered vessel",
+        "Right size for each person; inherently buoyant if under 16"
       ],
       "correct_index": 3,
       "explanation": "Section 409 requires an appropriately sized lifejacket for each person and s. 408 requires one worn by a person under 16 to be inherently buoyant.",
@@ -180,7 +180,7 @@
       "options": [
         "Report the vessel's fuel level to the harbour master",
         "File a list of passenger names with Transport Canada",
-        "Report the number of persons on board to a designated person ashore",
+        "Report the number on board to a designated person ashore",
         "Obtain a sailing permit from the Coast Guard"
       ],
       "correct_index": 2,
@@ -200,7 +200,7 @@
       "stem": "A passenger-carrying vessel is asked to tow a disabled boat. Under SVR s. 404(3), what applies?",
       "options": [
         "Passengers may stay if they wear lifejackets",
-        "Except in an emergency, there must be no passengers on the vessel or the tow",
+        "Except in an emergency, no passengers on the vessel or tow",
         "Passengers may stay if the tow is under 6 m",
         "Passengers may stay if the master gives a second briefing"
       ],
@@ -244,7 +244,7 @@
         "Adults 16 or over, children 6 to 15, infants under 6",
         "Adults 18 or over, children 2 to 17, infants under 2",
         "Adults 12 or over, children 2 to under 12, infants under 2",
-        "Adults are 12 or over, children 5 to under 12, and infants under 5"
+        "Adults 12 or over, children 5 to under 12, infants under 5"
       ],
       "correct_index": 3,
       "explanation": "Section 11 of the FBDR distinguishes adults (12 or over), children (5 to under 12) and infants (under 5) in the record of names and gender, which is kept ashore for search and rescue use only.",
@@ -264,8 +264,8 @@
       "options": [
         "Each passenger's home address",
         "Each passenger's lifejacket size only",
-        "Details of anyone who has declared a need for special care or assistance in an emergency",
-        "The passengers' reason for travelling"
+        "Anyone who has declared a need for special help",
+        "The passengers' reasons for travelling"
       ],
       "correct_index": 2,
       "explanation": "Section 10 requires the number of persons on board and details of anyone who has declared a need for special care or assistance in an emergency to be communicated and recorded.",

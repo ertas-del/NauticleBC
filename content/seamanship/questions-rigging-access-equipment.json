@@ -13,7 +13,7 @@
       "options": [
         "A fixed seat in the wheelhouse",
         "A two-person platform on a crane hook",
-        "A single-point adjustable suspension scaffold with a seat or sling for one person sitting",
+        "A single-point suspension scaffold with a seat for one",
         "A platform supported from below by a frame"
       ],
       "correct_index": 2,
@@ -57,7 +57,7 @@
       "options": [
         "Acceptable if only one person uses it",
         "Acceptable if the chair is tested monthly",
-        "Not acceptable: the anchorage must have a working load limit at least equal to that of the suspension system",
+        "Not acceptable: the anchor must be rated at least as high",
         "Acceptable in calm weather"
       ],
       "correct_index": 2,
@@ -77,10 +77,10 @@
       "difficulty": "medium",
       "stem": "A stage hangs on two ropes. Each rope has a breaking load of 24 kN. The total weight on the stage is 7 kN. Which statement is correct?",
       "options": [
-        "Each rope's working load limit is 4 kN, and the stage load of 3.5 kN per rope is within it",
-        "The safety factor required is four, so each rope may carry 6 kN",
+        "Each rope's limit is 4 kN, and 3.5 kN per rope is within it",
+        "The safety factor required is four, so each may carry 6 kN",
         "The rope fails the factor of six because 7 kN is above 24 / 6",
-        "Stages are not subject to a safety factor"
+        "Stages are not subject to any safety factor"
       ],
       "correct_index": 0,
       "explanation": "A stage needs a safety factor of not less than six, so each rope's working load is 24 / 6 = 4 kN. The 7 kN is shared as 3.5 kN per rope, which is within 4 kN. The factor of four is the scaffold figure, and stages are subject to a factor.",
@@ -125,7 +125,7 @@
         "Painted yellow, with a bell and a log book",
         "Locked at night with the key kept by the master",
         "Fitted with a rat guard and an engine alarm",
-        "Secured, lighted, rigged to allow for ship movement, with a lifebuoy and line ready for immediate use"
+        "Secured, lit, rigged for movement, with a lifebuoy and line"
       ],
       "correct_index": 3,
       "explanation": "An access ladder or gangway must be maintained in a safe condition, secured against shifting, suitably rigged for ship movement, adequately lighted and have a lifebuoy with line ready for immediate use. Colour, bells and log books are not part of the rule.",
@@ -146,7 +146,7 @@
       "options": [
         "Acceptable if man-ropes are fitted",
         "Acceptable, since the maximum is 12 m",
-        "Not acceptable as a pilot ladder alone: the climb must not exceed 9 m, and over 9 m an accommodation ladder may be used with the pilot ladder",
+        "Not acceptable alone: over 9 m needs an accommodation ladder too",
         "Acceptable if the pilot agrees"
       ],
       "correct_index": 2,
@@ -169,7 +169,7 @@
         "One 10 mm rope and a flare",
         "A lifejacket for the master",
         "A boat hook and a bucket",
-        "Two man-ropes of 28 to 32 mm, a lifebuoy with a self-igniting light and a heaving line"
+        "Two 28 to 32 mm man-ropes, a lit lifebuoy and a heaving line"
       ],
       "correct_index": 3,
       "explanation": "Two man-ropes of not less than 28 mm and not more than 32 mm, a lifebuoy with a self-igniting light and a heaving line must be ready, with a responsible officer who can talk to the bridge supervising. The other lists do not match the requirement.",
@@ -188,10 +188,10 @@
       "difficulty": "hard",
       "stem": "Which statement about pilot ladder construction is correct?",
       "options": [
-        "The ladder is secured with shackles so that it cannot slip",
+        "The ladder is secured with shackles so it cannot slip",
         "Side ropes are 6 mm wire",
         "Steps are spaced at 600 mm with no spreaders",
-        "Steps are spaced at about 310 mm and a spreader step at least 1.8 m long replaces a step at least every eighth step"
+        "Steps about 310 mm apart, with a 1.8 m spreader every eighth step"
       ],
       "correct_index": 3,
       "explanation": "Steps are spaced at 310 mm (plus or minus 5 mm) and a spreader step at least 1.8 m long replaces a standard step at least every eighth step to stop the ladder twisting. The ladder is tied by knots to a fixed securing point and must not be secured by shackles, and the side ropes are at least 18 mm manila.",

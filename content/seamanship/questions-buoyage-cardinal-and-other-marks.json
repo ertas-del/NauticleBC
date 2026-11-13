@@ -4,7 +4,11 @@
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q01",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "You see a buoy painted black on top and yellow below, with two black cones pointing up. Where is the safe water?",
       "options": [
@@ -15,13 +19,20 @@
       ],
       "correct_index": 0,
       "explanation": "Black over yellow with both cones up is a north cardinal: the safe water lies to the north, so you pass north of it. Safe water on all sides describes an isolated danger or fairway mark, not a cardinal.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q02",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which topmark belongs to an East cardinal mark?",
       "options": [
@@ -32,30 +43,43 @@
       ],
       "correct_index": 2,
       "explanation": "East has the cones base to base. North is both up, South is both down, and West is point to point (like a wine glass or an hourglass).",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q03",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "At night you see a white light making a group of six quick flashes followed by one long flash, repeating every 15 seconds. Which mark is it?",
       "options": [
         "South cardinal, Q(6)+LFl 15s",
         "East cardinal, Q(3) 10s",
         "West cardinal, Q(9) 15s",
-        "Isolated danger, Fl(2) 10s"
+        "Isolated danger mark, Fl(2) 10s"
       ],
       "correct_index": 0,
       "explanation": "Six flashes on the clock face is South, and the added long flash is the South mark's signature, written Q(6)+LFl 15s. East has 3 flashes, West has 9 and an isolated danger shows a group of 2 flashes.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sixty-ccg-atons-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sixty-ccg-atons-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q04",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A buoy is yellow with a broad black band and its topmark is two black cones point to point. Which mark is it and which way do you pass?",
       "options": [
@@ -66,13 +90,19 @@
       ],
       "correct_index": 1,
       "explanation": "Yellow with a black band and cones point to point is a west cardinal, so the safe water is west of the mark and you pass to its west. East is black with a yellow band and cones base to base. An isolated danger has a red band and two spheres.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q05",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which description fits an isolated danger mark?",
       "options": [
@@ -83,30 +113,43 @@
       ],
       "correct_index": 0,
       "explanation": "The isolated danger is black with a red band and carries two black spheres, one above the other, with a white group-flashing Fl(2) light. The red and white stripes are a fairway mark, the yellow X is a special mark and the last description is a north cardinal.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q06",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "What does an isolated danger mark tell you about the water around it?",
       "options": [
-        "A danger lies at the mark and there is navigable water all round it, so you can pass on any side at a safe distance",
-        "Safe water lies only to its north and east",
-        "Safe water lies to starboard when you are going upstream",
-        "The channel splits at that point"
+        "A danger is at the mark, with navigable water all round it",
+        "Safe water lies only to its north and east sides",
+        "Safe water lies on the starboard side when going upstream",
+        "The channel splits at that point into two branches"
       ],
       "correct_index": 0,
       "explanation": "The mark is on or over a small danger with navigable water on all sides. It is not a cardinal (safe water on one named side), not a lateral mark (starboard side) and not a bifurcation mark (a channel split).",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q07",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "You are heading due south along a shore and sight a very quick white light making nine flashes then dark (VQ(9) 10s). You want to stay in safe water. What do you do?",
       "options": [
@@ -117,13 +160,20 @@
       ],
       "correct_index": 0,
       "explanation": "Nine flashes on the clock face (9 o'clock) is a west cardinal, so the safe water is to its west. Heading south, west is on your right, so the mark is on your starboard side. Passing east or between the mark and the danger takes you into the hazard it guards. The light is a group, not continuous.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sixty-ccg-atons-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sixty-ccg-atons-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q08",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What colour is a cardinal mark's light?",
       "options": [
@@ -134,13 +184,19 @@
       ],
       "correct_index": 3,
       "explanation": "All cardinal marks use white lights, quick (Q) or very quick (VQ). Red and green belong to lateral marks and yellow to special marks.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-cardinal-and-other-marks.q09",
       "lesson_id": "seamanship.buoyage-cardinal-and-other-marks",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "The Coast Guard gives a memory aid for the number of flashes in the East, South and West cardinal groups. What is it?",
       "options": [
@@ -151,7 +207,9 @@
       ],
       "correct_index": 0,
       "explanation": "East is 3 o'clock, South is 6 and West is 9 on a clock face, and the groups have 3, 6 and 9 flashes. The compass-bearing idea happens to give 3, 6 and 9 for 90, 180 and 270 but is not the stated aid. All cardinal topmarks have two cones.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

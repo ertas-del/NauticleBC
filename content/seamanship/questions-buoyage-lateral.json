@@ -4,7 +4,11 @@
     {
       "id": "seamanship.buoyage-lateral.q01",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which side do you keep a red conical buoy on when proceeding in the upstream direction in Canadian waters?",
       "options": [
@@ -15,30 +19,44 @@
       ],
       "correct_index": 1,
       "explanation": "Canada uses IALA Region B: red starboard hand aids are kept to starboard when going upstream (\"red right returning\"). Port is the side for green marks. Lateral marks are not optional on either side, and numbering has no effect on which side you keep them.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q02",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "How does the Canadian Coast Guard define the upstream direction?",
       "options": [
         "Northward along the coast",
         "Toward the nearest port, whatever the direction",
-        "From seaward toward the headwaters of a river or into a harbour",
-        "Against the direction of the main tidal stream"
+        "From seaward toward a river's headwaters or into a harbour",
+        "Against the direction of the main flood stream along the coast"
       ],
       "correct_index": 2,
       "explanation": "Upstream is defined as proceeding from seaward toward the headwaters of a river or into a harbour. It is not tied to a compass direction or to the tidal stream, which reverses.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q03",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "A buoy is green, flat-topped, shows the number 7 and has a green light flashing every 4 seconds. What is it?",
       "options": [
@@ -49,47 +67,67 @@
       ],
       "correct_index": 1,
       "explanation": "Green, flat-topped (can), odd number and a green Fl 4s light are the features of a port hand buoy. A bifurcation mark would have a broad red band and an Fl(2+1) light. Special marks are yellow.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sixty-ccg-atons-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sixty-ccg-atons-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q04",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Entering an inlet from the sea you pass starboard hand buoys numbered 2, 4 and 6 in that order. What do you expect the next red buoy to be numbered, and what does this tell you?",
       "options": [
-        "8, because numbers increase upstream and you are going upstream",
-        "1, because numbers restart at each bend",
-        "0, because the numbers count down toward the head of the inlet",
+        "8, because numbers increase as you go upstream",
+        "1, because the numbers restart at each bend",
+        "0, because buoy numbers count down toward the head of the inlet",
         "Any number, because only the colour matters"
       ],
       "correct_index": 0,
       "explanation": "Numbers increase in the upstream direction, so the next red buoy is likely to be 8 (numbers can be skipped to keep the two sides in step, so it might be higher). Numbers do not restart at each bend or count down. If they were falling, you would suspect you were going downstream.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q05",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A buoy is red with one broad green band, conical, and shows a red light flashing Fl(2+1) 10s. What does it mark, and which side do you keep it on to take the preferred channel?",
       "options": [
-        "A fairway; keep it to port",
+        "A fairway mark; keep it to port",
         "An isolated danger; pass clear on either side",
-        "A starboard bifurcation (channel split); keep it on your starboard side",
-        "A port bifurcation (channel split); keep it on your port side"
+        "A starboard bifurcation; keep it on your starboard side",
+        "A port bifurcation; keep it on your port side as you go upstream"
       ],
       "correct_index": 2,
       "explanation": "Red with a broad green band and a composite Fl(2+1) light is a starboard bifurcation mark: the channel divides, and the preferred channel is the one that keeps this buoy on your starboard side. The port bifurcation is the reverse (green with a red band). A fairway is red and white vertical stripes. An isolated danger is black with a red band.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "bw-ccg-aids-to-navigation-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "bw-ccg-aids-to-navigation-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q06",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You approach a spherical buoy with red and white vertical stripes, a red sphere topmark and a white light showing Morse A. How should you treat it?",
       "options": [
@@ -100,13 +138,20 @@
       ],
       "correct_index": 0,
       "explanation": "Red and white vertical stripes, a sphere and a red sphere topmark identify a fairway (safe water) mark, shown with Mo(A) 6s or LFl 10s. The Coast Guard says to keep it to port whichever direction you travel. It is not a danger mark and not a lateral mark, and special marks are yellow.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sixty-ccg-atons-2023"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sixty-ccg-atons-2023"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q07",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Leaving harbour on a fishing trip you are going out to sea past a red buoy and a green buoy. Where are they relative to you if the channel is marked in the normal Canadian way?",
       "options": [
@@ -117,41 +162,56 @@
       ],
       "correct_index": 1,
       "explanation": "Going out to sea is going downstream, the reverse of the upstream direction, so you leave starboard hand (red) aids on your port side and green on your starboard side. The marks keep their meaning; your direction flipped. Numbers help confirm the direction but are not needed to place red and green.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q08",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "You are coasting at night and the chart shows a lit buoy marking the corner of a shoal, but you cannot see its light. What is the best interpretation?",
       "options": [
         "The shoal has gone, because the buoy would have been removed",
-        "The buoy may be unlit, damaged or off station, so do not rely on it alone and use other fixes",
+        "It may be unlit or off station; do not rely on it alone",
         "The light is too bright to see at close range",
-        "You can judge the buoy's distance from how dim the light looks"
+        "You can judge the buoy's distance from how dim it looks"
       ],
       "correct_index": 1,
       "explanation": "The Coast Guard warns that aids can be damaged, fail or move off position, that chart positions are approximate, and that distance cannot be judged from brightness. Treat a missing light as a warning and use bearings, soundings or satellite positions. A missing buoy never proves the danger is gone.",
-      "source_ids": ["sea-a-ccg-atons-2023-html"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.buoyage-lateral.q09",
       "lesson_id": "seamanship.buoyage-lateral",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "Which statement about direction of buoyage on the BC coast is best supported by the Coast Guard's published system?",
       "options": [
         "Upstream is always northward along the coast",
         "Upstream is always toward the open Pacific",
-        "The same upstream definition (from seaward toward the headwaters or into a harbour) applies, and you read it from the chart and the buoy numbering",
-        "Direction of buoyage on the BC coast is the opposite of that on the Atlantic coast"
+        "The same upstream definition applies; read it from chart and numbers",
+        "Buoyage on the BC coast runs the opposite way to the Atlantic coast system"
       ],
       "correct_index": 2,
       "explanation": "The Coast Guard gives one definition for Canadian waters. It does not fix a compass direction, and the Pacific Coast Sailing Directions refer the reader to the List of Lights rather than state one. So use the definition together with the chart and the rising buoy numbers. Check with a qualified instructor if you want a coastwise rule of thumb.",
-      "source_ids": ["sea-a-ccg-atons-2023-html", "sea-a-chs-pac200-2025"],
+      "source_ids": [
+        "sea-a-ccg-atons-2023-html",
+        "sea-a-chs-pac200-2025"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

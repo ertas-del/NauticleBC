@@ -11,7 +11,7 @@
       "difficulty": "easy",
       "stem": "Which of these is a rope family listed in the Bridge Watch Rating course standard?",
       "options": [
-        "Natural fibre, synthetic fibre, modern high-strength and wire",
+        "Natural fibre, synthetic fibre, high-strength and wire",
         "Hemp, chain, cable and string",
         "Laid, braided and knotted",
         "Floating, sinking and neutral"
@@ -56,7 +56,7 @@
       "stem": "A nylon mooring line parts under heavy load. What is the main danger, and why?",
       "options": [
         "It sinks and fouls the propeller",
-        "It snaps back along the line of pull, because stretched nylon stores a lot of energy",
+        "It snaps back hard, as stretched nylon stores energy",
         "It melts and burns the crew",
         "It becomes stiff and cannot be coiled"
       ],
@@ -102,9 +102,9 @@
       "stem": "What is the difference between breaking strength and safe working load (SWL)?",
       "options": [
         "They are the same figure",
-        "Breaking strength is the load that parts the rope; SWL is much lower and is the most to be used in service",
-        "SWL is the load that parts the rope; breaking strength is the allowed load",
-        "SWL is only for wire rope; breaking strength is only for fibre rope"
+        "Breaking strength parts the rope; SWL is far lower, for use",
+        "SWL parts the rope; breaking strength is the allowed load",
+        "SWL is only for wire; breaking strength only for fibre"
       ],
       "correct_index": 1,
       "explanation": "Breaking strength is the load at failure. SWL is set well below that so there is a margin for wear, shock and age. All ropes must be used within an SWL much less than their breaking strength, whatever their material.",
@@ -146,10 +146,10 @@
       "difficulty": "easy",
       "stem": "Which is correct care for rope?",
       "options": [
-        "Stow it wet so it stays supple",
-        "Dry it before storing, keep it clean, protect it from chafe and replace worn or frayed line",
-        "Leave it in strong sunlight to kill mould",
-        "Never whip the ends"
+        "Stow it wet and coiled tight so the fibres stay supple and soft",
+        "Dry and clean it, guard it from chafe, replace worn line",
+        "Leave it in strong sunlight on deck so the UV kills any mould",
+        "Leave the ends unwhipped so the strands can breathe and dry"
       ],
       "correct_index": 1,
       "explanation": "Good care means drying before stowing, keeping it clean and tidy, protecting it from abrasion, replacing worn line and whipping the ends. Strong sunlight damages polypropylene and other fibres, and unwhipped ends unlay.",
@@ -168,10 +168,10 @@
       "difficulty": "medium",
       "stem": "How is ordinary three-strand rope laid, and what is a nine-strand cable-laid rope?",
       "options": [
-        "Left-handed; three braids laid together",
-        "Right-handed (hawser-laid); three hawser-laid ropes laid up left-handed",
-        "Always braided; two ropes twisted together",
-        "Right-handed; four strands around a heart"
+        "Left-handed; three single braids laid up together right-handed",
+        "Right-handed; three hawser-laid ropes laid up left-handed",
+        "Always braided; two hawser-laid ropes twisted together loosely",
+        "Right-handed; four strands laid around a central heart"
       ],
       "correct_index": 1,
       "explanation": "Three-strand rope is hawser-laid, normally right-handed. Cable-laid rope has three hawser-laid ropes laid up the opposite way (left-handed), giving nine strands. Four strands around a heart is shroud-laid.",
@@ -190,10 +190,10 @@
       "difficulty": "medium",
       "stem": "A wire rope has developed a kink. What should you do?",
       "options": [
-        "Pull it straight with a winch",
-        "Treat it as unsafe: the kink cannot be removed by strain, so take the wire out of service",
-        "Coat it with oil and keep using it",
-        "Cut it and splice with a reef knot"
+        "Pull it straight with the winch, then carry on using it",
+        "Treat it as unsafe and take the wire out of service",
+        "Coat the kink with oil and keep using the wire as normal",
+        "Cut it out and join the two ends again with a reef knot"
       ],
       "correct_index": 1,
       "explanation": "Once a kink forms no amount of strain takes it out, and the rope is unsafe to work. Straining it or oiling it does not restore it. Wire rope should be lubricated and checked for corrosion and kinks as routine.",
@@ -213,10 +213,10 @@
       "difficulty": "medium",
       "stem": "Which statement about braided rope is right?",
       "options": [
-        "Single braids are often made with 8 or 12 strands; double braid has a braided core inside a braided cover",
-        "Braided rope is always three-stranded",
-        "Braided rope can only be made from wire",
-        "Braided rope kinks more easily than laid rope"
+        "Single braid is often 8 or 12 strands; double braid is core plus cover",
+        "Braided rope is always three-stranded, like ordinary hawser-laid rope",
+        "Braided rope can only be made from steel wire, never from fibres",
+        "Braided rope kinks far more easily than laid rope of the same size"
       ],
       "correct_index": 0,
       "explanation": "Single braids typically have 8 or 12 strands, and double braid puts a braided core inside a braided cover. Braided rope is not limited to three strands or to wire, and it is less prone to kinking than laid rope.",

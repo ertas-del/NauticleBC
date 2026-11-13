@@ -4,7 +4,10 @@
     {
       "id": "seamanship.knots-bends-hitches.q01",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "Which knot makes a fixed loop that does not slip?",
       "options": [
@@ -15,13 +18,19 @@
       ],
       "correct_index": 1,
       "explanation": "The bowline makes a fixed loop that does not slip or tighten. A clove hitch is a quick temporary hold on a post, a sheepshank shortens a rope and an overhand knot is a simple stopper that is hard to untie once tight.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q02",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "You must join a thick mooring line to a thin messenger line. Which knot is the right choice?",
       "options": [
@@ -32,30 +41,42 @@
       ],
       "correct_index": 1,
       "explanation": "The sheet bend joins ropes of different size, and the double sheet bend holds even better and jams less. A reef knot is the common tie for lines of the same size and is unreliable with unequal ropes. A figure of eight is a stopper and a sheepshank shortens one rope.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q03",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "What is the main property of a rolling hitch?",
       "options": [
         "It joins two ropes of equal size",
-        "It grips along a rope or spar and resists slipping in the direction of pull",
+        "It grips along a rope or spar against the pull",
         "It makes a loop in the middle of a rope",
-        "It shortens a rope"
+        "It shortens a rope without cutting it"
       ],
       "correct_index": 1,
       "explanation": "The rolling hitch resists slipping along the rope or spar it is tied to, in the direction of pull, which is why it is used to attach a smaller line to a larger one and for stoppers. Joining equal ropes is the reef knot's job, loops come from a bowline and shortening from a sheepshank.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q04",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A knot is described as a quick, temporary hold on a post or rail that can jam under load. Which is it?",
       "options": [
@@ -66,64 +87,86 @@
       ],
       "correct_index": 1,
       "explanation": "The clove hitch is two half hitches that form a jamming hold, suited to quick, temporary securing on a post, spar or rail. A bowline is a fixed loop, a double sheet bend joins ropes, and the fisherman's bend fastens a hauling line to a ring.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q05",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What is the purpose of a figure of eight tied in the end of a rope?",
       "options": [
         "To shorten the rope",
-        "To stop the end running out through a block or fairlead",
-        "To join two ropes",
+        "To stop the end running out through a block",
+        "To join two ropes together",
         "To attach the rope to a hook"
       ],
       "correct_index": 1,
       "explanation": "The figure of eight is a stopper knot: it stops the rope unreeling through a block. A sheepshank shortens, a bend joins and a blackwall hitch holds a rope to a hook.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q06",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A mooring line is too long for the cleat and you do not want to cut it. Which knot shortens it, and what is a caution about it?",
       "options": [
-        "Sheepshank; the bights may be seized or toggled to the standing parts to make it dependable",
-        "Reef knot; it never slips",
+        "Sheepshank; seize or toggle the bights so it holds",
+        "Reef knot; it never slips under load",
         "Cat's paw; it holds in any condition",
         "Bowline; it must be tied under load"
       ],
       "correct_index": 0,
       "explanation": "A sheepshank shortens a rope without cutting it. It holds only while there is a steady pull, so the bights can be seized or toggled to the standing parts to make it dependable. A reef knot is a tie, a cat's paw makes a loop for a tackle hook and a bowline makes a fixed loop.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q07",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which pairing of knot and job is correct?",
       "options": [
-        "Cat's paw: temporary loop for hooking on a block of a tackle",
+        "Cat's paw: a temporary loop for hooking on a tackle block",
         "Reef knot: joining ropes of very different thickness",
-        "Fisherman's bend: shortening a rope",
+        "Fisherman's bend: shortening a rope without cutting",
         "Timber hitch: making a permanent fixed loop"
       ],
       "correct_index": 0,
       "explanation": "A cat's paw makes a temporary loop to hook on a block. A reef knot is for lines of the same size, a fisherman's bend secures a hauling line to a kedge ring or a bucket, and a timber hitch is a quick hold on a spar or plank rather than a permanent loop.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q08",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "hard",
       "stem": "You are dragging a spar along the deck with a timber hitch. The pull is steady and must be directed. What should you add?",
       "options": [
@@ -134,30 +177,41 @@
       ],
       "correct_index": 1,
       "explanation": "A timber hitch is a quick hold; for a continuous strain or where the pull must be directed, it is supplemented with a half hitch. A reef knot or a second timber hitch does not give the same result and the hitch alone is not recommended for continuous strain.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q09",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which statement is correct about two half hitches and the fisherman's bend?",
       "options": [
-        "Two half hitches secure a rope end to a bollard or ring; the fisherman's bend secures a hauling line to a kedge ring",
+        "Half hitches secure an end to a ring; the bend secures a line to a kedge ring",
         "Two half hitches join two ropes; the fisherman's bend makes a loop",
-        "Both are stoppers",
-        "Both shorten a rope"
+        "Both are stopper knots for the end of a line",
+        "Both are used to shorten a rope"
       ],
       "correct_index": 0,
       "explanation": "Two half hitches are used for securing a rope end to a bollard or ring and for mooring. The fisherman's bend is also a hitch to a ring (it is also called the bucket hitch). Neither joins ropes, makes a loop or shortens a rope.",
-      "source_ids": ["sea-a-jutsum-knots-bends-splices", "sea-a-usace-marlinspike-seamanship"],
+      "source_ids": [
+        "sea-a-jutsum-knots-bends-splices",
+        "sea-a-usace-marlinspike-seamanship"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.knots-bends-hitches.q10",
       "lesson_id": "seamanship.knots-bends-hitches",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "How many knots, bends and hitches (including whippings, seizings and stoppers) are on the knot list in the Bridge Watch Rating course standard TP 10936?",
       "options": [
@@ -168,7 +222,9 @@
       ],
       "correct_index": 1,
       "explanation": "The list in the course standard as summarised in our research has 25 items. If your instructor has a different edition, follow the current TP 10936.",
-      "source_ids": ["bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

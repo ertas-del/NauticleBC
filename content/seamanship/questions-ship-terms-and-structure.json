@@ -4,58 +4,80 @@
     {
       "id": "seamanship.ship-terms-and-structure.q01",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "A crane is described as being \"abaft the beam\". Where is it?",
       "options": [
         "Toward the bow from the widest point of the ship",
         "Toward the stern from the widest point of the ship",
-        "On the centreline",
-        "Outside the hull"
+        "On the centreline, directly over the keel of the ship",
+        "Outside the hull, hanging over the side at the waterline"
       ],
       "correct_index": 1,
       "explanation": "Abaft means toward the stern relative to some object or point. Here the point is the beam (the widest part), so abaft the beam is behind it, toward the stern. Toward the bow would be \"forward of the beam\".",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q02",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What does \"athwartships\" mean?",
       "options": [
-        "Along the length of the ship",
-        "At right angles to the centreline, from side to side",
-        "Toward the bow",
-        "Halfway along the ship"
+        "Fore and aft, along the full length of the ship",
+        "Side to side, at right angles to the centreline",
+        "Toward the bow, forward of the widest part of the hull",
+        "Halfway along the ship, at the midpoint of her length"
       ],
       "correct_index": 1,
       "explanation": "Athwartships is across the ship at right angles to the fore-and-aft centreline. Along the ship is fore and aft; halfway along is amidships.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q03",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "Which pair is correctly matched?",
       "options": [
-        "Outboard: toward the centreline; inboard: outside the hull",
-        "Amidships: at the stern; aft: halfway along",
-        "Beam: the width of the vessel at its widest point; amidships: halfway along the length",
-        "Port: right side looking forward; starboard: left side"
+        "Outboard: toward the centreline; inboard: outside the hull of the ship",
+        "Amidships: right at the stern; aft: halfway along the length of the ship",
+        "Beam: width at the widest point; amidships: halfway along the length",
+        "Port: the right side looking forward; starboard: the left side looking forward"
       ],
       "correct_index": 2,
       "explanation": "Beam is the maximum width and amidships is the middle. Outboard and inboard are the wrong way round in the first option, aft and amidships are confused in the second, and port is the left side, not the right.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q04",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "A fitting must withstand water pressure from both sides of the door or hatch. Which word describes it?",
       "options": [
@@ -66,13 +88,19 @@
       ],
       "correct_index": 1,
       "explanation": "Watertight fittings must resist pressure from either side. Weathertight fittings only need to resist pressure from the outside, enough to keep water out in any sea conditions. The other two words are not standard terms.",
-      "source_ids": ["sea-a-wartsila-weathertight"],
+      "source_ids": [
+        "sea-a-wartsila-weathertight"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q05",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which description of \"weathertight\" is best?",
       "options": [
@@ -83,75 +111,101 @@
       ],
       "correct_index": 0,
       "explanation": "The Load Lines convention wording is that in any sea conditions water will not penetrate into the ship. Resisting pressure from both directions describes watertight, not weathertight.",
-      "source_ids": ["sea-a-wartsila-weathertight"],
+      "source_ids": [
+        "sea-a-wartsila-weathertight"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q06",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "Which statement about bitts and bollards is right?",
       "options": [
-        "A bollard is only used on aircraft",
-        "Bitts are a post or pair of posts for making ropes or cables fast; a bollard is a strong vertical post for mooring lines",
-        "A bollard is a pair of horizontal drums used to lift cargo",
-        "Bitts and fairleads are the same thing"
+        "A bollard is only fitted ashore; bitts are only fitted on aircraft carriers",
+        "Bitts and bollards are both posts on which lines are made fast",
+        "A bollard is a pair of horizontal drums used for lifting cargo aboard",
+        "Bitts and fairleads are the same fitting under two different names"
       ],
       "correct_index": 1,
       "explanation": "Both are posts to which lines are secured: bitts are a post or pair of posts, and a bollard is a substantial vertical pillar. A fairlead is a different fitting that guides a line, and cargo lifting is done by derricks or cranes.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q07",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "easy",
       "stem": "What is an accommodation ladder?",
       "options": [
         "A portable flight of steps down the side of a ship",
-        "A fixed ladder inside a cargo hold",
-        "A rope ladder hung from a mast",
-        "A ladder in the crew's cabins"
+        "A fixed steel ladder running down inside a cargo hold",
+        "A rope ladder hung from a mast for going aloft",
+        "A short ladder fitted in the crew's sleeping cabins"
       ],
       "correct_index": 0,
       "explanation": "An accommodation ladder is a portable flight of steps down the ship's side, used for boarding from a boat or the quay. It is not the same as a rope or pilot ladder, nor a ladder inside the ship.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q08",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "hard",
       "stem": "The bosun says: \"Stow the fenders outboard of the rail, starboard side, abaft the accommodation.\" Where do the fenders go?",
       "options": [
         "Inside the rail on the left side, toward the bow from the accommodation",
-        "Outside the rail on the right side looking forward, toward the stern from the accommodation",
-        "On the centreline behind the accommodation",
+        "Outside the rail, right side, toward the stern from the accommodation",
+        "On the centreline of the deck, close behind the accommodation block",
         "Outside the rail on the right side, toward the bow from the accommodation"
       ],
       "correct_index": 1,
       "explanation": "Outboard of the rail means outside it; starboard is the right side looking forward; abaft the accommodation means toward the stern from it. The other options get one of these three words wrong.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "seamanship.ship-terms-and-structure.q09",
       "lesson_id": "seamanship.ship-terms-and-structure",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt", "fishing-master-4"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt",
+        "fishing-master-4"
+      ],
       "difficulty": "medium",
       "stem": "In which sense does \"aft\" differ from \"abaft\"?",
       "options": [
-        "They are exact synonyms",
-        "Aft is a general direction toward the stern; abaft is toward the stern relative to a named object",
-        "Abaft means toward the bow",
-        "Aft is only used for aircraft"
+        "They are exact synonyms and can always be swapped freely",
+        "Aft is a general direction; abaft is relative to an object",
+        "Abaft means toward the bow, aft means toward the stern",
+        "Aft is a word used only for aircraft, abaft only for ships"
       ],
       "correct_index": 1,
       "explanation": "Aft is toward the stern in general. Abaft needs a reference object (abaft the beam, abaft the funnel). Toward the bow is forward or fore.",
-      "source_ids": ["sea-a-wikipedia-nautical-glossary"],
+      "source_ids": [
+        "sea-a-wikipedia-nautical-glossary"
+      ],
       "review_status": "needs_expert_review"
     }
   ]
