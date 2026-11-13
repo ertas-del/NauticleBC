@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "It is midnight. A relieving officer has just come from a brightly lit mess room. Which statement is correct?",
       "options": [
-        "They may take over at once as eyesight is unimportant at night",
-        "They may take over but only if the radar is on",
-        "They must wait until sunrise",
-        "They should not take over until their vision is fully adjusted to the light conditions"
+        "They may take over at once, as eyesight is unimportant at night",
+        "They may take over, but only if the radar is switched on",
+        "Only after sunrise",
+        "Not until their eyes have adjusted to the dark"
       ],
       "correct_index": 3,
       "explanation": "The relieving officer must be fit and not take over the watch until their vision is fully adjusted to the light. Waiting until sunrise is unnecessary and radar does not replace vision.",
@@ -81,9 +81,9 @@
       "difficulty": "medium",
       "stem": "Which of these must the relieving officer confirm before taking over the watch?",
       "options": [
-        "The crew's pay rates",
-        "The galley stores list",
-        "The ship's position, intended track, course and speed, plus expected dangers",
+        "The crew's pay rates and overtime hours",
+        "The galley stores list for the voyage",
+        "Position, track, course, speed and dangers",
         "The cargo manifest and passenger names"
       ],
       "correct_index": 2,
@@ -104,9 +104,9 @@
       "difficulty": "medium",
       "stem": "Which list matches things the relieving officer also checks at handover?",
       "options": [
-        "Lifeboat weights and anchor chain colour",
-        "Master's standing orders, draught, tides and currents, weather and visibility, equipment condition, compass errors and nearby ships",
-        "Menu, crew rota, shore leave list and fuel price",
+        "Lifeboat weights, anchor chain colour and the paint schedule",
+        "Standing orders, draught, tides, weather, kit, errors, traffic",
+        "Menu, crew rota, shore leave list and the current fuel price",
         "Radio licence, passports, galley stores and paint stocks"
       ],
       "correct_index": 1,
@@ -150,8 +150,8 @@
       "difficulty": "easy",
       "stem": "In which situations do the watch relief and handover requirements apply?",
       "options": [
-        "At sea only",
-        "In port only",
+        "At sea only, while under way",
+        "In port only, while alongside",
         "In restricted visibility only",
         "At sea, at anchor and in port"
       ],
@@ -173,10 +173,10 @@
       "difficulty": "medium",
       "stem": "A helmsman is relieved at the wheel. Which handover is best?",
       "options": [
-        "\"Follow the ship ahead.\" The relief says nothing",
-        "\"Course is on the chart.\" The relief goes to look at the chart",
-        "\"Course 245 gyro, standby magnetic reads 252, ship pulls slightly to port.\" The relief repeats it back",
-        "\"Just keep her straight.\" The relief nods"
+        "\"Follow the ship ahead and you'll be fine.\" The relief says nothing",
+        "\"Course is on the chart.\" The relief goes off to look at the chart",
+        "\"245 gyro, 252 magnetic, pulls to port.\" Relief repeats it",
+        "\"Just keep her straight, it's easy tonight.\" The relief nods"
       ],
       "correct_index": 2,
       "explanation": "The helmsman gives the course, which compass is in use and any steering peculiarities, and the relief repeats it back. The vague options leave the relief without the facts.",
@@ -197,7 +197,7 @@
       "stem": "A relieving rating arrives to take the look-out at 0200 after reading in the lit crew mess. The outgoing look-out is about to leave. Which is the best action?",
       "options": [
         "Tell the relief to use the radar instead of their eyes",
-        "Allow the relief time for their eyes to adjust, keep the look-out meanwhile, and then hand over",
+        "Stay on look-out until the relief's eyes adjust",
         "Hand over immediately, since the watch should change on the hour",
         "Leave the post empty until the relief is ready"
       ],

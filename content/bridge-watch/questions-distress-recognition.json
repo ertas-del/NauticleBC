@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "In which four ways may a Bridge Watch Rating be expected to recognise a distress signal?",
       "options": [
-        "By sight, by smell, by radar and by log entries",
-        "By radar, by AIS, by echo sounder and by gyro",
+        "By sight, by smell, by radar and by the entries in the log book",
+        "By radar, by AIS, by echo sounder and by gyro alarm",
         "By flags, by whistles, by bells and by horns only",
-        "By sight, by sound, by radiotelephone and from an aircraft"
+        "By sight, sound, radiotelephone and from an aircraft"
       ],
       "correct_index": 3,
       "explanation": "TP 10936 lists sight, sound, radiotelephone and aircraft. Radar, AIS and similar instruments may help but are not the four ways listed.",
@@ -35,10 +35,10 @@
       "difficulty": "easy",
       "stem": "You see a red parachute flare in the distance. What is the first thing you should do?",
       "options": [
-        "Call the Coast Guard on VHF yourself",
-        "Write it in the log and tell the next watch",
-        "Report it immediately to the master or officer of the watch",
-        "Wait to see if a second flare appears"
+        "Call the Coast Guard yourself",
+        "Write it in the log and tell the next watch at handover",
+        "Report it at once to the master or OOW",
+        "Wait to see if a second flare goes up before reporting"
       ],
       "correct_index": 2,
       "explanation": "A distress signal is reported immediately to the officer or master, who decides on the response. Waiting wastes time, and calling the Coast Guard or logging it is the officer's decision.",
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "On a foggy night you hear a fog horn that sounds without a break for several minutes. What does the Collision Regulations list this as?",
       "options": [
-        "A normal fog signal for a vessel at anchor",
-        "A manoeuvring signal",
-        "A signal that a vessel is aground",
-        "A distress signal: a continuous sounding of any fog-signalling apparatus"
+        "A normal fog signal for a vessel at anchor in the area",
+        "A manoeuvring signal from a vessel turning nearby",
+        "A signal that a vessel nearby is aground",
+        "A distress signal (continuous fog signal)"
       ],
       "correct_index": 3,
       "explanation": "A continuous sounding of any fog-signalling apparatus is in the Annex IV list of distress signals. Normal fog signals are made at intervals, so a continuous sound is the clue.",
@@ -127,10 +127,10 @@
       "difficulty": "medium",
       "stem": "Which of these is NOT an Annex IV distress signal?",
       "options": [
-        "Orange smoke",
-        "Flames on the vessel",
-        "A single white light on a boat at anchor",
-        "Rockets throwing red stars"
+        "Orange smoke from a canister",
+        "Flames on the vessel, as from a burning tar barrel",
+        "One white light on a boat at anchor",
+        "Rockets throwing red stars one at a time"
       ],
       "correct_index": 2,
       "explanation": "A white light on an anchored boat is an anchor light. Red stars, orange smoke and flames on the vessel are distress signals.",
@@ -150,10 +150,10 @@
       "difficulty": "medium",
       "stem": "A search aircraft is directing your vessel to a casualty. Which sequence of manoeuvres is it using?",
       "options": [
-        "Fly low in a straight line over the bow and then land",
-        "Circle the ship at least once, cross low ahead rocking its wings, then head the way the ship should go",
-        "Fly directly away without circling, flashing its lights",
-        "Cross astern rocking its wings, then circle once"
+        "Fly low in a straight line over the bow and then land on the water nearby",
+        "Circle, cross low ahead rocking wings, then head off",
+        "Fly directly away without circling, flashing its landing lights",
+        "Cross astern, then circle once"
       ],
       "correct_index": 1,
       "explanation": "The three manoeuvres are to circle at least once, cross ahead low while rocking the wings, then head in the direction the ship is to go. The other options are not the direction signal.",
@@ -174,10 +174,10 @@
       "difficulty": "medium",
       "stem": "Why do aircraft rock their wings rather than rely on a change of engine tone when directing a ship?",
       "options": [
-        "Noise aboard the ship may mask engine sound changes",
-        "Wing rocking is easier to see on radar",
-        "Engine tone changes are forbidden by law",
-        "Rocking wings saves fuel"
+        "Noise aboard may mask engine sound changes",
+        "Wing rocking is far easier to see on radar",
+        "Engine tone changes are forbidden by air law",
+        "Rocking the wings saves the aircraft fuel"
       ],
       "correct_index": 0,
       "explanation": "The Canadian guidance says wing rocking is preferred because of noise aboard ships. The other reasons are not given.",
@@ -221,10 +221,10 @@
       "difficulty": "medium",
       "stem": "A crew member wants to fire a red hand flare to attract a passing friend on shore. What is wrong with this?",
       "options": [
-        "It is allowed in daylight only",
-        "It is allowed if the master is not on deck",
-        "A distress signal must not be used for any other purpose than distress",
-        "Nothing, red flares are only a warning"
+        "Nothing, in daylight",
+        "It is allowed as long as the master is not on deck",
+        "Distress signals are only for distress",
+        "Nothing, because red flares are only a general warning"
       ],
       "correct_index": 2,
       "explanation": "Annex IV says distress signals are not to be used for any other purpose, and they must not be confused with distress. Time of day or the master's presence does not change that.",

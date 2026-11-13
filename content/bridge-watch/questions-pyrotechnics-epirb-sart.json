@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "Which list names all four kinds of pyrotechnic distress signal in the Small Vessel Regulations?",
       "options": [
-        "Rocket parachute flare, multi-star flare, hand flare, and buoyant or hand smoke signal",
+        "Parachute flare, multi-star, hand flare, smoke signal",
         "Rocket parachute flare, red lamp, hand flare, and whistle",
         "Orange smoke, torch, signal mirror, and rocket parachute flare",
-        "Multi-star flare, hand flare, strobe light, and flag"
+        "Multi-star flare, hand flare, strobe light, and code flag"
       ],
       "correct_index": 0,
       "explanation": "Section 1 of the SVR defines a pyrotechnic distress signal as a rocket parachute flare, a multi-star flare, a hand flare, or a buoyant or hand smoke signal. Mirrors, lamps, flags and whistles are not pyrotechnic distress signals.",
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "A passenger-carrying vessel of 10 m under SVR Part 4 (not more than 15 gross tonnage, 12 passengers or fewer) is checked for visual signals. What must she carry?",
       "options": [
-        "A watertight flashlight and twelve pyrotechnic distress signals, not more than six of them smoke signals",
+        "A watertight flashlight and 12 flares, max 6 smoke",
         "A watertight flashlight and six pyrotechnic distress signals, none of them smoke",
-        "Three pyrotechnic distress signals only",
-        "Twelve smoke signals and no flares"
+        "Three pyrotechnic distress signals only, of any type",
+        "Twelve smoke signals and no flares of any kind"
       ],
       "correct_index": 0,
       "explanation": "Section 410 gives, for a vessel of more than 9 m, a watertight flashlight and twelve pyrotechnic distress signals of which not more than six are smoke signals. Six non-smoke signals applies to 6 m up to 9 m, and three to a vessel of 6 m or less.",
@@ -128,7 +128,7 @@
       "difficulty": "medium",
       "stem": "Which statement about a float-free EPIRB under s. 209 of the Navigation Safety Regulations, 2020 is correct?",
       "options": [
-        "It is required on a near coastal Class 1 or unlimited voyage; it must float free if the vessel sinks, be readily accessible near the navigating position unless remotely activated, and be able to be released by hand and carried into a survival craft",
+        "Near coastal Class 1 or unlimited; floats free, handy, hand release",
         "It is required only on vessels over 150 gross tonnage and must be bolted to the mast",
         "It is required on every vessel, and it must be kept locked in the master's cabin",
         "It is required only in sheltered waters and must be stowed below deck"
@@ -151,9 +151,9 @@
       "difficulty": "medium",
       "stem": "A 10 m vessel on a near coastal voyage, Class 2 carries a manually activated EPIRB. Where should it be?",
       "options": [
-        "Worn by the person in charge of the navigational watch or stowed so it is readily accessible for immediate use if the vessel is abandoned",
-        "Locked in the master's cabin",
-        "Fixed to the mast and never removed",
+        "Worn by the watchkeeper or stowed ready for abandoning",
+        "Locked in the master's cabin for safe keeping",
+        "Fixed to the mast with bolts and never removed",
         "Stored with the spare flares in a sealed box below"
       ],
       "correct_index": 0,
@@ -174,7 +174,7 @@
       "difficulty": "hard",
       "stem": "Which statement about EPIRB testing and maintenance is correct?",
       "options": [
-        "EPIRBs, PLBs and SARTs are inspected and tested by a radio operator at least every six months; the EPIRB release mechanism is replaced on or before its marked date; the battery is replaced after an inadvertent activation",
+        "Radio operator tests every 6 months; release by its date; battery after false alert",
         "Beacons are tested every year; the release mechanism is never replaced; the battery is replaced only when it fails",
         "Beacons are tested every three months by any crew member; the battery is never replaced",
         "Beacons are tested every two years; the release mechanism and battery are replaced only at expiry"
@@ -197,10 +197,10 @@
       "difficulty": "medium",
       "stem": "Which statement about a radar SART is correct?",
       "options": [
-        "It answers 9 GHz (X-band) radar only, and shows as a line of 12 dots that become arcs and then full circles within about 1 nautical mile",
+        "X-band only; 12 dots that turn to arcs, then circles",
         "It answers 3 GHz radar only, and shows as a single flashing echo",
         "It answers VHF radio calls and shows the vessel's name on the chart plotter",
-        "It answers 406 MHz satellites and shows as a line of 3 dots"
+        "406 MHz only; 3 dots"
       ],
       "correct_index": 0,
       "explanation": "A radar SART replies to 9 GHz (X-band) radar with a line of 12 dots, which become arcs and then full circles when the rescuer is within about 1 nautical mile. It does not answer 3 GHz radar, and 406 MHz is the band of EPIRBs and PLBs, not the SART's radar reply.",
@@ -220,9 +220,9 @@
       "difficulty": "hard",
       "stem": "Scenario: a crew member knocks the EPIRB switch and it starts transmitting. What should the OOW do?",
       "options": [
-        "Switch it from ON to ARMED/SAFE and contact the Canadian Mission Control Centre to report the false alert",
-        "Leave it on until the battery runs out",
-        "Throw it overboard so it stops transmitting",
+        "Set it to ARMED/SAFE and report the false alert",
+        "Leave it on until the battery runs out on its own",
+        "Throw it overboard so that it stops transmitting",
         "Wait for the Coast Guard to call, then explain"
       ],
       "correct_index": 0,

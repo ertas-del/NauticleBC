@@ -14,7 +14,7 @@
       "options": [
         "MPR s. 320: the crew have enough rest and a deck watch is kept",
         "Navigation Safety Regulations s. 137: a working language is chosen and recorded",
-        "MPR s. 213: the voyage is planned and a deck watch is kept in line with A-VIII/2 Parts 2, 3 and 3-1",
+        "MPR s. 213: the voyage is planned and a watch kept per A-VIII/2",
         "MPR s. 171: the voyage is planned and the rating holds Bridge Watch Rating"
       ],
       "correct_index": 2,
@@ -104,9 +104,9 @@
       "difficulty": "hard",
       "stem": "At 0300 the master walks onto the bridge and watches in silence from the chair. A vessel appears on the bow. Who is responsible for safe navigation?",
       "options": [
-        "The rating who first saw the vessel",
-        "Both equally until the vessel has passed",
-        "The officer of the watch, until the master explicitly takes over and it is understood",
+        "The rating who saw it",
+        "Both equally, until the other vessel has passed clear",
+        "The OOW, until the master clearly takes over",
         "The master, from the moment of arrival on the bridge"
       ],
       "correct_index": 2,
@@ -127,9 +127,9 @@
       "difficulty": "medium",
       "stem": "What does the principle on regular checks require of the officer of the watch?",
       "options": [
-        "Check the crew's hours of rest each watch",
-        "Check the course steered, the position and the speed at regular intervals so the vessel follows the planned route",
-        "Check the engine room temperatures every hour",
+        "Check the crew's hours of rest during each watch",
+        "Check course, position and speed regularly",
+        "Check engine temperatures",
         "Check the passage plan only at the start of the watch"
       ],
       "correct_index": 1,
@@ -150,10 +150,10 @@
       "difficulty": "medium",
       "stem": "What is required of the officer of the watch regarding bridge equipment?",
       "options": [
-        "Full knowledge of the location and operation of all safety and navigational equipment",
+        "Know where all safety and nav kit is and how to use it",
         "Knowledge of the radar only, since other equipment is optional",
-        "The ability to repair any equipment fault underway",
-        "Knowledge of the manuals only, not the location"
+        "The ability to repair any equipment fault while underway",
+        "Knowledge of the manuals only, not where the kit is"
       ],
       "correct_index": 0,
       "explanation": "The officer must know where all the safety and navigational equipment is and how to operate it. Repair skills are not what the principle asks for.",
@@ -173,10 +173,10 @@
       "difficulty": "medium",
       "stem": "The officer of the watch is on a quiet night watch and decides to do cargo paperwork at the chart table. Which principle does this conflict with?",
       "options": [
-        "The officer must leave the bridge at 0300",
-        "The officer must be relieved every hour",
-        "The officer must steer by hand",
-        "The officer must not undertake any other duty that would interfere with safe navigation"
+        "The officer must leave the bridge at 0300 for a break",
+        "The officer must be relieved every hour at night",
+        "The officer must steer by hand at all times",
+        "No other duty may interfere with safe navigation"
       ],
       "correct_index": 3,
       "explanation": "The principles say the officer must not take on duties that interfere with safe navigation. Paperwork that takes attention from the watch is exactly that. The other options do not appear in the principles.",
@@ -196,9 +196,9 @@
       "difficulty": "hard",
       "stem": "A vessel crosses open water in daylight with the autopilot on, a calm sea and good visibility. The master says the autopilot makes the watch factors irrelevant. What is the best answer?",
       "options": [
-        "The master is right, so only the radar needs to be checked",
+        "He is right; check radar only",
         "The master is wrong because automatic steering is never allowed in daylight",
-        "Automatic steering is only one of the factors; weather, visibility, hazards, radio duties and other demands still decide whether more people are needed",
+        "Autopilot is one factor; the others still decide",
         "The master is right, so a watch is not needed with the autopilot on"
       ],
       "correct_index": 2,
@@ -219,9 +219,9 @@
       "difficulty": "medium",
       "stem": "Which item does a relieving officer check at handover that links to the master's authority?",
       "options": [
-        "The ship's mooring plan alongside",
-        "The master's standing orders for navigation",
-        "The galley menu",
+        "The ship's mooring plan for alongside",
+        "The master's standing orders",
+        "The galley menu for the week",
         "The crew's shore leave list"
       ],
       "correct_index": 1,

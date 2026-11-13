@@ -33,10 +33,10 @@
       "difficulty": "medium",
       "stem": "Which group of items is part of the pre-departure steering gear test?",
       "options": [
-        "Rudder angle indicators against the actual rudder, full rudder movement, and bridge to steering gear compartment communication",
+        "Rudder indicators vs rudder, full movement, comms",
         "Anchor windlass brake, radar range scales and fire pump pressure",
         "Gyro settling time, compass deviation and autopilot gain",
-        "Muster list, lifejacket stowage and boat davits"
+        "Muster list and davits"
       ],
       "correct_index": 0,
       "explanation": "Section 136(1) lists the rudder angle indicators checked against the actual rudder position, the full movement of the rudder, a visual inspection of the gear and linkage, and the communication between the bridge and the steering gear compartment, along with the main and auxiliary gear, controls, power, alarms and isolating arrangements. The other groups are real equipment but belong to other checks.",
@@ -55,9 +55,9 @@
       "difficulty": "medium",
       "stem": "A vessel regularly makes voyages of three days. What does the regulation allow regarding the departure steering test?",
       "options": [
-        "The test need not be done within 12 hours of each departure if it is done at least once every week",
-        "No steering test is needed at all",
-        "The test is needed only once a month",
+        "Not within 12 h of each departure, if done weekly",
+        "No steering test is needed at all on such voyages",
+        "The test is needed only once a month, whatever the voyage",
         "The test is needed within 12 hours but may be done by a passenger"
       ],
       "correct_index": 0,
@@ -77,10 +77,10 @@
       "difficulty": "easy",
       "stem": "Which statement about emergency steering drills under the Navigation Safety Regulations, 2020 is correct?",
       "options": [
-        "They are held at least once every three months and include direct control from within the steering gear compartment",
+        "Every 3 months, with direct control from the gear room",
         "They are held weekly and are carried out from the bridge only",
         "They are held every six months and need not involve the steering gear compartment",
-        "They are held only after a steering failure"
+        "They are held only after a real steering failure"
       ],
       "correct_index": 0,
       "explanation": "Section 136(3) requires drills at least once every three months, including direct control from within the steering gear compartment, communications with the bridge and, where applicable, alternative power supplies. Weekly is the interval for the regular-voyage test, not the drill.",
@@ -100,9 +100,9 @@
       "stem": "Who must record the dates of steering checks, tests and drills in the log book?",
       "options": [
         "The person in charge of the deck watch",
-        "The chief engineer",
-        "The helmsman on duty",
-        "The shipping company's office"
+        "The chief engineer, in the engine log",
+        "The helmsman on duty at the time",
+        "The shipping company's office ashore"
       ],
       "correct_index": 0,
       "explanation": "Section 136(4) puts the duty on the person in charge of the deck watch, recording in the official log book or any log book where the official one is not required. The helmsman helps with the test but does not own the record.",
@@ -121,8 +121,8 @@
       "difficulty": "medium",
       "stem": "A vessel has two steering gear power units that can run at the same time. When must at least two be in operation?",
       "options": [
-        "In areas where navigation demands special caution",
-        "Only in open ocean",
+        "Where navigation demands special caution",
+        "Only in open ocean, far from any land",
         "Only when the autopilot is engaged",
         "Only during the three-monthly drill"
       ],
@@ -143,10 +143,10 @@
       "difficulty": "easy",
       "stem": "Where must simple operating instructions and a block diagram of the changeover procedures be permanently displayed?",
       "options": [
-        "On the navigating bridge and in the steering gear compartment",
-        "Only on the bridge",
-        "Only in the master's cabin",
-        "In the crew mess"
+        "On the bridge and in the steering gear room",
+        "Only on the bridge, beside the wheel",
+        "Only in the master's cabin, framed",
+        "In the crew mess, on the notice board"
       ],
       "correct_index": 0,
       "explanation": "Section 135(1) requires display in both the navigating bridge and the steering gear compartment (if there is one). Only one of the two would leave the crew without instructions at the other place.",
@@ -165,7 +165,7 @@
       "difficulty": "medium",
       "stem": "How does non-follow-up (NFU) steering differ from follow-up steering?",
       "options": [
-        "In NFU the rudder moves only while the control is held and stops when it is released",
+        "Rudder moves only while the control is held",
         "In NFU the rudder returns to midships automatically when the control is released",
         "In NFU the rudder angle always matches the wheel angle",
         "NFU can only be used when the vessel is stopped"
@@ -188,10 +188,10 @@
       "difficulty": "hard",
       "stem": "Scenario: in a narrow channel the helmsman turns the wheel but the rudder angle indicator does not move. He tells the OOW at once. What is the reported first reaction for a failure of follow-up steering?",
       "options": [
-        "Switch to non-follow-up control, or to the backup system, and stop the ship if practicable",
-        "Keep turning the wheel until it responds",
-        "Shut down the main engine and wait",
-        "Switch the autopilot off and on again"
+        "Go to NFU or backup steering; stop if practicable",
+        "Keep turning the wheel harder until it responds",
+        "Shut down the main engine and wait for help",
+        "Switch the autopilot off and on again to reset it"
       ],
       "correct_index": 0,
       "explanation": "The Nautical Institute report stresses switching to NFU first, with the backup steering system and stopping the ship as other options. Turning the wheel further does not help a failed follow-up system, and waiting with the engine off loses control in a channel.",

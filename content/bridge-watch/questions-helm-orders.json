@@ -4,41 +4,55 @@
     {
       "id": "bridge-watch.helm-orders.q01",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "The officer of the watch gives a helm order. What must the helmsman do first?",
       "options": [
-        "Repeat the order word for word, then carry it out and report when done",
-        "Carry it out in silence so the officer is not distracted",
-        "Wait for the officer to repeat it a second time",
+        "Repeat it word for word, carry it out, report",
+        "Carry it out in silence",
+        "Wait for the officer to repeat it a second time to be sure",
         "Carry it out and report only if the ship does not respond"
       ],
       "correct_index": 0,
       "explanation": "The routine is repeat, carry out, report. The repeat-back lets the officer catch a mishearing at once. Silence leaves the officer unsure the order was understood, and reporting only on failure skips the confirmation that the order has been completed.",
-      "source_ids": ["bw-smcp-wheel-orders-copy", "bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy",
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q02",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What does the order \"Midships\" mean?",
       "options": [
         "Hold the rudder in the fore-and-aft position",
-        "Steer for the middle of the channel",
+        "Steer for the middle of the channel ahead",
         "Hold five degrees of rudder to starboard",
-        "Stop the engines"
+        "Stop the engines and let her lose way"
       ],
       "correct_index": 0,
       "explanation": "Midships is the zero rudder angle: the rudder lies fore and aft. It has nothing to do with channel position, it is not a rudder angle to one side, and it is a wheel order, not an engine order.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q03",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "The order is \"Hard-a-starboard\". What is the correct rudder position?",
       "options": [
@@ -49,64 +63,84 @@
       ],
       "correct_index": 0,
       "explanation": "Hard-a-starboard means the rudder is held fully over to starboard, the ship's limit. It is not fixed at 25 degrees (the stepped orders go only up to twenty-five), and it never means port.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q04",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "The ship is turning to port with port twenty on. The officer orders \"Ease to ten\". What does the helmsman do?",
       "options": [
-        "Reduce the port rudder to ten degrees and hold it",
-        "Put on starboard ten to stop the swing",
-        "Put the rudder amidships",
+        "Reduce port rudder to ten degrees and hold",
+        "Put on starboard ten to stop the swing quickly",
+        "Put the rudder amidships and wait for an order",
         "Put on ten more degrees of port rudder"
       ],
       "correct_index": 0,
       "explanation": "Ease to reduces the rudder to the stated angle on the same side. Starboard ten would be a different order; midships is a different order; adding rudder is the opposite of easing.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q05",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "Which pair correctly matches an order with its meaning?",
       "options": [
-        "Meet her: check the swing of the ship's head in a turn",
-        "Meet her: bring the ship alongside the other vessel",
-        "Steady: steer the course on the chart",
-        "Nothing to port: hold port rudder"
+        "Meet her: check the swing of the head in a turn",
+        "Meet her: go alongside her",
+        "Steady: steer the course that is laid off on the chart",
+        "Nothing to port: hold port rudder until told otherwise"
       ],
       "correct_index": 0,
       "explanation": "Meet her asks the helmsman to check the swing, usually with some opposite rudder. It does not refer to another vessel. Steady means reduce the swing as quickly as possible, and Nothing to port means do not let the head go to port, not hold port rudder.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q06",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "The ship is steering 088 and swinging slowly to starboard. The officer says \"Steady as she goes\" when the compass reads 092. What should the helmsman steer?",
       "options": [
-        "The heading the compass shows at the time of the order, 092",
-        "The original course, 088",
-        "The next round number, 095",
-        "Midships and no particular heading"
+        "The heading at the moment of the order, 092",
+        "The original course, 088, before she swung",
+        "The next round number on the card, 095",
+        "Midships, with no particular heading to hold"
       ],
       "correct_index": 0,
       "explanation": "Steady as she goes means steer a steady course on the heading shown when the order is given, so 092. Going back to 088 would be a new course order. The helmsman then reports the heading he is steadying on.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q07",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "medium",
       "stem": "A pilot with a different first language boards a Canadian vessel and the bridge team does not share another common language with the pilot. In what language must the pilot and bridge watchkeepers communicate on board?",
       "options": [
@@ -117,30 +151,41 @@
       ],
       "correct_index": 0,
       "explanation": "The Navigation Safety Regulations, 2020, s. 137(3) require English for communications between the pilot and bridge watchkeeping personnel unless the people involved share another language. Here they do not, so English applies. The master records the general working language, but that choice does not override the English rule for pilot communications.",
-      "source_ids": ["bw-nsr-2020-sor-2020-216"],
+      "source_ids": [
+        "bw-nsr-2020-sor-2020-216"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q08",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "hard",
       "stem": "Scenario: the OOW says \"Port fifteen.\" The helmsman replies \"Port fifteen, sir\" and turns the wheel. Five seconds later the rudder angle indicator still shows zero and the ship's head has not moved. What should the helmsman do?",
       "options": [
-        "Tell the OOW at once that the ship is not answering the wheel",
+        "Tell the OOW at once she is not answering the wheel",
         "Turn the wheel harder and say nothing until it responds",
         "Wait for the OOW to notice and repeat the order",
         "Put the wheel amidships and wait for the next order"
       ],
       "correct_index": 0,
       "explanation": "The standard phrase is to report if she does not answer the wheel. An unresponsive rudder is a steering failure or control problem, and the OOW must know immediately to start the emergency steering procedure. Staying silent, waiting, or centring the wheel all waste time.",
-      "source_ids": ["bw-smcp-wheel-orders-copy", "bw-tp10936-ed2-html"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy",
+        "bw-tp10936-ed2-html"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q09",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "Which wording belongs to standard IMO and Canadian helm orders?",
       "options": [
@@ -151,13 +196,19 @@
       ],
       "correct_index": 0,
       "explanation": "Standard wheel orders say port and starboard. Right and left rudder are common in United States training texts but are not the SMCP form and should not be mixed with it on the same bridge.",
-      "source_ids": ["bw-smcp-wheel-orders-copy", "bw-navedtra-14067-seaman"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy",
+        "bw-navedtra-14067-seaman"
+      ],
       "review_status": "needs_expert_review"
     },
     {
       "id": "bridge-watch.helm-orders.q10",
       "lesson_id": "bridge-watch.helm-orders",
-      "tickets": ["bridge-watch-rating", "master-limited-60gt"],
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
       "difficulty": "easy",
       "stem": "What does \"Finished with wheel\" mean?",
       "options": [
@@ -168,7 +219,9 @@
       ],
       "correct_index": 0,
       "explanation": "In the SMCP list it means no more steering. It is not a report of a jammed rudder (that is reported by saying she does not answer the wheel), and it does not by itself say who will steer next.",
-      "source_ids": ["bw-smcp-wheel-orders-copy"],
+      "source_ids": [
+        "bw-smcp-wheel-orders-copy"
+      ],
       "review_status": "needs_expert_review"
     }
   ]

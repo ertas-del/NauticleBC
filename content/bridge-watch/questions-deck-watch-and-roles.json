@@ -35,10 +35,10 @@
       "difficulty": "easy",
       "stem": "What must the person in charge of the deck watch hold?",
       "options": [
-        "A Bridge Watch Rating certificate",
-        "A master's certificate for the vessel",
-        "A certificate of competency that authorizes watchkeeping and radio watch duties",
-        "Any marine first aid certificate"
+        "A Bridge Watch Rating certificate and a first aid card",
+        "A master's certificate for the vessel and her trade",
+        "A certificate of competency for watchkeeping duties",
+        "Any marine first aid certificate that is still in date"
       ],
       "correct_index": 2,
       "explanation": "The regulation requires a certificate of competency authorizing watchkeeping and radio watch duties. A Bridge Watch Rating is a rating certificate and is the minimum for the additional person, not for the person in charge. A master's certificate is more than the regulation asks for here.",
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "A 1,400 GT vessel is leaving harbour and is not securely moored or anchored. How many additional persons beyond the person in charge must the deck watch have, and what is the minimum certificate?",
       "options": [
-        "One additional person with at least Able Seafarer or Bridge Watch Rating",
-        "Two additional persons with no certificate required",
-        "None, because the master is counted",
-        "Two additional persons, each holding at least Able Seafarer or Bridge Watch Rating (subject to the exceptions)"
+        "One additional person holding at least Able Seafarer or Bridge Watch Rating",
+        "Two additional persons, with no certificate required for either",
+        "None, because the master is counted as the extra person",
+        "Two, each at least Able Seafarer or BWR, subject to exceptions"
       ],
       "correct_index": 3,
       "explanation": "Over 1,000 GT and not anchored or moored, a second additional person is required and the minimum for both is Able Seafarer or Bridge Watch Rating, subject to the listed exceptions. One person is the 500 to 1,000 GT answer. The master is not counted on a vessel of 1,400 GT unless three deck watches are kept and the vessel is under 3,000 GT.",
@@ -173,9 +173,9 @@
       "difficulty": "medium",
       "stem": "When may an officer of the watch act as the sole look-out?",
       "options": [
-        "In daylight only, after careful assessment, with help immediately available on the bridge",
-        "At night in good visibility with the radar on",
-        "Whenever the vessel is on autopilot",
+        "Daylight only, after assessment, with help on hand",
+        "At night in good visibility, with the radar on and a guard zone set",
+        "Whenever the vessel is on autopilot in open water",
         "Only in restricted visibility, because radar replaces extra eyes"
       ],
       "correct_index": 0,
@@ -197,10 +197,10 @@
       "difficulty": "medium",
       "stem": "A rating on watch sees a small fishing boat close ahead while the master is asleep and the officer of the watch is at the chart table. Who is responsible for safe navigation, and what should the rating do?",
       "options": [
-        "The rating becomes responsible and alters course",
+        "The rating takes over and alters",
         "The master is responsible, so the rating should wake the master before telling anyone",
-        "Nobody until the master takes over, so the rating should wait",
-        "The officer of the watch stays responsible; the rating reports the boat to the officer at once"
+        "Nobody until the master takes over, so the rating should wait and watch",
+        "The OOW stays responsible; report to the OOW at once"
       ],
       "correct_index": 3,
       "explanation": "The officer of the watch remains responsible until the master explicitly takes over, so the rating reports at once and the officer decides. The rating does not take over decisions or wait for the master.",
@@ -222,8 +222,8 @@
       "options": [
         "An additional person is required only if the master is not on the bridge",
         "The additional person must hold Able Seafarer because it is a commercial vessel",
-        "An exception may apply, because the regulation lists short daylight harbour voyages in good visibility for vessels up to 500 GT; the conditions must all be met",
-        "An additional person is always required from 5 GT, without exception"
+        "An exception may apply if all its conditions are met",
+        "An additional person is always required from 5 GT, without any exception"
       ],
       "correct_index": 2,
       "explanation": "The regulation excuses the additional person for a vessel up to 500 GT with an unobstructed view, on a voyage of no more than five nautical miles within a harbour, in good visibility between sunrise and sunset. All the conditions must apply. It is not required to be Able Seafarer below 500 GT in s. 216(2)(b).",
