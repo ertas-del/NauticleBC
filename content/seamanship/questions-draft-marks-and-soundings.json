@@ -12,10 +12,10 @@
       "difficulty": "easy",
       "stem": "Where on a ship are the draft marks normally painted?",
       "options": [
-        "On the keel only",
+        "On the keel only, below the waterline",
         "Only on the port side amidships",
-        "On both sides near the bow and stern, and often amidships",
-        "Inside the engine room"
+        "On both sides near bow and stern, often amidships",
+        "Inside the engine room, on a gauge board beside the main switchboard"
       ],
       "correct_index": 2,
       "explanation": "Draft marks are painted on both sides of the hull near the bow and stern, and often amidships as well, so the draft can be read from either side. They are not limited to one side, the keel or the engine room.",
@@ -36,7 +36,7 @@
       "stem": "Metric draft figures are how high, and how far apart, and where is the water level read against a figure?",
       "options": [
         "10 cm high, 20 cm apart, read at the bottom of the figure",
-        "6 in high, 12 in apart, read at the middle",
+        "6 in high, 12 in apart, read at the middle of each figure",
         "20 cm high, 10 cm apart, read at the top of the figure",
         "10 cm high, 20 cm apart, read at the top of the figure"
       ],
@@ -104,10 +104,10 @@
       "difficulty": "medium",
       "stem": "A master is told that loading a few more tonnes will put the summer load line 3 cm under water 'just for this short passage'. What does the Canada Shipping Act, 2001 say?",
       "options": [
-        "Only the owner is liable",
+        "Only the owner is liable for any overloading",
         "It is an offence only if there is an accident",
-        "The master must ensure that the applicable load lines are not submerged, and submerging them is an offence with a fine of up to $500,000 for each centimetre or part of a centimetre",
-        "It is allowed for short passages"
+        "The master must not submerge them; fines run per centimetre",
+        "It is allowed for short passages in fair weather with the owner's consent"
       ],
       "correct_index": 2,
       "explanation": "Section 110(2) requires the master to ensure the applicable load lines are not submerged, and section 122 makes it an offence with a fine of up to $500,000 for each centimetre or part of a centimetre, or imprisonment up to 18 months, or both. It is not limited to short passages or to accidents.",
@@ -129,8 +129,8 @@
       "options": [
         "TF and WNA",
         "FW and NA",
-        "T and W",
-        "F and S"
+        "TS and WN",
+        "F and WS"
       ],
       "correct_index": 0,
       "explanation": "TF is tropical fresh water and WNA is winter North Atlantic. F is fresh water, T tropical seawater, S summer and W winter.",
@@ -150,10 +150,10 @@
       "difficulty": "medium",
       "stem": "Why do the fresh water load line marks sit above the summer mark?",
       "options": [
-        "Fresh water is colder",
-        "Fresh water is less dense, so the ship floats deeper and may be loaded to a slightly deeper mark",
-        "To show the ship is empty",
-        "Fresh water is denser, so the ship floats higher"
+        "Fresh water is colder, so the hull shrinks",
+        "Fresh water is less dense, so she floats deeper in it",
+        "To show the ship is empty and ready to load",
+        "Fresh water is denser, so the ship floats higher and needs more freeboard"
       ],
       "correct_index": 1,
       "explanation": "Fresh water is less dense than seawater, so a ship floats deeper in it. The fresh water marks therefore sit above the summer and tropical marks (the fresh water allowance), so the ship has the same freeboard when she reaches the sea.",
@@ -197,8 +197,8 @@
       "stem": "What is a sounding pipe?",
       "options": [
         "A pipe that vents the tank to the funnel",
-        "A pipe used to fill the tank",
-        "A pipe from the tank top, capped at the top and open at the bottom, through which the liquid level can be measured",
+        "A pipe used to fill the tank from deck",
+        "A capped pipe from the tank top, open at the bottom, for measuring",
         "A pipe carrying liquid between two tanks"
       ],
       "correct_index": 2,
@@ -219,10 +219,10 @@
       "difficulty": "medium",
       "stem": "A 25 m vessel is making a near coastal voyage. What hand lead line must she carry?",
       "options": [
-        "None, because the rule is only for ships over 100 m",
+        "None, because the hand lead line rule applies only to ships over 100 m long",
         "A 10 m line with a 1 kg lead",
-        "A 46 m line with no markings",
-        "A line at least 46 m long, clearly marked for depth, with a lead of at least 3.2 kg that can be armed"
+        "A 46 m line with no depth markings",
+        "At least 46 m, marked for depth, with an armable lead of 3.2 kg+"
       ],
       "correct_index": 3,
       "explanation": "A vessel 20 m or more on a voyage other than a sheltered waters voyage must carry a hand lead line at least 46 m long, clearly and accurately marked to indicate depth, with a lead weighing at least 3.2 kg that is capable of being armed.",

@@ -56,9 +56,9 @@
       "stem": "Which statement about class 5 is correct?",
       "options": [
         "Class 5 is flammable solids",
-        "Class 5 is oxidizing substances and organic peroxides",
+        "Class 5 is oxidizers and organic peroxides",
         "Class 5 is toxic and infectious substances",
-        "Class 5 is compressed gases"
+        "Class 5 is compressed and liquefied gases"
       ],
       "correct_index": 1,
       "explanation": "Class 5 is oxidizing substances and organic peroxides. Flammable solids is class 4, toxic and infectious is class 6, and gases are class 2.",
@@ -77,10 +77,10 @@
       "difficulty": "hard",
       "stem": "Which pair correctly describes class 2 and class 6?",
       "options": [
-        "Class 2: liquids; class 6: radioactive",
-        "Class 2: gases, only flammable; class 6: only infectious",
-        "Class 2: gases (flammable, non-flammable or toxic); class 6: toxic and infectious substances",
-        "Class 2: explosives; class 6: corrosives"
+        "Class 2: liquids; class 6: radioactive material",
+        "Class 2: gases, flammable only; class 6: infectious only",
+        "Class 2: gases of all kinds; class 6: toxic and infectious",
+        "Class 2: explosives of all kinds; class 6: corrosive substances"
       ],
       "correct_index": 2,
       "explanation": "Class 2 covers gases in three groups (flammable, non-flammable and toxic) and class 6 covers toxic (poisonous) and infectious substances. The other options mis-name the classes.",
@@ -102,8 +102,8 @@
       "options": [
         "A diamond, with the class number at the bottom",
         "A circle, with the class number in the middle",
-        "A rectangle, with the class number at the top",
-        "A triangle, with the class number at the side"
+        "A rectangle, with the class number printed at the top",
+        "A triangle, with the class number on one side"
       ],
       "correct_index": 0,
       "explanation": "The hazard label is a diamond (a square turned on its point) with the class number at the bottom. The other shapes are not used for these labels.",
@@ -167,9 +167,9 @@
       "stem": "A crewmember suggests opening a hold that has been shut for weeks and going in at once to check the cargo, because 'it has been open to the air through the vents'. What is the correct response?",
       "options": [
         "Agree, if a second person watches from the hatch",
-        "No entry without a work permit; the oxygen level must be tested and be 19.5 to 23 per cent by volume",
-        "Agree, if you hold your breath",
-        "Agree, if the hold is lit"
+        "No entry without a permit and a test showing 19.5 to 23% oxygen",
+        "Agree, if you hold your breath while inside",
+        "Agree, if the hold is well lit first"
       ],
       "correct_index": 1,
       "explanation": "A hold is a confined space. No one may enter without a work permit, and the atmosphere must be assessed by a marine chemist or other qualified person, with oxygen between 19.5 and 23 per cent by volume. A watcher, lights or holding your breath do not make a space safe.",
@@ -188,9 +188,9 @@
       "difficulty": "medium",
       "stem": "A sling with a safe working load (SWL) of 1.5 tonnes is to lift a 1.8 tonne pallet 'for a short lift'. What is the correct response?",
       "options": [
-        "Go ahead if the lift is slow",
-        "Do not use it: cargo gear must never be used above its SWL; use a larger sling",
-        "Go ahead if two people stand back",
+        "Go ahead if the lift is made slowly",
+        "Do not use it; never exceed the SWL, use a larger sling",
+        "Go ahead if two people stand well back",
         "Go ahead, since the SWL is less than the breaking strength"
       ],
       "correct_index": 1,

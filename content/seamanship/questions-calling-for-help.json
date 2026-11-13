@@ -15,7 +15,7 @@
         "Only after the vessel has been abandoned",
         "Only after the fire is out or the leak is fixed",
         "Only when a passing vessel asks",
-        "Early: once a fire is assessed, when flooding puts the vessel at risk, and before leaving when preparing to abandon ship"
+        "Early, as soon as the vessel is assessed to be at risk"
       ],
       "correct_index": 3,
       "explanation": "The fire procedure has the master inform shore authorities once the fire has been assessed, the taking-on-water procedure has authorities notified if the vessel is at risk, and the abandon-ship procedure notifies them while preparing to abandon. Late calls cost time.",
@@ -38,9 +38,9 @@
       "stem": "Which vessel must have a float-free EPIRB under NSR 2020 s. 209(1)?",
       "options": [
         "Only a vessel on a sheltered waters voyage",
-        "Only a vessel of more than 24 m",
-        "A vessel on a near coastal voyage, Class 1 or an unlimited voyage",
-        "Any vessel carrying a VHF"
+        "Only a vessel of more than 24 m in length, whatever her voyage",
+        "A vessel on a near coastal Class 1 or unlimited voyage",
+        "Any vessel that carries a fixed VHF"
       ],
       "correct_index": 2,
       "explanation": "Section 209(1) requires a float-free EPIRB for a vessel on a near coastal voyage, Class 1 or an unlimited voyage, and for a vessel of more than 12 m on an inland voyage or a near coastal voyage, Class 2.",
@@ -60,10 +60,10 @@
       "difficulty": "hard",
       "stem": "A 14 m vessel is on a near coastal voyage, Class 2. What does NSR 2020 s. 209 require of her?",
       "options": [
-        "A PLB is enough",
-        "A float-free EPIRB, because she is more than 12 m",
-        "Nothing, because Class 2 is exempt",
-        "A DSC handheld VHF is enough"
+        "A PLB worn by the skipper is enough",
+        "A float-free EPIRB, because she is over 12 m",
+        "Nothing, because Class 2 voyages are exempt from the rule",
+        "A DSC handheld VHF is enough on its own"
       ],
       "correct_index": 1,
       "explanation": "Section 209(1)(b) requires a float-free EPIRB on a vessel more than 12 m long on an inland voyage or a near coastal voyage, Class 2. The PLB and handheld alternatives in s. 209(3) are for vessels of 12 m or less.",
@@ -83,9 +83,9 @@
       "difficulty": "hard",
       "stem": "A 7 m vessel on a near coastal voyage, Class 2 operates only in sea area A1. Which of these meets NSR 2020 s. 209(3)?",
       "options": [
-        "A waterproof portable VHF handheld radio capable of DSC (as it is under 8 m in sea area A1), or an EPIRB or PLB",
+        "A waterproof DSC handheld VHF, or an EPIRB or PLB",
         "A non-waterproof handheld VHF without DSC",
-        "A SART alone",
+        "A radar SART alone, kept in the cabin",
         "A flashlight and three flares"
       ],
       "correct_index": 0,
@@ -108,8 +108,8 @@
       "options": [
         "Nothing, as the registry updates itself",
         "The registration must be updated within 24 hours",
-        "The beacon must be replaced",
-        "The Canadian Beacon Registry registration must be updated within 30 days of the change"
+        "The beacon must be replaced with a new one",
+        "The registration must be updated within 30 days"
       ],
       "correct_index": 3,
       "explanation": "Section 228 requires EPIRBs and PLBs to be registered with the Canadian Beacon Registry and the information updated within 30 days after a change.",
@@ -131,8 +131,8 @@
       "options": [
         "Switch the radio off and say nothing",
         "Wait to see if the Coast Guard calls",
-        "Cancel the alert immediately using the proper procedure",
-        "Send another alert to confirm"
+        "Cancel the alert immediately by the proper procedure",
+        "Send a second alert at once to confirm the first one was a mistake"
       ],
       "correct_index": 2,
       "explanation": "Section 244 of the Navigation Safety Regulations, 2020 requires a person who inadvertently transmits a distress alert to cancel it immediately, following the IMO guidelines for avoiding false alerts. Switching off leaves the alert standing.",
@@ -153,8 +153,8 @@
       "stem": "How many pyrotechnic distress signals must a 10 m passenger-carrying vessel carry under SVR s. 410, and how many of them may be smoke signals?",
       "options": [
         "Six, none of which may be smoke",
-        "Twelve, of which not more than six may be smoke signals",
-        "Twelve, all of which must be smoke",
+        "Twelve, no more than six of them smoke",
+        "Twelve, and all of them must be smoke",
         "Three, of which one may be smoke"
       ],
       "correct_index": 1,
@@ -175,10 +175,10 @@
       "difficulty": "easy",
       "stem": "A passenger-carrying vessel is 5 m long. What visual signals does SVR s. 410 require?",
       "options": [
-        "A watertight flashlight and three pyrotechnic distress signals other than smoke signals",
-        "Twelve flares",
-        "Six flares",
-        "A flashlight only"
+        "A watertight flashlight and three non-smoke flares",
+        "Twelve pyrotechnic flares of any type",
+        "Six pyrotechnic flares of any type",
+        "A watertight flashlight only"
       ],
       "correct_index": 0,
       "explanation": "Up to 6 m, s. 410 requires a watertight flashlight and three pyrotechnic distress signals other than smoke signals. Six is for over 6 m to 9 m, and twelve for over 9 m.",
@@ -198,10 +198,10 @@
       "difficulty": "medium",
       "stem": "A tour operator is about to depart from a float with a 9 m passenger vessel. What does SVR s. 402 require before departure?",
       "options": [
-        "File a float plan with the harbour master only if the trip is over 12 hours",
+        "File a float plan with the harbour master if over 12 hours",
         "Post the passenger list on the vessel's bulletin board",
-        "Tell the passengers to tell their families",
-        "Report the number of persons on board to a person ashore designated to communicate with search and rescue"
+        "Tell the passengers to call their families",
+        "Report the number aboard to a designated person ashore"
       ],
       "correct_index": 3,
       "explanation": "Section 402 requires the operator to report the number of persons on board to a designated person on shore responsible for communicating with search and rescue; in a remote area the information is left at a known location on shore.",
@@ -222,9 +222,9 @@
       "stem": "A master in Canadian waters receives a distress signal from a vessel nearby. What does s. 131(1) of the Canada Shipping Act, 2001 require?",
       "options": [
         "Relay the signal and stay where you are",
-        "Call the owner for instructions",
-        "Proceed with all speed to render assistance and, if possible, inform the persons in distress or the sender",
-        "Proceed only if the master has a certificate in search and rescue"
+        "Call the owner for instructions first",
+        "Proceed with all speed and, if possible, tell those in distress",
+        "Proceed only if the master holds a search and rescue certificate"
       ],
       "correct_index": 2,
       "explanation": "Section 131(1) requires the master to proceed with all speed to render assistance and to inform the persons in distress or the sender if possible. A master who cannot, or who considers it unreasonable or unnecessary, enters the reason in the official log book.",
@@ -244,8 +244,8 @@
       "difficulty": "hard",
       "stem": "The master of a vessel in distress finds several vessels answering. Which statement matches s. 131 of the Canada Shipping Act, 2001?",
       "options": [
-        "The master of the vessel in distress must accept all offers of help equally",
-        "The master of the vessel in distress may requisition one or more of the answering vessels, which must continue to proceed with all speed",
+        "The master in distress must accept all offers of help equally",
+        "The master in distress may requisition answering vessels",
         "The first vessel to arrive takes charge in all cases",
         "Only a Coast Guard vessel may be requisitioned"
       ],
@@ -267,8 +267,8 @@
       "difficulty": "easy",
       "stem": "A skipper fires a parachute flare to attract a friend's boat that is not in any danger. What does TP 14070 say?",
       "options": [
-        "It is against the law to use distress signals when you do not need help",
-        "It is permitted if the flare is more than three years old",
+        "It is against the law to use distress signals when not in need",
+        "It is permitted as long as the flare is more than three years old",
         "It is permitted if it is dark",
         "It is permitted if the Coast Guard is told afterwards"
       ],

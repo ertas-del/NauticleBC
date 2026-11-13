@@ -13,7 +13,7 @@
       "stem": "Under the Canada Shipping Act, 2001, when must the master of a Canadian vessel (not on the small vessel register) make sure the Canadian flag is flown?",
       "options": [
         "Only on Canada Day",
-        "When signalled to do so by a government vessel or Canadian Forces vessel, and when entering or leaving, or while moored or anchored in, a port",
+        "When signalled by a government vessel, and entering, leaving or in a port",
         "Only when in Canadian waters at night",
         "Never, since flying it is optional"
       ],
@@ -58,10 +58,10 @@
       "difficulty": "easy",
       "stem": "Which pairing is correct?",
       "options": [
-        "A: I am taking in dangerous goods; B: I have a diver down",
+        "A: I am taking in or discharging dangerous goods; B: I have a diver down",
         "A: man overboard; B: all persons report on board",
         "A: I require a pilot; B: I have a pilot on board",
-        "A: I have a diver down, keep well clear at slow speed; B: I am taking in, discharging or carrying dangerous goods"
+        "A: diver down, keep well clear; B: carrying dangerous goods"
       ],
       "correct_index": 3,
       "explanation": "A means 'I have a diver down; keep well clear at slow speed' and B means 'I am taking in, or discharging, or carrying dangerous goods'. Swapping them is the common slip. A pilot is G (or H when one is on board), man overboard is O and the report-on-board call is P.",
@@ -106,10 +106,10 @@
       "difficulty": "medium",
       "stem": "In harbour, a ship hoists flag P. What should the crew do?",
       "options": [
-        "Leave the ship",
-        "All persons should report on board, as the vessel is about to proceed to sea",
-        "Treat it as a request for a pilot",
-        "Hoist flag Q at once"
+        "Leave the ship at once",
+        "Report on board; she is about to sail",
+        "Treat it as a request for a harbour pilot",
+        "Hoist flag Q in reply at once"
       ],
       "correct_index": 1,
       "explanation": "In harbour, flag P calls all persons to report on board because the vessel is about to proceed to sea. Q is the request for free pratique (the ship is healthy), and a pilot request is G.",
@@ -132,8 +132,8 @@
       "options": [
         "E means 'dragging anchor' and I means 'fire'",
         "E means 'altering to port' and I means 'altering to starboard'",
-        "E means 'altering course to starboard' and I means 'altering course to port'",
-        "E means 'stopped' and I means 'astern'"
+        "E means 'altering to starboard' and I means 'altering to port'",
+        "E means 'stopped' and I means 'operating astern'"
       ],
       "correct_index": 2,
       "explanation": "E is 'I am altering my course to starboard' and I is 'I am altering my course to port'. S is 'I am operating astern propulsion' and M is 'my vessel is stopped and making no way'. Y is dragging.",
@@ -178,10 +178,10 @@
       "difficulty": "hard",
       "stem": "Match the signal to its meaning: which statement is correct?",
       "options": [
-        "J: free pratique; W: pair trawling; V: stop your vessel",
-        "J: on fire with dangerous cargo, keep well clear; W: I require medical assistance; V: I require assistance",
+        "J: I require free pratique; W: pair trawling; V: stop your vessel",
+        "J: fire with dangerous cargo; W: medical help; V: assistance",
         "J: man overboard; W: I have a pilot; V: keep clear",
-        "J: I am taking in stores; W: wind warning; V: vessel stopped"
+        "J: taking in stores; W: wind warning; V: vessel stopped"
       ],
       "correct_index": 1,
       "explanation": "J means 'I am on fire and have dangerous cargo on board: keep well clear of me' (or leaking dangerous cargo), W means 'I require medical assistance' and V means 'I require assistance'. O is man overboard, H is pilot on board, Q is free pratique, T is pair trawling and L is 'stop your vessel instantly'.",
@@ -202,9 +202,9 @@
       "difficulty": "hard",
       "stem": "Which description is correct for D, F and U?",
       "options": [
-        "D: keep clear, I am manoeuvring with difficulty; F: I am disabled, communicate with me; U: you are running into danger",
+        "D: manoeuvring with difficulty; F: disabled; U: running into danger",
         "D: diver down; F: fire; U: underway",
-        "D: I am disabled; F: keep clear, manoeuvring with difficulty; U: stop instantly",
+        "D: disabled; F: manoeuvring with difficulty; U: stop your vessel instantly",
         "D: dragging; F: free pratique; U: under tow"
       ],
       "correct_index": 0,

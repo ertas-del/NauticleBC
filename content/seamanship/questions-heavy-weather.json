@@ -11,8 +11,8 @@
       "difficulty": "easy",
       "stem": "A master meets winds of Beaufort force 10 and no storm warning had been received. What does the Canada Shipping Act, 2001 (s. 112) require?",
       "options": [
-        "Give notice to vessels in the vicinity and to the prescribed authorities on shore",
-        "Nothing, because force 10 is only reportable for tropical storms",
+        "Warn vessels nearby and the authorities ashore",
+        "Nothing, as force 10 is reportable only for tropical storms",
         "A report to the authorized representative within 30 days",
         "Proceed to the nearest port and report there on arrival"
       ],
@@ -56,8 +56,8 @@
       "stem": "Why are following and quartering seas a particular danger to a small vessel?",
       "options": [
         "The waves always break over the bow first",
-        "The propeller comes out of the water in every following sea",
-        "Stability can be considerably reduced when the vessel travels at about the same speed and direction as the waves",
+        "The propeller comes clear of the water in every following sea and races",
+        "Stability can drop sharply when moving with the waves at their speed",
         "The wind speed doubles when it comes from astern"
       ],
       "correct_index": 2,
@@ -99,9 +99,9 @@
       "difficulty": "medium",
       "stem": "You are running a vessel into a harbour with a following sea. Which approach matches the FAO advice?",
       "options": [
-        "Match the speed of the waves, do not overtake the wave ahead, and do not let a breaker overtake you",
-        "Overtake each wave to cross the bar as quickly as possible",
-        "Stop and let breakers pass under the stern",
+        "Match the wave speed; do not overtake a wave or let one overtake you",
+        "Overtake each wave in turn to cross the bar as quickly as possible",
+        "Stop and let the breakers pass under the stern",
         "Run at full speed to stay ahead of the breakers"
       ],
       "correct_index": 0,
@@ -145,7 +145,7 @@
       "options": [
         "The vessel is pushed broadside to the sea and rolls over",
         "The vessel rolls steadily from side to side at its natural period",
-        "In extreme following seas the bow dives under the wave in front of the vessel",
+        "In extreme following seas the bow dives under the wave ahead",
         "The vessel is held in place by an anchor in a swell"
       ],
       "correct_index": 2,
@@ -166,8 +166,8 @@
       "stem": "Which set of conditions all raise capsize risk for a small vessel?",
       "options": [
         "Deep water, a rising tide, a following current, and daylight",
-        "Shallow water, a falling tide, a strong opposing current, towing and darkness",
-        "Calm seas, full fuel tanks, and a light load",
+        "Shallow water, a falling tide, a strong opposing current, towing, darkness",
+        "Calm seas, full fuel tanks, and a light load on deck",
         "Light wind, an empty deck, and a rising tide"
       ],
       "correct_index": 1,
@@ -187,7 +187,7 @@
       "difficulty": "hard",
       "stem": "A deckhand suggests locking the freeing port covers shut to stop water coming aboard in heavy weather. What is the right response?",
       "options": [
-        "Do not lock them: water on deck must drain quickly, and any locks must be easy to release",
+        "Do not lock them; water must drain fast, and locks must release easily",
         "Lock them, because water on deck helps stability",
         "Lock them only on the weather side",
         "Remove the scuppers so that water drains faster"
@@ -211,8 +211,8 @@
       "options": [
         "From the higher (port) side first, to lift the starboard side",
         "From the bow first, then the stern, whatever the list",
-        "From the freeing ports last, to keep weight low",
-        "From the lower (starboard) side first, and keep slack tanks to a minimum"
+        "From the freeing ports last, to keep the weight low",
+        "From the lower (starboard) side first, with few slack tanks"
       ],
       "correct_index": 3,
       "explanation": "FAO advice is to remove ice from the lower side first and to keep slack tanks to a minimum. Clearing the high side first would raise the list. Freeing ports and scuppers should also be cleared of ice as soon as it forms.",
@@ -231,9 +231,9 @@
       "difficulty": "easy",
       "stem": "Which item is part of the heavy-weather checklist in the Coast Guard guidance?",
       "options": [
-        "Remove the lifebuoys to avoid snagging",
-        "Open all hatches to ventilate",
-        "Rig lifelines and harnesses and secure loose gear and openings",
+        "Remove the lifebuoys so they cannot snag lines",
+        "Open all hatches to ventilate below",
+        "Rig lifelines and harnesses and secure loose gear",
         "Fill every slack tank with fuel"
       ],
       "correct_index": 2,
@@ -253,10 +253,10 @@
       "difficulty": "medium",
       "stem": "The vessel's documented design limitation is wave heights up to 1 m. The forecast gives 2 m seas and a passenger trip is booked. Which rule applies?",
       "options": [
-        "The master may exceed the limitation if the passengers sign a waiver",
-        "No person may operate a passenger-carrying vessel in circumstances that exceed its design limitations (SVR s. 404(2))",
-        "Design limitations apply only to the builder, not to the operator",
-        "The limitation applies only when the vessel carries more than 12 passengers"
+        "The master may exceed the limitation if passengers sign a waiver",
+        "No one may operate her in conditions beyond her design limits",
+        "Design limitations bind only the builder, not the operator",
+        "The limitation applies only when carrying more than 12 passengers"
       ],
       "correct_index": 1,
       "explanation": "Section 404(2) of the Small Vessel Regulations forbids operating a passenger-carrying vessel under circumstances that exceed its design limitations. A waiver does not change the law, and the rule applies to the person operating the vessel.",

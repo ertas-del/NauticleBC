@@ -13,7 +13,7 @@
       "stem": "Someone falls overboard from a small vessel. What are the first two jobs of the person who sees it?",
       "options": [
         "Run to the wheelhouse and take the helm",
-        "Raise a loud alarm and point at the person in the water, and keep pointing without looking away",
+        "Raise the alarm and keep pointing at the person",
         "Jump in after the person with a lifebuoy",
         "Stop the engine and call the owner ashore"
       ],
@@ -58,10 +58,10 @@
       "difficulty": "medium",
       "stem": "Which approach matches the Transport Canada procedure?",
       "options": [
-        "Approach fast with the wind astern to save time, and leave the engine running",
-        "Approach under power across the wind and leave the engine running at idle",
+        "Approach fast with the wind astern, engine left running",
+        "Approach under power across the wind, engine at idle",
         "Stop the engine well away and drift down on the person",
-        "Approach slowly under power heading into the wind, and stop the engine when the person is within reach"
+        "Approach slowly into the wind; stop the engine within reach"
       ],
       "correct_index": 3,
       "explanation": "The procedure is a slow approach into the wind, going to the lowest speed near the person, then stopping the engine (for example with the kill cord) once the person is within reach. Fast or beam-on approaches give less control, and drifting down gives none.",
@@ -83,8 +83,8 @@
       "options": [
         "Reverse the propeller at full power",
         "Turn the stern toward the person",
-        "Throw a heaving line or lifebuoy so the vessel does not drift down onto the person",
-        "Throw an anchor to the person"
+        "Throw a heaving line or lifebuoy instead",
+        "Throw an anchor line to the person"
       ],
       "correct_index": 2,
       "explanation": "If the swells are significant, the template says to throw a heaving line or lifebuoy to the person rather than let the vessel drift onto them. Reversing at full power puts the propeller near the person.",
@@ -105,9 +105,9 @@
       "stem": "Which Coast Guard guidance point applies during the pick-up itself?",
       "options": [
         "Keep the propeller turning ahead to hold position",
-        "Stop propeller rotation during recovery, especially on the retrieving side",
-        "Put the engine hard astern to hold the person alongside",
-        "Switch off the VHF to concentrate"
+        "Stop the propeller, especially on the recovery side",
+        "Put the engine hard astern to hold the person",
+        "Switch off the VHF to concentrate on the pick-up"
       ],
       "correct_index": 1,
       "explanation": "TP 11637 says to approach slowly and as close as is safe without striking the person, and to stop propeller rotation during recovery, especially on the retrieving side. A turning propeller beside a person in the water is the main hazard.",
@@ -127,10 +127,10 @@
       "difficulty": "medium",
       "stem": "Two people are in the water after a capsize; one wears a lifejacket and an immersion suit, the other has no flotation or protection. Which is recovered first, and how is a suspected hypothermia victim lifted?",
       "options": [
-        "The person without flotation or protection is recovered first, and a suspected hypothermia victim is lifted gently and horizontally",
-        "The person in the suit first, and a hypothermia victim is lifted upright to drain water",
-        "Whoever is closest, and a hypothermia victim is lifted fast and upright",
-        "The person without flotation last, so the rescuers are safe"
+        "The unprotected person first; lift a hypothermic person gently and level",
+        "The person in the suit first; lift a hypothermic person upright to drain",
+        "Whoever is closest; lift a hypothermic person fast and upright",
+        "The unprotected person last, so the rescuers stay safe"
       ],
       "correct_index": 0,
       "explanation": "The Coast Guard guidance recovers persons without flotation or hypothermia protection first and lifts suspected hypothermia victims gently and horizontally.",
@@ -150,10 +150,10 @@
       "difficulty": "hard",
       "stem": "A crew member is to enter the water to help a casualty. What does the Coast Guard guidance say about the rescuer?",
       "options": [
-        "The swimmer goes in without a line so as to move freely",
-        "The swimmer wears only a wetsuit",
-        "The swimmer is accompanied by a second swimmer on a free line",
-        "The rescue swimmer wears flotation and a harness with a safety line tended by a crew member"
+        "The swimmer goes in without a line to move freely",
+        "The swimmer wears only a wetsuit for warmth",
+        "The swimmer goes with a second swimmer on a free line",
+        "The swimmer wears flotation and a harness on a tended line"
       ],
       "correct_index": 3,
       "explanation": "TP 11637 says the rescue swimmer wears appropriate flotation and a harness with a safety line tended by a crew member, so the rescuer does not become a second casualty.",
@@ -175,7 +175,7 @@
       "options": [
         "No reboarding device, because 0.8 m is not more than 0.5 m",
         "A reboarding device but no throwing gear",
-        "A reboarding device and a buoyant heaving line of at least 15 m (or a lifebuoy on a 15 m line)",
+        "A reboarding device and 15 m buoyant throwing gear",
         "A self-igniting lifebuoy and nothing else"
       ],
       "correct_index": 2,
@@ -197,7 +197,7 @@
       "stem": "Under SVR s. 409, what throwing gear must an 11 m passenger-carrying vessel carry?",
       "options": [
         "A buoyant heaving line of at least 15 m only",
-        "A buoyant heaving line of at least 15 m and a lifebuoy attached to a 15 m buoyant line",
+        "A 15 m buoyant heaving line and a lifebuoy on a 15 m line",
         "A lifebuoy with a self-igniting light only",
         "A heaving line of 5 m and a lifebuoy"
       ],
@@ -219,7 +219,7 @@
       "difficulty": "medium",
       "stem": "A deckhand on a commercial tug falls overboard and is recovered unhurt within two minutes. Is this reportable to the TSB?",
       "options": [
-        "Yes, a person falling overboard is a reportable marine occurrence even if no one is injured",
+        "Yes, a fall overboard is reportable even with no injury",
         "No, because the person was recovered unhurt",
         "Only if the person is taken to hospital",
         "Only if the person was not wearing a lifejacket"
@@ -266,9 +266,9 @@
       "stem": "Why is it important to recover a person from cold BC water within minutes?",
       "options": [
         "The lifejacket loses its buoyancy after 10 minutes",
-        "Cold shock lasts about an hour",
-        "After about 10 minutes the person loses effective use of fingers, arms and legs, so they cannot help themselves",
-        "Hypothermia always causes unconsciousness within two minutes"
+        "Cold shock lasts about an hour in BC water",
+        "Within about 10 minutes they lose the use of their limbs",
+        "Hypothermia always causes unconsciousness in two minutes"
       ],
       "correct_index": 2,
       "explanation": "Per the 1-10-1 principle, swim failure and loss of effective use of the limbs come in about 10 minutes, and hypothermia takes about an hour to cause unconsciousness. Lifejackets keep their buoyancy.",

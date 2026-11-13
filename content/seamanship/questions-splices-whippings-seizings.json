@@ -32,8 +32,8 @@
       "stem": "What is an eye splice used for?",
       "options": [
         "To make a permanent loop at the end of a rope",
-        "To join two ropes end to end",
-        "To shorten a rope",
+        "To join two ropes end to end without a knot",
+        "To shorten a rope without cutting it",
         "To stop a rope running out through a block"
       ],
       "correct_index": 0,
@@ -52,10 +52,10 @@
       "difficulty": "medium",
       "stem": "Why is a short splice not suitable for a rope that must run through a block?",
       "options": [
-        "It is too weak",
-        "It makes the join thicker than the rest of the rope",
-        "It can only be made in wire",
-        "It unlays when wet"
+        "It is far too weak to take the load of a running line",
+        "The join ends up thicker than the rest of the rope",
+        "It can only be made in wire rope, not in fibre rope",
+        "It unlays as soon as it gets wet and must be remade"
       ],
       "correct_index": 1,
       "explanation": "The short splice is strong but the overlapping strands make the join thicker, so it can jam in the block. A long splice keeps the diameter. The short splice is not weak and is made in fibre rope.",
@@ -116,9 +116,9 @@
       "stem": "What is the purpose of a whipping?",
       "options": [
         "To stop the rope end from fraying or unlaying",
-        "To join two ropes",
-        "To give the rope a decorative loop",
-        "To make the rope float"
+        "To join two ropes together end to end",
+        "To give the rope a decorative loop at the end",
+        "To make the end of the rope float in the water"
       ],
       "correct_index": 0,
       "explanation": "A whipping is a tight wrap of twine that stops a rope's end fraying or unlaying. It joins nothing, and it has no effect on buoyancy.",
@@ -138,8 +138,8 @@
       "stem": "A hawser's end needs a whipping that will last for years. Which is the better choice than a common whipping?",
       "options": [
         "A palm-and-needle whipping",
-        "A reef knot",
-        "A sheepshank",
+        "A reef knot tied in the end",
+        "A sheepshank near the end",
         "Leaving the end unwhipped"
       ],
       "correct_index": 0,
@@ -158,10 +158,10 @@
       "difficulty": "medium",
       "stem": "Which description fits a cut splice?",
       "options": [
-        "A loop formed part-way along between two ropes, rather than at the end",
-        "A join that keeps the rope's diameter",
+        "A loop formed part-way along between two ropes",
+        "A join between two ropes that keeps the rope's original diameter",
         "A finish that tucks the strands back into the rope's own end",
-        "A permanent loop at the end of a rope"
+        "A permanent loop made at the very end of a single rope"
       ],
       "correct_index": 0,
       "explanation": "A cut splice forms a loop between two ropes, part-way along. The second option describes a long splice, the third a back splice and the fourth an eye splice.",
@@ -179,10 +179,10 @@
       "difficulty": "hard",
       "stem": "While uncoiling a wire rope for splicing, a kink forms. What is the correct view?",
       "options": [
-        "Heave the wire taut and the kink will pull out",
-        "The kink cannot be taken out by strain and the rope is unsafe to work; uncoil wire carefully to avoid kinks",
-        "The kink only matters if the wire is wet",
-        "Tape over the kink and carry on"
+        "Heave the wire taut on the winch and the kink will pull out",
+        "Strain will not remove it; the wire is unsafe to work",
+        "The kink only matters if the wire gets wet, so keep it dry",
+        "Tape over the kink so it cannot snag, and carry on splicing"
       ],
       "correct_index": 1,
       "explanation": "Once a kink is made no amount of strain takes it out, and the rope is unsafe to work. Wire should be uncoiled using a turntable or by rolling it, and never lifted off in loops that kink.",
@@ -202,9 +202,9 @@
       "stem": "Which of these is a recognised way of whipping a rope end, besides the common whipping?",
       "options": [
         "West Country whipping",
-        "Sheet whipping splice",
-        "Cut whipping",
-        "Eye whipping"
+        "Sheet bend whipping",
+        "Cut-splice whipping",
+        "Eye-splice whipping"
       ],
       "correct_index": 0,
       "explanation": "West Country whipping (a symmetric whipping made with half knots on alternate sides, finished with a reef knot) and American whipping (sometimes used for hawser ends) are both recognised alternatives to the common whipping, as is the palm-and-needle whipping. The other names are not whippings.",
