@@ -12,9 +12,9 @@
       "stem": "Why does ice on a vessel's rigging and upper structure reduce stability?",
       "options": [
         "It lowers G, which makes the vessel stiff",
-        "It makes the vessel float higher",
+        "It makes the vessel float higher in the water",
         "It only affects the speed of the vessel",
-        "It adds weight high up, which raises G and cuts GM"
+        "Weight high up raises G and cuts GM"
       ],
       "correct_index": 3,
       "explanation": "Ice forms on masts, rails and the cabin top, well above G, so it raises KG. It also adds weight, so the vessel sinks, and windage, so the wind heels her more.",
@@ -36,10 +36,10 @@
       "difficulty": "medium",
       "stem": "Which list contains the main ways icing harms stability?",
       "options": [
-        "It raises G, adds weight (cutting freeboard), adds windage, and can block freeing ports and closures",
+        "Raises G, adds weight and windage, blocks ports",
         "It lowers G, adds buoyancy, reduces windage and clears the deck",
-        "It adds free surface only",
-        "It reduces weight, since ice floats"
+        "It adds free surface on deck, and nothing else",
+        "It reduces weight overall, since ice floats"
       ],
       "correct_index": 0,
       "explanation": "Ice weight raises G and lowers freeboard; thicker rails and rigging increase the wind's push; and freeing ports, scuppers and hatches can freeze up.",
@@ -63,7 +63,7 @@
       "options": [
         "From the deck, which is the safest to reach",
         "From the hull sides near the waterline",
-        "From the highest parts: mast, rigging and rails, then lower",
+        "The highest parts first, then work down",
         "Anywhere; it is the total mass of ice that matters"
       ],
       "correct_index": 2,
@@ -138,7 +138,7 @@
       "options": [
         "Report icing to the owner at the end of the season",
         "Report any ice at all to the Minister within one year",
-        "Give notice to vessels in the vicinity and the prescribed shore authorities when severe ice builds up on the superstructure in subfreezing air with gale-force winds",
+        "Warn nearby vessels and shore when severe icing occurs",
         "Return to port as soon as there is any ice on deck"
       ],
       "correct_index": 2,
@@ -161,7 +161,7 @@
       "difficulty": "medium",
       "stem": "What does s. 3.05 of the Fishing Vessel Safety Regulations require about freezing spray?",
       "options": [
-        "A fishing vessel must not operate in a freezing spray warning area unless its stability assessment shows it can operate safely in freezing spray, and it must carry a means to remove accumulated ice",
+        "Not in a spray warning area unless assessed fit; carry de-icing means",
         "A fishing vessel must always stay in port in winter",
         "A fishing vessel must report icing to the Minister each hour",
         "A fishing vessel must carry a heater on the mast"
@@ -187,9 +187,9 @@
       "stem": "A vessel removes 1 t of ice that has formed low on the hull, below her G. What is the effect on G?",
       "options": [
         "G falls, because weight was removed",
-        "G does not move",
-        "G rises slightly, because a weight below G was removed",
-        "G moves sideways"
+        "G does not move at all",
+        "G rises slightly: weight below it went",
+        "G moves sideways toward the clean side"
       ],
       "correct_index": 2,
       "explanation": "Removing a weight below G moves G up, away from where the weight was. That is why ice should be cleared from high up first: the same effort removing high ice lowers G.",
@@ -211,7 +211,7 @@
       "difficulty": "medium",
       "stem": "In freezing spray, ice builds up around the freeing ports and scuppers of a small vessel. Why is that a stability problem?",
       "options": [
-        "Water that comes aboard cannot drain, so it stays as extra weight and a free surface on deck",
+        "Shipped water can't drain, adding weight and free surface",
         "The ice makes the freeing ports bigger, so more water comes aboard",
         "It lowers G because the ice is at deck level",
         "It has no stability effect, because ice is lighter than water"

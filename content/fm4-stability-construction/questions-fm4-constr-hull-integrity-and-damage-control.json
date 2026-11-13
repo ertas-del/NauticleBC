@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Freeing ports are used to:",
       "options": [
-        "Cool the engine",
+        "Cool the engine with sea water",
         "Let water escape from the deck",
-        "Ventilate the hold",
-        "Let water in"
+        "Ventilate the hold and fish room",
+        "Let water in to add ballast"
       ],
       "correct_index": 1,
       "explanation": "They must be kept clear.",
@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Freeing ports should be:",
       "options": [
-        "Kept clear and not blocked or locked shut",
-        "Welded shut",
-        "Closed in rough seas",
-        "Covered in fish"
+        "Kept clear, never blocked or locked",
+        "Welded shut to keep the sea out",
+        "Closed in rough seas to stop water",
+        "Covered with fish boxes when fishing"
       ],
       "correct_index": 0,
       "explanation": "Outward-opening flaps only.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "The collision bulkhead is:",
       "options": [
-        "The engine room floor",
-        "The aft bulkhead",
+        "The plating forming the engine room floor",
+        "The aftermost bulkhead",
         "The forward watertight bulkhead",
-        "The deck beam"
+        "The main deck beam amidships"
       ],
       "correct_index": 2,
       "explanation": "It limits flooding after a bow collision.",
@@ -76,9 +76,9 @@
       "difficulty": "easy",
       "stem": "A bilge water level alarm gives:",
       "options": [
-        "Fish counts",
-        "Engine speed",
-        "Weather forecasts",
+        "Fish counts in the hold",
+        "Engine speed and load",
+        "Weather forecasts by radio",
         "Early warning of flooding"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "medium",
       "stem": "A damaged through-hull fitting should be treated by:",
       "options": [
-        "Ignoring it",
+        "Ignoring it until the next haul-out",
         "Closing the seacock or plugging it",
-        "Adding weight",
-        "Opening more valves"
+        "Adding weight on the other side",
+        "Opening more valves to balance it"
       ],
       "correct_index": 1,
       "explanation": "Stop the inflow.",
@@ -120,10 +120,10 @@
       "difficulty": "medium",
       "stem": "A chafed hose should be:",
       "options": [
-        "Painted",
-        "Taped only",
-        "Left alone",
-        "Replaced or clamped, with the seacock closed"
+        "Painted to seal the worn spot",
+        "Wrapped in tape and left in use",
+        "Left alone until it actually starts to leak",
+        "Seacock shut, then replaced or clamped"
       ],
       "correct_index": 3,
       "explanation": "Then restore.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "A leaking stern gland should be:",
       "options": [
-        "Removed",
-        "Painted",
+        "Removed and left open",
+        "Painted with sealant",
         "Tightened or repacked",
-        "Left"
+        "Left until haul-out"
       ],
       "correct_index": 2,
       "explanation": "A slight drip may be normal on packing.",
@@ -164,10 +164,10 @@
       "difficulty": "hard",
       "stem": "A large breach is best helped by:",
       "options": [
-        "Anchoring in a channel",
-        "Opening hatches",
-        "A collision mat, slowing the vessel, and pumping",
-        "Speeding up"
+        "Anchoring at once in the middle of a channel",
+        "Opening hatches to let the air out",
+        "A collision mat, slowing, and pumping",
+        "Speeding up to keep the bow high"
       ],
       "correct_index": 2,
       "explanation": "Call for help early.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "Ventilators and air pipes are fitted with:",
       "options": [
-        "Fish nets",
+        "Fish nets to stop debris entering",
         "Closing appliances to keep water out",
-        "Paint only",
-        "Nothing"
+        "Paint only, to stop them rusting",
+        "Nothing; they are always left open for air"
       ],
       "correct_index": 1,
       "explanation": "They are possible downflooding points.",

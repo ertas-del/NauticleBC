@@ -37,8 +37,8 @@
       "stem": "A vessel has KM = 1.90 m and KG = 2.05 m. What does this tell you?",
       "options": [
         "GM is +0.15 m; she is stable but tender",
-        "GM is zero; she is neutral",
-        "GM is -0.15 m; she is unstable and will not stay upright",
+        "GM is zero; she is in neutral equilibrium",
+        "GM is -0.15 m; she is unstable",
         "GM is -0.15 m; she is stable but stiff"
       ],
       "correct_index": 2,
@@ -62,7 +62,7 @@
       "stem": "Which equation correctly finds the height of G above the keel from a table of weights and heights?",
       "options": [
         "KG = total weight / total of (weight x height)",
-        "KG = KM + GM",
+        "KG = KM + GM, read from the hydrostatic table",
         "KG = total of heights / number of items",
         "KG = total of (weight x height) / total weight"
       ],
@@ -163,7 +163,7 @@
       "options": [
         "A large GM makes the vessel unstable",
         "A large GM raises the centre of gravity",
-        "The vessel becomes stiff, with a short, violent roll that strains the vessel and lashings and is hard on crew and cargo",
+        "She gets stiff: a short, violent roll",
         "A large GM makes the vessel roll very slowly"
       ],
       "correct_index": 2,
@@ -186,7 +186,7 @@
       "difficulty": "hard",
       "stem": "A vessel leaves harbour with GM 0.45 m. After a few days she has burned fuel and water from low tanks, while the deck load stays aboard. What has probably happened to her GM, and why?",
       "options": [
-        "It has fallen, because removing low weight raises KG while the high deck load stays",
+        "Fallen: low weight gone raises KG",
         "It has risen, because she is lighter",
         "It is unchanged, because KM is fixed",
         "It has risen, because KG falls as fuel is burned"
@@ -212,9 +212,9 @@
       "stem": "What does a vessel with negative GM do, as she settles?",
       "options": [
         "She settles upright with a slow roll",
-        "She trims by the bow",
+        "She trims by the bow and stays there",
         "She lists to one side only, and stays there",
-        "She rests at an angle of loll, and may flop from one side to the other"
+        "Lolls, and may flop side to side"
       ],
       "correct_index": 3,
       "explanation": "With negative GM she cannot stay upright; as she heels the hull shape begins to help and she finds a balance at the angle of loll, which can be on either side. A one-sided lean that stays put is a list from G being off the centreline.",

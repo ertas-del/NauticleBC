@@ -32,10 +32,10 @@
       "difficulty": "easy",
       "stem": "Adding a weight above G:",
       "options": [
-        "Has no effect",
+        "Has no effect on G",
         "Raises G and reduces GM",
-        "Increases GM",
-        "Lowers G"
+        "Increases GM a little",
+        "Lowers G toward the keel"
       ],
       "correct_index": 1,
       "explanation": "Weights high make a vessel tender.",
@@ -143,9 +143,9 @@
       "stem": "A weight lifted from the deck by a boom acts as if at:",
       "options": [
         "The point of suspension",
-        "The deck",
-        "The waterline",
-        "The keel"
+        "The deck under the load",
+        "The waterline beside it",
+        "The keel below the boom"
       ],
       "correct_index": 0,
       "explanation": "G rises.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "A vessel is often weakest in stability when:",
       "options": [
-        "She is freshly fuelled",
-        "She is in harbour",
+        "She is freshly fuelled and full",
+        "She is tied up in harbour",
         "Fuel is used up and G has risen",
-        "She is empty at sea"
+        "She is empty at sea with no catch"
       ],
       "correct_index": 2,
       "explanation": "Low weights are gone.",

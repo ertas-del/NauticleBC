@@ -12,7 +12,7 @@
       "stem": "What is the centre of gravity (G) of a vessel?",
       "options": [
         "The centre of the underwater volume of the hull",
-        "The single point through which the whole weight of the vessel and everything aboard acts downward",
+        "The point through which all her weight acts down",
         "The point on the centreline at the height of the waterline",
         "The point where the upward line through B meets the centreline"
       ],
@@ -36,9 +36,9 @@
       "difficulty": "easy",
       "stem": "What is the centre of buoyancy (B)?",
       "options": [
-        "The centre of the weight of the vessel",
+        "The centre of the weight of the vessel and her load",
         "The centre of the waterplane area at the waterline",
-        "The centre of the underwater volume of the hull, through which the whole upward buoyant force acts",
+        "Centre of the underwater volume; buoyancy acts there",
         "The highest point of the hull's underwater shape"
       ],
       "correct_index": 2,
@@ -61,10 +61,10 @@
       "difficulty": "medium",
       "stem": "A vessel with nothing shifting heels over a few degrees to starboard. What happens to G and to B?",
       "options": [
-        "G stays where it is; B moves toward the starboard (low) side",
+        "G stays put; B moves to the low (starboard) side",
         "B stays where it is; G moves toward the starboard side",
         "Both G and B move toward the port (high) side",
-        "G rises and B falls"
+        "G rises and B falls by the same amount"
       ],
       "correct_index": 0,
       "explanation": "Heeling does not move any weight, so G stays. The underwater shape changes, with more hull immersed on the low side, so B moves toward the side that went down. That puts the upward force off to the low side of the downward force and creates the righting turn.",
@@ -88,7 +88,7 @@
       "options": [
         "The point where the vertical line up through G meets the keel",
         "The centre of the vessel's underwater volume",
-        "The point where the vertical line up through the new B cuts the original centreline",
+        "Where the vertical through the new B cuts the centreline",
         "The point through which all the weight acts"
       ],
       "correct_index": 2,
@@ -111,7 +111,7 @@
       "difficulty": "medium",
       "stem": "M is below G in a vessel that is upright in still water. What kind of equilibrium is she in, and what will happen?",
       "options": [
-        "Unstable equilibrium; she will not stay upright and will heel over to an angle of loll or capsize",
+        "Unstable: she will loll or capsize",
         "Stable equilibrium; she will return to upright after a push",
         "Neutral equilibrium; she will stay at any angle she is left at",
         "Stable equilibrium, but only in calm water"
@@ -138,8 +138,8 @@
       "options": [
         "Stable equilibrium, with a weak turning effect back to upright",
         "Unstable equilibrium, with a turning effect that pushes it further over",
-        "She is safe, because zero means no heel",
-        "Neutral equilibrium: it stays at whatever small angle it is pushed to, with no turning effect either way"
+        "She is perfectly safe, because zero GM means no heel",
+        "Neutral: stays at any small angle, no turning effect"
       ],
       "correct_index": 3,
       "explanation": "With M at G the two forces stay in line at every small angle, so there is no righting or capsizing turn: neutral equilibrium. That is a dangerous place to be, because the slightest further rise of G makes her unstable. Zero GM does not mean there is no heel.",
@@ -211,10 +211,10 @@
       "difficulty": "medium",
       "stem": "Which is the most common cause of lost stability on small vessels?",
       "options": [
-        "A fall in KB as the vessel heels",
-        "Making the beam wider",
+        "A fall in KB as the vessel heels over",
+        "Making the beam wider during a refit",
         "Lowering the freeboard by painting the hull",
-        "Raising KG, for example by stowing weight high or adding top weight"
+        "Raising KG, e.g. with top weight"
       ],
       "correct_index": 3,
       "explanation": "KM comes from the hull shape and draught and changes little in service, whereas KG changes every time weight is added, moved or burned. A rising KG cuts GM, so top weight is the usual culprit. A wider beam increases BM and helps stability.",

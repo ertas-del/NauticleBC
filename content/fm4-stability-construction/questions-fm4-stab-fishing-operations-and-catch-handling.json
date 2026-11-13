@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Active fishing gear is gear that:",
       "options": [
-        "Is left set",
+        "Is left set on the bottom",
         "Is towed or moved through the water",
-        "Is always a trap",
-        "Is stored ashore"
+        "Is always a trap or pot",
+        "Is stored ashore between fishing trips"
       ],
       "correct_index": 1,
       "explanation": "Passive gear is set and left.",
@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "Gear hung up on the sea bed is dangerous because:",
       "options": [
-        "It cools the engine",
-        "It lightens the vessel",
-        "It improves stability",
-        "It can heel the vessel, especially with a high lead"
+        "It cools the engine below normal",
+        "It lightens the vessel by the stern",
+        "It improves stability by holding her steady",
+        "It can heel her, more so with a high lead"
       ],
       "correct_index": 3,
       "explanation": "A high lead gives a larger heeling arm.",
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "To limit the danger of hung-up gear you should:",
       "options": [
-        "Know how to release the warps quickly",
-        "Ignore it",
-        "Tie it off harder",
-        "Increase speed"
+        "Know how to release the warps fast",
+        "Ignore it and keep towing ahead at full power",
+        "Tie it off harder to the bitts",
+        "Increase speed to pull it free"
       ],
       "correct_index": 0,
       "explanation": "Rehearse the release.",
@@ -76,9 +76,9 @@
       "difficulty": "easy",
       "stem": "Division bulkheads in fish holds:",
       "options": [
-        "Reduce displacement",
-        "Increase free surface",
-        "Raise G",
+        "Reduce the vessel's displacement",
+        "Increase free surface in the hold",
+        "Raise G by adding steel high up",
         "Keep fish from shifting"
       ],
       "correct_index": 3,
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Carrying fish on deck is dangerous because it:",
       "options": [
-        "Reduces displacement",
+        "Reduces her displacement",
         "Raises G and can trap water",
-        "Improves stability",
-        "Lowers G"
+        "Improves her stability",
+        "Lowers G by adding weight at deck level"
       ],
       "correct_index": 1,
       "explanation": "It also blocks freeing ports.",
@@ -120,10 +120,10 @@
       "difficulty": "hard",
       "stem": "Excessive trim by the stern can:",
       "options": [
-        "Improve stability",
-        "Have no effect",
-        "Prevent freeing ports from working and affect steering",
-        "Reduce draft"
+        "Improve her stability in a seaway",
+        "Have no effect on the vessel or her handling",
+        "Stop freeing ports working; affect steering",
+        "Reduce her draught at the stern"
       ],
       "correct_index": 2,
       "explanation": "It also raises the risk of flooding aft.",
@@ -142,10 +142,10 @@
       "difficulty": "medium",
       "stem": "Paravane stabilisers:",
       "options": [
-        "Add buoyancy",
-        "Increase rolling",
-        "Have no risks",
-        "Reduce rolling but have risks such as fouling or loss"
+        "Add buoyancy to the hull when swamped",
+        "Increase rolling in a beam sea",
+        "Have no risks at all for the crew",
+        "Cut rolling, but can foul or be lost"
       ],
       "correct_index": 3,
       "explanation": "Understand their risks.",
@@ -164,10 +164,10 @@
       "difficulty": "hard",
       "stem": "Anti-rolling tanks:",
       "options": [
-        "Create free surface effect if used wrongly",
-        "Reduce displacement",
-        "Raise KM",
-        "Have no effect"
+        "Give free surface effect if misused",
+        "Reduce the vessel's displacement",
+        "Raise KM permanently",
+        "Have no effect on stability, whatever their level"
       ],
       "correct_index": 0,
       "explanation": "They need correct operation.",

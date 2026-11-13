@@ -12,9 +12,9 @@
       "stem": "A 2 t catch is slid from the centreline to the port side of the deck. In which direction does the vessel's G move?",
       "options": [
         "Toward the starboard side, away from the weight",
-        "Straight up",
+        "Straight up, by the height of the deck",
         "It does not move, because the displacement is unchanged",
-        "Toward the port side, in the same direction as the weight"
+        "Toward port, the way the weight went"
       ],
       "correct_index": 3,
       "explanation": "When a weight is moved, G moves in the same direction, parallel to the path of the weight. G moves because weight has moved, even though displacement is unchanged.",
@@ -59,10 +59,10 @@
       "difficulty": "hard",
       "stem": "A 3 t load is loaded with its centre 2.0 m above the vessel's old G. The new displacement is 63 t. What is the shift of G?",
       "options": [
-        "About 0.095 m, downward",
+        "About 0.095 m, downward (away from the weight)",
         "About 0.10 m, upward, using the old displacement of 60 t",
-        "About 0.095 m, upward (toward the added weight)",
-        "About 6.0 m, upward"
+        "About 0.095 m, upward",
+        "About 6.0 m, upward toward the load"
       ],
       "correct_index": 2,
       "explanation": "For added weight, GG1 = w x d / final displacement = 3 x 2.0 / 63 = 0.095 m, and G moves toward the added weight, which is above G, so upward. Using the old displacement of 60 t is a common slip (it gives 0.10 m). Downward would be for weight added below G.",
@@ -181,7 +181,7 @@
       "options": [
         "A loll; move weight to the low side",
         "A heel; wait for the wind to drop",
-        "A list; move or add weight on the high (starboard) side, or remove it from the port side",
+        "A list; add or move weight to the high side",
         "A loll; move weight to the high side as quickly as possible"
       ],
       "correct_index": 2,
@@ -203,10 +203,10 @@
       "difficulty": "medium",
       "stem": "A vessel is leaning, and the lean changes to the other side as she rolls in the sea. What is this, and what must be done?",
       "options": [
-        "A loll, caused by negative GM; lower G first (remove top weight, press up slack tanks) and follow the master's orders",
+        "Loll (negative GM): lower G first, on orders",
         "A list; move weight to the high side",
-        "A heel; reduce speed",
-        "A trim; shift weight aft"
+        "A heel; reduce speed until it eases",
+        "A trim; shift weight aft to even her"
       ],
       "correct_index": 0,
       "explanation": "A lean that flops from side to side means negative GM. Shifting weight across can make her flop the other way; the cure is to lower G. Instructions come from the master.",

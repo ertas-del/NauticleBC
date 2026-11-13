@@ -10,10 +10,10 @@
       "difficulty": "easy",
       "stem": "Gross tonnage is a measure of:",
       "options": [
-        "Its draft",
-        "Its speed",
+        "Its draught when fully loaded",
+        "Its speed on trials",
         "The vessel's internal volume",
-        "Its weight"
+        "Its weight in tonnes"
       ],
       "correct_index": 2,
       "explanation": "It is not weight.",
@@ -32,9 +32,9 @@
       "difficulty": "medium",
       "stem": "Net tonnage measures:",
       "options": [
-        "The hull weight",
-        "The crew",
-        "The engine size",
+        "The weight of the bare hull",
+        "The number of crew allowed",
+        "The engine size in kilowatts",
         "The cargo-carrying spaces"
       ],
       "correct_index": 3,
@@ -54,10 +54,10 @@
       "difficulty": "medium",
       "stem": "Weathertight means:",
       "options": [
-        "Water will not penetrate in any sea conditions",
-        "The vessel is soundproof",
-        "The vessel is airtight",
-        "Water can enter freely"
+        "No water gets in in any sea",
+        "The vessel is soundproof inside",
+        "The vessel is airtight throughout",
+        "Water can enter freely and drain"
       ],
       "correct_index": 0,
       "explanation": "Watertight resists water under a head.",
@@ -76,10 +76,10 @@
       "difficulty": "medium",
       "stem": "Watertight means:",
       "options": [
-        "Able to float",
-        "Able to prevent water passing in any direction under the head of water likely to occur",
-        "Able to keep out rain only",
-        "Able to withstand fire"
+        "Able to float when swamped",
+        "Stops water passing either way under the likely head",
+        "Able to keep out rain and spray, but not a sea",
+        "Able to withstand fire for one hour"
       ],
       "correct_index": 1,
       "explanation": "As with a watertight bulkhead.",
@@ -98,10 +98,10 @@
       "difficulty": "easy",
       "stem": "Length overall is measured:",
       "options": [
-        "From mast to mast",
+        "From the foremast to the mizzen mast",
         "From the forward end to the aft end",
-        "Only at the waterline",
-        "Along the keel only"
+        "Only at the waterline when loaded",
+        "Along the keel only, from stem to heel"
       ],
       "correct_index": 1,
       "explanation": "The extreme length.",
@@ -120,10 +120,10 @@
       "difficulty": "easy",
       "stem": "The baseline from which heights are measured is usually:",
       "options": [
-        "The deck",
+        "The main deck",
         "The keel line",
         "The waterline",
-        "The mast"
+        "The masthead"
       ],
       "correct_index": 1,
       "explanation": "KG and KM are measured from it.",
@@ -165,9 +165,9 @@
       "stem": "Aluminium joined to steel in sea water risks:",
       "options": [
         "Galvanic corrosion",
-        "Fire",
+        "An electrical fire",
         "Better stability",
-        "Higher speed"
+        "Higher hull speed"
       ],
       "correct_index": 0,
       "explanation": "Isolate the metals.",
@@ -186,10 +186,10 @@
       "difficulty": "easy",
       "stem": "A seine vessel is one that:",
       "options": [
-        "Uses only lines",
+        "Uses only hook and line gear",
         "Uses a net set around fish",
-        "Uses only traps",
-        "Uses no gear"
+        "Uses only traps on the bottom",
+        "Uses no gear; it carries fish"
       ],
       "correct_index": 1,
       "explanation": "A purse seiner is a type.",

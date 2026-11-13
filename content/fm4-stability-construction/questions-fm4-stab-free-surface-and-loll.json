@@ -32,10 +32,10 @@
       "difficulty": "medium",
       "stem": "The free surface effect depends mostly on:",
       "options": [
-        "The breadth, length and density of the liquid surface",
-        "The age of the tank",
-        "The weather",
-        "The colour of the liquid"
+        "The tank's breadth, length and density",
+        "The age and condition of the tank",
+        "The weather on the day",
+        "The colour and viscosity of the liquid in the tank"
       ],
       "correct_index": 0,
       "explanation": "Not on how much liquid is in it, if slack.",
@@ -77,9 +77,9 @@
       "stem": "A centreline division in a slack tank reduces the free surface to:",
       "options": [
         "One quarter",
-        "Double",
+        "Double it",
         "The same",
-        "One half"
+        "One half of the original"
       ],
       "correct_index": 0,
       "explanation": "Breadth halves and is cubed.",
@@ -165,9 +165,9 @@
       "stem": "To correct an angle of loll you should:",
       "options": [
         "Lower G, filling low tanks carefully",
-        "Raise G",
-        "Add deck cargo",
-        "Open the hatches"
+        "Raise G with weight up high",
+        "Add deck cargo on the high side to push her up",
+        "Open the hatches to vent her"
       ],
       "correct_index": 0,
       "explanation": "Start on the low side with wing tanks.",
@@ -186,10 +186,10 @@
       "difficulty": "medium",
       "stem": "Free surface correction (loss of GM) equals:",
       "options": [
-        "i + density",
-        "Displacement ÷ i",
+        "i + density of the liquid",
+        "Displacement ÷ i of the tank",
         "i × density ÷ displacement",
-        "Density × KG"
+        "Density × KG of the tank"
       ],
       "correct_index": 2,
       "explanation": "Use consistent units.",
