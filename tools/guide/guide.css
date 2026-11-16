@@ -74,12 +74,12 @@ hr { display: none; }
 .objectives h3 { margin-top: 0; }
 .meta { color: var(--quiet); font-size: 10.5pt; margin-bottom: 10pt; }
 figure { margin: 12pt 0 14pt; padding: 0; break-inside: avoid; text-align: center; }
-figure img { max-width: 100%; max-height: 6.2in; border: 1pt solid var(--line); border-radius: 6pt; }
+figure img { max-width: 100%; max-height: 5.4in; border: 1pt solid var(--line); border-radius: 6pt; }
 figcaption { color: var(--quiet); font-size: 10.5pt; margin-top: 4pt; }
 .callout { background: var(--sand); border: 1pt solid var(--line); border-radius: 8pt; padding: 4pt 14pt 6pt; margin: 14pt 0; break-inside: avoid; }
 .callout h2 { border-top: none; margin-top: 6pt; padding-top: 0; }
 .callout.mistakes { background: var(--rose-pale); border-color: #f2c5bf; }
-.exam-focus { border: 2pt solid var(--navy); border-radius: 8pt; padding: 8pt 14pt 4pt; margin: 18pt 0 6pt; break-inside: avoid; }
+.exam-focus { border: 2pt solid var(--navy); border-radius: 8pt; padding: 8pt 14pt 4pt; margin: 6pt 0 16pt; break-inside: avoid; }
 .exam-focus h3 { margin-top: 2pt; }
 .exam-focus li { margin-bottom: 6pt; }
 

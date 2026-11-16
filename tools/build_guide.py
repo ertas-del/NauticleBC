@@ -174,7 +174,8 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
         f'and {q_count} practice questions with answers.</p>'
     )
     h.append(
-        '<p>Read a lesson, look at its picture, then read the <strong>Exam focus</strong> box at the end. '
+        '<p>Start each lesson with its <strong>Exam focus</strong> box: those are the facts most likely to be asked. '
+        'Then read the lesson and look at its pictures. '
         'Words shown like <mark>this</mark> are the exact terms and numbers worth learning by heart. '
         'Each part ends with practice questions. Try them before you look at the answers at the back.</p>'
         '<p>Every lesson has a worked example from BC waters, and a short list of the mistakes people make.</p>'
@@ -215,11 +216,12 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
             if objs:
                 h.append('<div class="objectives"><h3>You will be able to</h3><ul>'
                          + "".join(f"<li>{esc(o)}</li>" for o in objs) + "</ul></div>")
-            h.append(body_html(lesson, figures))
+            # Exam focus up front: the reader knows what to look for before reading.
             facts = lesson.get("key_facts") or []
             if facts:
-                h.append('<div class="exam-focus"><h3>Exam focus</h3><ul>'
+                h.append('<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>'
                          + "".join(f"<li>{esc(f)}</li>" for f in facts) + "</ul></div>")
+            h.append(body_html(lesson, figures))
             h.append("</section>")
 
         # Test yourself
