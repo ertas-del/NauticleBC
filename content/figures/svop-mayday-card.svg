@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" width="720" height="920" role="img">
+<title>Mayday call card</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+</defs>
+<rect width="720" height="920" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="920" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Mayday call card</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Read it aloud, slowly and clearly. Only for grave and imminent danger.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="118" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="151" r="22" fill="#0f766e"/>
+<text x="78" y="159" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">1</text>
+<text x="118" y="148" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Select VHF Channel 16</text>
+<text x="118" y="173" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">If you have DSC, press the distress button first</text>
+<rect x="40" y="194" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="227" r="22" fill="#dc2626"/>
+<text x="78" y="235" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">2</text>
+<text x="118" y="236" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">MAYDAY, MAYDAY, MAYDAY</text>
+<rect x="40" y="270" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="303" r="22" fill="#dc2626"/>
+<text x="78" y="311" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">3</text>
+<text x="118" y="300" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">THIS IS [boat name] x 3</text>
+<text x="118" y="325" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">then your call sign</text>
+<rect x="40" y="346" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="379" r="22" fill="#dc2626"/>
+<text x="78" y="387" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">4</text>
+<text x="118" y="388" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">MAYDAY [boat name]</text>
+<rect x="40" y="422" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="455" r="22" fill="#dc2626"/>
+<text x="78" y="463" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">5</text>
+<text x="118" y="452" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">MY POSITION IS ...</text>
+<text x="118" y="477" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Lat and long, or bearing and distance from a known point</text>
+<rect x="40" y="498" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="531" r="22" fill="#dc2626"/>
+<text x="78" y="539" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">6</text>
+<text x="118" y="528" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Nature of distress</text>
+<text x="118" y="553" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">e.g. sinking, on fire, taking on water</text>
+<rect x="40" y="574" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="607" r="22" fill="#dc2626"/>
+<text x="78" y="615" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">7</text>
+<text x="118" y="604" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Assistance required</text>
+<text x="118" y="629" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">e.g. need immediate pump, need tow off rocks</text>
+<rect x="40" y="650" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="683" r="22" fill="#dc2626"/>
+<text x="78" y="691" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">8</text>
+<text x="118" y="692" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Number of people on board</text>
+<rect x="40" y="726" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="759" r="22" fill="#dc2626"/>
+<text x="78" y="767" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">9</text>
+<text x="118" y="756" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Other information</text>
+<text x="118" y="781" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">e.g. abandoning to liferaft, boat type and colour</text>
+<rect x="40" y="802" width="640" height="66" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="78" cy="835" r="22" fill="#dc2626"/>
+<text x="78" y="843" font-size="22" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">10</text>
+<text x="118" y="832" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">OVER</text>
+<text x="118" y="857" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Then listen. Repeat if no reply.</text>
+<text x="360" y="892" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

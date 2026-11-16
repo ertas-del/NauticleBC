@@ -33,7 +33,7 @@ At night, and in reduced visibility, lights are how other vessels know what you 
 
 ## Small power-driven vessel, underway
 
-- Under 12 m: a ==masthead light== (or one ==all-round white light==) and ==sidelights==. Sidelights may be in one lantern on the centreline.
+- Under 12 m: either a ==masthead light==, ==sidelights== and a ==stern light==, or ==one all-round white light== with ==sidelights== (the all-round white takes the place of the masthead and stern lights). Sidelights may be in one lantern on the centreline.
 - 12 m and over: a ==masthead light==, ==sidelights== and a ==stern light==.
 
 What you see tells you what the other boat is doing:

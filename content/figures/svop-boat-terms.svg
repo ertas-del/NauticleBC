@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bae6fd"/><stop offset="1" stop-color="#7dd3fc" stop-opacity="0.25"/></linearGradient>
+<linearGradient id="hull" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cbd5e1"/></linearGradient>
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#334e68"/></marker>
+</defs>
+<rect width="720" height="800" rx="0" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Boat terms</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">The names for the ends, sides and sizes of a small workboat.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<text x="40.0" y="128.0" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Side view</text>
+<rect x="100" y="285" width="560" height="85" fill="url(#sea)"/>
+<path d="M200,205 Q380,212 560,222 L556,302 Q522,334 470,336 L300,336 Q238,334 222,292 Z" fill="url(#hull)" stroke="#102a43" stroke-width="2.5" stroke-linejoin="round" filter="url(#s)"/>
+<path d="M201,209 Q380,216 559,226" fill="none" stroke="#0f766e" stroke-width="5" stroke-linecap="round"/>
+<path d="M380,214 L380,160 L455,160 L468,218" fill="#e2e8f0" stroke="#102a43" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="390" y="170" width="24" height="18" fill="#93c5fd" stroke="#102a43" stroke-width="1.5"/>
+<rect x="422" y="170" width="24" height="18" fill="#93c5fd" stroke="#102a43" stroke-width="1.5"/>
+<line x1="100.0" y1="285.0" x2="660.0" y2="285.0" stroke="#0369a1" stroke-width="2.5" />
+<line x1="200.0" y1="200.0" x2="200.0" y2="132.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="560.0" y1="216.0" x2="560.0" y2="132.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="202.0" y1="140.0" x2="558.0" y2="140.0" stroke="#334e68" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="380.0" y="129.0" font-size="17" text-anchor="middle" fill="#334e68" font-weight="bold" font-family="Liberation Sans">Length overall (LOA)</text>
+<line x1="198.0" y1="205.0" x2="138.0" y2="205.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="300.0" y1="336.0" x2="138.0" y2="336.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="150.0" y1="207.0" x2="150.0" y2="283.0" stroke="#334e68" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<line x1="150.0" y1="287.0" x2="150.0" y2="334.0" stroke="#334e68" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="138.0" y="252.0" font-size="17" text-anchor="end" fill="#334e68" font-weight="bold" font-family="Liberation Sans">Freeboard</text>
+<text x="138.0" y="317.0" font-size="17" text-anchor="end" fill="#334e68" font-weight="bold" font-family="Liberation Sans">Draught</text>
+<line x1="232.0" y1="180.0" x2="214.0" y2="220.0" stroke="#829ab1" stroke-width="1.6" />
+<circle cx="214" cy="220" r="3" fill="#334e68"/>
+<text x="240.0" y="182.0" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Bow</text>
+<line x1="320.0" y1="186.0" x2="320.0" y2="211.0" stroke="#829ab1" stroke-width="1.6" />
+<circle cx="320" cy="211" r="3" fill="#334e68"/>
+<text x="320.0" y="180.0" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Gunwale</text>
+<line x1="518.0" y1="186.0" x2="525.0" y2="216.0" stroke="#829ab1" stroke-width="1.6" />
+<circle cx="525" cy="218" r="3" fill="#334e68"/>
+<text x="512.0" y="180.0" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Stern</text>
+<line x1="586.0" y1="256.0" x2="560.0" y2="256.0" stroke="#829ab1" stroke-width="1.6" />
+<circle cx="559" cy="256" r="3" fill="#334e68"/>
+<text x="592.0" y="262.0" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Transom</text>
+<text x="566.0" y="307.0" font-size="18" text-anchor="start" fill="#0369a1" font-weight="bold" font-family="Liberation Sans">Waterline</text>
+<line x1="40.0" y1="392.0" x2="680.0" y2="392.0" stroke="#d9e2ec" stroke-width="1.5" />
+<text x="40.0" y="422.0" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Top view</text>
+<path d="M360,452 C402,474 416,522 416,572 L413,668 L307,668 L304,572 C304,522 318,474 360,452 Z" fill="url(#hull)" stroke="#102a43" stroke-width="2.5" stroke-linejoin="round" filter="url(#s)"/>
+<rect x="334" y="590" width="52" height="42" rx="4" fill="#e2e8f0" stroke="#102a43" stroke-width="2"/>
+<line x1="360.0" y1="470.0" x2="360.0" y2="580.0" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<path d="M356,456 C318,478 307,522 307,572 L309,664" fill="none" stroke="#dc2626" stroke-width="5" stroke-linecap="round"/>
+<path d="M364,456 C402,478 413,522 413,572 L411,664" fill="none" stroke="#16a34a" stroke-width="5" stroke-linecap="round"/>
+<line x1="280.0" y1="560.0" x2="440.0" y2="560.0" stroke="#0f766e" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="448.0" y="566.0" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Amidships</text>
+<text x="292.0" y="506.0" font-size="22" text-anchor="end" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Port</text>
+<text x="292.0" y="528.0" font-size="16" text-anchor="end" fill="#dc2626" font-weight="normal" font-family="Liberation Sans">left side</text>
+<text x="428.0" y="506.0" font-size="22" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">Starboard</text>
+<text x="428.0" y="528.0" font-size="16" text-anchor="start" fill="#16a34a" font-weight="normal" font-family="Liberation Sans">right side</text>
+<line x1="110.0" y1="484.0" x2="110.0" y2="650.0" stroke="#334e68" stroke-width="2.2" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="110.0" y="470.0" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Forward</text>
+<text x="110.0" y="676.0" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Aft</text>
+<text x="128.0" y="572.0" font-size="15" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">(looking forward,</text>
+<text x="128.0" y="590.0" font-size="15" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">port is on the left)</text>
+<line x1="304.0" y1="572.0" x2="304.0" y2="722.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="416.0" y1="572.0" x2="416.0" y2="722.0" stroke="#334e68" stroke-width="1.2" stroke-dasharray="4 3"/>
+<line x1="306.0" y1="712.0" x2="414.0" y2="712.0" stroke="#334e68" stroke-width="1.8" marker-start="url(#ar)" marker-end="url(#ar)"/>
+<text x="426.0" y="718.0" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">Beam</text>
+<text x="426.0" y="738.0" font-size="15" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">(greatest width)</text>
+<text x="360.0" y="772.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

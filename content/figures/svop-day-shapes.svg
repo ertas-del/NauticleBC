@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 816" width="720" height="816" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+
+</defs>
+<rect width="720" height="816" rx="0" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="816" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Day shapes</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">By day, black shapes in a vertical line tell you what a vessel is doing.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="40" y="118" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M62,314 L218,314 L206,332 L74,332 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="54" y1="328" x2="226" y2="328" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="110" y1="314" x2="110" y2="144" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="110" y1="150" x2="156" y2="150" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="152" y1="150" x2="152" y2="192" stroke="#627d98" stroke-width="1.5"/>
+<circle cx="152" cy="173.0" r="15" fill="#111827"/>
+<text x="140.0" y="372.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">At anchor</text>
+<text x="140.0" y="392.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">one ball</text>
+<rect x="268" y="118" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M290,314 L446,314 L434,332 L302,332 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="282" y1="328" x2="454" y2="328" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="338" y1="314" x2="338" y2="144" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="338" y1="150" x2="384" y2="150" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="380" y1="150" x2="380" y2="232" stroke="#627d98" stroke-width="1.5"/>
+<circle cx="380" cy="173.0" r="15" fill="#111827"/>
+<circle cx="380" cy="213.0" r="15" fill="#111827"/>
+<text x="368.0" y="372.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Not under command</text>
+<text x="368.0" y="392.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">two balls</text>
+<rect x="496" y="118" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M518,314 L674,314 L662,332 L530,332 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="510" y1="328" x2="682" y2="328" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="566" y1="314" x2="566" y2="144" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="566" y1="150" x2="612" y2="150" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="608" y1="150" x2="608" y2="282" stroke="#627d98" stroke-width="1.5"/>
+<circle cx="608" cy="173.0" r="15" fill="#111827"/>
+<polygon points="608,198.0 623,218.0 608,238.0 593,218.0" fill="#111827"/>
+<circle cx="608" cy="263.0" r="15" fill="#111827"/>
+<text x="596.0" y="372.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Restricted in ability</text>
+<text x="596.0" y="392.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">to manoeuvre:</text>
+<text x="596.0" y="412.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">ball, diamond, ball</text>
+<rect x="40" y="446" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M62,642 L218,642 L206,660 L74,660 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="54" y1="656" x2="226" y2="656" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="110" y1="642" x2="110" y2="472" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="110" y1="478" x2="156" y2="478" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="152" y1="478" x2="152" y2="600" stroke="#627d98" stroke-width="1.5"/>
+<circle cx="152" cy="501.0" r="15" fill="#111827"/>
+<circle cx="152" cy="541.0" r="15" fill="#111827"/>
+<circle cx="152" cy="581.0" r="15" fill="#111827"/>
+<text x="140.0" y="700.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Aground</text>
+<text x="140.0" y="720.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">three balls</text>
+<rect x="268" y="446" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M290,642 L446,642 L434,660 L302,660 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="282" y1="656" x2="454" y2="656" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="338" y1="642" x2="338" y2="472" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="338" y1="478" x2="384" y2="478" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="380" y1="478" x2="380" y2="556" stroke="#627d98" stroke-width="1.5"/>
+<polygon points="364,486.0 396,486.0 380,514.0" fill="#111827"/>
+<polygon points="364,552.0 396,552.0 380,524.0" fill="#111827"/>
+<text x="368.0" y="700.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fishing</text>
+<text x="368.0" y="720.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">two cones,</text>
+<text x="368.0" y="740.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">points together</text>
+<rect x="496" y="446" width="200" height="230" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M518,642 L674,642 L662,660 L530,660 Z" fill="#9fb3c8" stroke="#486581" stroke-width="1.5"/>
+<line x1="510" y1="656" x2="682" y2="656" stroke="#7dd3fc" stroke-width="2"/>
+<line x1="566" y1="642" x2="566" y2="472" stroke="#486581" stroke-width="4" stroke-linecap="round"/>
+<line x1="566" y1="478" x2="612" y2="478" stroke="#486581" stroke-width="3" stroke-linecap="round"/>
+<line x1="608" y1="478" x2="608" y2="518" stroke="#627d98" stroke-width="1.5"/>
+<polygon points="592,486.0 624,486.0 608,514.0" fill="#111827"/>
+<text x="596.0" y="700.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sailing vessel also</text>
+<text x="596.0" y="720.0" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">under engine</text>
+<text x="596.0" y="740.0" font-size="16" text-anchor="middle" fill="#486581" font-weight="normal" font-family="Liberation Sans">one cone, point down</text>
+<text x="360.0" y="788.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

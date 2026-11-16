@@ -1,0 +1,37 @@
+# One printable illustrated guide per ticket. Built by tools/build_guide.py.
+# Each part takes the ticket's lessons whose id starts with one of its prefixes, in lesson order.
+# A lesson tagged for the ticket that no part claims goes in a final "More topics" part.
+
+svop:
+  title: "SVOP Illustrated Study Guide"
+  subtitle: "Small Vessel Operator Proficiency, British Columbia edition"
+  ticket_name: "SVOP"
+  cover_line: "One topic at a time, with the pictures and the exam facts."
+  parts:
+    - title: "The ticket and the law"
+      intro: "Who needs an SVOP, what the master is responsible for, and the main rules behind it."
+      prefixes: [svop.legal., svop.law.]
+    - title: "Your boat and how to handle it"
+      intro: "Boat terms, engines and drives, ropes and knots, manoeuvring and anchoring."
+      prefixes: [svop.vessel., svop.propulsion., svop.seamanship., svop.manoeuvring.]
+    - title: "Stability"
+      intro: "Why a boat stays upright, and what you do that makes it less safe."
+      prefixes: [svop.stability.]
+    - title: "Collision regulations"
+      intro: "Who gives way, the lights and shapes you will see, and the sound signals."
+      prefixes: [svop.collision.]
+    - title: "Buoys and beacons"
+      intro: "The Canadian buoyage system: lateral, cardinal and special marks."
+      prefixes: [svop.buoyage.]
+    - title: "Charts, compass and tides"
+      intro: "Reading a chart, plotting, the compass errors, and the tide tables."
+      prefixes: [svop.charts., svop.compass., chartwork.plotting.formula-cards, chartwork.compass.formula-cards, chartwork.depth.tide-formula-cards]
+    - title: "Weather, radar and GPS"
+      intro: "Forecasts and warnings, sea state, and the electronic aids and their limits."
+      prefixes: [svop.weather., svop.radar., svop.navigation.]
+    - title: "Safety and emergencies"
+      intro: "Safe work, lifesaving and fire gear, emergencies, man overboard, search and rescue, and VHF calls."
+      prefixes: [svop.safety., svop.emergencies., svop.sar.]
+    - title: "Pollution and daily operations"
+      intro: "Fuelling without spills, reporting, sewage and garbage, and the checks before you leave."
+      prefixes: [svop.pollution., svop.operations.]

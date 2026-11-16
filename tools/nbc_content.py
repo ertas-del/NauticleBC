@@ -94,13 +94,12 @@ _seen_figures: dict[str, str] = {}
 
 
 def _check_figures(meta: dict, body: str, where: str, report: Report) -> None:
-    """Each declared figure needs an .svg and .png, a unique id and exactly one {{figure:id}} line in the body."""
+    """Each declared figure needs an .svg and .png and exactly one {{figure:id}} line in the body.
+    The same drawing may be used by more than one lesson (an SVOP lesson and a COLREGs lesson can share one)."""
     declared = [f["id"] for f in meta.get("figures", [])]
     used = FIGURE_REF_RE.findall(body)
     for fid in declared:
-        if fid in _seen_figures:
-            report.error(where, f"figure id {fid} also used in {_seen_figures[fid]}")
-        _seen_figures[fid] = where
+        _seen_figures.setdefault(fid, where)
         for ext in ("svg", "png"):
             if not (FIGURE_DIR / f"{fid}.{ext}").is_file():
                 report.error(where, f"figure {fid}: missing content/figures/{fid}.{ext}")
