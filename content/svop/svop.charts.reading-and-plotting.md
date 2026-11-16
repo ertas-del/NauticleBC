@@ -48,10 +48,10 @@ Charted depths are measured from ==chart datum==, a low-water level. On Canadian
 
 ## Plotting a position
 
-To plot 48° 24.5′ N, 123° 22.0′ W:
+To plot 48° 14.5′ N, 123° 27.0′ W:
 
-1. Find the line for 48° 24.5′ on the side scale and draw a light pencil line across.
-2. Find 123° 22.0′ on the bottom scale and draw a line up.
+1. Find the line for 48° 14.5′ on the side scale and draw a light pencil line across.
+2. Find 123° 27.0′ on the bottom scale and draw a line up.
 3. Where the two lines cross is your position. Mark it with a small circle and write the time.
 
 ## Course and distance

@@ -16,7 +16,7 @@ estimated_minutes: 18
 key_facts:
   - "Radar sends out pulses of radio energy and measures the time it takes for the echo to return. The time gives range, and the antenna direction gives bearing."
   - "Range is more accurate than bearing, so fix by ranges where you can."
-  - "A target with constant bearing and decreasing range is on a collision course."
+  - "A target with constant bearing and decreasing range means risk of collision exists."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -73,7 +73,7 @@ The display shows echoes as spots at the right range and bearing, with your own 
 
 - Watch an echo over time. If its ==bearing stays the same and the range reduces==, there is risk of collision.
 - Use the EBL and VRM to measure bearing and range repeatedly.
-- Radar tells you something is there. It doesn't tell you what the vessel is doing. Combine it with a visual lookout.
+- Radar tells you something is there. It doesn't tell you what kind of vessel it is. Combine it with a visual lookout.
 - Don't make small alterations. Make a bold change early.
 - In fog, reduce speed and use fog signals as well.
 

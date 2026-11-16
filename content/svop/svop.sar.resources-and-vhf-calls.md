@@ -67,7 +67,7 @@ Routine calls do not use these prefixes.
 
 {{figure:svop-mayday-card}}
 
-Switch to channel 16 (or send a DSC alert) and say:
+Press the DSC distress button if fitted, then call on channel 16 and say:
 
 > Mayday, Mayday, Mayday.
 > This is [vessel name] ×3.

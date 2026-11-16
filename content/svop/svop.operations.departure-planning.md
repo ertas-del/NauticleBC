@@ -76,7 +76,7 @@ Check Notices to Mariners and talk to local people when you can.
 
 ## A BC example
 
-Before leaving Campbell River for a day of crew transfers, you run the blower, check the forecast and the tide table for Seymour Narrows, sound the fuel tank and plan on a third in reserve. You call the dock office and give a trip plan: three people on board, route, and a return by 5 p.m.
+Before leaving Campbell River for a day of crew transfers, you run the blower, check the forecast and the tide table for Seymour Narrows, sound the fuel tank and plan on a third in reserve. You leave a trip plan with your company office: three people on board, route, and a return by 5 p.m.
 
 ## Common mistakes
 

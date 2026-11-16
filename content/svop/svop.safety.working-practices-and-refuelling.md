@@ -51,7 +51,7 @@ Work aloft is any work above deck level, such as on a mast or a roof.
 
 - Tell the master and agree signals before you go.
 - Wear a ==harness== and a ==lifejacket==.
-- Stop the engines and radar and any transmitters you are close to.
+- Switch off and isolate the radar, horn and any radio transmitters near you.
 - Carry tools in a bag and use a lanyard. Nothing should fall on people below.
 - Don't work aloft in rough weather.
 
@@ -69,7 +69,7 @@ A confined space (a tank, a void, a locker, a bilge compartment) may have ==too 
 The operator should see a single signaller, who uses clear hand signals:
 
 - ==Raise== : forearm vertical, hand making small circles.
-- ==Lower==: arm out, hand making small circles pointing down.
+- ==Lower==: arm pointing down, finger pointing down, hand making small circles.
 - ==Stop==: arm out, palm down, moved side to side.
 - ==Emergency stop==: both arms out, palms down, moved side to side.
 

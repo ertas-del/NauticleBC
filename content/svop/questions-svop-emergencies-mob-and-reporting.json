@@ -60,7 +60,7 @@
         "In the wake"
       ],
       "correct_index": 1,
-      "explanation": "The boat then drifts toward them.",
+      "explanation": "Approach into the wind. The boat then drifts away from them, not over them.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -162,15 +162,15 @@
         "svop"
       ],
       "difficulty": "medium",
-      "stem": "The master's report of a serious marine occurrence normally includes:",
+      "stem": "Reporting a serious marine occurrence to the TSB normally means:",
       "options": [
         "Only a bill for the damage",
         "No report if no one is hurt",
         "Only a text message to the owner about the damage",
-        "An initial report then a follow-up"
+        "A quick report, then a written report"
       ],
       "correct_index": 3,
-      "explanation": "Check the rules for your vessel.",
+      "explanation": "Report to the Transportation Safety Board as soon as possible, then send a written report within 30 days.",
       "source_ids": [
         "tp14692",
         "tc-svop"

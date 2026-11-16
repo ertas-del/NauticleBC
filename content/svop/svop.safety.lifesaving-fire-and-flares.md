@@ -26,10 +26,10 @@ Safety gear is only useful if it works when you need it. Checking it is part of 
 
 ## Lifejackets, PFDs and anti-exposure suits
 
-- A ==lifejacket== is designed to turn an unconscious person face up. A ==PFD== (personal flotation device) helps keep you afloat but does not turn you over.
-- Everyone on board should have a correctly fitting lifejacket or PFD that is ==easy to reach==. On small open boats it is best to wear them.
+- A ==lifejacket== is built to turn an unconscious person face up. A ==PFD== (personal flotation device) has less buoyancy and may not turn an unconscious person face up.
+- A small commercial vessel must carry an approved ==lifejacket== of the right size for each person on board, ==easy to reach==. Transport Canada accepts approved PFDs instead only if they are ==worn whenever the boat is underway== and meet its conditions (bright colour, enough buoyancy, reflective tape, a whistle). Inflatables are not allowed for anyone under 16.
 - Check them regularly: fabric not torn or faded, buckles and straps work, stitching intact, no mould, and any inflatable cylinder is full and in date.
-- ==Anti-exposure suits== (immersion suits) protect against cold water. Check zips, seals and the suit for holes. Store them dry and unfolded as the maker says. Practise putting one on.
+- An ==immersion suit== is a full survival suit you put on to abandon the vessel. An ==anti-exposure work suit== is worn while working and gives less protection. Check zips, seals and fabric for damage. Store them dry, in their bag, as the maker says. Practise putting one on.
 - Replace anything damaged. Don't store gear in a place that gets wet.
 
 ## Fire detection and extinguishing equipment
@@ -44,17 +44,19 @@ Safety gear is only useful if it works when you need it. Checking it is part of 
 
 Types:
 
-- ==Hand-held red flares==: a night and day signal showing your position.
-- ==Red parachute rockets==: reach high and are visible from a long way.
-- ==Orange smoke==: for daytime use, hand-held or floating.
-- ==Floating orange smoke== and ==white flares== are used in specific ways.
+- ==Type A, rocket parachute flare== (red): goes high and is seen from a long way.
+- ==Type B, multi-star flare== (red): fires several red stars.
+- ==Type C, hand flare== (red): a night and day signal showing your position.
+- ==Type D, smoke signal== (orange): for daytime use only, hand-held or floating.
+
+White flares are not distress signals. They are used to attract attention or warn of a collision risk.
 
 Rules for use:
 
 - Only use flares when you are in ==distress==, or for approved practice.
 - Hold them away from your body, downwind, and never point them at a person or the boat.
 - ==Store flares dry==, in a waterproof container, where you can reach them.
-- ==Check the date== regularly. Out-of-date flares should not be relied on.
+- ==Check the date== regularly. A flare expires ==four years after its date of manufacture==, and expired flares don't count toward the number you must carry.
 - ==Dispose of expired flares properly==, through a marine supplier or a recognised collection point. Never fire them to get rid of them, and never put them in the rubbish.
 
 ## Safety in towing

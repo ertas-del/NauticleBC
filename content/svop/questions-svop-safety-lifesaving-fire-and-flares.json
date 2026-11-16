@@ -118,7 +118,7 @@
         "svop"
       ],
       "difficulty": "medium",
-      "stem": "A day signal that shows your position is:",
+      "stem": "Which distress signal is meant for daytime use only?",
       "options": [
         "A green flare",
         "Red parachute rocket",
@@ -126,7 +126,7 @@
         "Orange smoke"
       ],
       "correct_index": 3,
-      "explanation": "Orange smoke is visible in daylight.",
+      "explanation": "Orange smoke is a daytime signal. Red flares and rockets work by day and by night.",
       "source_ids": [
         "tp14692",
         "tc-svop"

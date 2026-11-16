@@ -30,15 +30,15 @@
         "svop"
       ],
       "difficulty": "easy",
-      "stem": "After a grounding on a falling tide you should:",
+      "stem": "You run aground on a falling tide. What is most likely?",
       "options": [
-        "Go full astern before the water drops",
+        "You can back off easily once the water drops",
         "You may be stuck until the tide rises again",
-        "Open the sea valves to lighten her",
-        "Shift everyone forward to lift the stern off the bottom"
+        "Opening the sea valves will lighten her",
+        "The boat will float off by itself within minutes"
       ],
       "correct_index": 1,
-      "explanation": "Check the tide before acting.",
+      "explanation": "On a falling tide the water only gets shallower. Check the tide before acting.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -99,7 +99,7 @@
       "stem": "In a boat fire you should if possible:",
       "options": [
         "Keep going at speed so the wind blows the fire out",
-        "Put the fire downwind and shut off fuel",
+        "Turn so the fire is downwind, shut off fuel",
         "Turn so the fire is upwind of you",
         "Open the windows to let smoke out"
       ],

@@ -47,20 +47,20 @@ Don't use detergents or dispersants unless told to.
 ## Garbage
 
 - ==Never throw plastic== overboard anywhere.
-- Don't dump other garbage in the water close to shore. Take it back to port and use proper disposal.
+- Don't put garbage in the water. Bag it, secure it, and take it ashore for proper disposal.
 - Keep a bag for garbage, secure it from blowing away, and carry the rubbish ashore.
 - Fishing gear that is lost should be reported where required.
 
 ## Sewage
 
-- Don't discharge ==untreated sewage== close to shore, in harbours or marinas, or in other sensitive areas.
+- Don't discharge ==untreated sewage== within 3 nautical miles of land, in harbours or marinas, or in other sensitive areas.
 - Use ==pump-out stations== for holding tanks.
 - If you have a marine toilet, know whether it discharges overboard and where that is allowed.
 - Check the current rules for your area.
 
 ## A BC example
 
-At a fuel dock in Nanaimo, you place an absorbent pad under the filler, fill slowly and stop when the pump clicks. A few drops spill and you wipe them up at once. Your garbage goes into a bag and then into the marina bin.
+At a fuel dock in Nanaimo, you place an absorbent pad under the filler, fill slowly and stop when you hear the air at the vent change, before the tank is full. A few drops spill and you wipe them up at once. Your garbage goes into a bag and then into the marina bin.
 
 ## Common mistakes
 

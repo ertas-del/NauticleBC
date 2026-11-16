@@ -59,7 +59,7 @@ Learn the local patterns for your area, and expect more wind near headlands and 
 
 ## Icing
 
-Sea spray freezes onto the vessel when the air temperature is well below freezing and the wind is strong. The ice adds ==top weight==, raises the centre of gravity, and reduces freeboard. It builds up fast on small boats. Icing is a serious cause of capsizing. Avoid it by staying out of areas with freezing spray, and remove ice carefully if you get it.
+Sea spray freezes onto the vessel when the air temperature is below about −2 °C and the wind is strong. The ice adds ==top weight==, raises the centre of gravity, and reduces freeboard. It builds up fast on small boats. Icing is a serious cause of capsizing. Avoid it by staying out of areas with freezing spray, and remove ice carefully if you get it.
 
 ## Weather and loading
 
@@ -72,7 +72,7 @@ The same load is riskier in rough weather. If bad weather is forecast:
 
 ## A BC example
 
-The marine forecast for Johnstone Strait says northwest winds 15 knots. You expect more because the strait funnels the wind. At the narrow part the wind is gusting to 30 knots against the ebb tide. You time your passage to go with the tide and keep a reserve of fuel.
+The marine forecast for Johnstone Strait says northwest winds 15 knots. You expect more because the strait funnels the wind. At the narrow part the wind is gusting to 30 knots against the ebb tide. You time your passage for slack water or the flood, when the current runs with the wind, and keep a reserve of fuel.
 
 ## Common mistakes
 

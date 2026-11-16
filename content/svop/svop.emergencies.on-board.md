@@ -12,9 +12,9 @@ objectives:
 prerequisites: []
 estimated_minutes: 18
 key_facts:
-  - "In any emergency: protect life first, get lifejackets on, stop the problem, then call for help."
+  - "In any emergency: protect life first, get lifejackets on, call for help early, and stop the problem."
   - "Grounding: stop, check for damage and flooding, and consider the tide before trying to get off."
-  - "Fire: stop the boat, turn so the fire is downwind, shut off fuel, and use an extinguisher at the base of the flames."
+  - "Fire: slow down and turn so the wind blows the fire and smoke away from the people, then stop, shut off fuel, and use an extinguisher at the base of the flames."
 figures:
   - id: svmo-fire-triangle
     caption: "Fire triangle"
@@ -68,7 +68,7 @@ Most emergencies are survived by quick, calm, sensible action. Think, act, and c
 {{figure:svmo-fire-triangle}}
 
 - ==Raise the alarm== and tell everyone.
-- ==Stop the boat== and, if you can, turn so that the ==fire is downwind==.
+- ==Slow down== and, if you can, turn so that the ==fire is downwind== of the people, then ==stop the boat==. You need some way on to turn.
 - ==Shut off fuel== and power.
 - Use an ==extinguisher at the base of the flames==. Don't use water on a fuel or electrical fire.
 - Send a ==Mayday== if the fire is not under control.

@@ -48,10 +48,10 @@ Memory hook:
 
 ## Card 1: Plot a position
 
-**Position:** 48° 24.5′ N, 123° 22.0′ W
+**Position:** 48° 14.5′ N, 123° 27.0′ W
 
-1. Find 48° 24.5′ on the **side** scale. Draw a faint line across.
-2. Find 123° 22.0′ on the **bottom** scale. Draw a faint line up.
+1. Find 48° 14.5′ on the **side** scale. Draw a faint line across.
+2. Find 123° 27.0′ on the **bottom** scale. Draw a faint line up.
 3. Where the lines cross is the position.
 4. Mark it with a small circle. Write the time.
 

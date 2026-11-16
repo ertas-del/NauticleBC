@@ -52,7 +52,7 @@
         "svop"
       ],
       "difficulty": "medium",
-      "stem": "A strong wind (small craft) warning applies to winds of about:",
+      "stem": "A strong wind warning applies to winds of:",
       "options": [
         "1 to 12 knots",
         "50 to 60 knots",
@@ -60,7 +60,7 @@
         "Over 64 knots"
       ],
       "correct_index": 2,
-      "explanation": "Dangerous to small craft.",
+      "explanation": "Strong wind warning: 20 to 33 knots. Gale starts at 34.",
       "source_ids": [
         "tp14692",
         "tc-svop"
