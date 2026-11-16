@@ -16,6 +16,10 @@ key_facts:
   - "The List of Lights, Buoys and Fog Signals describes aids to navigation. The Canadian Tide and Current Tables give tide times, heights and currents. Notices to Mariners give corrections and warnings."
   - "Depth = charted depth + height of tide. Under-keel clearance = depth minus draught."
   - "Plan to pass tidal rapids and narrows near slack water."
+figures:
+  - id: svop-chart-datum
+    caption: "Chart datum, charted depth and height of tide"
+    alt: "Side view of the sea bed. Charted depth is measured down from chart datum. A rock that uncovers has a drying height measured up from chart datum. Height of tide is measured up from chart datum to the water level. Depth of water is charted depth plus height of tide. A boat shows its draught and the clearance under its keel."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -42,6 +46,8 @@ A tide table gives, for each day:
 To find the tide height at a time between high and low water you use a ==rule of twelfths== or the interpolation table in the book. In the SVOP syllabus you need the principle: depth changes with the tide, and you need enough water under the keel.
 
 ## Working out depth
+
+{{figure:svop-chart-datum}}
 
 > Depth of water = charted depth + height of tide
 

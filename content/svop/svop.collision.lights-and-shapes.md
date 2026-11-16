@@ -16,6 +16,16 @@ key_facts:
   - "Sidelights: green on the starboard side, red on the port side. Stern light: white, showing aft. Masthead light: white, showing forward."
   - "A small power-driven vessel under 12 m may show one all-round white light with sidelights instead of a masthead and stern light."
   - "A vessel at anchor shows an all-round white light and by day a black ball."
+figures:
+  - id: svop-light-arcs
+    caption: "Where each navigation light shows"
+    alt: "Top view of a power-driven vessel with coloured wedges for each light. Masthead light, white, 225 degrees from right ahead to 22.5 degrees abaft the beam on each side. Starboard sidelight, green, 112.5 degrees on the starboard side. Port sidelight, red, 112.5 degrees on the port side. Stern light, white, 135 degrees centred on right astern."
+  - id: svop-night-lights
+    caption: "What you see at night"
+    alt: "Six night views: a small power-driven vessel from ahead, a larger power-driven vessel from her starboard side, a vessel at anchor with one all-round white light, a trawler with green over white, a vessel not under command with red over red, and a vessel restricted in her ability to manoeuvre with red, white, red."
+  - id: svop-day-shapes
+    caption: "Day shapes"
+    alt: "Black shapes hung in a vertical line: one ball for at anchor, two balls for not under command, ball diamond ball for restricted in ability to manoeuvre, three balls for aground, two cones with points together for fishing, and one cone point down for a sailing vessel also under engine."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -26,6 +36,8 @@ At night, and in reduced visibility, lights are how other vessels know what you 
 
 ## Basic lights
 
+{{figure:svop-light-arcs}}
+
 - ==Sidelights==: a ==green== light on the starboard side and a ==red== light on the port side. Each shows from straight ahead to 22.5 degrees abaft the beam.
 - ==Stern light==: a ==white== light showing aft.
 - ==Masthead light==: a ==white== light showing forward, over the centreline.
@@ -33,7 +45,7 @@ At night, and in reduced visibility, lights are how other vessels know what you 
 
 ## Small power-driven vessel, underway
 
-- Under 12 m: a ==masthead light== (or one ==all-round white light==) and ==sidelights==. Sidelights may be in one lantern on the centreline.
+- Under 12 m: either a ==masthead light==, ==sidelights== and a ==stern light==, or ==one all-round white light== with ==sidelights== (the all-round white takes the place of the masthead and stern lights). Sidelights may be in one lantern on the centreline.
 - 12 m and over: a ==masthead light==, ==sidelights== and a ==stern light==.
 
 What you see tells you what the other boat is doing:
@@ -52,6 +64,10 @@ A sailing vessel under sail shows sidelights and a stern light (for under 20 m, 
 An anchored vessel shows an ==all-round white light== where it can be seen from all directions, and by day a ==black ball== in the bows. Very small vessels at anchor, not in or near a narrow channel or anchorage, may not need to show lights. Always check the regulations for your vessel.
 
 ## Other signals to recognise
+
+{{figure:svop-night-lights}}
+
+{{figure:svop-day-shapes}}
 
 - ==Towing==: two white masthead lights in a vertical line (for tows under 200 m), plus sidelights, a stern light and a yellow towing light above the stern light.
 - ==Vessel being towed==: sidelights and a stern light.

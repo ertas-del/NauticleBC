@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<radialGradient id="night" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#16325a"/><stop offset="1" stop-color="#0b1d36"/></radialGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect width="720" height="720" rx="0" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="720" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Light arcs</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Each light shows only over its own arc, measured from right ahead.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<circle cx="360" cy="388" r="200" fill="url(#night)" filter="url(#s)"/>
+<path d="M360.0,388.0 L184.5,460.7 A190,190 0 1 1 535.5,460.7 Z" fill="#ffffff" fill-opacity="0.3" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2"/>
+<path d="M360.0,388.0 L498.6,445.4 A150,150 0 0 1 221.4,445.4 Z" fill="#ffffff" fill-opacity="0.3" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2"/>
+<path d="M360.0,388.0 L360.0,270.0 A118,118 0 0 1 469.0,433.2 Z" fill="#16a34a" fill-opacity="0.9" stroke="#4ade80" stroke-width="2"/>
+<path d="M360.0,388.0 L251.0,433.2 A118,118 0 0 1 360.0,270.0 Z" fill="#dc2626" fill-opacity="0.9" stroke="#f87171" stroke-width="2"/>
+<line x1="146.0" y1="388.0" x2="574.0" y2="388.0" stroke="#9fb3c8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<line x1="470.9" y1="433.9" x2="559.6" y2="470.7" stroke="#9fb3c8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M570.0,388.0 A210,210 0 0 1 554.0,468.4" fill="none" stroke="#334e68" stroke-width="2"/>
+<line x1="249.1" y1="433.9" x2="160.4" y2="470.7" stroke="#9fb3c8" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M150.0,388.0 A210,210 0 0 0 166.0,468.4" fill="none" stroke="#334e68" stroke-width="2"/>
+<text x="582.0" y="438.0" font-size="17" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">22.5°</text>
+<text x="582.0" y="458.0" font-size="15" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">abaft the beam</text>
+<text x="138.0" y="438.0" font-size="17" text-anchor="end" fill="#334e68" font-weight="bold" font-family="Liberation Sans">22.5°</text>
+<text x="138.0" y="458.0" font-size="15" text-anchor="end" fill="#627d98" font-weight="normal" font-family="Liberation Sans">abaft the beam</text>
+<text x="582.0" y="380.0" font-size="15" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">beam</text>
+<text x="138.0" y="380.0" font-size="15" text-anchor="end" fill="#627d98" font-weight="normal" font-family="Liberation Sans">beam</text>
+<path d="M360,348 C372,360 373,378 373,392 L372,422 L348,422 L347,392 C347,378 348,360 360,348 Z" fill="#cbd5e1" stroke="#0b1d36" stroke-width="2"/>
+<circle cx="360" cy="370" r="6" fill="#ffffff" filter="url(#glow)"/><circle cx="360" cy="370" r="3.5" fill="#ffffff" stroke="#0b1d36" stroke-width="1"/>
+<circle cx="373" cy="386" r="6" fill="#16a34a" filter="url(#glow)"/><circle cx="373" cy="386" r="3.5" fill="#16a34a" stroke="#0b1d36" stroke-width="1"/>
+<circle cx="347" cy="386" r="6" fill="#dc2626" filter="url(#glow)"/><circle cx="347" cy="386" r="3.5" fill="#dc2626" stroke="#0b1d36" stroke-width="1"/>
+<circle cx="360" cy="422" r="6" fill="#ffffff" filter="url(#glow)"/><circle cx="360" cy="422" r="3.5" fill="#ffffff" stroke="#0b1d36" stroke-width="1"/>
+<text x="360.0" y="136.0" font-size="19" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Masthead light</text>
+<text x="360.0" y="158.0" font-size="17" text-anchor="middle" fill="#486581" font-weight="bold" font-family="Liberation Sans">white, 225°</text>
+<line x1="360.0" y1="166.0" x2="360.0" y2="223.0" stroke="#9fb3c8" stroke-width="1.8" />
+<text x="40.0" y="244.0" font-size="19" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Port</text>
+<text x="40.0" y="266.0" font-size="19" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">sidelight</text>
+<text x="40.0" y="288.0" font-size="17" text-anchor="start" fill="#b91c1c" font-weight="bold" font-family="Liberation Sans">red, 112.5°</text>
+<line x1="140.0" y1="280.0" x2="290.0" y2="330.0" stroke="#9fb3c8" stroke-width="1.8" />
+<text x="696.0" y="244.0" font-size="19" text-anchor="end" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">Starboard</text>
+<text x="696.0" y="266.0" font-size="19" text-anchor="end" fill="#15803d" font-weight="bold" font-family="Liberation Sans">sidelight</text>
+<text x="696.0" y="288.0" font-size="17" text-anchor="end" fill="#15803d" font-weight="bold" font-family="Liberation Sans">green, 112.5°</text>
+<line x1="582.0" y1="280.0" x2="430.0" y2="330.0" stroke="#9fb3c8" stroke-width="1.8" />
+<line x1="360.0" y1="488.0" x2="360.0" y2="612.0" stroke="#9fb3c8" stroke-width="1.8" />
+<text x="360.0" y="634.0" font-size="19" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Stern light</text>
+<text x="360.0" y="656.0" font-size="17" text-anchor="middle" fill="#486581" font-weight="bold" font-family="Liberation Sans">white, 135°</text>
+<text x="360.0" y="692.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

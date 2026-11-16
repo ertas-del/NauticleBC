@@ -16,6 +16,10 @@ key_facts:
   - "Red right returning: when entering from sea or going upstream, keep red buoys on your right (starboard) and green buoys on your left (port)."
   - "Red buoys are conical (nun) with even numbers and red lights. Green buoys are flat-topped (can) with odd numbers and green lights."
   - "Day beacons: red triangle for starboard and green square for port."
+figures:
+  - id: svop-lateral-buoys
+    caption: "Red right returning"
+    alt: "A channel seen from above, with an arrow from the open sea toward the harbour. Going in, green can-shaped port-hand buoys with odd numbers and green lights are on the left, and red cone-shaped starboard-hand buoys with even numbers and red lights are on the right."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -29,6 +33,8 @@ Buoys and beacons are the road signs of the water. The lateral system marks the 
 The system assumes you are ==returning from sea== or going ==upstream== (toward the head of a channel, harbour or river). Going the other way, everything flips.
 
 ## The rule: red right returning
+
+{{figure:svop-lateral-buoys}}
 
 - ==Red== buoys are kept on your ==right (starboard)== side when going upstream.
 - ==Green== buoys are kept on your ==left (port)== side.

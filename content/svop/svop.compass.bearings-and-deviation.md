@@ -16,6 +16,10 @@ key_facts:
   - "Variation is the angle between true north and magnetic north. Deviation is the error caused by the boat's own magnetism and equipment."
   - "True to compass: apply variation then deviation, West is added and East is subtracted. Compass to true: add East (CADET)."
   - "A deviation card lists the error on a range of headings. Make it by comparing the compass with known bearings."
+figures:
+  - id: svop-compass-tvmdc
+    caption: "True, variation, magnetic, deviation, compass"
+    alt: "A ladder from True through Variation to Magnetic, then Deviation to Compass, with the rule for each direction: going from compass to true, add easterly errors and subtract westerly ones, and the opposite going down. A worked example runs down the side."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -47,6 +51,8 @@ The compass points to ==magnetic north==, not ==true north==. The angle between 
 ==Deviation== is an additional error from the boat's own iron, engines and electronics. It changes with the heading. A good installation keeps it small.
 
 ## Converting directions
+
+{{figure:svop-compass-tvmdc}}
 
 The sequence is: ==True – Variation – Magnetic – Deviation – Compass==. Remember it as ==TVMDC==.
 

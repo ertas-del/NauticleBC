@@ -17,6 +17,10 @@ key_facts:
   - "Weight added high up raises the centre of gravity and makes a boat more tender. Stow heavy gear low and near the centreline."
   - "Free surface effect: a part-full tank or water on deck slops from side to side and makes a boat less stable."
   - "Reserve buoyancy is the watertight volume above the waterline. Overloading cuts freeboard and reserve buoyancy."
+figures:
+  - id: svop-stability-gm
+    caption: "G, B, M and the righting arm"
+    alt: "Cross-section of a boat heeled over. G, the centre of gravity, is on the centreline. B, the centre of buoyancy, has moved toward the low side. Weight acts down through G and buoyancy up through B, and the distance between them, GZ, is the righting arm that brings the boat back up. M, the metacentre, is above G. A second view shows that raising weight moves G up toward M and shortens the righting arm."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -26,6 +30,8 @@ review_status: needs_expert_review
 Stability is a boat's ability to come back upright when something tips it. On small boats the biggest danger is overloading and poor loading. This lesson is about what you can see and do, not the maths.
 
 ## Weight and where it goes
+
+{{figure:svop-stability-gm}}
 
 - A boat's weight acts through a point called the ==centre of gravity==.
 - ==Heavy weight placed high== raises that point, which makes the boat tender and slower to recover.

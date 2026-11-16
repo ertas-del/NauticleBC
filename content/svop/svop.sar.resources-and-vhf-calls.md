@@ -17,6 +17,10 @@ key_facts:
   - "VHF channel 16 is for distress, safety and calling. Channel 70 is for digital selective calling (DSC)."
   - "Mayday means grave and imminent danger. Pan-Pan means urgency. S\u00e9curit\u00e9 means a safety message."
   - "If you hear a Mayday, listen, write it down, and help if you can. If no one answers, acknowledge it."
+figures:
+  - id: svop-mayday-card
+    caption: "Mayday card: what to say"
+    alt: "A numbered card to read aloud on VHF channel 16, after pressing the DSC distress button if fitted: Mayday three times, this is the boat's name three times and call sign, Mayday and the boat's name, position, what is wrong, help needed, number of people on board, other useful information, then over, and listen."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -60,6 +64,8 @@ Help is available, but it needs to be asked for in the right way. Know who to ca
 Routine calls do not use these prefixes.
 
 ## Sending a Mayday
+
+{{figure:svop-mayday-card}}
 
 Switch to channel 16 (or send a DSC alert) and say:
 

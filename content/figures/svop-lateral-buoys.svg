@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 780" width="720" height="780" role="img">
+<title>Lateral buoys: red right returning</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+</defs>
+<rect width="720" height="780" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="780" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Lateral buoys: red right returning</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Going upstream or in from sea, keep red to starboard and green to port.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="118" width="640" height="352" rx="12" fill="url(#sea)"/>
+<path d="M40,118 L150,118 C175,220 140,320 170,470 L40,470 Z" fill="#e9dcc0" stroke="#b8a37a" stroke-width="2"/>
+<path d="M680,118 L570,118 C545,220 585,320 555,470 L680,470 Z" fill="#e9dcc0" stroke="#b8a37a" stroke-width="2"/>
+<text x="95" y="290" font-size="16" text-anchor="middle" fill="#7c6a46" font-family="Liberation Sans">Land</text>
+<text x="625" y="290" font-size="16" text-anchor="middle" fill="#7c6a46" font-family="Liberation Sans">Land</text>
+<text x="360" y="144" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Harbour / upstream</text>
+<text x="360" y="458" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Open sea</text>
+<line x1="360" y1="398" x2="360" y2="166" stroke="#0f766e" stroke-width="7" marker-end="url(#ah)"/>
+<text x="360" y="430" font-size="17" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Returning from sea</text>
+<rect x="209.7" y="384.0" width="30.6" height="36.0" rx="1.8" fill="#16a34a" stroke="#111827" stroke-width="1.35"/>
+<path d="M205,420 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="256" y="408" font-size="20" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">1</text>
+<rect x="209.7" y="279.0" width="30.6" height="36.0" rx="1.8" fill="#16a34a" stroke="#111827" stroke-width="1.35"/>
+<path d="M205,315 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="256" y="303" font-size="20" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">3</text>
+<rect x="209.7" y="169.0" width="30.6" height="36.0" rx="1.8" fill="#16a34a" stroke="#111827" stroke-width="1.35"/>
+<path d="M205,205 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="256" y="193" font-size="20" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">5</text>
+<path d="M478.8,400 L491.112,358.6 L498.888,358.6 L511.2,400 Z" fill="#dc2626" stroke="#111827" stroke-width="1.35" stroke-linejoin="round"/>
+<path d="M475,400 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="464" y="388" font-size="20" text-anchor="end" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">2</text>
+<path d="M478.8,295 L491.112,253.6 L498.888,253.6 L511.2,295 Z" fill="#dc2626" stroke="#111827" stroke-width="1.35" stroke-linejoin="round"/>
+<path d="M475,295 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="464" y="283" font-size="20" text-anchor="end" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">4</text>
+<path d="M478.8,185 L491.112,143.6 L498.888,143.6 L511.2,185 Z" fill="#dc2626" stroke="#111827" stroke-width="1.35" stroke-linejoin="round"/>
+<path d="M475,185 q10,-4 20,0 t20,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<text x="464" y="173" font-size="20" text-anchor="end" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">6</text>
+<rect x="40" y="498" width="310" height="230" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="52" y="688" width="116" height="24" rx="4" fill="#a9d8ea"/>
+<rect x="107" y="546" width="6" height="70" fill="#475569"/>
+<circle cx="110" cy="542" r="20" fill="#16a34a" fill-opacity="0.22"/>
+<circle cx="110" cy="542" r="9" fill="#16a34a" stroke="#111827" stroke-width="1.5"/>
+<rect x="70" y="608" width="80" height="80" rx="3" fill="#16a34a" stroke="#111827" stroke-width="2"/>
+<text x="110" y="658" font-size="30" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">3</text>
+<text x="185" y="534" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Port hand</text>
+<text x="185" y="568" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Green</text>
+<text x="185" y="596" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Can (flat top)</text>
+<text x="185" y="624" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Odd number</text>
+<text x="185" y="652" font-size="17" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">Green light</text>
+<text x="185" y="684" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">On your left</text>
+<text x="185" y="706" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">going upstream</text>
+<rect x="370" y="498" width="310" height="230" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="382" y="688" width="116" height="24" rx="4" fill="#a9d8ea"/>
+<rect x="437" y="546" width="6" height="70" fill="#475569"/>
+<circle cx="440" cy="542" r="20" fill="#dc2626" fill-opacity="0.22"/>
+<circle cx="440" cy="542" r="9" fill="#dc2626" stroke="#111827" stroke-width="1.5"/>
+<path d="M396,688 L432,602 L448,602 L484,688 Z" fill="#dc2626" stroke="#111827" stroke-width="2" stroke-linejoin="round"/>
+<text x="440" y="668" font-size="30" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">4</text>
+<text x="515" y="534" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Starboard hand</text>
+<text x="515" y="568" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Red</text>
+<text x="515" y="596" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Cone (nun)</text>
+<text x="515" y="624" font-size="17" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Even number</text>
+<text x="515" y="652" font-size="17" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Red light</text>
+<text x="515" y="684" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">On your right</text>
+<text x="515" y="706" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">going upstream</text>
+<text x="360" y="752" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>
