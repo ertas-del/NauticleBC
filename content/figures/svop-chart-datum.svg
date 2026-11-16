@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" width="720" height="760" role="img">
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="seaG" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#a5f3fc"/><stop offset="1" stop-color="#0e7490"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="context-stroke"/>
+</marker>
+</defs>
+<rect width="720" height="760" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="760" fill="#0f766e"/>
+<text x="40.0" y="52.0" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Chart datum, depth and tide</text>
+<text x="40.0" y="82.0" font-size="18" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Soundings go down from chart datum. Tide heights go up from it.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="10" y="240" width="710" height="340" fill="url(#seaG)" opacity="0.85"/>
+<path d="M10,540 L585,540 C615,540 630,420 650,340 C658,305 668,290 680,290 C695,292 708,340 720,400 L720,580 L10,580 Z" fill="#d6c7a1" stroke="#a8956a" stroke-width="2"/>
+<line x1="10.0" y1="240.0" x2="720.0" y2="240.0" stroke="#0e7490" stroke-width="3" stroke-linecap="butt"/>
+<line x1="10.0" y1="350.0" x2="720.0" y2="350.0" stroke="#102a43" stroke-width="2.5" stroke-linecap="butt" stroke-dasharray="12 8"/>
+<text x="40.0" y="340.0" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Chart datum (CD)</text>
+<text x="480.0" y="228.0" font-size="17" text-anchor="start" fill="#0e7490" font-weight="bold" font-family="Liberation Sans">Water level now</text>
+<path d="M125,210 L310,210 L295,258 Q255,290 215,290 Q165,290 135,250 Z" fill="#ffffff" stroke="#102a43" stroke-width="2.5"/>
+<rect x="175" y="178" width="70" height="32" rx="4" fill="#e2e8f0" stroke="#102a43" stroke-width="2"/>
+<line x1="245.0" y1="290.0" x2="335.0" y2="290.0" stroke="#102a43" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4 4"/>
+<line x1="327.0" y1="240.0" x2="327.0" y2="290.0" stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="339.0" y="272.0" font-size="17" text-anchor="start" fill="#b91c1c" font-weight="bold" font-family="Liberation Sans">Draught</text>
+<line x1="215.0" y1="290.0" x2="215.0" y2="540.0" stroke="#b91c1c" stroke-width="2.5" stroke-linecap="round" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="203.0" y="430.0" font-size="17" text-anchor="end" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">Under-keel</text>
+<text x="203.0" y="452.0" font-size="17" text-anchor="end" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">clearance</text>
+<line x1="420.0" y1="240.0" x2="420.0" y2="540.0" stroke="#102a43" stroke-width="3" stroke-linecap="round" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="408.0" y="460.0" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans" transform="rotate(-90 408.0 460.0)">Depth of water</text>
+<line x1="475.0" y1="240.0" x2="475.0" y2="350.0" stroke="#c05621" stroke-width="3" stroke-linecap="round" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="487.0" y="290.0" font-size="17" text-anchor="start" fill="#7c2d12" font-weight="bold" font-family="Liberation Sans">Height</text>
+<text x="487.0" y="311.0" font-size="17" text-anchor="start" fill="#7c2d12" font-weight="bold" font-family="Liberation Sans">of tide</text>
+<line x1="475.0" y1="350.0" x2="475.0" y2="540.0" stroke="#fde68a" stroke-width="3" stroke-linecap="round" marker-end="url(#ah)" marker-start="url(#ah)"/>
+<text x="487.0" y="440.0" font-size="17" text-anchor="start" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">Charted depth</text>
+<text x="487.0" y="461.0" font-size="17" text-anchor="start" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">(sounding)</text>
+<line x1="678.0" y1="350.0" x2="678.0" y2="291.0" stroke="#7c2d12" stroke-width="3" stroke-linecap="round" marker-end="url(#ah)"/>
+<line x1="684.0" y1="180.0" x2="679.0" y2="284.0" stroke="#7c2d12" stroke-width="1.5" stroke-linecap="round"/>
+<text x="696.0" y="152.0" font-size="17" text-anchor="end" fill="#7c2d12" font-weight="bold" font-family="Liberation Sans">Drying height</text>
+<text x="696.0" y="173.0" font-size="16" text-anchor="end" fill="#7c2d12" font-weight="normal" font-family="Liberation Sans">(up from CD)</text>
+<text x="680.0" y="400.0" font-size="16" text-anchor="middle" fill="#5b4a26" font-weight="bold" font-family="Liberation Sans">Rock</text>
+<rect x="40" y="590" width="640" height="110" rx="12" fill="#ffffff" stroke="#d9e2ec" stroke-width="1.5" filter="url(#s)"/>
+<text x="60.0" y="622.0" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Depth of water = charted depth + height of tide</text>
+<text x="60.0" y="652.0" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Under-keel clearance = depth of water − draught</text>
+<text x="60.0" y="682.0" font-size="16" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Canadian CD: lower low water, large tide (formerly lowest normal tide).</text>
+<text x="360.0" y="736.0" font-size="14" text-anchor="middle" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

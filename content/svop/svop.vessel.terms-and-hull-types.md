@@ -16,6 +16,10 @@ key_facts:
   - "Port is the left side facing forward. Starboard is the right. Bow is the front, stern is the back."
   - "A displacement hull pushes water aside and is limited in speed. A planing hull rises up and skims the water at speed."
   - "A catamaran has two narrow hulls and is wide and stable."
+figures:
+  - id: svop-boat-terms
+    caption: "Parts of a boat and the directions on board"
+    alt: "A small workboat drawn from the side and from above. Side view: bow at the front, stern and transom at the back, gunwale along the top edge, the waterline, freeboard measured from the waterline up to the deck edge, draught measured from the waterline down to the bottom of the keel, and length overall. Top view: port on the left and starboard on the right when facing forward, forward and aft arrows, beam across the widest part, and amidships in the middle."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -25,6 +29,8 @@ review_status: needs_expert_review
 Seafarers use fixed words so that instructions mean the same thing to everyone. Learn them first. They appear in every later lesson.
 
 ## Directions and locations
+
+{{figure:svop-boat-terms}}
 
 - ==Bow==: the front of the vessel.
 - ==Stern==: the back.

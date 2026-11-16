@@ -17,6 +17,16 @@ key_facts:
   - "Every vessel must keep a proper lookout by sight and hearing and by all available means at all times."
   - "Risk of collision exists if the bearing of an approaching vessel does not change appreciably. If in doubt, assume it exists."
   - "Head-on: both alter course to starboard. Crossing: the vessel that has the other on her starboard side gives way. Overtaking: the overtaking vessel keeps clear."
+figures:
+  - id: head-on-situation
+    caption: "Head-on: both alter to starboard"
+    alt: "Two power-driven vessels meeting nearly end on. Each sees the other's masthead lights in line and both sidelights. Both alter course to starboard so they pass port to port."
+  - id: crossing-situation
+    caption: "Crossing: the vessel with the other on her starboard side gives way"
+    alt: "Two power-driven vessels crossing. The vessel that has the other on her own starboard side keeps out of the way, avoids crossing ahead, and passes astern. The other vessel stands on."
+  - id: overtaking-situation
+    caption: "Overtaking sector"
+    alt: "A shaded sector behind a vessel, starting more than 22.5 degrees abaft her beam on either side. A vessel coming up from inside this sector is overtaking and keeps clear, passing on either side of the vessel ahead."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -51,6 +61,12 @@ Watch the ==compass bearing== of an approaching vessel. If it stays the same whi
 Act ==early==, make a ==large enough== change for the other vessel to see, and keep it up until the vessel is clear. Slow or stop if needed. Avoid a series of small alterations.
 
 ## The three situations
+
+{{figure:head-on-situation}}
+
+{{figure:crossing-situation}}
+
+{{figure:overtaking-situation}}
 
 **Head-on.** Two power-driven vessels meeting on reciprocal or nearly reciprocal courses: ==both alter course to starboard== and pass port to port.
 

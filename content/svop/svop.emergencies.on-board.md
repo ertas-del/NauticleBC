@@ -15,6 +15,10 @@ key_facts:
   - "In any emergency: protect life first, get lifejackets on, stop the problem, then call for help."
   - "Grounding: stop, check for damage and flooding, and consider the tide before trying to get off."
   - "Fire: stop the boat, turn so the fire is downwind, shut off fuel, and use an extinguisher at the base of the flames."
+figures:
+  - id: svmo-fire-triangle
+    caption: "Fire triangle"
+    alt: "A triangle with heat, fuel and oxygen on its sides. A fire needs all three; take any one away and it goes out."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -60,6 +64,8 @@ Most emergencies are survived by quick, calm, sensible action. Think, act, and c
 - ==Send a Mayday== if the vessel is in danger. Put on lifejackets.
 
 ## Fire
+
+{{figure:svmo-fire-triangle}}
 
 - ==Raise the alarm== and tell everyone.
 - ==Stop the boat== and, if you can, turn so that the ==fire is downwind==.

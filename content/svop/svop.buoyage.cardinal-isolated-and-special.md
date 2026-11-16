@@ -17,6 +17,10 @@ key_facts:
   - "Cardinal buoys are black and yellow and show the side on which the safe water lies, named for the compass point."
   - "An isolated danger mark is black with a red band and two black balls. You can pass either side but stay well clear."
   - "Special purpose buoys are yellow and mark things like cables, anchorages or restricted areas."
+figures:
+  - id: svop-cardinal-buoys
+    caption: "Cardinal buoys around a danger"
+    alt: "A danger in the middle with four buoys around it. North: black over yellow, two cones pointing up, continuous quick flashes. East: black yellow black, cones base to base, three flashes. South: yellow over black, cones pointing down, six flashes and a long flash. West: yellow black yellow, cones point to point, nine flashes. Pass on the side the buoy is named for. All lights white."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -26,6 +30,8 @@ review_status: needs_expert_review
 Beyond lateral marks, there are other kinds of marks that warn you of specific dangers and show where it is safe to pass.
 
 ## Cardinal marks
+
+{{figure:svop-cardinal-buoys}}
 
 A ==cardinal mark== is named for a compass direction (north, east, south, west). It tells you the safe water lies on that side of the mark. Cardinal marks are ==black and yellow== and have distinct topmarks of two cones.
 

@@ -16,6 +16,10 @@ key_facts:
   - "Approach a dock slowly, into the wind or current where possible, because you have more control."
   - "Anchor scope is typically 5 to 7 times the depth, with chain or a chain leader."
   - "A good anchorage has good holding ground, shelter, enough swinging room and no cables or obstructions."
+figures:
+  - id: svop-anchor-scope
+    caption: "Scope: length of rode against depth"
+    alt: "Side view of a boat at anchor, with the rode running from the bow to the anchor on the sea bed, the height from the bow roller to the sea bed (depth at high water plus bow height) and the length of rode marked. Scope is the length of rode divided by that height, usually 5 to 7 times, with chain or a chain leader."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -50,6 +54,8 @@ Most damage to small boats happens at low speed around docks. Good boat handling
 
 ## Anchoring
 
+{{figure:svop-anchor-scope}}
+
 **Choosing a spot.** A good anchorage has:
 
 - ==Good holding ground== (mud, sand or clay, not rock or weed).
@@ -59,7 +65,7 @@ Most damage to small boats happens at low speed around docks. Good boat handling
 
 **Types of anchor.** ==Fluke (Danforth)== types hold well in sand and mud. ==Plough (CQR)== and ==Bruce== types suit mixed bottoms. A ==grapnel== suits rocky bottoms.
 
-**Setting.** Approach slowly into the wind or current. Stop, lower the anchor to the bottom (don't throw it), then back down slowly while paying out the ==scope==, which is usually ==5 to 7 times the water depth== plus the height of the bow. Check it is holding by taking ==bearings== or marks ashore.
+**Setting.** Approach slowly into the wind or current. Stop, lower the anchor to the bottom (don't throw it), then back down slowly while paying out the ==scope==, usually ==5 to 7 times== the height from the bow roller to the sea bed (the ==water depth plus the height of the bow==). Check it is holding by taking ==bearings== or marks ashore.
 
 **Riding.** Keep an anchor watch if the weather changes. If the boat drags, lengthen the scope, re-set the anchor or move.
 

@@ -16,6 +16,10 @@ key_facts:
   - "A short blast lasts about one second. A prolonged blast lasts four to six seconds."
   - "One short blast: I am altering course to starboard. Two: to port. Three: my engines are astern. Five or more short blasts: danger or doubt."
   - "A power-driven vessel making way in fog sounds one prolonged blast at intervals of no more than two minutes."
+figures:
+  - id: svop-sound-signals
+    caption: "Sound signals card"
+    alt: "A card of whistle signals drawn as bars, short for about one second and long for four to six seconds. One short: altering to starboard. Two short: altering to port. Three short: operating astern propulsion. Five or more short: doubt or danger. One prolonged: nearing a bend. In restricted visibility, a power-driven vessel making way sounds one prolonged at least every two minutes, and one stopped in the water sounds two prolonged."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -32,6 +36,8 @@ Sound signals tell others what you are about to do and warn them of danger. In f
 A vessel of 12 m or more must carry a whistle (and a bell if 20 m or more). Under 12 m you must still be able to make some ==efficient sound signal==. An air horn or a hand-held horn is fine.
 
 ## Manoeuvring signals (vessels in sight of each other)
+
+{{figure:svop-sound-signals}}
 
 | Signal | Meaning |
 |---|---|
