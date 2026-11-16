@@ -46,9 +46,11 @@ Memory phrase: ==red, right, returning==. Going out to sea, the opposite is true
 | | Starboard-hand (red) | Port-hand (green) |
 |---|---|---|
 | Colour | ==Red== | ==Green== |
-| Shape | ==Conical (nun)== | ==Flat-topped (can)== |
+| Shape (unlighted buoys) | ==Conical (nun)== | ==Flat-topped (can)== |
 | Numbers | ==Even== | ==Odd== |
 | Light | ==Red== | ==Green== |
+
+An unlighted red buoy has a pointed top and an unlighted green buoy has a flat top. Lighted buoys are often pillar or spar shaped, so go by colour, number and light.
 
 Numbers increase as you go upstream. The numbers help you match the buoy to the chart.
 

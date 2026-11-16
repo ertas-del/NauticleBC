@@ -34,7 +34,7 @@ Most damage to small boats happens at low speed around docks. Good boat handling
 - ==Rudder==: only works when water flows past it. More effective with propeller thrust over it.
 - ==Outboard and stern drive==: steer by turning the whole thrust direction. Excellent control, but easy to over-steer.
 - ==Jet drive==: steers by redirecting thrust. ==No thrust, no steering== at idle.
-- ==Pivot point==: a vessel turns around a point about one third from the bow. The stern swings out as the bow turns in.
+- ==Pivot point==: a vessel turns around a point about one third from the bow when going ahead. Going astern it moves aft. The stern swings out as the bow turns in.
 - ==Turning circle==: the path of a full-rudder turn. Know it for your boat at different speeds.
 
 ## Wind and current

@@ -30,8 +30,8 @@ The Canada Shipping Act, 2001 (CSA 2001) is Canada's main shipping law. It cover
 - ==Fishing Vessel Safety Regulations==: safety rules for fishing vessels.
 - ==Marine Personnel Regulations==: certificates, crew requirements and training.
 - ==Collision Regulations==: rules of the road, including Canadian modifications.
-- ==Prevention of Pollution from Ships and for Dangerous Chemicals Regulations==: oil, garbage and sewage.
-- ==Vessel Certificates Regulations==, and ==Casualty Reporting Regulations== for reporting accidents.
+- ==Vessel Pollution and Dangerous Chemicals Regulations==: oil, garbage (including plastics) and sewage, and reporting pollution.
+- ==Vessel Certificates Regulations==, the ==Shipping Casualties Reporting Regulations==, and the ==Transportation Safety Board Regulations== for reporting accidents.
 
 Which one applies depends on the vessel's size, type and use. Always check which apply to your vessel.
 
@@ -39,7 +39,7 @@ Which one applies depends on the vessel's size, type and use. Always check which
 
 Small vessels must carry safety equipment suited to their size and how they operate. This normally includes:
 
-- ==Lifejackets or PFDs== for everyone on board.
+- A ==lifejacket== of the right size for everyone on board. On a commercial vessel a PFD may replace a lifejacket only under Transport Canada's conditions, for example an approved, high-visibility PFD that is worn.
 - ==Flares== or other visual signals.
 - A ==fire extinguisher== of the right type.
 - A ==bailer or hand pump==.

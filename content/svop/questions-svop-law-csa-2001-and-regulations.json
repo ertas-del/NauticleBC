@@ -101,10 +101,10 @@
         "A spare propeller and shaft",
         "A second engine or outboard",
         "A full set of paper charts for the coast",
-        "Lifejackets or PFDs for everyone"
+        "A lifejacket of the right size for each person"
       ],
       "correct_index": 3,
-      "explanation": "Check your vessel's list.",
+      "explanation": "Small commercial vessels carry a lifejacket for everyone on board. A PFD may replace one only under Transport Canada's conditions. Check your vessel's list.",
       "source_ids": [
         "tp14692",
         "tc-svop"

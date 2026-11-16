@@ -8,15 +8,15 @@
         "svop"
       ],
       "difficulty": "easy",
-      "stem": "The List of Lights, Buoys and Fog Signals describes:",
+      "stem": "You need the light characteristic and position of a lighthouse. Which publication do you use?",
       "options": [
-        "Harbour berths and fuel docks",
-        "Lights, buoys and fog signals",
-        "Weather forecast areas",
-        "Tide stations and currents"
+        "List of Lights, Buoys and Fog Signals",
+        "Sailing Directions",
+        "Canadian Tide and Current Tables",
+        "Chart No. 1"
       ],
-      "correct_index": 1,
-      "explanation": "It gives characteristics and positions.",
+      "correct_index": 0,
+      "explanation": "The List of Lights gives each light's characteristic and position.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -30,15 +30,15 @@
         "svop"
       ],
       "difficulty": "easy",
-      "stem": "Canadian Tide and Current Tables give:",
+      "stem": "You need the time of slack water at Seymour Narrows. Which publication do you use?",
       "options": [
-        "Wind and wave forecasts for each area",
-        "Tide times and heights, and tidal current data",
-        "Fuel docks, marinas and harbour berths along the coast",
-        "Chart symbols and abbreviations"
+        "Canadian Tide and Current Tables",
+        "List of Lights, Buoys and Fog Signals",
+        "Notices to Mariners",
+        "Chart No. 1"
       ],
-      "correct_index": 1,
-      "explanation": "Use them for planning.",
+      "correct_index": 0,
+      "explanation": "The Tide and Current Tables give tide times and heights and tidal current times, including slack water.",
       "source_ids": [
         "tp14692",
         "tc-svop"

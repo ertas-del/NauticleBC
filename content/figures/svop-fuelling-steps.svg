@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 796" width="720" height="796" role="img">
+<title>Safe refuelling, step by step</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+</defs>
+<rect width="720" height="796" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="796" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Safe refuelling, step by step</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Keep vapour out of the boat, keep fuel out of the water.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="116" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="66" cy="142" r="16" fill="#0f766e"/>
+<text x="66" y="148" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">1</text>
+<path transform="translate(130,196) scale(1.0)" d="M0,-22 C10,-10 14,-2 12,8 C10,18 -10,18 -12,8 C-14,-2 -6,-6 -4,-14 C-2,-8 2,-6 0,-22 Z" fill="#f97316" stroke="#9a3412" stroke-width="1.5"/><path transform="translate(130,202) scale(0.5)" d="M0,-18 C8,-6 10,0 8,8 C6,16 -6,16 -8,8 C-10,0 -4,-4 0,-18 Z" fill="#fde047"/><rect x="142" y="202" width="26" height="7" rx="2" fill="#f8fafc" stroke="#111827" stroke-width="1.2"/><rect x="162" y="202" width="6" height="7" fill="#f97316"/><circle cx="140" cy="196" r="32" fill="none" stroke="#dc2626" stroke-width="5"/><line x1="117.6" y1="173.6" x2="162.4" y2="218.4" stroke="#dc2626" stroke-width="5"/>
+<text x="140" y="254" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Engines, power off</text>
+<text x="140" y="276" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">No flames or smoking</text>
+<rect x="260" y="116" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="286" cy="142" r="16" fill="#0f766e"/>
+<text x="286" y="148" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">2</text>
+<rect x="312" y="208" width="96" height="16" rx="3" fill="#a9d8ea"/><rect x="312" y="180" width="34" height="10" rx="2" fill="#b45309" stroke="#78350f" stroke-width="1.5"/><rect x="316" y="190" width="6" height="30" fill="#78350f"/><rect x="336" y="190" width="6" height="30" fill="#78350f"/><rect x="334" y="174" width="8" height="6" fill="#111827"/><path d="M352,188 L408,186 Q404,206 392,210 L358,210 Q352,204 352,188 Z" fill="#f59e0b" stroke="#111827" stroke-width="1.5"/><path d="M338,176 Q348,172 358,188" fill="none" stroke="#111827" stroke-width="2.5"/><path d="M340,176 Q378,160 402,186" fill="none" stroke="#111827" stroke-width="2.5"/>
+<text x="360" y="254" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Moor the boat</text>
+<text x="360" y="276" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Passengers off</text>
+<rect x="480" y="116" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="506" cy="142" r="16" fill="#0f766e"/>
+<text x="506" y="148" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">3</text>
+<rect x="536" y="168" width="88" height="54" rx="6" fill="#f8fafc" stroke="#111827" stroke-width="2"/><rect x="544" y="178" width="22" height="40" rx="3" fill="#cbd5e1" stroke="#111827" stroke-width="1.5"/><circle cx="562" cy="198" r="2" fill="#111827"/><circle cx="590" cy="192" r="9" fill="#cbd5e1" stroke="#111827" stroke-width="2"/><line x1="584" y1="192" x2="596" y2="192" stroke="#111827" stroke-width="1.5"/><circle cx="614" cy="192" r="9" fill="#cbd5e1" stroke="#111827" stroke-width="2"/><line x1="608" y1="192" x2="620" y2="192" stroke="#111827" stroke-width="1.5"/><circle cx="618" cy="166" r="13" fill="#16a34a"/><path d="M611,166 l5,5 l9,-10" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="580" y="254" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Close doors,</text>
+<text x="580" y="276" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">hatches and ports</text>
+<rect x="40" y="304" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="66" cy="330" r="16" fill="#0f766e"/>
+<text x="66" y="336" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">4</text>
+<rect x="94" y="388" width="92" height="22" rx="3" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/><rect x="110" y="384" width="60" height="16" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.5"/><circle cx="120" cy="392" r="1.6" fill="#94a3b8"/><circle cx="130" cy="392" r="1.6" fill="#94a3b8"/><circle cx="140" cy="392" r="1.6" fill="#94a3b8"/><circle cx="150" cy="392" r="1.6" fill="#94a3b8"/><circle cx="160" cy="392" r="1.6" fill="#94a3b8"/><ellipse cx="140" cy="384" rx="12" ry="5" fill="#475569" stroke="#111827" stroke-width="1.5"/><text x="140" y="368" font-size="15" text-anchor="middle" fill="#334155" font-weight="bold" font-family="Liberation Sans">FUEL</text><path d="M170,360 Q180,346 190,360" fill="none" stroke="#111827" stroke-width="1.8"/><path d="M168,360 L192,360 L188,384 L172,384 Z" fill="#facc15" stroke="#111827" stroke-width="1.5"/><path d="M176,372 h8 M180,368 v8" stroke="#111827" stroke-width="2"/>
+<text x="140" y="442" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Pad under filler</text>
+<text x="140" y="464" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Spill kit ready</text>
+<rect x="260" y="304" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="286" cy="330" r="16" fill="#0f766e"/>
+<text x="286" y="336" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">5</text>
+<rect x="314" y="388" width="92" height="22" rx="3" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/><ellipse cx="354" cy="388" rx="13" ry="5" fill="#475569" stroke="#111827" stroke-width="1.5"/><path d="M352,384 L372,364" stroke="#334155" stroke-width="7" stroke-linecap="round"/><path d="M366,356 L394,356 L398,378 L384,378 Z" fill="#16a34a" stroke="#111827" stroke-width="1.5" stroke-linejoin="round"/><path d="M394,360 Q406,356 404,342" fill="none" stroke="#1f2937" stroke-width="4"/>
+<text x="360" y="442" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Nozzle on filler</text>
+<text x="360" y="464" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Stops static sparks</text>
+<rect x="480" y="304" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="506" cy="330" r="16" fill="#0f766e"/>
+<text x="506" y="336" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">6</text>
+<rect x="540" y="356" width="64" height="54" rx="8" fill="#f8fafc" stroke="#111827" stroke-width="2"/><rect x="542" y="376" width="60" height="32" rx="6" fill="#fdba74"/><line x1="542" y1="368" x2="602" y2="368" stroke="#dc2626" stroke-width="2" stroke-dasharray="4 3"/><rect x="540" y="356" width="64" height="54" rx="8" fill="none" stroke="#111827" stroke-width="2"/><path d="M618,352 c6,9 8,13 8,17 a8,8 0 0 1 -16,0 c0,-4 2,-8 8,-17 z" fill="#c2410c"/><path d="M618,380 L618,404" stroke="#0f766e" stroke-width="3" marker-end="url(#ah)"/>
+<text x="580" y="442" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fill slowly</text>
+<text x="580" y="464" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Never overfill</text>
+<rect x="40" y="492" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="66" cy="518" r="16" fill="#0f766e"/>
+<text x="66" y="524" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">7</text>
+<rect x="94" y="576" width="92" height="22" rx="3" fill="#e2e8f0" stroke="#94a3b8" stroke-width="1.5"/><ellipse cx="124" cy="584" rx="20" ry="5" fill="#c2410c" opacity="0.75"/><path d="M142,556 Q160,544 180,554 L176,578 Q158,586 144,578 Z" fill="#38bdf8" stroke="#111827" stroke-width="1.5" stroke-linejoin="round"/><line x1="100" y1="548" x2="132" y2="548" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round"/><line x1="110" y1="552" x2="136" y2="552" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round"/><line x1="120" y1="556" x2="140" y2="556" stroke="#0f766e" stroke-width="2.5" stroke-linecap="round"/>
+<text x="140" y="630" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Wipe up spills</text>
+<text x="140" y="652" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Rags disposed safely</text>
+<rect x="260" y="492" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="286" cy="518" r="16" fill="#0f766e"/>
+<text x="286" y="524" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">8</text>
+<text x="446" y="524" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">Inboard gasoline</text>
+<circle cx="338" cy="570" r="25" fill="#f8fafc" stroke="#111827" stroke-width="2"/><path transform="translate(338,570) rotate(0)" d="M0,0 C4,-6 14,-18 4,-22 C-4,-24 -6,-10 0,0 Z" fill="#0f766e"/><path transform="translate(338,570) rotate(90)" d="M0,0 C4,-6 14,-18 4,-22 C-4,-24 -6,-10 0,0 Z" fill="#0f766e"/><path transform="translate(338,570) rotate(180)" d="M0,0 C4,-6 14,-18 4,-22 C-4,-24 -6,-10 0,0 Z" fill="#0f766e"/><path transform="translate(338,570) rotate(270)" d="M0,0 C4,-6 14,-18 4,-22 C-4,-24 -6,-10 0,0 Z" fill="#0f766e"/><circle cx="338" cy="570" r="4" fill="#111827"/><circle cx="392" cy="572" r="18" fill="#ffffff" stroke="#111827" stroke-width="2"/><path d="M392,572 L392,554 A18,18 0 0 1 410,572 Z" fill="#99f6e4"/><circle cx="392" cy="572" r="18" fill="none" stroke="#111827" stroke-width="2"/><line x1="392" y1="572" x2="392" y2="559" stroke="#111827" stroke-width="2"/><line x1="392" y1="572" x2="404" y2="572" stroke="#111827" stroke-width="2"/>
+<text x="360" y="630" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Open up, run blower</text>
+<text x="360" y="652" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">at least 4 minutes</text>
+<rect x="480" y="492" width="200" height="172" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="506" cy="518" r="16" fill="#0f766e"/>
+<text x="506" y="524" font-size="18" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">9</text>
+<text x="666" y="524" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">Inboard gasoline</text>
+<path d="M534,564 L586,564 L586,588 Q560,602 534,588 Z" fill="#e2e8f0" stroke="#111827" stroke-width="1.8"/><path d="M548,558 q-4,-5 0,-11 q4,-5 0,-11" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/><path d="M561,558 q-4,-5 0,-11 q4,-5 0,-11" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/><path d="M574,558 q-4,-5 0,-11 q4,-5 0,-11" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/><path d="M626,536 C608,534 602,548 604,556 L594,566 L604,570 C602,578 606,586 626,588 Z" fill="#f2c9a0" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/><circle cx="612" cy="552" r="2.2" fill="#111827"/>
+<text x="580" y="630" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sniff the bilge</text>
+<text x="580" y="652" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">No smell? Then start</text>
+<rect x="40" y="680" width="310" height="70" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M68,694 L84,694 L96,706 L96,722 L84,734 L68,734 L56,722 L56,706 Z" fill="#dc2626" stroke="#7f1d1d" stroke-width="1.5"/>
+<rect x="63" y="710" width="26" height="8" rx="2" fill="#ffffff"/>
+<text x="108" y="708" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fuel spilling?</text>
+<text x="108" y="732" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Stop at once.</text>
+<rect x="370" y="680" width="310" height="70" rx="10" fill="#ffffff" filter="url(#s)"/>
+<path d="M392,700 L414,700 L422,708 L422,740 L392,740 Z" fill="#dc2626" stroke="#111827" stroke-width="1.5" stroke-linejoin="round"/>
+<rect x="398" y="694" width="10" height="6" fill="#1f2937"/>
+<text x="438" y="708" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Portable tank?</text>
+<text x="438" y="732" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Fill it ashore, on the dock.</text>
+<text x="360" y="768" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

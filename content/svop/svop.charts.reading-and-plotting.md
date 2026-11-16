@@ -67,7 +67,7 @@ A bearing line from an object shows the direction to it from you. Two bearings, 
 
 ## Requirement to carry charts
 
-You must carry ==up-to-date charts== of the area you operate in, and the required nautical publications. Check which charts and publications your vessel must carry. A paper chart is the backup when electronics fail.
+You must carry ==up-to-date charts== of the area you operate in, and the required nautical publications. A vessel under 100 GT is exempt only if the operator knows the area's routes, lights, buoys, dangers, tides and currents well enough to navigate safely. Check which charts and publications your vessel must carry. A paper chart is the backup when electronics fail.
 
 ## Safety
 
@@ -75,7 +75,7 @@ Check the chart's ==correction date== and get recent updates. Don't rely on an o
 
 ## A BC example
 
-You plan a trip from Sidney to Ganges Harbour. You draw the track on the chart, read a true course of 340° on the rose, measure 11 NM with the dividers on the side scale, and at 5.5 knots you work out 2 hours. You check the chart for rocks near the track and add a margin.
+You plan the first leg of a Gulf Islands trip, from a harbour buoy to a waypoint clear of the next headland. You draw the track on the chart, read a true course of 340° on the rose, measure 11 NM with the dividers on the side scale, and at 5.5 knots you work out 2 hours. You check the chart for rocks near the track and add a margin.
 
 ## Common mistakes
 

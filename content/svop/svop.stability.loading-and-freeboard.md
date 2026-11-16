@@ -80,7 +80,7 @@ Secure gear, cargo and equipment so it cannot move. Moving cargo can shift the w
 
 ## A BC example
 
-A crew boat on a rough day near Cape Caution is carrying extra gear stacked on deck and has partly full fuel tanks. As the swell lifts the boat, it leans and hangs there. The operator removes the high gear, lashes everything down, tops up the slack tank, and goes to a sheltered route. The boat now recovers quickly.
+A crew boat on a rough day near Cape Caution is carrying extra gear stacked on deck and has partly full fuel tanks. As the swell lifts the boat, it leans and hangs there. The operator removes the high gear, lashes everything down, uses fuel from the slack tank first so tanks are full or empty, and goes to a sheltered route. The boat now recovers quickly.
 
 ## Common mistakes
 

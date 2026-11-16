@@ -31,7 +31,7 @@ On a ==near coastal Class 2== or ==sheltered waters== voyage, in normal operatin
 - A commercial vessel of up to ==5 gross tonnage==, except tugs.
 - A fishing vessel of up to ==15 gross tonnage== or not more than ==12 metres== long.
 
-You must be ==at least 18== to use the certificate as operator. Many courses accept younger students, but the certificate is not valid for operating until you are 18.
+You must be ==at least 18== to get the SVOP and use it as operator.
 
 ## Vessel, passenger, pleasure craft
 
@@ -62,7 +62,7 @@ If something goes wrong, the master is the one who answers for it.
 
 ## A BC example
 
-A whale-watching boat out of Victoria carries eight passengers on a 5 GT vessel. The operator holds an SVOP, a small vessel safety certificate and a marine radio certificate, and carries a crew member with marine first aid. That is the right shape: the vessel is under 5 GT, the voyage is sheltered or near coastal Class 2, and the people have the right training.
+A whale-watching boat out of Victoria carries eight passengers on a 5 GT vessel. The operator holds an SVOP, a small vessel safety certificate and a marine radio certificate, and carries a crew member with marine first aid. That is the right shape: the vessel is not more than 5 GT, the voyage is sheltered or near coastal Class 2, and the people have the right training.
 
 ## Common mistakes
 

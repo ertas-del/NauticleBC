@@ -76,13 +76,13 @@
       "difficulty": "medium",
       "stem": "Which is NOT a type of voyage covered by the SVOP?",
       "options": [
-        "Voyages in normal conditions including darkness",
-        "Unlimited ocean voyages",
         "Sheltered waters",
-        "Near coastal Class 2"
+        "Near coastal Class 1",
+        "Near coastal Class 2",
+        "Near coastal Class 2 at night"
       ],
       "correct_index": 1,
-      "explanation": "The SVOP covers sheltered waters and near coastal Class 2 only.",
+      "explanation": "The SVOP covers sheltered waters and near coastal Class 2 voyages only, including at night.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -148,7 +148,7 @@
         "16 years old"
       ],
       "correct_index": 0,
-      "explanation": "Some courses accept 16-year-olds, but the certificate is used from 18.",
+      "explanation": "Transport Canada says you must be at least 18 to get the certificate.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -184,7 +184,7 @@
         "svop"
       ],
       "difficulty": "hard",
-      "stem": "A water taxi under 5 GT with an SVOP-certified operator is on a voyage outside near coastal Class 2. The operator:",
+      "stem": "A water taxi under 5 GT with an SVOP-certified operator is on a near coastal Class 1 voyage. The operator:",
       "options": [
         "Is fully covered",
         "Is covered if it is daytime and the weather is good",

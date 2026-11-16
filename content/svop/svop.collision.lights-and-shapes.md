@@ -57,11 +57,11 @@ What you see tells you what the other boat is doing:
 
 ## Sailing vessels
 
-A sailing vessel under sail shows sidelights and a stern light (for under 20 m, a combined tricolour at the masthead is allowed). A boat sailing and using its engine at the same time is a power-driven vessel, and shows a black ==cone, point down==, by day.
+A sailing vessel under sail shows sidelights and a stern light (for under 20 m, a combined tricolour at the masthead is allowed). A boat sailing and using its engine at the same time is a power-driven vessel, and shows a black ==cone, point down==, by day. In Canadian harbours, rivers and lakes, a boat under 12 m does not have to show it.
 
 ## At anchor
 
-An anchored vessel shows an ==all-round white light== where it can be seen from all directions, and by day a ==black ball== in the bows. Very small vessels at anchor, not in or near a narrow channel or anchorage, may not need to show lights. Always check the regulations for your vessel.
+An anchored vessel shows an ==all-round white light== where it can be seen from all directions, and by day a ==black ball== in the bows. A vessel under 7 m at anchor, away from narrow channels, fairways, anchorages and where other vessels normally navigate, need not show the anchor light or ball. Always check the regulations for your vessel.
 
 ## Other signals to recognise
 

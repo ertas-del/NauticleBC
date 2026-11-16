@@ -66,7 +66,7 @@ Use fenders to protect the hull between the boat and the dock. Hang them at the 
 
 ## A BC example
 
-Tying up at a fixed wharf in Port Hardy with a 4 m tide, you put your bow and stern lines on loosely with plenty of slack and add a forward and an aft spring. When you come back at low tide the boat is hanging safely against its fenders.
+Tying up at a fixed wharf in Port Hardy with a 4 m tide, you put your bow and stern lines on loosely with plenty of slack and add a forward and an aft spring. When you come back at low tide the boat is lying safely against its fenders.
 
 ## Common mistakes
 

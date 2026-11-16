@@ -71,7 +71,7 @@ Memory hook:
 2. Put the plotter or parallel rule on the line.
 3. Move it to the nearest **compass rose**. Read the **true course**.
 4. Open the dividers across A to B.
-5. Move them to the **side scale**. Read the **distance** in nautical miles.
+5. Move them to the **side scale**, level with your track. Read the **distance** in nautical miles.
 
 For long distances, step the dividers along in smaller bites.
 

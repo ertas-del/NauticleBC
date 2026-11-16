@@ -54,7 +54,7 @@ An ==isolated danger mark== sits on or over a small danger, such as a rock. It i
 
 ## Special purpose buoys
 
-==Yellow== buoys mark special areas: cables, pipelines, anchorages, military zones, fishing or swimming areas, or traffic separation. Read the chart to learn what a yellow buoy means. Some carry a yellow X topmark.
+==Yellow== buoys mark special areas: cables and pipelines, anchorages, firing ranges, race courses, seaplane bases, fish farms, and areas with no through channel. Read the chart to learn what a yellow buoy means. Some carry a yellow X topmark.
 
 ## Cautionary buoys
 
@@ -62,7 +62,7 @@ A cautionary buoy warns of a hazard or restricted area. Treat it with care and c
 
 ## Bifurcation (preferred channel) marks
 
-A ==bifurcation== mark is where a channel splits into two. It has ==horizontal bands of red and green==. The ==top band colour== shows which side is the preferred (main) channel, according to the usual lateral rules. Always check the chart to confirm which way to go.
+A ==bifurcation== mark is where a channel splits into two. It has ==horizontal bands of red and green==. Treat it as the lateral buoy of its ==top band colour==. Red on top: keep it on your right going upstream to follow the main channel. Green on top: keep it on your left. Always check the chart to confirm which way to go.
 
 ## Diver's flag and scuba buoys
 

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Winch and crane hand signals</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Winch and crane hand signals</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">One signaller the operator can see. Agree the signals before the lift.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="116" width="310" height="286" rx="12" fill="#ffffff" filter="url(#s)"/>
+<line x1="160" y1="270" x2="157" y2="316" stroke="#334155" stroke-width="13" stroke-linecap="round"/><line x1="180" y1="270" x2="183" y2="316" stroke="#334155" stroke-width="13" stroke-linecap="round"/><path d="M148,216 L142,250 L140,278" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M192,216 L232,216 L232,174" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M146,212 Q170,206 194,212 L191,274 L149,274 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="147" y1="238" x2="193" y2="238" stroke="#e5e7eb" stroke-width="5"/><line x1="148" y1="256" x2="192" y2="256" stroke="#e5e7eb" stroke-width="5"/><circle cx="170" cy="192" r="15" fill="#f2c9a0" stroke="#111827" stroke-width="1.8"/><path d="M152,188 Q153,168 170,168 Q187,168 188,188 Z" fill="#facc15" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/>
+<line x1="232" y1="170" x2="232" y2="154" stroke="#f2c9a0" stroke-width="5" stroke-linecap="round"/><line x1="232" y1="170" x2="232" y2="154" stroke="#111827" stroke-width="0.8" stroke-linecap="round" opacity="0"/><circle cx="232" cy="170" r="7.5" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/>
+<path d="M216.0,143.9 L217.3,143.0 L219.0,142.1 L221.1,141.4 L223.5,140.8 L226.2,140.4 L229.0,140.1 L232.0,140.0 L235.0,140.1 L237.8,140.4 L240.5,140.8 L242.9,141.4 L245.0,142.1 L246.7,143.0 L248.0,143.9 L248.7,145.0 L249.0,146.0 L248.7,147.0 L248.0,148.1 L246.7,149.0 L245.0,149.9 L242.9,150.6 L240.5,151.2 L237.8,151.6 L235.0,151.9 L232.0,152.0 L229.0,151.9 L226.2,151.6 L223.5,151.2 L221.1,150.6 L219.0,149.9" fill="none" stroke="#0f766e" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="195" y="346" font-size="21" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Raise</text>
+<text x="195" y="370" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Forearm vertical,</text>
+<text x="195" y="390" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">hand making small circles</text>
+<rect x="370" y="116" width="310" height="286" rx="12" fill="#ffffff" filter="url(#s)"/>
+<line x1="490" y1="270" x2="487" y2="316" stroke="#334155" stroke-width="13" stroke-linecap="round"/><line x1="510" y1="270" x2="513" y2="316" stroke="#334155" stroke-width="13" stroke-linecap="round"/><path d="M478,216 L472,250 L470,278" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M522,216 L568,264" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M476,212 Q500,206 524,212 L521,274 L479,274 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="477" y1="238" x2="523" y2="238" stroke="#e5e7eb" stroke-width="5"/><line x1="478" y1="256" x2="522" y2="256" stroke="#e5e7eb" stroke-width="5"/><circle cx="500" cy="192" r="15" fill="#f2c9a0" stroke="#111827" stroke-width="1.8"/><path d="M482,188 Q483,168 500,168 Q517,168 518,188 Z" fill="#facc15" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/>
+<line x1="570" y1="268" x2="570" y2="284" stroke="#f2c9a0" stroke-width="5" stroke-linecap="round"/><line x1="570" y1="268" x2="570" y2="284" stroke="#111827" stroke-width="0.8" stroke-linecap="round" opacity="0"/><circle cx="570" cy="268" r="7.5" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/>
+<path d="M554.0,293.9 L555.3,293.0 L557.0,292.1 L559.1,291.4 L561.5,290.8 L564.2,290.4 L567.0,290.1 L570.0,290.0 L573.0,290.1 L575.8,290.4 L578.5,290.8 L580.9,291.4 L583.0,292.1 L584.7,293.0 L586.0,293.9 L586.7,295.0 L587.0,296.0 L586.7,297.0 L586.0,298.1 L584.7,299.0 L583.0,299.9 L580.9,300.6 L578.5,301.2 L575.8,301.6 L573.0,301.9 L570.0,302.0 L567.0,301.9 L564.2,301.6 L561.5,301.2 L559.1,300.6 L557.0,299.9" fill="none" stroke="#0f766e" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="525" y="346" font-size="21" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Lower</text>
+<text x="525" y="370" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Arm out, finger pointing</text>
+<text x="525" y="390" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">down, small circles</text>
+<rect x="40" y="414" width="310" height="286" rx="12" fill="#ffffff" filter="url(#s)"/>
+<line x1="160" y1="568" x2="157" y2="614" stroke="#334155" stroke-width="13" stroke-linecap="round"/><line x1="180" y1="568" x2="183" y2="614" stroke="#334155" stroke-width="13" stroke-linecap="round"/><path d="M148,514 L142,548 L140,576" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M192,514 L272,514" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M146,510 Q170,504 194,510 L191,572 L149,572 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="147" y1="536" x2="193" y2="536" stroke="#e5e7eb" stroke-width="5"/><line x1="148" y1="554" x2="192" y2="554" stroke="#e5e7eb" stroke-width="5"/><circle cx="170" cy="490" r="15" fill="#f2c9a0" stroke="#111827" stroke-width="1.8"/><path d="M152,486 Q153,466 170,466 Q187,466 188,486 Z" fill="#facc15" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/>
+<ellipse cx="278" cy="514" rx="11" ry="5" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/>
+<line x1="244" y1="490" x2="312" y2="490" stroke="#0f766e" stroke-width="3" marker-start="url(#ah)" marker-end="url(#ah)"/>
+<text x="195" y="644" font-size="21" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Stop</text>
+<text x="195" y="668" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Arm out, palm down,</text>
+<text x="195" y="688" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">moved side to side</text>
+<rect x="370" y="414" width="310" height="286" rx="12" fill="#ffffff" filter="url(#s)"/>
+<line x1="515" y1="568" x2="512" y2="614" stroke="#334155" stroke-width="13" stroke-linecap="round"/><line x1="535" y1="568" x2="538" y2="614" stroke="#334155" stroke-width="13" stroke-linecap="round"/><path d="M503,514 L429,514" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M547,514 L621,514" fill="none" stroke="#1e3a8a" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><path d="M501,510 Q525,504 549,510 L546,572 L504,572 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="502" y1="536" x2="548" y2="536" stroke="#e5e7eb" stroke-width="5"/><line x1="503" y1="554" x2="547" y2="554" stroke="#e5e7eb" stroke-width="5"/><circle cx="525" cy="490" r="15" fill="#f2c9a0" stroke="#111827" stroke-width="1.8"/><path d="M507,486 Q508,466 525,466 Q542,466 543,486 Z" fill="#facc15" stroke="#111827" stroke-width="1.8" stroke-linejoin="round"/>
+<ellipse cx="423" cy="514" rx="11" ry="5" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/>
+<ellipse cx="627" cy="514" rx="11" ry="5" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/>
+<line x1="397" y1="490" x2="459" y2="490" stroke="#dc2626" stroke-width="3" marker-start="url(#ahr)" marker-end="url(#ahr)"/>
+<line x1="591" y1="490" x2="653" y2="490" stroke="#dc2626" stroke-width="3" marker-start="url(#ahr)" marker-end="url(#ahr)"/>
+<text x="525" y="644" font-size="21" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Emergency stop</text>
+<text x="525" y="668" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Both arms out, palms down,</text>
+<text x="525" y="688" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">moved side to side</text>
+<rect x="40" y="712" width="640" height="38" rx="8" fill="#fef2f2" filter="url(#s)"/>
+<text x="360" y="737" font-size="16" text-anchor="middle" fill="#b91c1c" font-weight="bold" font-family="Liberation Sans">Stay out from under the load and clear of a rope under strain.</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

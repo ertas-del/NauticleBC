@@ -29,7 +29,7 @@ A small commercial vessel depends on its engine. The SVOP syllabus expects you t
 - ==Outboard motor==: a self-contained engine and propeller that hangs on the transom. It steers by turning the whole unit, and it tilts up out of the water.
 - ==Stern drive (inboard-outboard)==: an engine inside the hull connected to a drive leg and propeller outside the transom. It steers by turning the leg.
 - ==Inboard engine==: an engine inside the hull driving a ==propeller shaft== that passes through the hull to a propeller. A ==rudder== steers the vessel.
-- ==Jet drive==: an engine drives an impeller that pumps water out through a nozzle. Steering is by moving the nozzle. There is ==no propeller and no steering at idle== because no water is being thrown out. Jets handle shallow water well.
+- ==Jet drive==: an engine drives an impeller that pumps water out through a nozzle. Steering is by moving the nozzle. There is ==no propeller==, and ==little or no steering at idle== because no water is being thrown out. Jets handle shallow water well.
 
 ## Before starting
 

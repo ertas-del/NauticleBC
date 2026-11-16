@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Reading latitude and longitude</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Reading latitude and longitude</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Latitude on the side scales, longitude on the top and bottom scales.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="138" y="166" width="431.5" height="390.0" fill="#e3f2f8"/>
+<path d="M449.5,166 C459.5,206 499.5,216 509.5,246 C519.5,276 549.5,286 569.4813378244118,294 L569.4813378244118,166 Z" fill="#efe3c4" stroke="#b8a37a" stroke-width="2"/>
+<rect x="124" y="152" width="14" height="418.0" fill="#ffffff" stroke="#102a43" stroke-width="1.5"/>
+<rect x="124" y="426.0" width="14" height="130.0" fill="#0f766e"/>
+<rect x="124" y="166.0" width="14" height="130.0" fill="#0f766e"/>
+<line x1="138.0" y1="556.0" x2="124.0" y2="556.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="543.0" x2="133.0" y2="543.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="530.0" x2="133.0" y2="530.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="517.0" x2="133.0" y2="517.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="504.0" x2="133.0" y2="504.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="491.0" x2="129.0" y2="491.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="478.0" x2="133.0" y2="478.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="465.0" x2="133.0" y2="465.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="452.0" x2="133.0" y2="452.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="439.0" x2="133.0" y2="439.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="426.0" x2="124.0" y2="426.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="413.0" x2="133.0" y2="413.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="400.0" x2="133.0" y2="400.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="387.0" x2="133.0" y2="387.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="374.0" x2="133.0" y2="374.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="361.0" x2="129.0" y2="361.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="348.0" x2="133.0" y2="348.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="335.0" x2="133.0" y2="335.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="322.0" x2="133.0" y2="322.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="309.0" x2="133.0" y2="309.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="296.0" x2="124.0" y2="296.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="283.0" x2="133.0" y2="283.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="270.0" x2="133.0" y2="270.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="257.0" x2="133.0" y2="257.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="244.0" x2="133.0" y2="244.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="231.0" x2="129.0" y2="231.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="218.0" x2="133.0" y2="218.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="205.0" x2="133.0" y2="205.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="192.0" x2="133.0" y2="192.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="179.0" x2="133.0" y2="179.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="138.0" y1="166.0" x2="124.0" y2="166.0" stroke="#102a43" stroke-width="1.2" />
+<rect x="569.4813378244118" y="152" width="14" height="418.0" fill="#ffffff" stroke="#102a43" stroke-width="1.5"/>
+<rect x="569.4813378244118" y="426.0" width="14" height="130.0" fill="#0f766e"/>
+<rect x="569.4813378244118" y="166.0" width="14" height="130.0" fill="#0f766e"/>
+<line x1="569.5" y1="556.0" x2="583.5" y2="556.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="543.0" x2="574.5" y2="543.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="530.0" x2="574.5" y2="530.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="517.0" x2="574.5" y2="517.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="504.0" x2="574.5" y2="504.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="491.0" x2="578.5" y2="491.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="478.0" x2="574.5" y2="478.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="465.0" x2="574.5" y2="465.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="452.0" x2="574.5" y2="452.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="439.0" x2="574.5" y2="439.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="426.0" x2="583.5" y2="426.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="413.0" x2="574.5" y2="413.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="400.0" x2="574.5" y2="400.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="387.0" x2="574.5" y2="387.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="374.0" x2="574.5" y2="374.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="361.0" x2="578.5" y2="361.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="348.0" x2="574.5" y2="348.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="335.0" x2="574.5" y2="335.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="322.0" x2="574.5" y2="322.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="309.0" x2="574.5" y2="309.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="296.0" x2="583.5" y2="296.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="283.0" x2="574.5" y2="283.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="270.0" x2="574.5" y2="270.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="257.0" x2="574.5" y2="257.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="244.0" x2="574.5" y2="244.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="231.0" x2="578.5" y2="231.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="218.0" x2="574.5" y2="218.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="205.0" x2="574.5" y2="205.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="192.0" x2="574.5" y2="192.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="179.0" x2="574.5" y2="179.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="166.0" x2="583.5" y2="166.0" stroke="#102a43" stroke-width="1.2" />
+<rect x="124" y="152" width="459.5" height="14" fill="#ffffff" stroke="#102a43" stroke-width="1.5"/>
+<rect x="138.0" y="152" width="86.3" height="14" fill="#b45309"/>
+<rect x="310.6" y="152" width="86.3" height="14" fill="#b45309"/>
+<rect x="483.2" y="152" width="86.3" height="14" fill="#b45309"/>
+<line x1="138.0" y1="166.0" x2="138.0" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="146.6" y1="166.0" x2="146.6" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="155.3" y1="166.0" x2="155.3" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="163.9" y1="166.0" x2="163.9" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="172.5" y1="166.0" x2="172.5" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="181.1" y1="166.0" x2="181.1" y2="157.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="189.8" y1="166.0" x2="189.8" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="198.4" y1="166.0" x2="198.4" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="207.0" y1="166.0" x2="207.0" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="215.7" y1="166.0" x2="215.7" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="224.3" y1="166.0" x2="224.3" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="232.9" y1="166.0" x2="232.9" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="241.6" y1="166.0" x2="241.6" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="250.2" y1="166.0" x2="250.2" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="258.8" y1="166.0" x2="258.8" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="267.4" y1="166.0" x2="267.4" y2="157.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="276.1" y1="166.0" x2="276.1" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="284.7" y1="166.0" x2="284.7" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="293.3" y1="166.0" x2="293.3" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="302.0" y1="166.0" x2="302.0" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="310.6" y1="166.0" x2="310.6" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="319.2" y1="166.0" x2="319.2" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="327.9" y1="166.0" x2="327.9" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="336.5" y1="166.0" x2="336.5" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="345.1" y1="166.0" x2="345.1" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="353.7" y1="166.0" x2="353.7" y2="157.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="362.4" y1="166.0" x2="362.4" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="371.0" y1="166.0" x2="371.0" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="379.6" y1="166.0" x2="379.6" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="388.3" y1="166.0" x2="388.3" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="396.9" y1="166.0" x2="396.9" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="405.5" y1="166.0" x2="405.5" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="414.1" y1="166.0" x2="414.1" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="422.8" y1="166.0" x2="422.8" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="431.4" y1="166.0" x2="431.4" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="440.0" y1="166.0" x2="440.0" y2="157.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="448.7" y1="166.0" x2="448.7" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="457.3" y1="166.0" x2="457.3" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="465.9" y1="166.0" x2="465.9" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="474.6" y1="166.0" x2="474.6" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="483.2" y1="166.0" x2="483.2" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="491.8" y1="166.0" x2="491.8" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="500.4" y1="166.0" x2="500.4" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="509.1" y1="166.0" x2="509.1" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="517.7" y1="166.0" x2="517.7" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="526.3" y1="166.0" x2="526.3" y2="157.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="535.0" y1="166.0" x2="535.0" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="543.6" y1="166.0" x2="543.6" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="552.2" y1="166.0" x2="552.2" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="560.9" y1="166.0" x2="560.9" y2="161.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="166.0" x2="569.5" y2="152.0" stroke="#102a43" stroke-width="1.2" />
+<rect x="124" y="556.0" width="459.5" height="14" fill="#ffffff" stroke="#102a43" stroke-width="1.5"/>
+<rect x="138.0" y="556.0" width="86.3" height="14" fill="#b45309"/>
+<rect x="310.6" y="556.0" width="86.3" height="14" fill="#b45309"/>
+<rect x="483.2" y="556.0" width="86.3" height="14" fill="#b45309"/>
+<line x1="138.0" y1="556.0" x2="138.0" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="146.6" y1="556.0" x2="146.6" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="155.3" y1="556.0" x2="155.3" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="163.9" y1="556.0" x2="163.9" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="172.5" y1="556.0" x2="172.5" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="181.1" y1="556.0" x2="181.1" y2="565.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="189.8" y1="556.0" x2="189.8" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="198.4" y1="556.0" x2="198.4" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="207.0" y1="556.0" x2="207.0" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="215.7" y1="556.0" x2="215.7" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="224.3" y1="556.0" x2="224.3" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="232.9" y1="556.0" x2="232.9" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="241.6" y1="556.0" x2="241.6" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="250.2" y1="556.0" x2="250.2" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="258.8" y1="556.0" x2="258.8" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="267.4" y1="556.0" x2="267.4" y2="565.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="276.1" y1="556.0" x2="276.1" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="284.7" y1="556.0" x2="284.7" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="293.3" y1="556.0" x2="293.3" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="302.0" y1="556.0" x2="302.0" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="310.6" y1="556.0" x2="310.6" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="319.2" y1="556.0" x2="319.2" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="327.9" y1="556.0" x2="327.9" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="336.5" y1="556.0" x2="336.5" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="345.1" y1="556.0" x2="345.1" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="353.7" y1="556.0" x2="353.7" y2="565.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="362.4" y1="556.0" x2="362.4" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="371.0" y1="556.0" x2="371.0" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="379.6" y1="556.0" x2="379.6" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="388.3" y1="556.0" x2="388.3" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="396.9" y1="556.0" x2="396.9" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="405.5" y1="556.0" x2="405.5" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="414.1" y1="556.0" x2="414.1" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="422.8" y1="556.0" x2="422.8" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="431.4" y1="556.0" x2="431.4" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="440.0" y1="556.0" x2="440.0" y2="565.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="448.7" y1="556.0" x2="448.7" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="457.3" y1="556.0" x2="457.3" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="465.9" y1="556.0" x2="465.9" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="474.6" y1="556.0" x2="474.6" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="483.2" y1="556.0" x2="483.2" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="491.8" y1="556.0" x2="491.8" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="500.4" y1="556.0" x2="500.4" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="509.1" y1="556.0" x2="509.1" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="517.7" y1="556.0" x2="517.7" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="526.3" y1="556.0" x2="526.3" y2="565.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="535.0" y1="556.0" x2="535.0" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="543.6" y1="556.0" x2="543.6" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="552.2" y1="556.0" x2="552.2" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="560.9" y1="556.0" x2="560.9" y2="561.0" stroke="#102a43" stroke-width="1.2" />
+<line x1="569.5" y1="556.0" x2="569.5" y2="570.0" stroke="#102a43" stroke-width="1.2" />
+<rect x="124.0" y="152.0" width="14" height="14" fill="#102a43"/>
+<rect x="569.5" y="152.0" width="14" height="14" fill="#102a43"/>
+<rect x="124.0" y="556.0" width="14" height="14" fill="#102a43"/>
+<rect x="569.5" y="556.0" width="14" height="14" fill="#102a43"/>
+<text x="116.0" y="562.0" font-size="16" text-anchor="end" fill="#102a43" font-weight="normal" font-family="Liberation Sans">48°23′</text>
+<text x="116.0" y="432.0" font-size="16" text-anchor="end" fill="#102a43" font-weight="normal" font-family="Liberation Sans">48°24′</text>
+<text x="116.0" y="302.0" font-size="16" text-anchor="end" fill="#102a43" font-weight="normal" font-family="Liberation Sans">48°25′</text>
+<text x="116.0" y="172.0" font-size="16" text-anchor="end" fill="#102a43" font-weight="normal" font-family="Liberation Sans">48°26′</text>
+<text x="138.0" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°25′</text>
+<text x="224.3" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°24′</text>
+<text x="310.6" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°23′</text>
+<text x="396.9" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°22′</text>
+<text x="483.2" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°21′</text>
+<text x="569.5" y="592.0" font-size="16" text-anchor="middle" fill="#102a43" font-weight="normal" font-family="Liberation Sans">123°20′</text>
+<text x="353.7" y="138.0" font-size="17" text-anchor="middle" fill="#b45309" font-weight="bold" font-family="Liberation Sans">Longitude scale (top and bottom)</text>
+<text x="593.5" y="250.0" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Latitude</text>
+<text x="593.5" y="271.0" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">scale</text>
+<text x="593.5" y="292.0" font-size="16" text-anchor="start" fill="#0f766e" font-weight="normal" font-family="Liberation Sans">(sides)</text>
+<line x1="124.0" y1="361.0" x2="583.5" y2="361.0" stroke="#0f766e" stroke-width="2.2" stroke-dasharray="9 6"/>
+<line x1="396.9" y1="152.0" x2="396.9" y2="570.0" stroke="#b45309" stroke-width="2.2" stroke-dasharray="9 6"/>
+<circle cx="396.9" cy="361.0" r="9" fill="none" stroke="#102a43" stroke-width="2.5"/>
+<circle cx="396.9" cy="361.0" r="2.5" fill="#102a43"/>
+<text x="412.9" y="347.0" font-size="16" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">10:30</text>
+<rect x="148.0" y="327.0" width="99.9" height="28" rx="14" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="158.0" y="347.0" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">48°24.5′ N</text>
+<rect x="406.9" y="522.0" width="113.1" height="28" rx="14" fill="#ffffff" stroke="#b45309" stroke-width="2"/>
+<text x="416.9" y="542.0" font-size="17" text-anchor="start" fill="#b45309" font-weight="bold" font-family="Liberation Sans">123°22.0′ W</text>
+<rect x="40" y="616.0" width="640" height="64" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="60.0" y="642.0" font-size="16" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Write latitude first:</text>
+<text x="60.0" y="666.0" font-size="16" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans"></text>
+<text x="260.0" y="657.0" font-size="22" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">48°24.5′ N,</text>
+<text x="379.5" y="657.0" font-size="22" text-anchor="start" fill="#b45309" font-weight="bold" font-family="Liberation Sans">123°22.0′ W</text>
+<rect x="40" y="696.0" width="640" height="68" rx="12" fill="#fff7e6" stroke="#f0c674" stroke-width="1.5"/>
+<text x="60.0" y="724.0" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">1 minute of latitude = 1 nautical mile.</text>
+<text x="60.0" y="748.0" font-size="16" text-anchor="start" fill="#334e68" font-weight="normal" font-family="Liberation Sans">Measure distance on the side (latitude) scale, never the longitude scale.</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

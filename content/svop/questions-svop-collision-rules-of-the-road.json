@@ -38,7 +38,7 @@
         "Abaft her port beam"
       ],
       "correct_index": 0,
-      "explanation": "The vessel on the right has right of way.",
+      "explanation": "She gives way; the other vessel is the stand-on vessel. The rules never give anyone a right of way.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -187,7 +187,7 @@
       "stem": "A power-driven vessel must generally keep out of the way of a:",
       "options": [
         "Larger power vessel",
-        "Vessel anchored in a channel",
+        "Power vessel crossing from her port side",
         "Faster power vessel",
         "Sailing vessel"
       ],
