@@ -23,65 +23,76 @@
 <text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Know what each item does. Keep it working and easy to reach.</text>
 <line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
 
-<rect x="40" y="116" width="640" height="226" rx="12" fill="#ffffff" filter="url(#s)"/>
-<path d="M111,142 Q147,120 183,142 L191,220 Q187,230 155,230 L151,168 L143,168 L139,230 Q107,230 103,220 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><ellipse cx="147" cy="150" rx="17" ry="13" fill="#ffffff" stroke="#111827" stroke-width="2"/><rect x="109" y="188" width="28" height="7" fill="#e5e7eb" stroke="#64748b" stroke-width="1"/><rect x="157" y="188" width="28" height="7" fill="#e5e7eb" stroke="#64748b" stroke-width="1"/><line x1="103" y1="210" x2="191" y2="210" stroke="#1f2937" stroke-width="4"/><rect x="140" y="205" width="14" height="10" rx="2" fill="#1f2937"/>
-<path d="M354,136 L340,136 Q336,154 318,160 L318,228 L356,228 L356,170 Q356,150 354,136 Z" fill="#dc2626" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M366,136 L380,136 Q384,154 402,160 L402,228 L364,228 L364,170 Q364,150 366,136 Z" fill="#dc2626" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="360" y1="172" x2="360" y2="228" stroke="#1f2937" stroke-width="3" stroke-dasharray="3 2"/><line x1="318" y1="192" x2="402" y2="192" stroke="#1e3a8a" stroke-width="4"/><line x1="318" y1="212" x2="402" y2="212" stroke="#1e3a8a" stroke-width="4"/><rect x="353" y="187" width="14" height="10" rx="2" fill="#1f2937"/><rect x="353" y="207" width="14" height="10" rx="2" fill="#1f2937"/>
-<path d="M551,162 L527,204 L537,210 L555,184 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M595,162 L619,204 L609,210 L591,184 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M551,158 L595,158 L595,232 L577,232 L573,202 L569,232 L551,232 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><circle cx="573" cy="144" r="17" fill="#ea580c" stroke="#111827" stroke-width="2"/><ellipse cx="573" cy="146" rx="9" ry="10" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/><line x1="573" y1="162" x2="573" y2="198" stroke="#1f2937" stroke-width="2"/><rect x="551" y="210" width="44" height="6" fill="#e5e7eb"/><circle cx="530" cy="210" r="7" fill="#ea580c" stroke="#111827" stroke-width="2"/><circle cx="616" cy="210" r="7" fill="#ea580c" stroke="#111827" stroke-width="2"/>
-<line x1="253" y1="136" x2="253" y2="322" stroke="#d9e2ec" stroke-width="1.5"/>
-<line x1="467" y1="136" x2="467" y2="322" stroke="#d9e2ec" stroke-width="1.5"/>
-<text x="147" y="264" font-size="19" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Lifejacket</text>
-<text x="147" y="288" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Turns an unconscious</text>
-<text x="147" y="310" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">person face up</text>
-<text x="360" y="264" font-size="19" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">PFD</text>
-<text x="360" y="288" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Keeps you afloat, does</text>
-<text x="360" y="310" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">not turn you over</text>
-<text x="573" y="264" font-size="19" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Anti-exposure suit</text>
-<text x="573" y="288" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Protects you in</text>
-<text x="573" y="310" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">cold water</text>
-<rect x="40" y="356" width="640" height="128" rx="12" fill="#ffffff" filter="url(#s)"/>
-<path d="M102,382 Q116,384 120,396 Q122,410 118,440" fill="none" stroke="#1f2937" stroke-width="4" stroke-linecap="round"/>
-<rect x="70" y="390" width="40" height="80" rx="12" fill="#dc2626" stroke="#111827" stroke-width="2"/>
-<rect x="80" y="378" width="20" height="14" rx="2" fill="#1f2937"/>
-<path d="M84,378 L66,368 L70,364 L92,374 Z" fill="#475569" stroke="#111827" stroke-width="1.5" stroke-linejoin="round"/>
-<circle cx="104" cy="380" r="5" fill="none" stroke="#facc15" stroke-width="3"/>
-<circle cx="90" cy="412" r="10" fill="#ffffff" stroke="#111827" stroke-width="1.5"/>
-<path d="M83,408 A8,8 0 0 1 97,408" fill="none" stroke="#16a34a" stroke-width="3"/>
-<line x1="90" y1="413" x2="95" y2="406" stroke="#111827" stroke-width="1.5"/>
-<rect x="76" y="430" width="28" height="22" rx="2" fill="#ffffff"/>
-<text x="150" y="390" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fire extinguishers</text>
-<text x="150" y="416" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Check monthly: pin and seal on, gauge in the green.</text>
-<text x="150" y="440" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Know each one's class and where it is.</text>
-<text x="150" y="464" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Test smoke and heat alarms too.</text>
-<rect x="40" y="498" width="640" height="254" rx="12" fill="#ffffff" filter="url(#s)"/>
-<text x="60" y="530" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Flares</text>
-<text x="124" y="530" font-size="17" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">for distress only</text>
-<circle cx="147" cy="562" r="20" fill="#fca5a5" opacity="0.55"/>
-<path d="M147,546 C156,556 157,566 153,574 L141,574 C137,566 139,556 147,546 Z" fill="#ef4444"/>
-<path d="M147,558 C151,564 151,570 149,574 L145,574 C143,570 144,564 147,558 Z" fill="#fef08a"/>
-<rect x="140" y="574" width="14" height="38" rx="2" fill="#dc2626" stroke="#111827" stroke-width="1.5"/>
-<rect x="139" y="610" width="16" height="22" rx="3" fill="#1f2937"/>
-<path d="M330,566 Q360,530 390,566 Z" fill="#f8fafc" stroke="#111827" stroke-width="1.8"/>
-<path d="M330,566 L360,596 L390,566 M350,566 L360,596 L370,566" fill="none" stroke="#64748b" stroke-width="1.2"/>
-<circle cx="360" cy="604" r="13" fill="#fca5a5" opacity="0.6"/>
-<circle cx="360" cy="604" r="7" fill="#ef4444"/>
-<path d="M310,632 Q316,590 326,556" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#ah)"/>
-<rect x="527" y="620" width="92" height="12" rx="4" fill="#a9d8ea"/>
-<circle cx="559" cy="604" r="11" fill="#fb923c" opacity="0.8"/>
-<circle cx="571" cy="590" r="13" fill="#fb923c" opacity="0.8"/>
-<circle cx="587" cy="576" r="14" fill="#fb923c" opacity="0.8"/>
-<circle cx="603" cy="560" r="13" fill="#fb923c" opacity="0.8"/>
-<circle cx="577" cy="568" r="10" fill="#fb923c" opacity="0.8"/>
-<rect x="547" y="604" width="24" height="22" rx="4" fill="#f97316" stroke="#111827" stroke-width="1.5"/>
-<text x="147" y="658" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Hand-held red</text>
-<text x="147" y="680" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Day or night,</text>
-<text x="147" y="700" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">shows your position</text>
-<text x="360" y="658" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Red parachute rocket</text>
-<text x="360" y="680" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Goes high, seen</text>
-<text x="360" y="700" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">from a long way</text>
-<text x="573" y="658" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Orange smoke</text>
-<text x="573" y="680" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Daytime, hand-held</text>
-<text x="573" y="700" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">or floating</text>
-<line x1="60" y1="714" x2="660" y2="714" stroke="#d9e2ec" stroke-width="1.5"/>
-<text x="360" y="738" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Store dry  ·  Check the date  ·  Dispose of old flares properly</text>
+<rect x="40" y="116" width="640" height="166" rx="12" fill="#ffffff" filter="url(#s)"/>
+<g transform="translate(100,172) scale(0.8) translate(0,0)"><path d="M-36,-38 Q0,-60 36,-38 L44,40 Q40,50 8,50 L4,-12 L-4,-12 L-8,50 Q-40,50 -44,40 Z" fill="#f97316" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><ellipse cx="0" cy="-30" rx="17" ry="13" fill="#ffffff" stroke="#111827" stroke-width="2"/><rect x="-38" y="8" width="28" height="7" fill="#e5e7eb" stroke="#64748b" stroke-width="1"/><rect x="10" y="8" width="28" height="7" fill="#e5e7eb" stroke="#64748b" stroke-width="1"/><line x1="-44" y1="30" x2="44" y2="30" stroke="#1f2937" stroke-width="4"/><rect x="-7" y="25" width="14" height="10" rx="2" fill="#1f2937"/></g>
+<text x="158" y="158" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Lifejacket</text>
+<text x="158" y="182" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Turns an unconscious</text>
+<text x="158" y="204" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">person face up</text>
+<line x1="360" y1="134" x2="360" y2="216" stroke="#d9e2ec" stroke-width="1.5"/>
+<g transform="translate(420,172) scale(0.8) translate(0,0)"><path d="M-6,-44 L-20,-44 Q-24,-26 -42,-20 L-42,48 L-4,48 L-4,-10 Q-4,-30 -6,-44 Z" fill="#dc2626" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M6,-44 L20,-44 Q24,-26 42,-20 L42,48 L4,48 L4,-10 Q4,-30 6,-44 Z" fill="#dc2626" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><line x1="0" y1="-8" x2="0" y2="48" stroke="#1f2937" stroke-width="3" stroke-dasharray="3 2"/><line x1="-42" y1="12" x2="42" y2="12" stroke="#1e3a8a" stroke-width="4"/><line x1="-42" y1="32" x2="42" y2="32" stroke="#1e3a8a" stroke-width="4"/><rect x="-7" y="7" width="14" height="10" rx="2" fill="#1f2937"/><rect x="-7" y="27" width="14" height="10" rx="2" fill="#1f2937"/></g>
+<text x="478" y="158" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">PFD</text>
+<text x="478" y="182" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Less buoyancy; may not</text>
+<text x="478" y="204" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">turn you face up</text>
+<line x1="60" y1="226" x2="660" y2="226" stroke="#d9e2ec" stroke-width="1.5"/>
+<text x="360" y="256" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Required on commercial boats; a PFD only if worn and approved</text>
+<rect x="40" y="296" width="640" height="196" rx="12" fill="#ffffff" filter="url(#s)"/>
+<g transform="translate(147,360) scale(0.85) translate(0,0)"><path d="M-22,-24 L-46,18 L-36,24 L-18,-2 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M22,-24 L46,18 L36,24 L18,-2 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M-22,-28 L22,-28 L22,46 L4,46 L0,16 L-4,46 L-22,46 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><circle cx="0" cy="-42" r="17" fill="#ea580c" stroke="#111827" stroke-width="2"/><ellipse cx="0" cy="-40" rx="9" ry="10" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/><line x1="0" y1="-24" x2="0" y2="12" stroke="#1f2937" stroke-width="2"/><rect x="-22" y="24" width="44" height="6" fill="#e5e7eb"/><circle cx="-43" cy="24" r="7" fill="#ea580c" stroke="#111827" stroke-width="2"/><circle cx="43" cy="24" r="7" fill="#ea580c" stroke="#111827" stroke-width="2"/></g>
+<g transform="translate(360,360) scale(0.85) translate(0,0)"><path d="M-22,-24 L-44,16 L-34,22 L-18,-2 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M22,-24 L44,16 L34,22 L18,-2 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M-22,12 L22,12 L22,46 L4,46 L0,22 L-4,46 L-22,46 Z" fill="#1e3a8a" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M-22,-28 L22,-28 L23,16 L-23,16 Z" fill="#ea580c" stroke="#111827" stroke-width="2" stroke-linejoin="round"/><path d="M-10,-28 L0,-18 L10,-28" fill="none" stroke="#111827" stroke-width="2"/><line x1="0" y1="-18" x2="0" y2="14" stroke="#1f2937" stroke-width="2"/><rect x="-22" y="0" width="44" height="5" fill="#e5e7eb"/><rect x="-22" y="34" width="44" height="5" fill="#e5e7eb"/><circle cx="0" cy="-42" r="13" fill="#f2c9a0" stroke="#111827" stroke-width="1.8"/><circle cx="-40" cy="21" r="6" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/><circle cx="40" cy="21" r="6" fill="#f2c9a0" stroke="#111827" stroke-width="1.5"/></g>
+<g transform="translate(573,352) scale(0.85) translate(-94,-417)"><path d="M102,382 Q116,384 120,396 Q122,410 118,440" fill="none" stroke="#1f2937" stroke-width="4" stroke-linecap="round"/><rect x="70" y="390" width="40" height="80" rx="12" fill="#dc2626" stroke="#111827" stroke-width="2"/><rect x="80" y="378" width="20" height="14" rx="2" fill="#1f2937"/><path d="M84,378 L66,368 L70,364 L92,374 Z" fill="#475569" stroke="#111827" stroke-width="1.5" stroke-linejoin="round"/><circle cx="104" cy="380" r="5" fill="none" stroke="#facc15" stroke-width="3"/><circle cx="90" cy="412" r="10" fill="#ffffff" stroke="#111827" stroke-width="1.5"/><path d="M83,408 A8,8 0 0 1 97,408" fill="none" stroke="#16a34a" stroke-width="3"/><line x1="90" y1="413" x2="95" y2="406" stroke="#111827" stroke-width="1.5"/><rect x="76" y="430" width="28" height="22" rx="2" fill="#ffffff"/></g>
+<line x1="253" y1="314" x2="253" y2="474" stroke="#d9e2ec" stroke-width="1.5"/>
+<line x1="467" y1="314" x2="467" y2="474" stroke="#d9e2ec" stroke-width="1.5"/>
+<text x="147" y="428" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Immersion suit</text>
+<text x="147" y="450" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Full survival suit,</text>
+<text x="147" y="472" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">to abandon ship</text>
+<text x="360" y="428" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Anti-exposure</text>
+<text x="360" y="450" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">work suit</text>
+<text x="360" y="472" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Worn while working</text>
+<text x="573" y="428" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Fire extinguisher</text>
+<text x="573" y="450" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Check monthly: pin,</text>
+<text x="573" y="472" font-size="16" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">seal, gauge in green</text>
+<rect x="40" y="506" width="640" height="246" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="60" y="536" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Flares</text>
+<text x="124" y="536" font-size="17" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">for distress only</text>
+<path d="M108,572 Q130,544 152,572 Z" fill="#f8fafc" stroke="#111827" stroke-width="1.8"/>
+<path d="M108,572 L130,594 L152,572 M123,572 L130,594 L137,572" fill="none" stroke="#64748b" stroke-width="1.2"/>
+<circle cx="130" cy="600" r="10" fill="#fca5a5" opacity="0.6"/>
+<circle cx="130" cy="600" r="5.5" fill="#ef4444"/>
+<path d="M90,616 Q94,586 102,562" fill="none" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4"/>
+<rect x="279" y="598" width="10" height="20" rx="2" fill="#dc2626" stroke="#111827" stroke-width="1.5"/>
+<line x1="284" y1="596" x2="263.2" y2="570" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="258" cy="560" r="9" fill="#fca5a5" opacity="0.6"/>
+<path transform="translate(258,560)" d="M0,-6 L1.8,-1.8 L6,0 L1.8,1.8 L0,6 L-1.8,1.8 L-6,0 L-1.8,-1.8 Z" fill="#ef4444"/>
+<line x1="284" y1="596" x2="284.0" y2="562" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="284" cy="552" r="9" fill="#fca5a5" opacity="0.6"/>
+<path transform="translate(284,552)" d="M0,-6 L1.8,-1.8 L6,0 L1.8,1.8 L0,6 L-1.8,1.8 L-6,0 L-1.8,-1.8 Z" fill="#ef4444"/>
+<line x1="284" y1="596" x2="304.8" y2="570" stroke="#94a3b8" stroke-width="2" stroke-dasharray="4 4"/>
+<circle cx="310" cy="560" r="9" fill="#fca5a5" opacity="0.6"/>
+<path transform="translate(310,560)" d="M0,-6 L1.8,-1.8 L6,0 L1.8,1.8 L0,6 L-1.8,1.8 L-6,0 L-1.8,-1.8 Z" fill="#ef4444"/>
+<circle cx="438" cy="566" r="16" fill="#fca5a5" opacity="0.55"/>
+<path d="M438,552 C446,560 447,568 443,576 L433,576 C429,568 431,560 438,552 Z" fill="#ef4444"/>
+<path d="M438,562 C441,567 441,572 440,576 L436,576 C435,572 436,567 438,562 Z" fill="#fef08a"/>
+<rect x="432" y="576" width="12" height="28" rx="2" fill="#dc2626" stroke="#111827" stroke-width="1.5"/>
+<rect x="431" y="602" width="14" height="16" rx="3" fill="#1f2937"/>
+<rect x="550" y="608" width="80" height="11" rx="4" fill="#a9d8ea"/>
+<circle cx="578" cy="594" r="9" fill="#fb923c" opacity="0.8"/>
+<circle cx="588" cy="582" r="11" fill="#fb923c" opacity="0.8"/>
+<circle cx="602" cy="570" r="12" fill="#fb923c" opacity="0.8"/>
+<circle cx="616" cy="558" r="10" fill="#fb923c" opacity="0.8"/>
+<circle cx="594" cy="562" r="8" fill="#fb923c" opacity="0.8"/>
+<rect x="566" y="594" width="20" height="19" rx="4" fill="#f97316" stroke="#111827" stroke-width="1.5"/>
+<text x="130" y="644" font-size="18" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Type A</text>
+<text x="130" y="666" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Rocket parachute</text>
+<text x="130" y="686" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Red, goes high</text>
+<text x="284" y="644" font-size="18" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Type B</text>
+<text x="284" y="666" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Multi-star</text>
+<text x="284" y="686" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Red stars</text>
+<text x="438" y="644" font-size="18" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Type C</text>
+<text x="438" y="666" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Hand flare</text>
+<text x="438" y="686" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Red, day or night</text>
+<text x="590" y="644" font-size="18" text-anchor="middle" fill="#ea580c" font-weight="bold" font-family="Liberation Sans">Type D</text>
+<text x="590" y="666" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Orange smoke</text>
+<text x="590" y="686" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Daytime only</text>
+<line x1="60" y1="700" x2="660" y2="700" stroke="#d9e2ec" stroke-width="1.5"/>
+<text x="360" y="728" font-size="15" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Flares expire 4 years after manufacture  ·  Store dry  ·  Dispose of old flares properly</text>
 <text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
 </svg>
