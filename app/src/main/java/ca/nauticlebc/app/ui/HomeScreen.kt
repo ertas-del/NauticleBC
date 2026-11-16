@@ -87,6 +87,7 @@ fun HomeScreen(
     onOpenChart: () -> Unit,
     onOpenOral: () -> Unit,
     onOpenAlmanac: () -> Unit,
+    onOpenSeaTime: () -> Unit,
     onChangeTicket: () -> Unit,
 ) {
     Scaffold(
@@ -142,6 +143,12 @@ fun HomeScreen(
                 enabled = true,
                 onClick = onOpenAlmanac,
                 note = stringResource(R.string.today_almanac_note),
+            )
+            TodayRow(
+                title = stringResource(R.string.today_sea_time),
+                enabled = true,
+                onClick = onOpenSeaTime,
+                note = stringResource(R.string.today_sea_time_note),
             )
             val titleRes = ticketTitleRes(ticketId)
             TodayRow(

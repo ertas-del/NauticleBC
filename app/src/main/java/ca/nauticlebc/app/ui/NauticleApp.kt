@@ -47,6 +47,7 @@ object Routes {
     const val CHARTS = "charts"
     const val ALMANAC = "almanac"
     const val DUE = "due"
+    const val SEA_TIME = "seatime"
     const val ORAL_PATTERN = "oral/{$ARG_TICKET}"
 
     fun ticket(ticketId: String) = "ticket/$ticketId"
@@ -97,6 +98,7 @@ fun NauticleApp() {
                 onOpenChart = { navController.navigate(Routes.CHARTS) },
                 onOpenOral = { navController.navigate(Routes.oral(ticketId)) },
                 onOpenAlmanac = { navController.navigate(Routes.ALMANAC) },
+                onOpenSeaTime = { navController.navigate(Routes.SEA_TIME) },
                 onChangeTicket = { navController.navigate(Routes.TICKETS) },
             )
         }
@@ -151,6 +153,13 @@ fun NauticleApp() {
 
         composable(Routes.ALMANAC) {
             AlmanacScreen(onBack = { navController.popBackStack() })
+        }
+
+        composable(Routes.SEA_TIME) {
+            SeaTimeScreen(
+                onOpenLesson = { navController.navigate(Routes.lesson(it)) },
+                onBack = { navController.popBackStack() },
+            )
         }
 
         composable(Routes.DUE) {

@@ -1,0 +1,271 @@
+{
+  "module": "canadian-regulations",
+  "questions": [
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q01",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Under the Canada Shipping Act, 2001, who must maintain a record of a crew member's sea service?",
+      "options": [
+        "Only the crew member",
+        "Only the authorized representative",
+        "Both the authorized representative and the crew member",
+        "Transport Canada, from the crew list"
+      ],
+      "correct_index": 2,
+      "explanation": "CSA s. 93(1) puts the duty on the authorized representative and on every crew member. Each keeps a record, so you cannot leave it to the company.",
+      "source_ids": [
+        "seatime-csa-2001"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q02",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "A deckhand is discharged from a Canadian vessel. What must the authorized representative provide?",
+      "options": [
+        "A certificate of discharge",
+        "A steering testimonial",
+        "A copy of the official log book",
+        "A new medical certificate"
+      ],
+      "correct_index": 0,
+      "explanation": "CSA s. 92 requires a certificate of discharge, in the form the Minister specifies, when a crew member is discharged.",
+      "source_ids": [
+        "seatime-csa-2001"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q03",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long before the first exam must the discharge books, certificates of discharge and testimonials reach the examiner?",
+      "options": [
+        "On the exam day",
+        "At least two days",
+        "At least one week",
+        "At least two weeks"
+      ],
+      "correct_index": 3,
+      "explanation": "MPR s. 110(2) says at least two weeks before the first of the examinations the applicant seeks to take.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q04",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "Which group of items must appear on a deck sea service testimonial?",
+      "options": [
+        "Engine make, propulsive power and generator capacity",
+        "Official number, gross tonnage, voyage classification and sign-on and sign-off dates",
+        "Wages paid, next of kin and medical fitness",
+        "Chart numbers, tide tables used and compass error"
+      ],
+      "correct_index": 1,
+      "explanation": "Schedule 4 lists the vessel's name, port of registry, official number, type, gross tonnage and voyage classification, with the dates, rank, days and drills. Engine details belong to the Schedule 5 engine testimonial.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q05",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "Who signs a deck department testimonial to certify it is correct?",
+      "options": [
+        "The applicant alone",
+        "The chief engineer",
+        "Any two crew members",
+        "The master or the authorized representative"
+      ],
+      "correct_index": 3,
+      "explanation": "Schedule 4 item 12 requires the signature of the master or authorized representative. The chief engineer signs the engine testimonial, with the master or authorized representative.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q06",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "What does the master declare in a steering testimonial?",
+      "options": [
+        "The total hours the seafarer spent at the wheel",
+        "The distance the vessel steamed",
+        "The seafarer's days of leave",
+        "The number of pilotage transits made"
+      ],
+      "correct_index": 0,
+      "explanation": "Schedule 3 carries the master's declaration that the seafarer stood regular watches for a stated total of hours at the wheel and is a competent wheelsman.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q07",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "hard",
+      "stem": "Which Canadian vessel must keep an official log book under the Marine Personnel Regulations?",
+      "options": [
+        "A 12 GT water taxi on a sheltered waters voyage",
+        "A 40 GT crew boat on a near coastal voyage, Class 2",
+        "A 150 GT vessel on a near coastal voyage, Class 1",
+        "Every commercial vessel, whatever its size"
+      ],
+      "correct_index": 2,
+      "explanation": "MPR s. 339(1) applies at 100 GT or more on an unlimited voyage, a near coastal voyage Class 1 or an international voyage other than an inland voyage. The two small vessels fail both the tonnage and the voyage tests.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q08",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How must an entry in the official log book be made and signed?",
+      "options": [
+        "Weekly, signed by the owner",
+        "As soon as possible, dated, signed by the master and the chief mate or another crew member",
+        "At the end of the voyage, signed by the master alone",
+        "Within 30 days, signed by any officer"
+      ],
+      "correct_index": 1,
+      "explanation": "MPR s. 339(4) and (5): as soon as possible, showing the date of the event and of the entry, signed by the master and also by the chief mate or another crew member.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q09",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "How long does the authorized representative keep a completed official log book?",
+      "options": [
+        "12 months after the last entry",
+        "Two years after the voyage ends",
+        "Until the master leaves the vessel",
+        "Five years after completion, or until the registration changes if sooner"
+      ],
+      "correct_index": 3,
+      "explanation": "MPR s. 340(5): the earlier of five years after the day the book was completed and the day the vessel's registration changes. Twelve months is the radio record period.",
+      "source_ids": [
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q10",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A 20 GT workboat does not have to keep an official log book. Where are its steering gear checks and emergency steering drills recorded?",
+      "options": [
+        "Nowhere; no record is needed",
+        "In any log book",
+        "Only in the radio record",
+        "On the sea service testimonial"
+      ],
+      "correct_index": 1,
+      "explanation": "NSR 2020 s. 136(4) says the official log book if that Division applies to the vessel, or any log book if it does not.",
+      "source_ids": [
+        "seatime-nsr-2020",
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q11",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "easy",
+      "stem": "What are the rules for the radio record?",
+      "options": [
+        "Signed weekly by the master, kept five years",
+        "No initials needed, kept for the voyage only",
+        "Each entry initialled by the radio operator, kept at least 12 months after the last entry",
+        "Typed only, kept by Transport Canada"
+      ],
+      "correct_index": 2,
+      "explanation": "NSR 2020 s. 247(2) and (3): the operator making an entry initials it, and the record is kept not less than 12 months after the last entry.",
+      "source_ids": [
+        "seatime-nsr-2020"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "canadian-regulations.log-books-and-sea-time-records.q12",
+      "lesson_id": "canadian-regulations.log-books-and-sea-time-records",
+      "tickets": [
+        "bridge-watch-rating",
+        "master-limited-60gt"
+      ],
+      "difficulty": "medium",
+      "stem": "A mate realises yesterday's log entry left out a grounding. What is the right thing to do?",
+      "options": [
+        "Add a new, dated entry now recording the event",
+        "Rewrite yesterday's page so it looks complete",
+        "Leave it out, since the vessel was not damaged",
+        "Wait and mention it at the next inspection"
+      ],
+      "correct_index": 0,
+      "explanation": "CSA s. 23 makes it an offence to make a false entry with intent to mislead or to wilfully omit an entry. A late entry shows both the date of the event and the date it was written (MPR s. 339(4)).",
+      "source_ids": [
+        "seatime-csa-2001",
+        "seatime-mpr-2007"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
