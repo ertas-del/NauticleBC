@@ -32,6 +32,9 @@ figures:
   - id: svop-cardinal-buoys
     caption: "Cardinal buoys"
     alt: "Four yellow and black buoys around a rock. North cardinal: black over yellow, both cones up, pass to the north, continuous quick white flashes. East: black, yellow, black, cones base to base, 3 flashes. South: yellow over black, cones down, 6 quick flashes and a long flash. West: yellow, black, yellow, cones point to point, 9 flashes."
+  - id: pcoc-private-buoys
+    caption: "White buoys with orange symbols"
+    alt: "Six white buoys seen on BC lakes and rivers. An orange diamond means hazard; a diamond with a cross means keep out; an orange circle with a number is a control buoy, such as a 10 km/h limit. An orange square gives information, white floats on a line mark a swim area, and a red flag with a white diagonal stripe means divers nearby."
 source_ids: [bw-ccg-aids-to-navigation-2023, sea-a-ccg-atons-2023-html, pcoc-b-ccg-cans-2023-special, pcoc-b-tp511-2026]
 review_status: needs_expert_review
 ---
@@ -79,6 +82,8 @@ A ==safe water buoy==, also called a ==fairway buoy==, has ==red and white verti
 ==Special buoys== are ==yellow== and show a ==yellow light==. Their ==shape has no meaning==. They are not mainly for navigation. A yellow ==cautionary buoy== warns of something like a firing range, a race course or a pipeline. Check the chart. Other yellow buoys mark anchorage areas and science stations.
 
 ## Private and regulatory buoys on lakes and rivers
+
+{{figure:pcoc-private-buoys}}
 
 On BC lakes and rivers you will see ==white buoys with orange symbols==. Many are private buoys, placed by marinas, towns, clubs or resorts. A private buoy must be marked ==PRIV== and show the owner's name and contact details.
 

@@ -25,6 +25,10 @@ key_facts:
   - "Inflatable PFDs are not allowed for anyone under 16 or on a personal watercraft. They must be worn to count."
   - "A flotation device worn by a person under 16 must be inherently buoyant (foam), not inflatable."
   - "Check your lifejackets and PFDs at least once a year for rips, fading and broken straps or buckles."
+figures:
+  - id: pcoc-safety-gear-by-length
+    caption: "Minimum safety gear by boat length"
+    alt: "A table of the minimum safety gear for a power boat or a sailboat with a motor, in four length bands up to 24 m. Every boat needs a lifejacket or PFD for each person, a reboarding device if the climb is over 0.5 m, and a sound-signalling device. The heaving line, flares, anchor line, bailing and extinguisher needs grow with length."
 source_ids: [pcoc-a-svr-2010-parts-1-2, pcoc-a-tp511-2026, regs-a-svr-2010, sea-c-csbc-1-10-1]
 review_status: needs_expert_review
 ---
@@ -53,6 +57,8 @@ Inflatable PFDs have extra rules.
 - They do not float until they are filled, so they ==must be worn== to count. On an ==open boat==, wear it ==at all times==. On a boat with a cabin, wear it when you are on deck or in the cockpit.
 
 ## The minimum list by length
+
+{{figure:pcoc-safety-gear-by-length}}
 
 This table is for power boats and sailboats with a motor. It shows the minimum the Small Vessel Regulations require.
 

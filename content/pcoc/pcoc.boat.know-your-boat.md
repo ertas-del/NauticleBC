@@ -26,6 +26,9 @@ figures:
   - id: svop-boat-terms
     caption: "Parts and sides of a boat"
     alt: "Side view and top view of a small boat with labels. Side view: bow at the front, stern at the back, gunwale along the top edge, transom across the stern, freeboard from the water up to the deck edge, draught from the water down to the bottom, length overall end to end. Top view: port on the left in red, starboard on the right in green, forward and aft, amidships across the middle, beam as the greatest width."
+  - id: pcoc-compliance-notice
+    caption: "Reading the compliance notice and HIN"
+    alt: "A sample compliance notice near the helm lists the recommended maximum people, weight and outboard power, shown on boats up to 6 m. The boat is full at the people limit or the weight limit, whichever comes first. A view from behind shows the 12-character hull serial number on the upper starboard corner of the transom."
 source_ids: [pcoc-a-tp511-2026, tp14692, pcoc-a-svr-2010-parts-1-2]
 review_status: needs_expert_review
 ---
@@ -62,6 +65,8 @@ A ==planing hull== rises up and skims along the top of the water at speed. Most 
 A ==catamaran== has two hulls joined together. It is wide and steady.
 
 ## The compliance notice (capacity plate)
+
+{{figure:pcoc-compliance-notice}}
 
 Most power boats under 24 m have a ==compliance notice== from the builder. People often call it the ==capacity plate==. You find it ==near the helm==, where the driver can see it.
 

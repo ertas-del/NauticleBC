@@ -23,6 +23,10 @@ key_facts:
   - "Anyone moving a boat in BC, even a kayak, must stop at every open invasive mussel inspection station."
   - "By law, stay at least 100 m from whales, dolphins and porpoises, and 200 m if they are resting or with a calf."
   - "In BC waters, stay at least 200 m from any killer whale. In southern BC, stay 1,000 m from Southern Resident killer whales (2026 to 2027 rule)."
+figures:
+  - id: pcoc-whale-distances
+    caption: "How far to stay from whales in BC"
+    alt: "A whale inside three rings, not to scale: 100 m, 200 m and 1,000 m. Stay 100 m from whales, dolphins and porpoises, and 200 m if resting or with a calf. Stay 200 m from any killer whale in BC, and 1,000 m from Southern Resident killer whales in southern BC from June 1, 2026 to May 31, 2027. If a whale surfaces close, go to neutral and let it pass."
 source_ids: [pcoc-c-tp511-2026, pcoc-c-svr-xml, pcoc-c-vorr-xml, pcoc-c-vpdcr-xml, pcoc-c-mmr-xml, pcoc-c-tc-ssb-08-2026, pcoc-c-tc-news-2026-srkw, pcoc-c-dfo-srkw-2026, pcoc-c-bc-inspection-stations]
 review_status: needs_expert_review
 ---
@@ -93,6 +97,8 @@ Zebra and quagga mussels and other invasive species ride from lake to lake on bo
 If you are moving any boat in BC, even a ==canoe, kayak or paddleboard==, you ==must stop at every open inspection station== on your route. Not stopping can bring a fine.
 
 ## Whales and other marine mammals
+
+{{figure:pcoc-whale-distances}}
 
 It is against the law to ==disturb== a marine mammal. That includes feeding it, swimming with it, chasing it, cutting between a mother and calf, or trapping it against the shore.
 

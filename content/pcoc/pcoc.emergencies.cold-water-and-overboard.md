@@ -25,6 +25,10 @@ key_facts:
   - "Keep the propeller away from a person in the water. Put the engine in neutral or stop it when you are close."
   - "If your boat capsizes or swamps, stay with it. Climb on it if you can. A boat is easier to see than a head."
   - "A reboarding device is required if the climb from the water is more than 0.5 m."
+figures:
+  - id: pcoc-cold-water
+    caption: "Cold water 1-10-1, HELP and huddle"
+    alt: "Three cards: 1 minute of cold shock, so control your breathing; 10 minutes of useful movement to get out or get safe; about an hour before you pass out from cold. Below, a person in a lifejacket floats in the HELP position, arms crossed and knees drawn up, beside three people huddled with chests together."
 source_ids: [pcoc-c-tp511-2026, sea-c-csbc-1-10-1, pcoc-c-svr-xml, pcoc-c-redcross-cold, pcoc-c-nsw-capsize]
 review_status: needs_expert_review
 ---
@@ -64,6 +68,8 @@ Basic first aid:
 - Warm them ==slowly==. Do not rub their skin.
 
 ## HELP and huddle
+
+{{figure:pcoc-cold-water}}
 
 If you are in the water with a lifejacket and cannot get out, keep still to keep your heat.
 

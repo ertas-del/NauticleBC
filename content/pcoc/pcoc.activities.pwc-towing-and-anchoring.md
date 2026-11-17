@@ -30,6 +30,9 @@ figures:
   - id: svop-mooring-lines
     caption: "Mooring lines alongside a dock"
     alt: "A boat seen from above lies alongside a dock with fenders between hull and dock. The bow line runs forward from the bow and the forward spring runs forward from midships; both stop the boat moving astern. The stern line runs aft from the stern and the aft spring runs aft from midships; both stop it moving ahead. Two breast lines go straight across and hold the bow and stern in close."
+  - id: pcoc-towing-and-pwc
+    caption: "Towing a person, and PWC rules"
+    alt: "Left: a boat towing a tuber, with a spotter facing back and a free seat for the person towed, who wears a lifejacket. No towing from 1 hour after sunset to sunrise. Right: a PWC with the throttle off keeps going straight into a dock. No one under 16 may drive a PWC; wear the lanyard. Hand signals: palm up faster, palm down slower, pat on head take me back."
 review_status: needs_expert_review
 ---
 
@@ -57,6 +60,8 @@ Handling:
 - Ride in water at least about 76 cm (30 inches) deep.
 
 ## Towing a skier or tuber
+
+{{figure:pcoc-towing-and-pwc}}
 
 These rules cover water-skiing, wakeboarding, tubing, kneeboarding and parasailing.
 

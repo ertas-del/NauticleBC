@@ -31,6 +31,9 @@ figures:
   - id: svop-night-lights
     caption: "What you see at night"
     alt: "Six night views: a power boat under 12 m seen from ahead with an all-round white light over green and red sidelights; a larger power-driven vessel from her starboard side with a white masthead light and a green sidelight; a boat at anchor with one all-round white light; a trawler with green over white; a vessel not under command with red over red; a vessel restricted in her ability to manoeuvre with red, white, red."
+  - id: pcoc-pleasure-craft-lights
+    caption: "Lights your boat must show at night"
+    alt: "Night views from above. A power boat under 12 m shows a masthead light, sidelights and a stern light, or one all-round white light and sidelights. A sailboat under sail shows sidelights and a stern light, or under 20 m one tricolour lantern at the masthead; with the engine on it shows power lights. A kayak keeps a flashlight ready. At anchor, one all-round white light."
 source_ids: [pcoc-b-crc1416-web, lights-crc1416-xml, pcoc-b-tp511-2026, pcoc-b-svr-2010-part2]
 review_status: needs_expert_review
 ---
@@ -57,6 +60,8 @@ Do not show other bright lights that could be mistaken for navigation lights or 
 A simple memory aid: port wine is red, and "port" and "left" both have four letters.
 
 ## Lights on your boat
+
+{{figure:pcoc-pleasure-craft-lights}}
 
 **Power-driven boat under 12 m.** Show a ==masthead light, sidelights and a stern light==. Or show ==one all-round white light and sidelights==. The sidelights may be in one combined lantern at the bow.
 

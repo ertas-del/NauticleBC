@@ -26,6 +26,10 @@ key_facts:
   - "A pleasure craft licence is valid for 5 years. Report changes within 30 days."
   - "The licence number goes on both sides of the bow, above the waterline, in block letters at least 7.5 cm high."
   - "Impaired operation of a boat is a Criminal Code offence, the same as in a car."
+figures:
+  - id: pcoc-age-power-limits
+    caption: "Power limits for young drivers"
+    alt: "Three rows of engine limits for drivers with no direct supervision. Under 12: up to 10 hp (7.5 kW). Age 12 to 15: up to 40 hp (30 kW). 16 and older: no age limit on power. No one under 16 may drive a personal watercraft, even with supervision. Direct supervision means a person 16 or older is in the boat and watching."
 source_ids: [pcoc-a-copcr-sor-99-53, pcoc-a-tc-proof-competency, pcoc-a-tp511-2026, pcoc-a-svr-2010-parts-1-2, pcoc-a-tc-pcl-after-apply, pcoc-a-tc-news-2026-pcl, pcoc-a-criminal-code-320-14, pcoc-a-justice-c46-legislative-background]
 review_status: needs_expert_review
 ---
@@ -67,6 +71,8 @@ You get the card by passing a test from a course provider ==accredited by Transp
 The card is ==valid for life==. It does not expire. If you lose it, ask the provider who issued it for a new one.
 
 ## Young operators
+
+{{figure:pcoc-age-power-limits}}
 
 Young people need proof of competency too. They also have limits on engine power when they are not directly supervised. ==Direct supervision== means a person ==16 or older== is in the boat and watching them.
 
