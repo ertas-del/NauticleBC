@@ -17,6 +17,10 @@ key_facts:
   - "Radar sends out pulses of radio energy and measures the time it takes for the echo to return. The time gives range, and the antenna direction gives bearing."
   - "Range is more accurate than bearing, so fix by ranges where you can."
   - "A target with constant bearing and decreasing range means risk of collision exists."
+figures:
+  - id: svop-radar-screen
+    caption: "Parts of a head-up radar picture"
+    alt: "A round radar screen with your boat at the centre and the heading line pointing up, with range rings every 2 nautical miles out to 6. A dashed electronic bearing line and a dashed variable range marker cross at a moving target echo 3.4 miles off. Land shows as a large solid echo, rain as a fuzzy patch, and sea clutter as speckles around the boat. Knobs below are labelled range, gain, sea clutter, rain clutter, tuning and brilliance."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -42,6 +46,8 @@ The display shows echoes as spots at the right range and bearing, with your own 
 4. Adjust the controls (below) to get a clear picture.
 
 ## Main controls
+
+{{figure:svop-radar-screen}}
 
 - ==Range==: how far the picture shows. Use a short range for close-quarters and a longer range for early warning.
 - ==Gain==: sets the receiver sensitivity. Too high and the picture is noisy. Too low and weak targets vanish.

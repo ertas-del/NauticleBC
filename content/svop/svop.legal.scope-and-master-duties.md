@@ -16,6 +16,10 @@ key_facts:
   - "SVOP covers commercial vessels up to 5 gross tonnage (not tugs), and fishing vessels up to 15 GT or 12 m, on near coastal Class 2 or sheltered waters voyages."
   - "A pleasure craft is used only for recreation. If it carries paying passengers or is used for work or trade, it is a commercial vessel."
   - "The master is responsible for the safety of people, the vessel and the environment, and for keeping the vessel within its legal limits."
+figures:
+  - id: svop-who-needs-svop
+    caption: "Who and where the SVOP covers"
+    alt: "Two boats: a small commercial vessel up to 5 gross tonnage, with tugs excluded, and a fishing vessel up to 15 gross tonnage or not more than 12 metres long. A coastline shows the two voyage areas, sheltered waters and near coastal Class 2, day or night and in restricted visibility. The operator must be at least 18. A note says to check current limits with Transport Canada."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -25,6 +29,8 @@ review_status: needs_expert_review
 The Small Vessel Operator Proficiency (SVOP) is the entry-level certificate for people who run small commercial boats. Before you learn how to drive one, you need to know where the certificate applies and what the law expects of you.
 
 ## What the SVOP allows
+
+{{figure:svop-who-needs-svop}}
 
 On a ==near coastal Class 2== or ==sheltered waters== voyage, in normal operating conditions (including darkness and restricted visibility), an SVOP holder may be the operator of:
 

@@ -16,6 +16,10 @@ key_facts:
   - "Check lifejackets and PFDs for damage, wear and fit. Replace any that are torn, mouldy or have faulty buckles."
   - "Flares must be in date, kept dry, and within reach. Out-of-date flares must be disposed of at an approved place, not thrown away or fired."
   - "When towing, use a strong line, tow from a strong point, and keep the speed low and the lines clear of people."
+figures:
+  - id: svop-lifesaving-gear
+    caption: "Lifejackets, suits, extinguishers and flares"
+    alt: "A lifejacket turns an unconscious person face up; a PFD has less buoyancy and counts only if worn and approved. An immersion suit is for abandoning ship and an anti-exposure work suit is worn while working. Four distress flares: Type A rocket parachute, Type B multi-star, Type C hand flare, all red, and Type D orange smoke for daytime only."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -25,6 +29,8 @@ review_status: needs_expert_review
 Safety gear is only useful if it works when you need it. Checking it is part of the job.
 
 ## Lifejackets, PFDs and anti-exposure suits
+
+{{figure:svop-lifesaving-gear}}
 
 - A ==lifejacket== is built to turn an unconscious person face up. A ==PFD== (personal flotation device) has less buoyancy and may not turn an unconscious person face up.
 - A small commercial vessel must carry an approved ==lifejacket== of the right size for each person on board, ==easy to reach==. Transport Canada accepts approved PFDs instead only if they are ==worn whenever the boat is underway== and meet its conditions (bright colour, enough buoyancy, reflective tape, a whistle). Inflatables are not allowed for anyone under 16.

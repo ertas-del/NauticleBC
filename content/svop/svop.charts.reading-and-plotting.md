@@ -17,6 +17,10 @@ key_facts:
   - "Latitude is read from the side scale. Longitude is read from the top or bottom scale. One minute of latitude is one nautical mile."
   - "Chart depths (soundings) are measured from chart datum, close to the lowest normal tide."
   - "Time = distance divided by speed. 12 nautical miles at 6 knots takes 2 hours."
+figures:
+  - id: svop-latitude-longitude
+    caption: "Plotting a position from the chart scales"
+    alt: "A chart section with latitude scales on the left and right edges and longitude scales on the top and bottom edges. A marked position has dashed lines running across to the side scale, reading 48 degrees 14.5 minutes north, and down to the bottom scale, reading 123 degrees 27.0 minutes west. The position is written latitude first. A note says one minute of latitude equals one nautical mile, so measure distance on the side scale, never the longitude scale."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -47,6 +51,8 @@ Charted depths are measured from ==chart datum==, a low-water level. On Canadian
 - Measure distance using the ==latitude scale at the same level as your track==, never the longitude scale.
 
 ## Plotting a position
+
+{{figure:svop-latitude-longitude}}
 
 To plot 48° 14.5′ N, 123° 27.0′ W:
 

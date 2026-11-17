@@ -17,6 +17,10 @@ key_facts:
   - "Sea state depends on wind speed, duration and fetch (the distance over which the wind blows)."
   - "Wind against current steepens waves and makes short, breaking seas."
   - "Land effects can accelerate or deflect wind. Narrow channels funnel wind to much higher speeds than forecast."
+figures:
+  - id: svop-wind-against-tide
+    caption: "Wind against current makes steep, breaking seas"
+    alt: "Two scenes side by side. On the left, the wind and the current both flow the same way, and the waves are long and low with a boat sitting level. On the right, the wind blows against the current, and the waves are short, steep and breaking with a boat pitching. A note says to cross when wind and current go the same way."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -33,6 +37,8 @@ The wind speed in a forecast is only part of the picture. The sea you meet depen
 - ==Swell==: waves from distant weather that arrive even when the local wind is calm.
 
 ## Wind against current or tide
+
+{{figure:svop-wind-against-tide}}
 
 When wind blows against a current or tide, waves become ==steeper, shorter and breaking==. Tide rips and narrow passages can be dangerous for small boats, even in moderate wind. Check the tide and current tables, and try to cross when the current and wind are going the same way.
 

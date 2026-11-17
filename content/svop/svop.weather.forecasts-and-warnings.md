@@ -16,6 +16,10 @@ key_facts:
   - "Canadian marine wind categories: light under 12 knots, moderate 12 to 19, strong 20 to 33, gale 34 to 47, storm 48 to 63, hurricane force 64 and over."
   - "A falling barometer and a backing wind in the Northern Hemisphere generally mean worsening weather. A fast fall means strong winds are likely."
   - "Check forecasts before leaving and listen again while at sea."
+figures:
+  - id: svop-wind-warnings
+    caption: "Canadian marine wind warnings by wind speed"
+    alt: "A colour scale of wind speed in knots. Under 20 knots there is no wind warning. A strong wind warning covers 20 to 33 knots, a gale warning 34 to 47 knots, a storm warning 48 to 63 knots, and a hurricane force wind warning 64 knots and over. In a small boat, delay or cancel the trip when a warning is out."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -47,6 +51,8 @@ Forecasts are ==predictions==, not guarantees. Reliability falls with time: the 
 | ==Hurricane force== | 64 and over |
 
 ## Warnings
+
+{{figure:svop-wind-warnings}}
 
 - ==Strong wind warning==: winds 20 to 33 knots. Dangerous to small boats. On the BC coast it is only issued for the southern inner waters, from March 20 to November 11.
 - ==Gale warning==: winds 34 to 47 knots.
