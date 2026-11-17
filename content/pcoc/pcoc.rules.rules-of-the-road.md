@@ -38,7 +38,7 @@ figures:
   - id: svop-sound-signals
     caption: "Sound signals"
     alt: "Sound signal chart. A short blast is about 1 second and a prolonged blast 4 to 6 seconds. One short: altering course to starboard. Two short: altering to port. Three short: operating astern propulsion. Five or more short: I doubt your intentions. One prolonged: nearing a bend. In restricted visibility, one prolonged every 2 minutes for a power-driven boat making way, two prolonged when stopped."
-source_ids: [pcoc-b-crc1416-web, pcoc-b-tp511-2026, pcoc-b-svr-2010-part2, lights-crc1416-xml]
+source_ids: [pcoc-b-crc1416-web, pcoc-b-tp511-2026, pcoc-b-svr-2010-part2, lights-crc1416-xml, pcoc-b-vorr-2008]
 review_status: needs_expert_review
 ---
 
@@ -52,7 +52,7 @@ Keep a ==proper lookout== at all times. Use your eyes and your ears, and any oth
 
 ## Safe speed
 
-Always go at a ==safe speed==: a speed at which you can stop or turn in time. There is no single number. It depends on how far you can see, how much traffic there is, how fast your boat stops and turns, wind, waves and current, and nearby dangers. At night, bright shore lights can hide other boats. In fog, rain, smoke or darkness, ==slow is the only safe speed==. You are ==responsible for your wake== and any harm it causes.
+Always go at a ==safe speed==: a speed at which you can stop or turn in time. There is no single number. It depends on how far you can see, how much traffic there is, how fast your boat stops and turns, wind, waves and current, and nearby dangers. At night, bright shore lights can hide other boats. In fog, rain, smoke or darkness, ==slow is the only safe speed==. You are ==responsible for your wake== and any harm it causes. On BC lakes and rivers, the limit within ==30 m of shore== is ==10 km/h==, with some exceptions, such as towing a skier straight out from shore.
 
 ## Is there a risk of collision?
 
