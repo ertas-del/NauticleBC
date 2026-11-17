@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Cold water: 1-10-1</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<linearGradient id="nightP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d36"/><stop offset="1" stop-color="#12294a"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+</marker>
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Cold water: 1-10-1</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Cold water hits fast. Your lifejacket keeps your head up while you cope.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<text x="40" y="132" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">If you fall into cold water</text>
+<rect x="40" y="146" width="200" height="228" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="40" y="146" width="200" height="8" rx="4" fill="#dc2626"/>
+<text x="140" y="212" font-size="52" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">1</text>
+<text x="140" y="240" font-size="20" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">minute</text>
+<text x="140" y="274" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Cold shock</text>
+<text x="140" y="300" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">You gasp. Control your</text>
+<text x="140" y="321" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">breathing. Keep your</text>
+<text x="140" y="342" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">face out of the water.</text>
+<rect x="260" y="146" width="200" height="228" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="260" y="146" width="200" height="8" rx="4" fill="#d97706"/>
+<text x="360" y="212" font-size="52" text-anchor="middle" fill="#d97706" font-weight="bold" font-family="Liberation Sans">10</text>
+<text x="360" y="240" font-size="20" text-anchor="middle" fill="#d97706" font-weight="bold" font-family="Liberation Sans">minutes</text>
+<text x="360" y="274" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Useful movement</text>
+<text x="360" y="300" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Get out, or climb onto</text>
+<text x="360" y="321" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">something, while your</text>
+<text x="360" y="342" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">hands and legs still work.</text>
+<rect x="480" y="146" width="200" height="228" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="480" y="146" width="200" height="8" rx="4" fill="#1d4ed8"/>
+<text x="580" y="212" font-size="52" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Liberation Sans">1</text>
+<text x="580" y="240" font-size="20" text-anchor="middle" fill="#1d4ed8" font-weight="bold" font-family="Liberation Sans">hour</text>
+<text x="580" y="274" font-size="18" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Hypothermia</text>
+<text x="580" y="300" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">About an hour before</text>
+<text x="580" y="321" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">you pass out from cold.</text>
+<text x="580" y="342" font-size="15" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Wear your lifejacket!</text>
+<path d="M243,252 l12,8 l-12,8 z" fill="#627d98"/>
+<path d="M463,252 l12,8 l-12,8 z" fill="#627d98"/>
+<text x="40" y="408" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Can't get out? Keep still to keep your heat</text>
+<rect x="40" y="422" width="310" height="310" rx="12" fill="#ffffff" filter="url(#s)"/><rect x="54" y="522" width="282" height="140" rx="8" fill="url(#sea)"/><text x="195" y="456" font-size="24" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">HELP</text><text x="195" y="480" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Heat Escape Lessening Position</text><text x="195" y="690" font-size="17" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Arms crossed tight on</text><text x="195" y="712" font-size="17" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">your chest, knees drawn up.</text>
+<rect x="165" y="526" width="52" height="80" rx="16" fill="#f97316" stroke="#c2410c" stroke-width="2"/>
+<circle cx="191" cy="516" r="17" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M174,514 a17,17 0 0 1 34,0 q-17,-6 -34,0 z" fill="#7c4a2d"/><circle cx="197" cy="518" r="1.8" fill="#111827"/><path d="M193,524 q5,3 9,-1" fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M173,536 L209,560 M209,536 L173,560" stroke="#1e3a5f" stroke-width="10" stroke-linecap="round"/>
+<path d="M185,600 L229,572 L217,628" fill="none" stroke="#334e68" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="54" y="548" width="282" height="114" fill="#a9d8ea" fill-opacity="0.35"/><clipPath id="c54"><rect x="54" y="542" width="282" height="12"/></clipPath><path clip-path="url(#c54)" d="M54,548 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0" fill="none" stroke="#0e7490" stroke-width="1.8"/>
+<rect x="370" y="422" width="310" height="310" rx="12" fill="#ffffff" filter="url(#s)"/><rect x="384" y="522" width="282" height="140" rx="8" fill="url(#sea)"/><text x="525" y="456" font-size="24" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Huddle</text><text x="525" y="480" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Two or more people</text><text x="525" y="690" font-size="17" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">Hold each other close,</text><text x="525" y="712" font-size="17" text-anchor="middle" fill="#102a43" font-family="Liberation Sans">chests together.</text>
+<path d="M519,584 l-6,40 M531,584 l6,40" stroke="#334e68" stroke-width="12" stroke-linecap="round"/>
+<rect x="501" y="526" width="48" height="66" rx="15" fill="#2563eb" stroke="#1e40af" stroke-width="2"/>
+<circle cx="525" cy="514" r="16" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M509,512 a16,16 0 0 1 32,0 q-16,-6 -32,0 z" fill="#7c4a2d"/><circle cx="520" cy="516" r="1.8" fill="#111827"/><circle cx="530" cy="516" r="1.8" fill="#111827"/><path d="M520,522 q5,4 10,0" fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M475,592 l-6,40 M487,592 l6,40" stroke="#334e68" stroke-width="12" stroke-linecap="round"/>
+<rect x="457" y="534" width="48" height="66" rx="15" fill="#f97316" stroke="#c2410c" stroke-width="2"/>
+<circle cx="481" cy="522" r="16" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M465,520 a16,16 0 0 1 32,0 q-16,-6 -32,0 z" fill="#7c4a2d"/><circle cx="487" cy="524" r="1.8" fill="#111827"/><path d="M483,530 q5,3 9,-1" fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M563,592 l-6,40 M575,592 l6,40" stroke="#334e68" stroke-width="12" stroke-linecap="round"/>
+<rect x="545" y="534" width="48" height="66" rx="15" fill="#16a34a" stroke="#15803d" stroke-width="2"/>
+<circle cx="569" cy="522" r="16" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M553,520 a16,16 0 0 1 32,0 q-16,-6 -32,0 z" fill="#7c4a2d"/><circle cx="563" cy="524" r="1.8" fill="#111827"/><path d="M567,530 q-5,3 -9,-1" fill="none" stroke="#111827" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M459,554 Q525,536 591,554" fill="none" stroke="#1e3a5f" stroke-width="9" stroke-linecap="round"/>
+<rect x="384" y="548" width="282" height="114" fill="#a9d8ea" fill-opacity="0.35"/><clipPath id="c384"><rect x="384" y="542" width="282" height="12"/></clipPath><path clip-path="url(#c384)" d="M384,548 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0 q6,-4 12,0 t12,0" fill="none" stroke="#0e7490" stroke-width="1.8"/>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

@@ -1,0 +1,191 @@
+{
+  "sources": [
+    {
+      "id": "pcoc-c-tp511-2026",
+      "title": "TP 511E Safe Boating Guide: Safety Tips and Requirements for Pleasure Craft (2026 accessible PDF)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2026-05/boating_guide_2026_en_acc.pdf",
+      "edition": "TP 511E, 2026 edition (PDF posted 2026-05); accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool in several passes over the accessible PDF (characters 0 to about 209 000); the PDF was not opened directly, and short quotes were checked by asking the tool for exact wording. Supports: wake can damage boats, docks and shorelines and endanger swimmers, divers and small boats, and the operator is responsible for any damage or harm caused; 10 km/h within 30 m of shore in listed waters including BC inland waters, posted or not, with exceptions (towing at 90 degrees from shore, rivers under 100 m wide, canals, buoyed channels, waters with another limit); boats with toilets need a holding tank, marine sanitation device or temporary storage, pump out at shore facilities, no untreated sewage in inland waters and some interior BC lakes; fuelling care, absorbent pads, run bilge pumps only when the bilge holds only water, bilge cleaners do not remove oil, report pollution; bring all garbage home; Clean, Drain, Dry steps (remove plants, animals and mud on land, pull the drain plug and empty the bilge, dry completely before the next waterbody); disturbing marine mammals is prohibited, 100 m or more by law with greater distances in some areas, move slowly away if they seem agitated; diver-down flag and Alpha flag, keep at least 100 m away; cold water: about 94 per cent of drowned boaters were in water under 20 degrees C, cold shock in the first minute, cold incapacitation in about 10 minutes, hypothermia (below 35 degrees C) can take about an hour to cause unconsciousness; hypothermia signs; HELP and huddle positions; swim only to reach others or safety; climb onto a floating object; lifejacket facts (about 90 per cent of boating drownings not wearing one, inflatables not for under 16, PWC or high-impact activities, wear inflatables in open boats); reboarding device needed if the climb is more than 0.5 m; person overboard steps (alarm, slow or stop, throw something that floats, one person keeps watching, approach slowly, keep the propeller away, stop alongside in neutral, use a line or lifebuoy); visual distress signals and four flare types with burn times, fire aerial flares into the wind at an angle, flares expire 4 years after manufacture, store within reach in a cool dry place, dispose of through the distributor, never soak, sink or bin them or fire them except in an emergency; a two-way radio, 406 MHz PLB or EPIRB lets you halve the flare count; VHF channel 16 for distress and calling, channel 70 DSC (no voice), MMSI, all VHF operators need a ROC(M), Mayday, Pan-Pan and Securite meanings and the Mayday message order, cancelling a false DSC alert; *16 reaches the nearest Coast Guard MCTS centre but service is limited, check with your provider, a phone is not a substitute for a marine radio; fire classes A, B and C, choose an ABC extinguisher, a bigger number means a bigger fire, aim at the base and sweep, keep the fire downwind, check extinguishers monthly; duty to help when you see a distress signal if it does not put you or your boat at risk; anchoring scope 3, 5 and 7 times the depth, lower the anchor from the bow, never throw it, watch for dragging; PWC: operator at least 16, most PWC need power to steer, no brakes, inherently buoyant lifejacket or PFD, attach the engine cut-off lanyard, no operation after dark without navigation lights; towing: a spotter, an empty seat for each person towed, a PWC that tows must be designed to carry three or more, a lifejacket for anyone towed who is not wearing one, no towing in poor visibility or later than one hour after sunset, no remote-controlled towing; overtaking vessel keeps clear; sound signals one short = altering to starboard, two short = altering to port, five short = danger. The guide says hand signals and capsize advice only briefly or not at all in the part read. Crown copyright; paraphrase only."
+    },
+    {
+      "id": "pcoc-c-svr-xml",
+      "title": "Small Vessel Regulations, SOR/2010-91 (consolidated XML): ss. 1, 6-22, Part 2 (ss. 200-218), Part 10 (ss. 1000-1007), Part 11 (s. 1100)",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2010-91.xml",
+      "edition": "Consolidated XML, repository commit 855cdfc (2026-11-16); read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: definition of personal watercraft (under 4 m, internal combustion engine driving a water-jet pump, rider sits, stands or kneels on it rather than in a hull); inflatable PFDs must be worn in an open vessel and lifejackets or PFDs on a PWC must be inherently buoyant (s. 10); extinguisher classes A, B, C and K (s. 13); pyrotechnic distress signals expire four years after manufacture (s. 20); Part 2 pleasure craft: operator takes all reasonable steps for the safety of the craft and everyone on board (s. 201), PFD or lifejacket for under 16 must be inherently buoyant (s. 202), PFD or lifejacket for each person and a reboarding device unless the climb is not more than 0.5 m (s. 204), visual signals by length (s. 205: not more than 6 m a watertight flashlight or three pyrotechnic signals; over 6 m to 9 m a flashlight and six; over 9 m a flashlight and twelve), anchor and rode lengths 15 m, 30 m and 50 m by length (s. 206), 5B:C and 10B:C extinguishers by length (s. 208), pyrotechnic exceptions within one nautical mile of shore on a river, canal or lake and the 50 per cent reduction with two-way radio, 406 MHz PLB or EPIRB (s. 213), PWC reduced equipment list when everyone wears a PFD or lifejacket (s. 218); Part 10: fuel must not leak or be discharged except as allowed by the pollution regulations (s. 1002), towing a person needs a person other than the operator watching and communicating, seating space for every person towed, a PFD or lifejacket worn or carried for each person towed, and no towing in restricted visibility or from one hour after sunset until sunrise (s. 1005), no towing yourself with a remote-controlled vessel (s. 1006), no careless operation, without due care and attention or without reasonable consideration for others (s. 1007). Not legal advice; the live consolidation on Justice Laws governs."
+    },
+    {
+      "id": "pcoc-c-vorr-xml",
+      "title": "Vessel Operation Restriction Regulations, SOR/2008-120 (consolidated XML), whole text",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2008-120.xml",
+      "edition": "Consolidated XML (current to 2025-08-21, includes SOR/2025-158), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: local restrictions (no-boating, no-motor, power limits, speed limits, towing hours, wake-surf hours) are listed by water body in the schedules of TP 15587 (s. 2(1)-(6.1)); no more than 10 km/h within 30 m of shore for power-driven and electric vessels on the rivers and lakes of British Columbia (and listed other provinces), not on BC coastal waters (s. 2(7)); exceptions for a vessel towing a person on a course away from and perpendicular to shore, rivers under 100 m wide, canals, buoyed channels and waters with a Schedule 5 limit (s. 2(8)); local authorities apply to the Minister for new restrictions after public consultation (s. 4); only authorized signs (ss. 5-10); False Creek anchoring limits (s. 14); safe operation: take into account dangers and avoid endangering people in any activity on the water (s. 15); age limits: under 12 not more than 7.5 kW and 12 to 15 not more than 30 kW without direct supervision by someone 16 or older, and no one under 16 may operate a personal watercraft (ss. 18-21). Not legal advice."
+    },
+    {
+      "id": "pcoc-c-mmr-xml",
+      "title": "Marine Mammal Regulations, SOR/93-56 (consolidated XML): ss. 7-7.1, 39 and Schedule VI",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-93-56.xml",
+      "edition": "Consolidated XML (current to 2025-07-24), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: no person shall disturb a marine mammal; disturb includes approaching to feed, swim with or interact with it, move it, separate it from its group or go between it and a calf, trap it between a vessel and shore or other vessels, or tag it (s. 7(1)-(2)); Schedule VI approach distances: whales, dolphins and porpoises 100 m in all Canadian fisheries waters year-round (item 1), killer whales 200 m in all Canadian fisheries waters in the Pacific Ocean and British Columbia year-round (item 8); 200 m from a whale, dolphin or porpoise that is resting or with its calf (s. 7(4)); the approach distances do not apply to a vessel in transit (s. 7(5)); report any accidental contact with a marine mammal to the Minister (s. 39). The 2026 Southern Resident killer whale measures are in separate Transport Canada and DFO sources."
+    },
+    {
+      "id": "pcoc-c-vpdcr-xml",
+      "title": "Vessel Pollution and Dangerous Chemicals Regulations, SOR/2012-69 (consolidated XML): ss. 4, 83-96, 98-101, 131.1, 132 and Schedule 2",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-2012-69.xml",
+      "edition": "Consolidated XML (current to 2025-12-29), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: oil, oily mixtures and garbage are prescribed pollutants (s. 4); definitions of designated sewage area, holding tank and inland waters of Canada (all rivers, lakes and other navigable fresh waters) (s. 83); a vessel with a toilet must have a holding tank or a marine sanitation device (s. 86); sewage discharge rules (s. 96): outside a designated sewage area only through a marine sanitation device meeting 250 fecal coliforms per 100 mL, in a designated sewage area 14 per 100 mL; for a vessel under 400 GT certified for not more than 15 persons in coastal waters (not inland waters or a designated area), treated sewage at least 1 nautical mile from shore or untreated sewage at least 3 nautical miles from shore while under way at the fastest feasible speed, with special rules for waters under 6 nautical miles wide; Schedule 2 BC designated sewage areas: Shuswap, Mara, Okanagan, Christina, Horsefly, Kalamalka and Stuart lakes, Pilot Bay (Kootenay Lake), and on the coast Carrington Bay, Cortes Bay, Manson's Landing and Gorge Harbour, Montague Harbour, Pilot Bay (Gabriola), Prideaux Haven, Roscoe Bay, Smuggler Cove and Squirrel Cove; garbage may be discharged only in the circumstances of s. 101, which are all at least 3, 12 or 25 nautical miles from land, never plastics; greywater released into the water must not deposit solids or leave a sheen (s. 131.1(4)); report prohibited discharges (s. 132). The Fishing Zones orders defining Section I and II waters were not read. Not legal advice."
+    },
+    {
+      "id": "pcoc-c-colregs-xml",
+      "title": "Collision Regulations, C.R.C., c. 1416 (consolidated XML): Rules 6, 9, 13, 34 and Annex IV",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/C.R.C.,_c._1416.xml",
+      "edition": "Consolidated XML (current to 2025-07-24), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: safe speed factors (Rule 6); a vessel overtaking any other vessel keeps out of the way; overtaking means coming up from more than 22.5 degrees abaft the beam; if in doubt, assume you are overtaking (Rule 13); manoeuvring signals one short blast altering to starboard, two short altering to port, three short operating astern propulsion, five short and rapid blasts when in doubt (Rule 34); Annex IV distress signals including continuous sounding of a fog-signalling apparatus, red stars, SOS, the spoken word MAYDAY, flags N over C, a square flag with a ball, flames on the vessel, a rocket parachute flare or hand flare showing red, orange smoke, slowly raising and lowering outstretched arms, a DSC distress alert on VHF channel 70, EPIRB signals, and, in Canadian waters, a square shape and a white light flashing 50 to 70 times a minute; using these signals except in distress is prohibited."
+    },
+    {
+      "id": "pcoc-c-csa-xml",
+      "title": "Canada Shipping Act, 2001, S.C. 2001, c. 26 (consolidated XML): ss. 131-133",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/acts/C-10.15.xml",
+      "edition": "Consolidated XML (current to 2025-07-24), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: the master of a vessel in Canadian waters who receives a distress signal from any source must proceed with all speed to assist, and inform those in distress if possible, unless unable or it is unreasonable or unnecessary (s. 131); the master must render assistance to every person found at sea and in danger of being lost (s. 132). The Act's definition of master was not re-read in this pass; on a pleasure craft the operator is in charge."
+    },
+    {
+      "id": "pcoc-c-radio-regs-xml",
+      "title": "Radiocommunication Regulations, SOR/96-484 (consolidated XML): ss. 26-27 and 33-34",
+      "publisher": "Department of Justice Canada (laws-lois-xml open data repository)",
+      "url": "https://github.com/justicecanada/laws-lois-xml/blob/main/eng/regulations/SOR-96-484.xml",
+      "edition": "Consolidated XML (current to 2025-07-24), repository commit 855cdfc; read 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": true,
+      "notes": "Read word for word from the XML by the author of this lane. Supports: a person may operate radio apparatus in the maritime service only if they hold an appropriate radio operator certificate (s. 33), and may let another person operate it only if that person holds one (s. 34); the Restricted Operator Certificate with Maritime Qualification is one of the certificates (s. 26). The name ROC(M) and who issues it come from the Safe Boating Guide and the ISED FAQ."
+    },
+    {
+      "id": "pcoc-c-tc-ssb-08-2026",
+      "title": "Protecting killer whales in the waters of southern British Columbia, 2026, Ship Safety Bulletin No. 08/2026",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/node/40077",
+      "edition": "SSB 08/2026, replaces SSB 09/2025; accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: under the Interim Order for the Protection of the Southern Resident Killer Whale in the Waters of Southern British Columbia, 2026 (in effect June 1, 2026), vessels must stay at least 1000 m from Southern Resident killer whales in the Salish Sea south of Campbell River and in their critical habitat, June 1, 2026 to May 31, 2027, with exemptions for vessels in transit and authorized activities; two vessel restricted zones (off southwest North Pender Island and the eastern tip of Saturna Island) closed to navigation June 1 to November 30, 2026, with exemptions; two 10-knot speed restricted zones near Swiftsure Bank and a voluntary 10-knot zone in Tumbo Channel, June 1 to November 30, 2026; penalties up to a $250 000 administrative monetary penalty; check NAVWARNs and NOTMARs."
+    },
+    {
+      "id": "pcoc-c-tc-news-2026-srkw",
+      "title": "Government of Canada announces stronger protections for Southern Resident killer whales in 2026 (news release)",
+      "publisher": "Transport Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/04/government-of-canada-announces-stronger-protections-for-southern-resident-killer-whales-in-2026.html",
+      "edition": "April 2026; accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: the approach distance for Southern Resident killer whales rises from 400 m to 1000 m for June 1, 2026 to May 31, 2027; proposed amendments to the Marine Mammal Regulations to make the 1000 m distance permanent were published for comment (closing April 21, 2026); other killer whales (Bigg's, offshore, northern resident) stay at the 200 m distance of the Marine Mammal Regulations."
+    },
+    {
+      "id": "pcoc-c-dfo-srkw-2026",
+      "title": "Overview of 2026 management measures to support Southern Resident killer whale recovery",
+      "publisher": "Fisheries and Oceans Canada, Pacific Region",
+      "url": "https://www.pac.dfo-mpo.gc.ca/fm-gp/mammals-mammiferes/whales-baleines/docs/srkw-measures-mesures-ers/srkw-ers-overview-apercu-eng.html",
+      "edition": "2026 measures; accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: stay 1000 m from Southern Resident killer whales in southern BC coastal waters between Campbell River and just north of Ucluelet; 200 m from all other killer whales in Pacific Canadian waters; 200 m from whales, dolphins and porpoises that are resting or with a calf, 100 m from all others; where you cannot tell which killer whale population it is, you are encouraged to stay 1000 m away; voluntary: slow to under 7 knots within 1000 m of a killer whale, turn off echo sounders when not in use, stop fishing within 1000 m, and if too close put the engine in neutral and let the animals pass; vessel restricted zones and salmon fishing closures in the Gulf Islands and elsewhere June to November."
+    },
+    {
+      "id": "pcoc-c-bc-inspection-stations",
+      "title": "B.C. watercraft inspection stations (invasive mussels)",
+      "publisher": "Government of British Columbia",
+      "url": "https://www2.gov.bc.ca/gov/content/invasive-mussels/bc-watercraft-inspection-stations",
+      "edition": "accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: anyone transporting a watercraft in BC, including canoes, kayaks, paddleboards and inflatables, must stop at every open invasive mussel inspection station on the route; failing to stop can bring a $690 fine; stations run from early April to late October; a low-risk boat is clean, drained, dry and free of mud, plants and invasive species. The page does not name the provincial regulation."
+    },
+    {
+      "id": "pcoc-c-nsw-capsize",
+      "title": "Capsizing and swamping",
+      "publisher": "Transport for NSW (NSW Government, Australia)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/capsizing-and-swamping",
+      "edition": "last modified 2024-01-29; accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. A government boating safety page from outside Canada, used only for general seamanship advice. Supports: make sure everyone wears a lifejacket, make a distress call, bail a swamped boat, stay with the capsized boat because it is easier for rescuers to find you, get distress signals out, abandon the boat only as a last resort."
+    },
+    {
+      "id": "pcoc-c-redcross-cold",
+      "title": "First aid for cold weather",
+      "publisher": "Canadian Red Cross",
+      "url": "https://redcross.ca/blog/2018/12/first-aid-for-cold-weather",
+      "edition": "December 2018 blog post; accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: hypothermia signs (shivering, numbness, slurred speech, confusion, clumsiness; a person who stops shivering without rewarming may be getting worse); first aid: call 911 or EMS, get the person to a warm place, remove wet clothing, rewarm slowly, do not rub the skin."
+    },
+    {
+      "id": "pcoc-c-cadbw-towing",
+      "title": "Towing sports (water-ski hand signals and observer)",
+      "publisher": "California Division of Boating and Waterways",
+      "url": "https://dbw.parks.ca.gov/TowingSports",
+      "edition": "accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. A US state boating agency page, used only for common hand signals (from USA Water Ski): palm up for faster, palm down for slower, pat the top of the head to go back, plus the observer's job of watching the skier and passing signals to the driver. Canadian law on the spotter is in the Small Vessel Regulations."
+    },
+    {
+      "id": "pcoc-c-boatus-docking",
+      "title": "Docking (BoatUS Foundation)",
+      "publisher": "BoatUS Foundation",
+      "url": "https://www.boatus.org/docking",
+      "edition": "accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Recreational US source used only for general seamanship. Supports: have lines and fenders ready before you arrive, use fenders rather than your body to stop the boat, approach at steerage speed, allow for wind (which affects docking more than current), get a line ashore early, use a spring line to work the boat in or out."
+    },
+    {
+      "id": "pcoc-c-aceboater-anchoring",
+      "title": "How to anchor a boat safely",
+      "publisher": "Ace Boater (E.S.N.N.A. Inc.)",
+      "url": "https://aceboater.com/en-us/anchoring",
+      "edition": "(c) 2024; accessed 2026-11-17",
+      "kind": "provider-page",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. A course provider page, used only as evidence for general anchoring practice and not copied: pick a sheltered spot with room to swing away from channels, approach into the wind or current, lower the anchor from the bow (never anchor from the stern alone, which can swamp or capsize the boat), back down slowly while paying out rode, set the anchor in reverse at idle, secure the rode to the bow cleat, and check two or three fixed shore marks for dragging. No questions or wording were taken from it."
+    }
+  ]
+}

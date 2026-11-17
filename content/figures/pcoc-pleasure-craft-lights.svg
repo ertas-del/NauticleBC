@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Lights on your boat at night</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<linearGradient id="nightP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d36"/><stop offset="1" stop-color="#12294a"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Lights on your boat at night</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Show them from sunset to sunrise and in poor visibility.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="114" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M76.0,162.0 L50.0,152.0 M76.0,194.0 L50.0,204.0" stroke="#2c4a72" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+<path d="M80.0,158.0 L154.4,158.0 Q190.4,158.0 200.0,178 Q190.4,198.0 154.4,198.0 L80.0,198.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<rect x="118" y="168" width="22" height="20" rx="3" fill="#2c4a72"/>
+<circle cx="170" cy="165" r="12.0" fill="#dc2626" opacity="0.55" filter="url(#glow)"/><circle cx="170" cy="165" r="5" fill="#dc2626"/><circle cx="170" cy="165" r="2.2" fill="#ffffff" opacity="0.85"/><circle cx="170" cy="191" r="12.0" fill="#16a34a" opacity="0.55" filter="url(#glow)"/><circle cx="170" cy="191" r="5" fill="#16a34a"/><circle cx="170" cy="191" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="146" cy="178" r="12.0" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="146" cy="178" r="5" fill="#ffffff"/><circle cx="146" cy="178" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="86" cy="178" r="12.0" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="86" cy="178" r="5" fill="#ffffff"/><circle cx="86" cy="178" r="2.2" fill="#ffffff" opacity="0.85"/>
+<text x="146" y="140" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">masthead</text>
+<text x="86" y="224" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">stern</text>
+<text x="140" y="262" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Power boat, option 1</text>
+<text x="140" y="282" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">under 12 m: masthead light,</text>
+<text x="140" y="302" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">sidelights, stern light</text>
+<rect x="260" y="114" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M296.0,162.0 L270.0,152.0 M296.0,194.0 L270.0,204.0" stroke="#2c4a72" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+<path d="M300.0,158.0 L374.4,158.0 Q410.4,158.0 420.0,178 Q410.4,198.0 374.4,198.0 L300.0,198.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<rect x="338" y="168" width="22" height="20" rx="3" fill="#2c4a72"/>
+<circle cx="390" cy="165" r="12.0" fill="#dc2626" opacity="0.55" filter="url(#glow)"/><circle cx="390" cy="165" r="5" fill="#dc2626"/><circle cx="390" cy="165" r="2.2" fill="#ffffff" opacity="0.85"/><circle cx="390" cy="191" r="12.0" fill="#16a34a" opacity="0.55" filter="url(#glow)"/><circle cx="390" cy="191" r="5" fill="#16a34a"/><circle cx="390" cy="191" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="314" cy="178" r="13.2" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="314" cy="178" r="5.5" fill="#ffffff"/><circle cx="314" cy="178" r="2.5" fill="#ffffff" opacity="0.85"/>
+<circle cx="314" cy="178" r="14" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text x="336" y="224" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">all-round white</text>
+<text x="360" y="262" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Power boat, option 2</text>
+<text x="360" y="282" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">under 12 m: one all-round</text>
+<text x="360" y="302" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">white light and sidelights</text>
+<rect x="480" y="114" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<defs><linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient></defs>
+<path d="M582,176 L670,148 L670,204 Z" fill="url(#beam)"/>
+<path d="M500,182 Q572,164 636,182 Q572,200 500,182 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<line x1="558" y1="156" x2="584" y2="208" stroke="#9fb3c8" stroke-width="3"/>
+<circle cx="570" cy="182" r="7" fill="#2c4a72" stroke="#9fb3c8" stroke-width="1.5"/>
+<circle cx="582" cy="176" r="10.8" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="582" cy="176" r="4.5" fill="#ffffff"/><circle cx="582" cy="176" r="2.0" fill="#ffffff" opacity="0.85"/>
+<text x="542" y="144" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">flashlight</text>
+<text x="580" y="262" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Canoe or kayak</text>
+<text x="580" y="282" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">white flashlight ready;</text>
+<text x="580" y="302" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">shine it in time to</text>
+<text x="580" y="322" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">prevent a collision</text>
+<rect x="40" y="340" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M80.0,384.0 L154.4,384.0 Q190.4,384.0 200.0,404 Q190.4,424.0 154.4,424.0 L80.0,424.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<path d="M148,404 Q126,402 100,416" fill="none" stroke="#9fb3c8" stroke-width="3"/><circle cx="148" cy="404" r="3" fill="#9fb3c8"/>
+<circle cx="170" cy="391" r="12.0" fill="#dc2626" opacity="0.55" filter="url(#glow)"/><circle cx="170" cy="391" r="5" fill="#dc2626"/><circle cx="170" cy="391" r="2.2" fill="#ffffff" opacity="0.85"/><circle cx="170" cy="417" r="12.0" fill="#16a34a" opacity="0.55" filter="url(#glow)"/><circle cx="170" cy="417" r="5" fill="#16a34a"/><circle cx="170" cy="417" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="86" cy="404" r="12.0" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="86" cy="404" r="5" fill="#ffffff"/><circle cx="86" cy="404" r="2.2" fill="#ffffff" opacity="0.85"/>
+<text x="86" y="450" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">stern</text>
+<text x="136" y="366" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">no masthead light</text>
+<text x="140" y="488" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sailboat under sail</text>
+<text x="140" y="508" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">sidelights and stern</text>
+<text x="140" y="528" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">light, no masthead light</text>
+<rect x="260" y="340" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M300.0,384.0 L374.4,384.0 Q410.4,384.0 420.0,404 Q410.4,424.0 374.4,424.0 L300.0,424.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<path d="M368,404 Q346,402 320,416" fill="none" stroke="#9fb3c8" stroke-width="3"/><circle cx="368" cy="404" r="3" fill="#9fb3c8"/>
+<circle cx="368" cy="404" r="20" fill="#ffffff" opacity="0.35" filter="url(#glow)"/><path d="M368,404 L364.9,396.6 A8,8 0 0 1 376.0,404.0 Z" fill="#dc2626"/><path d="M368,404 L376.0,404.0 A8,8 0 0 1 364.9,411.4 Z" fill="#16a34a"/><path d="M368,404 L364.9,411.4 A8,8 0 0 1 364.9,396.6 Z" fill="#ffffff"/><circle cx="368" cy="404" r="8" fill="none" stroke="#0b1d36" stroke-width="1"/>
+<text x="368" y="366" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">one lantern, top of mast</text>
+<text x="360" y="488" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sailboat under 20 m</text>
+<text x="360" y="508" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">may put all three in one</text>
+<text x="360" y="528" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">lantern at the masthead</text>
+<rect x="480" y="340" width="200" height="124" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M516.0,388.0 L490.0,378.0 M516.0,420.0 L490.0,430.0" stroke="#2c4a72" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+<path d="M520.0,384.0 L594.4,384.0 Q630.4,384.0 640.0,404 Q630.4,424.0 594.4,424.0 L520.0,424.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<path d="M588,404 Q566,402 540,416" fill="none" stroke="#9fb3c8" stroke-width="3"/><circle cx="588" cy="404" r="3" fill="#9fb3c8"/>
+<circle cx="610" cy="391" r="12.0" fill="#dc2626" opacity="0.55" filter="url(#glow)"/><circle cx="610" cy="391" r="5" fill="#dc2626"/><circle cx="610" cy="391" r="2.2" fill="#ffffff" opacity="0.85"/><circle cx="610" cy="417" r="12.0" fill="#16a34a" opacity="0.55" filter="url(#glow)"/><circle cx="610" cy="417" r="5" fill="#16a34a"/><circle cx="610" cy="417" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="588" cy="404" r="12.0" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="588" cy="404" r="5" fill="#ffffff"/><circle cx="588" cy="404" r="2.2" fill="#ffffff" opacity="0.85"/>
+<circle cx="526" cy="404" r="12.0" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="526" cy="404" r="5" fill="#ffffff"/><circle cx="526" cy="404" r="2.2" fill="#ffffff" opacity="0.85"/>
+<text x="588" y="366" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">masthead</text>
+<text x="526" y="450" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">stern</text>
+<text x="580" y="488" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sailboat, engine on</text>
+<text x="580" y="508" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">power-driven lights,</text>
+<text x="580" y="528" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">even with the sails up</text>
+<rect x="40" y="552" width="310" height="100" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M100.0,587.0 L162.0,587.0 Q192.0,587.0 200.0,604 Q192.0,621.0 162.0,621.0 L100.0,621.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<path d="M200,604 Q240,610 278,602" fill="none" stroke="#9fb3c8" stroke-width="2"/>
+<g transform="translate(290,602)"><circle cx="0" cy="-9" r="3" fill="none" stroke="#9fb3c8" stroke-width="2"/><line x1="0" y1="-6" x2="0" y2="9" stroke="#9fb3c8" stroke-width="2.5"/><path d="M-9,2 Q-8,10 0,10 Q8,10 9,2" fill="none" stroke="#9fb3c8" stroke-width="2.5"/></g>
+<circle cx="172" cy="604" r="13.2" fill="#ffffff" opacity="0.55" filter="url(#glow)"/><circle cx="172" cy="604" r="5.5" fill="#ffffff"/><circle cx="172" cy="604" r="2.5" fill="#ffffff" opacity="0.85"/>
+<circle cx="172" cy="604" r="14" fill="none" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text x="172" y="574" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">all-round white</text>
+<text x="195" y="676" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">At anchor</text>
+<text x="195" y="696" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">one all-round white light</text>
+<text x="195" y="716" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">where it can best be seen</text>
+<rect x="370" y="552" width="310" height="100" rx="10" fill="url(#nightP)" filter="url(#s)"/>
+<path d="M680,562 Q680,552 670,552 L612,552 Q590,582 604,604 Q618,630 598,652 L670,652 Q680,652 680,642 Z" fill="#3b4a3a" opacity="0.9"/>
+<path d="M435.0,597.0 L478.4,597.0 Q499.4,597.0 505.0,610 Q499.4,623.0 478.4,623.0 L435.0,623.0 Z" fill="#1f3a5f" stroke="#2c4a72" stroke-width="1.5"/>
+<circle cx="484" cy="610" r="9" fill="none" stroke="#ffffff" stroke-opacity="0.6" stroke-width="1.5" stroke-dasharray="3 3"/>
+<text x="474" y="578" font-size="15" text-anchor="middle" fill="#cbd5e1" font-family="Liberation Sans">not required, still a good idea</text>
+<text x="632" y="612" font-size="15" text-anchor="middle" fill="#c9d4c0" font-family="Liberation Sans">shore</text>
+<text x="525" y="676" font-size="17" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">At anchor, under 7 m</text>
+<text x="525" y="696" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">no light needed unless in or near a</text>
+<text x="525" y="716" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">channel, fairway or anchorage,</text>
+<text x="525" y="736" font-size="16" text-anchor="middle" fill="#486581" font-family="Liberation Sans">or where boats usually travel</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

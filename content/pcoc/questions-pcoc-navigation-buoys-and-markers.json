@@ -1,0 +1,318 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q01",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "You are heading up the Fraser River from the sea. Which side should the red buoys be on?",
+      "options": [
+        "Keep them on your port side",
+        "Either side is fine here",
+        "On your starboard side",
+        "Straight ahead of the bow"
+      ],
+      "correct_index": 2,
+      "explanation": "Red right returning: going upstream, keep red buoys on your starboard side.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q02",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What does a starboard-hand buoy look like?",
+      "options": [
+        "Green, flat top, odd number",
+        "Red, pointed top, even number",
+        "Yellow, any shape, letters",
+        "Red and white vertical stripes"
+      ],
+      "correct_index": 1,
+      "explanation": "A starboard-hand buoy is red and conical, with an even number and a red light.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q03",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What does a port-hand buoy look like?",
+      "options": [
+        "Red, pointed top, even number",
+        "Black and yellow, two cones",
+        "White with an orange square",
+        "Green, flat top, odd number"
+      ],
+      "correct_index": 3,
+      "explanation": "A port-hand buoy is green with a flat top, an odd number and a green light.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q04",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You pass buoy 8, then buoy 6, then buoy 4. Which way are you going?",
+      "options": [
+        "Downstream, or out to sea",
+        "Upstream, into the harbour",
+        "Across the channel",
+        "You cannot tell from numbers"
+      ],
+      "correct_index": 0,
+      "explanation": "Numbers get bigger going upstream, so falling numbers mean you are heading downstream or out to sea.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q05",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Going downstream toward the sea, which side do you keep the green buoys on?",
+      "options": [
+        "On your port side",
+        "On your starboard side",
+        "On whichever side is deeper",
+        "Directly astern of you"
+      ],
+      "correct_index": 1,
+      "explanation": "Going downstream everything flips. Green buoys, kept to port going upstream, are kept to starboard going downstream.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q06",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a yellow and black buoy with two black cones, both pointing up. Where is the safe water?",
+      "options": [
+        "Only to the south of it",
+        "Close by on any side",
+        "To the north of it",
+        "On its west side only"
+      ],
+      "correct_index": 2,
+      "explanation": "Both cones up is a north cardinal. Pass to the north of it.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q07",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A buoy is black with a red band and has two black balls on top. What does it mark?",
+      "options": [
+        "A lone danger; safe water all round",
+        "The middle of a safe, deep channel",
+        "An area where boats are not allowed",
+        "A place where you can tie up overnight"
+      ],
+      "correct_index": 0,
+      "explanation": "This is an isolated danger buoy. It sits on the danger, so do not pass close to it.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q08",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What does a buoy with red and white vertical stripes and a red ball on top tell you?",
+      "options": [
+        "Danger nearby: keep well clear of it",
+        "There is safe water all around it",
+        "Divers are in the water nearby",
+        "A speed limit applies here"
+      ],
+      "correct_index": 1,
+      "explanation": "This is a safe water or fairway buoy. It often marks a channel entrance or middle.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q09",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these describes a special buoy?",
+      "options": [
+        "Red, with an even number on it",
+        "Green, and always numbered in order",
+        "Black and red, with two black balls",
+        "Yellow; its shape has no meaning"
+      ],
+      "correct_index": 3,
+      "explanation": "Special buoys are yellow and, if lighted, show a yellow light. Their shape has no meaning.",
+      "source_ids": [
+        "bw-ccg-aids-to-navigation-2023",
+        "sea-a-ccg-atons-2023-html",
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q10",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "On Shuswap Lake you see a white buoy with an orange diamond and a cross inside it. What does it mean?",
+      "options": [
+        "A speed limit applies",
+        "Rocks are just below you",
+        "Boats must keep out",
+        "Swimmers are close by"
+      ],
+      "correct_index": 2,
+      "explanation": "An orange diamond with a cross means boats are not allowed in the area. A diamond alone marks a hazard.",
+      "source_ids": [
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q11",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What does a white buoy with an orange diamond and no cross mean?",
+      "options": [
+        "A hazard, such as rocks",
+        "Boats must keep out",
+        "Information for all boaters",
+        "A speed limit applies"
+      ],
+      "correct_index": 0,
+      "explanation": "An orange diamond alone marks a hazard. Words inside may say what the hazard is.",
+      "source_ids": [
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q12",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A white buoy has an orange circle with \"10\" inside. What must you do?",
+      "options": [
+        "Stay 10 m from the buoy",
+        "Keep out of the area",
+        "Go no faster than 10 km/h",
+        "Turn back within 10 minutes"
+      ],
+      "correct_index": 2,
+      "explanation": "An orange circle marks a control buoy. The black figure inside is the rule, here a 10 km/h speed limit.",
+      "source_ids": [
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q13",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What does a white buoy with an orange square show?",
+      "options": [
+        "A danger such as a shoal",
+        "An area closed to boats",
+        "A speed or wake rule",
+        "Information for boaters"
+      ],
+      "correct_index": 3,
+      "explanation": "An orange square gives information, such as directions or services. Swimming buoys are plain white and mark a swimming area.",
+      "source_ids": [
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.buoys-and-markers.q14",
+      "lesson_id": "pcoc.navigation.buoys-and-markers",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a red triangle sign on a post at the side of a channel. Going upstream, how do you pass it?",
+      "options": [
+        "Keep it on your starboard side",
+        "Keep it on your port (left) side",
+        "Pass on either side of the sign",
+        "Go round it on the north side"
+      ],
+      "correct_index": 0,
+      "explanation": "A red triangle is a starboard-hand daybeacon. Like a red buoy, keep it to starboard going upstream. A green square is port-hand.",
+      "source_ids": [
+        "pcoc-b-ccg-cans-2023-special",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q01",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Your engine has died, your radio is wet and a boat passes 500 m away. Which signal means you need help?",
+      "options": [
+        "Waving one arm quickly above your head",
+        "One long blast on the horn",
+        "Flashing your running lights twice",
+        "Slowly raising and lowering both arms"
+      ],
+      "correct_index": 3,
+      "explanation": "Slowly and repeatedly raising and lowering outstretched arms is a recognised distress signal.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q02",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A flare in your kit was made in June 2022. When does it expire?",
+      "options": [
+        "June 2024",
+        "June 2025",
+        "June 2027",
+        "June 2026"
+      ],
+      "correct_index": 3,
+      "explanation": "Pyrotechnic distress signals expire 4 years after the date of manufacture.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q03",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What should you do with your expired flares?",
+      "options": [
+        "Ask the distributor about disposal",
+        "Fire them off on a holiday weekend",
+        "Sink them in deep water off the dock",
+        "Put them out with household garbage"
+      ],
+      "correct_index": 0,
+      "explanation": "Firing flares outside an emergency is illegal. Never sink or bin them; ask the distributor.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q04",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Which VHF channel is used for distress calls and for calling other stations?",
+      "options": [
+        "Channel 16",
+        "Channel 68",
+        "Channel 70",
+        "Channel 9"
+      ],
+      "correct_index": 0,
+      "explanation": "Channel 16 is for distress, urgency, safety and calling. Move to a working channel to chat.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q05",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What is VHF channel 70 used for?",
+      "options": [
+        "Continuous weather broadcasts",
+        "Talking to marinas and fuel docks",
+        "DSC digital alerts only",
+        "Calls between friends"
+      ],
+      "correct_index": 2,
+      "explanation": "Channel 70 carries DSC data. Voice is not allowed on it.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q06",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your engine has failed and you are drifting slowly toward a ferry lane. No one is hurt. Which call fits best?",
+      "options": [
+        "Mayday",
+        "Sécurité",
+        "Pan-Pan",
+        "Over and out"
+      ],
+      "correct_index": 2,
+      "explanation": "Pan-Pan is for urgent situations that are not yet immediately life-threatening.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q07",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What do you need, besides the radio, to operate a marine VHF radio in Canada?",
+      "options": [
+        "A PCOC card",
+        "A ROC(M) certificate",
+        "A pleasure craft licence",
+        "A Coast Guard permit"
+      ],
+      "correct_index": 1,
+      "explanation": "The Radiocommunication Regulations require a radio operator certificate. For boaters this is the ROC(M). The PCOC does not cover it.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q08",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "You press the red DSC button on a new radio that was never set up. What is missing?",
+      "options": [
+        "A charted waypoint",
+        "The MMSI number",
+        "A channel 16 crystal",
+        "A ROC(M) sticker"
+      ],
+      "correct_index": 1,
+      "explanation": "A DSC radio must be programmed with your 9-digit MMSI so the alert identifies your boat.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q09",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is a cellphone a poor substitute for a marine VHF radio?",
+      "options": [
+        "Phones never work on any BC lake",
+        "Phone calls are not allowed on boats",
+        "Nearby boats cannot hear your call",
+        "Phones cannot reach the Coast Guard"
+      ],
+      "correct_index": 2,
+      "explanation": "Phones lose signal, get wet, and reach only one person. *16 works only on some networks.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q10",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "A fire needs heat, fuel and one other thing. What is it?",
+      "options": [
+        "Water",
+        "Oxygen",
+        "Smoke",
+        "Carbon"
+      ],
+      "correct_index": 1,
+      "explanation": "The fire triangle is heat, fuel and oxygen. Remove one and the fire goes out.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q11",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Spilled gasoline is burning in the bilge. What class of fire is it?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class K"
+      ],
+      "correct_index": 1,
+      "explanation": "Class B fires are flammable liquids such as fuel, oil and grease.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q12",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Where should you aim a portable extinguisher?",
+      "options": [
+        "At the top of the flames",
+        "At the smoke rising above it",
+        "At the base of the flames",
+        "At the nearest bulkhead"
+      ],
+      "correct_index": 2,
+      "explanation": "Aim at the base and sweep side to side. Keep the fire downwind of you.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.emergencies.distress-fire-and-radio.q13",
+      "lesson_id": "pcoc.emergencies.distress-fire-and-radio",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You see red flares off Galiano Island. What does the law expect of you?",
+      "options": [
+        "Nothing, it is the Coast Guard's job",
+        "Help if you can do it safely",
+        "Only report it after you get home",
+        "Help only if you know the boat"
+      ],
+      "correct_index": 1,
+      "explanation": "You must help if you can do so without putting your own boat and people in danger. Tell the Coast Guard.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-colregs-xml",
+        "pcoc-c-svr-xml",
+        "pcoc-c-radio-regs-xml",
+        "pcoc-c-csa-xml",
+        "rmet-ramn-general",
+        "sea-c-tc-template-fire"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

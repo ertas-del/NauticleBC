@@ -29,6 +29,7 @@ OUT = ROOT / "dist" / "guides"
 
 MARK_PREFIX = "NBCPAGEMARK-"
 LETTERS = "ABCDEFGH"
+SHORT_FOCUS = 5  # key facts that fit at the top of a lesson
 
 
 # ---------- loading ----------
@@ -151,6 +152,8 @@ def toc_html(parts: list[dict], pages: dict[str, int]) -> str:
             f'<li class="lesson"><a href="#test-{pi}">Test yourself: part {pi}</a>'
             f'<span class="dots"></span><span class="num">{pages.get(f"test-{pi}", "")}</span></li>'
         )
+    if "next" in pages:
+        rows.append(f'<li class="part"><a href="#next">Next step</a><span class="dots"></span><span class="num">{pages["next"]}</span></li>')
     rows.append(f'<li class="part"><a href="#answers">Answers</a><span class="dots"></span><span class="num">{pages.get("answers", "")}</span></li>')
     rows.append(f'<li class="part"><a href="#sources">Sources</a><span class="dots"></span><span class="num">{pages.get("sources", "")}</span></li>')
     return '<ul class="toc">' + "".join(rows) + "</ul>"
@@ -174,7 +177,7 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
         f'and {q_count} practice questions with answers.</p>'
     )
     h.append(
-        '<p>Start each lesson with its <strong>Exam focus</strong> box: those are the facts most likely to be asked. '
+        '<p>Each lesson has an <strong>Exam focus</strong> box with the facts most likely to be asked: at the start when it is short, at the end as a recap when it is long. '
         'Then read the lesson and look at its pictures. '
         'Words shown like <mark>this</mark> are the exact terms and numbers worth learning by heart. '
         'Each part ends with practice questions. Try them before you look at the answers at the back.</p>'
@@ -216,12 +219,15 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
             if objs:
                 h.append('<div class="objectives"><h3>You will be able to</h3><ul>'
                          + "".join(f"<li>{esc(o)}</li>" for o in objs) + "</ul></div>")
-            # Exam focus up front: the reader knows what to look for before reading.
+            # A short Exam focus box goes up front so the reader knows what to look for.
+            # A long one would fill the first page before the lesson starts, so it closes the lesson as a recap.
             facts = lesson.get("key_facts") or []
-            if facts:
-                h.append('<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>'
-                         + "".join(f"<li>{esc(f)}</li>" for f in facts) + "</ul></div>")
+            box = "".join(f"<li>{esc(f)}</li>" for f in facts)
+            if facts and len(facts) <= SHORT_FOCUS:
+                h.append(f'<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>{box}</ul></div>')
             h.append(body_html(lesson, figures))
+            if len(facts) > SHORT_FOCUS:
+                h.append(f'<div class="exam-focus"><h3>Exam focus: check you know these</h3><ul>{box}</ul></div>')
             h.append("</section>")
 
         # Test yourself
@@ -233,6 +239,16 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
                 qn = q["_n"]
                 opts = "".join(f"<li>{esc(o)}</li>" for o in q["options"])
                 h.append(f'<div class="q"><div class="stem">{qn}. {esc(q["stem"])}</div><ol>{opts}</ol></div>')
+        h.append("</section>")
+
+    # Closing page: the next step after this ticket.
+    closing = cfg.get("closing")
+    if closing:
+        h.append(f'<section class="page part-opener" id="next">{mark("next")}')
+        h.append(f'<div class="kicker">Next step</div><h1>{esc(closing["title"])}</h1>')
+        for i, para in enumerate(closing.get("paragraphs", [])):
+            cls = ' class="lead"' if i == 0 else ""
+            h.append(f"<p{cls}>{esc(para)}</p>")
         h.append("</section>")
 
     # Answers

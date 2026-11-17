@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Compliance notice and HIN</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<linearGradient id="nightP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d36"/><stop offset="1" stop-color="#12294a"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Compliance notice and HIN</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Read the plate before you load the boat. Never go over it.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<circle cx="54" cy="128" r="11" fill="none" stroke="#0f766e" stroke-width="3"/><circle cx="54" cy="128" r="3" fill="#0f766e"/><line x1="54" y1="128" x2="54.0" y2="117.0" stroke="#0f766e" stroke-width="2.5"/><line x1="54" y1="128" x2="63.6" y2="133.5" stroke="#0f766e" stroke-width="2.5"/><line x1="54" y1="128" x2="44.4" y2="133.5" stroke="#0f766e" stroke-width="2.5"/>
+<text x="76" y="134" font-size="17" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Near the helm, where the driver can see it</text>
+<rect x="52" y="156" width="300" height="262" rx="10" fill="#eef2f6" stroke="#9fb3c8" stroke-width="2.5" filter="url(#s)"/>
+<rect x="60" y="164" width="284" height="246" rx="6" fill="none" stroke="#bcccdc" stroke-width="1.2"/>
+<circle cx="70" cy="174" r="4" fill="#bcccdc" stroke="#829ab1" stroke-width="1"/>
+<circle cx="334" cy="174" r="4" fill="#bcccdc" stroke="#829ab1" stroke-width="1"/>
+<circle cx="70" cy="400" r="4" fill="#bcccdc" stroke="#829ab1" stroke-width="1"/>
+<circle cx="334" cy="400" r="4" fill="#bcccdc" stroke="#829ab1" stroke-width="1"/>
+<text x="202.0" y="196" font-size="20" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">COMPLIANCE NOTICE</text>
+<text x="202.0" y="217" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Recommended maximum</text>
+<rect x="268" y="142" width="96" height="28" rx="6" fill="#dc2626"/>
+<text x="316" y="162" font-size="16" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">SAMPLE</text>
+<line x1="76" y1="229" x2="328" y2="229" stroke="#bcccdc" stroke-width="1.2"/>
+<circle cx="87" cy="255" r="5" fill="#334e68"/><path d="M79,273 Q79,262 87,262 Q95,262 95,273 Z" fill="#334e68"/><circle cx="102" cy="257" r="4.5" fill="#486581"/><path d="M95,273 Q95,264 102,264 Q109,264 109,273 Z" fill="#486581"/>
+<text x="126" y="256" font-size="15" text-anchor="start" fill="#627d98" font-weight="bold" font-family="Liberation Sans">PEOPLE</text>
+<text x="126" y="282" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">4</text>
+<line x1="356" y1="262" x2="382" y2="262" stroke="#0f766e" stroke-width="2"/>
+<circle cx="356" cy="262" r="3.5" fill="#0f766e"/>
+<text x="392" y="258" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Most people on board</text>
+<text x="392" y="282" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Count every person.</text>
+<line x1="76" y1="289" x2="328" y2="289" stroke="#bcccdc" stroke-width="1.2"/>
+<path d="M83,333 L87,317 L101,317 L105,333 Z" fill="#334e68"/><circle cx="94" cy="313" r="4.5" fill="none" stroke="#334e68" stroke-width="2.5"/>
+<text x="126" y="316" font-size="15" text-anchor="start" fill="#627d98" font-weight="bold" font-family="Liberation Sans">WEIGHT</text>
+<text x="126" y="342" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">340 kg</text>
+<line x1="356" y1="322" x2="382" y2="322" stroke="#0f766e" stroke-width="2"/>
+<circle cx="356" cy="322" r="3.5" fill="#0f766e"/>
+<text x="392" y="318" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Total weight to carry</text>
+<text x="392" y="342" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">People and gear together.</text>
+<line x1="76" y1="349" x2="328" y2="349" stroke="#bcccdc" stroke-width="1.2"/>
+<rect x="84" y="369" width="18" height="13" rx="4" fill="#334e68"/><rect x="90" y="382" width="6" height="11" fill="#486581"/><ellipse cx="93" cy="393" rx="7" ry="3" fill="#486581"/><ellipse cx="84" cy="393" rx="2" ry="5" fill="#9fb3c8"/>
+<text x="126" y="376" font-size="15" text-anchor="start" fill="#627d98" font-weight="bold" font-family="Liberation Sans">OUTBOARD POWER</text>
+<text x="126" y="402" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">30 hp</text>
+<line x1="356" y1="382" x2="382" y2="382" stroke="#0f766e" stroke-width="2"/>
+<circle cx="356" cy="382" r="3.5" fill="#0f766e"/>
+<text x="392" y="378" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Biggest outboard</text>
+<text x="392" y="402" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Never fit a bigger motor.</text>
+<text x="392" y="190" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Shown on boats up to 6 m long.</text>
+<text x="392" y="212" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Changing or removing it is an offence.</text>
+<rect x="40" y="436" width="640" height="138" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="60" y="468" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Full at max people OR max weight, whichever is first</text>
+<text x="60" y="496" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Example: the plate says 4 people or 340 kg.</text>
+<rect x="60" y="510" width="170" height="32" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<path d="M76,526 L82,532 L93,520" fill="none" stroke="#16a34a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="102" y="532" font-size="16" text-anchor="start" fill="#14532d" font-weight="bold" font-family="Liberation Sans">4 people: OK</text>
+<rect x="244" y="510" width="196" height="32" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+<path d="M260,520 L270,532 M270,520 L260,532" stroke="#dc2626" stroke-width="3" stroke-linecap="round"/>
+<text x="282" y="532" font-size="16" text-anchor="start" fill="#7f1d1d" font-weight="bold" font-family="Liberation Sans">380 kg: too heavy</text>
+<text x="456" y="532" font-size="18" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">= over capacity</text>
+<text x="60" y="562" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Limits are for good weather. In wind and waves, carry less.</text>
+<rect x="40" y="582" width="640" height="162" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="56" y="610" font-size="15" text-anchor="start" fill="#627d98" font-weight="bold" font-family="Liberation Sans">From behind</text>
+<path d="M70,634 L270,634 L248,704 L92,704 Z" fill="#d9e2ec" stroke="#486581" stroke-width="2"/>
+<rect x="156" y="604" width="28" height="24" rx="7" fill="#243b53"/>
+<rect x="165" y="628" width="10" height="84" fill="#486581"/>
+<path d="M62,694 q11,-4 22,0 t22,0 t22,0 t22,0 t22,0 t22,0 t22,0 t22,0 t22,0 t22,0" fill="none" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="220" y="640" width="36" height="14" rx="2" fill="#facc15" stroke="#854d0e" stroke-width="1.5"/>
+<text x="104" y="732" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Port</text>
+<text x="236" y="732" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Starboard</text>
+<text x="320" y="614" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Hull serial number (HIN)</text>
+<text x="320" y="640" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">12 characters, marked outside on the</text>
+<text x="320" y="662" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">upper starboard corner of the transom.</text>
+<rect x="320" y="674" width="22" height="12" rx="2" fill="#facc15" stroke="#854d0e" stroke-width="1.5"/>
+<text x="352" y="686" font-size="16" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Sample: ABC12345F526</text>
+<text x="320" y="710" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">On most boats built or brought into</text>
+<text x="320" y="730" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Canada after April 29, 1981.</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>
