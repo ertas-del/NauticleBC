@@ -91,7 +91,7 @@ The rules give canoes, kayaks and paddleboards no special place in this list. Th
 
 ## Narrow channels and large vessels
 
-In a ==narrow channel==, keep to the ==starboard side==. A boat ==under 20 m==, or any sailboat, ==must not impede== a vessel that can only navigate safely inside the channel. Ferries, ships and tugs need a long way to stop. Never cross ahead of them, and ==never pass between a tug and its tow==. In Canada, a boat crossing a river keeps out of the way of a power-driven vessel going up or down it.
+In a ==narrow channel==, keep to the ==starboard side==. A boat ==under 20 m==, or any sailboat, ==must not impede== a vessel that can only navigate safely inside the channel. Ferries, ships and tugs need a long way to stop. Never cross ahead of them, and ==never pass between a tug and its tow==. In Canada, a boat crossing a river keeps out of the way of a power-driven vessel going up or down it. In a narrow channel with a current, when two power-driven boats meet, the one going against the current keeps out of the way and waits.
 
 ## Sound signals
 

@@ -94,7 +94,7 @@ If someone falls overboard:
 4. Give one person one job: ==keep pointing at the person in the water== and never look away.
 5. Turn back and ==come in slowly==.
 6. ==Keep the propeller away from the person.== When you are close, put the engine in ==neutral==, or stop it.
-7. Get a line or lifebuoy to them and bring them alongside.
+7. Get a line or lifebuoy to them and bring them alongside. Bring them aboard on the ==windward side==, with the engine stopped.
 
 Call for help early if you cannot reach them or they are hurt.
 

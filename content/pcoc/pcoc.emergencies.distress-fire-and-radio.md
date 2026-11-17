@@ -90,7 +90,7 @@ The three spoken calls:
 | ==Pan-Pan== (said 3 times) | ==Urgent, but not immediately life-threatening==: engine failure drifting toward a shipping lane |
 | ==Sécurité== (said 3 times) | ==Safety information==, such as a log adrift or a weather warning |
 
-To use a marine VHF radio in Canada, you must hold a ==Restricted Operator Certificate (Maritime)==, called the ==ROC(M)==. Your PCOC does not cover it. You get it by passing a separate course and test.
+To use a marine VHF radio in Canada, you must hold a ==Restricted Operator Certificate (Maritime)==, called the ==ROC(M)==. Your PCOC does not cover it. You get it by passing a separate exam, usually after a short course.
 
 If your DSC radio sends a false alert, cancel it at once on channel 16.
 
@@ -117,7 +117,7 @@ Pleasure craft extinguishers are rated like ==5B:C== or ==10B:C==. The letters a
 If a fire starts:
 
 1. Make sure everyone is ==wearing a lifejacket==.
-2. Stop the engine if you can. Turn the boat so the ==fire is downwind==.
+2. Turn the boat so the ==fire is downwind==. Then stop the engine if you can.
 3. Use the extinguisher: pull the pin, ==aim at the base of the flames==, squeeze, and ==sweep side to side==.
 4. Keep sweeping for a few seconds after the flames go out. A fire can flare up again.
 5. If the fire is too big, call Mayday and get ready to leave the boat.
@@ -142,7 +142,7 @@ If you see a distress signal or hear a Mayday, you must ==go to help== if you ca
 
 ## A BC example
 
-Sam is crossing the Strait of Georgia toward Gabriola. Black smoke pours from the engine hatch. Sam has everyone put on lifejackets and stops the engine. He turns the bow into the wind so the fire and smoke blow away from everyone. He keys the radio on channel 16: "Mayday, Mayday, Mayday." He gives the boat's name, position, the fire, and that four people are aboard. His friend puts out the fire with the 10B:C extinguisher, aiming at the base and sweeping. The Coast Guard asks a nearby sailboat to stand by until Sam is towed in.
+Sam is crossing the Strait of Georgia toward Gabriola. Black smoke pours from the engine hatch. Sam has everyone put on lifejackets. He turns the bow into the wind so the fire and smoke blow away from everyone, then stops the engine. He keys the radio on channel 16: "Mayday, Mayday, Mayday." He gives the boat's name, position, the fire, and that four people are aboard. His friend puts out the fire with the 10B:C extinguisher, aiming at the base and sweeping. The Coast Guard asks a nearby sailboat to stand by until Sam is towed in.
 
 ## Common mistakes
 

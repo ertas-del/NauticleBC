@@ -20,7 +20,7 @@ key_facts:
   - "Close your trip plan when you get back, or a search may start for nothing."
   - "One-third rule: one third of your fuel to go out, one third to come back, one third in reserve."
   - "Fill portable fuel tanks off the boat, on the dock or shore."
-  - "Before starting an inboard gasoline engine after fuelling, run the blower for at least 4 minutes and sniff for fumes."
+  - "Before you start an inboard gasoline engine, always run the blower for at least 4 minutes, then sniff for fumes."
   - "Carbon monoxide has no colour, smell or taste. Early signs are headache, nausea, dizziness and itchy eyes."
   - "Never sit or teak surf on the swim platform or back deck while an engine or generator is running."
   - "Wind blowing against the tide or current makes short, steep, breaking waves."

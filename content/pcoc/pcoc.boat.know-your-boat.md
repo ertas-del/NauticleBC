@@ -84,7 +84,7 @@ Never put on a motor bigger than the plate allows. It is an offence to remove or
 
 ## The hull serial number
 
-Most boats built or brought into Canada after ==April 29, 1981== have a ==hull serial number== (HIN). It has ==12 characters==. It is marked on the outside of the hull, on the ==upper starboard corner of the transom==. Changing or removing it is an offence.
+Most boats built or brought into Canada after ==August 1, 1981== have a ==hull serial number== (HIN). It has ==12 characters==. It is marked on the outside of the hull, on the ==upper starboard corner of the transom==. Changing or removing it is an offence.
 
 ## Loading the boat
 

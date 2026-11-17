@@ -111,7 +111,7 @@ Legal approach distances in BC:
 | ==Killer whales== (all BC waters) | ==200 m== |
 | ==Southern Resident killer whales== (southern BC, June 1, 2026 to May 31, 2027) | ==1,000 m== |
 
-You often cannot tell which killer whales you are seeing. Fisheries and Oceans Canada asks boaters in southern BC to stay 1,000 m from any killer whale in that case. Some areas near Pender and Saturna islands are ==closed to boats== from June 1 to November 30. These rules change each year, so ==check the current rules before you go==.
+You often cannot tell which killer whales you are seeing. Fisheries and Oceans Canada asks boaters in southern BC to stay 1,000 m from any killer whale in that case. From June 1 to November 30, two areas off Pender and Saturna islands are ==closed to boats==, and boats with a motor must stay under 10 knots in two zones near Swiftsure Bank. These rules change each year, so ==check the current rules before you go==.
 
 If a whale surfaces close to you, put the engine in ==neutral== and let it pass. Move away slowly.
 

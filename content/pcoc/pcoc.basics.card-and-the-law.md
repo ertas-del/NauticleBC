@@ -30,7 +30,7 @@ figures:
   - id: pcoc-age-power-limits
     caption: "Power limits for young drivers"
     alt: "Three rows of engine limits for drivers with no direct supervision. Under 12: up to 10 hp (7.5 kW). Age 12 to 15: up to 40 hp (30 kW). 16 and older: no age limit on power. No one under 16 may drive a personal watercraft, even with supervision. Direct supervision means a person 16 or older is in the boat and watching."
-source_ids: [pcoc-a-copcr-sor-99-53, pcoc-a-tc-proof-competency, pcoc-a-tp511-2026, pcoc-a-svr-2010-parts-1-2, pcoc-a-tc-pcl-after-apply, pcoc-a-tc-news-2026-pcl, pcoc-a-criminal-code-320-14, pcoc-a-justice-c46-legislative-background]
+source_ids: [pcoc-a-copcr-sor-99-53, pcoc-c-vorr-xml, pcoc-a-tc-proof-competency, pcoc-a-tp511-2026, pcoc-a-svr-2010-parts-1-2, pcoc-a-tc-pcl-after-apply, pcoc-a-tc-news-2026-pcl, pcoc-a-criminal-code-320-14, pcoc-a-justice-c46-legislative-background]
 review_status: needs_expert_review
 ---
 
@@ -88,7 +88,7 @@ At 16 there are no age limits on power.
 
 The ==pleasure craft licence== is for the boat, not the person. You need one if your boat has engines that total ==10 hp (7.5 kW) or more==, unless the boat is registered. This includes a dinghy or tender with a 10 hp outboard.
 
-- It is valid for ==5 years==. Older "lifetime" licences are being replaced.
+- It is valid for ==5 years==. Licences issued before April 29, 2010 used to have no end date. They now expire on set dates from 2026 to 2030.
 - Getting, renewing or transferring one costs a fee. It was $24 at the end of 2025 and rises with inflation.
 - Report a new name, address or owner within ==30 days==.
 - Keep ==a copy of the licence on board==.
@@ -108,7 +108,7 @@ The operator must take ==all reasonable steps== to keep the boat and everyone on
 
 Boating while impaired is a ==Criminal Code== offence. The law treats a boat the same as a car. It is an offence to operate while your ability is ==impaired to any degree== by alcohol, drugs, or both. It is also an offence to have ==80 mg of alcohol in 100 mL of blood== or more within two hours after you stop.
 
-Penalties can include fines, jail, and losing the right to drive a car as well as a boat.
+Penalties can include fines, jail, and a ban on operating a boat. In some provinces a conviction can also affect your driver's licence.
 
 ## A BC example
 

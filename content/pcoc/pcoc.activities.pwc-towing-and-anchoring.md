@@ -47,7 +47,7 @@ A ==personal watercraft== (PWC) is a small water-jet craft that you ride on, sit
 The PWC rules:
 
 - ==No one under 16== may operate a PWC. This applies ==even with an adult on board==.
-- The operator needs ==proof of competency== (such as the PCOC) and ==proof of age== on board.
+- The operator needs ==proof of competency== (such as the PCOC) on board. Carry ID that shows your age, in case an officer asks.
 - Everyone on board wears a lifejacket or PFD that is ==inherently buoyant==. ==Inflatable PFDs are not allowed== on a PWC.
 - Attach the ==engine cut-off lanyard== to your wrist or lifejacket. If you fall off, the engine stops.
 - Do not ride ==after dark== or in poor visibility unless the PWC has proper navigation lights.

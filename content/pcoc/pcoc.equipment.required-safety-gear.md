@@ -84,8 +84,9 @@ Some details to remember:
 - Up to 9 m, you need ==navigation lights== only if you are out ==between sunset and sunrise== or in ==poor visibility==.
 - A ==compass== is not needed on a boat ==8 m or less== that stays ==within sight of navigation marks==.
 - Only some flares may be smoke signals: at most 1 of 3, 2 of 6, or 6 of 12.
+- The 2026 Safe Boating Guide shows "flashlight or 6 flares" for boats over 6 m to 9 m, and an extinguisher only with an inboard or a stove. The regulation says flashlight and 6 flares, and an extinguisher on every power boat of that size. Follow the regulation.
 
-Transport Canada's guide also lists a radar reflector for many small boats, with some exceptions. It also describes an electronic distress light, carried with a smoke signal, as another option. Check the current Safe Boating Guide before you rely on either.
+The Collision Regulations also require a radar reflector on a boat under 20 m, if practicable. You do not need one in light traffic, in daylight and good weather, when it is not needed for safety. You also do not need one if the boat is too small for one or stays away from radar traffic. The Safe Boating Guide also shows an electronic distress light, carried with a smoke signal, as an option. That option is not in the Small Vessel Regulations. Check with Transport Canada before you rely on it.
 
 ## When you do not need flares
 
