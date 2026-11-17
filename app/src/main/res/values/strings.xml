@@ -54,6 +54,10 @@
     <string name="ticket_svop_desc">Everything for the Small Vessel Operator Proficiency ticket</string>
     <string name="module_svop">SVOP Course</string>
     <string name="module_svop_desc">All SVOP subjects in one course</string>
+    <string name="ticket_pcoc">Pleasure Craft Operator Card</string>
+    <string name="ticket_pcoc_desc">Study for the PCOC boating test: the rules, the gear and staying safe</string>
+    <string name="module_pcoc">PCOC Course</string>
+    <string name="module_pcoc_desc">Everything on the PCOC boating test</string>
     <string name="module_fm4_overview">FM4 Overview</string>
     <string name="module_fm4_overview_desc">What the ticket allows and how to get it</string>
     <string name="module_fm4_chartwork">FM4 Chartwork and Pilotage</string>

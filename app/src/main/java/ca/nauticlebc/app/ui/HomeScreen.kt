@@ -41,6 +41,7 @@ private val tickets = listOf(
     TicketCard("svmo", R.string.ticket_svmo, R.string.ticket_svmo_desc),
     TicketCard("fishing-master-4", R.string.ticket_fishing_master, R.string.ticket_fishing_master_desc),
     TicketCard("svop", R.string.ticket_svop, R.string.ticket_svop_desc),
+    TicketCard("pcoc", R.string.ticket_pcoc, R.string.ticket_pcoc_desc),
 )
 
 /** Title string for a ticket id, or null when unknown. */
@@ -63,6 +64,7 @@ fun moduleTitleRes(moduleId: String): Int? = when (moduleId) {
     "machinery" -> R.string.module_machinery
     "fishing" -> R.string.module_fishing
     "svop" -> R.string.module_svop
+    "pcoc" -> R.string.module_pcoc
     "fm4-overview" -> R.string.module_fm4_overview
     "fm4-chartwork" -> R.string.module_fm4_chartwork
     "fm4-navigation-safety" -> R.string.module_fm4_navigation_safety
