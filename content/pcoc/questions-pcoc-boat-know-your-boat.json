@@ -1,0 +1,282 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.boat.know-your-boat.q01",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Standing in the boat and facing the bow, which side is on your right?",
+      "options": [
+        "Port side",
+        "Aft side",
+        "Starboard",
+        "Inboard side"
+      ],
+      "correct_index": 2,
+      "explanation": "Facing forward, starboard is the right side and port is the left.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "tp14692"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q02",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the freeboard of a boat?",
+      "options": [
+        "Its depth below the water",
+        "Its height above the water",
+        "Its widest part",
+        "Its length end to end"
+      ],
+      "correct_index": 1,
+      "explanation": "Freeboard is the height of the hull above the water. Depth below is draught and the widest part is the beam.",
+      "source_ids": [
+        "tp14692"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q03",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Where on a boat is the compliance notice (capacity plate) normally found?",
+      "options": [
+        "Near the helm",
+        "Inside the bilge",
+        "Under the bow seat",
+        "On the motor cover"
+      ],
+      "correct_index": 0,
+      "explanation": "It is fixed near the helm where the operator can see it.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q04",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A 5 m runabout's compliance notice gives a maximum number of people and a maximum weight. When is the boat full?",
+      "options": [
+        "Only when both are reached",
+        "When either one is reached",
+        "Only at the people limit",
+        "Only at the weight limit"
+      ],
+      "correct_index": 1,
+      "explanation": "The boat is at capacity at the people limit or the weight limit, whichever comes first.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q05",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these does the compliance notice on a 5 m outboard boat show?",
+      "options": [
+        "The fuel tank capacity in litres",
+        "The top speed at full throttle",
+        "The hull serial number of the boat",
+        "The highest outboard power advised"
+      ],
+      "correct_index": 3,
+      "explanation": "On boats up to 6 m the notice shows recommended maximum people, weight and outboard power.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q06",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "The capacity limits on your boat's compliance notice assume what conditions?",
+      "options": [
+        "Any weather, any load",
+        "Rough water, light load",
+        "Good weather, even load",
+        "Night use in fresh water"
+      ],
+      "correct_index": 2,
+      "explanation": "The limits are for good weather with the weight spread evenly. Carry less when it is rough.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q07",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Where is the hull serial number marked on a pleasure craft?",
+      "options": [
+        "Upper starboard corner of transom",
+        "Lower port corner of the transom",
+        "Starboard side of the bow, inside",
+        "On the console under the helm"
+      ],
+      "correct_index": 0,
+      "explanation": "The HIN is marked on the outside upper starboard corner of the transom, or as close to it as possible.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q08",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "How many characters does a hull serial number have?",
+      "options": [
+        "8",
+        "10",
+        "16",
+        "12"
+      ],
+      "correct_index": 3,
+      "explanation": "The hull serial number has 12 characters.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q09",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are loading camping gear into a small open boat. What is the best way?",
+      "options": [
+        "Stack it high on the seats",
+        "Low, even and tied down",
+        "All in the bow to lift the stern",
+        "All on the side opposite you"
+      ],
+      "correct_index": 1,
+      "explanation": "Weight kept low, spread evenly and secured keeps the boat stable.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "tp14692"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q10",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your open boat has filled with water but is still upright. What has happened?",
+      "options": [
+        "It has swamped",
+        "It has capsized",
+        "It has planed",
+        "It has listed"
+      ],
+      "correct_index": 0,
+      "explanation": "Swamped means full of water but upright. Capsized means turned over.",
+      "source_ids": [
+        "tp14692",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q11",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Why does overloading make a small boat more likely to take on water?",
+      "options": [
+        "It raises the bow",
+        "It reduces freeboard",
+        "It widens the beam",
+        "It cools the engine"
+      ],
+      "correct_index": 1,
+      "explanation": "More weight pushes the boat lower, so there is less freeboard and small waves can come aboard.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "tp14692"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q12",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A friend wants to move from the stern seat to the bow of a small aluminum boat while you fish. What should they do?",
+      "options": [
+        "Stand and walk quickly",
+        "Stay low and near the centre",
+        "Step along one gunwale",
+        "Wait until you speed up"
+      ],
+      "correct_index": 1,
+      "explanation": "Keep the centre of gravity low and central when moving in a small boat.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.boat.know-your-boat.q13",
+      "lesson_id": "pcoc.boat.know-your-boat",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Which kind of hull rises up and skims across the water at speed?",
+      "options": [
+        "Displacement hull",
+        "Keel hull",
+        "Planing hull",
+        "Round bilge hull"
+      ],
+      "correct_index": 2,
+      "explanation": "A planing hull lifts and skims at speed. A displacement hull pushes the water aside and is speed-limited.",
+      "source_ids": [
+        "tp14692"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

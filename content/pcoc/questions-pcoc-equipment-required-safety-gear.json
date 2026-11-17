@@ -1,0 +1,290 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.equipment.required-safety-gear.q01",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "On a pleasure craft, which flotation may each person have to meet the law?",
+      "options": [
+        "A SOLAS lifejacket and nothing else",
+        "A lifejacket or an approved PFD",
+        "A floating seat cushion of any kind",
+        "A PFD, but only for the children"
+      ],
+      "correct_index": 1,
+      "explanation": "On a pleasure craft either a lifejacket or an approved PFD of the right size is allowed for each person.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q02",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "When does a pleasure craft need a reboarding device such as a ladder?",
+      "options": [
+        "When the climb is over 0.5 m",
+        "Only on boats over 9 m",
+        "Only if it has a swim grid",
+        "When it carries 4 or more"
+      ],
+      "correct_index": 0,
+      "explanation": "A reboarding device is needed unless the climb back on board from the water is 0.5 m or less.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q03",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "A 5 m runabout must carry a buoyant heaving line. How long must it be?",
+      "options": [
+        "At least 10 m",
+        "At least 30 m",
+        "At least 15 m",
+        "At least 5 m"
+      ],
+      "correct_index": 2,
+      "explanation": "Up to 6 m, the boat needs a buoyant heaving line of at least 15 m.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q04",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What visual signals must a 5.5 m outboard boat carry on the ocean?",
+      "options": [
+        "Six flares and a flashlight",
+        "Twelve flares only",
+        "A flashlight or three flares",
+        "Nothing if in daylight"
+      ],
+      "correct_index": 2,
+      "explanation": "Up to 6 m: a watertight flashlight or three approved pyrotechnic distress signals.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q05",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A 7.5 m cabin boat runs in Haro Strait. What visual signals must it carry?",
+      "options": [
+        "A flashlight or three flares",
+        "A flashlight and six flares",
+        "Twelve flares, no flashlight",
+        "Three smoke signals only"
+      ],
+      "correct_index": 1,
+      "explanation": "Over 6 m and up to 9 m: a watertight flashlight and six flares, no more than two of them smoke signals.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q06",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What may a 5 m runabout carry instead of an anchor with 15 m of line?",
+      "options": [
+        "A spare fuel can",
+        "An extra heaving line",
+        "A paddle or oars",
+        "A second bailer"
+      ],
+      "correct_index": 2,
+      "explanation": "Up to 9 m the boat carries an anchor with at least 15 m of rode, or a manual propelling device such as a paddle or oars, plus a bailer or manual pump.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q07",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your 5 m boat is only ever used in daylight and good visibility. Must it carry navigation lights?",
+      "options": [
+        "Yes, at all times",
+        "No, not in daylight",
+        "Only on salt water",
+        "Only with passengers"
+      ],
+      "correct_index": 1,
+      "explanation": "Up to 9 m, navigation lights are needed only if the boat is out between sunset and sunrise or in poor visibility.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q08",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "When does a 6 m powerboat NOT need to carry flares?",
+      "options": [
+        "On a lake never over 1 nm from shore",
+        "On any trip shorter than two hours",
+        "On the open ocean during summer",
+        "Whenever the sky is clear and bright"
+      ],
+      "correct_index": 0,
+      "explanation": "Flares are not required on a river, canal or lake where the boat can never be more than 1 nautical mile from shore.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q09",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How long after the date of manufacture do pyrotechnic flares expire?",
+      "options": [
+        "2 years",
+        "6 years",
+        "3 years",
+        "4 years"
+      ],
+      "correct_index": 3,
+      "explanation": "Flares expire 4 years after they were made. The date is stamped on each one.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "regs-a-svr-2010"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q10",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which person may use an inflatable PFD as their required flotation?",
+      "options": [
+        "A 14-year-old on a sailboat",
+        "An adult on a personal watercraft",
+        "An adult who wears it on deck",
+        "A child of 9 in a canoe"
+      ],
+      "correct_index": 2,
+      "explanation": "Inflatable PFDs are not allowed for anyone under 16 or on a PWC, and they must be worn to count.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "pcoc-a-svr-2010-parts-1-2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q11",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "What kind of flotation device must a 12-year-old wear on your boat?",
+      "options": [
+        "Any approved inflatable",
+        "Inherently buoyant (foam)",
+        "A manual inflatable only",
+        "A belt-pack inflatable"
+      ],
+      "correct_index": 1,
+      "explanation": "The regulations say flotation worn by anyone under 16 must be inherently buoyant, so inflatables are out.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q12",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How often should you check your lifejackets and PFDs for rips, fading and broken straps?",
+      "options": [
+        "Every five years",
+        "At least once a year",
+        "Only when new",
+        "Only after a capsize"
+      ],
+      "correct_index": 1,
+      "explanation": "Transport Canada advises checking them at least once a year, and replacing any that are damaged.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.equipment.required-safety-gear.q13",
+      "lesson_id": "pcoc.equipment.required-safety-gear",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "A 6 m runabout has an outboard with a portable tank, no stove and no inboard engine. Must it carry a fire extinguisher?",
+      "options": [
+        "Yes, a 10B:C type",
+        "Yes, two 5B:C types",
+        "Only with passengers",
+        "No, not required"
+      ],
+      "correct_index": 3,
+      "explanation": "Up to 6 m, a 5B:C extinguisher is required only with an inboard engine, a fixed fuel tank or a fuel-burning appliance. Carrying one is still wise.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

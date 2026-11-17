@@ -1,0 +1,92 @@
+{
+  "sources": [
+    {
+      "id": "pcoc-a-tp511-2026",
+      "title": "Safe Boating Guide: Safety Tips and Requirements for Pleasure Craft (TP 511E)",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/sites/default/files/2026-05/boating_guide_2026_en_acc.pdf",
+      "edition": "TP 511E (03/2026), catalogue T29-193/2026E-PDF; accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool (several targeted passes over the whole PDF), not page by page by the author. Supports: proof of competency for any motorized pleasure craft including electric motors; accepted proofs; the PCOC never expires; carry proof of competency, personal ID and the pleasure craft licence; age and power table (under 12 directly supervised by someone 16+ up to 7.5 kW / 10 hp; 12 to 15 up to 30 kW / 40 hp; no PWC under 16; no limits 16+; not in NU or NT); licence for engines totalling 7.5 kW or more, licence or registration not both, licence valid 5 years, 30 days for changes, number on both sides of the bow in block characters at least 7.5 cm, $250 fine; registration is proof of ownership; impaired operation is a Criminal Code offence, over the limit within 2 hours; operator responsibilities and safety briefing; compliance notice (capacity plate) at the helm, limits are recommended maximums for good weather, capacity reached at whichever comes first of persons or weight, no listed limits over 6 m; hull serial number 12 characters on the upper starboard corner of the transom, boats made or imported after 1981-04-29; loading low and even; minimum safety equipment tables; lifejacket vs PFD; inflatable PFD rules (not under 16, not on a PWC, must be worn); checking PFDs once a year; flares expire 4 years from manufacture; flare exemptions (1 nm from shore on river, canal or lake; official competition with no sleeping quarters) and 50 per cent reduction with two-way radio, 406 MHz PLB or EPIRB; wind warning thresholds; sail plan left with a trusted person who contacts a JRCC if you are overdue, and closing the plan; pre-departure checklist; one-third fuel rule; refuelling steps; portable tanks filled off the boat; blower at least 4 minutes before starting a gasoline inboard and sniff for vapour; carbon monoxide symptoms, station wagon effect, no teak surfing, CO alarm. NOTE: in the summarised equipment table the guide was reported to give a flashlight OR flares for 6 to 9 m and an extinguisher for 6 to 9 m only with an inboard engine or fuel-burning appliance; the Small Vessel Regulations (pcoc-a-svr-2010-parts-1-2) say flashlight AND six flares and an extinguisher for any power-driven craft of 6 to 9 m. The lessons follow the regulation. The guide also mentions an electronic visual distress signal plus a smoke signal as an alternative; that option was not found in the regulation text read."
+    },
+    {
+      "id": "pcoc-a-svr-2010-parts-1-2",
+      "title": "Small Vessel Regulations, SOR/2010-91: Part 1 pleasure craft licences (ss. 100-113) and Part 2 pleasure craft safety equipment (ss. 200-219)",
+      "publisher": "Department of Justice Canada (Justice Laws website)",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2010-91/page-3.html",
+      "edition": "Consolidation current to 2026-09-30, last amended 2025-12-31; pages 2, 3 and 4 accessed 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool that quoted the section text; the author did not open the full page. Supports: licence required when engines total at least 7.5 kW (s. 100), copy of licence on board (s. 101), 30 days after ownership or address change (ss. 103-104), licence valid five years (s. 105), $24 fee indexed each April 1 (ss. 112-113); Part 2 applies to pleasure craft operated in Canada (s. 200); operator must take all reasonable steps for safety of craft and people (s. 201); flotation worn by a person under 16 must be inherently buoyant (s. 202); s. 204 PFD or lifejacket of appropriate size for each person, reboarding device unless climb 0.5 m or less, heaving line and lifebuoy table (15 m line up to 6 m; line or lifebuoy 6-9 m; both 9-12 m); s. 205 visual signals (up to 6 m flashlight or 3 pyrotechnics max 1 smoke; 6-9 m flashlight and 6 max 2 smoke; over 9 m flashlight and 12 max 6 smoke); s. 206 anchor 15 m rode or manual propelling device plus bailer or manual pump up to 9 m, 30 m rode 9-12 m, 50 m over 12 m; s. 207 sound-signalling device, navigation lights (up to 9 m only if operated sunset to sunrise or restricted visibility), magnetic compass; s. 208 extinguishers (5B:C up to 6 m only with inboard engine, fixed fuel tank or fuel-burning appliance; 5B:C 6-9 m if power-driven plus one for a fuel-burning appliance; 10B:C 9-12 m; 12-24 m 10B:C at fuel-burning appliance, accommodation entrance and machinery space entrance plus axe and two buckets); ss. 209-211 human-powered craft; s. 213 no visual signals for craft up to 6 m with no engine, pyrotechnics not required on river, canal or lake never more than 1 nm from shore, 50 per cent reduction with two-way radio, 406 MHz PLB or EPIRB (over 6 m); s. 214 bailer exemption; s. 215 compass not needed up to 8 m within sight of seamarks; s. 218 personal watercraft reduced list when everyone wears a PFD or lifejacket."
+    },
+    {
+      "id": "pcoc-a-copcr-sor-99-53",
+      "title": "Competency of Operators of Pleasure Craft Regulations, SOR/99-53",
+      "publisher": "Department of Justice Canada (Justice Laws website)",
+      "url": "https://laws-lois.justice.gc.ca/eng/regulations/sor-99-53/page-1.html",
+      "edition": "Consolidation current to 2026-09-30, last amended 2020-10-06; accessed 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool that quoted the section text. Supports: applies to pleasure craft fitted with a motor used for recreation, except in Nunavut and the Northwest Territories (s. 2); no operation without competency and proof of competency on board, and the person in charge may not let someone operate who is not competent (s. 3); non-residents exempt when their craft is in Canada for less than 45 consecutive days, with proof of residency on board (s. 3); proof of competency includes the Pleasure Craft Operator Card, a pre-April 1, 1999 course card, a rental boat safety checklist (rental period only) and listed certificates (definition and s. 4); the operator card attests a mark of at least 75 per cent on a test (definition); tests have 36 items, are supervised throughout, questions come from the Transport Canada bank, no more than one attempt per day (s. 7); rental boat safety checklist content (s. 8). The regulation gives no expiry for the card."
+    },
+    {
+      "id": "pcoc-a-tc-proof-competency",
+      "title": "Proof of competency for recreational boaters",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/marine-safety/proof-competency-recreational-boaters",
+      "edition": "Accessed 2026-11-17 (no date modified shown in the summary)",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: anyone operating a motorized pleasure craft for recreation needs proof of competency, including electric trolling motors and sailboats with the motor not running; accepted proofs; a photocopy or electronic copy of the card is not accepted; the PCOC comes from a test, usually after a course from a Transport Canada-accredited provider, in class or online; the card is valid for life; replacement through the course provider; age and horsepower table (under 12 without direct supervision up to 10 hp / 7.5 kW; 12 to 15 without direct supervision up to 40 hp / 30 kW; no PWC under 16; direct supervision means a person 16 or older in the boat)."
+    },
+    {
+      "id": "pcoc-a-tc-pcl-after-apply",
+      "title": "Apply for or manage a Pleasure Craft Licence (PCL): after you apply",
+      "publisher": "Transport Canada",
+      "url": "https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration/licensing-pleasure-craft/apply-manage-pleasure-craft-licence-pcl/after-you-apply",
+      "edition": "Accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: the licence document must be kept on board; the number is marked on both sides of the bow, above the waterline, in block characters at least 7.5 cm (3 in) high in a contrasting colour; update within 30 days of a change to name, address or craft details."
+    },
+    {
+      "id": "pcoc-a-tc-news-2026-pcl",
+      "title": "Minister of Transport announces changes to make boating safer for Canadians (pleasure craft licensing amendments)",
+      "publisher": "Transport Canada",
+      "url": "https://www.canada.ca/en/transport-canada/news/2026/01/minister-of-transport-and-leader-of-the-government-in-the-house-of-commons-announces-changes-to-make-boating-safer-for-canadians.html",
+      "edition": "News release, January 2026; accessed 2026-11-17",
+      "kind": "tc-publication",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: from December 31, 2025 new and renewed licences are valid five years; lifetime licences are being phased out; $24 fee for issuing, renewing, transferring or replacing, adjusted for inflation; no fee for those exercising section 35 rights; 30 days (formerly 90) to update name or address; licence threshold of 10 hp (7.5 kW) unchanged; wind-powered craft over 6 m to need a licence two years after the amendments come into force."
+    },
+    {
+      "id": "pcoc-a-criminal-code-320-14",
+      "title": "Criminal Code, R.S.C. 1985, c. C-46, s. 320.14 (operation while impaired)",
+      "publisher": "Department of Justice Canada (Justice Laws website)",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/c-46/section-320.14.html",
+      "edition": "Accessed 2026-11-17",
+      "kind": "regulation",
+      "reproduction": "permitted-with-acknowledgement",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool that quoted the text. Supports: it is an offence to operate a conveyance while impaired to any degree by alcohol, a drug or both (s. 320.14(1)(a)), or to have a blood alcohol concentration of 80 mg or more in 100 mL of blood within two hours after operating (s. 320.14(1)(b))."
+    },
+    {
+      "id": "pcoc-a-justice-c46-legislative-background",
+      "title": "Legislative background: reform of the transportation provisions of the Criminal Code (Bill C-46)",
+      "publisher": "Department of Justice Canada",
+      "url": "https://justice.gc.ca/eng/cj-jp/sidl-rlcfa/c46b/p4.html",
+      "edition": "Accessed 2026-11-17",
+      "kind": "other",
+      "reproduction": "unclear",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. Supports: the Criminal Code term conveyance covers motor vehicles, vessels, aircraft and railway equipment, so the impaired operation offences apply to boats."
+    }
+  ]
+}

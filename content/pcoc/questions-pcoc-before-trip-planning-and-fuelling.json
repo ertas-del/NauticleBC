@@ -1,0 +1,303 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q01",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Environment Canada has issued a gale warning for your area. What wind speed does that mean?",
+      "options": [
+        "20 to 33 knots",
+        "48 to 63 knots",
+        "10 to 19 knots",
+        "34 to 47 knots"
+      ],
+      "correct_index": 3,
+      "explanation": "A gale warning is for 34 to 47 knots. 20 to 33 is a strong wind warning and 48 to 63 is a storm warning.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q02",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What is the lowest of the Canadian marine wind warnings, and its range?",
+      "options": [
+        "Strong wind, 20 to 33 knots",
+        "Gale, 34 to 47 knots",
+        "Small craft, 10 to 19 knots",
+        "Storm, 48 to 63 knots"
+      ],
+      "correct_index": 0,
+      "explanation": "The strong wind warning, 20 to 33 knots, is the lowest wind warning and is dangerous for small boats.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q03",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Who should hold your trip plan (sail plan)?",
+      "options": [
+        "The marina's fuel dock",
+        "A person you trust ashore",
+        "Nobody, keep it on board",
+        "Your insurance company"
+      ],
+      "correct_index": 1,
+      "explanation": "Leave it with someone you trust who will act if you do not come back on time.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q04",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are three hours overdue. What should the person holding your trip plan do?",
+      "options": [
+        "Wait until the next morning",
+        "Drive to the launch ramp",
+        "Call a rescue centre (JRCC)",
+        "Post on social media first"
+      ],
+      "correct_index": 2,
+      "explanation": "If you are overdue, your contact calls a JRCC to start a search.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q05",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You get home safely but forget to call the person holding your trip plan. What can happen?",
+      "options": [
+        "A search may start for nothing",
+        "Your boat licence is suspended",
+        "Nothing happens, it is optional",
+        "Your operator card is cancelled"
+      ],
+      "correct_index": 0,
+      "explanation": "Always close your trip plan. Otherwise a needless search may tie up rescuers.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q06",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Using the one-third rule, how should your fuel be split?",
+      "options": [
+        "Half out and half back",
+        "A third out, back and reserve",
+        "Two thirds out, a third back",
+        "A quarter each way, half spare"
+      ],
+      "correct_index": 1,
+      "explanation": "Use one third to go out, one third to come back, and keep one third in reserve.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q07",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "Your trip out will use 20 litres and the trip back 20 litres. Under the one-third rule, what is the least fuel you should leave with?",
+      "options": [
+        "40 litres",
+        "50 litres",
+        "80 litres",
+        "60 litres"
+      ],
+      "correct_index": 3,
+      "explanation": "Out and back are two thirds of the total, so each third is 20 litres. 3 x 20 = 60 litres.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q08",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Where should you fill a portable gas tank for your outboard?",
+      "options": [
+        "In the boat, engine off",
+        "On the dock or shore",
+        "In the cabin, out of wind",
+        "In the boat, engine idling"
+      ],
+      "correct_index": 1,
+      "explanation": "Remove portable tanks from the boat and fill them ashore or on the dock.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q09",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "After fuelling a boat with an inboard gasoline engine, how long should the blower run before you start the engine?",
+      "options": [
+        "At least 1 minute",
+        "At least 10 minutes",
+        "At least 4 minutes",
+        "No blower is needed"
+      ],
+      "correct_index": 2,
+      "explanation": "Run the blower for at least 4 minutes, then sniff the engine space for fuel fumes before starting.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q10",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You smell gasoline in the engine space after running the blower. What should you do?",
+      "options": [
+        "Start the engine quickly",
+        "Do not start; find the leak",
+        "Run the blower 30 seconds more",
+        "Spray air freshener"
+      ],
+      "correct_index": 1,
+      "explanation": "A fuel smell means vapour is still there. Do not start the engine until the leak is found and fixed.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q11",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which of these is an early sign of carbon monoxide poisoning?",
+      "options": [
+        "Headache and nausea",
+        "Sunburn on the face",
+        "Hunger and thirst",
+        "A tingling in the feet"
+      ],
+      "correct_index": 0,
+      "explanation": "Headache, nausea, dizziness and itchy eyes are early signs, often mistaken for seasickness.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q12",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is teak surfing behind a boat so dangerous?",
+      "options": [
+        "It scratches the hull",
+        "It slows the boat down",
+        "It drains the battery",
+        "Exhaust gas builds up there"
+      ],
+      "correct_index": 3,
+      "explanation": "Carbon monoxide builds up near the swim platform and back deck while engines run. Never sit, hang on or teak surf there.",
+      "source_ids": [
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q13",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You plan to cross a BC pass where a strong ebb current runs west. The forecast is a strong west wind blowing toward the east. What should you expect at peak ebb?",
+      "options": [
+        "Calm water, small ripples",
+        "Short, steep, breaking seas",
+        "Long, low, gentle swells",
+        "Smaller waves than usual"
+      ],
+      "correct_index": 1,
+      "explanation": "Wind blowing against the current builds short, steep, breaking seas. Cross when wind and current go the same way, or near slack.",
+      "source_ids": [
+        "rmet-ubc-10d-tides-currents",
+        "chw-c-chs-tct-vol6-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.before.trip-planning-and-fuelling.q14",
+      "lesson_id": "pcoc.before.trip-planning-and-fuelling",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "You are out on the water and want the latest marine forecast. Where can you get it?",
+      "options": [
+        "From the compass card",
+        "On VHF marine radio",
+        "On the capacity plate",
+        "In the tide tables"
+      ],
+      "correct_index": 1,
+      "explanation": "Marine forecasts are broadcast on VHF radio and posted online. Keep checking them while you are out.",
+      "source_ids": [
+        "pcoc-a-tp511-2026",
+        "rmet-eccc-pacific-products"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

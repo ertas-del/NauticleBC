@@ -1,0 +1,314 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.basics.card-and-the-law.q01",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Jo paddles a canoe that has a small electric trolling motor clamped to the stern. When Jo uses the motor, what does Jo need on board?",
+      "options": [
+        "Nothing, electric motors are exempt",
+        "Proof of competency",
+        "A pleasure craft licence only",
+        "A radio operator certificate"
+      ],
+      "correct_index": 1,
+      "explanation": "Proof of competency is needed for any pleasure craft fitted with a motor, electric motors included. A licence depends on engine power, not on who drives.",
+      "source_ids": [
+        "pcoc-a-copcr-sor-99-53",
+        "pcoc-a-tc-proof-competency"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q02",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How many questions are on the Pleasure Craft Operator Card test?",
+      "options": [
+        "20",
+        "50",
+        "36",
+        "25"
+      ],
+      "correct_index": 2,
+      "explanation": "The regulations set the test at 36 questions drawn from Transport Canada's bank.",
+      "source_ids": [
+        "pcoc-a-copcr-sor-99-53"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q03",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What mark do you need to pass the PCOC test?",
+      "options": [
+        "60 per cent",
+        "75 per cent",
+        "80 per cent",
+        "90 per cent"
+      ],
+      "correct_index": 1,
+      "explanation": "The card shows you scored at least 75 per cent on the test.",
+      "source_ids": [
+        "pcoc-a-copcr-sor-99-53"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q04",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How long is a Pleasure Craft Operator Card valid?",
+      "options": [
+        "For life",
+        "For 5 years",
+        "For 10 years",
+        "Until age 65"
+      ],
+      "correct_index": 0,
+      "explanation": "The card does not expire. The 5-year period belongs to the pleasure craft licence for the boat.",
+      "source_ids": [
+        "pcoc-a-tc-proof-competency",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q05",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A family rents a motor boat for the weekend on Okanagan Lake. None of them has a PCOC. What can serve as proof of competency?",
+      "options": [
+        "A copy of the boat's pleasure craft licence",
+        "A signed rental boat safety checklist",
+        "A photo of a friend's operator card",
+        "A BC driver's licence and a passport"
+      ],
+      "correct_index": 1,
+      "explanation": "A completed rental boat safety checklist is proof of competency, but only for the rental period.",
+      "source_ids": [
+        "pcoc-a-copcr-sor-99-53",
+        "pcoc-a-tc-proof-competency"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q06",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A 13-year-old with a PCOC wants to take a boat out alone. What is the largest motor allowed?",
+      "options": [
+        "10 hp (7.5 kW)",
+        "25 hp (18.5 kW)",
+        "No limit at all",
+        "40 hp (30 kW)"
+      ],
+      "correct_index": 3,
+      "explanation": "From 12 to 15, without direct supervision, the limit is 40 hp. The 10 hp limit is for those under 12.",
+      "source_ids": [
+        "pcoc-a-tc-proof-competency",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q07",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "An 11-year-old wants to drive a boat with no one 16 or older in the boat. What is the largest motor allowed?",
+      "options": [
+        "10 hp (7.5 kW)",
+        "40 hp (30 kW)",
+        "20 hp (15 kW)",
+        "None, never alone"
+      ],
+      "correct_index": 0,
+      "explanation": "Under 12, without direct supervision, the limit is 10 hp. Direct supervision means someone 16 or older is in the boat.",
+      "source_ids": [
+        "pcoc-a-tc-proof-competency",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q08",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A 15-year-old with a PCOC asks to ride a personal watercraft with a parent watching from it. What does the law say?",
+      "options": [
+        "Allowed if the parent is on board",
+        "Allowed under 40 hp",
+        "Not allowed under age 16",
+        "Allowed in daylight"
+      ],
+      "correct_index": 2,
+      "explanation": "No one under 16 may operate a personal watercraft, whether supervised or not.",
+      "source_ids": [
+        "pcoc-a-tc-proof-competency",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q09",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which boat must have a pleasure craft licence (or be registered)?",
+      "options": [
+        "A canoe paddled by two people",
+        "A runabout with a 115 hp outboard",
+        "A sea kayak with a small sail",
+        "A rowboat with oars and no motor"
+      ],
+      "correct_index": 1,
+      "explanation": "A licence is needed when the engines total 10 hp (7.5 kW) or more, unless the boat is registered.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tc-news-2026-pcl",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q10",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "How long is a newly issued pleasure craft licence valid?",
+      "options": [
+        "1 year",
+        "For life",
+        "10 years",
+        "5 years"
+      ],
+      "correct_index": 3,
+      "explanation": "Since the end of 2025, new and renewed licences are valid for 5 years. Lifetime licences are being phased out.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tc-news-2026-pcl"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q11",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "You move house. How long do you have to update your pleasure craft licence?",
+      "options": [
+        "30 days",
+        "90 days",
+        "60 days",
+        "1 year"
+      ],
+      "correct_index": 0,
+      "explanation": "Changes to name, address or ownership must be reported within 30 days. It used to be 90 days.",
+      "source_ids": [
+        "pcoc-a-svr-2010-parts-1-2",
+        "pcoc-a-tc-pcl-after-apply",
+        "pcoc-a-tc-news-2026-pcl"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q12",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Where must the licence number be shown on the boat?",
+      "options": [
+        "On the transom only",
+        "On the windshield",
+        "On both sides of the bow",
+        "Inside the helm area"
+      ],
+      "correct_index": 2,
+      "explanation": "The number goes on both sides of the bow, above the waterline, in block letters at least 7.5 cm high.",
+      "source_ids": [
+        "pcoc-a-tc-pcl-after-apply",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q13",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A visitor brings their own motor boat from Washington State for a two-week trip to the Gulf Islands. Do they need Canadian proof of competency?",
+      "options": [
+        "Yes, from day one",
+        "Only after seven days",
+        "Only if over 10 hp",
+        "No, under 45 days"
+      ],
+      "correct_index": 3,
+      "explanation": "A non-resident whose boat is in Canada for less than 45 consecutive days is exempt. They should carry proof of residency.",
+      "source_ids": [
+        "pcoc-a-copcr-sor-99-53",
+        "pcoc-a-tc-proof-competency"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.basics.card-and-the-law.q14",
+      "lesson_id": "pcoc.basics.card-and-the-law",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which law makes it a crime to operate a boat while impaired by alcohol or drugs?",
+      "options": [
+        "The Criminal Code",
+        "The Fisheries Act",
+        "The Navigable Waters Act",
+        "Only provincial liquor law"
+      ],
+      "correct_index": 0,
+      "explanation": "The Criminal Code impaired operation offences cover any conveyance, and a vessel is a conveyance.",
+      "source_ids": [
+        "pcoc-a-criminal-code-320-14",
+        "pcoc-a-justice-c46-legislative-background",
+        "pcoc-a-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
