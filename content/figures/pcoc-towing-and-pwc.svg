@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Towing and PWCs</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<linearGradient id="nightP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d36"/><stop offset="1" stop-color="#12294a"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+</marker>
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Towing and PWCs</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">A spotter for every tow. On a PWC, keep the throttle on to steer.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="118" width="310" height="486" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="52" y="130" width="286" height="34" rx="8" fill="#0f766e"/><text x="68" y="153" font-size="18" text-anchor="start" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">Towing a skier or tuber</text>
+<rect x="52" y="176" width="286" height="196" rx="8" fill="url(#sea)"/>
+<path d="M210,188 C254,212 252,248 252,300 L168,300 C168,248 166,212 210,188 Z" fill="#ffffff" stroke="#1e3a5f" stroke-width="2.2"/>
+<rect x="216" y="228" width="26" height="22" rx="4" fill="#e2e8f0" stroke="#1e3a5f" stroke-width="1.2"/>
+<ellipse cx="229" cy="239" rx="15" ry="8" fill="#2563eb" stroke="#111827" stroke-width="1.2"/><circle cx="229" cy="239" r="7" fill="#7c4a2d" stroke="#111827" stroke-width="1.2"/>
+<rect x="178" y="228" width="26" height="22" rx="4" fill="#e2e8f0" stroke="#1e3a5f" stroke-width="1.2"/>
+<rect x="178" y="264" width="26" height="24" rx="4" fill="#e2e8f0" stroke="#1e3a5f" stroke-width="1.2"/>
+<ellipse cx="191" cy="276" rx="15" ry="8" fill="#f59e0b" stroke="#111827" stroke-width="1.2"/><circle cx="191" cy="276" r="7" fill="#7c4a2d" stroke="#111827" stroke-width="1.2"/>
+<path d="M191,284 l-4,-2 l4,7 l4,-7 z" fill="#111827"/>
+<rect x="216" y="264" width="26" height="24" rx="4" fill="#dcfce7" stroke="#16a34a" stroke-width="2.2" stroke-dasharray="4 3"/>
+<line x1="210" y1="300" x2="210" y2="336" stroke="#475569" stroke-width="2"/>
+<circle cx="210" cy="350" r="15" fill="#fde68a" stroke="#111827" stroke-width="1.4"/>
+<ellipse cx="210" cy="350" rx="14" ry="7" fill="#f97316" stroke="#111827" stroke-width="1.2"/><circle cx="210" cy="350" r="6" fill="#7c4a2d" stroke="#111827" stroke-width="1.2"/>
+<path d="M186,292 Q176,322 196,340" fill="none" stroke="#0f766e" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#ah)"/>
+<text x="260" y="244" font-size="16" text-anchor="start" fill="#2563eb" font-weight="bold" font-family="Liberation Sans">Driver</text>
+<text x="64" y="262" font-size="16" text-anchor="start" fill="#b45309" font-weight="bold" font-family="Liberation Sans">Spotter</text>
+<text x="64" y="282" font-size="15" text-anchor="start" fill="#b45309" font-family="Liberation Sans">faces back</text>
+<text x="260" y="274" font-size="16" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">Free</text>
+<text x="260" y="294" font-size="16" text-anchor="start" fill="#16a34a" font-weight="bold" font-family="Liberation Sans">seat</text>
+<text x="234" y="346" font-size="15" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Wears a</text>
+<text x="234" y="364" font-size="15" text-anchor="start" fill="#102a43" font-family="Liberation Sans">lifejacket</text>
+<circle cx="68" cy="393" r="5" fill="#0f766e"/><text x="82" y="398" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Spotter (not the driver)</text><text x="82" y="419" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">watches and tells the driver</text><circle cx="68" cy="444" r="5" fill="#0f766e"/><text x="82" y="449" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">A free seat for each</text><text x="82" y="470" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">person towed</text><circle cx="68" cy="495" r="5" fill="#0f766e"/><text x="82" y="500" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">A lifejacket for each</text><text x="82" y="521" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">person towed</text><circle cx="68" cy="546" r="5" fill="#0f766e"/><text x="82" y="551" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">No towing from 1 hour after</text><text x="82" y="572" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">sunset to sunrise, or in</text><text x="82" y="593" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">poor visibility</text>
+<rect x="370" y="118" width="310" height="486" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="382" y="130" width="286" height="34" rx="8" fill="#0f766e"/><text x="398" y="153" font-size="18" text-anchor="start" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">Personal watercraft</text>
+<rect x="382" y="176" width="286" height="196" rx="8" fill="url(#sea)"/>
+<rect x="382" y="176" width="286" height="30" fill="#c8a26b" stroke="#8b6b3e" stroke-width="1.5"/>
+<line x1="446" y1="177" x2="446" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="478" y1="177" x2="478" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="510" y1="177" x2="510" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="542" y1="177" x2="542" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="574" y1="177" x2="574" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="606" y1="177" x2="606" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<line x1="638" y1="177" x2="638" y2="205" stroke="#8b6b3e" stroke-width="1"/>
+<text x="400" y="197" font-size="15" text-anchor="start" fill="#5b4524" font-weight="bold" font-family="Liberation Sans">Dock</text>
+<line x1="555" y1="270" x2="555" y2="216" stroke="#dc2626" stroke-width="4" stroke-dasharray="7 5" marker-end="url(#ahr)"/>
+<path d="M539,209 l-8,-2 M571,209 l8,-2 M545,213 l-10,6 M565,213 l10,6" stroke="#dc2626" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M555,276 C573,292 573,330 571,360 L539,360 C537,330 537,292 555,276 Z" fill="#f8fafc" stroke="#1e3a5f" stroke-width="2.2"/>
+<rect x="549" y="312" width="12" height="40" rx="5" fill="#334e68"/>
+<line x1="539" y1="306" x2="571" y2="306" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+<ellipse cx="555" cy="322" rx="14" ry="7" fill="#f97316" stroke="#111827" stroke-width="1.2"/><circle cx="555" cy="322" r="6" fill="#7c4a2d" stroke="#111827" stroke-width="1.2"/>
+<text x="396" y="248" font-size="18" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">Throttle off</text>
+<text x="396" y="272" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">= no steering.</text>
+<text x="396" y="294" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">It keeps going</text>
+<text x="396" y="316" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">straight.</text>
+<text x="396" y="352" font-size="16" text-anchor="start" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">No brakes!</text>
+<circle cx="398" cy="393" r="5" fill="#0f766e"/><text x="412" y="398" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">No one under 16 may drive,</text><text x="412" y="419" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">even with an adult aboard</text><circle cx="398" cy="444" r="5" fill="#0f766e"/><text x="412" y="449" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Cut-off lanyard on your</text><text x="412" y="470" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">wrist or lifejacket</text><circle cx="398" cy="495" r="5" fill="#0f766e"/><text x="412" y="500" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Lifejacket must be inherently</text><text x="412" y="521" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">buoyant: no inflatables</text><circle cx="398" cy="546" r="5" fill="#0f766e"/><text x="412" y="551" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Proof of age and competency</text><text x="412" y="572" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">on board</text>
+<rect x="40" y="622" width="640" height="122" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="60" y="652" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Agree hand signals before you start</text>
+<rect x="76" y="706" width="46" height="12" rx="6" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M84,706 q4,-12 16,-10" fill="none" stroke="#111827" stroke-width="1.4"/><rect x="62" y="707" width="16" height="10" rx="2" fill="#2563eb"/>
+<line x1="138" y1="716" x2="138" y2="680" stroke="#0f766e" stroke-width="4" marker-end="url(#ah)"/>
+<text x="166" y="698" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Palm up</text>
+<text x="166" y="720" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">faster</text>
+<rect x="286" y="690" width="46" height="12" rx="6" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/><path d="M294,702 q4,12 16,10" fill="none" stroke="#111827" stroke-width="1.4"/><rect x="272" y="691" width="16" height="10" rx="2" fill="#2563eb"/>
+<line x1="348" y1="684" x2="348" y2="720" stroke="#0f766e" stroke-width="4" marker-end="url(#ah)"/>
+<text x="376" y="698" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Palm down</text>
+<text x="376" y="720" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">slower</text>
+<circle cx="520" cy="712" r="16" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/>
+<path d="M504,710 a16,16 0 0 1 32,0 q-16,-6 -32,0 z" fill="#7c4a2d"/>
+<rect x="500" y="684" width="40" height="11" rx="5.5" fill="#f2c9a0" stroke="#111827" stroke-width="1.4"/>
+<text x="550" y="698" font-size="17" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Pat on head</text>
+<text x="550" y="720" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">take me back</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

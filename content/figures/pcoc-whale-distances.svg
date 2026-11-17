@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 800" width="720" height="800" role="img">
+<title>Give whales room</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/>
+</linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/>
+</marker>
+<marker id="ahd" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+<linearGradient id="nightP" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1d36"/><stop offset="1" stop-color="#12294a"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
+
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+  <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+</marker>
+</defs>
+<rect width="720" height="800" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="800" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Give whales room</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Legal approach distances in BC waters. Rings not to scale.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+
+<rect x="40" y="118" width="640" height="280" rx="12" fill="url(#sea)"/>
+<circle cx="200" cy="258" r="132" fill="#dc2626" fill-opacity="0.07" stroke="#dc2626" stroke-width="3"/>
+<circle cx="200" cy="258" r="92" fill="#d97706" fill-opacity="0.07" stroke="#d97706" stroke-width="3"/>
+<circle cx="200" cy="258" r="52" fill="#0f766e" fill-opacity="0.07" stroke="#0f766e" stroke-width="3"/>
+<g transform="translate(200 258) scale(0.8) translate(-194 -260)">
+<path d="M162,260 C170,242 210,238 230,252 C240,260 234,270 218,271 L178,269 C170,268 164,266 162,260 Z" fill="#334e68"/>
+<path d="M164,261 L150,248 L154,262 L148,274 Z" fill="#334e68"/>
+<path d="M198,243 L204,231 L210,242 Z" fill="#334e68"/>
+<circle cx="222" cy="256" r="2.4" fill="#ffffff"/>
+<path d="M218,264 q8,3 14,-2" fill="none" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round"/>
+</g>
+<rect x="167.0" y="193" width="66" height="26" rx="13" fill="#ffffff" stroke="#0f766e" stroke-width="2"/><text x="200" y="212" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">100 m</text>
+<rect x="167.0" y="153" width="66" height="26" rx="13" fill="#ffffff" stroke="#d97706" stroke-width="2"/><text x="200" y="172" font-size="16" text-anchor="middle" fill="#d97706" font-weight="bold" font-family="Liberation Sans">200 m</text>
+<rect x="293.0" y="245" width="78" height="26" rx="13" fill="#ffffff" stroke="#dc2626" stroke-width="2"/><text x="332" y="264" font-size="16" text-anchor="middle" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">1,000 m</text>
+<rect x="388" y="136" width="276" height="244" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="408" y="170" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Whale surfaces close?</text>
+<circle cx="422" cy="206" r="14" fill="#0f766e"/>
+<text x="422" y="212" font-size="16" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">1</text>
+<text x="446" y="212" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Engine in neutral</text>
+<circle cx="422" cy="250" r="14" fill="#0f766e"/>
+<text x="422" y="256" font-size="16" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">2</text>
+<text x="446" y="256" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Let it pass</text>
+<circle cx="422" cy="294" r="14" fill="#0f766e"/>
+<text x="422" y="300" font-size="16" text-anchor="middle" fill="#ffffff" font-weight="bold" font-family="Liberation Sans">3</text>
+<text x="446" y="300" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Move away slowly</text>
+<text x="408" y="342" font-size="16" text-anchor="start" fill="#dc2626" font-family="Liberation Sans">Never chase, feed or</text>
+<text x="408" y="364" font-size="16" text-anchor="start" fill="#dc2626" font-family="Liberation Sans">swim with whales.</text>
+<text x="40" y="430" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Stay at least</text>
+<rect x="40" y="444" width="640" height="46" rx="10" fill="#ffffff" filter="url(#s)"/>
+<circle cx="68" cy="467.0" r="11" fill="#0f766e" fill-opacity="0.1" stroke="#0f766e" stroke-width="3.5"/>
+<text x="94" y="473.0" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Whales, dolphins, porpoises</text>
+<text x="660" y="475.0" font-size="24" text-anchor="end" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">100 m</text>
+<rect x="40" y="500" width="640" height="46" rx="10" fill="#ffffff" filter="url(#s)"/>
+<circle cx="68" cy="523.0" r="11" fill="#d97706" fill-opacity="0.1" stroke="#d97706" stroke-width="3.5"/>
+<text x="94" y="529.0" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Any of them resting or with a calf</text>
+<text x="660" y="531.0" font-size="24" text-anchor="end" fill="#d97706" font-weight="bold" font-family="Liberation Sans">200 m</text>
+<rect x="40" y="556" width="640" height="46" rx="10" fill="#ffffff" filter="url(#s)"/>
+<circle cx="68" cy="579.0" r="11" fill="#d97706" fill-opacity="0.1" stroke="#d97706" stroke-width="3.5"/>
+<text x="94" y="585.0" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Any killer whale, all BC waters</text>
+<text x="660" y="587.0" font-size="24" text-anchor="end" fill="#d97706" font-weight="bold" font-family="Liberation Sans">200 m</text>
+<rect x="40" y="612" width="640" height="62" rx="10" fill="#ffffff" filter="url(#s)"/>
+<circle cx="68" cy="643.0" r="11" fill="#dc2626" fill-opacity="0.1" stroke="#dc2626" stroke-width="3.5"/>
+<text x="94" y="639" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Southern Resident killer whales</text>
+<text x="94" y="662" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Southern BC, June 1, 2026 to May 31, 2027</text>
+<text x="660" y="651.0" font-size="24" text-anchor="end" fill="#dc2626" font-weight="bold" font-family="Liberation Sans">1,000 m</text>
+<text x="40" y="702" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Can't tell which killer whales? In southern BC, stay 1,000 m from any.</text>
+<text x="40" y="728" font-size="16" text-anchor="start" fill="#627d98" font-family="Liberation Sans">These rules change each year. Check the current rules before you go.</text>
+<text x="360" y="772" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>
