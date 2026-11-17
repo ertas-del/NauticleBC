@@ -16,6 +16,10 @@ key_facts:
   - "Outboard: engine hangs on the transom. Stern drive: inboard engine with an outdrive leg. Inboard: engine inside, shaft through the hull. Jet drive: an impeller pumps water out the back, with no propeller."
   - "Before starting: check fuel, oil, coolant, battery, the kill-switch lanyard and that the gear is in neutral. For inboard gasoline engines, run the blower first."
   - "If an engine overheats or loses oil pressure, reduce power and stop it promptly."
+figures:
+  - id: svop-propulsion-types
+    caption: "Four ways to drive a small boat"
+    alt: "Four small boats in side view, each with the engine coloured orange. The outboard hangs on the transom and turns as a whole unit. The stern drive has the engine inside and a drive leg outside the transom that turns. The inboard has a shaft through the hull to the propeller and a rudder behind it. The jet drive has no propeller: water comes in under the hull and out through a nozzle that moves to steer, with little steering at idle."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -25,6 +29,8 @@ review_status: needs_expert_review
 A small commercial vessel depends on its engine. The SVOP syllabus expects you to know the main propulsion types, how to start and stop an engine, and what to do when an alarm sounds.
 
 ## The four main types
+
+{{figure:svop-propulsion-types}}
 
 - ==Outboard motor==: a self-contained engine and propeller that hangs on the transom. It steers by turning the whole unit, and it tilts up out of the water.
 - ==Stern drive (inboard-outboard)==: an engine inside the hull connected to a drive leg and propeller outside the transom. It steers by turning the leg.

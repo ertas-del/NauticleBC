@@ -16,6 +16,10 @@ key_facts:
   - "Man overboard: shout, point, throw a flotation device, keep eyes on the person, and mark the position."
   - "Approach so the person is on the windward side and the propeller is stopped (in neutral) when close."
   - "Report a marine occurrence to the Transportation Safety Board (TSB) as soon as possible by the quickest means, then send a full written report within 30 days."
+figures:
+  - id: svop-mob-recovery
+    caption: "Man overboard: first actions and the approach"
+    alt: "Six numbered cards: shout man overboard, point and keep watching, throw a lifebuoy, mark the position with the GPS MOB button, slow down and turn back, and call Mayday or Pan-Pan on the radio. One drawing shows the wheel turned toward the side the person fell from so the stern swings away. Another shows the boat coming in slowly into the wind with the person upwind, drifting away from them, in neutral when close."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -34,6 +38,8 @@ Falling overboard is one of the most common and deadly emergencies on small boat
 6. If you have a radio, send a ==Mayday or Pan-Pan== with the position.
 
 ## Approach and recovery
+
+{{figure:svop-mob-recovery}}
 
 - Approach slowly ==into the wind==, so the person is on the ==windward side==. The boat then drifts away from the person, not over them. Have a line ready, because you will drift off quickly.
 - Turn the wheel toward the side the person fell from, to swing the stern and propeller away from them.
