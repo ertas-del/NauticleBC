@@ -17,6 +17,10 @@ key_facts:
   - "Sea state depends on wind speed, duration and fetch (the distance over which the wind blows)."
   - "Wind against current steepens waves and makes short, breaking seas."
   - "Land effects can accelerate or deflect wind. Narrow channels funnel wind to much higher speeds than forecast."
+figures:
+  - id: svop-wind-against-tide
+    caption: "Wind against current makes steep, breaking seas"
+    alt: "Two scenes side by side. On the left, the wind and the current both flow the same way, and the waves are long and low with a boat sitting level. On the right, the wind blows against the current, and the waves are short, steep and breaking with a boat pitching. A note says to cross when wind and current go the same way."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -33,6 +37,8 @@ The wind speed in a forecast is only part of the picture. The sea you meet depen
 - ==Swell==: waves from distant weather that arrive even when the local wind is calm.
 
 ## Wind against current or tide
+
+{{figure:svop-wind-against-tide}}
 
 When wind blows against a current or tide, waves become ==steeper, shorter and breaking==. Tide rips and narrow passages can be dangerous for small boats, even in moderate wind. Check the tide and current tables, and try to cross when the current and wind are going the same way.
 
@@ -59,7 +65,7 @@ Learn the local patterns for your area, and expect more wind near headlands and 
 
 ## Icing
 
-Sea spray freezes onto the vessel when the air temperature is well below freezing and the wind is strong. The ice adds ==top weight==, raises the centre of gravity, and reduces freeboard. It builds up fast on small boats. Icing is a serious cause of capsizing. Avoid it by staying out of areas with freezing spray, and remove ice carefully if you get it.
+Sea spray freezes onto the vessel when the air temperature is below about −2 °C and the wind is strong. The ice adds ==top weight==, raises the centre of gravity, and reduces freeboard. It builds up fast on small boats. Icing is a serious cause of capsizing. Avoid it by staying out of areas with freezing spray, and remove ice carefully if you get it.
 
 ## Weather and loading
 
@@ -72,7 +78,7 @@ The same load is riskier in rough weather. If bad weather is forecast:
 
 ## A BC example
 
-The marine forecast for Johnstone Strait says northwest winds 15 knots. You expect more because the strait funnels the wind. At the narrow part the wind is gusting to 30 knots against the ebb tide. You time your passage to go with the tide and keep a reserve of fuel.
+The marine forecast for Johnstone Strait says northwest winds 15 knots. You expect more because the strait funnels the wind. At the narrow part the wind is gusting to 30 knots against the ebb tide. You time your passage for slack water or the flood, when the current runs with the wind, and keep a reserve of fuel.
 
 ## Common mistakes
 

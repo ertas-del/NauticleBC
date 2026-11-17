@@ -74,15 +74,15 @@
         "svop"
       ],
       "difficulty": "medium",
-      "stem": "For Canadian charts the GPS datum should be:",
+      "stem": "Your chart's title block says NAD83. Your GPS datum should be:",
       "options": [
-        "Any datum",
-        "Depth datum",
-        "Local guesswork",
+        "Any datum, it makes no difference",
+        "NAD27, the older standard",
+        "The datum of your last chart",
         "NAD83"
       ],
       "correct_index": 3,
-      "explanation": "Match the chart.",
+      "explanation": "Always match the GPS datum to the chart's datum.",
       "source_ids": [
         "tp14692",
         "tc-svop"

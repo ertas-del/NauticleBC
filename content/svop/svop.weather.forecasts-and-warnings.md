@@ -13,9 +13,13 @@ objectives:
 prerequisites: []
 estimated_minutes: 15
 key_facts:
-  - "Canadian marine wind categories: light 1 to 12 knots, moderate 13 to 19, strong 20 to 33, gale 34 to 47, storm 48 to 63, hurricane force 64 and over."
+  - "Canadian marine wind categories: light under 12 knots, moderate 12 to 19, strong 20 to 33, gale 34 to 47, storm 48 to 63, hurricane force 64 and over."
   - "A falling barometer and a backing wind in the Northern Hemisphere generally mean worsening weather. A fast fall means strong winds are likely."
   - "Check forecasts before leaving and listen again while at sea."
+figures:
+  - id: svop-wind-warnings
+    caption: "Canadian marine wind warnings by wind speed"
+    alt: "A colour scale of wind speed in knots. Under 20 knots there is no wind warning. A strong wind warning covers 20 to 33 knots, a gale warning 34 to 47 knots, a storm warning 48 to 63 knots, and a hurricane force wind warning 64 knots and over. In a small boat, delay or cancel the trip when a warning is out."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -39,8 +43,8 @@ Forecasts are ==predictions==, not guarantees. Reliability falls with time: the 
 
 | Description | Wind speed (knots) |
 |---|---|
-| ==Light== | 1 to 12 |
-| ==Moderate== | 13 to 19 |
+| ==Light== | under 12 |
+| ==Moderate== | 12 to 19 |
 | ==Strong== | 20 to 33 |
 | ==Gale== | 34 to 47 |
 | ==Storm== | 48 to 63 |
@@ -48,12 +52,14 @@ Forecasts are ==predictions==, not guarantees. Reliability falls with time: the 
 
 ## Warnings
 
-- ==Small craft or strong wind warning==: winds of about 20 to 33 knots. Dangerous to small boats.
+{{figure:svop-wind-warnings}}
+
+- ==Strong wind warning==: winds 20 to 33 knots. Dangerous to small boats. On the BC coast it is only issued for the southern inner waters, from March 20 to November 11.
 - ==Gale warning==: winds 34 to 47 knots.
 - ==Storm warning==: winds 48 to 63 knots.
 - ==Hurricane force wind warning==: 64 knots and over.
 
-The wording of the lowest warning can vary by region, so check what it means in your area. If a warning is out for your area and you are in a small boat, ==delay or cancel the trip==.
+Elsewhere on the coast, and in winter, no warning does not mean the wind is light: read the forecast wind speed itself. If a warning is out for your area and you are in a small boat, ==delay or cancel the trip==.
 
 ## The barometer
 
@@ -74,14 +80,14 @@ In the Northern Hemisphere, a rule of thumb is ==Buys Ballot's law==: stand with
 
 1. Check the forecast before you go. Delay if conditions are marginal.
 2. Reduce load and speed. Secure gear and close hatches.
-3. Make sure everyone has a lifejacket.
+3. Make sure everyone is wearing a lifejacket or approved PFD.
 4. Head for shelter early, not late.
 5. Keep the bow into the waves where possible and reduce speed enough to avoid slamming.
 6. Tell someone shore-side what you are doing.
 
 ## A BC example
 
-You are planning a run up Georgia Strait. The marine forecast says winds northwest 15 knots increasing to 25 in the afternoon, with a strong wind warning for tomorrow. You leave early, get the job done before the wind picks up, and are in the harbour by noon.
+You are planning a run up Georgia Strait. The marine forecast says winds light, becoming northwest 15 knots this afternoon. A strong wind warning is in effect for tomorrow. You leave early, get the job done before the wind picks up, and are in the harbour by noon.
 
 ## Common mistakes
 

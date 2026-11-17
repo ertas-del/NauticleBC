@@ -17,6 +17,10 @@ key_facts:
   - "Latitude is read from the side scale. Longitude is read from the top or bottom scale. One minute of latitude is one nautical mile."
   - "Chart depths (soundings) are measured from chart datum, close to the lowest normal tide."
   - "Time = distance divided by speed. 12 nautical miles at 6 knots takes 2 hours."
+figures:
+  - id: svop-latitude-longitude
+    caption: "Plotting a position from the chart scales"
+    alt: "A chart section with latitude scales on the left and right edges and longitude scales on the top and bottom edges. A marked position has dashed lines running across to the side scale, reading 48 degrees 14.5 minutes north, and down to the bottom scale, reading 123 degrees 27.0 minutes west. The position is written latitude first. A note says one minute of latitude equals one nautical mile, so measure distance on the side scale, never the longitude scale."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -48,10 +52,12 @@ Charted depths are measured from ==chart datum==, a low-water level. On Canadian
 
 ## Plotting a position
 
-To plot 48° 24.5′ N, 123° 22.0′ W:
+{{figure:svop-latitude-longitude}}
 
-1. Find the line for 48° 24.5′ on the side scale and draw a light pencil line across.
-2. Find 123° 22.0′ on the bottom scale and draw a line up.
+To plot 48° 14.5′ N, 123° 27.0′ W:
+
+1. Find the line for 48° 14.5′ on the side scale and draw a light pencil line across.
+2. Find 123° 27.0′ on the bottom scale and draw a line up.
 3. Where the two lines cross is your position. Mark it with a small circle and write the time.
 
 ## Course and distance
@@ -67,7 +73,7 @@ A bearing line from an object shows the direction to it from you. Two bearings, 
 
 ## Requirement to carry charts
 
-You must carry ==up-to-date charts== of the area you operate in, and the required nautical publications. Check which charts and publications your vessel must carry. A paper chart is the backup when electronics fail.
+You must carry ==up-to-date charts== of the area you operate in, and the required nautical publications. A vessel under 100 GT is exempt only if the operator knows the area's routes, lights, buoys, dangers, tides and currents well enough to navigate safely. Check which charts and publications your vessel must carry. A paper chart is the backup when electronics fail.
 
 ## Safety
 
@@ -75,7 +81,7 @@ Check the chart's ==correction date== and get recent updates. Don't rely on an o
 
 ## A BC example
 
-You plan a trip from Sidney to Ganges Harbour. You draw the track on the chart, read a true course of 340° on the rose, measure 11 NM with the dividers on the side scale, and at 5.5 knots you work out 2 hours. You check the chart for rocks near the track and add a margin.
+You plan the first leg of a Gulf Islands trip, from a harbour buoy to a waypoint clear of the next headland. You draw the track on the chart, read a true course of 340° on the rose, measure 11 NM with the dividers on the side scale, and at 5.5 knots you work out 2 hours. You check the chart for rocks near the track and add a margin.
 
 ## Common mistakes
 

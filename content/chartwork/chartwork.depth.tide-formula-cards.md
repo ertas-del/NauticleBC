@@ -93,7 +93,7 @@ Use this when the tide is between high and low water.
 
 > Range = high water height − low water height
 
-**Step 2.** Count the hours from the nearest tide. For a six-hour tide, the water moves like this each hour:
+**Step 2.** Count the hours from low water. (If you count back from high water, subtract the twelfths from the high water height.) For a six-hour tide, the water moves like this each hour:
 
 ```
 Hour 1:  1/12 of the range

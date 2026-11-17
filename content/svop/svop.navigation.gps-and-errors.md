@@ -15,7 +15,7 @@ prerequisites: []
 estimated_minutes: 12
 key_facts:
   - "GPS gets your position from satellites. A receiver needs signals from at least four satellites for a 3D fix."
-  - "Set the GPS datum to match the chart (NAD83 for Canadian charts)."
+  - "Set the GPS datum to match the chart (most Canadian charts use NAD83; check the title block)."
   - "GPS can be wrong or lost. Cross-check with radar, compass, depth and visual references."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
@@ -47,7 +47,7 @@ A GPS receiver picks up signals from several ==satellites==. It calculates how f
 
 ## Datum
 
-The GPS and the chart must use the same ==datum==. Canadian charts use ==NAD83==, which is the same as WGS84 for practical purposes. A wrong datum can give an error of many metres.
+The GPS and the chart must use the same ==datum==. Most Canadian charts use ==NAD83==, which is the same as WGS84 for practical purposes. Some older charts use NAD27 or another datum. Check the note in the chart's title block and set the GPS to match. A wrong datum can give an error of many metres.
 
 ## Sources of error
 

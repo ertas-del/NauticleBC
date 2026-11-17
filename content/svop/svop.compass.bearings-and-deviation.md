@@ -40,7 +40,7 @@ Mount the compass where you can see it easily. Keep ==magnets, speakers, phones,
 - ==Heading==: the direction the bow is pointing.
 - ==Bearing==: the direction from you to an object. Use a hand-bearing compass or point the boat at the object and read the heading.
 
-Take a ==bearing== of a mark, then plot the reciprocal on the chart to find your position line.
+Take a ==bearing== of a mark. Convert it to true, then draw the line on the chart through the mark. You are somewhere on that ==position line==.
 
 ## Variation
 
@@ -75,7 +75,7 @@ Compass         075°
 
 Steer ==075° by the compass==.
 
-**Example (Compass to True):** Compass bearing 075°, deviation 2° West, variation 17° East.
+**Example (Compass to True):** Compass course 075°, deviation 2° West, variation 17° East.
 
 ```
 Compass         075°
@@ -89,7 +89,7 @@ True            090°
 
 1. Choose a day with a calm sea and a place where you can use a ==known direction==, such as a pair of marks in line (a ==transit==) with a known bearing from the chart.
 2. Steer the boat on ==each main heading== (every 45° or 30°), with equipment running as normal.
-3. At each heading, compare the compass reading with the true heading from the transit (after converting for variation).
+3. On each heading, as the boat crosses the transit, read the bearing of the marks over the steering compass. Compare it with the magnetic bearing of the transit (charted true bearing with variation applied). The difference is the deviation for that heading.
 4. The difference is the ==deviation== on that heading. Record them in a table on a ==deviation card==.
 5. Keep the card next to the compass and update it if you add equipment.
 

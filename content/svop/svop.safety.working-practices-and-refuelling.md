@@ -17,6 +17,13 @@ key_facts:
   - "Keep walkways clear, gear stowed and spills cleaned up. A tidy vessel is a safe vessel."
   - "Never enter a confined space without testing the air, ventilating, and having a standby person."
   - "Safe refuelling: engine and flames off, no smoking, ground the nozzle, avoid overfilling, wipe up spills, and run the blower before starting an inboard gasoline engine."
+figures:
+  - id: svop-winch-signals
+    caption: "Hand signals for winch and crane work"
+    alt: "Four figures show winch and crane hand signals. Raise is a vertical forearm with a finger pointing up making small circles. Lower is an arm pointing down with a finger pointing down making small circles. Stop is one arm held level, palm down, moved side to side, and emergency stop is both arms out, palms down, moved side to side."
+  - id: svop-fuelling-steps
+    caption: "Safe refuelling in nine steps"
+    alt: "Nine numbered cards show safe refuelling: power off and no flames, moor with passengers off, close hatches and ports, pad and spill kit ready, nozzle on the filler, fill slowly, wipe up spills. For inboard gasoline, open up and run the blower at least 4 minutes, then sniff the bilge before starting."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -51,7 +58,7 @@ Work aloft is any work above deck level, such as on a mast or a roof.
 
 - Tell the master and agree signals before you go.
 - Wear a ==harness== and a ==lifejacket==.
-- Stop the engines and radar and any transmitters you are close to.
+- Switch off and isolate the radar, horn and any radio transmitters near you.
 - Carry tools in a bag and use a lanyard. Nothing should fall on people below.
 - Don't work aloft in rough weather.
 
@@ -66,16 +73,20 @@ A confined space (a tank, a void, a locker, a bilge compartment) may have ==too 
 
 ## Signals for winch or crane work
 
+{{figure:svop-winch-signals}}
+
 The operator should see a single signaller, who uses clear hand signals:
 
 - ==Raise== : forearm vertical, hand making small circles.
-- ==Lower==: arm out, hand making small circles pointing down.
+- ==Lower==: arm pointing down, finger pointing down, hand making small circles.
 - ==Stop==: arm out, palm down, moved side to side.
 - ==Emergency stop==: both arms out, palms down, moved side to side.
 
 Everyone agrees the signals before the lift. Stay out from under the load and don't stand in the line of a rope under strain.
 
 ## Safe refuelling
+
+{{figure:svop-fuelling-steps}}
 
 1. ==Stop engines== and switch off ==flames==, heaters and ==electrical equipment== that can spark. No smoking.
 2. ==Moor the boat== and keep passengers off if possible.

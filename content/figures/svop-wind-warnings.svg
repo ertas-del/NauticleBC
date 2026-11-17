@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 760" width="720" height="760" role="img">
+<title>Marine wind warnings</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%">
+  <feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/>
+</filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/>
+</linearGradient>
+
+</defs>
+<rect width="720" height="760" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="760" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Marine wind warnings</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Canadian warnings by wind speed in knots. Higher means more dangerous.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="104" y="506.3" width="52" height="133.7" fill="#b7e4c7"/>
+<rect x="104" y="412.7" width="52" height="93.6" fill="#facc15"/>
+<rect x="104" y="319.2" width="52" height="93.6" fill="#f97316"/>
+<rect x="104" y="212.2" width="52" height="106.9" fill="#dc2626"/>
+<path d="M104,212.2 L104,146.0 L130.0,122.0 L156,146.0 L156,212.2 Z" fill="#7e22ce"/>
+<path d="M104,640 L104,146.0 L130.0,122.0 L156,146.0 L156,640 Z" fill="none" stroke="#102a43" stroke-width="2" stroke-linejoin="round"/>
+<line x1="94.0" y1="640.0" x2="104.0" y2="640.0" stroke="#102a43" stroke-width="2" />
+<text x="88.0" y="646.0" font-size="17" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">0</text>
+<line x1="94.0" y1="506.3" x2="104.0" y2="506.3" stroke="#102a43" stroke-width="2" />
+<text x="88.0" y="512.3" font-size="17" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">20</text>
+<line x1="94.0" y1="412.7" x2="104.0" y2="412.7" stroke="#102a43" stroke-width="2" />
+<text x="88.0" y="418.7" font-size="17" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">34</text>
+<line x1="94.0" y1="319.2" x2="104.0" y2="319.2" stroke="#102a43" stroke-width="2" />
+<text x="88.0" y="325.2" font-size="17" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">48</text>
+<line x1="94.0" y1="212.2" x2="104.0" y2="212.2" stroke="#102a43" stroke-width="2" />
+<text x="88.0" y="218.2" font-size="17" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">64</text>
+<text x="88.0" y="146.0" font-size="17" text-anchor="end" fill="#627d98" font-weight="normal" font-family="Liberation Sans">kn</text>
+<rect x="184" y="510.3" width="496" height="125.7" rx="10" fill="#ffffff" filter="url(#s)"/>
+<rect x="184" y="510.3" width="12" height="125.7" rx="4" fill="#b7e4c7"/>
+<line x1="160.0" y1="573.2" x2="180.0" y2="573.2" stroke="#74c69d" stroke-width="3" />
+<text x="212.0" y="567.2" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">No wind warning</text>
+<text x="212.0" y="595.2" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">Under 20 knots</text>
+<text x="354.1" y="595.2" font-size="16" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Check the forecast before you go.</text>
+<rect x="184" y="416.7" width="496" height="85.6" rx="10" fill="#ffffff" filter="url(#s)"/>
+<rect x="184" y="416.7" width="12" height="85.6" rx="4" fill="#facc15"/>
+<line x1="160.0" y1="459.5" x2="180.0" y2="459.5" stroke="#facc15" stroke-width="3" />
+<text x="212.0" y="453.5" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Strong wind warning</text>
+<text x="212.0" y="481.5" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">20 to 33 knots</text>
+<text x="344.1" y="481.5" font-size="16" text-anchor="start" fill="#627d98" font-weight="normal" font-family="Liberation Sans">Dangerous to small boats.</text>
+<rect x="184" y="323.2" width="496" height="85.6" rx="10" fill="#ffffff" filter="url(#s)"/>
+<rect x="184" y="323.2" width="12" height="85.6" rx="4" fill="#f97316"/>
+<line x1="160.0" y1="365.9" x2="180.0" y2="365.9" stroke="#f97316" stroke-width="3" />
+<text x="212.0" y="359.9" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Gale warning</text>
+<text x="212.0" y="387.9" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">34 to 47 knots</text>
+<rect x="184" y="216.2" width="496" height="98.9" rx="10" fill="#ffffff" filter="url(#s)"/>
+<rect x="184" y="216.2" width="12" height="98.9" rx="4" fill="#dc2626"/>
+<line x1="160.0" y1="265.7" x2="180.0" y2="265.7" stroke="#dc2626" stroke-width="3" />
+<text x="212.0" y="259.7" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Storm warning</text>
+<text x="212.0" y="287.7" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">48 to 63 knots</text>
+<rect x="184" y="124.0" width="496" height="84.2" rx="10" fill="#ffffff" filter="url(#s)"/>
+<rect x="184" y="124.0" width="12" height="84.2" rx="4" fill="#7e22ce"/>
+<line x1="160.0" y1="166.1" x2="180.0" y2="166.1" stroke="#7e22ce" stroke-width="3" />
+<text x="212.0" y="160.1" font-size="20" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Hurricane force wind warning</text>
+<text x="212.0" y="188.1" font-size="18" text-anchor="start" fill="#334e68" font-weight="bold" font-family="Liberation Sans">64 knots and over</text>
+<text x="360.0" y="694.0" font-size="17" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Warning out and you are in a small boat? Delay or cancel the trip.</text>
+<text x="360" y="732" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

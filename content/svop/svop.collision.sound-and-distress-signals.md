@@ -46,6 +46,7 @@ A vessel of 12 m or more must carry a whistle (and a bell if 20 m or more). Unde
 | ==Three short== | I am operating astern propulsion |
 | ==Five or more short, rapid== | Danger or doubt: I do not understand your intentions |
 | ==One prolonged== | Warning: sounded by a vessel approaching a bend where others may be hidden |
+| One prolonged (Canada) | A power-driven vessel 12 m or more leaving a dock or berth, in harbour or inland waters |
 
 ## Overtaking in a narrow channel
 

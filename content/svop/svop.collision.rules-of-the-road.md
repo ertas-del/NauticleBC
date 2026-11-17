@@ -54,7 +54,7 @@ Choose a speed that lets you act in time. Factors: visibility, traffic density, 
 
 ## Risk of collision
 
-Watch the ==compass bearing== of an approaching vessel. If it stays the same while the distance falls, ==there is a risk of collision==. If in doubt, assume there is.
+Watch the ==compass bearing== of an approaching vessel. If it stays the same while the distance falls, ==there is a risk of collision==. If in doubt, assume there is. Risk can exist even when the bearing changes, especially with a large vessel, a tow, or at close range.
 
 ## Action to avoid collision
 
@@ -88,6 +88,8 @@ In general a power-driven vessel keeps out of the way of:
 4. A sailing vessel
 
 A sailing vessel keeps clear of vessels not under command, restricted in their ability to manoeuvre and fishing vessels.
+
+A ==vessel engaged in fishing== means one using nets, lines or trawls that limit how she can manoeuvre. A boat trolling lines does not count.
 
 ## Sailing vessels
 

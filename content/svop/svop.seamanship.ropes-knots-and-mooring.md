@@ -17,6 +17,13 @@ key_facts:
   - "Nylon stretches and absorbs shock, so it suits mooring and anchoring. Polypropylene floats but weakens in sunlight."
   - "Mooring lines: bow line, stern line, breast lines and spring lines. Springs stop the vessel moving fore and aft."
   - "At a fixed wharf, allow slack for the tide. A floating dock rises and falls with the tide."
+figures:
+  - id: svop-mooring-lines
+    caption: "Mooring lines and what each one stops"
+    alt: "A boat seen from above lies alongside a dock with fenders between hull and dock. The bow line runs forward from the bow and the forward spring runs forward from midships; both stop the boat moving astern. The stern line runs aft from the stern and the aft spring runs aft from midships; both stop it moving ahead. Two breast lines go straight across and hold the bow and stern in close."
+  - id: svop-knots
+    caption: "Basic knots and their jobs"
+    alt: "Seven knot drawings in tan rope, each with its job. Bowline: a fixed loop that does not slip. Clove hitch: a quick hold on a post or rail. Round turn and two half hitches: secures a line to a ring or post under strain. Reef knot: joins two lines of the same size. Sheet bend: joins lines of different sizes. Figure-eight: a stopper knot. Cleat hitch: makes a line fast to a cleat."
 source_ids: [tp14692, tc-svop]
 review_status: needs_expert_review
 ---
@@ -38,6 +45,8 @@ Rope construction can be ==three-strand twisted== or ==braided==. Braided is smo
 
 ## Mooring lines
 
+{{figure:svop-mooring-lines}}
+
 - ==Bow line==: from the bow to the dock.
 - ==Stern line==: from the stern to the dock.
 - ==Breast lines==: from bow and stern, at right angles to the dock, to hold the boat in close.
@@ -54,6 +63,8 @@ Use fenders to protect the hull between the boat and the dock. Hang them at the 
 
 ## Basic knots
 
+{{figure:svop-knots}}
+
 | Knot | Use |
 |---|---|
 | ==Bowline== | a fixed loop that does not slip |
@@ -66,7 +77,7 @@ Use fenders to protect the hull between the boat and the dock. Hang them at the 
 
 ## A BC example
 
-Tying up at a fixed wharf in Port Hardy with a 4 m tide, you put your bow and stern lines on loosely with plenty of slack and add a forward and an aft spring. When you come back at low tide the boat is hanging safely against its fenders.
+Tying up at a fixed wharf in Port Hardy with a 4 m tide, you put your bow and stern lines on loosely with plenty of slack and add a forward and an aft spring. When you come back at low tide the boat is lying safely against its fenders.
 
 ## Common mistakes
 

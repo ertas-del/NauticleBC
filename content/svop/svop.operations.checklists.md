@@ -42,7 +42,7 @@ A checklist is a short list of steps you work through every time. Pilots and sai
 
 - Check batteries and connections.
 - Check belts, hoses and filters.
-- Test the fire extinguishers and lifejackets.
+- Check the fire extinguishers (gauge, pin, seal) and the lifejackets.
 - Run the engine and test the gear shifts.
 - Clean the boat and check for wear.
 
