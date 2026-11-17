@@ -1,0 +1,369 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q01",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Your wake tips a canoe near a dock. Who is responsible for the harm it causes?",
+      "options": [
+        "The canoeist, for paddling too close",
+        "No one, because wakes are natural",
+        "The marina that owns the dock",
+        "You, the operator making the wake"
+      ],
+      "correct_index": 3,
+      "explanation": "The operator is responsible for damage or injury caused by their wake.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q02",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "On a BC lake, what is the speed limit within 30 m of shore for a power boat?",
+      "options": [
+        "5 km/h",
+        "20 km/h",
+        "10 km/h",
+        "15 km/h"
+      ],
+      "correct_index": 2,
+      "explanation": "The VORR set 10 km/h within 30 m of shore on BC rivers and lakes, posted or not.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q03",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are 20 m off a beach in Desolation Sound, on the coast, with no posted limit. Does the 10 km/h shoreline rule apply?",
+      "options": [
+        "Yes, it covers every BC shoreline",
+        "No, in BC it is lakes and rivers",
+        "Yes, but only in July and August",
+        "No, it applies only where posted"
+      ],
+      "correct_index": 1,
+      "explanation": "In BC the 10 km/h within 30 m rule covers rivers and lakes, not coastal waters. Still use a safe speed.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q04",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which regulations list the local no-motor, speed and towing-hour limits for named lakes?",
+      "options": [
+        "Vessel Pollution and Dangerous Chemicals Regulations",
+        "Marine Mammal Regulations",
+        "Competency of Operators of Pleasure Craft Regulations",
+        "Vessel Operation Restriction Regulations"
+      ],
+      "correct_index": 3,
+      "explanation": "Local restrictions are set by the VORR and listed by water body in its schedules.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q05",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Your cruiser has a toilet and you boat on Okanagan Lake. What must you do with the sewage?",
+      "options": [
+        "Hold it and use a pump-out on shore",
+        "Pump it overboard in deep water",
+        "Pump it out at night, away from beaches",
+        "Add chemicals, then empty it in the lake"
+      ],
+      "correct_index": 0,
+      "explanation": "Untreated sewage must never go into a lake or river. Okanagan Lake is also a designated sewage area.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q06",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "On the BC coast, outside any designated sewage area, where may a small pleasure craft discharge untreated sewage?",
+      "options": [
+        "Anywhere the water is over 20 m deep",
+        "Only inside a sheltered harbour",
+        "At least 3 nm from shore, under way",
+        "At least 1 nm from shore, at anchor"
+      ],
+      "correct_index": 2,
+      "explanation": "Untreated sewage may go overboard only 3 nautical miles or more from shore while the boat is under way.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q07",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "You notice an oily film in the bilge. What should you do?",
+      "options": [
+        "Pump it overboard right away",
+        "Add bilge cleaner and pump it out",
+        "Wait for the wake to wash it clean",
+        "Soak it up with absorbent pads"
+      ],
+      "correct_index": 3,
+      "explanation": "Never pump oily water overboard. Bilge cleaners only break oil into small drops.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q08",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What should you do with drink cans and food wrappers on a day trip?",
+      "options": [
+        "Bring them back to shore",
+        "Sink them in deep water",
+        "Throw them over well offshore",
+        "Burn them on a beach fire"
+      ],
+      "correct_index": 0,
+      "explanation": "Garbage is a pollutant. Bring it all back to shore.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q09",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are trailering from Shuswap Lake to Kalamalka Lake. Which step is part of Clean, Drain, Dry?",
+      "options": [
+        "Rinse the hull in the new lake",
+        "Pull the drain plug at the launch",
+        "Leave weeds on to dry on the road",
+        "Keep live-well water for the bait"
+      ],
+      "correct_index": 1,
+      "explanation": "Drain means pulling the plug and emptying the bilge and live well before you leave the launch.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q10",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are driving with a kayak on your roof and pass an open invasive mussel inspection station in BC. What does the law say?",
+      "options": [
+        "Only motor boats need to stop",
+        "Stop only if you are leaving BC",
+        "Stop only if the kayak is wet",
+        "You must stop and report"
+      ],
+      "correct_index": 3,
+      "explanation": "Anyone moving a watercraft in BC, including a kayak, must stop at every open inspection station.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q11",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A group of Pacific white-sided dolphins is resting near your boat. How far must you stay?",
+      "options": [
+        "100 m",
+        "200 m",
+        "50 m",
+        "25 m"
+      ],
+      "correct_index": 1,
+      "explanation": "Whales, dolphins and porpoises need 100 m. If they are resting or with a calf, it is 200 m.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q12",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "In 2026, how far must boats stay from Southern Resident killer whales in southern BC waters?",
+      "options": [
+        "200 m",
+        "400 m",
+        "1,000 m",
+        "2,000 m"
+      ],
+      "correct_index": 2,
+      "explanation": "From June 1, 2026 to May 31, 2027 the distance is 1,000 m. Other killer whales in BC need at least 200 m.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.environment.wake-wildlife-and-pollution.q13",
+      "lesson_id": "pcoc.environment.wake-wildlife-and-pollution",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a killer whale off Haida Gwaii, far from the southern BC zone. What is the legal minimum distance?",
+      "options": [
+        "200 m",
+        "100 m",
+        "50 m",
+        "30 m"
+      ],
+      "correct_index": 0,
+      "explanation": "The Marine Mammal Regulations set 200 m for killer whales in all BC and Pacific waters.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-vpdcr-xml",
+        "pcoc-c-mmr-xml",
+        "pcoc-c-tc-ssb-08-2026",
+        "pcoc-c-dfo-srkw-2026",
+        "pcoc-c-bc-inspection-stations"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
