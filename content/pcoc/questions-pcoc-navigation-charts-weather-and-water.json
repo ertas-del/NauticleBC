@@ -1,0 +1,304 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q01",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "On a Canadian metric chart, a depth is shown as 4. What does it mean?",
+      "options": [
+        "4 fathoms at high tide",
+        "4 m above sea level",
+        "4 m below chart datum",
+        "4 feet at half tide"
+      ],
+      "correct_index": 2,
+      "explanation": "Metric chart depths are in metres below chart datum, which in BC tidal waters is a very low tide level.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q02",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "The chart shows 2 m at a spot. The tide table gives a height of tide of 3 m. About how deep is the water there?",
+      "options": [
+        "1 m",
+        "2 m",
+        "3 m",
+        "5 m"
+      ],
+      "correct_index": 3,
+      "explanation": "Depth of water = charted depth + height of tide: 2 m + 3 m = 5 m.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf",
+        "chs-tides-portal"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q03",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Why is there usually more water than the chart shows in BC tidal waters?",
+      "options": [
+        "Chart datum is a very low tide",
+        "Charts are always several years old",
+        "Depths are given in feet, not metres",
+        "The chart ignores the summer rains"
+      ],
+      "correct_index": 0,
+      "explanation": "Chart datum is a very low tide level, so most of the time the tide adds water. On a very low tide there can be less.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q04",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "On a chart you see a rock marked with an underlined 1. What does this tell you?",
+      "options": [
+        "It is 1 m deep at all tides",
+        "It is 1 m high at high tide",
+        "It is 1 km from shore",
+        "It dries: 1 m above datum"
+      ],
+      "correct_index": 3,
+      "explanation": "An underlined figure is a drying height: the rock stands 1 m above chart datum and uncovers at low tide.",
+      "source_ids": [
+        "chw-a-chs-chart1-2022-pdf"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q05",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which 7 m pleasure craft does NOT need to carry a magnetic compass?",
+      "options": [
+        "One always in sight of seamarks",
+        "One on an overnight trip offshore",
+        "One with a working GPS chartplotter",
+        "One used only on summer weekends"
+      ],
+      "correct_index": 0,
+      "explanation": "A craft of 8 m or under that navigates within sight of seamarks is exempt. A GPS does not replace the compass.",
+      "source_ids": [
+        "pcoc-b-svr-2010-part2"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q06",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Why should you keep paper charts on board if you have a GPS chartplotter?",
+      "options": [
+        "The law bans plotters near shore",
+        "Paper charts show the weather",
+        "In case the GPS fails",
+        "Paper charts show other boats"
+      ],
+      "correct_index": 2,
+      "explanation": "Batteries and electronics can fail. Paper charts are the backup.",
+      "source_ids": [
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q07",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How many high tides does most of the BC coast get in a day?",
+      "options": [
+        "One",
+        "Two",
+        "Four",
+        "None"
+      ],
+      "correct_index": 1,
+      "explanation": "Most of the BC coast has two high and two low tides a day, and they are usually of different heights.",
+      "source_ids": [
+        "dfo-tides-and-tidal-streams-chapter"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q08",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "It is August. The tide table shows high water at 0940. What time is that on your watch?",
+      "options": [
+        "0840",
+        "0940",
+        "1040",
+        "1140"
+      ],
+      "correct_index": 2,
+      "explanation": "Canadian tide and current tables use standard time. Add one hour for daylight saving time.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q09",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "What is slack water?",
+      "options": [
+        "Always the exact moment of high tide",
+        "The lowest tide of the year",
+        "Water that is sheltered from the wind",
+        "When the current stops and turns"
+      ],
+      "correct_index": 3,
+      "explanation": "Slack water is when the tidal current stops and turns. It does not always happen at high or low water.",
+      "source_ids": [
+        "chw-c-chs-tct-vol6-2026",
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q10",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Which wind speed range is covered by a gale warning?",
+      "options": [
+        "20 to 33 knots",
+        "48 to 63 knots",
+        "34 to 47 knots",
+        "64 knots or more"
+      ],
+      "correct_index": 2,
+      "explanation": "Gale 34 to 47 knots. Strong wind is 20 to 33, storm 48 to 63, hurricane force 64 or more.",
+      "source_ids": [
+        "rmet-eccc-warning-ch1",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q11",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Environment Canada issues a strong wind warning for your area. What wind speed is expected?",
+      "options": [
+        "10 to 19 knots",
+        "20 to 33 knots",
+        "34 to 47 knots",
+        "48 to 63 knots"
+      ],
+      "correct_index": 1,
+      "explanation": "A strong wind warning is for 20 to 33 knots. That is dangerous for small boats.",
+      "source_ids": [
+        "rmet-eccc-warning-ch1",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q12",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "The marine forecast says \"wind southeast 15 knots\". What does it mean?",
+      "options": [
+        "Blowing from the southeast",
+        "Blowing toward the southeast",
+        "Gusting to 15 knots from the east",
+        "Shifting from south to east"
+      ],
+      "correct_index": 0,
+      "explanation": "Forecast wind direction is where the wind comes from, and speed is in knots.",
+      "source_ids": [
+        "rmet-eccc-pacific-products",
+        "rmet-eccc-guide-forecasts"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q13",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your barometer has been falling steadily all morning. What does it suggest?",
+      "options": [
+        "A high and fine weather are coming",
+        "A low or front is coming",
+        "The tide is about to turn",
+        "The barometer needs batteries"
+      ],
+      "correct_index": 1,
+      "explanation": "A falling barometer warns of an approaching low or front and worse weather.",
+      "source_ids": [
+        "rmet-ubc-11c-forecasting"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.navigation.charts-weather-and-water.q14",
+      "lesson_id": "pcoc.navigation.charts-weather-and-water",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "When are the waves in a pass usually worst?",
+      "options": [
+        "When wind and current go the same way",
+        "At slack water with light winds",
+        "Just after a high tide on a calm day",
+        "When wind blows against the current"
+      ],
+      "correct_index": 3,
+      "explanation": "Wind against current makes short, steep, breaking waves. Cross at slack or when wind and current agree.",
+      "source_ids": [
+        "rmet-ubc-10d-tides-currents"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

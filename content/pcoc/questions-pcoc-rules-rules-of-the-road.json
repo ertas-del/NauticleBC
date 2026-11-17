@@ -1,0 +1,307 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.rules.rules-of-the-road.q01",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "When must the operator of a pleasure craft keep a proper lookout?",
+      "options": [
+        "Only at night or in fog",
+        "Only in busy harbours",
+        "At all times when underway",
+        "Only when going over 10 knots"
+      ],
+      "correct_index": 2,
+      "explanation": "The lookout duty applies at all times, by sight, hearing and any other means you have.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q02",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A boat off your port bow is getting closer. Its compass bearing stays the same. What does this tell you?",
+      "options": [
+        "It will pass well ahead of you",
+        "There is a risk of collision",
+        "It is going the same speed as you",
+        "It will pass well astern of you"
+      ],
+      "correct_index": 1,
+      "explanation": "A steady bearing with a closing distance means you are on a collision course. Act early.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q03",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Two power-driven boats are meeting nearly bow to bow. What should each one do?",
+      "options": [
+        "Turn to starboard and pass port to port",
+        "Turn to port and pass starboard to starboard",
+        "Stop engines and wait for the other",
+        "Keep course and speed and sound one blast"
+      ],
+      "correct_index": 0,
+      "explanation": "In a head-on situation both boats turn to starboard. Neither one is the stand-on boat.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q04",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are in a powerboat. Another powerboat is crossing from your right side. What is your role?",
+      "options": [
+        "Give-way boat: keep clear",
+        "Stand-on boat: hold course",
+        "Both boats must turn to port",
+        "Whoever is faster gives way"
+      ],
+      "correct_index": 0,
+      "explanation": "The boat that has the other on her starboard side gives way. Pass astern of her.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q05",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "From where must a boat be coming up to count as overtaking another boat?",
+      "options": [
+        "Anywhere forward of her beam on either side",
+        "Exactly abeam of her, on her port side",
+        "Within 10 degrees of right ahead of her",
+        "More than 22.5 degrees abaft her beam"
+      ],
+      "correct_index": 3,
+      "explanation": "Overtaking means coming up from more than 22.5 degrees abaft the beam. The overtaking boat keeps clear.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q06",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Your powerboat is overtaking a slow sailboat that is under sail. Who must keep clear?",
+      "options": [
+        "The sailboat, because it is slower",
+        "Whichever boat is smaller",
+        "Your powerboat",
+        "Neither boat; both hold course"
+      ],
+      "correct_index": 2,
+      "explanation": "An overtaking boat keeps clear, and a power-driven boat also keeps clear of a sailing vessel.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q07",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A power-driven pleasure craft must keep out of the way of which of these?",
+      "options": [
+        "A boat trolling for salmon",
+        "A seiner with her net out",
+        "A larger powerboat ahead",
+        "A sailboat motoring home"
+      ],
+      "correct_index": 1,
+      "explanation": "A vessel engaged in fishing with gear that limits her manoeuvring is higher in the order. Trolling lines do not count, and a sailboat under engine is a power-driven boat.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "lights-crc1416-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q08",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "Two sailboats under sail are on a collision course. Boat A has the wind on her port side. Boat B has it on her starboard side. Who gives way?",
+      "options": [
+        "Boat B",
+        "Boat A",
+        "The boat to leeward",
+        "The bigger boat"
+      ],
+      "correct_index": 1,
+      "explanation": "With the wind on different sides, the boat with the wind on her port side gives way.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q09",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your 7 m boat is in a narrow channel. A ferry is coming that can only use the channel. What must you do?",
+      "options": [
+        "Keep to starboard and do not impede her",
+        "Hold your course; she must steer round you",
+        "Cross ahead of her quickly to the far side",
+        "Stop in mid-channel and sound five blasts"
+      ],
+      "correct_index": 0,
+      "explanation": "A boat under 20 m must not impede a vessel that can navigate only inside a narrow channel. Keep to the starboard side.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q10",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "About how long does a prolonged blast last?",
+      "options": [
+        "About 1 second",
+        "10 to 12 seconds",
+        "About 2 minutes",
+        "4 to 6 seconds"
+      ],
+      "correct_index": 3,
+      "explanation": "A prolonged blast lasts 4 to 6 seconds. A short blast lasts about 1 second.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q11",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A tug in sight of you sounds two short blasts. What does it mean?",
+      "options": [
+        "I am turning to starboard",
+        "I am going astern",
+        "I am turning to port",
+        "I doubt your intentions"
+      ],
+      "correct_index": 2,
+      "explanation": "Two short blasts mean turning to port. One short is starboard, three short is astern.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q12",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "A ship sounds five or more short, rapid blasts at your small boat. What is she telling you?",
+      "options": [
+        "She is about to anchor here",
+        "She is going astern now",
+        "She is leaving the dock now",
+        "She doubts your intentions"
+      ],
+      "correct_index": 3,
+      "explanation": "Five or more short blasts is the doubt and danger signal. Make your action clear and get out of her way.",
+      "source_ids": [
+        "pcoc-b-crc1416-web",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q13",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "In fog, a power-driven boat moving through the water sounds which signal?",
+      "options": [
+        "One prolonged, at least every 2 minutes",
+        "Two prolonged, at least every 2 minutes",
+        "One short blast, at least every 30 seconds",
+        "Five short, at least every 2 minutes"
+      ],
+      "correct_index": 0,
+      "explanation": "Making way: one prolonged blast at intervals of not more than 2 minutes. Two prolonged is for a power-driven boat that is stopped.",
+      "source_ids": [
+        "pcoc-b-crc1416-web"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.rules.rules-of-the-road.q14",
+      "lesson_id": "pcoc.rules.rules-of-the-road",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Which of these meets the rule for a sound-signalling device on a small pleasure craft?",
+      "options": [
+        "A pealess whistle",
+        "A whistle with a pea inside",
+        "A loud voice or shouting",
+        "A cellphone alarm"
+      ],
+      "correct_index": 0,
+      "explanation": "A sound-signalling device is a pealess whistle or a compressed-gas or electric horn.",
+      "source_ids": [
+        "pcoc-b-svr-2010-part2",
+        "pcoc-b-tp511-2026"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}
