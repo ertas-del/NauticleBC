@@ -29,6 +29,7 @@ OUT = ROOT / "dist" / "guides"
 
 MARK_PREFIX = "NBCPAGEMARK-"
 LETTERS = "ABCDEFGH"
+SHORT_FOCUS = 5  # key facts that fit at the top of a lesson
 
 
 # ---------- loading ----------
@@ -176,7 +177,7 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
         f'and {q_count} practice questions with answers.</p>'
     )
     h.append(
-        '<p>Start each lesson with its <strong>Exam focus</strong> box: those are the facts most likely to be asked. '
+        '<p>Each lesson has an <strong>Exam focus</strong> box with the facts most likely to be asked: at the start when it is short, at the end as a recap when it is long. '
         'Then read the lesson and look at its pictures. '
         'Words shown like <mark>this</mark> are the exact terms and numbers worth learning by heart. '
         'Each part ends with practice questions. Try them before you look at the answers at the back.</p>'
@@ -218,12 +219,15 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
             if objs:
                 h.append('<div class="objectives"><h3>You will be able to</h3><ul>'
                          + "".join(f"<li>{esc(o)}</li>" for o in objs) + "</ul></div>")
-            # Exam focus up front: the reader knows what to look for before reading.
+            # A short Exam focus box goes up front so the reader knows what to look for.
+            # A long one would fill the first page before the lesson starts, so it closes the lesson as a recap.
             facts = lesson.get("key_facts") or []
-            if facts:
-                h.append('<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>'
-                         + "".join(f"<li>{esc(f)}</li>" for f in facts) + "</ul></div>")
+            box = "".join(f"<li>{esc(f)}</li>" for f in facts)
+            if facts and len(facts) <= SHORT_FOCUS:
+                h.append(f'<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>{box}</ul></div>')
             h.append(body_html(lesson, figures))
+            if len(facts) > SHORT_FOCUS:
+                h.append(f'<div class="exam-focus"><h3>Exam focus: check you know these</h3><ul>{box}</ul></div>')
             h.append("</section>")
 
         # Test yourself
