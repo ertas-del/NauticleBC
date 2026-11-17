@@ -1,0 +1,317 @@
+{
+  "module": "pcoc",
+  "questions": [
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q01",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Your 15-year-old nephew has his PCOC. May he drive your PWC if you ride on the back?",
+      "options": [
+        "Yes, if you are on board with him",
+        "No, not until he turns 16",
+        "Yes, if he stays within 30 m",
+        "Yes, but only in daylight hours"
+      ],
+      "correct_index": 1,
+      "explanation": "No one under 16 may operate a personal watercraft, even with supervision.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q02",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You are riding a PWC toward a dock and let go of the throttle to turn away. What is likely to happen?",
+      "options": [
+        "It turns faster than before",
+        "It stops within a metre",
+        "It may keep going straight",
+        "It reverses on its own"
+      ],
+      "correct_index": 2,
+      "explanation": "Most PWCs need throttle to steer. Without power you can lose steering.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q03",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "Which flotation is NOT allowed for riders on a personal watercraft?",
+      "options": [
+        "An inflatable PFD",
+        "A foam vest PFD",
+        "A standard lifejacket",
+        "A child's foam PFD"
+      ],
+      "correct_index": 0,
+      "explanation": "Flotation worn on a PWC must be inherently buoyant, so inflatables are not allowed.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q04",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You want to pull a wakeboarder. Who must be on board besides you?",
+      "options": [
+        "A second operator with a PCOC",
+        "A spotter watching the rider",
+        "A person with first aid training",
+        "No one; you can watch"
+      ],
+      "correct_index": 1,
+      "explanation": "A person other than the operator must watch everyone being towed and talk to the operator.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q05",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your 6-seat boat has six people aboard. Can you tow a tuber?",
+      "options": [
+        "Yes, if the tuber wears a PFD",
+        "Yes, if a spotter is aboard",
+        "No, there is no empty seat",
+        "Yes, on lakes but not the coast"
+      ],
+      "correct_index": 2,
+      "explanation": "There must be seating space for each person being towed.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q06",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Sunset was at 9:00 p.m. What is the latest you may tow a water-skier, in clear weather?",
+      "options": [
+        "9:00 p.m.",
+        "8:00 p.m.",
+        "11:00 p.m.",
+        "10:00 p.m."
+      ],
+      "correct_index": 3,
+      "explanation": "Towing a person is not allowed from one hour after sunset until sunrise, or in restricted visibility.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q07",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "hard",
+      "stem": "A tuber is not wearing a lifejacket. What does the law require of the towing boat?",
+      "options": [
+        "Nothing, if the water is calm",
+        "It must carry a PFD for them",
+        "It must stay within 30 m of shore",
+        "It must keep under 10 km/h"
+      ],
+      "correct_index": 1,
+      "explanation": "Each person towed must wear a lifejacket or PFD, or the boat must carry one for each of them.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q08",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You anchor in 5 m of calm water. About how much rode should you let out?",
+      "options": [
+        "5 m",
+        "8 m",
+        "15 m",
+        "50 m"
+      ],
+      "correct_index": 2,
+      "explanation": "In calm water use a scope of about 3 times the depth: 3 x 5 m = 15 m.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q09",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "The wind is rising to a moderate chop. What scope should you aim for?",
+      "options": [
+        "About 2 to 1",
+        "About 5 to 1",
+        "About 3 to 1",
+        "About 1 to 1"
+      ],
+      "correct_index": 1,
+      "explanation": "Use about 5 times the depth in moderate conditions and about 7 in rough weather.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q10",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "How should you put the anchor in the water?",
+      "options": [
+        "Lower it from the bow",
+        "Throw it out from the stern",
+        "Throw it as far as you can",
+        "Drop it off the side at speed"
+      ],
+      "correct_index": 0,
+      "explanation": "Lower it gently from the bow. Never throw it, and never anchor from the stern.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q11",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "easy",
+      "stem": "What are fenders for when you come alongside a dock?",
+      "options": [
+        "To hold the boat on to the dock cleat",
+        "To cushion the hull from the dock",
+        "To measure the depth of the water",
+        "To show the boat's licence number"
+      ],
+      "correct_index": 1,
+      "explanation": "Fenders hang between the boat and the dock. Lines hold the boat in place.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q12",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "Your boat is catching up to a slower boat from behind. Who must keep out of the way?",
+      "options": [
+        "You, the overtaking boat",
+        "The slower boat ahead",
+        "Whichever boat is larger",
+        "Whichever boat is under sail"
+      ],
+      "correct_index": 0,
+      "explanation": "The overtaking vessel keeps out of the way until it is past and clear.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    },
+    {
+      "id": "pcoc.activities.pwc-towing-and-anchoring.q13",
+      "lesson_id": "pcoc.activities.pwc-towing-and-anchoring",
+      "tickets": [
+        "pcoc"
+      ],
+      "difficulty": "medium",
+      "stem": "You see a red flag with a white diagonal stripe in Porteau Cove. How far away should you stay?",
+      "options": [
+        "At least 30 m",
+        "At least 50 m",
+        "At least 100 m",
+        "At least 200 m"
+      ],
+      "correct_index": 2,
+      "explanation": "It is a diver-down flag. Keep at least 100 m away, or go dead slow if you cannot.",
+      "source_ids": [
+        "pcoc-c-tp511-2026",
+        "pcoc-c-svr-xml",
+        "pcoc-c-vorr-xml",
+        "pcoc-c-colregs-xml"
+      ],
+      "review_status": "needs_expert_review"
+    }
+  ]
+}

@@ -175,6 +175,17 @@
       "reproduction": "unclear",
       "read_directly": false,
       "notes": "Read through an automated fetch-and-summarise tool. Recreational US source used only for general seamanship. Supports: have lines and fenders ready before you arrive, use fenders rather than your body to stop the boat, approach at steerage speed, allow for wind (which affects docking more than current), get a line ashore early, use a spring line to work the boat in or out."
+    },
+    {
+      "id": "pcoc-c-aceboater-anchoring",
+      "title": "How to anchor a boat safely",
+      "publisher": "Ace Boater (E.S.N.N.A. Inc.)",
+      "url": "https://aceboater.com/en-us/anchoring",
+      "edition": "(c) 2024; accessed 2026-11-17",
+      "kind": "provider-page",
+      "reproduction": "not-permitted",
+      "read_directly": false,
+      "notes": "Read through an automated fetch-and-summarise tool. A course provider page, used only as evidence for general anchoring practice and not copied: pick a sheltered spot with room to swing away from channels, approach into the wind or current, lower the anchor from the bow (never anchor from the stern alone, which can swamp or capsize the boat), back down slowly while paying out rode, set the anchor in reverse at idle, secure the rode to the bow cleat, and check two or three fixed shore marks for dragging. No questions or wording were taken from it."
     }
   ]
 }

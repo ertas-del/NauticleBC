@@ -65,7 +65,7 @@ If your boat has a toilet, it must have a ==holding tank== or an approved ==mari
 
 - In a ==lake or river==, untreated sewage must ==never== go into the water.
 - In a ==designated sewage area==, use a pump-out. In BC these include Okanagan, Shuswap, Kalamalka and Christina lakes, and coastal spots such as Montague Harbour, Smuggler Cove, Prideaux Haven and Squirrel Cove.
-- On the rest of the BC coast, a small boat may discharge untreated sewage only ==3 nautical miles or more from shore==, while under way.
+- On the rest of the BC coast, a small boat may discharge untreated sewage only ==3 nautical miles or more from shore==, while under way. Narrow waters, less than 6 nautical miles from shore to shore, have extra rules. The simple, legal choice anywhere is a pump-out.
 
 Grey water is drain water from sinks and showers. It must not leave solids or a sheen on the water. Use shore washrooms, and use little soap.
 
