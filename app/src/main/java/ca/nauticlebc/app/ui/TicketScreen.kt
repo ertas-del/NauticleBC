@@ -23,7 +23,7 @@ import ca.nauticlebc.app.oral.OralCards
 private val MODULE_ORDER = listOf(
     "bridge-watch", "sixty-ton", "colregs", "seamanship", "chartwork", "tides", "stability", "meteorology",
     "radio", "radar", "electronic-navigation", "canadian-regulations", "machinery", "fishing",
-    "svop", "fm4-overview", "fm4-chartwork", "fm4-navigation-safety", "fm4-stability-construction", "fm4-oral",
+    "svop", "pcoc", "fm4-overview", "fm4-chartwork", "fm4-navigation-safety", "fm4-stability-construction", "fm4-oral",
 )
 
 /** Tickets with these subjects get the practice sums card. */
