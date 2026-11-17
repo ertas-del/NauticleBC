@@ -151,6 +151,8 @@ def toc_html(parts: list[dict], pages: dict[str, int]) -> str:
             f'<li class="lesson"><a href="#test-{pi}">Test yourself: part {pi}</a>'
             f'<span class="dots"></span><span class="num">{pages.get(f"test-{pi}", "")}</span></li>'
         )
+    if "next" in pages:
+        rows.append(f'<li class="part"><a href="#next">Next step</a><span class="dots"></span><span class="num">{pages["next"]}</span></li>')
     rows.append(f'<li class="part"><a href="#answers">Answers</a><span class="dots"></span><span class="num">{pages.get("answers", "")}</span></li>')
     rows.append(f'<li class="part"><a href="#sources">Sources</a><span class="dots"></span><span class="num">{pages.get("sources", "")}</span></li>')
     return '<ul class="toc">' + "".join(rows) + "</ul>"
@@ -233,6 +235,16 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
                 qn = q["_n"]
                 opts = "".join(f"<li>{esc(o)}</li>" for o in q["options"])
                 h.append(f'<div class="q"><div class="stem">{qn}. {esc(q["stem"])}</div><ol>{opts}</ol></div>')
+        h.append("</section>")
+
+    # Closing page: the next step after this ticket.
+    closing = cfg.get("closing")
+    if closing:
+        h.append(f'<section class="page part-opener" id="next">{mark("next")}')
+        h.append(f'<div class="kicker">Next step</div><h1>{esc(closing["title"])}</h1>')
+        for i, para in enumerate(closing.get("paragraphs", [])):
+            cls = ' class="lead"' if i == 0 else ""
+            h.append(f"<p{cls}>{esc(para)}</p>")
         h.append("</section>")
 
     # Answers

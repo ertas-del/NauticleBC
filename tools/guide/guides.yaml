@@ -35,3 +35,28 @@ svop:
     - title: "Pollution and daily operations"
       intro: "Fuelling without spills, reporting, sewage and garbage, and the checks before you leave."
       prefixes: [svop.pollution., svop.operations.]
+
+pcoc:
+  title: "PCOC Starter Guide"
+  subtitle: "Pleasure Craft Operator Card, British Columbia edition"
+  ticket_name: "PCOC"
+  cover_line: "The boating test made simple, with pictures."
+  parts:
+    - title: "Your card, your boat, your gear"
+      intro: "Who needs the card, the boat basics, and the safety gear the law requires."
+      prefixes: [pcoc.basics., pcoc.boat., pcoc.equipment., pcoc.before.]
+    - title: "Rules of the road"
+      intro: "Who gives way, the lights at night, and the buoys and markers you will meet."
+      prefixes: [pcoc.rules., pcoc.navigation.buoys]
+    - title: "Weather, water and the environment"
+      intro: "Charts, tides and forecasts, and how to share the water with wildlife and other people."
+      prefixes: [pcoc.navigation., pcoc.environment.]
+    - title: "Emergencies and activities"
+      intro: "Cold water, overboard, distress calls and fire, then personal watercraft, towing and anchoring."
+      prefixes: [pcoc.emergencies., pcoc.activities.]
+  closing:
+    title: "Ready to go pro?"
+    paragraphs:
+      - "Your PCOC lets you drive your own boat for fun. To run a boat for work, like a water taxi, a fishing guide's boat, a crew boat or a small fishing vessel, you need more: the Small Vessel Operator Proficiency certificate (SVOP)."
+      - "Everything you learned here carries over: the rules of the road, the lights, the buoys and the weather. The SVOP adds the master's duties, stability, charts and compass, radar and GPS, and the emergencies of working at sea."
+      - "The NauticleBC SVOP Illustrated Study Guide takes you through the whole SVOP course the same way: one topic at a time, with the pictures and the exam facts."
