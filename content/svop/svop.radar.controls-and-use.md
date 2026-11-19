@@ -21,7 +21,7 @@ figures:
   - id: svop-radar-screen
     caption: "Parts of a head-up radar picture"
     alt: "A round radar screen with your boat at the centre and the heading line pointing up, with range rings every 2 nautical miles out to 6. A dashed electronic bearing line and a dashed variable range marker cross at a moving target echo 3.4 miles off. Land shows as a large solid echo, rain as a fuzzy patch, and sea clutter as speckles around the boat. Knobs below are labelled range, gain, sea clutter, rain clutter, tuning and brilliance."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, colregs-canada, renav-bowditch-2002-ch13-radar]
 review_status: needs_expert_review
 ---
 

@@ -19,7 +19,7 @@ figures:
   - id: svmo-fire-triangle
     caption: "Fire triangle"
     alt: "A triangle with heat, fuel and oxygen on its sides. A fire needs all three; take any one away and it goes out."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sea-c-tc-template-fire]
 review_status: needs_expert_review
 ---
 

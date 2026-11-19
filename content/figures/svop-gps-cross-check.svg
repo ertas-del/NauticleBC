@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 816" width="720" height="816" role="img">
+<title>GPS: use it, then check it</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/></filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/></linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker>
+<marker id="ahn" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#102a43"/></marker>
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+<marker id="aho" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker>
+<marker id="ahb" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+</defs>
+<rect width="720" height="816" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="816" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">GPS: use it, then check it</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">It shows where you are going over the ground. Never trust it alone.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="40" y="118" width="310" height="330" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="60" y="148" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Heading or COG?</text>
+<rect x="56" y="162" width="278" height="200" rx="10" fill="url(#sea)"/>
+<line x1="306" y1="236" x2="306" y2="186" stroke="#52606d" stroke-width="2.5" marker-end="url(#ahg)"/>
+<text x="306" y="256" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">N</text>
+<path d="M150,278 C166,292 166,316 164,342 L136,342 C134,316 134,292 150,278 z" fill="#ffffff" stroke="#102a43" stroke-width="2"/>
+<line x1="150" y1="272" x2="150" y2="190" stroke="#102a43" stroke-width="2.5" stroke-dasharray="6 5" marker-end="url(#ahn)"/>
+<line x1="150" y1="272" x2="180.09777261265884" y2="189.30704937084005" stroke="#0f766e" stroke-width="4" marker-end="url(#ah)"/>
+<text x="136" y="212" font-size="15" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Heading</text>
+<text x="136" y="231" font-size="15" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">000°</text>
+<text x="196" y="212" font-size="15" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">COG</text>
+<text x="196" y="231" font-size="15" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">020°</text>
+<line x1="196" y1="340" x2="252" y2="340" stroke="#2563eb" stroke-width="3" marker-end="url(#ahb)"/>
+<text x="196" y="326" font-size="15" text-anchor="start" fill="#1d4ed8" font-weight="bold" font-family="Liberation Sans">Current</text>
+<text x="60" y="388" font-size="16" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">Heading: where the bow points.</text>
+<text x="60" y="409" font-size="16" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">COG: where the boat really goes.</text>
+<text x="60" y="432" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Wind and current make them differ.</text>
+<rect x="370" y="118" width="310" height="330" rx="12" fill="#ffffff" filter="url(#s)"/>
+<text x="390" y="148" font-size="19" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">What the screen tells you</text>
+<rect x="390" y="162" width="270" height="214" rx="12" fill="#102a43"/>
+<text x="406" y="196" font-size="16" text-anchor="start" fill="#8bd3c7" font-weight="bold" font-family="Liberation Sans">POS</text>
+<text x="456" y="196" font-size="15" text-anchor="start" fill="#ffffff" font-family="Liberation Sans">49°41.5′ N  124°58.2′ W</text>
+<text x="406" y="234" font-size="16" text-anchor="start" fill="#8bd3c7" font-weight="bold" font-family="Liberation Sans">SOG</text>
+<text x="456" y="234" font-size="15" text-anchor="start" fill="#ffffff" font-family="Liberation Sans">7.5 kn  speed over ground</text>
+<text x="406" y="272" font-size="16" text-anchor="start" fill="#8bd3c7" font-weight="bold" font-family="Liberation Sans">COG</text>
+<text x="456" y="272" font-size="15" text-anchor="start" fill="#ffffff" font-family="Liberation Sans">020°  course over ground</text>
+<text x="406" y="310" font-size="16" text-anchor="start" fill="#8bd3c7" font-weight="bold" font-family="Liberation Sans">WPT</text>
+<text x="456" y="310" font-size="15" text-anchor="start" fill="#ffffff" font-family="Liberation Sans">2.4 NM  bearing 024°</text>
+<text x="406" y="348" font-size="16" text-anchor="start" fill="#8bd3c7" font-weight="bold" font-family="Liberation Sans">XTE</text>
+<text x="456" y="348" font-size="15" text-anchor="start" fill="#ffffff" font-family="Liberation Sans">0.04 NM R  off track</text>
+<text x="390" y="404" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Sample screen. 4 or more satellites</text>
+<text x="390" y="424" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">are needed for a full 3D fix.</text>
+<text x="40" y="484" font-size="19" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Cross-check it with</text>
+<rect x="40" y="498" width="148" height="150" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="84" y="524" width="60" height="46" rx="4" fill="#e6f4f1" stroke="#0f766e" stroke-width="2"/>
+<path d="M92,560 L108,542 L122,552 L136,534" fill="none" stroke="#102a43" stroke-width="2" stroke-dasharray="4 3"/>
+<polygon points="132,528 140,528 136,520" fill="#dc2626"/>
+<text x="114" y="606" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Chart and</text>
+<text x="114" y="628" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">visual marks</text>
+<rect x="202" y="498" width="148" height="150" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="246" y="524" width="60" height="46" rx="6" fill="#102a43"/>
+<text x="276" y="554" font-size="15" text-anchor="middle" fill="#fde68a" font-weight="bold" font-family="Liberation Sans">12.4 m</text>
+<text x="276" y="606" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Depth sounder</text>
+<text x="276" y="628" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">vs charted depth</text>
+<rect x="364" y="498" width="148" height="150" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="438" cy="548" r="26" fill="#0b3b2e" stroke="#0f766e" stroke-width="2"/>
+<circle cx="438" cy="548" r="14" fill="none" stroke="#34d399" stroke-width="1"/>
+<line x1="438" y1="548" x2="438" y2="522" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="450" cy="538" r="3.5" fill="#fbbf24"/>
+<text x="438" y="606" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Radar ranges</text>
+<text x="438" y="628" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">and bearings</text>
+<rect x="526" y="498" width="148" height="150" rx="12" fill="#ffffff" filter="url(#s)"/>
+<circle cx="600" cy="548" r="26" fill="#ffffff" stroke="#102a43" stroke-width="2.5"/>
+<polygon points="600,528 606,548 600,568 594,548" fill="#dc2626"/>
+<polygon points="600,568 606,548 594,548" fill="#102a43"/>
+<text x="600" y="606" font-size="16" text-anchor="middle" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Compass</text>
+<text x="600" y="628" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">heading</text>
+<rect x="40" y="664" width="640" height="100" rx="12" fill="#fffbeb" stroke="#f5d48a" stroke-width="2"/>
+<text x="60" y="696" font-size="16" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Datum: set the GPS to the datum in the chart&#x27;s title block.</text>
+<text x="60" y="724" font-size="15" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">Canadian charts: NAD83, the same as WGS84 in practice.</text>
+<text x="60" y="748" font-size="15" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">Accuracy is about 10 m: enough to put you on a rock in a tight channel.</text>
+<text x="360" y="796" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

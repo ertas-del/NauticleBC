@@ -16,7 +16,7 @@
         "Close astern on either side"
       ],
       "correct_index": 0,
-      "explanation": "Red, right, returning.",
+      "explanation": "Red, right, returning: coming in from sea, keep red buoys on your starboard (right) side.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -38,7 +38,7 @@
         "Fine on your starboard bow"
       ],
       "correct_index": 2,
-      "explanation": "Green to port.",
+      "explanation": "Coming in from sea, keep green buoys on your port (left) side.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -60,7 +60,7 @@
         "Flat-topped (can) with an odd number"
       ],
       "correct_index": 3,
-      "explanation": "Red buoys are conical.",
+      "explanation": "A green port-hand buoy is a flat-topped can with an odd number. Red starboard-hand buoys are conical with even numbers.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -104,7 +104,7 @@
         "A cable crossing the channel"
       ],
       "correct_index": 1,
-      "explanation": "You can pass either side.",
+      "explanation": "Red and white vertical stripes mark safe water or the middle of a channel. You can pass on either side.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -126,7 +126,7 @@
         "Marks the port side going upstream, to keep on your left"
       ],
       "correct_index": 1,
-      "explanation": "Green squares mark the port side.",
+      "explanation": "A red triangle day beacon marks the starboard side going upstream. Green squares mark the port side.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -148,7 +148,7 @@
         "On your left (port)"
       ],
       "correct_index": 3,
-      "explanation": "The rule reverses.",
+      "explanation": "Going out to sea the rule reverses, so red buoys are kept on your port (left) side.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -170,7 +170,7 @@
         "Moved only by the Coast Guard"
       ],
       "correct_index": 1,
-      "explanation": "Don't rely on a buoy alone.",
+      "explanation": "Buoys can drag, drift or be damaged and end up off station. Don't rely on a buoy alone; check your position other ways.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -192,7 +192,7 @@
         "Decrease as you go upstream"
       ],
       "correct_index": 2,
-      "explanation": "They help you match the chart.",
+      "explanation": "Lateral buoy numbers go up as you go upstream or in from sea. They help you match each buoy to the chart.",
       "source_ids": [
         "tp14692",
         "tc-svop"

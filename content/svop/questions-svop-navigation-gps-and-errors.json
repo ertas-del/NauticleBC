@@ -16,7 +16,7 @@
         "At least eight"
       ],
       "correct_index": 1,
-      "explanation": "More satellites improve accuracy.",
+      "explanation": "A GPS needs signals from at least four satellites for a 3D fix. More satellites improve accuracy.",
       "source_ids": [
         "tp14692",
         "tc-svop"

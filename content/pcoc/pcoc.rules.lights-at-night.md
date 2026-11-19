@@ -30,7 +30,7 @@ figures:
     alt: "Top view of a boat with coloured wedges for each light. Masthead light, white, 225 degrees, from right ahead to 22.5 degrees abaft the beam on each side. Starboard sidelight, green, 112.5 degrees. Port sidelight, red, 112.5 degrees. Stern light, white, 135 degrees centred on right astern."
   - id: svop-night-lights
     caption: "What you see at night"
-    alt: "Six night views: a power boat under 12 m seen from ahead with an all-round white light over green and red sidelights; a larger power-driven vessel from her starboard side with a white masthead light and a green sidelight; a boat at anchor with one all-round white light; a trawler with green over white; a vessel not under command with red over red; a vessel restricted in her ability to manoeuvre with red, white, red."
+    alt: "Seven night views: a small power-driven vessel from ahead with an all-round white light over green and red sidelights, a larger power-driven vessel from her starboard side, a vessel at anchor with one all-round white light, a trawler with green over white, a vessel fishing in other ways with red over white, a vessel not under command with red over red, and a vessel restricted in her ability to manoeuvre with red, white, red. A note sums up the two fishing patterns."
   - id: pcoc-pleasure-craft-lights
     caption: "Lights your boat must show at night"
     alt: "Night views from above. A power boat under 12 m shows a masthead light, sidelights and a stern light, or one all-round white light and sidelights. A sailboat under sail shows sidelights and a stern light, or under 20 m one tricolour lantern at the masthead; with the engine on it shows power lights. A kayak keeps a flashlight ready. At anchor, one all-round white light."

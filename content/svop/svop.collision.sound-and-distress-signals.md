@@ -20,7 +20,7 @@ figures:
   - id: svop-sound-signals
     caption: "Sound signals card"
     alt: "A card of whistle signals drawn as bars, short for about one second and long for four to six seconds. One short: altering to starboard. Two short: altering to port. Three short: operating astern propulsion. Five or more short: doubt or danger. One prolonged: nearing a bend. In restricted visibility, a power-driven vessel making way sounds one prolonged at least every two minutes, and one stopped in the water sounds two prolonged."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, colregs-canada]
 review_status: needs_expert_review
 ---
 

@@ -16,7 +16,7 @@
         "I am in doubt of your intentions, keep clear"
       ],
       "correct_index": 1,
-      "explanation": "Two short means port.",
+      "explanation": "One short blast means I am altering course to starboard. Two short means port.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -38,7 +38,7 @@
         "I am altering course to port"
       ],
       "correct_index": 3,
-      "explanation": "One short is starboard.",
+      "explanation": "Two short blasts means I am altering course to port. One short means starboard.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -104,7 +104,7 @@
         "Ten seconds"
       ],
       "correct_index": 0,
-      "explanation": "A prolonged blast lasts 4 to 6 seconds.",
+      "explanation": "A short blast lasts about one second. A prolonged blast lasts 4 to 6 seconds.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -126,7 +126,7 @@
         "A bell rung rapidly every minute"
       ],
       "correct_index": 2,
-      "explanation": "Two prolonged is for a vessel stopped.",
+      "explanation": "A power-driven vessel making way in restricted visibility sounds one prolonged blast at least every 2 minutes. Two prolonged is for one under way but stopped.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -148,7 +148,7 @@
         "Shows no signal, as she is not moving"
       ],
       "correct_index": 1,
-      "explanation": "Use a bell.",
+      "explanation": "A vessel at anchor in restricted visibility rings a bell rapidly for about 5 seconds at least every minute.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -170,7 +170,7 @@
         "Flag with a fish"
       ],
       "correct_index": 1,
-      "explanation": "Red flares signal distress.",
+      "explanation": "A red parachute rocket is a distress signal. Red flares and rockets mean distress.",
       "source_ids": [
         "tp14692",
         "tc-svop"

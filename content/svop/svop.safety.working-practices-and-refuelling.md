@@ -24,7 +24,7 @@ figures:
   - id: svop-fuelling-steps
     caption: "Safe refuelling in nine steps"
     alt: "Nine numbered cards show safe refuelling: power off and no flames, moor with passengers off, close hatches and ports, pad and spill kit ready, nozzle on the filler, fill slowly, wipe up spills. For inboard gasoline, open up and run the blower at least 4 minutes, then sniff the bilge before starting."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, pcoc-a-tp511-2026]
 review_status: needs_expert_review
 ---
 

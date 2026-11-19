@@ -16,7 +16,7 @@
         "Blue and white"
       ],
       "correct_index": 1,
-      "explanation": "Their topmarks are black cones.",
+      "explanation": "Cardinal marks are black and yellow. Their topmarks are two black cones.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -38,7 +38,7 @@
         "West side"
       ],
       "correct_index": 0,
-      "explanation": "Safe water lies to the north.",
+      "explanation": "Pass a north cardinal on its north side: the safe water lies to the north of it.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -60,7 +60,7 @@
         "East side"
       ],
       "correct_index": 0,
-      "explanation": "Safe water lies to the south.",
+      "explanation": "Pass a south cardinal on its south side: the safe water lies to the south of it.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -82,7 +82,7 @@
         "Red and white vertical stripes with a red ball on top"
       ],
       "correct_index": 1,
-      "explanation": "Pass well clear.",
+      "explanation": "An isolated danger mark is black with red bands and has two black balls on top. It sits on a small danger with safe water all round, so pass well clear.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -104,7 +104,7 @@
         "A cable or pipeline area"
       ],
       "correct_index": 0,
-      "explanation": "Often a fairway mark.",
+      "explanation": "Red and white vertical stripes mean safe water all round. It is often a fairway or mid-channel mark.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -126,7 +126,7 @@
         "The edges of a dredged channel"
       ],
       "correct_index": 1,
-      "explanation": "Check the chart.",
+      "explanation": "Yellow buoys are special marks, for things like cables, outfalls or anchorages. Check the chart for what each one marks.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -148,7 +148,7 @@
         "Flag Bravo"
       ],
       "correct_index": 1,
-      "explanation": "Keep well clear.",
+      "explanation": "A boat with divers down flies flag Alpha, a blue and white swallowtail. Keep well clear and slow down.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -170,7 +170,7 @@
         "A green flag with a white cross"
       ],
       "correct_index": 2,
-      "explanation": "Slow down and keep clear.",
+      "explanation": "Divers in the water are marked by a red flag with a white diagonal stripe. Slow down and keep clear.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -192,7 +192,7 @@
         "East cardinal mark"
       ],
       "correct_index": 2,
-      "explanation": "North is pointing up.",
+      "explanation": "Two cones pointing down is a south cardinal. A north cardinal has both cones pointing up.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -214,7 +214,7 @@
         "A channel junction (bifurcation)"
       ],
       "correct_index": 3,
-      "explanation": "Check the chart for the preferred channel.",
+      "explanation": "Horizontal red and green bands mark a channel junction. The colour of the top band shows the preferred channel; check the chart.",
       "source_ids": [
         "tp14692",
         "tc-svop"

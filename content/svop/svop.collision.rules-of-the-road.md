@@ -27,7 +27,7 @@ figures:
   - id: overtaking-situation
     caption: "Overtaking sector"
     alt: "A shaded sector behind a vessel, starting more than 22.5 degrees abaft her beam on either side. A vessel coming up from inside this sector is overtaking and keeps clear, passing on either side of the vessel ahead."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, colregs-canada]
 review_status: needs_expert_review
 ---
 

@@ -16,7 +16,7 @@
         "Let you swim faster to safety"
       ],
       "correct_index": 1,
-      "explanation": "A PFD does not necessarily turn you over.",
+      "explanation": "A lifejacket is built to turn an unconscious person face up. A PFD does not necessarily turn you over.",
       "source_ids": [
         "tp14692",
         "tc-svop"

@@ -126,7 +126,7 @@
         "Figure-eight"
       ],
       "correct_index": 0,
-      "explanation": "The reef knot is for lines of equal size.",
+      "explanation": "A sheet bend joins two lines of different sizes. The reef knot is only for lines of the same size.",
       "source_ids": [
         "tp14692",
         "tc-svop"

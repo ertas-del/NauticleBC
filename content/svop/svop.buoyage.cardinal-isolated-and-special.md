@@ -21,7 +21,7 @@ figures:
   - id: svop-cardinal-buoys
     caption: "Cardinal buoys around a danger"
     alt: "A danger in the middle with four buoys around it. North: black over yellow, two cones pointing up, continuous quick flashes. East: black yellow black, cones base to base, three flashes. South: yellow over black, cones pointing down, six flashes and a long flash. West: yellow black yellow, cones point to point, nine flashes. Pass on the side the buoy is named for. All lights white."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sixty-ccg-atons-2023]
 review_status: needs_expert_review
 ---
 

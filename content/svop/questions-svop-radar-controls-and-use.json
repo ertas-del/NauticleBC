@@ -148,7 +148,7 @@
         "North is at the top of the screen at all times"
       ],
       "correct_index": 1,
-      "explanation": "North-up needs a compass input.",
+      "explanation": "Head-up puts your own heading at the top of the screen. North-up needs a heading input from a compass.",
       "source_ids": [
         "tp14692",
         "tc-svop"

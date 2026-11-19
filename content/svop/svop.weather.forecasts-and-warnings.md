@@ -20,7 +20,7 @@ figures:
   - id: svop-wind-warnings
     caption: "Canadian marine wind warnings by wind speed"
     alt: "A colour scale of wind speed in knots. Under 20 knots there is no wind warning. A strong wind warning covers 20 to 33 knots, a gale warning 34 to 47 knots, a storm warning 48 to 63 knots, and a hurricane force wind warning 64 knots and over. In a small boat, delay or cancel the trip when a warning is out."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, rmet-eccc-guide-forecasts, sixty-ccg-ramn-part5-2024]
 review_status: needs_expert_review
 ---
 
