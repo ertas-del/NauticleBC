@@ -17,7 +17,11 @@ key_facts:
   - "GPS gets your position from satellites. A receiver needs signals from at least four satellites for a 3D fix."
   - "Set the GPS datum to match the chart (most Canadian charts use NAD83; check the title block)."
   - "GPS can be wrong or lost. Cross-check with radar, compass, depth and visual references."
-source_ids: [tp14692, tc-svop]
+figures:
+  - id: svop-gps-cross-check
+    caption: "GPS: heading or COG, and what to cross-check"
+    alt: "Three parts. A boat points north with heading 000 degrees, but a current from the west makes its course over ground 020 degrees. A sample GPS screen shows position, speed over ground, course over ground, waypoint and cross-track error. Four tiles show what to cross-check the GPS with: the chart and visual marks, the depth sounder, radar ranges and bearings, and the compass. A note says to set the GPS datum to the chart's datum and that accuracy is about 10 metres."
+source_ids: [tp14692, tc-svop, renav-gps-gov-accuracy]
 review_status: needs_expert_review
 ---
 
@@ -37,6 +41,8 @@ A GPS receiver picks up signals from several ==satellites==. It calculates how f
 4. Check your ==position against your known location== to confirm it is reasonable.
 
 ## What it tells you
+
+{{figure:svop-gps-cross-check}}
 
 - ==Position== in latitude and longitude.
 - ==SOG==: speed over ground.

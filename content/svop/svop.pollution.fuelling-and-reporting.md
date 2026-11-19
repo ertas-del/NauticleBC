@@ -15,7 +15,11 @@ key_facts:
   - "When fuelling: no overfilling, use drip trays and absorbents, and stop the transfer at the first sign of a spill."
   - "A pollution incident must be reported immediately to the authorities."
   - "Never throw plastic into the water. Sewage and garbage rules restrict discharge, especially close to shore."
-source_ids: [tp14692, tc-svop]
+figures:
+  - id: svop-spill-response
+    caption: "Spill: stop, contain, report"
+    alt: "Four numbered steps for a spill: stop the source if it is safe, contain it with absorbents, report it right away to the Coast Guard through MCTS on VHF channel 16 or by phone, and follow instructions. When you report, give your position, what was spilled, about how much and what you are doing. Never use detergent on a spill unless told to, and never throw plastic overboard."
+source_ids: [tp14692, tc-svop, bw-vpdcr-sor-2012-69]
 review_status: needs_expert_review
 ---
 
@@ -34,6 +38,8 @@ A small spill can do big harm in a bay or harbour. Prevention is simple, and the
 - Keep a ==spill kit== on board.
 
 ## Reporting a pollution incident
+
+{{figure:svop-spill-response}}
 
 If you release or see a pollutant in the water, you must:
 

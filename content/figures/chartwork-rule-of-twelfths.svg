@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720" role="img">
+<title>Rule of twelfths</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/></filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/></linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker>
+<marker id="ahn" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#102a43"/></marker>
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+<marker id="aho" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker>
+<marker id="ahb" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+</defs>
+<rect width="720" height="720" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="720" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Rule of twelfths</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">A six-hour tide rises 1, 2, 3, 3, 2, 1 twelfths of the range each hour.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<rect x="110" y="140" width="520" height="330" fill="#ffffff" stroke="#d9e2ec"/>
+<line x1="110" y1="470" x2="630" y2="470" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="475" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">0 m</text>
+<line x1="110" y1="415" x2="630" y2="415" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="420" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">1 m</text>
+<line x1="110" y1="360" x2="630" y2="360" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="365" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">2 m</text>
+<line x1="110" y1="305" x2="630" y2="305" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="310" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">3 m</text>
+<line x1="110" y1="250" x2="630" y2="250" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="255" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">4 m</text>
+<line x1="110" y1="195" x2="630" y2="195" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="200" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">5 m</text>
+<line x1="110" y1="140" x2="630" y2="140" stroke="#eef2f6" stroke-width="1"/>
+<text x="98" y="145" font-size="15" text-anchor="end" fill="#627d98" font-family="Liberation Sans">6 m</text>
+<rect x="120" y="423" width="67" height="19" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="120" y="442" width="67" height="0" fill="#d4eef7"/>
+<text x="153" y="413" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+1/12</text>
+<text x="197" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">11:00</text>
+<rect x="207" y="385" width="67" height="38" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="207" y="423" width="67" height="19" fill="#d4eef7"/>
+<text x="240" y="375" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+2/12</text>
+<text x="283" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">12:00</text>
+<rect x="293" y="327" width="67" height="58" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="293" y="385" width="67" height="58" fill="#d4eef7"/>
+<text x="327" y="317" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+3/12</text>
+<text x="370" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">13:00</text>
+<rect x="380" y="269" width="67" height="58" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="380" y="327" width="67" height="116" fill="#d4eef7"/>
+<text x="413" y="259" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+3/12</text>
+<text x="457" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">14:00</text>
+<rect x="467" y="231" width="67" height="38" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="467" y="269" width="67" height="173" fill="#d4eef7"/>
+<text x="500" y="221" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+2/12</text>
+<text x="543" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">15:00</text>
+<rect x="553" y="212" width="67" height="19" rx="4" fill="#5eead4" opacity="0.85"/>
+<rect x="553" y="231" width="67" height="212" fill="#d4eef7"/>
+<text x="587" y="202" font-size="16" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">+1/12</text>
+<text x="630" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">16:00</text>
+<text x="110" y="494" font-size="15" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">10:00</text>
+<polyline points="110.0,442.5 118.7,442.3 127.3,441.9 136.0,441.1 144.7,440.0 153.3,438.6 162.0,436.8 170.7,434.8 179.3,432.5 188.0,429.9 196.7,427.0 205.3,423.9 214.0,420.4 222.7,416.8 231.3,412.8 240.0,408.7 248.7,404.3 257.3,399.7 266.0,394.9 274.7,389.9 283.3,384.8 292.0,379.4 300.7,374.0 309.3,368.4 318.0,362.7 326.7,356.9 335.3,351.0 344.0,345.1 352.7,339.1 361.3,333.0 370.0,327.0 378.7,321.0 387.3,314.9 396.0,308.9 404.7,303.0 413.3,297.1 422.0,291.3 430.7,285.6 439.3,280.0 448.0,274.6 456.7,269.2 465.3,264.1 474.0,259.1 482.7,254.3 491.3,249.7 500.0,245.3 508.7,241.2 517.3,237.2 526.0,233.6 534.7,230.1 543.3,227.0 552.0,224.1 560.7,221.5 569.3,219.2 578.0,217.2 586.7,215.4 595.3,214.0 604.0,212.9 612.7,212.1 621.3,211.7 630.0,211.5" fill="none" stroke="#102a43" stroke-width="3"/>
+<text x="118" y="464" font-size="15" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">LW 0.5 m</text>
+<text x="624" y="176" font-size="15" text-anchor="end" fill="#102a43" font-weight="bold" font-family="Liberation Sans">HW 4.7 m</text>
+<text x="46" y="466" font-size="15" text-anchor="start" fill="#1f2933" font-family="Liberation Sans"></text>
+<rect x="40" y="512" width="640" height="166" rx="12" fill="#e6f4f1"/>
+<text x="60" y="544" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Example: height of tide at 12:00</text>
+<text x="60" y="576" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Range = 4.7 − 0.5 = 4.2 m</text>
+<text x="60" y="600" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">2 hours after low water: 1 + 2 = 3 twelfths</text>
+<text x="60" y="624" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Rise = 4.2 × 3/12 = 1.05 m</text>
+<text x="60" y="648" font-size="16" text-anchor="start" fill="#102a43" font-family="Liberation Sans">Height = 0.5 + 1.05 = 1.55 m</text>
+<text x="360" y="700" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

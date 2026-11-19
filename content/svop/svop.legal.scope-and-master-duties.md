@@ -20,7 +20,7 @@ figures:
   - id: svop-who-needs-svop
     caption: "Who and where the SVOP covers"
     alt: "Two boats: a small commercial vessel up to 5 gross tonnage, with tugs excluded, and a fishing vessel up to 15 gross tonnage or not more than 12 metres long. A coastline shows the two voyage areas, sheltered waters and near coastal Class 2, day or night and in restricted visibility. The operator must be at least 18. A note says to check current limits with Transport Canada."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, mpr-sor-2007-115]
 review_status: needs_expert_review
 ---
 

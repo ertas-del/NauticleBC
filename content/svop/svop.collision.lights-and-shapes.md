@@ -22,11 +22,11 @@ figures:
     alt: "Top view of a power-driven vessel with coloured wedges for each light. Masthead light, white, 225 degrees from right ahead to 22.5 degrees abaft the beam on each side. Starboard sidelight, green, 112.5 degrees on the starboard side. Port sidelight, red, 112.5 degrees on the port side. Stern light, white, 135 degrees centred on right astern."
   - id: svop-night-lights
     caption: "What you see at night"
-    alt: "Six night views: a small power-driven vessel from ahead, a larger power-driven vessel from her starboard side, a vessel at anchor with one all-round white light, a trawler with green over white, a vessel not under command with red over red, and a vessel restricted in her ability to manoeuvre with red, white, red."
+    alt: "Seven night views: a small power-driven vessel from ahead with an all-round white light over green and red sidelights, a larger power-driven vessel from her starboard side, a vessel at anchor with one all-round white light, a trawler with green over white, a vessel fishing in other ways with red over white, a vessel not under command with red over red, and a vessel restricted in her ability to manoeuvre with red, white, red. A note sums up the two fishing patterns."
   - id: svop-day-shapes
     caption: "Day shapes"
     alt: "Black shapes hung in a vertical line: one ball for at anchor, two balls for not under command, ball diamond ball for restricted in ability to manoeuvre, three balls for aground, two cones with points together for fishing, and one cone point down for a sailing vessel also under engine."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, colregs-canada]
 review_status: needs_expert_review
 ---
 

@@ -18,7 +18,7 @@ key_facts:
   - "Going down from True to Compass: East is subtracted, West is added."
   - "Going up from Compass to True: do the opposite. Compass Add East gives True (CADET)."
   - "Compass error = True \u2212 Compass. Variation + Deviation gives the same total, with East as plus and West as minus."
-source_ids: [tp14692, tp2293-2016]
+source_ids: [tp14692]
 review_status: needs_expert_review
 ---
 

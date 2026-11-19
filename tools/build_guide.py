@@ -91,7 +91,7 @@ def arrange(lessons: list[dict], parts_cfg: list[dict]) -> list[dict]:
 
 # ---------- lesson body ----------
 
-def body_html(lesson: dict, figure_list: list[str]) -> str:
+def body_html(lesson: dict, figure_list: list[str], pages: dict[str, int]) -> str:
     body = lesson["body"]
     # One disclaimer for the whole guide, not one per lesson.
     body = re.sub(r"\n---\s*\n\s*\*Study aid.*$", "\n", body, flags=re.S)
@@ -105,11 +105,23 @@ def body_html(lesson: dict, figure_list: list[str]) -> str:
         png = FIGURES / f"{fid}.png"
         if not png.exists():
             return ""
+        cap = html.escape(f.get("caption", ""))
+        if fid in figure_list:
+            # Shown earlier in this guide: point back to it instead of printing it again.
+            n = figure_list.index(fid) + 1
+            page = pages.get(f"fig-{fid}")
+            where = f" on page {page}" if page else " earlier in this guide"
+            return f'\n\n<p class="see-fig">See Picture {n}, <em>{cap}</em>,{where}.</p>\n\n'
         figure_list.append(fid)
         n = len(figure_list)
-        cap = html.escape(f.get("caption", ""))
         alt = html.escape(f.get("alt", cap), quote=True)
-        return f'\n\n<figure><img src="{png.as_uri()}" alt="{alt}"><figcaption>Picture {n}. {cap}</figcaption></figure>\n\n'
+        # A tall picture gets more of the page, or its labels would print too small to read.
+        from PIL import Image
+        with Image.open(png) as im:
+            tall = im.height > 1.3 * im.width
+        cls = ' class="tall"' if tall else ""
+        return (f'\n\n<figure{cls}>{mark("fig-" + fid)}<img src="{png.as_uri()}" alt="{alt}">'
+                f'<figcaption>Picture {n}. {cap}</figcaption></figure>\n\n')
 
     body = re.sub(r"^\{\{figure:([a-z0-9-]+)\}\}\s*$", figure, body, flags=re.M)
     body = re.sub(r"==(.+?)==", r"<mark>\1</mark>", body)
@@ -117,6 +129,8 @@ def body_html(lesson: dict, figure_list: list[str]) -> str:
     # Boxes around the worked example and the mistakes, so the eye can find them.
     out = wrap_section(out, "A BC example", "callout")
     out = wrap_section(out, "Common mistakes", "callout mistakes")
+    # Keep the short self-check together so one question never spills onto a page by itself.
+    out = wrap_section(out, "Check yourself", "check")
     return out
 
 
@@ -172,7 +186,7 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
     h.append('<section>')
     h.append(f'<div class="kicker">{esc(ticket_name)} study guide</div><h1>How to use this guide</h1>')
     h.append(
-        f'<p class="lead">This guide takes the {esc(ticket_name)} course one topic at a time: '
+        f'<p class="lead">This guide follows the {esc(ticket_name)} topics, one at a time: '
         f'{lesson_count} lessons in {len(parts)} parts, with pictures, the facts most likely to be asked, '
         f'and {q_count} practice questions with answers.</p>'
     )
@@ -225,7 +239,7 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
             box = "".join(f"<li>{esc(f)}</li>" for f in facts)
             if facts and len(facts) <= SHORT_FOCUS:
                 h.append(f'<div class="exam-focus"><h3>Exam focus: learn these</h3><ul>{box}</ul></div>')
-            h.append(body_html(lesson, figures))
+            h.append(body_html(lesson, figures, pages))
             if len(facts) > SHORT_FOCUS:
                 h.append(f'<div class="exam-focus"><h3>Exam focus: check you know these</h3><ul>{box}</ul></div>')
             h.append("</section>")
@@ -272,10 +286,18 @@ def build_html(cfg: dict, parts: list[dict], questions: dict[str, list[dict]], s
     h.append(f'<section class="page" id="sources">{mark("sources")}<h1>Sources</h1>')
     h.append("<p>The lessons are written in our own words from these publications. "
              "Read the originals for the full rules.</p><ul>")
+    shown: set[str] = set()
     for sid in used:
         s = sources.get(sid, {"title": sid})
-        pub = f' ({esc(s["publisher"])})' if s.get("publisher") else ""
-        h.append(f"<li>{esc(s['title'])}{pub}</li>")
+        # Readers need the publication, not our note on which sections or which file format we read.
+        title = re.sub(r"\s*\((?:consolidated|Justice Laws|copy of)[^)]*\)", "", s["title"])
+        title = re.sub(r"\s*:\s*(?:ss?\.|Part|Rules?|stability|whole|general).*$", "", title).strip()
+        if title.lower() in shown:
+            continue
+        shown.add(title.lower())
+        publisher = re.sub(r"\s*\([^)]*\)", "", (s.get("publisher") or "").split(";")[0]).strip()
+        pub = f" ({esc(publisher)})" if publisher else ""
+        h.append(f"<li>{esc(title)}{pub}</li>")
     h.append("</ul>")
     h.append('<div class="note">Made with NauticleBC, a study app for BC marine tickets. '
              'Pictures are study drawings, not to scale and not for navigation.</div></section>')

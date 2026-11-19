@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 640" width="720" height="640" role="img">
+<title>Distance, speed, time</title>
+<defs>
+<filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#102a43" flood-opacity="0.10"/></filter>
+<linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf8f3"/><stop offset="1" stop-color="#e7eef3"/></linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d4eef7"/><stop offset="1" stop-color="#a9d8ea"/></linearGradient>
+<marker id="ah" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#0f766e"/></marker>
+<marker id="ahn" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#102a43"/></marker>
+<marker id="ahr" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/></marker>
+<marker id="aho" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/></marker>
+<marker id="ahg" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#52606d"/></marker>
+<marker id="ahb" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2563eb"/></marker>
+</defs>
+<rect width="720" height="640" fill="url(#paper)"/>
+<rect x="0" y="0" width="10" height="640" fill="#0f766e"/>
+<text x="40" y="52" font-size="32" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">Distance, speed, time</text>
+<text x="40" y="82" font-size="18" text-anchor="start" fill="#627d98" font-family="Liberation Sans">Cover the one you want. The other two show you the sum.</text>
+<line x1="40" y1="100" x2="680" y2="100" stroke="#d9e2ec" stroke-width="1.5"/>
+<polygon points="210,124 60,384 360,384" fill="#ffffff" stroke="#102a43" stroke-width="3" filter="url(#s)"/>
+<line x1="135" y1="254" x2="285" y2="254" stroke="#102a43" stroke-width="2.5"/>
+<line x1="210" y1="254" x2="210" y2="384" stroke="#102a43" stroke-width="2.5"/>
+<text x="210" y="228" font-size="48" text-anchor="middle" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">D</text>
+<text x="150" y="342" font-size="44" text-anchor="middle" fill="#2563eb" font-weight="bold" font-family="Liberation Sans">S</text>
+<text x="270" y="342" font-size="44" text-anchor="middle" fill="#d97706" font-weight="bold" font-family="Liberation Sans">T</text>
+<text x="210" y="412" font-size="16" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">D on top, S × T underneath</text>
+<rect x="400" y="124" width="280" height="76" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="400" y="124" width="8" height="76" rx="4" fill="#0f766e"/>
+<text x="424" y="158" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">D = S × T</text>
+<text x="424" y="184" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">distance in nautical miles</text>
+<rect x="400" y="216" width="280" height="76" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="400" y="216" width="8" height="76" rx="4" fill="#2563eb"/>
+<text x="424" y="250" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">S = D ÷ T</text>
+<text x="424" y="276" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">speed in knots</text>
+<rect x="400" y="308" width="280" height="76" rx="12" fill="#ffffff" filter="url(#s)"/>
+<rect x="400" y="308" width="8" height="76" rx="4" fill="#d97706"/>
+<text x="424" y="342" font-size="24" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">T = D ÷ S</text>
+<text x="424" y="368" font-size="15" text-anchor="start" fill="#627d98" font-family="Liberation Sans">time in hours</text>
+<rect x="40" y="440" width="640" height="140" rx="12" fill="#e6f4f1"/>
+<text x="60" y="472" font-size="18" text-anchor="start" fill="#0f766e" font-weight="bold" font-family="Liberation Sans">Example: 18 NM at 7.2 knots. How long?</text>
+<text x="60" y="504" font-size="18" text-anchor="start" fill="#102a43" font-weight="bold" font-family="Liberation Sans">T = D ÷ S = 18 ÷ 7.2 = 2.5 hours = 2 h 30 min</text>
+<text x="60" y="536" font-size="16" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">Minutes to hours: divide by 60.  90 min = 1.5 h.</text>
+<text x="60" y="562" font-size="16" text-anchor="start" fill="#1f2933" font-family="Liberation Sans">Quick check at 10 knots: 1 NM every 6 minutes.</text>
+<text x="360" y="616" font-size="14" text-anchor="middle" fill="#627d98" font-family="Liberation Sans">Study drawing. Not for navigation.</text>
+</svg>

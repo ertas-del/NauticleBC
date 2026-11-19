@@ -20,7 +20,7 @@ figures:
   - id: svop-lifesaving-gear
     caption: "Lifejackets, suits, extinguishers and flares"
     alt: "A lifejacket turns an unconscious person face up; a PFD has less buoyancy and counts only if worn and approved. An immersion suit is for abandoning ship and an anti-exposure work suit is worn while working. Four distress flares: Type A rocket parachute, Type B multi-star, Type C hand flare, all red, and Type D orange smoke for daytime only."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, bw-svr-sor-2010-91]
 review_status: needs_expert_review
 ---
 

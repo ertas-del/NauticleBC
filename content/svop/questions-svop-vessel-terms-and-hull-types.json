@@ -38,7 +38,7 @@
         "Bow"
       ],
       "correct_index": 3,
-      "explanation": "The stern is the back.",
+      "explanation": "The bow is the front of a vessel. The stern is the back.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -170,7 +170,7 @@
         "Windward side"
       ],
       "correct_index": 3,
-      "explanation": "The lee side is the sheltered side.",
+      "explanation": "The windward side is the side the wind blows from. The lee side is the sheltered side.",
       "source_ids": [
         "tp14692",
         "tc-svop"

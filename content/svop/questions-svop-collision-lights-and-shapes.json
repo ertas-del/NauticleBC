@@ -82,7 +82,7 @@
         "A flashing yellow light"
       ],
       "correct_index": 1,
-      "explanation": "By day, a black ball.",
+      "explanation": "A vessel at anchor shows an all-round white light where it can best be seen. By day she shows one black ball.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -104,7 +104,7 @@
         "Diver down, keep well clear"
       ],
       "correct_index": 3,
-      "explanation": "Blue and white swallowtail flag.",
+      "explanation": "Flag Alpha, a blue and white swallowtail, means I have a diver down: keep well clear at slow speed.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -170,7 +170,7 @@
         "A power-driven vessel"
       ],
       "correct_index": 3,
-      "explanation": "Show a black cone point down by day.",
+      "explanation": "A sailing vessel using her engine counts as a power-driven vessel, even with sails up. By day she shows a black cone point down.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -214,7 +214,7 @@
         "Port side"
       ],
       "correct_index": 1,
-      "explanation": "The stern light is white.",
+      "explanation": "A single white light low down with no sidelights is the stern light. You are looking at her stern.",
       "source_ids": [
         "tp14692",
         "tc-svop"
@@ -236,7 +236,7 @@
         "Green over white all-round lights"
       ],
       "correct_index": 3,
-      "explanation": "Other fishing shows red over white.",
+      "explanation": "A trawler shows green over white all-round lights, plus sidelights and a stern light when making way. Red over white is for other fishing.",
       "source_ids": [
         "tp14692",
         "tc-svop"

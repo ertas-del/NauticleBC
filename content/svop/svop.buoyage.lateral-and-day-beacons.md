@@ -20,7 +20,7 @@ figures:
   - id: svop-lateral-buoys
     caption: "Red right returning"
     alt: "A channel seen from above, with an arrow from the open sea toward the harbour. Going in, green can-shaped port-hand buoys with odd numbers and green lights are on the left, and red cone-shaped starboard-hand buoys with even numbers and red lights are on the right."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sixty-ccg-atons-2023]
 review_status: needs_expert_review
 ---
 

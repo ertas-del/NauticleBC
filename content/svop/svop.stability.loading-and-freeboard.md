@@ -21,7 +21,7 @@ figures:
   - id: svop-stability-gm
     caption: "G, B, M and the righting arm"
     alt: "Cross-section of a boat heeled over. G, the centre of gravity, is on the centreline. B, the centre of buoyancy, has moved toward the low side. Weight acts down through G and buoyancy up through B, and the distance between them, GZ, is the righting arm that brings the boat back up. M, the metacentre, is above G. A second view shows that raising weight moves G up toward M and shortens the righting arm."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sixty-tc-stability-training, sixty-fao-ftp517-stability]
 review_status: needs_expert_review
 ---
 

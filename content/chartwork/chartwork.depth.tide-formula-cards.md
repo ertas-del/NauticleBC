@@ -18,7 +18,14 @@ key_facts:
   - "Under-keel clearance = depth \u2212 draught."
   - "Rule of twelfths for each hour of a six-hour tide: 1, 2, 3, 3, 2, 1 twelfths of the range."
   - "Water over a drying rock = height of tide \u2212 drying height."
-source_ids: [tp14692, tp2293-2016]
+figures:
+  - id: svop-chart-datum
+    caption: "Chart datum, charted depth and height of tide"
+    alt: "Side view of the sea bed. Charted depth is measured down from chart datum. A rock that uncovers has a drying height measured up from chart datum. Height of tide is measured up from chart datum to the water level. Depth of water is charted depth plus height of tide. A boat shows its draught and the clearance under its keel."
+  - id: chartwork-rule-of-twelfths
+    caption: "Rule of twelfths: how a six-hour tide rises"
+    alt: "A tide curve from low water 0.5 metres at 10:00 to high water 4.7 metres at 16:00. Bars show the rise in each hour: 1, 2, 3, 3, 2 and 1 twelfths of the range. Worked example: the range is 4.2 metres, two hours after low water the tide has risen 3 twelfths, 1.05 metres, so the height is 1.55 metres."
+source_ids: [tp14692, chs-tides-portal]
 review_status: needs_expert_review
 ---
 
@@ -37,17 +44,7 @@ This lesson is built to be easy to read. One card at a time. Say each sum out lo
 - **Under-keel clearance**: water between your keel and the bottom.
 - **Drying height**: the height of a rock above chart datum. It shows on the chart as an underlined number.
 
-Picture:
-
-```
-         water surface (tide above datum)
-  --------------------------------------  height of tide
-  chart datum (line of charted depth) -----
-                 |
-         charted depth (sounding)
-                 |
-              seabed
-```
+{{figure:svop-chart-datum}}
 
 ---
 
@@ -86,6 +83,8 @@ Answer: ==4.1 m under the keel.== Always keep a margin.
 ---
 
 ## Card 3: Height of tide by the rule of twelfths
+
+{{figure:chartwork-rule-of-twelfths}}
 
 Use this when the tide is between high and low water.
 

@@ -21,7 +21,7 @@ figures:
   - id: svop-latitude-longitude
     caption: "Plotting a position from the chart scales"
     alt: "A chart section with latitude scales on the left and right edges and longitude scales on the top and bottom edges. A marked position has dashed lines running across to the side scale, reading 48 degrees 14.5 minutes north, and down to the bottom scale, reading 123 degrees 27.0 minutes west. The position is written latitude first. A note says one minute of latitude equals one nautical mile, so measure distance on the side scale, never the longitude scale."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sixty-chs-chart1]
 review_status: needs_expert_review
 ---
 

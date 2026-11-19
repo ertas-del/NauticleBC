@@ -21,7 +21,7 @@ figures:
   - id: svop-mayday-card
     caption: "Mayday card: what to say"
     alt: "A numbered card to read aloud on VHF channel 16, after pressing the DSC distress button if fitted: Mayday three times, this is the boat's name three times and call sign, Mayday and the boat's name, position, what is wrong, help needed, number of people on board, other useful information, then over, and listen."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, bw-ccg-ramn-2026-general]
 review_status: needs_expert_review
 ---
 

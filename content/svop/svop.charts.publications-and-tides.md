@@ -20,7 +20,7 @@ figures:
   - id: svop-chart-datum
     caption: "Chart datum, charted depth and height of tide"
     alt: "Side view of the sea bed. Charted depth is measured down from chart datum. A rock that uncovers has a drying height measured up from chart datum. Height of tide is measured up from chart datum to the water level. Depth of water is charted depth plus height of tide. A boat shows its draught and the clearance under its keel."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, chs-tides-portal, chs-pac200-sailing-directions]
 review_status: needs_expert_review
 ---
 

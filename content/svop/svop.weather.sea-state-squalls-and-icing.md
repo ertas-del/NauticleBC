@@ -21,7 +21,7 @@ figures:
   - id: svop-wind-against-tide
     caption: "Wind against current makes steep, breaking seas"
     alt: "Two scenes side by side. On the left, the wind and the current both flow the same way, and the waves are long and low with a boat sitting level. On the right, the wind blows against the current, and the waves are short, steep and breaking with a boat pitching. A note says to cross when wind and current go the same way."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, rmet-eccc-guide-forecasts]
 review_status: needs_expert_review
 ---
 

@@ -126,7 +126,7 @@
         "Sunburn"
       ],
       "correct_index": 0,
-      "explanation": "Gasping and panic.",
+      "explanation": "Cold shock hits in the first minute: gasping and panic. Control your breathing and keep your face out of the water.",
       "source_ids": [
         "tp14692",
         "tc-svop"

@@ -16,7 +16,11 @@ key_facts:
   - "The Canada Shipping Act, 2001 is the main federal law for shipping and boating in Canada. Regulations under it set detailed rules."
   - "Small commercial vessels follow the Small Vessel Regulations. Fishing vessels follow the Fishing Vessel Safety Regulations."
   - "Marine mammals and national parks have protection rules that restrict how close you can go and how fast."
-source_ids: [tp14692, tc-svop]
+figures:
+  - id: svop-csa-regulations
+    caption: "The Canada Shipping Act, 2001 and its regulations"
+    alt: "The Canada Shipping Act, 2001 at the top, with six regulations under it: the Small Vessel Regulations for equipment, inspection and operation; the Fishing Vessel Safety Regulations; the Marine Personnel Regulations for certificates, crew and training; the Collision Regulations for the rules of the road; the Vessel Pollution and Dangerous Chemicals Regulations; and the accident reporting regulations. Which apply depends on the vessel's size, type and use."
+source_ids: [tp14692, tc-svop, bw-svr-sor-2010-91, sixty-fvsr-crc-1486-xml, mpr-sor-2007-115, colregs-canada, bw-vpdcr-sor-2012-69, pcoc-c-mmr-xml]
 review_status: needs_expert_review
 ---
 
@@ -25,6 +29,8 @@ review_status: needs_expert_review
 The Canada Shipping Act, 2001 (CSA 2001) is Canada's main shipping law. It covers safety, certificates, pollution, accident reporting and more. It sets the rules, and regulations explain the details.
 
 ## Main regulations for small vessels
+
+{{figure:svop-csa-regulations}}
 
 - ==Small Vessel Regulations==: safety rules for small vessels, including equipment, inspection and operation for small commercial vessels.
 - ==Fishing Vessel Safety Regulations==: safety rules for fishing vessels.

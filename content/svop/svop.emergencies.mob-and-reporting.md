@@ -20,7 +20,7 @@ figures:
   - id: svop-mob-recovery
     caption: "Man overboard: first actions and the approach"
     alt: "Six numbered cards: shout man overboard, point and keep watching, throw a lifebuoy, mark the position with the GPS MOB button, slow down and turn back, and call Mayday or Pan-Pan on the radio. One drawing shows the wheel turned toward the side the person fell from so the stern swings away. Another shows the boat coming in slowly into the wind with the person upwind, drifting away from them, in neutral when close."
-source_ids: [tp14692, tc-svop]
+source_ids: [tp14692, tc-svop, sea-c-csbc-1-10-1]
 review_status: needs_expert_review
 ---
 

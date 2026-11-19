@@ -17,7 +17,11 @@ key_facts:
   - "Run the bilge blower for at least four minutes before starting an inboard gasoline engine."
   - "Fuel rule of thirds: one third out, one third back, one third reserve."
   - "Leave a trip plan with a responsible person ashore."
-source_ids: [tp14692, tc-svop]
+figures:
+  - id: svop-trip-plan
+    caption: "Rule of thirds and a trip plan"
+    alt: "A fuel bar split into thirds: one third out, one third back, one third reserve. A trip plan card lists the vessel, the people on board, the route, the expected return time and a contact ashore who raises the alarm. Three steps: leave the plan, go, and tell your contact when you are back. A note says to run the blower at least 4 minutes on a gasoline inboard."
+source_ids: [tp14692, tc-svop, pcoc-a-tp511-2026]
 review_status: needs_expert_review
 ---
 
@@ -30,6 +34,8 @@ Most problems at sea start with something missed at the dock. Good preparation m
 Gasoline vapour is heavier than air and collects in the bilge. Before starting an inboard gasoline engine, ==run the bilge blower for at least four minutes== and check by smell that no vapour is present. Diesel engines are safer but ventilation is still good practice.
 
 ## Plan the fuel
+
+{{figure:svop-trip-plan}}
 
 - Work out your ==route and distance==.
 - Work out your ==fuel use== at your cruising speed (litres per hour or per nautical mile).

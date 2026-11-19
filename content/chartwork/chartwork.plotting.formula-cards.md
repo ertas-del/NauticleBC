@@ -18,7 +18,11 @@ key_facts:
   - "One minute of latitude is one nautical mile."
   - "Distance = Speed \u00d7 Time. Time = Distance \u00f7 Speed. Speed = Distance \u00f7 Time."
   - "A DR position is plotted from your last fix using course, speed and time."
-source_ids: [tp14692, tp2293-2016]
+figures:
+  - id: chartwork-dst-triangle
+    caption: "The distance, speed, time triangle"
+    alt: "A triangle with D on top and S and T underneath. Cover the letter you want: D equals S times T, S equals D divided by T, and T equals D divided by S, with distance in nautical miles, speed in knots and time in hours. Worked example: 18 nautical miles at 7.2 knots takes 2.5 hours, which is 2 hours 30 minutes."
+source_ids: [tp14692, sixty-chs-chart1]
 review_status: needs_expert_review
 ---
 
@@ -78,6 +82,8 @@ For long distances, step the dividers along in smaller bites.
 ---
 
 ## Card 4: Distance, speed, time
+
+{{figure:chartwork-dst-triangle}}
 
 Three forms. One triangle.
 
