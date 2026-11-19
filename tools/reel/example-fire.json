@@ -1,0 +1,16 @@
+{
+  "video": "CLIP.mp4",
+  "start": 0,
+  "loop_seconds": 1.8,
+  "brand": "NAUTICLEBC",
+  "disclaimer": "Study aid. Follow your vessel's fire plan and training.",
+  "cards": [
+    {"kind": "tag", "label": "FIRE AT SEA", "title": "Would your crew know what to do?", "seconds": 3},
+    {"kind": "big", "title": "Alarm. Contain.\nFight. Watch.", "body": "The MED / STCW way.", "seconds": 3},
+    {"kind": "step", "label": "ALARM", "color": "#dc2626", "title": "Raise the alarm first.", "body": "Shout \"FIRE!\" Tell the skipper where it is and what is burning.", "seconds": 4},
+    {"kind": "step", "label": "CONTAIN", "color": "#f97316", "title": "Close it up.", "body": "Doors, hatches and vent fans. Fuel and power off.", "seconds": 4},
+    {"kind": "step", "label": "FIGHT", "color": "#ca8a04", "title": "Right extinguisher, at the base.", "body": "Squeeze and sweep. Stay low, exit behind you.", "seconds": 4},
+    {"kind": "step", "label": "WATCH", "color": "#0f766e", "title": "Out is not over.", "body": "Keep a fire watch. Fires re-ignite.", "seconds": 4},
+    {"kind": "end", "title": "Save this.\nShare it with your crew.", "body": "Free Fire on Board card:\nlink in bio", "seconds": 5}
+  ]
+}
